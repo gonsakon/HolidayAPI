@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914283",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:29:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "光華一路(林泉街與四維路中間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914282",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:26:42",
@@ -48,23 +65,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 03:26:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914279",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/14 下午 03:23:43",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "高碼一路",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
