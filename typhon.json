@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160914286",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:32:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "世運大道399號(國家體育訓練中心)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處內兩棟體育館後方，有使用機具致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914285",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 03:31:19",
@@ -1327,20 +1344,20 @@
   },
   {
     "FileNo_": "INS160914206",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 01:59:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "高雄市橋頭區橋新二路888號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "橋新二路888號社區全部沒電",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 12:39 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復。，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:11:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 03:31:48"
   },
   {
     "FileNo_": "INS160914204",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 09:51:27",
     "Close_Date_": "2016/9/13 下午 12:12:24"
-  },
-  {
-    "FileNo_": "INS160912309",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/12 下午 09:47:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "鹽埕巷18號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號:中里高分59)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 09:49:08",
-    "Close_Date_": ""
   }
 ]
