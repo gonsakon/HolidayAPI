@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914306",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 04:00:25",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路1747巷小康成家大樓",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電中",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 04:05:25",
     "Close_Date_": ""
   },
   {
