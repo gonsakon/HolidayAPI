@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160914137",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 12:40:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "左楠路(煉油廠旁，往南)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處機車道上有路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914136",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 12:38:40",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS160914116",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 12:18:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松信路(高餐南側門)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處路樹傾倒壓到電線，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 02:12:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912163",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 01:59:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路與民族一路口，於民族派出所前",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一雙向的號誌燈箱已從中間裂開，惟恐掉落，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 02:08:20",
     "Close_Date_": ""
   }
 ]
