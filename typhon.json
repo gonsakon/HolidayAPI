@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914104",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 上午 11:58:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "北汕二路靠近中芸派出所",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914103",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:55:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 12:13:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912132",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 12:07:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "山東街168號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋旁破損凹陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 12:12:52",
     "Close_Date_": ""
   }
 ]
