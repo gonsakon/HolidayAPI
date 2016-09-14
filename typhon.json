@@ -1327,20 +1327,20 @@
   },
   {
     "FileNo_": "INS160914406",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 05:38:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路與中山二路 交叉",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "三多中山(舊圓環)交叉，號誌燈閃爍。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/14 21:21 交通局 智慧運輸中心 張寬如小姐回報，上述號誌已修復；本案不需回電\r\n 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 05:50:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 09:21:08"
   },
   {
     "FileNo_": "INS160914405",
