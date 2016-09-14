@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914117",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 12:23:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914116",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 12:18:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 12:59:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912144",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 12:53:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "敦和街2巷8號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/12 13:23 養工處四維養護工程隊九如分隊梁連盛先生回報，該處已修復；並於9/13 \r\n19：46電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 12:57:43",
-    "Close_Date_": "2016/9/13 下午 07:48:20"
   }
 ]
