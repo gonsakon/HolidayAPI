@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914252",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 02:43:48",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光遠路70巷16號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前有兩條電線垂落路面，該區住戶現也停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914251",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 02:43:38",
@@ -239,19 +256,19 @@
   },
   {
     "FileNo_": "INS160914237",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 02:33:14",
-    "ReplyUnit_": "",
+    "ReplyUnit_": "E01003",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區鳳南一路218巷及246巷",
-    "UnitName_": "",
-    "StatusName_": "建立中",
-    "InformDesc_": "",
+    "UnitName_": "自來水公司",
+    "StatusName_": "待處理",
+    "InformDesc_": "停水",
     "BeforeDesc_": "全區停水",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:44:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 07:40:26",
     "Close_Date_": "2016/9/13 上午 11:38:33"
-  },
-  {
-    "FileNo_": "INS160912277",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 07:35:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和東路上與平誠街交叉口(燒烤攤)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處燒烤攤販營業中，燒烤油煙逸散致空氣污染，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/12  22：05 環保局環境稽查科南區股王富財先生回報，稽查人員於20：32到\r\n達，稽查時該處攤販營業中，現場無客人，人員於周界巡查未發現明顯燒烤油煙逸散致空氣污染情\r\n事，仍請業者注意防範，避免影響空氣品質。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 07:38:45",
-    "Close_Date_": "2016/9/13 上午 07:54:56"
   }
 ]
