@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914092",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 上午 11:36:30",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "久堂村中興街王爺巷(東隆宮旁)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電箱爆炸後導致電線有斷掉落垂，恐有危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914091",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 上午 11:35:12",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914090",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:32:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路220巷55號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處電箱爆炸，導致停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:36:36",
     "Close_Date_": ""
   },
   {
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS160914083",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:25:38",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
-    "address_": "水管路上(介於美山路到神農路間)",
+    "address_": "水管路上(介於大同路到神農路間)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該路段目前有停電情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:36:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 上午 11:35:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912121",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/12 上午 11:31:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲昌路上(甲圍國小附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 上午 11:33:10",
     "Close_Date_": ""
   }
 ]
