@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914490",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 09:41:16",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "高雄市路竹區建國路196巷62弄",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914489",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 09:35:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 03:47:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913172",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 03:42:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮州路與鎮東五街口(加水站旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一坑洞會積水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 03:44:39",
     "Close_Date_": ""
   }
 ]
