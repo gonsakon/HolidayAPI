@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160914426",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 06:21:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路(由明誠三路至中華陸橋，北上方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處分隔島沿線路樹倒至快、慢車道上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914425",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 06:20:31",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160914421",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:18:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中汕里北汕二路73巷12號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒路面且壓到電線，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 06:21:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 上午 11:47:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913108",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 上午 11:34:40",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "管仲南路與光華三路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處快慢車道之間有一大坑洞，經人員查看該處有雨水管及汙水管線，建請補竣。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 上午 11:40:45",
     "Close_Date_": ""
   }
 ]
