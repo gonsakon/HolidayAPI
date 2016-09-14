@@ -4778,20 +4778,20 @@
   },
   {
     "FileNo_": "INS160914239",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 02:34:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新光路與中山二路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈傾斜，恐有危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/14 17：58 交通局智慧運輸中心張張寬如小姐回報，因目前風雨較大無法立即處\r\n理，暫無傾倒之危險，後續會派車扶正，故改派非網：A-TB-2016-77404賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:35:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:35:48"
   },
   {
     "FileNo_": "INS160914238",
@@ -7175,20 +7175,20 @@
   },
   {
     "FileNo_": "INS160914093",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 11:36:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文龍東路(鳳松路與八德路間)(熱代園藝)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有兩棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/14 16:22鳳山養護工程隊劉緯捷小姐回報已處理完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:38:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:36:09"
   },
   {
     "FileNo_": "INS160914092",
@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS160914074",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 11:18:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "維武路(陸軍官校前)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處一路樹倒塌，影響交通，已派員警進行交管，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/14 16:22鳳山養護工程隊劉緯捷小姐回報已處理完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:19:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:36:27"
   },
   {
     "FileNo_": "INS160914073",
