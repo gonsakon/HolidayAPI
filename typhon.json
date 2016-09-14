@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS160914255",
+    "Status_": "5",
+    "Cre_Date_": "2016/9/14 下午 02:47:58",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路229巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "解除管制",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "鳳山區中山東路229巷停電中",
+    "AfterDesc_": "鳳山區停電已通報INS160914158 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 下午 02:48:19",
+    "Close_Date_": "2016/9/14 下午 02:48:34"
+  },
+  {
     "FileNo_": "INS160914254",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 02:44:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁勇西巷5號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路樹傾倒(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一棵路樹傾倒壓到電線導致火花，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:47:52",
     "Close_Date_": ""
   },
   {
@@ -375,19 +392,19 @@
   },
   {
     "FileNo_": "INS160914232",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 02:27:49",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營區明德新村3～6號，10～12之1號區塊",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "暴雨積水(一)",
     "BeforeDesc_": "邊溝淹水至馬路中央。多次反應排水系統設計不良，未見改善懇請督促改善。今適逢颱風再次淹水。?面街道卻無此問題。請市府國家能重視人民的居住安全。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:47:57",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 07:45:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912280",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 07:41:06",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "上寮路225號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處住家無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 07:47:12",
     "Close_Date_": ""
   }
 ]
