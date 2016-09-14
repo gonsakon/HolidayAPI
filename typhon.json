@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914281",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:25:14",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "國軒路127巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914280",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 03:24:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 09:33:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912305",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 09:26:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "通樹路與白樹路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處有一「通樹路」之路牌，其有搖搖欲墜情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 09:33:34",
     "Close_Date_": ""
   }
 ]
