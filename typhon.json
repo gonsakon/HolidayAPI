@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915015",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 02:15:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "站前北路26號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾到，影響住家車輛進出，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915014",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 02:04:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:24:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913207",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 05:17:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中山路二段211號(二層行橋；台南往高雄)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該機車道有一路面大坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:19:37",
     "Close_Date_": ""
   }
 ]
