@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160914454",
+    "FileNo_": "INS160914455",
     "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:10:19",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "民生街239號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "中午12點多停電到現在了，已經6-7小時",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160914454",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 07:09:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "大順三路205號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處一路樹傾倒於車道上，嚴重影響用路人行車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:10:24",
     "Close_Date_": ""
   },
   {
@@ -239,19 +256,19 @@
   },
   {
     "FileNo_": "INS160914440",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:50:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "建業街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電...從中午停到現在...麻煩可派人維修嗎",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:10:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 01:52:56",
     "Close_Date_": "2016/9/13 下午 05:08:05"
-  },
-  {
-    "FileNo_": "INS160913138",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/13 下午 01:48:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "河西路上(鹽埕國中與電影圖書館間)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處路面有三個車阻自花燈展覽後至今未復原，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/13 16:31養工處四維養護工程隊三民分隊趙廣慶先生回報，該處無危險性，車阻\r\n已遺失兩座，是否要新制要納入年度工程研議，故改派非網A-TB-2016-77099賡續辦理；本案不需電覆\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 01:52:50",
-    "Close_Date_": "2016/9/13 下午 05:09:41"
   }
 ]
