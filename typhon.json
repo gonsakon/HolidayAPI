@@ -596,19 +596,19 @@
   },
   {
     "FileNo_": "INS160914482",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 09:05:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "永新六街61巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "永新六街一帶從中午停電到現在",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 12:59:34",
     "Close_Date_": ""
   },
   {
@@ -664,20 +664,20 @@
   },
   {
     "FileNo_": "INS160914478",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 08:57:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "湖內區民族街267巷21號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電好就了有派人員維修嗎？",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案台電公司接獲民眾通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。台電公司\r\n 為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復局部區間\r\n 供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 12:54:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 12:59:17"
   },
   {
     "FileNo_": "INS160914477",
