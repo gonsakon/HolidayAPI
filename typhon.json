@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160914159",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/14 下午 12:59:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "國昌路71巷6弄口",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160914158",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 12:58:54",
@@ -443,20 +426,20 @@
   },
   {
     "FileNo_": "INS160914136",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 12:38:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "蚵寮",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電～",
-    "AfterDesc_": "",
+    "AfterDesc_": "梓官區停電已通報INS160914128 台電搶中。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:58:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 01:07:24"
   },
   {
     "FileNo_": "INS160914135",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 03:27:51",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160912187",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/12 下午 03:23:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "公園西路三段132號前(小林眼鏡)",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處機車道上有一路面坑洞，已插掃把警示，車流大請儘速修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/12 下午 03:26:28",
     "Close_Date_": ""
   }
 ]
