@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914457",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:14:32",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路與重信路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914456",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 07:11:40",
@@ -239,37 +256,37 @@
   },
   {
     "FileNo_": "INS160914442",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 06:54:36",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市高楠公路1711巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
-    "BeforeDesc_": "停電一下午了\n截至目前為止都沒有電可用",
-    "AfterDesc_": "",
+    "BeforeDesc_": "停電一下午了截至目前為止都沒有電可用",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 13:13 通報之停電資訊，現場搶修中，停電原因為開關故障，預計復電時間為 \r\n105/09/14 23:56 。本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，\r\n於搶修過程陸續恢復局部區間供電，並加速完成搶修至全面修復。",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:13:47",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS160914441",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 06:51:50",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市高楠公路1711巷",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電一下午了截至目前為止都沒有電可用",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 13:13 通報之停電資訊，現場搶修中，停電原因為開關故障，預計復電時間為 \r\n105/09/14 23:56 。本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，\r\n於搶修過程陸續恢復局部區間供電，並加速完成搶修至全面修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:12:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 07:14:33"
   },
   {
     "FileNo_": "INS160914440",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 02:41:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913137",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 01:50:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "富國路與裕誠路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路中央雨水箱涵淘空致路面凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 01:54:21",
     "Close_Date_": ""
   }
 ]
