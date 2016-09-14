@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914486",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 09:23:41",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山路勵志新城乙區",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "下午停電至現在尚未復電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914485",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 09:18:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 03:38:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913168",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 03:32:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大仁路584巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有路燈的電纜線垂落，建請查處。(陳情人要求聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 03:35:01",
     "Close_Date_": ""
   }
 ]
