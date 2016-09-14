@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915022",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 03:37:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "龍德路與大順一路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫類似化學及燒焦異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915021",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 03:32:35",
@@ -7906,20 +7923,20 @@
   },
   {
     "FileNo_": "INS160914050",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 10:52:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "民治路上，興達國小前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處安全島上一路燈搖晃嚴重，甚至出現傾斜，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/14 11:47養工處岡山養護工程隊陳首仁先生回報，惟因是螺絲鬆脫，已經鎖緊修\r\n復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 10:59:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:38:10"
   },
   {
     "FileNo_": "INS160914049",
@@ -7991,20 +8008,20 @@
   },
   {
     "FileNo_": "INS160914045",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 10:40:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路125號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址前安全島上有一路樹已傾倒路面，車輛影響通行，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/14 12:22鳳山養護工程隊林照裕先生回報已處理完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 10:47:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:38:24"
   },
   {
     "FileNo_": "INS160914044",
@@ -8025,20 +8042,20 @@
   },
   {
     "FileNo_": "INS160914043",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 10:36:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳東路232號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路旁有一狗屍,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/14 11：35 北鳳山區清潔隊鄭惠瑛小姐回報，該處查看犬隻是活的疑似有受傷狀\r\n況，已與里長說明，經查里長已自行通報：INS160914084。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 10:39:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:38:48"
   },
   {
     "FileNo_": "INS160914042",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:55:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913214",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 05:46:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁和里澄合街69號、76號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該兩址前路面各有一處坑洞，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:46:51",
     "Close_Date_": ""
   }
 ]
