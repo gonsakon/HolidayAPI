@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915025",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 05:23:43",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路87巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電已經約16個小時，也打電話至1911通報，但至今都尚未有任何進展，附近居民都有復電，但此街後半部居民都還陷入停電狀況，是否可以盡快加派處理！？辛苦您了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915024",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 04:21:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 06:14:09",
     "Close_Date_": "2016/9/15 上午 04:12:26"
-  },
-  {
-    "FileNo_": "INS160913217",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 06:03:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "自強三路上近新光路(排班計程車旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，導致陳情人摔車，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 06:07:46",
-    "Close_Date_": ""
   }
 ]
