@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914437",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 06:48:18",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高雄市左營區左營大路400-480號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "電線扯斷",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914436",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:43:32",
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS160914428",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:24:11",
     "ReplyUnit_": "E01005",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "高雄市鼓山區鼓山二路182巷9弄",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "已停電6小時以上，台電人員是否沒人來維修",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 06:48:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 12:46:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913120",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 12:32:43",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "白砂路276號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處倉庫有一隻貓被推車的鐵器困住，且小腿有受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 12:34:38",
     "Close_Date_": ""
   }
 ]
