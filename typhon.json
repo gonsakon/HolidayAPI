@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915045",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 07:38:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "精武路28巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "渠反映該處有一工程車(車號:985-BU)，停放怠速約半天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915044",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 07:32:04",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS160915038",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 上午 07:23:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路600巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處水溝因垃圾堵塞，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 07:05:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913237",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/13 下午 06:58:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "北汕里",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該里沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/13 21:09養工處鳳山養護工程隊林照裕先生回報，該處路燈已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 07:01:28",
-    "Close_Date_": "2016/9/15 上午 04:08:28"
   }
 ]
