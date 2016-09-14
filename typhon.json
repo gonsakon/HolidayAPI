@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914168",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:16:39",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "833台灣高雄市鳥松區華美路13號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "鳥松華美里中山路已停電，請風後派工維修，謝謝!",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 01:19:24",
     "Close_Date_": ""
   },
   {
