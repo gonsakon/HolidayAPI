@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160914460",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 07:19:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延慶街與平等路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈電線垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:21:50",
     "Close_Date_": ""
   },
   {
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS160914455",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 07:10:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "民生街239號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "中午12點多停電到現在了，已經6-7小時",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 15:07 通報之停電資訊，現場搶修中，停電原因為開關故障，預計復電時間為 \r\n105/09/14 23:59 。本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，\r\n於搶修過程陸續恢復局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:21:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 07:22:13"
   },
   {
     "FileNo_": "INS160914454",
