@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915034",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 07:08:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "凱旋三路121號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址前一棵路樹傾倒，已阻擋出入，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915033",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 06:49:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 06:39:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913226",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 06:36:40",
-    "ReplyUnit_": "F01013",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中正路466巷沿線",
-    "UnitName_": "旗山區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該六米以下巷道，沿線路面坑洞已致積水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 06:41:24",
     "Close_Date_": ""
   }
 ]
