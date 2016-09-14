@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160914211",
+    "FileNo_": "INS160914212",
     "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 02:09:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "大業北路上(空中大學門口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160914211",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 02:07:22",
     "ReplyUnit_": "E01005",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "永新南街1之1號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處整個社區於半小時前開始停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:09:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 05:38:53",
     "Close_Date_": "2016/9/13 下午 06:08:20"
-  },
-  {
-    "FileNo_": "INS160912236",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 05:35:48",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "自由路往三多一路上",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處公車站牌前，快車道上有一至兩個路面坑洞，為溝壁破損所致，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 05:46:40",
-    "Close_Date_": ""
   }
 ]
