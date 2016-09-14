@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914063",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/14 上午 11:07:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "誠義路269號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該址前有一路樹傾倒，已影響住戶進出，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 上午 11:09:17",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914062",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:06:57",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914061",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:06:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "捷運南岡山站2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈有歪斜情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:08:38",
     "Close_Date_": ""
   },
   {
@@ -715,19 +732,19 @@
   },
   {
     "FileNo_": "INS160914020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 08:47:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "海洋二路102巷內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有住家目前燃燒大量金紙造成空污,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:11:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 上午 10:53:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912092",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 上午 10:46:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "興華街62號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址旁空地目前有燃燒雜草冒煙致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 上午 10:48:34",
     "Close_Date_": ""
   }
 ]
