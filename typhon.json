@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915008",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 01:05:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "清豐路718號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915007",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 12:55:07",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS160915004",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 上午 12:30:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "愛國路87巷29號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "高雄市三民區愛國路87巷後半部居家電都還沒修復，已經從下午一點多到現在凌晨了，請問何時才會復電？已經通報過但尚未有進展。",
     "AfterDesc_": "",
@@ -545,19 +562,19 @@
   },
   {
     "FileNo_": "INS160914485",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 09:18:03",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "820台灣高雄市岡山區岡燕路111號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "岡山區劉厝里停電中",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 01:04:53",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:13:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913200",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 04:59:49",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "忠孝一路186號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋下陷致積水情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:06:42",
     "Close_Date_": ""
   }
 ]
