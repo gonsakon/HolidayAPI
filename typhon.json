@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160914102",
+    "FileNo_": "INS160914103",
     "Status_": "1",
+    "Cre_Date_": "2016/9/14 上午 11:55:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳南路227號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處安全島有一路樹折斷，並砸到陳情人住家及影響交通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160914102",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:50:59",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路708號(近凱旋路橋)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:54:47",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 12:12:52",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912131",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 12:00:50",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永福街51號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址後汙水管阻塞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/12 15：45 水利局污水營運科鄭婷云小姐回報，該處已修復完畢；並於\r\n9/13 11：52電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 12:05:25",
-    "Close_Date_": "2016/9/13 上午 11:52:40"
   }
 ]
