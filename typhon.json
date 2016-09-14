@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914273",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:13:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "山頂路上(近山頂國小)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處路面/路燈/路樹，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914272",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 03:11:24",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 08:54:19",
     "Close_Date_": "2016/9/13 上午 07:45:20"
-  },
-  {
-    "FileNo_": "INS160912297",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 08:51:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加宏路191巷15弄30號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 08:53:06",
-    "Close_Date_": ""
   }
 ]
