@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:27:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "華山路200巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:30:28",
     "Close_Date_": ""
   },
   {
