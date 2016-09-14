@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915044",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 07:32:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加宏路與後昌路口(加宏路上，果貿店家旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該路段一排路樹傾倒壓到陳情人汽車(4037-NZ)與其他車輛，建請會同。(陳情人要求會同)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915043",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 07:29:06",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 07:01:28",
     "Close_Date_": "2016/9/15 上午 04:08:28"
-  },
-  {
-    "FileNo_": "INS160913236",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 06:56:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "河南路44號對面(五塊厝綠地公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內園燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 06:58:37",
-    "Close_Date_": ""
   }
 ]
