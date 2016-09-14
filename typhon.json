@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915019",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 02:58:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德信街20巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫燃燒電纜線惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915018",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 02:51:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:43:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913211",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 05:32:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路轉明潭路往高鐵方向，明潭路上靠近半屏山一側",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處排水溝內有被丟棄多包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:34:49",
     "Close_Date_": ""
   }
 ]
