@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914270",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:08:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄清路與澄照街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處路面/路燈/路樹，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914269",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:02:57",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914268",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:01:27",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路506號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處電線桿上電線吹斷，尚有一截於半空中搖晃，導致停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 03:08:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 09:03:11",
     "Close_Date_": "2016/9/13 下午 05:59:44"
-  },
-  {
-    "FileNo_": "INS160912294",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 08:39:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全一路36巷與自忠街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 08:40:54",
-    "Close_Date_": ""
   }
 ]
