@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914282",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/14 下午 03:26:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "濱海一路29號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈桿上電線垂落，現會影響車輛通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 下午 03:27:31",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914281",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 03:25:14",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914280",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:24:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊仔路440號至自由路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "此新莊仔路為重要路段，延路因風雨造成路樹傾倒，請拜託養護單位處理時，只需扶正固定即可，千萬別再像之前一樣，把樹木鋸斷，造成整個路段光禿一片，甚為難看，也不符合環保再生的原則。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 03:26:54",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 09:31:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912306",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/12 下午 09:27:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "白樹路與仕元路左邊巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有2盞路燈(編號:004035、004016)故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 09:33:48",
     "Close_Date_": ""
   }
 ]
