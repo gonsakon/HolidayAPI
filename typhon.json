@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914501",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 10:51:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中正三路與忠孝一路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處路段有一路樹倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914500",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 10:45:45",
@@ -47,7 +64,7 @@
     "BeforeDesc_": "渠反映該處道路上有許多路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 10:49:55",
+    "Save_Date_": "2016/9/14 下午 10:51:34",
     "Close_Date_": ""
   },
   {
@@ -64,7 +81,7 @@
     "BeforeDesc_": "渠反映該處道路上有許多路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 10:49:00",
+    "Save_Date_": "2016/9/14 下午 10:51:40",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 04:30:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913183",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 04:21:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "天祥一路與鼎中路口(鼎中路上，台灣大哥大前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一路燈底座開關蓋打開，擔心下雨後會漏電，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 04:23:36",
     "Close_Date_": ""
   }
 ]
