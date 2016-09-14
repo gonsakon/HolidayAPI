@@ -766,20 +766,20 @@
   },
   {
     "FileNo_": "INS160914328",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 04:24:37",
     "ReplyUnit_": "A02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高雄市小港區沿海一路182號（第一銀行）",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "位處第一銀行後方銀行自有停車場圍牆倒塌，鐵皮受損嚴重，已有影響無法通行車輛……",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/14 17:08通報災害應變中心",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 05:03:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 05:09:51"
   },
   {
     "FileNo_": "INS160914327",
