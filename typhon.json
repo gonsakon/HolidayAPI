@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160914463",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 07:31:32",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "后平路 210巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "從中午11時停電到現在感覺毫無進展\n網路上也無任何資訊能夠了解進度\n雖然人手不足 只想了解現今進度",
+    "BeforeDesc_": "從中午11時停電到現在感覺毫無進展網路上也無任何資訊能夠了解進度雖然人手不足 只想了解現今進度",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:34:01",
     "Close_Date_": ""
   },
   {
