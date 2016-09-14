@@ -2024,20 +2024,20 @@
   },
   {
     "FileNo_": "INS160914040",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 10:23:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高雄市小港區宏光街",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "剛剛跳電！目前這區域已停電中！",
-    "AfterDesc_": "",
+    "AfterDesc_": "小港區停電已通報INS160914038台電搶中。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 10:35:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 01:04:34"
   },
   {
     "FileNo_": "INS160914038",
