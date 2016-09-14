@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914470",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:44:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "緯一路348號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前路燈沿路皆不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914469",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 07:43:18",
@@ -18,37 +35,37 @@
   },
   {
     "FileNo_": "INS160914468",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 07:42:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
-    "address_": "進學路上(介於彌陀國小至南安國小之間)",
+    "address_": "進學路上(介於彌陀國小與南安國小之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路段多處有路樹傾倒情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:44:26",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS160914467",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 07:41:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "愛國路87巷29號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "三民區愛國路87巷已經停電已久，從下午一點多到下在，請加派處理。",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 13:21 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:43:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 07:44:20"
   },
   {
     "FileNo_": "INS160914466",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 02:41:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913152",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 02:36:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路109之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 02:40:42",
     "Close_Date_": ""
   }
 ]
