@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915041",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 07:27:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松信路(工廠附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處沿線有疑似工廠排放不明異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915040",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 07:26:36",
@@ -2585,14 +2602,14 @@
   },
   {
     "FileNo_": "INS160914397",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 05:32:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "天山路上(近衡陽街)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該路段有多棵路樹傾倒，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 06:55:11",
     "Close_Date_": "2016/9/15 上午 04:08:39"
-  },
-  {
-    "FileNo_": "INS160913233",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/13 下午 06:48:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "溪州里(溪州一路至溪州三路、鳳林路二段)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附近一帶路燈全不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/13 21:09養工處鳳山養護工程隊林照裕先生回報，該處路燈已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 06:49:05",
-    "Close_Date_": "2016/9/15 上午 04:09:56"
   }
 ]
