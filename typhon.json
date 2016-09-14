@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160915025",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 上午 05:23:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "愛國路87巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電已經約16個小時，也打電話至1911通報，但至今都尚未有任何進展，附近居民都有復電，但此街後半部居民都還陷入停電狀況，是否可以盡快加派處理！？辛苦您了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 05:34:28",
     "Close_Date_": ""
   },
   {
