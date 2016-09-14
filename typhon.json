@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160914456",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 07:11:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "埤頂街41號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:23:22",
     "Close_Date_": ""
   },
   {
