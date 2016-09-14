@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914246",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 02:39:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "營口路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914245",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 02:38:24",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914244",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 02:38:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "南屏路262號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:39:22",
     "Close_Date_": ""
   },
   {
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS160914209",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/14 下午 02:03:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "廣州三街369號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前有兩棵路樹連根拔起傾倒，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 07:29:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912271",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 07:27:08",
-    "ReplyUnit_": "F01008",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "深水里深中路12號",
-    "UnitName_": "燕巢區公所",
-    "StatusName_": "解除管制",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該址為5米下道路，後方因近日大雨造成山坡坍塌 ，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/12 19:55 通報燕巢區公所經建課金春富課長成功，惟其表示該處非道路係山坡\r\n坍塌，為水保問題屬水利局權責，非屬養工處及區公所權責，且已與陳情人聯繫說明，故將本案改派非網\r\nA-TB-2016-76744賡續辦理；並於9/13 12：50電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 07:42:54",
-    "Close_Date_": "2016/9/13 下午 12:51:40"
   }
 ]
