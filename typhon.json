@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914493",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 10:25:12",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松金街56號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "中午一點開始停電到現在已經22:25了，松金街周邊道路7點就有電，為何松金街到現在晚上22:25電還沒來？？？",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914492",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 09:53:53",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS160914484",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/14 下午 09:15:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松義街(高雄餐旅大學附近)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周界目前有飄散重油異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 03:51:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913175",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 03:47:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路2133巷4弄1號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址對面圍牆邊遭丟棄6至7包垃圾，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 03:49:38",
     "Close_Date_": ""
   }
 ]
