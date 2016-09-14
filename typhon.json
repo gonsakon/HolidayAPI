@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915002",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 12:06:33",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "國軒路127巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "可以快一點修好嗎",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915001",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 12:04:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 04:53:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913194",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 04:49:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺民路往西(國道一號橋下機車道)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人丟棄一包垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 04:51:00",
     "Close_Date_": ""
   }
 ]
