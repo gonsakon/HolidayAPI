@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS160915021",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 上午 03:32:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路與凱旋三路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有瀰漫燃燒塑膠異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局戴宏霖先生於09/15 04:34 回報：稽查人員於04:10到場，人員於該路口\r\n巡查未發現有明顯燃燒塑膠異味導致空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 03:33:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 04:35:03"
   },
   {
     "FileNo_": "INS160915020",
