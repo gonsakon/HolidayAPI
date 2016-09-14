@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160914180",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 01:26:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "中庄里",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "可以盡快強修謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914179",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 01:26:19",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160914178",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:26:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "翠華路與果峰街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 01:27:09",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160914176",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:25:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "自治街與自治街65巷",
+    "address_": "自治街與自治街65巷(自治公園)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一資源回收車內資源回收物遭吹散，建請查處。",
+    "BeforeDesc_": "渠反映該處有一資源回收車內資源回收物遭吹散至路面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 01:27:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 04:03:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912205",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 03:58:24",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正二路56巷旁，大眾銀行前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝壁破損致路面有一凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 04:03:28",
     "Close_Date_": ""
   }
 ]
