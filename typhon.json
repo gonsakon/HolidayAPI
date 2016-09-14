@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160914185",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:35:45",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "中正一路188號(近大樹橋)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電線掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 01:42:30",
     "Close_Date_": ""
   },
   {
