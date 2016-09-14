@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS160914154",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 12:55:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營區海富路與海景街之間的明德新村區域住宅停電。",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "2016/09/14 約12:15聽到變壓器爆炸二聲後停電，請派員搶救檢修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "左營區停電已通報INS160914122台電搶中。",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/9/14 下午 01:08:15",
+    "Close_Date_": "2016/9/14 下午 01:08:35"
   },
   {
     "FileNo_": "INS160914153",
