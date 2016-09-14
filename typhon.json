@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS160915006",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 12:48:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路556巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周界目前飄散類似工廠排放廢氣之異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 12:49:33",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160915005",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/15 上午 12:44:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林三路357號(釣蝦場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該釣蝦場目前使用發電機，致機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/15 上午 12:49:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:05:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913198",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 04:57:27",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明誠一路826號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處於快車道圓形雨水孔蓋旁有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:04:53",
     "Close_Date_": ""
   }
 ]
