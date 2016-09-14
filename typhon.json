@@ -9300,20 +9300,20 @@
   },
   {
     "FileNo_": "INS160913269",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/13 下午 08:49:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "覺民路與正忠路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路口因車輛故障漏油，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/13 21：24 三民東區清潔隊王文全先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 08:53:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 04:02:39"
   },
   {
     "FileNo_": "INS160913268",
