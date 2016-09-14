@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914099",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 上午 11:43:13",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "844",
+    "ZipName_": "六龜區",
+    "address_": "新發村獅山路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914098",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 上午 11:40:58",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160914092",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:36:30",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
-    "address_": "久堂村中興街王爺巷(東隆宮旁)",
+    "address_": "中興街王爺巷(東隆宮旁)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電箱爆炸後導致電線有斷掉落垂，恐有危險，建請查處。",
+    "BeforeDesc_": "渠反映該處電箱爆炸後導致電線斷掉落垂，恐有危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:43:10",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 上午 11:53:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912127",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 上午 11:41:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "汾陽路10號(木材工廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該工廠目前使用機具切砌木頭致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 上午 11:44:06",
     "Close_Date_": ""
   }
 ]
