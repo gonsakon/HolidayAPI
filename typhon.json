@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS160914477",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 08:11:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "拜託可以在快一點嗎。我們從三點停電到現在了",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案岡山區停電已通報INS160914098 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 08:41:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 08:41:01"
   },
   {
     "FileNo_": "INS160914476",
