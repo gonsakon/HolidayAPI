@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914467",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:41:18",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路87巷29號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "三民區愛國路87巷已經停電已久，從下午一點多到下在，請加派處理。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914466",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 07:39:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 02:36:31",
     "Close_Date_": "2016/9/13 下午 04:45:05"
-  },
-  {
-    "FileNo_": "INS160913149",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 02:33:51",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "光華二路390巷10弄25號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該住戶進行牆壁上野樹拔除時，牆壁上台電接戶點出現火花，致家中頓時停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 02:46:14",
-    "Close_Date_": ""
   }
 ]
