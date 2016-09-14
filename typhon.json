@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914142",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 12:44:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "立民路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "9/14中午12:40左右停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914141",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 12:44:27",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:43:30",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160914139",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/14 下午 12:41:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多三路與復興二路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該初一路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 下午 12:44:33",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 02:32:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912168",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 02:26:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠陽路與朝仁路口(楠陽高架橋轉朝仁路)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處日前有修剪樹木，然修剪後的樹枝未清，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/13 12:55電覆陳情人未果，故於2016/09/13 12:57簡訊回覆:林小姐您\r\n好，您9月12日所反映樹枝問題，本府工務局已派員前往清除完成，感謝您的熱心通報，倘您對本案處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 02:27:37",
-    "Close_Date_": "2016/9/13 下午 12:57:41"
-  },
-  {
-    "FileNo_": "INS160912167",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 02:22:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "蓮海路8號(雄鎮北門)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址有一台電電線懸吊於半空中，且車子行經會碰觸到墜落電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 02:28:22",
     "Close_Date_": ""
   }
 ]
