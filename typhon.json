@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915017",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 02:40:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "華山路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫不明惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915016",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 02:21:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 05:30:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913209",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 05:23:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "小港路206號(公車站牌旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址住戶正在整修，惟將許多垃圾、廢棄物丟棄於該址前方道路上，已造成環境髒亂、惡臭，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:29:03",
     "Close_Date_": ""
   }
 ]
