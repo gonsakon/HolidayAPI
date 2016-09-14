@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914456",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:11:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "埤頂街41號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914455",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 07:10:19",
@@ -239,19 +256,19 @@
   },
   {
     "FileNo_": "INS160914441",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:51:50",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市高楠公路1711巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "停電一下午了\n截至目前為止都沒有電可用",
+    "BeforeDesc_": "停電一下午了截至目前為止都沒有電可用",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 07:12:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 01:54:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913139",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/13 下午 01:49:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "河西路(介於中正四路與五福三路，黃金海岸)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處有民眾騎乘機車進入捉寶，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/13 16：46 四維養護工程隊綠化股江昱德先生回報，目前已將違規民眾全數驅離\r\n完畢；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 01:52:56",
-    "Close_Date_": "2016/9/13 下午 05:08:05"
   }
 ]
