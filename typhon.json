@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160914406",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 05:38:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路與中山二路 交叉",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "三多中山(舊圓環)交叉，號誌燈閃爍。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 05:50:29",
     "Close_Date_": ""
   },
   {
@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS160914352",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 04:45:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "哨船街與安海街",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有路樹傾倒至路中央，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】三民養護分隊趙廣欽先生9/14 17:29回報該處已處理完成；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 04:47:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 05:49:28"
   },
   {
     "FileNo_": "INS160914351",
