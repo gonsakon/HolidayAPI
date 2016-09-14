@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914418",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 06:12:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高雄市楠梓區榮新街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "颱風將路樹吹垮，我的機車被壓在路樹下，地點在楠梓區榮新街與加昌路口的夏綠通大廈前公園，如果可以請派人來將路樹移除，謝謝!",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914417",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 06:05:16",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS160914404",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 05:37:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路127巷",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "拜託從3點停電到現在了。可以處理一下嗎",
     "AfterDesc_": "",
@@ -239,37 +256,37 @@
   },
   {
     "FileNo_": "INS160914403",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 05:36:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "岡山區",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "目前已停電近一個下午，請問大約何時可以休復呢？",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 16:42 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:11:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 06:12:39"
   },
   {
     "FileNo_": "INS160914402",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 05:36:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "岡山區",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "目前已停電近一個下午，請問大約何時可以休復呢？",
-    "AfterDesc_": "",
+    "AfterDesc_": "本公司接獲民眾於 105/09/14 16:42 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:11:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 06:12:25"
   },
   {
     "FileNo_": "INS160914401",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 上午 11:36:41",
     "Close_Date_": "2016/9/14 上午 10:52:45"
-  },
-  {
-    "FileNo_": "INS160913100",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 上午 11:12:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林二路，台88快速道路下",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近現有不明化學異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 上午 11:13:29",
-    "Close_Date_": ""
   }
 ]
