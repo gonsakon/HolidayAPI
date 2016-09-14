@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914497",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 10:44:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "漢陽街(福康國小前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "1",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914496",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 10:39:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 04:13:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913179",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 04:08:12",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "果峰街2巷及果峰街47巷二處",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有多處(1至4個)水溝蓋破損塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 04:12:04",
     "Close_Date_": ""
   }
 ]
