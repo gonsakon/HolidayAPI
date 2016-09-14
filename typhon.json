@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914494",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 10:29:18",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "高雄市岡山區石潭里石潭路282巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914493",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 10:25:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 03:58:46",
     "Close_Date_": "2016/9/13 下午 04:33:46"
-  },
-  {
-    "FileNo_": "INS160913176",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 03:47:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋四路214號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道上有一地磚下陷，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 03:51:42",
-    "Close_Date_": ""
   }
 ]
