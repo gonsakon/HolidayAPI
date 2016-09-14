@@ -3894,20 +3894,20 @@
   },
   {
     "FileNo_": "INS160914176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 01:25:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自治街與自治街65巷(自治公園)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一資源回收車內資源回收物遭吹散至路面，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/14 13:56 鳳山區清潔隊鄭惠瑛小姐回報，該處回收物已清除完畢；本案不需電\r\n覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 01:27:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 05:59:39"
   },
   {
     "FileNo_": "INS160914175",
