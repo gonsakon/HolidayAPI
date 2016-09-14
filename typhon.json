@@ -8467,20 +8467,20 @@
   },
   {
     "FileNo_": "INS160914019",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 08:29:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路與春陽街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/13 10:01 交通局智慧運輸中心蔡淑君小姐回報，該處經確認為綠燈故障，已報\r\n修廠商處理中，無法確認修復時間，故轉非網A-TB-2016-77298賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 08:30:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 03:47:33"
   },
   {
     "FileNo_": "INS160914018",
