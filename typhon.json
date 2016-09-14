@@ -3010,20 +3010,20 @@
   },
   {
     "FileNo_": "INS160914230",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 02:26:30",
     "ReplyUnit_": "B01001",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "澄觀路與鳳仁路口",
     "UnitName_": "養工處2",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "暴雨積水(二)",
     "BeforeDesc_": "渠反映該處積水約一個輪胎高，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/14 18：01 仁武區公所蔡課長回報，該處積水已退；本案竹需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:32:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 06:07:55"
   },
   {
     "FileNo_": "INS160914229",
