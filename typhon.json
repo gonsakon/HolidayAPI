@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915004",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 12:30:18",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路87巷29號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "高雄市三民區愛國路87巷後半部居家電都還沒修復，已經從下午一點多到現在凌晨了，請問何時才會復電？已經通報過但尚未有進展。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915003",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 12:12:58",
@@ -4387,14 +4404,14 @@
   },
   {
     "FileNo_": "INS160914244",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 02:38:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "南屏路262號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 04:58:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160913196",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 04:54:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明誠一路796號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處於黃網線上有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 05:04:04",
     "Close_Date_": ""
   }
 ]
