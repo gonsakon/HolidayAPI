@@ -1327,20 +1327,20 @@
   },
   {
     "FileNo_": "INS160914327",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 04:24:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳屏一路沿線",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映從鳳山中山東路接過來，沿線號誌燈全不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/14 16:20 交通局智慧運輸中心張寬如小姐回報，現場沿線屬台電電源線問題(停\r\n電)需通報台電修復，故轉派派工：INS160914329處理。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 04:24:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 05:51:15"
   },
   {
     "FileNo_": "INS160914326",
