@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914395",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 05:30:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建華街(英明國中後面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "苓雅區 2",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914394",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 05:24:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 上午 10:42:43",
     "Close_Date_": "2016/9/14 上午 09:41:55"
-  },
-  {
-    "FileNo_": "INS160913077",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 上午 10:40:36",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中正四路與自立二路(停車場入口前旁)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝蓋破損凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 上午 11:08:59",
-    "Close_Date_": ""
   }
 ]
