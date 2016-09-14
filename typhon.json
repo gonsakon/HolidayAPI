@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914275",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 03:18:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國泰路二段與五甲一路(台糖加油站)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914274",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:15:43",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160914272",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 03:11:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
-    "address_": "中正路397巷 51之1號",
+    "address_": "中正路二段397巷51之1號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一鐵皮屋頂倒塌致電線垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 03:18:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 09:01:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912299",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/12 下午 08:57:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建明路128號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路旁散落大量冷氣風管，建請查處。(另表示需請局處人員回覆)",
-    "AfterDesc_": "【主管解除管制】09/12 21:24苓雅區清潔隊施長興先生回報，該處經查冷氣風管為有主物，因不確定\r\n民眾使否還有要使用，無法協助清除，目前福德派出所員警有先擺放安全措施，明日會請稽查人員前\r\n往查察了解，故改派非網A-TB-2016-76769賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 09:01:29",
-    "Close_Date_": "2016/9/13 上午 07:45:30"
   }
 ]
