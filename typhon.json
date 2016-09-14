@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160914082",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 上午 11:23:41",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "油管路與中崙二路口，中油加油站旁油管路20巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處巷口第一根電線桿有電線垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 上午 11:27:24",
     "Close_Date_": ""
   },
   {
@@ -99,6 +99,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:24:21",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160914078",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/14 上午 11:22:05",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東二街91號至鎮東二街135號",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處沿線有停電情事，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 上午 11:27:00",
     "Close_Date_": ""
   },
   {
@@ -319,7 +336,7 @@
     "BeforeDesc_": "渠反映該處突然性停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:14:39",
+    "Save_Date_": "2016/9/14 上午 11:27:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 上午 11:14:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912113",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/12 上午 11:13:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德南路100巷12弄9號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 上午 11:15:59",
     "Close_Date_": ""
   }
 ]
