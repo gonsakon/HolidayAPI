@@ -1548,20 +1548,20 @@
   },
   {
     "FileNo_": "INS160914067",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 上午 11:12:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明里松信路22巷6號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "小港區停電已通報INS160914038台電搶中。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:13:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 01:05:46"
   },
   {
     "FileNo_": "INS160914066",
