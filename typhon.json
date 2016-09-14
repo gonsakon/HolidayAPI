@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914198",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/14 下午 01:51:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "永德街與九如四路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒，並影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/14 下午 01:52:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914197",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:48:13",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160914190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:46:57",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "平安街54巷1之1號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "0912705358梓官區 停電",
+    "BeforeDesc_": "渠反映現該址自家突然停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 01:54:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/12 下午 05:02:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160912222",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/12 下午 04:50:45",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "立莊路35巷7號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址後方汙水管阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/12 下午 04:52:58",
     "Close_Date_": ""
   }
 ]
