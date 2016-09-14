@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS160914206",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 01:59:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "高雄市橋頭區橋新二路888號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "橋新二路888號社區全部沒電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/14 下午 02:11:34",
     "Close_Date_": ""
   },
   {
