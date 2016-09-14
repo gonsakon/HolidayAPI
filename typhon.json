@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914475",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 08:04:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "頂新二街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914474",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 08:03:11",
@@ -1106,14 +1123,14 @@
   },
   {
     "FileNo_": "INS160914408",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/14 下午 05:41:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓國小附近清豐大鎮3",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "楠梓國小附近清豐大鎮3後面靠鐵軌邊有3片大片的波浪板，麻煩盡速清運，怕等等火車開始行駛造成危險",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 03:04:19",
     "Close_Date_": "2016/9/13 下午 05:07:33"
-  },
-  {
-    "FileNo_": "INS160913157",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/13 下午 02:58:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "林森一路243號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前方有2至3處路面下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 03:00:04",
-    "Close_Date_": ""
   }
 ]
