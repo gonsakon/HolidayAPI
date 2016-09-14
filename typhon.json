@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914443",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 06:57:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光華東路與和興街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914442",
     "Status_": "1",
     "Cre_Date_": "2016/9/14 下午 06:54:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 01:26:19",
     "Close_Date_": "2016/9/14 上午 10:33:17"
-  },
-  {
-    "FileNo_": "INS160913125",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/13 下午 12:55:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三民公園內(松江街227號、229號對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映現該公園內有一盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 12:59:05",
-    "Close_Date_": ""
   }
 ]
