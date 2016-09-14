@@ -256,20 +256,20 @@
   },
   {
     "FileNo_": "INS160914440",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 06:50:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "建業街",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電...從中午停到現在...麻煩可派人維修嗎",
-    "AfterDesc_": "",
+    "AfterDesc_": "茄萣區停電已通報INS160914245 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:10:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 07:11:35"
   },
   {
     "FileNo_": "INS160914438",
