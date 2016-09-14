@@ -647,20 +647,20 @@
   },
   {
     "FileNo_": "INS160914126",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 12:30:00",
     "ReplyUnit_": "A01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海富路與海景街之間，明德新村停電",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "2016/09/14 12?15分左右聽到變壓器爆炸聲，之後就停電，請派?搶修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "左營區停電已通報INS160914122台電搶中。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 01:09:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/14 下午 01:09:44"
   },
   {
     "FileNo_": "INS160914124",
