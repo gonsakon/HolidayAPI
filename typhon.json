@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160914472",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/14 下午 07:49:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "仁武區中華里",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電了停很久",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160914471",
     "Status_": "2",
     "Cre_Date_": "2016/9/14 下午 07:44:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/13 下午 02:55:12",
     "Close_Date_": "2016/9/13 下午 04:44:50"
-  },
-  {
-    "FileNo_": "INS160913155",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/13 下午 02:46:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文殿街11巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人丟棄一垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】9/13 14:44 鳳山區清潔隊楊孟珍小姐，已清除完成 ；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/13 下午 02:49:55",
-    "Close_Date_": "2016/9/13 下午 04:44:19"
   }
 ]
