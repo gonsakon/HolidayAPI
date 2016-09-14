@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS160914453",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 07:08:59",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "",
-    "AfterDesc_": "",
+    "AfterDesc_": "案件地點、事項不明無法協助處理，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/9/14 下午 07:15:57",
+    "Close_Date_": "2016/9/14 下午 07:16:19"
   },
   {
     "FileNo_": "INS160914452",
