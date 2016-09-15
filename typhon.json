@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160916049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 07:29:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大豐二路與義德路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障閃燈，望請派員修復，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 07:31:53",
     "Close_Date_": ""
   },
   {
