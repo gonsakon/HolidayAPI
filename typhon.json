@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915201",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 12:58:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路442號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915200",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 12:52:05",
@@ -205,19 +222,19 @@
   },
   {
     "FileNo_": "INS160915188",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 12:16:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高雄市小港區東昇街31號2樓",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "從昨天中午12點就停電到現在，到現在都沒人來修理，這裡都是老人家居多，也停水了，怎麼通報台電都沒來修，這附近都有電了，為何我們部分住戶還是沒電?可以拜託來幫幫忙嗎",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 12:55:23",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:43:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914095",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 上午 11:37:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "光和路43號之3",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一棵路樹傾倒壓到電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:40:57",
     "Close_Date_": ""
   }
 ]
