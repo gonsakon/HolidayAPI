@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916022",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 01:57:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路385號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一大型廣告招牌散落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916021",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 01:32:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:43:19",
     "Close_Date_": "2016/9/14 下午 06:44:25"
-  },
-  {
-    "FileNo_": "INS160914419",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 06:14:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "高鐵路上與大中二路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路段有多棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:17:03",
-    "Close_Date_": ""
   }
 ]
