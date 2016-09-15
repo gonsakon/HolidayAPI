@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916042",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/16 上午 07:21:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "武營路上(自鳳山輜汽路往三多一路)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有兩棵大樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/16 上午 07:22:26",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916041",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 07:19:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:12:19",
     "Close_Date_": "2016/9/14 下午 07:14:33"
-  },
-  {
-    "FileNo_": "INS160914440",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 06:50:23",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "建業街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電...從中午停到現在...麻煩可派人維修嗎",
-    "AfterDesc_": "茄萣區停電已通報INS160914245 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 07:10:24",
-    "Close_Date_": "2016/9/14 下午 07:11:35"
   }
 ]
