@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160916040",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 07:15:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "正忠路232號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址前遭丟棄兩包垃圾包，望請派員清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916037",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 07:12:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:49:56",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914437",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 06:48:18",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "高雄市左營區左營大路400-480號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "電線扯斷",
-    "AfterDesc_": "9/14 19:08通報災害應變中心",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 07:04:46",
-    "Close_Date_": "2016/9/14 下午 07:09:03"
   }
 ]
