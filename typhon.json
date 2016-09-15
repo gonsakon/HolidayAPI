@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915222",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 01:56:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "台88下交流道中安路周界",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處周界飄散瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915221",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 01:55:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:26:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914119",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:22:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段185號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前有一路樹傾倒，已影響交通，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:24:07",
     "Close_Date_": ""
   }
 ]
