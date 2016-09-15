@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915245",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:35:28",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓區惠民路219號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "惠民路219號周圍停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915244",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 02:34:15",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS160915212",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 下午 01:23:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲一路667號(統一精工速邁樂加油站)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒於加油站屋頂，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:46:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914142",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 12:44:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "立民路",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "9/14中午12:40左右停電",
-    "AfterDesc_": "本公司接獲民眾於 105/09/14 13:44 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 01:15:41",
-    "Close_Date_": "2016/9/14 下午 03:56:57"
   }
 ]
