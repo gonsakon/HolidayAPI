@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160915302",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 04:24:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大同街793巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "未恢復供電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 04:27:34",
     "Close_Date_": ""
   },
   {
