@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916029",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 05:04:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "6號公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處公廁無水可用，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916028",
     "Status_": "4",
     "Cre_Date_": "2016/9/16 上午 02:57:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:24:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914423",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 下午 06:21:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中華路與大同街口(中華路沿線至延平一路307巷內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處沿線皆有多棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:28:34",
     "Close_Date_": ""
   }
 ]
