@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915246",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:38:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大裕路上(中區資源回收回饋游泳池對面，三民高中圍牆旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒壓至陳情人車輛上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915245",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 02:35:28",
@@ -103,20 +120,20 @@
   },
   {
     "FileNo_": "INS160915239",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 下午 02:20:39",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大同街793巷",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "電線脫落",
-    "AfterDesc_": "",
+    "AfterDesc_": "09/15 14：26通報災害應變中心(8224567)陳小姐。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 02:28:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 下午 02:40:30"
   },
   {
     "FileNo_": "INS160915238",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:48:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914143",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:45:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路與修文街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒於馬路中間致公車無法行駛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:46:35",
     "Close_Date_": ""
   }
 ]
