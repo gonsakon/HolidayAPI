@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS160915245",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 下午 02:35:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓區惠民路219號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "惠民路219號周圍停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "105/09/14 15:48通報之停電資訊，現場搶修中，搶修困難，停電原因為開關故障，預計恢復供電時間\r\n為105/09/15 17:00；倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 02:50:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 下午 02:51:58"
   },
   {
     "FileNo_": "INS160915244",
