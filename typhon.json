@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915233",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:11:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路與大順二路562巷交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一帆布纏繞於路燈上，蓋住路燈放亮位置，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915232",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 02:08:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:37:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914130",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:34:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "成功一路上(新田路至允文街，漢神百貨對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路段有安全錐因颱風亂飛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:35:33",
     "Close_Date_": ""
   }
 ]
