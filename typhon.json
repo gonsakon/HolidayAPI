@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160915390",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 07:13:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "1.中華路整條；2.中華路與自由路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該兩處路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915388",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 07:11:44",
@@ -2619,14 +2636,14 @@
   },
   {
     "FileNo_": "INS160915233",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 下午 02:11:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路與大順二路562巷交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一帆布纏繞於路燈上，蓋住路燈之燈具，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 03:37:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914289",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 03:35:56",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪70街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "目前高坪皆為停電狀況",
-    "AfterDesc_": "本公司接獲民眾於 105/09/14 11:53 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 03:41:00",
-    "Close_Date_": "2016/9/14 下午 03:41:55"
   }
 ]
