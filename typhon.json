@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915232",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:08:59",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915231",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 02:08:22",
@@ -2466,14 +2483,14 @@
   },
   {
     "FileNo_": "INS160915086",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 上午 08:45:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高鳳路與高鳳路459巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障閃爍黃燈，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:35:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914129",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:34:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "外環西路119號(北往南)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處機車道上有路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:46:20",
     "Close_Date_": ""
   }
 ]
