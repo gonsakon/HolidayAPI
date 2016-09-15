@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160915192",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 12:32:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "自治街上(自治公園正門口)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一藍色帆布蓋住之回收物，影響市容美觀，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915191",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 12:25:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:33:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914087",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 上午 11:29:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋三路95號4樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址整修施工噪音，建請查處。(請在4樓稽查)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:35:12",
     "Close_Date_": ""
   }
 ]
