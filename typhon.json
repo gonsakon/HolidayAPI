@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916024",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 02:17:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "應昇路23號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址卡拉OK業者有擴音器噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916023",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 02:16:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:45:03",
     "Close_Date_": "2016/9/14 下午 06:46:36"
-  },
-  {
-    "FileNo_": "INS160914421",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 06:18:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中汕里北汕二路73巷12號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒路面且壓到電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:21:03",
-    "Close_Date_": ""
   }
 ]
