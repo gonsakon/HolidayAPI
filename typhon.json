@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915427",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 08:23:56",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社區保安里永保街",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "等了很久還是沒電,附近的中山路都有電了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915425",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 08:22:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 04:33:05",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914328",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 04:24:37",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高雄市小港區沿海一路182號（第一銀行）",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "位處第一銀行後方銀行自有停車場圍牆倒塌，鐵皮受損嚴重，已有影響無法通行車輛……",
-    "AfterDesc_": "9/14 17:08通報災害應變中心",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 05:03:17",
-    "Close_Date_": "2016/9/14 下午 05:09:51"
   }
 ]
