@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915210",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 01:21:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路109之48號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處後方山坡有一樹木傾倒並壓毀圍牆，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915209",
     "Status_": "5",
     "Cre_Date_": "2016/9/15 下午 01:16:45",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS160915187",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 下午 12:14:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中華路67巷2之1號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:05:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914105",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:00:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華二路136號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒於路面上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:01:08",
     "Close_Date_": ""
   }
 ]
