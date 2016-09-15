@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916039",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 07:16:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916038",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 07:15:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 07:04:46",
     "Close_Date_": "2016/9/14 下午 07:09:03"
-  },
-  {
-    "FileNo_": "INS160914436",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 06:43:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "仁德路150之7號",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/14 22:10 交通局 智慧運輸中心 張寬如小姐回報，現場經查為外線故障所致，\r\n 已報請廠商維修，並將現場號誌調整為閃光警示，故改派非網：A-TB-2016-77487 賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:44:13",
-    "Close_Date_": "2016/9/15 上午 03:33:03"
   }
 ]
