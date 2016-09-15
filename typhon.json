@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915269",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 03:29:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中門路132巷35號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有兩棵樹木傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915268",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 03:29:35",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS160915259",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 下午 03:10:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "久龍街",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "何時復電",
     "AfterDesc_": "",
@@ -2199,7 +2216,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "平河南路與港源街口",
+    "address_": "平和南路與港源街口",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 01:19:24",
     "Close_Date_": "2016/9/14 下午 01:19:56"
-  },
-  {
-    "FileNo_": "INS160914167",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 01:14:11",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "823台灣高雄市田寮區",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "華山街停電，請查修。",
-    "AfterDesc_": "鳳山區停電已通報INS160914158 台電搶中。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 01:16:32",
-    "Close_Date_": "2016/9/14 下午 01:17:37"
   }
 ]
