@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915175",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 11:43:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "小港區高松路25號(高松派出所附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前飄散塑膠化學異味廢氣，疑似附近工廠排放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915174",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 11:42:16",
@@ -1157,14 +1174,14 @@
   },
   {
     "FileNo_": "INS160915106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 上午 09:26:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "天興街50號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一路燈燈泡及燈罩脫落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:19:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914069",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 上午 11:13:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中崙一路266之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前有一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:15:24",
     "Close_Date_": ""
   }
 ]
