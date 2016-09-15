@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915478",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 11:00:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新富路與國富路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近飄散不明化學刺鼻異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915477",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 10:58:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 05:29:47",
     "Close_Date_": "2016/9/14 下午 05:32:48"
-  },
-  {
-    "FileNo_": "INS160914382",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 下午 05:15:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "國泰路二段，北往南，衛武營旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 05:21:11",
-    "Close_Date_": ""
   }
 ]
