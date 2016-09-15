@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160915342",
+    "FileNo_": "INS160915343",
     "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 06:25:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "苓安路70號(快樂電台)對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有大量碎磁磚，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160915342",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 06:20:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "大舍南路(典寶橋；台17線右昌往梓官)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該路段號誌燈旁有許多冰箱，恐影響交通，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 06:25:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:36:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914240",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 02:34:51",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓區國昌里元昌街66巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "9/14 12:39台電已接獲民眾報案，楠梓區、橋頭區停電，已受理待搶修，倘若有疑義亦可撥打1911台電客服詢\r\n問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 02:40:02",
-    "Close_Date_": "2016/9/14 下午 03:22:12"
   }
 ]
