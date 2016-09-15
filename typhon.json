@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915337",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 06:02:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "清水岩路231號往西",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處沿線多處路樹傾倒，且有一車輛受困於內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915336",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 06:02:18",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160915333",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 05:57:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "高雄市",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "整條街停電已超過27小時，拜託請派人修復，辛苦了！謝謝您們！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 06:02:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:39:47",
     "Close_Date_": "2016/9/14 下午 02:42:18"
-  },
-  {
-    "FileNo_": "INS160914235",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 02:32:40",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓區國昌里元昌街66巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "9/14 12:39台電已接獲民眾報案，楠梓區、橋頭區停電，已受理待搶修，倘若有疑義亦可撥打1911台電客服詢\r\n問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 02:36:18",
-    "Close_Date_": "2016/9/14 下午 02:42:05"
   }
 ]
