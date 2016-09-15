@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915131",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 10:18:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松里松青街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中飄散化學刺鼻異味，建請查處。(要求稽查結果直接回覆)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915130",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 10:16:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 09:04:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914025",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 上午 09:00:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊路216巷46號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮且會產生火花，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 09:04:32",
     "Close_Date_": ""
   }
 ]
