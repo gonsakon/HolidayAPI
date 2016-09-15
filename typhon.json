@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915132",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 10:22:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "芎林六街93號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處該有多棵路樹傾倒，望請盡速移除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915131",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 10:18:43",
@@ -5917,20 +5934,20 @@
   },
   {
     "FileNo_": "INS160914285",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/14 下午 03:31:19",
     "ReplyUnit_": "F01004",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新富路392號",
     "UnitName_": "鳳山區公所",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該址下雨導致住家積水，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/14 16：04 鳳山區公所經建課課長譚國凱先生回報，該處無立即危險性，至現場未發\r\n現路旁有積水，詢問確認屬屋前溝淤積導致水倒灌進陳情人住家，故轉派清潔隊：INS160914314。",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 03:35:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 10:22:44"
   },
   {
     "FileNo_": "INS160914283",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 09:04:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914026",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 上午 09:01:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊路326巷90號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 09:04:44",
     "Close_Date_": ""
   }
 ]
