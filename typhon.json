@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915249",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:41:28",
+    "ReplyUnit_": "",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "高雄市彌陀區鹽埕中路東三巷3號",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "昨天就開始停水\n為時才有水可以用",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915248",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 02:39:51",
@@ -6342,14 +6359,14 @@
   },
   {
     "FileNo_": "INS160914382",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/14 下午 05:15:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國泰路二段，北往南，衛武營旁",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有路樹傾倒，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:51:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914146",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:49:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與博愛三路376巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處巷口有一路樹倒塌，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:51:20",
     "Close_Date_": ""
   }
 ]
