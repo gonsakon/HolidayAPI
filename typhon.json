@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915128",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 10:13:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "和平路一段與中山路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒路面且壓到電線，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915127",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 10:13:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 09:04:31",
     "Close_Date_": "2016/9/15 上午 03:42:45"
-  },
-  {
-    "FileNo_": "INS160914022",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 上午 08:54:21",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與孟子路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查修。",
-    "AfterDesc_": "【主管解除管制】09/13 10:01 交通局智慧運輸中心蔡淑君小姐回報，經人員現場查勘，該處正常三\r\n色運作。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 08:55:59",
-    "Close_Date_": "2016/9/15 上午 03:44:02"
   }
 ]
