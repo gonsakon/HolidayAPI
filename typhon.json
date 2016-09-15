@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916021",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 01:32:58",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "鹽田路建豐巷51號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址目前已有停電36小時情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916020",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 01:29:26",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS160916008",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/16 上午 12:35:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "和德街(公兒45公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該公園內有許多樹木斷肢與有散落到地面上情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:43:19",
     "Close_Date_": "2016/9/14 下午 06:44:25"
-  },
-  {
-    "FileNo_": "INS160914419",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 06:14:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "高鐵路上與大中二路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路段有多棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:17:03",
-    "Close_Date_": ""
   }
 ]
