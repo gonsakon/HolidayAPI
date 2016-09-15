@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160915197",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/15 下午 12:45:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路19巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處樹木傾倒，且壓到兩部車輛(其中一部為陳情人所有)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/15 下午 12:45:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915196",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 12:45:06",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS160915181",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 上午 11:58:11",
     "ReplyUnit_": "A02000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "西子灣",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "急迫危害立即排除",
     "BeforeDesc_": "西子灣漁船擱淺正在漏油，需要立即做攔油處理",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:38:56",
     "Close_Date_": "2016/9/15 上午 03:36:09"
-  },
-  {
-    "FileNo_": "INS160914092",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/14 上午 11:36:30",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中興街王爺巷(東隆宮旁)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電箱爆炸後導致電線斷掉落垂，恐有危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:43:10",
-    "Close_Date_": ""
   }
 ]
