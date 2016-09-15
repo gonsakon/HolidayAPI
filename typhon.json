@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160915138",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 上午 10:32:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "水安里中山路三巷563號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "莫蘭蒂颱風造成停電已達24小時，想請問何時可復電。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 10:41:20",
     "Close_Date_": ""
   },
   {
