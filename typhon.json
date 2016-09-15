@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915130",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 10:16:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "嘉興路163號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "嘉興路 數戶9/140中午2點停電至今",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915129",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 10:16:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 09:04:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914024",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/14 上午 08:57:32",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路66巷(靠金獅湖湖邊)",
-    "UnitName_": "觀光局",
-    "StatusName_": "待確認",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 09:00:08",
     "Close_Date_": ""
   }
 ]
