@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915155",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 11:06:01",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路450號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "電壓不足 少一線",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915153",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 11:03:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 10:49:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914048",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 上午 10:47:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "班超路與崗山中街(瑞祥高中)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請盡速修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 10:49:09",
     "Close_Date_": ""
   }
 ]
