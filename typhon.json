@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915486",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 11:37:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "橋頭區成功南路，省1線 367k 彩虹橋下方 北上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915485",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 11:35:57",
@@ -1973,14 +1990,14 @@
   },
   {
     "FileNo_": "INS160915368",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 下午 06:53:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "中正東路與中正南路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌均故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 05:24:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914391",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 下午 05:21:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "澄清路425號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 05:23:37",
     "Close_Date_": ""
   }
 ]
