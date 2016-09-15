@@ -171,19 +171,19 @@
   },
   {
     "FileNo_": "INS160915087",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 08:49:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區博愛一路博仁街交叉",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "號誌故障",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 09:12:21",
     "Close_Date_": ""
   },
   {
@@ -1174,20 +1174,20 @@
   },
   {
     "FileNo_": "INS160915028",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 上午 06:15:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "高雄市林園區王公二路113號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "13日早上停電至今，周圍已復電，唯獨這邊還沒復電，請派人修復，謝謝",
     "AfterDesc_": "林園區停電已通報INS160914106 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 09:11:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 上午 09:14:13"
   },
   {
     "FileNo_": "INS160915027",
