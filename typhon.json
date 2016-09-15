@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915405",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 07:49:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915404",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 07:42:07",
@@ -154,19 +171,19 @@
   },
   {
     "FileNo_": "INS160915395",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 07:29:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "新昌街上與中安路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口目前遭丟棄一包藍色大包垃圾包，請協助稽查是否有行為人並開罰，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 07:48:49",
     "Close_Date_": ""
   },
   {
@@ -2228,14 +2245,14 @@
   },
   {
     "FileNo_": "INS160915271",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 下午 03:31:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路與鳳仁路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障，呈現閃爍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 04:10:21",
     "Close_Date_": "2016/9/14 下午 04:10:58"
-  },
-  {
-    "FileNo_": "INS160914307",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 04:00:52",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "826台灣高雄市梓官區嘉展路434巷3弄",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "本公司接獲民眾於 105/09/14 15:23 通報之停電資訊，現場搶修中，搶修困難，停電原因為開關故障，預計復\r\n電時間為 105/09/14 18:25 。本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電\r\n影響範圍，於搶修過程陸續恢復局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服\r\n詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 04:06:34",
-    "Close_Date_": "2016/9/14 下午 04:07:17"
   }
 ]
