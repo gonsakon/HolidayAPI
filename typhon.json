@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916027",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 02:53:29",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路與八德西路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有跨馬路電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916026",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 02:46:07",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS160916010",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 上午 12:46:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪五路100巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處巷道瀰漫嚴重油臭味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:22:55",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914425",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 06:20:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路與建德路交叉",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】09/14 22:10 交通局 智慧運輸中心 張寬如小姐回報，現場經查為外線故障所致，\r\n 已報請廠商維修，並將現場號誌調整為閃光警示，故改派非網：A-TB-2016-77486 賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:21:52",
-    "Close_Date_": "2016/9/15 上午 03:34:52"
   }
 ]
