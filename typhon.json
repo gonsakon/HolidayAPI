@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915243",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/15 下午 02:31:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路與重和路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/15 下午 02:32:34",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915242",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 02:28:38",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160915240",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 02:21:54",
-    "ReplyUnit_": "A01000",
+    "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中華橫路與同盟三路交叉口的紅綠燈搖搖欲墜",
-    "UnitName_": "工務局",
-    "StatusName_": "建立中",
-    "InformDesc_": "寬頻管線破損",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
     "BeforeDesc_": "紅綠燈快掉下來了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 02:32:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:54:39",
     "Close_Date_": "2016/9/14 下午 06:00:26"
-  },
-  {
-    "FileNo_": "INS160914140",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 12:41:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多二路與和平一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:43:30",
-    "Close_Date_": ""
   }
 ]
