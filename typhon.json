@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916026",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 02:46:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "保安路63號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有燃燒異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916025",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 02:30:13",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS160916017",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 上午 01:02:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青海路與美術東二路口(願景橋)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有民眾燃放爆竹，造成噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 06:21:52",
     "Close_Date_": "2016/9/15 上午 03:34:52"
-  },
-  {
-    "FileNo_": "INS160914424",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 06:19:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全一路與民族一路交叉",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】9/14 18：40 交通局智慧運輸中心張寬如小姐回報，已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:21:46",
-    "Close_Date_": "2016/9/15 上午 03:35:05"
   }
 ]
