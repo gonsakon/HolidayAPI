@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160915171",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 上午 11:33:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "高雄市岡山區致遠路附12-9號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "牧場沒電，請麻煩盡快修復",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 上午 11:44:27",
     "Close_Date_": ""
   },
   {
