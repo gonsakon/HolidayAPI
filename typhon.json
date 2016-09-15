@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915257",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 03:07:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路710號至730號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處於慢車道往返路面因風災掉落許多雜物(木板、落葉)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915256",
     "Status_": "4",
     "Cre_Date_": "2016/9/15 下午 02:51:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:57:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914154",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 12:55:43",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營區海富路與海景街之間的明德新村區域住宅停電。",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "2016/09/14 約12:15聽到變壓器爆炸二聲後停電，請派員搶救檢修。",
-    "AfterDesc_": "左營區停電已通報INS160914122台電搶中。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 01:08:15",
-    "Close_Date_": "2016/9/14 下午 01:08:35"
   }
 ]
