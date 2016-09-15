@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160916010",
+    "FileNo_": "INS160916011",
     "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 12:47:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "仕豐路123號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處外車道有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916010",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 12:46:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪五路100巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處巷道瀰漫嚴重油臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 12:48:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 05:48:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914409",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 05:42:02",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "興田里興田路29-6號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "本公司接獲民眾於 105/09/14 11:09 通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復\r\n局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 06:29:46",
-    "Close_Date_": "2016/9/14 下午 06:30:21"
   }
 ]
