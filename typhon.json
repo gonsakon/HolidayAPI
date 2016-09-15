@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915160",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 上午 11:16:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "高雄市仁武區華興借45號前路面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "該路段因高壓電線燃燒地面造成地面隆起及多處坑洞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915159",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 上午 11:13:32",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS160915155",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 上午 11:06:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路450號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "電壓不足 少一線",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:01:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914054",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/14 上午 10:56:33",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "崇德里崇德路沿線",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址沿線停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:01:03",
     "Close_Date_": ""
   }
 ]
