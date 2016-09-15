@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915193",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 12:33:39",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路   新莊仔路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915191",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 12:25:51",
@@ -494,19 +511,19 @@
   },
   {
     "FileNo_": "INS160915162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 上午 11:21:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌一路92號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處一路樹傾倒砸損陳情人車輛，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 12:34:01",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 上午 11:35:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914086",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 上午 11:27:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "和平二路195號大樓門口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路旁一路樹傾倒壓在民眾車上，並佔據一車道，已通報警方，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 上午 11:32:02",
     "Close_Date_": ""
   }
 ]
