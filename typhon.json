@@ -341,20 +341,20 @@
   },
   {
     "FileNo_": "INS160915477",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 下午 10:58:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "典昌街與典昌路口，台17線上",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路口有一黃色犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/16 00:24 環保局 溝渠隊 李文山先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 11:07:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/16 上午 12:33:50"
   },
   {
     "FileNo_": "INS160915476",
