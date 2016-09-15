@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS160915218",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 01:34:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五權路與自立街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處安全島上有家庭廢棄物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915217",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 01:32:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "光明街和文武街",
+    "address_": "光明街和文武三街",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:14:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914114",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 12:11:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路905號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有大樹枝掉落路面，民眾已將其拉進騎樓，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/14 13:22 三民東區清潔隊許華玲小姐回報，人員到達現場查看該處樹枝已\r\n在屋簷下，不會影響交通，因目前風雨過大無法立即處理，故轉派非網A-TB-2016-77340；本案不需電\r\n覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:15:06",
-    "Close_Date_": "2016/9/14 下午 06:01:28"
   }
 ]
