@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915419",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 08:07:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路上與昌裕街交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處紅磚人行道上，路燈下遭人棄置一黑色櫃子，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915418",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 08:05:21",
@@ -154,19 +171,19 @@
   },
   {
     "FileNo_": "INS160915409",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 08:02:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
-    "address_": "",
+    "address_": "美術東二路上近美術東五路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一八歲孩童於此使用擴音器演奏致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 08:07:28",
     "Close_Date_": ""
   },
   {
@@ -3826,14 +3843,14 @@
   },
   {
     "FileNo_": "INS160915191",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/15 下午 12:25:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路二段( 光復路至青年路二段103巷)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路段沿線號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 04:21:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914321",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/14 下午 04:20:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "高13道路(天山兵營陸軍5640)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路段有許多路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 04:22:29",
     "Close_Date_": ""
   }
 ]
