@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915329",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 05:47:27",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路666號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915328",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 05:44:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:27:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914227",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 02:24:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "高雄市鼓山區建榮路191巷1弄13號公寓上",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "鐵皮掉落電線，隨風飄，會觸電短路爆破，有漏電危險。",
-    "AfterDesc_": "通報災害應中心處理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 02:35:13",
-    "Close_Date_": "2016/9/14 下午 02:35:43"
   }
 ]
