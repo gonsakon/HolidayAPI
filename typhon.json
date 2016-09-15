@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915231",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 02:08:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪六十八街附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址昨日就有重油異味產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915230",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 02:03:42",
@@ -103,20 +120,20 @@
   },
   {
     "FileNo_": "INS160915224",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/15 下午 01:57:02",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "三德里",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "等了2天了！",
     "AfterDesc_": "本公司接獲民眾通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。\r\n本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過\r\n程陸續恢復局部區間供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 02:03:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/15 下午 02:07:41"
   },
   {
     "FileNo_": "INS160915223",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 12:46:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914128",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/14 下午 12:33:30",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "中正五街",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處20分鐘前突然無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 12:41:12",
     "Close_Date_": ""
   }
 ]
