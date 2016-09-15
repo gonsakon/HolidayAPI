@@ -545,19 +545,19 @@
   },
   {
     "FileNo_": "INS160915485",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 11:35:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓區卓越路205號前路燈故障",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "楠梓區卓越路205號前路燈故障，已有機車騎士經過看不清路況摔倒",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 02:37:37",
     "Close_Date_": ""
   },
   {
