@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915355",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 06:46:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林路二段往鳳林路一段，到會結路(過88橋往林園方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915354",
     "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 06:44:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:46:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914252",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/14 下午 02:43:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光遠路70巷16號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有兩條電線垂落路面，該區住戶現也停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 02:46:31",
     "Close_Date_": ""
   }
 ]
