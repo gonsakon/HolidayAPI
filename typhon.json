@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160915341",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/15 下午 06:16:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路31號前",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160915340",
     "Status_": "1",
     "Cre_Date_": "2016/9/15 下午 06:11:24",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160915338",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/15 下午 06:08:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐路718號與720號間",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處於分隔島上一四層樓高雨豆樹目前往住家傾斜，已可看見樹根，建請查處。",
+    "BeforeDesc_": "渠反映該處於分隔島上一四層樓高雨豆樹目前往住家傾斜，已可看見樹根，恐隨時傾倒屋損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/15 下午 06:15:50",
     "Close_Date_": ""
   },
   {
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS160915287",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/15 下午 03:52:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "褒忠街與壽昌路(寶泰廣場)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該廣場有樹木傾倒及路燈毀損，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 02:35:45",
     "Close_Date_": "2016/9/15 上午 03:35:48"
-  },
-  {
-    "FileNo_": "INS160914238",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/14 下午 02:34:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路775號前(兒福館，科工館對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒，並壓在陳情人車上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 02:35:16",
-    "Close_Date_": ""
   }
 ]
