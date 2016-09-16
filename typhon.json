@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916146",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 11:25:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "東方路105巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷內有鐵皮與鐵架吹落，擔心造成用路人危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916145",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 11:24:36",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916144",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/16 上午 11:23:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林路二段(介於沿海路二段與光明路一段)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處沿線中央分隔島路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/16 上午 11:25:18",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 07:13:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915034",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 上午 07:08:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋三路121號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前一棵路樹傾倒，已阻擋出入，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 07:10:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915033",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 上午 06:49:07",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "青海路與九如四路",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "暴雨積水(一)",
-    "BeforeDesc_": "渠反映該處疑似水閘門未開造成淹水，且淹進民宅，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 06:50:49",
     "Close_Date_": ""
   }
 ]
