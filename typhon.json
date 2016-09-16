@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916535",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 09:48:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "修成街29巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有民眾整理好之風災後落葉及樹枝，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916534",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 09:42:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 08:19:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915421",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 08:17:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔北巷(觀湖山莊)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該山莊大門有一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 08:18:17",
     "Close_Date_": ""
   }
 ]
