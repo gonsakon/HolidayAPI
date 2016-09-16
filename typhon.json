@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917021",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 06:38:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲昌路與甲樹路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈已歪斜，致用路人無法辨識燈號，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917020",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 06:02:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 11:25:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915481",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 11:10:22",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮東一街與德昌街口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一大範圍塌陷坑洞，現場已有警員交管、自來水、經發局與養工處人員，需請貴單位派員前往會勘處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 11:13:18",
     "Close_Date_": ""
   }
 ]
