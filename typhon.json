@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160916369",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/16 下午 05:41:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路101巷22號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址住家目前燒烤油煙逸散致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/16 下午 05:44:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916368",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 05:37:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 03:10:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915257",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 03:07:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路710號至730號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處於慢車道往返路面因風災掉落許多雜物(木板、落葉..等)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 03:10:16",
     "Close_Date_": ""
   }
 ]
