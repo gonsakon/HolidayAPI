@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916323",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 04:52:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路與林泉街(春捲店前方、紅磚道旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有玻璃碎片，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916322",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 04:48:43",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS160916314",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 下午 04:37:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中壇橋，美濃溪旁",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該堤旁處多棵路樹傾倒影響通行，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 01:19:17",
     "Close_Date_": "2016/9/15 下午 01:19:35"
-  },
-  {
-    "FileNo_": "INS160915208",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/15 下午 01:13:59",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "林森一路281號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線違停",
-    "AfterDesc_": "感謝您的反映，此案件已於9/15 13:14 通報110林警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 01:14:55",
-    "Close_Date_": "2016/9/15 下午 01:17:03"
   }
 ]
