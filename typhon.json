@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916256",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 03:07:07",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路 新田路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "該路口多桿行人燈轉向歪斜及燈罩脫落，且近漢神百貨行人燈燈桿傾斜",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916255",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 下午 02:59:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 10:48:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915142",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 上午 10:45:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "岡山北路與民治路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "交通號誌故障，大路口造成交通混亂",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 10:50:41",
     "Close_Date_": ""
   }
 ]
