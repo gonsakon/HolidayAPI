@@ -17,23 +17,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160916255",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/16 下午 02:59:07",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "1.上寮路225之12號至225之18號間、2.上寮路上往南方向",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映1.該處有一路邊方形水溝蓋有破損情事、2.該處亦有一處方形水溝蓋破損，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160916254",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 02:58:24",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 10:48:41",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160915142",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/15 上午 10:45:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "岡山北路與民治路口",
+    "UnitName_": "交通局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "交通號誌故障，大路口造成交通混亂",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/15 上午 10:50:41",
     "Close_Date_": ""
   }
 ]
