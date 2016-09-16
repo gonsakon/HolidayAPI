@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916484",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 08:05:08",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.旗楠路與清安街交叉口、2.清安街與常德路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該二處路口號誌閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916483",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 08:00:49",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS160916449",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 下午 07:08:09",
     "ReplyUnit_": "F01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "港埔路6號附近",
     "UnitName_": "茄萣區公所",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有路樹傾倒情事，經養工處查看該處為6米以下巷道，屬茄萣區公所權管，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 06:59:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915370",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 06:55:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "平等路，鳳山體育場",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 06:59:13",
     "Close_Date_": ""
   }
 ]
