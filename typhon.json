@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916216",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 01:42:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "武廟路100號前(武廟春捲前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹倒塌，致影響住戶及店家出入，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916214",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 下午 01:41:41",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160916213",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 01:38:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新富路399巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處巷口路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 01:42:18",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 10:07:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915102",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 上午 09:23:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海一路202號(肯德基對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處一路樹傾倒壓在其車輛上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 09:24:59",
     "Close_Date_": ""
   }
 ]
