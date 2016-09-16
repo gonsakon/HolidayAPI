@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916520",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 09:13:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中華三路242號、244號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路面有一大型廣告招牌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916519",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 下午 09:13:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 02:08:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915406",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 07:55:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路126號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前人行道上遭堆置大量招牌及樹枝，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 08:03:18",
     "Close_Date_": ""
   }
 ]
