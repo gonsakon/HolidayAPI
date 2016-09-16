@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160916121",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 10:24:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "中山南路與大德三路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "岡山區大德三路與中山南路路口號誌燈號故障完全不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916119",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 10:20:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 01:23:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915009",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 上午 01:13:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "仁愛路上，近民富街(香堤汽車館 )",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者目前有發電機散發柴油異味致空污情事，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 01:16:45",
     "Close_Date_": ""
   }
 ]
