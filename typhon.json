@@ -307,19 +307,19 @@
   },
   {
     "FileNo_": "INS160916242",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/16 下午 02:36:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "金潭路38號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "路燈故障",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 03:21:37",
     "Close_Date_": ""
   },
   {
