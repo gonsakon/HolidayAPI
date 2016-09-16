@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917001",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 12:21:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "龍德路93號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前有鞭炮聲噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916572",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 11:56:00",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS160916567",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 下午 11:31:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林三路566號前，大寮區消防局對面",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有一路面坑洞，致車輛被卡住無法移動，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 10:13:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915460",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 10:05:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路435號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹橫躺人行道上，且已有影響住家進出，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 10:06:31",
     "Close_Date_": ""
   }
 ]
