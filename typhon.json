@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160916558",
+    "FileNo_": "INS160916559",
     "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 11:00:15",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊招路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "親愛的台電人員: 從2016-09-14至2016-09-16 22:54分尚未復電，\n請問你到底要不要來修理。\n台電官方網站顯示無停電住戶，請問我們停電三天不是住戶嗎……請不要做假資料給上層的看好嗎",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916558",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 10:58:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "中山四路上，過了平河東路口，北上方向",
+    "address_": "中山四路上，過了平和東路口，北上方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處內向車道上有路樹傾倒，現場未有設置警示措施及光線不足，恐生危險，建請設置警示措施。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 10:59:40",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 09:22:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915445",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 09:16:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路284巷11弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷道路燈均故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 09:17:55",
     "Close_Date_": ""
   }
 ]
