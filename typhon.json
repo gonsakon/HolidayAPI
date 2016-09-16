@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917016",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 03:45:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中山二路上青年一路口(老四川附近，北上方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路口共桿路燈上所設置之道路指示牌已半脫落懸掛於道路上，恐掉落砸傷用路人，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917015",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 02:52:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 11:07:04",
     "Close_Date_": "2016/9/16 上午 12:33:50"
-  },
-  {
-    "FileNo_": "INS160915476",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/15 下午 10:56:15",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大寮區潮寮里潮安路90號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "9/14 中午停電至今都還沒復電，全里就剩我們這社區的12戶人家還在停電，麻煩派人處理一下，別漏掉我們這一小部分人。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 08:20:56",
-    "Close_Date_": ""
   }
 ]
