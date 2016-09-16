@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916110",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 10:05:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "裕誠路416號(裕誠牙科)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒，已阻礙出入，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916107",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 10:04:36",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160916103",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 09:54:06",
     "ReplyUnit_": "B01001",
     "zipcode_": "829",
     "ZipName_": "湖內區",
-    "address_": "",
+    "address_": "正義二路(正義社區，有機農場道路上)",
     "UnitName_": "養工處2",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面掏空(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該社區一鐵皮屋傾倒影響通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 10:04:49",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 11:39:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914508",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 11:32:32",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "四維路",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "多上台電的網業查了復電通知是23：00恢復電力，多過了還恢復電力到底在幹嗎？整條街上都沒電",
-    "AfterDesc_": "【主管解除管制】本案台電公司接獲民眾通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。台電公司\r\n 為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復局部區間\r\n 供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 01:00:31",
-    "Close_Date_": "2016/9/15 上午 01:11:18"
   }
 ]
