@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916205",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 01:29:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德惠路(翠屏活動中心前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916201",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 01:25:09",
@@ -99,23 +116,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 01:24:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916198",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/16 下午 01:19:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術南二路58號",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址路邊有颱風後樹枝成堆，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
