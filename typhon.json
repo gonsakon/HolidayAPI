@@ -341,19 +341,19 @@
   },
   {
     "FileNo_": "INS160916549",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/16 下午 10:23:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "高雄市燕巢區橫山里興隆路一巷26弄2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "到現在顯示沒有停電區域，但是為什麼我們橫山里還是有停電區域，一定這樣隱瞞實際情況嗎？還沒修理好，什麼時候可以維修好！拜託，給個時間",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 11:45:50",
     "Close_Date_": ""
   },
   {
