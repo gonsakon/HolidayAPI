@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916143",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 11:18:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916141",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 11:16:24",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 06:25:55",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915030",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/15 上午 06:15:56",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "愛國路87巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "請問此區說加派處理但卻沒任何一點下文，是否可以給予確切時間及確切原因？附近居民都有電這區卻一一等不到。",
-    "AfterDesc_": "三民區停電已通報INS160914467台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 09:18:48",
-    "Close_Date_": "2016/9/15 上午 09:20:30"
   }
 ]
