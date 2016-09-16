@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160916097",
+    "FileNo_": "INS160916098",
     "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 09:47:58",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "保安路、鹽保路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "電線掉落",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916097",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 09:46:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路784號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前路樹傾倒，已影響住戶出入，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 09:48:10",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 10:51:40",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914496",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 10:39:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十九路60巷61號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有瓦斯異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/15 10:44電覆陳情人未果，故於2016/09/15 10:46簡訊回覆:賴小姐您\r\n好，您9月14日反映空汙問題，本府環保局派員前往，人員於通報地址附近巡查，未發現有明顯瓦斯異\r\n味空汙情事，人員以PID及4用氣體量測，數據均為0ppm，感謝您的熱心通報，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/14 下午 10:42:47",
-    "Close_Date_": "2016/9/15 上午 10:46:53"
   }
 ]
