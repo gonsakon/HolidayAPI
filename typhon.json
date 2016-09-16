@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160916400",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 06:17:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "溪濱路上(台88下方路口)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈白天未熄，建請查處。",
+    "BeforeDesc_": "渠反映該路段沿線路燈早上開始持續白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 06:20:10",
     "Close_Date_": ""
   },
   {
