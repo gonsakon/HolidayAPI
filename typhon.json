@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917009",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 01:26:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "美都路與遼寧三街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒，妨礙交通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917008",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 01:21:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 10:37:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915469",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 10:26:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "和光街173巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 10:36:48",
     "Close_Date_": ""
   }
 ]
