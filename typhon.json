@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916567",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 11:31:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林三路566號前，大寮區消防局對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一路面坑洞，致車輛被卡住無法移動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916566",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 11:26:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 09:52:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915453",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 09:37:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南江街185號(公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處一公園樹傾倒，影響正義里活動中心里民進出，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 09:38:13",
     "Close_Date_": ""
   }
 ]
