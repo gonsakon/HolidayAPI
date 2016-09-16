@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916166",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 12:06:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "十全一路與吉林街口(三民公園內)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處公園內疑似有水管破裂冒水,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916165",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 下午 12:02:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 07:56:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915055",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 上午 07:53:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大中二路333號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前有3棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 07:54:49",
     "Close_Date_": ""
   }
 ]
