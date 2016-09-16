@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916525",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 09:24:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌路上，近捷運油廠國小站1號出口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916524",
     "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 09:20:50",
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS160916476",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/16 下午 07:47:51",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "華山路與華山路200巷口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水利局工程告示有牌傾斜嚴重情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 07:09:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915411",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 08:04:03",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "過溪里的電",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "親愛的台電人員，我們大寮區過溪里已經從昨天下午兩點停電到現在，我知道很多地方都需要搶修，但如果可以的話，可以儘量快速幫我們搶修一下嗎？？謝謝 ，也辛苦了！！",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:09:40",
     "Close_Date_": ""
   }
 ]
