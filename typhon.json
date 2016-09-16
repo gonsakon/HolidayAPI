@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917002",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 12:32:00",
+    "ReplyUnit_": "",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區大明路97巷28號",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "新甲虹庭大樓 102戶 無水使用",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917001",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 12:21:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 10:13:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915463",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 10:09:37",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "典昌街與口，台17線上",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路口有一黑色犬隻倒臥於慢車道上，疑似遭撞受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 10:13:38",
     "Close_Date_": ""
   }
 ]
