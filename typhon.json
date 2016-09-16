@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160916317",
+    "FileNo_": "INS160916318",
     "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 04:44:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過勇路79巷46號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916317",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 04:42:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "文忠路153號(正忠排骨飯)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者有油煙空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 04:44:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 01:11:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915204",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 下午 01:07:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "康莊路近大鵬路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處因上午未有垃圾車清運，導致該處已堆積成垃圾山，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 01:37:20",
     "Close_Date_": ""
   }
 ]
