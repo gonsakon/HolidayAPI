@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917011",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 02:06:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲一路356號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前方機車道上有一長約4公尺、寬約2公尺、深約2公尺之大坑洞，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917010",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 01:32:29",
@@ -52,20 +69,20 @@
   },
   {
     "FileNo_": "INS160917007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/17 上午 12:57:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "五福路165巷21弄停電",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "高雄市林園區五福路165巷21弄2之2號我們家這裡整排停電 不過隔一條路其他地方都有電力供應請派人員去修繕 我到現在已經3天了 快第4天了拜託 我們需要供電",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於人民陳情案件A-TB-2016-78610由台電公司辦理，倘您對本案處理有疑問，\r\n歡迎您再電洽1999，亦可直接洽詢台電公司1911，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 02:03:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/17 上午 02:08:26"
   },
   {
     "FileNo_": "INS160917006",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 10:45:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915471",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 10:29:00",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "警悟巷2號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 10:31:15",
     "Close_Date_": ""
   }
 ]
