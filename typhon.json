@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916134",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 11:02:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "軍校路698號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有兩堆瓦礫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916133",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 上午 11:01:27",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160916132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 11:01:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路與神農路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈有閃燈故障情事，建請查處。",
+    "BeforeDesc_": "渠反映該路口號誌燈有閃紅燈故障情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 11:02:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 03:49:19",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915022",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/15 上午 03:37:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "龍德路與大順一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有瀰漫類似化學及燒焦異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】環保局潘政&#23791;先生於09/15 06:03 回報：稽查人員於04:50到場，稽查時人員於該址\r\n及附近路段巡查，未發現有瀰漫類似化學及燒焦異味導致空汙情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 03:39:06",
-    "Close_Date_": "2016/9/15 上午 06:06:31"
   }
 ]
