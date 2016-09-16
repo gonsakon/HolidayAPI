@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160916104",
+    "FileNo_": "INS160916105",
     "Status_": "1",
+    "Cre_Date_": "2016/9/16 上午 09:57:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路276號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址人行道有樹葉、枝，遭居民清掃於此堆放，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160916104",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 上午 09:55:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國泰路一段195號至17號 之間",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處沿線路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 上午 09:57:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/14 下午 10:59:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160914503",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/14 下午 10:52:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永新南街nhk整個社區183戶",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "從今日下午15:00停電到現在、是否有相關單位在處理？何時能供電？",
-    "AfterDesc_": "【主管解除管制】本案台電公司接獲民眾通報之停電資訊，已立即派員趕赴現場處理，停電原因查證中。台電公司\r\n 為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電影響範圍，於搶修過程陸續恢復局部區間\r\n 供電，並加速完成搶修至全面修復，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 01:02:34",
-    "Close_Date_": "2016/9/15 上午 01:11:08"
   }
 ]
