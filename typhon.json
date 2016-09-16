@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160916257",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/16 下午 03:14:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "開封路148號前(近七賢一路轉角)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處路樹傾倒壓住本人汽車,造成車輛無法開離,要求儘速協助。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160916256",
     "Status_": "1",
     "Cre_Date_": "2016/9/16 下午 03:07:07",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS160916225",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/16 下午 02:02:37",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路402巷3弄3之1號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址汙水管阻塞倒流至陳情人住家的陽台，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 上午 10:48:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915142",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/15 上午 10:45:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "岡山北路與民治路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "交通號誌故障，大路口造成交通混亂",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 上午 10:50:41",
     "Close_Date_": ""
   }
 ]
