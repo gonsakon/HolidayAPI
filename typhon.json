@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160916256",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/16 下午 03:07:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路 新田路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "該路口多桿行人燈轉向歪斜及燈罩脫落，且近漢神百貨行人燈燈桿傾斜",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/16 下午 03:17:25",
     "Close_Date_": ""
   },
   {
