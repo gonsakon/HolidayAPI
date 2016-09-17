@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917225",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 03:39:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中安路與明鳳三路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道上皆是落葉，影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917224",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 03:36:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 01:12:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916194",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 01:10:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "五福二路136號(福懋精硯大樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處排水溝阻塞，致有持續積水情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 01:12:31",
     "Close_Date_": ""
   }
 ]
