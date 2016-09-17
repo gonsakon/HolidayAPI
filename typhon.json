@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917141",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 12:36:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠陽路180巷47弄1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917140",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 12:35:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 10:12:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916110",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 上午 10:05:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "裕誠路416號(裕誠牙科)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒，已阻礙出入，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 10:06:05",
     "Close_Date_": ""
   }
 ]
