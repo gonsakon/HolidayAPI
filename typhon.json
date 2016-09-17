@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917541",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 10:40:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "福興街119號對面公園附近",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處民眾燃放鞭炮致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 10:41:31",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917540",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 10:38:54",
@@ -5288,14 +5305,14 @@
   },
   {
     "FileNo_": "INS160917222",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 03:35:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路與熱河一街口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈電線垂落，已造成民眾行經有危險，且現場雙向號誌亦故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 08:49:34",
     "Close_Date_": "2016/9/17 下午 01:54:43"
-  },
-  {
-    "FileNo_": "INS160916506",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/16 下午 08:42:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正忠路205之3號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有樹枝及垃圾影響通行，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/16 22:00 三民東區清潔隊王文全先生回報，該處早上就已清除完畢；並\r\n於09/17 13：51電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 08:49:36",
-    "Close_Date_": "2016/9/17 下午 01:55:48"
   }
 ]
