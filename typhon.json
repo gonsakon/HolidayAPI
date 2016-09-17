@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918009",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 上午 12:35:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "南汕巷58號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址周邊能有民眾再燃放鞭炮情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 上午 12:36:03",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918008",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 12:32:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 10:59:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916557",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 10:56:05",
-    "ReplyUnit_": "E01003",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "新豐街",
-    "UnitName_": "自來水公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停水",
-    "BeforeDesc_": "隔壁街道或其它里都已經供水好幾個小時了，為什麼我們這裡一直沒有水。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 12:42:02",
     "Close_Date_": ""
   }
 ]
