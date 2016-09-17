@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917319",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 05:41:10",
+    "ReplyUnit_": "B01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "武營路監理所大門對面",
+    "UnitName_": "養工處2",
+    "StatusName_": "建立中",
+    "InformDesc_": "公所-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒於路面，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917318",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 05:39:11",
@@ -1088,23 +1105,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160917252",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 04:15:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "鴨寮里新民路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待確認",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 04:20:38",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160917253",
     "Status_": "3",
     "Cre_Date_": "2016/9/17 下午 04:15:08",
@@ -1119,6 +1119,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:21:13",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917252",
+    "Status_": "3",
+    "Cre_Date_": "2016/9/17 下午 04:15:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "鴨寮里新民路沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 04:20:38",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:04:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916289",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 04:00:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "經武路(鳳山醫院前、消防隊前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有歪斜情事，導致無法辨識，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:02:11",
     "Close_Date_": ""
   }
 ]
