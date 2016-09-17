@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160917407",
+    "FileNo_": "INS160917408",
     "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 07:15:55",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金鼎路66巷(靠金獅湖湖邊)",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區設備損壞有立即危險者",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917407",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 07:15:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "力行路與占岸路(漁港公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該處公園園燈均故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 07:16:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 05:49:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916374",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 05:46:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "林森三路6號(近中山二路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中有落葉垃圾及招牌掉落的碎片，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 05:48:35",
     "Close_Date_": ""
   }
 ]
