@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917461",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 08:04:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金山路89巷口(三民高中運動場側門)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路口有一路燈傾倒且燈桿上附掛2台監視器，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917460",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 08:03:21",
@@ -201,6 +218,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:52:02",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917445",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 07:51:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "中山路接久堂路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 08:05:33",
     "Close_Date_": ""
   },
   {
@@ -1204,23 +1238,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:58:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917380",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/17 下午 06:55:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路19巷的公園",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映目前有民眾在該公園內水泥處生火烤肉，建請儘速查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 06:50:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916424",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 06:46:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "港后里天順街與港安街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 06:48:54",
     "Close_Date_": ""
   }
 ]
