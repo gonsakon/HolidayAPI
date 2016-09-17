@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160917111",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 上午 11:24:13",
+    "ReplyUnit_": "F01004",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光遠路121巷",
+    "UnitName_": "鳳山區公所",
+    "StatusName_": "待確認",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處六米以下巷道路面有下陷情事，已有民眾騎車摔倒，現場已放置三角錐，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 上午 11:31:19",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917110",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 11:23:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 09:14:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916082",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 09:09:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "山邊路2號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 09:10:35",
     "Close_Date_": ""
   }
 ]
