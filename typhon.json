@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918019",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 01:52:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路與龍成路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場仍有員警)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918018",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 01:39:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 11:40:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916567",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 11:31:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路566號前，大寮區消防局對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，致車輛被卡住無法移動，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 11:33:18",
     "Close_Date_": ""
   }
 ]
