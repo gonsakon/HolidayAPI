@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917112",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 11:25:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路1299至1353號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一怪手在整理路樹斷肢，惟業者使用壓力剪連完好的樹都一併連根把起，對此深感不滿，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917110",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 11:23:24",
@@ -61,7 +78,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址路燈桿上蝴蝶旗，勾到陳情人水管懸掛於此，恐致掉落情況，建請查處。",
+    "BeforeDesc_": "渠反映該址路燈桿上蝴蝶旗，勾到陳情人水管懸掛於此，恐致掉落危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 09:09:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916079",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 09:03:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十二路與北林路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 09:08:30",
     "Close_Date_": ""
   }
 ]
