@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918026",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 03:34:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山西路366號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處慢車道有一坑洞，建請補竣。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918025",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 03:19:22",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS160918014",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 上午 01:04:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河北二路134號對面(三鳳宮對面)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處人行道上有燒烤攤販營業中，燒烤油煙逸散導致空氣污染，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 01:40:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917002",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/17 上午 12:32:00",
-    "ReplyUnit_": "E01003",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山區大明路97巷28號",
-    "UnitName_": "自來水公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停水",
-    "BeforeDesc_": "新甲虹庭大樓 102戶 無水使用",
-    "AfterDesc_": "因停電導致各給水廠供水問題，目前台電與水公司皆已加派人員全面搶修，恢復供水後因管線末端及\r\n地勢問題，屆時仍需數小時方可全面恢復原有用水。自來水公司目前公告2016/9/16下午2點陸續供水\r\n晚間12時全面恢復供水，故有需要用水可直接向自來水公司1910申請。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 01:43:43",
-    "Close_Date_": "2016/9/17 上午 01:45:23"
   }
 ]
