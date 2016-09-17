@@ -1,36 +1,36 @@
 [
   {
     "FileNo_": "INS160917339",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:10:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮路與大智街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:11:47",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS160917338",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:09:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路765號對面，往順榮造船廠方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處道路破損致坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:12:16",
     "Close_Date_": ""
   },
   {
@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160917335",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 06:07:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "新光路上與中華五路口(新光園道)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處目前有許多民眾將機車騎入公園內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 06:11:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917334",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:07:14",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160917333",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:05:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "大關路30號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處道路破損坑洞致高低落差，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:12:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:39:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916309",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 04:33:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "五福二路與文橫二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處綠燈閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:33:52",
     "Close_Date_": ""
   }
 ]
