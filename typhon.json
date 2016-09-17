@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160917051",
+    "FileNo_": "INS160917052",
     "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:22:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "草衙一路254號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址處有一路樹壓倒店家圍牆，造成無法做生意至今仍未改善，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917051",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:19:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁雄路與大豐街(極限公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有多棵路樹傾倒至機車道，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 上午 09:22:50",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 01:45:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916020",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 01:29:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一心二路上，近文橫三路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道上有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 01:33:50",
     "Close_Date_": ""
   }
 ]
