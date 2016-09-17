@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917026",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 08:05:00",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "菜公路102巷21弄46號與48號之間",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "渠反映該處有一電桿變壓器蓋子遭吹落，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917025",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 07:30:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 11:41:52",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915486",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/15 下午 11:37:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功南路上，省道台1線367K處，北上方向，彩虹橋下方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 09/16 00:24 環保局 溝渠隊 李文山先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 11:41:09",
-    "Close_Date_": "2016/9/16 上午 12:25:52"
   }
 ]
