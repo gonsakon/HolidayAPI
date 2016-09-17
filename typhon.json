@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918030",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 05:40:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "林靖公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "座椅",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918029",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 05:30:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 02:03:10",
     "Close_Date_": "2016/9/17 上午 02:08:26"
-  },
-  {
-    "FileNo_": "INS160917006",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 上午 12:49:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路與後昌新路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處附近有不明人士在施放鞭炮，致噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 12:54:16",
-    "Close_Date_": ""
   }
 ]
