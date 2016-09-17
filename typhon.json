@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917429",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 07:38:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重愛路22巷38號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園內涼亭有民眾生火烤肉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917428",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 07:38:12",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS160917421",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 07:31:02",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林一路128巷178之1號(昭明家具，高85縣道，往林園方向)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處十字路口其電線桿上有一線路垂掛，已先協助放置路旁，建請查處。",
+    "BeforeDesc_": "渠反映該處十字路口其電線桿上有一線路垂落，已先協助放置路旁，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 07:39:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 06:15:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916396",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 06:13:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山西路217號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一廣告面板因颱風吹落至路邊，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 06:14:34",
     "Close_Date_": ""
   }
 ]
