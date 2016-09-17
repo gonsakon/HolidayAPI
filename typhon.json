@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917159",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 01:36:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路439號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該址前巷口路面有醬料油漬，已有警方在現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917158",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 01:18:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 10:55:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916128",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 10:50:11",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路與海專路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈故障，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 10:51:25",
     "Close_Date_": ""
   }
 ]
