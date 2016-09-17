@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918007",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 12:27:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明正東巷2之62號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處因電箱爆炸，導致從9月14日停電至今尚未復電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918006",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 12:23:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 12:09:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916555",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 10:40:40",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "小港路與大業北路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障全亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 10:42:29",
     "Close_Date_": ""
   }
 ]
