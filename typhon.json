@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917053",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:24:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917052",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 09:22:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 02:00:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916021",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 上午 01:32:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "鹽田路建豐巷51號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址目前已有停電36小時情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 01:45:22",
     "Close_Date_": ""
   }
 ]
