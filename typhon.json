@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917367",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 06:41:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "合群里海景街321號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有4盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917366",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 06:40:22",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160917363",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:38:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義永路68巷6號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有一鐵皮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:41:28",
     "Close_Date_": ""
   },
   {
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160917357",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:34:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "南星路與鳳北路口",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一電桿上有電箱冒火花，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:40:56",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 05:49:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916333",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 05:09:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路375號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處分隔島上有一路樹遭颱風連根拔起傾斜，目前僅有鐵板與電線拉住，恐有傾倒之虞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 05:11:43",
     "Close_Date_": ""
   }
 ]
