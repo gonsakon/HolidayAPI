@@ -511,19 +511,19 @@
   },
   {
     "FileNo_": "INS160917172",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 02:05:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "承德街及民族路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "承德街及民族路號誌故障，造成民族路車輛回堵到十全路口",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 03:05:56",
     "Close_Date_": ""
   },
   {
