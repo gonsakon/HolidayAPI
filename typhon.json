@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917313",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 05:30:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義永路54巷13號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊有一堆毀損的鐵皮，影響通行，望請派員清運，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917312",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 05:26:58",
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS160917278",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 04:45:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南江街與南華路口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面坍塌情事，建請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 03:54:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916283",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 03:51:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "光明路市場巷49號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:05:46",
     "Close_Date_": ""
   }
 ]
