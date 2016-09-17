@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160917519",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 09:49:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠三路與民泰街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "閃爍",
+    "BeforeDesc_": "渠反映該處交通號誌故障閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 09:51:55",
     "Close_Date_": ""
   },
   {
