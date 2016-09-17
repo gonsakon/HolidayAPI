@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917200",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 02:58:00",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.後昌路1240號；2.後昌路1302號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "反映該兩處各有一售屋廣告看版(250公分*80公分)被用細鐵絲綁在交通號誌桿上，影響行車視線及通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917198",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 02:56:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 02:46:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916168",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 12:08:38",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "明湖路34號(明湖園社區)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處社區有三隻攻擊流浪犬闖入，並攻擊住戶貓隻咬死，建請捕捉。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 12:12:33",
     "Close_Date_": ""
   }
 ]
