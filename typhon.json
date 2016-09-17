@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917075",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 上午 10:01:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "忠言路與富民路口(京城建設 )",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處工地有挖地基之機具施工噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 上午 10:04:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917074",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:59:09",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS160917050",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 上午 09:18:11",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路143巷1弄4號，2樓",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址陽台排水管阻塞，導致倒灌，請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 07:58:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916043",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 上午 07:24:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由二路6巷底，新上國小後方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處空地樹木傾倒佔據一半道路，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 07:27:51",
     "Close_Date_": ""
   }
 ]
