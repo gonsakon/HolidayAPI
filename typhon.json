@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917326",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 05:56:47",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路263巷58號右側",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明工程進行開挖作業後，無回填及放置安全措施逾四五日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917325",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 05:55:17",
@@ -1922,14 +1939,14 @@
   },
   {
     "FileNo_": "INS160917211",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 03:18:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "忠孝路50號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有水溝施工，導致機具施工噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:29:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916297",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 04:19:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "左楠路上(介於後昌路與宏毅二路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路段沿線路樹倒塌，致兩線道變一線道，人行道上也佈滿倒塌路樹，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:22:52",
     "Close_Date_": ""
   }
 ]
