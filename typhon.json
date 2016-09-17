@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917205",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 03:06:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "康定路170號(全聯)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "8126240前鎮區",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917204",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 03:01:13",
@@ -502,7 +519,7 @@
     "address_": "承德街及民族路口",
     "UnitName_": "交通局",
     "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
+    "InformDesc_": "號誌故障",
     "BeforeDesc_": "承德街及民族路號誌故障，造成民族路車輛回堵到十全路口",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 12:18:23",
     "Close_Date_": "2016/9/17 下午 03:04:54"
-  },
-  {
-    "FileNo_": "INS160916170",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 下午 12:09:16",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "上寮路146-50號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "有大樹倒塌壓到電線桿導致附近居民停電三天且電線都垂釣下來非常危險，請儘速修理",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:39:16",
-    "Close_Date_": ""
   }
 ]
