@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917314",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 05:32:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "宏平路391號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917313",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 05:30:17",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160917309",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 05:25:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路2281號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一座號誌燈底座螺絲鬆動，路燈會搖晃，建請查處。",
+    "BeforeDesc_": "渠反映該處有一座號誌燈底座螺絲鬆動，號誌燈會搖晃，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 05:31:56",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 03:57:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916284",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 03:52:24",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "壽民路80號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址住家後方有污水管堵塞情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 03:54:31",
     "Close_Date_": ""
   }
 ]
