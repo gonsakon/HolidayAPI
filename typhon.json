@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160917343",
+    "FileNo_": "INS160917344",
     "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 06:19:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "產業道路(近孔鳳路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，且線路垂落，建請查處。(路燈編號：48區5425之14)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917343",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:17:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大連街上(介於九如二路與遼寧一街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段路燈不亮已多日，建請查處。",
+    "BeforeDesc_": "渠反映該路段路燈故障不亮已多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:19:27",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:40:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916313",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 04:38:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "和平路三段20號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映於今日(09/16)下午1點多該處附近住戶皆復電時，該址前路燈卻隨即爆炸損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:44:28",
     "Close_Date_": ""
   }
 ]
