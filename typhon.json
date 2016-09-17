@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917118",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 11:41:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路彎大中二路後200至300公尺",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快慢車道上有多處坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917116",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 11:41:17",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160917113",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 11:28:12",
-    "ReplyUnit_": "E01005",
+    "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "中興里自由路129巷42號",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "停電",
+    "address_": "中興里自由路129巷58號與60號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈桿(桿號：370176)傾斜倒在住家陽台上，且下方水泥基座亦損換，恐傾倒發生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 上午 11:41:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 09:24:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916086",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 09:15:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與文南二街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌歪斜，用路人無法觀看，恐造成危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 09:17:54",
     "Close_Date_": ""
   }
 ]
