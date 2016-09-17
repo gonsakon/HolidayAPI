@@ -307,19 +307,19 @@
   },
   {
     "FileNo_": "INS160917026",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 08:05:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "菜公路102巷21弄46號與48號之間",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一電桿變壓器蓋子遭吹落，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 上午 08:54:20",
     "Close_Date_": ""
   },
   {
