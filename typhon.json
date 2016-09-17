@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917233",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 03:56:53",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "河東路與民生二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "該路口多桿行人燈故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917229",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 03:53:35",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160917232",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 03:53:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路606巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有成堆樹枝，並已影響交通，局處只派了一車清運完剩餘的沒清運，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 03:57:37",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 01:28:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916204",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 下午 01:24:50",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園區西溪里半?路92巷35號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "220v已停電2日了，請台電盡快派人搶修，家裡為養殖魚廠，魚損已破百萬了！請盡速，謝謝",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:38:05",
     "Close_Date_": ""
   }
 ]
