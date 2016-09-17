@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917575",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 11:33:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "林森三路與二聖二路口(盛興公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園內有半數園燈全數故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917574",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 11:22:35",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS160917562",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 11:04:37",
     "ReplyUnit_": "E01003",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路與前金二街口 (土魠羹攤位前)",
     "UnitName_": "自來水公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "消防栓漏水",
     "BeforeDesc_": "有水一直從六角形溝蓋流出",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 10:02:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916540",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 09:56:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "工業一路224巷15號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "路樹傾倒",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 12:13:30",
     "Close_Date_": ""
   }
 ]
