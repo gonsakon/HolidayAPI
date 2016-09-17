@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917177",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 02:18:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "青年路二段588巷3弄口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒在路邊，不影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917176",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 02:12:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 11:28:28",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916146",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/16 上午 11:25:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "東方路105巷",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該巷內有鐵皮與鐵架吹落，擔心造成用路人危險，建請查處。",
-    "AfterDesc_": "【承辦機關完成通報】09/16 12：47湖內區清潔隊劉怡緩小姐回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 11:26:48",
-    "Close_Date_": "2016/9/17 上午 09:06:25"
   }
 ]
