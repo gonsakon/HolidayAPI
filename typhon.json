@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917057",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:25:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "北賢街165號旁(鎮北北巷與北賢街口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917055",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 09:25:29",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160917052",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:22:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙一路254號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址處有一路樹壓倒店家圍牆，造成無法做生意至今仍未改善，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 上午 09:26:02",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 02:35:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916024",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 02:17:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "應昇路23號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址卡拉OK業者有擴音器噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 02:21:30",
     "Close_Date_": ""
   }
 ]
