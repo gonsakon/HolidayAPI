@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918016",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 01:16:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "中興西路91巷69號(靠近路口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈已故障一個月不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918015",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 01:11:12",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS160917547",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 10:47:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "平等路，民族國小操場",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有民眾燃放爆竹煙火，噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 11:25:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916564",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 11:14:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多一路163號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處一棵路樹傾斜45度，望請派員扶正，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 11:18:59",
     "Close_Date_": ""
   }
 ]
