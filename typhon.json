@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160917181",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 02:30:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路81巷67號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址工廠有燃燒鍋爐油，排放廢氣致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 02:34:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917180",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 02:27:49",
@@ -2160,14 +2177,14 @@
   },
   {
     "FileNo_": "INS160917055",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 上午 09:25:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中生巷2號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址前有一棵路樹傾倒至路面，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 11:45:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916152",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 11:42:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功一路182號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭人丟棄一般垃圾及樹枝樹木，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 11:44:31",
     "Close_Date_": ""
   }
 ]
