@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917154",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 01:11:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗津三路954巷口對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園涼亭有民眾生火烤肉,請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917153",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 01:08:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 10:40:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916123",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 上午 10:31:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "通燕路與中崎路(該兩路段從高速公路至路口)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處兩路段路燈白天未熄已兩天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 10:32:35",
     "Close_Date_": ""
   }
 ]
