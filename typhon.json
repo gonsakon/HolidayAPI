@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160917224",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 03:36:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌路227巷33號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電之纜線斷裂掉落，且有產生火花之情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 03:39:57",
     "Close_Date_": ""
   },
   {
