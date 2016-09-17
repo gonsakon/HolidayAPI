@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160917334",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:07:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "北平路176巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:08:13",
     "Close_Date_": ""
   },
   {
@@ -82,6 +82,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917329",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 05:59:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路上靠近中華三路(三鳳宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處廟宇施放信號彈，產生煙霧致空氣污染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 06:08:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:38:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916304",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 下午 04:30:39",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "鴨寮高分4至鴨寮高分5電桿線斷",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "颱風至今，停電欠相，附近養殖漁塭無電可用，麻煩協助，謝謝～",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:37:44",
     "Close_Date_": ""
   }
 ]
