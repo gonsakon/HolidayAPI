@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917066",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:41:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "左楠路(油廠國小前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "楠梓區 北上",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917063",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 09:39:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 06:52:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916034",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 上午 06:20:11",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "燕巢區大成路深水教堂",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "中秋節快樂 辛苦了地點：燕巢區 大成路深水教會電線桿被樹壓倒已經停電第二天了 是否可以盡快處理",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 08:20:20",
     "Close_Date_": ""
   }
 ]
