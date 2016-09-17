@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917339",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 06:10:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大寮路與大智街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917338",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 06:09:22",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160917332",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:04:48",
     "ReplyUnit_": "B02000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "振興里自治巷41號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處颱風過後污水孔蓋遺失，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:09:44",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 04:33:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916308",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 04:33:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中華三路23號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前方人行道上有三棵路樹連根拔起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 04:39:04",
     "Close_Date_": ""
   }
 ]
