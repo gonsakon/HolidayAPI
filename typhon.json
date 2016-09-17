@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917062",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:33:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街(介於民族一路與山東街)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917058",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:30:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 06:06:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916030",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 05:24:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高鳳路北上 ( 過孔鳳路口約100公尺處)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處內側車道有一大型坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 05:26:06",
     "Close_Date_": ""
   }
 ]
