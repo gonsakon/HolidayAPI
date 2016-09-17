@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS160917515",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 09:44:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "建國橋與河西一路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有號誌桿傾斜嚴重，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 09:46:07",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917514",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 09:43:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "康定路84號之2(桂蘭華卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有卡拉OK設備音量過大，造成噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 09:46:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 08:04:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916481",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 07:59:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓西巷21弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷弄沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 08:01:41",
     "Close_Date_": ""
   }
 ]
