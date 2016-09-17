@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160917063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:39:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "1.七賢一路,七賢國小大門 2.七賢一路與仁愛一街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映因星期一即要開學,該兩處人行道及路旁皆堆放樹枝及垃圾,要求儘速清理。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 上午 09:43:03",
     "Close_Date_": ""
   },
   {
@@ -51,23 +51,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160917065",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 上午 09:37:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢威街29巷",
-    "UnitName_": "環保局",
-    "StatusName_": "待確認",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有機械運轉之尖銳噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 09:38:52",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160917064",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 09:37:07",
@@ -82,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917065",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 上午 09:37:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "漢威街29巷",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有機械運轉之尖銳噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 上午 09:38:52",
     "Close_Date_": ""
   },
   {
