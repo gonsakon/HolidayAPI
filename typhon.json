@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917043",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 08:44:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港順街32號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈開關箱遭吹落，恐因此導致該處10多盞路燈不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917042",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 08:43:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 12:54:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916010",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 上午 12:46:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪五路100巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處巷道瀰漫嚴重油臭味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 12:48:09",
     "Close_Date_": ""
   }
 ]
