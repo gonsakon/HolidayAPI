@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917357",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 06:34:04",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南星路與鳳北路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917356",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 06:33:21",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS160917303",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/17 下午 05:09:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "蓮潭路與勝利路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有許多樹枝、垃圾包堆積，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 05:07:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916326",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/16 下午 05:03:39",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "小港區店陽街6號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "本來這區停電但部分供電只有我們這幾戶繼續停水停電，麻煩請盡快派相關人員來維修，謝謝你",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:27:04",
     "Close_Date_": ""
   }
 ]
