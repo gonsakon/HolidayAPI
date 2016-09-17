@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917027",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 08:11:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多一路上(市區往鳳山方向；衛武營圍牆)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該路段上有一路樹傾倒，惟其餘樹木皆清除僅有該棵未清，致倒塌於車道上，恐致用路人危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917026",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 上午 08:05:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/15 下午 11:40:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160915487",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/15 下午 11:38:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "光華三路與管仲南路口 (光華三路上)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈傾倒於號誌燈上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/15 下午 11:41:52",
     "Close_Date_": ""
   }
 ]
