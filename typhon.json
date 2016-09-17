@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917222",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 03:35:08",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917221",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 03:33:49",
@@ -7600,14 +7617,14 @@
   },
   {
     "FileNo_": "INS160916345",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/16 下午 05:22:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自強二路與班超路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "雙向號誌沒有訊號，經常有大小車來往，行車與走路會有危險，麻煩請盡速確認處理（ps.因行車不方便邊停拍照，因而取用google街景示圖）",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 01:12:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916191",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 01:08:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金山路242號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有招牌倒在慢車道，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 01:14:29",
     "Close_Date_": ""
   }
 ]
