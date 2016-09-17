@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917485",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 08:44:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917484",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 08:43:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 07:09:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916451",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 07:06:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路322號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址業者排放不明化學異味與油煙飄散，導致頭暈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:12:28",
     "Close_Date_": ""
   }
 ]
