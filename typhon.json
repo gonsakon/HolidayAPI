@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160917349",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:24:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "東亞路8號、12號、16號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該三址處前方各有一盞路燈故障不亮，且燈頭歪斜，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:26:32",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160917346",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 06:23:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗甲路一段(國立旗山農工前)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一交通號誌燈因颱風被吹到角度歪斜，影響視線，建請查處。",
+    "BeforeDesc_": "渠反映該處有一交通號誌燈因颱風被吹致角度歪斜，影響視線，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 06:26:22",
     "Close_Date_": ""
   },
   {
