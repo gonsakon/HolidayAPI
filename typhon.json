@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160917518",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 09:48:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳松路20巷與鳳松路口(鳳松路上)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口被丟棄5至6包米袋裝垃圾，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 09:51:32",
     "Close_Date_": ""
   },
   {
@@ -64,7 +64,7 @@
     "BeforeDesc_": "渠反映該處周界目前飄散類似化學惡臭異味，造成空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 09:50:16",
+    "Save_Date_": "2016/9/17 下午 09:50:50",
     "Close_Date_": ""
   },
   {
