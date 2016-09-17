@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918037",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 07:06:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家製造油煙空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918036",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 07:03:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 02:58:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917013",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 上午 02:40:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中厝路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "自9/16中午起，林園區中厝里就持續有濃濃的油污味，白天稍可忍受，但晚上更加惡化，呼吸不順睡不著，快抓狂了",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 04:50:16",
     "Close_Date_": ""
   }
 ]
