@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918024",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 03:12:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "臨海路 ( 薑母鴨店至中油加油站之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918023",
     "Status_": "3",
     "Cre_Date_": "2016/9/18 上午 02:53:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 12:24:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916572",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 11:56:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "民康街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 11:57:43",
     "Close_Date_": ""
   }
 ]
