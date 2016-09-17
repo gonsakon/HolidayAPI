@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917472",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 08:21:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "241號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917471",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 08:21:25",
@@ -44,7 +61,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處公園內有民眾在公園內燃放爆竹煙火，建請查處。",
+    "BeforeDesc_": "渠反映該處公園內有民眾在燃放爆竹煙火，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 07:25:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916436",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 06:54:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營下路53號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一路燈故障不亮已兩天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 06:55:53",
     "Close_Date_": ""
   }
 ]
