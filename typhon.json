@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160917282",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/17 下午 04:46:50",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區林森一路285號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "舉發AQU-6955,於車道中併排停車，提供兩張照片，建議罰款2400。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/17 下午 04:51:01",
     "Close_Date_": ""
   },
   {
