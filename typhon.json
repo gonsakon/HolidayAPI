@@ -171,20 +171,20 @@
   },
   {
     "FileNo_": "INS160917281",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/17 下午 04:46:42",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區林森一路285號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "舉發AQU-6955,於車道中併排停車，提供兩張照片，建議罰款2400。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於09/17 16：48通報110蕭警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:50:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/17 下午 04:55:39"
   },
   {
     "FileNo_": "INS160917280",
