@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917068",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 上午 09:48:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山區信中街299號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917066",
     "Status_": "2",
     "Cre_Date_": "2016/9/17 上午 09:41:02",
@@ -10,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
-    "BeforeDesc_": "楠梓區 北上",
+    "BeforeDesc_": "渠反映現該校前北上車道因車禍有路面油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 09:47:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 上午 07:17:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916036",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 上午 06:48:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路8號前 (桂林汽車旅館前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹傾倒於路面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 上午 06:49:50",
     "Close_Date_": ""
   }
 ]
