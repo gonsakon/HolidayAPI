@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917198",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 02:56:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.後昌路1189號 (7-11前)；2.後昌新路1號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有售屋廣告看版(250公分*80公分)被用細鐵絲綁在交通號誌桿上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917197",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 02:54:45",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917196",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/17 下午 02:52:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "仁愛路一段50號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前有機具致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 02:55:57",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 12:12:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916167",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 12:07:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路375號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前一路樹傾倒快壓倒電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 12:08:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160916166",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/16 下午 12:06:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "近十全一路與吉林街口(三民公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處公園內疑似有水管破裂冒水,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 12:07:54",
     "Close_Date_": ""
   }
 ]
