@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160917498",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/17 下午 08:58:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南京路與五甲一路口，往中崙路方向",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處汽車道號誌綠燈秒數僅有十秒鐘，疑似故障，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160917497",
     "Status_": "1",
     "Cre_Date_": "2016/9/17 下午 08:57:23",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS160917480",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/17 下午 08:38:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路29巷24弄與中華一路29巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有堆置垃圾包、鐵片等，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/16 下午 07:29:29",
     "Close_Date_": "2016/9/17 下午 04:09:39"
-  },
-  {
-    "FileNo_": "INS160916464",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/16 下午 07:26:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中山北路89號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/16 下午 07:27:14",
-    "Close_Date_": ""
   }
 ]
