@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160918297",
+    "FileNo_": "INS160918298",
     "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 04:32:26",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "安樂街與正安街口路後",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "電幹地纜線斷裂掉落。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918297",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 04:31:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延慶街與平等路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 04:32:09",
     "Close_Date_": ""
   },
   {
@@ -47,7 +64,7 @@
     "BeforeDesc_": "渠反映該址前方有四棵路樹傾倒，兩側約有六棵路樹傾倒，已影響該處民眾通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 04:26:23",
+    "Save_Date_": "2016/9/18 下午 04:34:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:36:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917272",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 04:31:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八卦里八德東路21號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前有一盞路燈燈頭遭颱風吹斷，目前遺失致無光線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 04:33:44",
     "Close_Date_": ""
   }
 ]
