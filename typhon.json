@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918328",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 05:15:09",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "捷西路與中正路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路段號誌燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918327",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 05:14:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 05:14:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917302",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 05:09:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高松路126之29號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前路段單位整理之掉落樹枝未清，已擋到陳情人出入，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 05:11:40",
     "Close_Date_": ""
   }
 ]
