@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919034",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/19 上午 07:20:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民權一路與民生一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處雙向號誌閃燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/19 上午 07:19:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919032",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 07:16:18",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS160919025",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/19 上午 06:55:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路南下近中山東路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道有一幼貓屍體，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 09:32:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917510",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 09:28:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "府北路1號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 09:29:03",
     "Close_Date_": ""
   }
 ]
