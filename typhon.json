@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918329",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 05:18:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "大宅巷180號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有農地香蕉樹倒在馬路上，堆積大量葉子，已孳生大量蚊蟲，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918328",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 05:15:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 05:20:51",
     "Close_Date_": "2016/9/18 上午 11:59:59"
-  },
-  {
-    "FileNo_": "INS160917303",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 05:09:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "蓮潭路與勝利路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊有許多樹枝、垃圾包堆積，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 05:14:51",
-    "Close_Date_": ""
   }
 ]
