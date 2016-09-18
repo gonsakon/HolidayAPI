@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918208",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 01:06:11",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路上(漢神巨蛋對面，合作金庫旁邊)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918207",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 01:01:30",
@@ -47,7 +64,7 @@
     "BeforeDesc_": "渠反映該處整排路樹傾倒，無法通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 01:00:45",
+    "Save_Date_": "2016/9/18 下午 01:03:27",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 02:35:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917182",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 02:30:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民裕街與管仲南路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 02:32:02",
     "Close_Date_": ""
   }
 ]
