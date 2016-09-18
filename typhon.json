@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918173",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 11:20:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "846",
+    "ZipName_": "杉林區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918172",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 11:18:23",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS160918165",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 上午 11:09:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "建國國小(明星街與瑞源路)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處人行道上有許多風災受損之樹木、樹枝，因未清運導致民眾在此丟棄垃圾，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 01:13:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917148",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/17 下午 01:03:36",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三民區林森一路281號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "0982-wt",
-    "AfterDesc_": "感謝您的反映，此案件已於09/17 13：48通報110楊警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 01:49:11",
-    "Close_Date_": "2016/9/17 下午 01:51:02"
   }
 ]
