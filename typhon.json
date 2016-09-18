@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918184",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 11:41:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九曲路237巷42號前(涵洞旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈線路垂落，行人可接觸到，恐有危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918183",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 11:41:36",
@@ -103,20 +120,20 @@
   },
   {
     "FileNo_": "INS160918177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 上午 11:30:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "海專路與德民路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "在海專路與德民路交叉口紅綠燈壞掉，至今還未修理，此處又是交流道及楠梓加工出口區附近，十分危險",
-    "AfterDesc_": "",
+    "AfterDesc_": "此案已接獲通報，並已派工INS160918126通報交通局處理中。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 11:40:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 上午 11:41:57"
   },
   {
     "FileNo_": "INS160918176",
@@ -256,19 +273,19 @@
   },
   {
     "FileNo_": "INS160918168",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 上午 11:12:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "三山街37巷4號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址隔壁住家懸掛牆面的電線，因颱風天全部吹落在陳情人家屋頂上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 上午 11:42:26",
     "Close_Date_": ""
   },
   {
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS160918146",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 上午 10:37:02",
     "ReplyUnit_": "E01005",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路39號(文學館)",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "瘸反映該處因中央公園路樹傾倒致壓到高壓供電系統，造成已停電許久，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 01:42:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917159",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 01:36:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由二路439號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前巷口路面有醬料油漬，已有警方在現場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 01:39:12",
     "Close_Date_": ""
   }
 ]
