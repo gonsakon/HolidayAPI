@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918365",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 06:34:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學十八街25號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918364",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 06:31:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:12:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917337",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/17 下午 06:09:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路762巷/鼎富路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "路口鏡",
-    "AfterDesc_": "此案與派工INS160917336相同，併案處理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:22:29",
-    "Close_Date_": "2016/9/17 下午 06:24:03"
   }
 ]
