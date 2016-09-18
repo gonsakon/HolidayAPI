@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS160918230",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 01:59:53",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中山二路與三多三路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障，綠燈秒數只有10秒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 02:00:54",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918229",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 01:58:45",
     "ReplyUnit_": "B02000",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "民生二路60號(亞洲總會大廈前)",
+    "address_": "民生二路60號(亞洲總會大廈管理室前)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一塑膠水溝蓋遺失，現場已設立安全措施，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 02:01:50",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 03:12:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917204",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 03:01:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德南路(往西至高速公路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 03:02:50",
     "Close_Date_": ""
   }
 ]
