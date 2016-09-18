@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160918269",
+    "FileNo_": "INS160918270",
     "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 03:35:53",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "旗楠路99之1號、99之2號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址仍未供電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918269",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 03:34:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生一路77號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一路燈燈具遭颱風損壞吹落，建請查修。(民眾已先行收起燈具)",
+    "BeforeDesc_": "渠反映該址前有一路燈燈具遭颱風損壞吹落，建請查修。(民眾將燈具另行收起)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 03:36:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:09:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917244",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 04:07:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林二路與仁德路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映民眾將風災掉落樹枝集中堆放該處，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 04:15:30",
     "Close_Date_": ""
   }
 ]
