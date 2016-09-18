@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160918484",
+    "FileNo_": "INS160918485",
     "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 10:52:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金中街11之2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918484",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 10:50:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐二路306巷46號10樓以上",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處樓層有冷氣滴水，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 10:52:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 08:04:25",
     "Close_Date_": "2016/9/18 下午 12:38:59"
-  },
-  {
-    "FileNo_": "INS160917459",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 08:02:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "德威街11號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞LED燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 08:03:34",
-    "Close_Date_": ""
   }
 ]
