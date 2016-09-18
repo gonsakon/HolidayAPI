@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919033",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 07:13:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "英義街與英德街19巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處巷口堆置大量廢棄家具及垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919031",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 07:12:29",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160919026",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 07:00:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "益群橋上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處分隔島上四盞投射燈均故障不亮，護欄人行道上照明燈也都不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 07:15:47",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 09:26:47",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917508",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/17 下午 09:24:41",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路263巷58號右側",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有路燈機底座工程進行開挖作業後，無回填及放置安全措施逾四五日，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/17 23:59養工處路燈科林冠甫先生回報，該處路燈科無施作路燈基座工\r\n程，係為第46期自辦重劃區，屬地政局權責，故另轉派非網A-TB-2016-79197賡續辦理；並於9/18 \r\n14：18電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 09:31:10",
-    "Close_Date_": "2016/9/18 下午 02:23:19"
   }
 ]
