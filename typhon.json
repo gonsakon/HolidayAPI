@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160918244",
+    "FileNo_": "INS160918245",
     "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 02:35:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同協路121號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈有鬆動搖晃情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918244",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 02:33:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民本街40號前圓環",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 02:35:00",
     "Close_Date_": ""
   },
   {
@@ -2177,20 +2194,20 @@
   },
   {
     "FileNo_": "INS160918114",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 上午 09:43:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路349巷100號與東昌街T字路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處因風災吹落的鐵皮屋鐵片，民眾先移至空地前方，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/18 11:43 楠梓區清潔隊王麒源先生回報，該處已清除完畢；本案不需電覆故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 09:47:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 下午 02:35:22"
   },
   {
     "FileNo_": "INS160918113",
@@ -2296,20 +2313,20 @@
   },
   {
     "FileNo_": "INS160918107",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 上午 09:38:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山三路上(獅甲國小、獅甲國中外圍)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該路段人行道上有許多風災受損之樹木、樹枝，昨日清潔隊清運一車後就未再派員，因明日學生即將上學，望請協助，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/18 10:34 前鎮區清潔隊張讚欽先生回報，目前已派員清理中,並已向陳情人說明,\r\n因數量及範圍大預計今日應可以清除完成,因無法立即完成，故改派非網A-TB-2016-79402賡續辦理；\r\n本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 10:07:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 下午 02:35:50"
   },
   {
     "FileNo_": "INS160918106",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 03:48:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917219",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 03:29:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永仁街200巷(永仁公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處有多數園樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 03:48:05",
     "Close_Date_": ""
   }
 ]
