@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918445",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 09:23:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路588號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 09:24:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918444",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 09:15:59",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS160918419",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 下午 08:12:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "立忠路與立忠路82巷交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該巷口遭人棄置舊傢俱與廢棄花盆和鐵浪板，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:37:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917421",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 07:31:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林一路128巷178之1號(昭明家具，高85縣道，往林園方向)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處十字路口其電線桿上有一線路垂落，已先協助放置路旁，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:39:03",
     "Close_Date_": ""
   }
 ]
