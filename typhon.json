@@ -1956,20 +1956,20 @@
   },
   {
     "FileNo_": "INS160918250",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 下午 02:42:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由二路與新莊仔路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處於水溝上方有許多碎玻璃，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/18 15:10左營區清潔隊陳立全先生回報，已清除完畢；並於9/18 18：38電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 02:58:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 下午 06:39:49"
   },
   {
     "FileNo_": "INS160918249",
