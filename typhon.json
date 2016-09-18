@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918331",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 05:21:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "武廟路133號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路旁有堆積許多大型樹木斷肢，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918330",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 05:21:15",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS160918321",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 下午 04:59:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德街19巷內，停車場轉彎處，宅急便對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路堆積大量垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 05:21:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917305",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 05:18:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "青年二路51號與53號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前路面上有堆置樹枝及鐵皮片，其擔心造成騎士危險，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 05:21:49",
     "Close_Date_": ""
   }
 ]
