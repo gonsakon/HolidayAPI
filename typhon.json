@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918426",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 08:27:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "國昌里(晉昌街、仁昌街、國昌街與周界巷道)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918425",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 08:25:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:14:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917401",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 07:12:32",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路263巷58號右側",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處有一台電工程設置電桿基座作業，現場有坑洞無回填及放置安全措施逾四五日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:17:57",
     "Close_Date_": ""
   }
 ]
