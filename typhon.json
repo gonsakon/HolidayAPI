@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160918427",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 08:29:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文府路407號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一盞LED路燈因颱風造成角度偏移，造成光線直射陳情人住家，導致困擾，建請調整。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 08:31:37",
     "Close_Date_": ""
   },
   {
