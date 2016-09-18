@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918409",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 07:45:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處洗車廠",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918408",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 07:44:06",
@@ -27,7 +44,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，現場視野昏暗，要求設警示燈，建請查處。",
+    "BeforeDesc_": "渠反映該處有一路面坑洞，現場視野昏暗，造成陳情人兒子騎車摔傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:58:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917383",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 06:54:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路上(靠近三多一路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:58:29",
     "Close_Date_": ""
   }
 ]
