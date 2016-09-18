@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919022",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 06:17:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "清興街上近旗屏二路口，約200公尺處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(清水幹8號)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919021",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 06:15:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 09:01:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917498",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 08:58:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南京路與五甲一路口，往中崙路方向",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處汽車道號誌綠燈秒數僅有十秒鐘，疑似故障，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 08:59:57",
     "Close_Date_": ""
   }
 ]
