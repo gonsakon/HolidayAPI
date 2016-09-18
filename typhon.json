@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918480",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 10:41:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918479",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 10:35:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:59:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917456",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 07:57:55",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "台1線與本工路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 08:00:23",
     "Close_Date_": ""
   }
 ]
