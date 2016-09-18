@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918425",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 08:25:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "聖德二街14號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處全線路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918424",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 08:21:11",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS160918414",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 下午 07:56:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中門路上(1.北上方向於港埔加油站前，2.再往北上坡處，大安社區外)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處由沿海路四段銜接起，地點一:位於外側車道有一坑洞；地點二:外側車道則有路面突起，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:17:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917400",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 07:10:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "南星路448號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有8至10盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:12:51",
     "Close_Date_": ""
   }
 ]
