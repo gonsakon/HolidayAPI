@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160919010",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 01:24:37",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "甲二街88號",
+    "address_": "鳳甲二街88號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電多時，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 01:26:18",
     "Close_Date_": ""
   },
   {
