@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918330",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 05:21:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "河南二路157號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918329",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 05:18:40",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS160918321",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 下午 04:59:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德街19巷內，停車場轉彎處，宅急便對面",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路堆積大量垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 05:21:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917304",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/17 下午 05:17:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "崗山南街與永豐路口，彰化銀行前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路邊有數包樹枝堆積，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/17 18：37 前鎮區清潔隊莊素雲小姐回報，該處落葉包還未清除，因目前\r\n人力不足，預計明日(9/18)會派員前往處理，故改派非網A-TB-2016-79123賡續辦理；並於9/18 11:59\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 05:20:51",
-    "Close_Date_": "2016/9/18 上午 11:59:59"
   }
 ]
