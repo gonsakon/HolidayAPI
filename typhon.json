@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160918422",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 08:17:28",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中民路659巷29弄19號",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有台電電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 08:23:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918421",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 08:16:13",
@@ -2143,14 +2160,14 @@
   },
   {
     "FileNo_": "INS160918295",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 下午 04:22:20",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠三路與民泰街",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌燈號誌不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:12:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917399",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 07:10:19",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "前庄路3之9號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該大樓後方之變電箱下之線路故障致停電已三天，望盡速修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:14:14",
     "Close_Date_": ""
   }
 ]
