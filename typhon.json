@@ -1071,23 +1071,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160918328",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/18 下午 05:15:09",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "捷西路與中正路口",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路段號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160918327",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 05:14:41",
@@ -2228,19 +2211,19 @@
   },
   {
     "FileNo_": "INS160918259",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 03:00:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "812台灣高雄市小港區漢民路675巷43號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "鳳山區保華ㄧ路，保南二路，一成街，這區路燈到現在《２０１６０９１８。１４：５７》還在亮，請派人處理，謝謝",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 07:26:50",
     "Close_Date_": ""
   },
   {
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:42:27",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917366",
+    "Status_": "3",
+    "Cre_Date_": "2016/9/17 下午 06:40:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文英路49巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷內有2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 06:41:49",
     "Close_Date_": ""
   }
 ]
