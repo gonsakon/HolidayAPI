@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918199",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 12:36:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918198",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 12:26:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 02:12:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917174",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 02:07:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路上(熱河一街往民族陸橋方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌燈號突然沿路不連鎖，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 02:08:10",
     "Close_Date_": ""
   }
 ]
