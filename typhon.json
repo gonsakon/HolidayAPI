@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160918214",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 01:14:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮路564巷122號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址處於凌晨3、4點停電至目前，仍未見復電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 01:19:50",
     "Close_Date_": ""
   },
   {
