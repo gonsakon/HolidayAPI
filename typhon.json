@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918431",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 08:34:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮路175號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918430",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 08:34:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:19:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917407",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 07:15:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "力行路與占岸路(漁港公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園園燈均故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:16:00",
     "Close_Date_": ""
   }
 ]
