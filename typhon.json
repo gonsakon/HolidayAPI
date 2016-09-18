@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918116",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 09:48:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "後昌路590巷67至89號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路段有多處樹枝致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918115",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 09:47:21",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160918114",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 09:43:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路349巷100號與東昌街T字路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處因風災吹落的鐵皮屋鐵片，民眾先移至空地前方，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 上午 09:47:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 10:56:40",
     "Close_Date_": "2016/9/18 上午 09:24:21"
-  },
-  {
-    "FileNo_": "INS160917092",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 上午 10:49:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路與澄明街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌閃燈故障多天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 10:51:52",
-    "Close_Date_": ""
   }
 ]
