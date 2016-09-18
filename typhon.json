@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918154",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 10:46:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂德街68號後方(桂誠街上)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有整片鐵皮遭吹至路面未清，導致無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918153",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 10:44:30",
@@ -9232,14 +9249,14 @@
   },
   {
     "FileNo_": "INS160917185",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 02:38:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路與承德路、熱河一街口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該兩路口與前後路口號誌未連鎖,陳情人表示昨天仍連鎖,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 12:02:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917129",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 上午 11:59:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌一路與士良街口(士良街上，鼎金國小圍牆旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路樹上有許多斷枝搖搖欲墜，恐掉下砸傷民眾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 12:02:33",
     "Close_Date_": ""
   }
 ]
