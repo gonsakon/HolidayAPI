@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918190",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 11:53:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "蓮潭路沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊樹枝都還未清，連民眾的垃圾都拿出來堆置了，導致已孳生蚊蟲，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918189",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 11:52:38",
@@ -4098,14 +4115,14 @@
   },
   {
     "FileNo_": "INS160917529",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/17 下午 10:19:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自立一路與河北二路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障閃爍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 01:53:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917163",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 01:47:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路37巷14弄5號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址前有2盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 01:51:18",
     "Close_Date_": ""
   }
 ]
