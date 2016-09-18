@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS160918393",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 07:18:58",
     "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
     "address_": "博愛一路158號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有打鼓及擴音器噪音，建請查處(陳情人要求會同，並於收案後先與其聯繫)。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 07:21:04",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918392",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 07:18:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路(2號至194號及1號至265號)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮已多日，265號前有一路燈燈罩掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 07:21:38",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:42:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917366",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 06:40:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文英路49巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內有2盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:41:49",
     "Close_Date_": ""
   }
 ]
