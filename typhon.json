@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918278",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 03:57:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918277",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 03:50:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:21:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917252",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 04:15:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "鴨寮里新民路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 04:20:38",
     "Close_Date_": ""
   }
 ]
