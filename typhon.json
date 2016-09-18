@@ -137,20 +137,20 @@
   },
   {
     "FileNo_": "INS160919033",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 上午 07:13:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英義街與英德街19巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處巷口堆置大量廢棄家具及垃圾，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/18 17:17 前鎮區清潔隊洪惠貞小姐回報，此案與派工INS160918321同一地點，該\r\n處垃圾不妨礙交通，惟因垃圾量相當大，需要派車處理，預計今日前往清運，無法立即清除，故改派\r\n非網A-TB-2016-79867 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:16:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 上午 07:51:25"
   },
   {
     "FileNo_": "INS160919031",
@@ -256,20 +256,20 @@
   },
   {
     "FileNo_": "INS160919025",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 上午 06:55:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路南下近中山東路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道有一幼貓屍體，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/19  07：20 鳳山區清潔隊許鳳美小姐回報，該處已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 06:57:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 上午 07:51:10"
   },
   {
     "FileNo_": "INS160919024",
