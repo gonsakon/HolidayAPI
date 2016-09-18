@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918108",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 09:38:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路1793號(振才幼兒園)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有許多樹枝，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918107",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 09:38:07",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS160918101",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 上午 09:26:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路102巷中正國小",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有許多樹枝、垃圾、碎玻璃及雜物，擔憂明日學童上學危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 10:28:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917084",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 上午 10:20:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路三段90號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹傾倒於大門前,造成家中車輛無法出來已三日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 10:21:33",
     "Close_Date_": ""
   }
 ]
