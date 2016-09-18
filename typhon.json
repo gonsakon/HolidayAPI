@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918432",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 08:36:11",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮路314號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918431",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 08:34:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 07:19:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917408",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 07:15:55",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路66巷(靠金獅湖湖邊)",
-    "UnitName_": "觀光局",
-    "StatusName_": "待確認",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:19:38",
     "Close_Date_": ""
   }
 ]
