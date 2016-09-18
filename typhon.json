@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160919039",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 07:45:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路三段與八德路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一號誌/紅燈/綠燈/小綠人故障不亮/不連鎖，建請查處。",
+    "BeforeDesc_": "渠反映該路口號誌全故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 07:47:09",
     "Close_Date_": ""
   },
   {
