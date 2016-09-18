@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918481",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 10:43:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "華德街133號(好彩頭卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家使用擴音設備聲響過大，產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 10:46:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918480",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 10:41:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 08:03:34",
     "Close_Date_": "2016/9/18 下午 01:56:03"
-  },
-  {
-    "FileNo_": "INS160917457",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 07:58:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "草衙一路53巷29號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞水銀燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 07:59:52",
-    "Close_Date_": ""
   }
 ]
