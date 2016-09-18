@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919014",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 02:19:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河東路與建國三路交叉口(愛河家樂福附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點附近有民眾在燃放爆竹，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919013",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 01:52:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 08:56:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917490",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 08:49:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "正義路上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 08:51:13",
     "Close_Date_": ""
   }
 ]
