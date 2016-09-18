@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918355",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 06:13:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "廣西路 梧州街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "路燈電線垂落",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918354",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 06:10:28",
@@ -1973,14 +1990,14 @@
   },
   {
     "FileNo_": "INS160918236",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 下午 02:11:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "六和路2之1號前",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有兩個路口號誌燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:08:09",
     "Close_Date_": "2016/9/18 上午 11:56:51"
-  },
-  {
-    "FileNo_": "INS160917328",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 05:58:33",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "翠華路與銀川街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:00:54",
-    "Close_Date_": ""
   }
 ]
