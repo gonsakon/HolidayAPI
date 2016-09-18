@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160919006",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 12:26:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "和成路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "一天之內停電兩次\n並且只有和成路路段停電隔壁\n鳳甲路段從9/15起就沒停過電",
+    "BeforeDesc_": "一天之內停電兩次並且只有和成路路段停電隔壁鳳甲路段從9/15起就沒停過電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 01:41:22",
     "Close_Date_": ""
   },
   {
