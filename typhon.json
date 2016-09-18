@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160918164",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 11:04:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "文化路61號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有許多落葉及垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918161",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 11:02:49",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160918160",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 上午 11:02:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "文化路61號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前有一路樹傾倒至路面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 上午 11:05:00",
     "Close_Date_": ""
   },
   {
@@ -7889,14 +7906,14 @@
   },
   {
     "FileNo_": "INS160917273",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/17 下午 04:34:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中華四路上(往北方向，未過青年二路)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處慢車道號誌燈桿嚴重搖晃，建請查處。",
     "AfterDesc_": "",
@@ -9215,20 +9232,20 @@
   },
   {
     "FileNo_": "INS160917194",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/17 下午 02:50:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "茄萣路一段228巷(由茄萣路一段轉入)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一道路施工作業，使用機具致噪音產生，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/18 11:02電覆陳情人未果，故於2016/09/18 11:04簡訊回覆:蔡小姐您\r\n好，您9月17日反映噪音問題，本府環保局派員前往，該施工單位為區公所外包工程，進行道路與水溝\r\n排水系統修繕，稽查當時工程已結束，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 02:52:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 上午 11:04:51"
   },
   {
     "FileNo_": "INS160917193",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 12:33:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917137",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 12:29:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "光華三路225號前(初覓手做餐坊)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前有一路樹倒塌於店家及公車站，影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 12:30:18",
     "Close_Date_": ""
   }
 ]
