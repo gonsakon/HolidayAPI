@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918323",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 05:02:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳東路330號與336號之1之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈線路垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918322",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 05:00:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 05:08:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917297",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 05:04:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "德昌路與衙孝街(衙孝街上)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該路口兩處落葉及垃圾，惟遭風吹襲四處飛散致影響附近住家髒亂情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 05:06:31",
     "Close_Date_": ""
   }
 ]
