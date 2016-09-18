@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918181",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 11:36:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和路1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處門口有多包樹枝、樹葉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918180",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 11:35:31",
@@ -8348,20 +8365,20 @@
   },
   {
     "FileNo_": "INS160917266",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/17 下午 04:24:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "凱旋一路168號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址目前有使用工業天車機具，聲響過大致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/17 19:19 環保局公害專線陳彥州先生回報，稽查人員於17:35到達，人員\r\n於上址周界巡查，未發現該址有使用工業天車機具產生噪音情事；並於9/18 11：19電覆陳情人；惟陳\r\n情人另反映違建問題，改派非網A-TB-2016-79432追蹤並解除管制",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 04:29:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 上午 11:35:56"
   },
   {
     "FileNo_": "INS160917265",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 01:22:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917156",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 01:17:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功二路與新光路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌現垂落只有一條線支撐懸掛恐掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 01:20:24",
     "Close_Date_": ""
   }
 ]
