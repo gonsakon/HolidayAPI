@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160918341",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 05:44:13",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重力路與孟子路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/18 下午 05:54:49",
     "Close_Date_": ""
   },
   {
