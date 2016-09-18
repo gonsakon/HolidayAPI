@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919038",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/19 上午 07:36:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路與美山路(往大寮方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌燈與前方路口不連鎖，疑似故障致塞車，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/19 上午 07:39:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919036",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 07:33:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 09:46:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917514",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 09:43:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "康定路84號之2(桂蘭華卡拉OK)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前有卡拉OK設備音量過大，造成噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 09:46:09",
     "Close_Date_": ""
   }
 ]
