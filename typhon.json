@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918123",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 上午 10:00:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918119",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 上午 09:58:30",
@@ -9691,20 +9708,20 @@
   },
   {
     "FileNo_": "INS160917126",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/17 上午 11:56:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁南路149巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周圍有民眾燃燒不明物品致異味空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/17 15:27環保局環境稽查科陳彥州先生回報，稽查人員於15:15到達，人\r\n員於後勁南路149巷巡查，並未發現有民眾燃燒不明物品致空污情事；並於9/18 09：48電覆陳情人，\r\n惟陳情人反映此為長期問題，故另派非網A-TB-2016-79384追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 12:01:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/18 上午 09:57:05"
   },
   {
     "FileNo_": "INS160917125",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 上午 11:04:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917097",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 上午 10:56:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路1035號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址有一路燈快傾倒，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 上午 11:04:10",
     "Close_Date_": ""
   }
 ]
