@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919023",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 06:26:50",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路與大昌二路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919022",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 06:17:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 09:14:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917499",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 08:59:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "澄清路173號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處約3、4盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 09:01:13",
     "Close_Date_": ""
   }
 ]
