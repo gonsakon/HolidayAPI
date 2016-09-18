@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160918368",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 下午 06:39:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路4.5公里至5公里之間(往義守大學方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段路燈沿線故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 下午 06:42:31",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918367",
     "Status_": "2",
     "Cre_Date_": "2016/9/18 下午 06:36:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:18:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917341",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 06:13:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大竹路2之1號(大竹里活動中心對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:15:06",
     "Close_Date_": ""
   }
 ]
