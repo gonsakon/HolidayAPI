@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919018",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 04:04:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "保南一路27號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫類似瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919017",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 03:17:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 08:55:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917494",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 08:52:48",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路與華明街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 08:54:10",
     "Close_Date_": ""
   }
 ]
