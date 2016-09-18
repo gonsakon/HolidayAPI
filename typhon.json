@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160919013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 01:52:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫一路與旗楠路交叉口(往楠梓市區方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈右轉燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 01:54:11",
     "Close_Date_": ""
   },
   {
