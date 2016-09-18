@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160918379",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/18 下午 06:53:58",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大莊路5巷27號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160918378",
     "Status_": "1",
     "Cre_Date_": "2016/9/18 下午 06:53:05",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該共桿電桿號誌燈箱背後開啟致零件垂落半空中，建請查處。",
+    "BeforeDesc_": "渠反映該共桿燈箱蓋無法關閉，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 06:32:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917351",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 06:28:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "公館一巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處整排路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 06:30:39",
     "Close_Date_": ""
   }
 ]
