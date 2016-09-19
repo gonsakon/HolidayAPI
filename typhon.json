@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919602",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 11:57:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919601",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 11:46:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 11:12:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918490",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 11:08:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲樹路945號(卡拉OK店前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處車道上有一路面坑洞，且以有用物品警示，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 11:09:57",
     "Close_Date_": ""
   }
 ]
