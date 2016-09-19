@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920045",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:39:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "水秀路398號對面(鳳陽國小南側門)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920044",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 07:39:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:39:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919037",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 07:32:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路730巷6號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹傾倒廟方已協助截段成堆，請派員清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 07:37:43",
     "Close_Date_": ""
   }
 ]
