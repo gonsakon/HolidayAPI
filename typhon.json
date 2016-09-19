@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160919535",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 08:02:09",
+    "ReplyUnit_": "F01009",
+    "zipcode_": "844",
+    "ZipName_": "六龜區",
+    "address_": "線133，8.5K處",
+    "UnitName_": "六龜區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處目前有落石坍塌於道路上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919529",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 08:00:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 08:18:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918422",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 08:17:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "中民路659巷29弄19號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有台電電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 08:23:33",
     "Close_Date_": ""
   }
 ]
