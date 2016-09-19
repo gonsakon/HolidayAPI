@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919294",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 01:21:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "保安路42巷6號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址送電電壓不夠導致水壓過低，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919293",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 01:18:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 11:43:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918183",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 上午 11:41:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路上(上高速公路前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有非常多大坑洞，會導致車輛與用路人發生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 11:44:13",
     "Close_Date_": ""
   }
 ]
