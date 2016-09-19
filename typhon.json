@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920027",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 06:42:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "花旗二路451號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處堆置許多垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920026",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 06:40:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 05:09:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919018",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 04:04:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "保南一路27號附近",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有瀰漫類似瓦斯異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 04:06:00",
     "Close_Date_": ""
   }
 ]
