@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919403",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 03:53:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文明路上與和平路二段交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面有多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919402",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 03:46:00",
@@ -1531,14 +1548,14 @@
   },
   {
     "FileNo_": "INS160919311",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/19 下午 01:58:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大公路62號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈燈泡不見了，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 04:21:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918290",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 04:14:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "勝利路與新莊仔路口 (靠近南面大龜山)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒影響機慢車道通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 04:15:58",
     "Close_Date_": ""
   }
 ]
