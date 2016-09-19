@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160919107",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 09:14:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪五路21號至25號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該兩址對面有一空地，目前在燃燒廢棄物致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919106",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 09:13:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 12:23:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917582",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/17 下午 11:50:47",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "立志街177號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處一台電孔蓋旁柏油破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 11:57:47",
     "Close_Date_": ""
   }
 ]
