@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920038",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:17:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "通燕路(下高速公路往西，往中崎)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920036",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 07:17:13",
@@ -98,7 +115,7 @@
     "BeforeDesc_": "渠反映該兩路段路樹傾倒仍未處理,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 07:19:06",
+    "Save_Date_": "2016/9/20 上午 07:19:18",
     "Close_Date_": ""
   },
   {
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS160920029",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:07:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "洲仔東街靠住戶這一側",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線路燈皆不亮,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 07:19:51",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:12:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919030",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 上午 07:04:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路(竹門巷至大德街)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段有8盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 07:08:05",
     "Close_Date_": ""
   }
 ]
