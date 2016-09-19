@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919328",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 02:17:01",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "測試",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "測試",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919327",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 02:14:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 01:38:31",
     "Close_Date_": "2016/9/18 下午 02:21:01"
-  },
-  {
-    "FileNo_": "INS160918218",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/18 下午 01:34:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文衡路與文平街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上有兩大堆數木與樹枝，建請清除。",
-    "AfterDesc_": "【主管解除管制】09/18 14:14 鳳山區清潔隊陳瑞明先生回報，因數量太多，大概是3台抓斗車的量，\r\n會安排時間處理，故改派非網A-TB-2016-79532賡續辦理；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 01:40:03",
-    "Close_Date_": "2016/9/18 下午 02:22:37"
   }
 ]
