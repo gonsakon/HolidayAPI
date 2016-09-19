@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920043",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:32:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大園街與鼎勇街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "枝葉堆置人行道上",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920042",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:27:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:34:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919034",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 07:20:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民權一路與民生一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處雙向號誌閃燈故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 07:19:53",
     "Close_Date_": ""
   }
 ]
