@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919292",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 01:16:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "三多市場巷(巷內鐵皮屋旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一棵路樹上有斷枝壓到陳情人房子，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919290",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 01:16:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 11:43:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918181",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/18 上午 11:36:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路1號(小港國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處門口有多包樹枝、樹葉，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/18 14：31 小港區清潔隊吳華梅小姐回報，該處已派抓斗車清除完畢；本案不需\r\n電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 11:40:09",
-    "Close_Date_": "2016/9/18 下午 02:34:46"
   }
 ]
