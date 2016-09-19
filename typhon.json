@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160919126",
+    "FileNo_": "INS160919127",
     "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 09:37:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "捷運前鎮高中站1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒於陳情人車輛上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160919126",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 09:36:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路1266巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該巷道路牌已掉落於路面上，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 09:37:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 01:55:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918018",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 上午 01:39:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "河堤公園 (新上國小後方)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路樹已傾倒，建請移除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 01:40:57",
     "Close_Date_": ""
   }
 ]
