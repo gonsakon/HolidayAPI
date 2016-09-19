@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919259",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 12:26:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大智路36巷18號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前路燈拆除後未裝回，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919258",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 12:25:34",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS160919235",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 上午 11:52:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "自立路與工商路、萬隆街41巷三叉路口(賓士汽車後方)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處前方遭民眾堆放風災過後清理枝葉、垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 10:44:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918150",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 上午 10:41:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "滾水路81之120號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處一棵路樹傾倒，表示已協助切成幾段，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 10:42:53",
     "Close_Date_": ""
   }
 ]
