@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919108",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 09:15:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明誠四路156號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址前一路樹傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919105",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 09:14:47",
@@ -40,7 +57,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
-    "address_": "旗平一路上(手巾寮往離港方向)",
+    "address_": "旗屏一路上(手巾寮往離港方向)",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "髒亂清除",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 11:58:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917583",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 11:51:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "高雄市中厝里",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "廢氣現在又在排放了，影響睡眠好煩人，可惡己經2天了，請環保局積極一點好嗎？",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 12:23:18",
     "Close_Date_": ""
   }
 ]
