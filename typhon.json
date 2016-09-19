@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160919261",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 12:28:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "&#22356;埔里松埔路4號至9號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前沿線路燈故障不亮(9號前路燈編號：5326)，建請查處。",
+    "BeforeDesc_": "渠反映該址前沿線5、6盞路燈故障不亮(9號前路燈編號：5326)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 12:29:30",
     "Close_Date_": ""
   },
   {
@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS160919255",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 12:25:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "勝利路133巷2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 12:31:57",
     "Close_Date_": ""
   },
   {
