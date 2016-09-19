@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920052",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:55:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920051",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 07:51:36",
@@ -1072,20 +1089,20 @@
   },
   {
     "FileNo_": "INS160919590",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 11:28:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路149號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前一棵路樹傾倒於人行道上，已影響行人通行，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/20 01:25 四維養護工程隊陳錦茸小姐回報：該處無立即危險，樹木已移到路旁不\r\n影響交通，尚待機具處理，改派非網A-TB-2016-80666。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 11:30:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 07:55:24"
   },
   {
     "FileNo_": "INS160919589",
@@ -1157,20 +1174,20 @@
   },
   {
     "FileNo_": "INS160919585",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 11:04:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "和順街22號6樓之6",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住家目前有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/20 00:43 環保局環境稽查科中區股林明勳先生回報，稽查人員於00:10到\r\n達，會同陳情人於現場查看，查為三民區和順街22號13樓之6有冷氣滴水情事，已於現場留置7日勸告\r\n單予該戶，屆期複查，故改派非網A-TB-2016-80656賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 11:07:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 07:55:50"
   },
   {
     "FileNo_": "INS160919584",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 08:23:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919043",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 08:01:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路565巷1號前(轉角處)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭民眾放置大量泡水廢棄家具，已佔據近一半之道路，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 08:04:28",
     "Close_Date_": ""
   }
 ]
