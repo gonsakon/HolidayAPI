@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919492",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 06:39:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "中山南路385號(邱志偉立委服務處旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處一路樹上方有斷枝卡在樹上，恐有掉落疑慮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919491",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 06:34:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 06:56:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918379",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 06:53:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊路5巷27號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址已停電三至四日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 06:58:46",
     "Close_Date_": ""
   }
 ]
