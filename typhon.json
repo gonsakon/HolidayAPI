@@ -222,19 +222,19 @@
   },
   {
     "FileNo_": "INS160919115",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 09:20:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保寧里保安路70之20號進入",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該產業道路有一編號011路燈故障不亮，及旁編號維新199附掛燈具全遭風吹遺失，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 09:39:27",
     "Close_Date_": ""
   },
   {
