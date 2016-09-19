@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919539",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 08:19:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路700巷86號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處颱風過後大樹枝斷裂，望請局處派員前往清除樹枝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919538",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 08:09:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 08:31:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918426",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 08:27:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "國昌里(晉昌街、仁昌街、國昌街與周界巷道)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 08:29:19",
     "Close_Date_": ""
   }
 ]
