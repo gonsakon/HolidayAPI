@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919129",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 09:40:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "立志街(介於大東二路與五甲一路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919128",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 09:38:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 02:42:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918020",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/18 上午 02:23:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "必忠街、必信街周邊",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處無預警停電，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 02:25:39",
     "Close_Date_": ""
   }
 ]
