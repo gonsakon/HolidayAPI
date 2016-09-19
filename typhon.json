@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919561",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 09:45:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "信義路三段與周界街道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919560",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 09:42:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 09:37:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918449",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 09:32:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新下里南屏路219巷、南屏路284巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 09:37:36",
     "Close_Date_": ""
   }
 ]
