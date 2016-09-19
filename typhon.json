@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160919043",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 08:01:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路565巷1號前(轉角處)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭民眾放置大量泡水廢棄家具，已佔據近一半之道路，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 08:04:28",
     "Close_Date_": ""
   },
   {
@@ -1395,20 +1395,20 @@
   },
   {
     "FileNo_": "INS160918462",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 下午 09:58:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "站前南路9巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，已使用麻布袋覆蓋，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/18 22：28 溝渠隊杜金華先生回報，經人員到達現場並與陳情人聯繫，其表示將\r\n自行透由民間業者處理，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 10:03:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 上午 08:06:28"
   },
   {
     "FileNo_": "INS160918461",
@@ -1456,7 +1456,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址4樓以上住戶有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/18 23：45 環保局環境稽查科南區股潘星宇先生回報，稽查人員於22：44到達，\r\n稽查時會同陳情人，於上址巡視未發現上述冷氣滴水情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 09:58:35",
     "Close_Date_": ""
