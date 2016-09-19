@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160919121",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 09:25:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "土庫一路180號至200號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有多棵路樹傾倒於人行道及路中央，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 09:27:38",
     "Close_Date_": ""
   },
   {
@@ -48,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160919118",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/19 上午 09:24:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大連街266號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址住家內疑似汙水管阻塞， 造成汙水逆流，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/19 上午 09:27:37",
     "Close_Date_": ""
   },
   {
@@ -851,14 +868,14 @@
   },
   {
     "FileNo_": "INS160919068",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 上午 08:32:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文苑街31號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面已將落葉、樹枝及椰子殼掃成堆，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 01:01:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918012",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 上午 12:54:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重美街18巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷道內沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 12:56:44",
     "Close_Date_": ""
   }
 ]
