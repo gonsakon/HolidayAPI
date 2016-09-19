@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160919444",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 04:47:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路861號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處路樹斷枝未清，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919442",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 04:44:38",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS160919414",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 下午 04:06:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "永豐路174號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路旁遭堆放3大黑色垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 05:36:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918332",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 05:28:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國三路與中山一路(建國三路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一小綠人號誌故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 05:29:52",
     "Close_Date_": ""
   }
 ]
