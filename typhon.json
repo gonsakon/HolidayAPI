@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160919520",
+    "FileNo_": "INS160919522",
     "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 07:40:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "復興西路787號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，且路燈電線外露，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160919520",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 07:39:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
-    "address_": "中山南路與忠孝路口",
+    "address_": "中正南路與忠孝路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈紅燈皆會恆亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 07:41:08",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 07:47:47",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918408",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/18 下午 07:44:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路369號(龍鳳門餐廳)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前於中庭使用擴音設備播放音樂，造成噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/19 14：53簡訊回覆：蔡小姐您好，您9月18日所反映擴音噪音問題，經本\r\n府環局前往稽查，附近巡視未發現有使用擴音器情事，亦未發現有噪音情事，感謝您的熱心通報，倘\r\n您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 07:46:56",
-    "Close_Date_": "2016/9/19 下午 02:56:00"
   }
 ]
