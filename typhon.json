@@ -51,23 +51,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160919074",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/19 上午 08:36:33",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "仁愛路82號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線桿上有線路垂落地面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160919072",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 08:35:10",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 10:55:49",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160917553",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/17 下午 10:53:47",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山路與五甲一路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌燈綠燈及黃燈倒數號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/17 下午 11:06:18",
     "Close_Date_": ""
   }
 ]
