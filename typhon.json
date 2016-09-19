@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919595",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 11:35:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文明路(中里里公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處公園內靠近洗手間一側之園燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919594",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 11:34:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 10:52:16",
     "Close_Date_": "2016/9/19 上午 02:03:34"
-  },
-  {
-    "FileNo_": "INS160918483",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 10:44:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新庄仔路287號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處號誌燈旁一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 10:58:24",
-    "Close_Date_": ""
   }
 ]
