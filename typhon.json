@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919370",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 03:07:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路(福安路往大順路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有多處坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919369",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 03:06:43",
@@ -2602,14 +2619,14 @@
   },
   {
     "FileNo_": "INS160919212",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 上午 11:22:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路19巷與美山路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -6155,20 +6172,20 @@
   },
   {
     "FileNo_": "INS160918498",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/18 下午 11:46:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與建榮路口(美美卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用擴音器唱歌致噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/19 15：07簡訊回覆：陳先生您好，您9月18日所反映擴音噪音問題，經本\r\n府環保局前往稽查，稽查時該址大門深鎖，人員於周界巡查未發現有擴音器噪音情形，感謝您的熱心\r\n通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 11:49:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 下午 03:10:18"
   },
   {
     "FileNo_": "INS160918497",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 03:01:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918257",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 02:58:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏平路67號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前有一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 03:02:45",
     "Close_Date_": ""
   }
 ]
