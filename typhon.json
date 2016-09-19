@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919095",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 09:07:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤南路河堤公園(自由路與大順路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園內颱風過後樹枝斷枝雖有先行剪短但還未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919093",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 09:06:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 11:26:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917570",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/17 下午 11:14:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路上過聯興路50巷口、往南方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 11:26:44",
     "Close_Date_": ""
   }
 ]
