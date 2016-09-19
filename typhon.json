@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919049",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 08:11:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "0972259924",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919047",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 08:08:01",
@@ -74,11 +91,11 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "",
+    "address_": "1.永仁街與永新二街口 2.永仁街與永新三街口 3.永新三街176巷口 4.永新三街176巷6號",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "永仁街永新二街   永仁街永新三街    永新三街176巷口",
+    "BeforeDesc_": "渠反映地點：1.2.3前方電線桿皆張貼標示總裁之廣告，地點4是前述售屋廣告地址，惟該址前方有一可移動上方標示總裁之廣告物，建請查處。(陳情人要求人員處理完成與其回覆)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 10:08:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917523",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 10:06:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路往北(下民族陸橋之後至十全一路)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處路段號誌燈未有連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 10:07:39",
     "Close_Date_": ""
   }
 ]
