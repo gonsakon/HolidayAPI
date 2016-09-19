@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919436",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 04:41:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "舊港里東二巷11號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號：1280)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919435",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 04:38:49",
@@ -2636,20 +2653,20 @@
   },
   {
     "FileNo_": "INS160919275",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 12:48:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天祥一路與鼎昌街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈故障，且號誌基座損壞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】交通局智慧運輸中心黃泰郎先生於9/19 16:30回報須報請廠商故轉非網。A-\r\nTB-2016-80434；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 12:48:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 下午 04:40:12"
   },
   {
     "FileNo_": "INS160919274",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 05:09:53",
     "Close_Date_": "2016/9/19 下午 02:54:04"
-  },
-  {
-    "FileNo_": "INS160918323",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 05:02:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳東路330號與336號之1中間",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈線路垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 05:05:01",
-    "Close_Date_": ""
   }
 ]
