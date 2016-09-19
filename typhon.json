@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160919596",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/19 下午 11:40:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "前鎮街203號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址旁一烤肉攤目前有油煙致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/19 下午 11:43:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919595",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 11:35:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 11:09:48",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918488",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/18 下午 10:58:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山北路92號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/18 23:32 溝渠隊林漢宗先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 10:59:26",
-    "Close_Date_": "2016/9/19 上午 07:54:44"
   }
 ]
