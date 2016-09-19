@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160919489",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 06:30:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "井腳里井腳路235號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前之電線桿(編號：0519090)上有垂落2條電線，並散發燒焦味，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 06:35:53",
     "Close_Date_": ""
   },
   {
