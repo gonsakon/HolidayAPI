@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919346",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 02:39:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁慈路21之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919345",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 02:34:06",
@@ -7056,14 +7073,14 @@
   },
   {
     "FileNo_": "INS160918422",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/18 下午 08:17:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中民路659巷29弄19號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電電線垂落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 02:14:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918234",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 02:07:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德中路與德中路40巷(往南方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 02:08:32",
     "Close_Date_": ""
   }
 ]
