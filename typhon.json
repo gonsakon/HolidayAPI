@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920015",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 02:38:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路與明誠二路之星展銀行",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920014",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 01:08:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 12:46:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919006",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 上午 12:26:23",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "和成路",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "一天之內停電兩次並且只有和成路路段停電隔壁鳳甲路段從9/15起就沒停過電",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 01:41:22",
     "Close_Date_": ""
   }
 ]
