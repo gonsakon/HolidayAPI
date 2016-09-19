@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919347",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 02:42:21",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "仁愛一街72號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址疑似污水管阻塞,致污水無法排出,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919346",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 02:39:35",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160919345",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 02:34:06",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "鳳鳴里南星路368號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有兩支水泥電桿因風災已傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 02:40:27",
     "Close_Date_": ""
   },
   {
@@ -7600,14 +7617,14 @@
   },
   {
     "FileNo_": "INS160918391",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 下午 07:15:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "溪州二路272巷2號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處已停電達四天仍尚未復電，惟自行向台電1911反映未果，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 02:12:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918235",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/18 下午 02:08:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "前庄路3之9號5樓",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該棟大樓變電箱線路燒毀，導致停電與不能抽水，已向台電反映多次，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 02:14:15",
     "Close_Date_": ""
   }
 ]
