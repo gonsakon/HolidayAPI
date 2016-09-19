@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920039",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:19:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "中崎路(通燕路轉入約6至700公尺處，聯鐵企業附近)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920038",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 07:17:19",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160920031",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:10:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明潭路全線",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該路段路樹傾倒仍未處理,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 07:21:31",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:15:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919029",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 上午 07:06:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "中山路72巷30號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映台電疑似接錯線路，目前將220V電力送進住家(應送110V電力)致所有燈泡、電器皆破裂、損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 07:12:12",
     "Close_Date_": ""
   }
 ]
