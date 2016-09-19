@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919060",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 08:24:25",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "鹽埕巷,近運動公園大門",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有電線斷裂掉落,恐造成民眾觸電,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919058",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 08:21:35",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160919054",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 08:19:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路151巷56弄內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址內有一住家整修，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 08:21:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 10:38:27",
     "Close_Date_": "2016/9/18 下午 12:32:02"
-  },
-  {
-    "FileNo_": "INS160917535",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 10:34:21",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路與神農路150巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口雙向號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 10:37:09",
-    "Close_Date_": ""
   }
 ]
