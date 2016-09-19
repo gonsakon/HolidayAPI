@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS160919260",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 12:28:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "成功一路266-1號對面(漢神百貨)",
+    "address_": "成功一路266之1號對面(漢神百貨)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處電線上垂掛一大塊帆布，怕掉落恐生危險，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 12:34:13",
     "Close_Date_": ""
   },
   {
