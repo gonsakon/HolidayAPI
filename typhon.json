@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919552",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 09:04:30",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路466號前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處排水溝內有一貓隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919549",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 08:53:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 09:00:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918437",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 下午 08:56:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "德民路160號8樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶有冷氣滴水情事，其表示已有與管理員確認屬該址住戶問題，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 09:00:57",
     "Close_Date_": ""
   }
 ]
