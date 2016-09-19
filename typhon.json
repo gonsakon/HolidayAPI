@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919297",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 01:32:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山西路232號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前路面有堆放風災後吹落的招牌碎片及木材等廢棄物,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919296",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 01:27:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 11:48:30",
     "Close_Date_": "2016/9/18 下午 02:24:08"
-  },
-  {
-    "FileNo_": "INS160918186",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 上午 11:43:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "擴建路與新生路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 11:45:44",
-    "Close_Date_": ""
   }
 ]
