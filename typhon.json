@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919162",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 10:19:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌一路258號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址郵局左前方慢車道上有三包黑色垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919160",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 10:17:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 07:46:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918050",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 上午 07:39:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "1. 忠路與崇恩路口2.仁德路與崇偉路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處樹枝髒亂未清除,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 07:52:04",
     "Close_Date_": ""
   }
 ]
