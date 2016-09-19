@@ -460,20 +460,20 @@
   },
   {
     "FileNo_": "INS160920016",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 上午 03:59:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過勇路51之3號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/20 07:16 環保局稽查科南區股蔡元堯先生回報，稽查人員於06:46到達，於上址\r\n路段來回巡查，現場未發現明顯化學異味致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 04:02:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 07:39:14"
   },
   {
     "FileNo_": "INS160920015",
