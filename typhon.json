@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919536",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 08:06:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "高雄市路竹區三爺里民權路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "整個里因為颱風15日肆虐後至今都沒有路燈\n整個里一到夜晚路面全黑\n恐有行人安全疑慮 也怕造成治安漏洞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919531",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 08:02:57",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160919535",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 08:02:09",
     "ReplyUnit_": "F01009",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "線133，8.5K處",
     "UnitName_": "六龜區公所",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處目前有落石坍塌於道路上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 08:07:24",
     "Close_Date_": ""
   },
   {
@@ -1854,20 +1871,20 @@
   },
   {
     "FileNo_": "INS160919423",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 04:24:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞隆路與公正路口(賣碗粿旁)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映現該處號誌倒數秒數故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/19 19：05 交通局 智慧運輸中心 黃泰郎先生回報，現場無立即危險性，屬線路\r\n 故障所致，惟須報請廠商修繕，無法立即修復，故改派非網：A-TB-2016-80556 賡續辦理；本案不需回電\r\n 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 04:25:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/19 下午 08:06:02"
   },
   {
     "FileNo_": "INS160919422",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 08:22:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918423",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 08:17:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山一路53巷沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷道路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 08:18:58",
     "Close_Date_": ""
   }
 ]
