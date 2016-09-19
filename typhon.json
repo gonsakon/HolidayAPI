@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919288",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 01:07:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "自強三路27巷36號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址附近有某住家圍牆倒塌於道路上影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919287",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 下午 01:03:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 11:34:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918178",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 上午 11:31:06",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路與褒揚街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障僅紅燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 11:32:17",
     "Close_Date_": ""
   }
 ]
