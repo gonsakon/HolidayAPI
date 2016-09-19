@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919447",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 04:53:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路160號後方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該處有一指示路牌掉落，目前放置人行道上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919443",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 04:48:47",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160919446",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 04:48:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國二路109之13號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處一棵路樹傾倒於人行道與道路之間，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 04:53:18",
     "Close_Date_": ""
   },
   {
@@ -2925,14 +2942,14 @@
   },
   {
     "FileNo_": "INS160919268",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 下午 12:38:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "瑞源路上(介於明星街與六合二路)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該路段上有許多包含樹根之樹木，由養工處雇工鋸成一截一截放置該處，雖有用黃線圍起但占據一半車道，有影響交通，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 05:38:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918335",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 05:35:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路(中央公園捷運站一號出口外、噴水廣場)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處噴水口之圓形蓋子因變形，造成其友人踩空，導致受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 05:39:40",
     "Close_Date_": ""
   }
 ]
