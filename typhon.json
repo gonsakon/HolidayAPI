@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920040",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 07:23:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文濱路與文樂街交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處兩側的公園內,因風災園樹傾倒仍未清理,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920039",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 07:19:00",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160920037",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:16:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "水源路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處沿線有路樹傾倒，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 07:20:58",
     "Close_Date_": ""
   },
   {
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS160920016",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 上午 03:59:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過勇路51之3號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 07:16:14",
     "Close_Date_": "2016/9/19 上午 07:51:25"
-  },
-  {
-    "FileNo_": "INS160919031",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 07:12:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文學路603巷，靠近文學公園",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路段仍有樹枝、垃圾等物未清運，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 07:15:05",
-    "Close_Date_": ""
   }
 ]
