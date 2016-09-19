@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160919290",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 01:16:38",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "東方路612巷72號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該址電箱目前燒毀，建請查處。(陳情人要求局處人員先行與其聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 下午 01:27:59",
     "Close_Date_": ""
   },
   {
