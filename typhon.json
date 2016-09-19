@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919486",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 06:09:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "壽豐路476巷22號至18號之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919485",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 06:06:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 06:50:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918373",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 06:46:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "東山路 27巷11號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞附掛式路燈不亮且傾斜嚴重，有快脫落情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 06:49:02",
     "Close_Date_": ""
   }
 ]
