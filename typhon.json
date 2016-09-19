@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160920046",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:45:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路與華興街口(中華社區出口)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障閃燈,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 07:46:03",
     "Close_Date_": ""
   },
   {
@@ -40,7 +40,7 @@
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
-    "address_": "赤崁東路352巷",
+    "address_": "赤崁東路352巷近赤崁北路",
     "UnitName_": "台電公司",
     "StatusName_": "建立中",
     "InformDesc_": "電線掉落",
