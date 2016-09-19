@@ -51,23 +51,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160919127",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/19 上午 09:37:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "捷運前鎮高中站1號",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒於陳情人車輛上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160919126",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 09:36:01",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 02:48:16",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160918021",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/18 上午 02:40:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳燕一街",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該路段沿線住家無預警停電，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/18 上午 02:42:36",
     "Close_Date_": ""
   }
 ]
