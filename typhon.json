@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919597",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 11:40:03",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "Test",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "Test",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919595",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 11:35:14",
@@ -8756,14 +8773,14 @@
   },
   {
     "FileNo_": "INS160919069",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/19 上午 08:32:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐二路306巷46號13樓",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情事，建請查處。(請人員與陳情人聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 10:53:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918484",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/18 下午 10:50:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐二路306巷46號10樓以上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處樓層有冷氣滴水，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】環保局楊竣安先生於09/19 01:58 回報：稽查人員於00:07致電陳情人，渠表示\r\n現場已無冷氣滴水，故人員無需前往，有向陳情人說明如再有冷氣滴水情事可再致電本局通報。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 10:52:16",
-    "Close_Date_": "2016/9/19 上午 02:03:34"
   }
 ]
