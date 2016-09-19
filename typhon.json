@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919459",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 05:13:58",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "和光街204號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "渠反映該處2樓電線有漏電且有聲響，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919457",
     "Status_": "2",
     "Cre_Date_": "2016/9/19 下午 05:08:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 下午 06:03:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918349",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/18 下午 06:00:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新里維新路光明9巷(近滯洪池方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段有四盞路燈故障不亮(編號:536、537、538及539)；惟(編號:536)線路垂落，恐生危險，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 下午 06:01:44",
     "Close_Date_": ""
   }
 ]
