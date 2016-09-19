@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919246",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 下午 12:02:15",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡燕路與大仁南路與大仁北路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈歪斜，請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919245",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 11:57:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/18 上午 10:31:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160918136",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/18 上午 10:18:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中安路上與德仁路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌黃燈遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/18 上午 10:37:59",
     "Close_Date_": ""
   }
 ]
