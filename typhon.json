@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160919089",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/19 上午 08:59:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "衙慶一街61巷25號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160919088",
     "Status_": "1",
     "Cre_Date_": "2016/9/19 上午 08:58:18",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160919084",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/19 上午 08:52:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
-    "address_": "",
+    "address_": "河西一路與北端街口(烤鴨店旁)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一號誌燈桿因風災致自基座已傾斜彎曲，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/19 上午 08:58:49",
     "Close_Date_": ""
   },
   {
@@ -9045,14 +9062,14 @@
   },
   {
     "FileNo_": "INS160918046",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/9/18 上午 07:35:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "仁德路16巷30弄,內坑公園內",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該公園內傾倒樹木及髒亂仍未清理,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/17 下午 11:25:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160917564",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/17 下午 11:04:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "和順街22號6樓之6",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址樓上有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/17 下午 11:06:38",
     "Close_Date_": ""
   }
 ]
