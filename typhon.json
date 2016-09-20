@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920548",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 09:37:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁愛公園內  (仁勇東巷290號對面及仁忠路189巷15號對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處公園內約莫三十處落葉及斷枝，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920547",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 09:36:36",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160920546",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 09:36:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路與成功一路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 09:37:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 08:52:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919546",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 08:50:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓西巷21弄19號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 08:51:21",
     "Close_Date_": ""
   }
 ]
