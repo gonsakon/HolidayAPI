@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920464",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 07:20:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "孟子路398號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處停車格目前有堆放枯枝樹葉等，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920462",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 07:16:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 05:16:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919459",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 下午 05:13:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "和光街204號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映該處2樓電線有漏電且有聲響，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 05:16:52",
     "Close_Date_": ""
   }
 ]
