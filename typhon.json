@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920054",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/20 上午 08:04:16",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "蓮潭路與元帝路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口東西向號誌紅燈恆亮不會變換,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/20 上午 08:05:27",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920052",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 07:55:27",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS160920036",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/20 上午 07:17:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金後路556巷16號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有許多樹枝、垃圾、廢棄招牌，目前已發臭，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 08:08:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919046",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 08:05:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "自由路336巷9號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 08:07:01",
     "Close_Date_": ""
   }
 ]
