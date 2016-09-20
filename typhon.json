@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920536",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 09:21:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自由一路上，高醫啟川大樓對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹樹幹斷掉，掛在路燈上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920535",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 09:20:30",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160920534",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 09:20:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文和街58號前(位於文山國小圍牆旁)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人棄置一垃圾包，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 09:22:20",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 08:07:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919535",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 下午 08:02:09",
-    "ReplyUnit_": "F01009",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "線133，8.5K處",
-    "UnitName_": "六龜區公所",
-    "StatusName_": "待確認",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處目前有落石坍塌於道路上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 08:07:24",
     "Close_Date_": ""
   }
 ]
