@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920321",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 02:59:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "苓南路7號12樓之3",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處冷氣滴水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920320",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 02:56:11",
@@ -146,7 +163,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該二路段沿線農田水利會灌溉溝渠皆遭養工處丟棄許多傾倒樹木、樹枝，造成無法溝渠排水，望請儘速清除，建請查處。",
+    "BeforeDesc_": "渠反映該二路段沿線農田水利會灌溉溝渠皆遭養工處丟棄許多傾倒樹木、樹枝，造成溝渠無法排水，望請局處儘速清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:50:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 02:12:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919316",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 02:08:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重仁路與文川路口前方公園人行道",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一藍色疑似非法之舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 02:23:41",
     "Close_Date_": ""
   }
 ]
