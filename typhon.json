@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920267",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 01:21:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "和順街22號6樓之6上方住戶(康乃馨大樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住家目前有冷氣滴水情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920266",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 01:16:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 12:35:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919263",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 12:32:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路307號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處紅磚道上還有樹枝、垃圾未清，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 12:39:34",
     "Close_Date_": ""
   }
 ]
