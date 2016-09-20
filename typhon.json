@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920347",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 03:36:04",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "英義街131巷1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址污水蓋掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920346",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 03:35:15",
@@ -2041,14 +2058,14 @@
   },
   {
     "FileNo_": "INS160920224",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/20 上午 11:54:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "橋新三路與橋新七路交叉路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "橋新三路與橋新七路交叉路口西側北向號誌被颱風吹歪，燈號向上，有行車危險",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 02:40:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919344",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 02:32:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華二路381號與遼北街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路口有一大坑洞，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 02:35:05",
     "Close_Date_": ""
   }
 ]
