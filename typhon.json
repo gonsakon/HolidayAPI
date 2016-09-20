@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920167",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 10:28:25",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛四路與重惠街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920166",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 上午 10:26:40",
@@ -1905,14 +1922,14 @@
   },
   {
     "FileNo_": "INS160920055",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/20 上午 08:02:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中興路二段887號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -2925,20 +2942,20 @@
   },
   {
     "FileNo_": "INS160919597",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 11:40:03",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Test",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "Test",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 08:14:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 10:30:20"
   },
   {
     "FileNo_": "INS160919596",
@@ -2976,20 +2993,20 @@
   },
   {
     "FileNo_": "INS160919594",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/19 下午 11:34:07",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Test",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "Test",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 08:10:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 10:31:12"
   },
   {
     "FileNo_": "INS160919593",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 10:24:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919162",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 10:19:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌一路258號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址郵局左前方慢車道上有三包黑色垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 10:25:14",
     "Close_Date_": ""
   }
 ]
