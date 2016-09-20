@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920291",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 02:15:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "正修路(正修科大後方)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "先生鳥松區",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920290",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 02:08:56",
@@ -873,7 +890,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "中侖路7之2號，乾坤無極殿",
+    "address_": "中崙路7之2號，乾坤無極殿",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 01:10:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919287",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 下午 01:03:49",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂華街301號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 01:11:15",
     "Close_Date_": ""
   }
 ]
