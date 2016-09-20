@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920209",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 11:19:41",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "康定路34之2號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處污水管掏空導致人行道凹陷，已有先用水泥鋪平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920208",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 11:16:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 11:23:04",
     "Close_Date_": "2016/9/20 上午 09:36:31"
-  },
-  {
-    "FileNo_": "INS160919204",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 11:18:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "台機路沿線",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段沿線排水溝與排水孔上方皆有大量樹葉堆積，已造成現場無法排水致積水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 11:26:51",
-    "Close_Date_": ""
   }
 ]
