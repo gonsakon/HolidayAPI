@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160920538",
+    "FileNo_": "INS160920539",
     "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 09:29:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "衙東街5號、48號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該兩址前各有一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160920538",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 09:27:38",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "東隆街50巷47號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有一電線桿已傾斜，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 09:30:49",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160920535",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 09:20:30",
     "ReplyUnit_": "E01001",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "東方路110號(東方設計學院)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一流浪犬隻被咬傷，建請查處。(麻煩收案後先與陳情人聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 09:30:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 08:10:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919537",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 08:09:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "久堂路210號至230號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前沿線約有4、5盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 08:09:54",
     "Close_Date_": ""
   }
 ]
