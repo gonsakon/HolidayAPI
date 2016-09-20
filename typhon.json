@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921017",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 06:35:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營下路與左營大路642巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921016",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 06:25:04",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 12:06:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919603",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/19 下午 11:57:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一德路上(介於復興三路至林森三路之間)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有數間夜市攤販使用充電式馬達運轉聲響過大，造成噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/20 01:56 環保局蔡元堯先生回報：人員於01:40到場，攤販已打烊，未發現馬達\r\n運轉噪音情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 12:04:24",
-    "Close_Date_": "2016/9/20 上午 07:40:35"
   }
 ]
