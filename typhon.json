@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920556",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 09:56:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "847",
+    "ZipName_": "甲仙區",
+    "address_": "仁愛路41巷13號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈時而放亮，時而熄滅，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920555",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 09:54:58",
@@ -64,7 +81,7 @@
     "BeforeDesc_": "渠反映該處有一盞路燈閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:56:41",
+    "Save_Date_": "2016/9/20 下午 09:56:48",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 09:18:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919554",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 09:15:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "義仁里",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該里路燈全線故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 09:17:49",
     "Close_Date_": ""
   }
 ]
