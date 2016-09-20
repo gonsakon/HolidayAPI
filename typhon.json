@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920144",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 09:54:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街49號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前路燈燈泡損壞且路燈電線掉落；該址對面路燈燈桿已損壞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920142",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 09:51:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 10:07:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919139",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 09:53:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "桐竹路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈編號500491於9/18進行更換為LED燈，晚間未點亮直至清晨5點多點亮稍後又熄滅，疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 09:56:14",
     "Close_Date_": ""
   }
 ]
