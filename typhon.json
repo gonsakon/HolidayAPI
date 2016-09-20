@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920578",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 10:58:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "興旺路373號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920577",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 10:55:38",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160920575",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 10:54:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "久大路639號綜合體育館",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處籃球場有8盞水銀照明燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 10:58:12",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 10:43:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919576",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 10:38:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "高雄市岡山區程香里華園一路92巷2號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "路燈不亮，請派員維修，謝謝。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 12:14:49",
     "Close_Date_": ""
   }
 ]
