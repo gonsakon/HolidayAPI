@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920272",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 01:30:18",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "外環西路近加工出口區第3號出口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有意號誌歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920270",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 01:29:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 12:57:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919269",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 12:36:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎力路與鼎金後路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處豆漿店人行道上，有廢棄招牌未清，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 12:39:18",
     "Close_Date_": ""
   }
 ]
