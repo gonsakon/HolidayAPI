@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920566",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 10:41:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "新興路30號旁邊(靠近中油附近)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處該處有2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920565",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 10:40:07",
@@ -1242,14 +1259,14 @@
   },
   {
     "FileNo_": "INS160920492",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 下午 08:14:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "新興街40號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈上有2條電線垂落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 10:06:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919564",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/19 下午 10:01:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛四路與重愛路交叉口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫柴油惡臭異味，導致空氣污染，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/20 11：40簡訊回覆：蘇小姐您好，您9月19日所反映柴油惡臭異味問題，\r\n經本府環保局回覆：稽查當時量測揮發性有機物為0PPM，未發現有惡臭異味致空污情事，感謝您的熱\r\n心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 10:03:11",
-    "Close_Date_": "2016/9/20 上午 11:43:40"
   }
 ]
