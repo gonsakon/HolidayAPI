@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920395",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 04:51:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "七賢二路270號旁巷內",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊有一大片鐵皮，妨礙通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920394",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 04:51:36",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS160920365",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/20 下午 04:10:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "裕國街上與美術館路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處3至4支路燈下皆有許多垃圾堆積，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 03:38:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919392",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/19 下午 03:34:11",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "介壽東路與友情路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映友情路上號誌燈號不連鎖，建請查修。",
-    "AfterDesc_": "【承辦機關完成回報】交通局智慧運輸中心黃泰郎先生於9/19 16:30回報已處理完成；本案不需電覆\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 03:44:52",
-    "Close_Date_": "2016/9/19 下午 04:42:14"
   }
 ]
