@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920328",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 03:06:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大同路2之117號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有災後堆積的樹枝尚未清運，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920327",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 03:04:52",
@@ -265,7 +282,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段約300公尺人行道有許多垃圾、廢棄物，建請查處。",
+    "BeforeDesc_": "渠反映該路段約300公尺範圍之人行道有許多垃圾、廢棄物，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:57:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 02:36:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919322",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 02:13:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "1.文水路56號旁 2.文水路56號斜對面公園外圍道路上",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映地點1：有一藍色疑似非法之舊衣回收箱，地點2：有一藍色疑似非法之舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 02:36:18",
     "Close_Date_": ""
   }
 ]
