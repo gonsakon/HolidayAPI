@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920277",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 01:45:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "福美路487號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920276",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 01:42:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 12:49:15",
     "Close_Date_": "2016/9/19 下午 04:41:45"
-  },
-  {
-    "FileNo_": "INS160919273",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 下午 12:47:49",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "華崗里全里",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處整里停電，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 12:53:17",
-    "Close_Date_": ""
   }
 ]
