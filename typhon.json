@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920316",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 02:51:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "青年路二段,青年陸橋(南下)與青年路二段103巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處附掛於號誌桿上的道路指示牌歪斜恐將掉落,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920314",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 02:46:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 02:02:55",
     "Close_Date_": "2016/9/20 上午 09:42:32"
-  },
-  {
-    "FileNo_": "INS160919312",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 01:58:22",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正義路與九如一路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一盞號誌燈遭颱風吹致方向朝上，造成行經車輛無法辨識號誌燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 02:00:33",
-    "Close_Date_": ""
   }
 ]
