@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920118",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 09:23:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞隆路上公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園內路樹傾倒嚴重未處理，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920117",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 09:19:50",
@@ -1616,14 +1633,14 @@
   },
   {
     "FileNo_": "INS160920022",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 上午 06:18:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "阿公店水庫(工程路1號旁)之吊橋",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該處吊橋多條繩索斷裂，希望派員封橋，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 09:22:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919112",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 09:18:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正興路83號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一垃圾堆(樹葉)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 09:22:22",
     "Close_Date_": ""
   }
 ]
