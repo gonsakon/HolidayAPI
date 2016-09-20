@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920364",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 04:09:51",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路上，左彎北上交流道前，兩交流道間",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處路面有約4至5公尺長坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920363",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 04:07:35",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160920358",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 04:03:12",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "長春路上(近長春路24號旁)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有一電線桿之路面下陷掏空，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 04:10:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 03:03:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919361",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 03:00:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎強街507號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前圓環有多包樹葉及垃圾，還有許多廢家具堆置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 03:03:00",
     "Close_Date_": ""
   }
 ]
