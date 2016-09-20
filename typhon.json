@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160920140",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 09:48:38",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "民權路2號(大湖國小)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "渠反映該校內有一台電電線桿嚴重傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920141",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 09:46:41",
@@ -256,19 +273,19 @@
   },
   {
     "FileNo_": "INS160920127",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 09:39:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "萬丹路轉進前莊排水支線旁小路亞東混凝土",
+    "address_": "萬丹路轉進前莊排水支線旁小路(亞東混凝土)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一電線桿傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 09:52:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 09:56:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919138",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 09:51:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "保安路(台17線)往永安路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址沿線路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 09:53:19",
     "Close_Date_": ""
   }
 ]
