@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920423",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 05:36:30",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "Test",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "Test",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920422",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 05:31:05",
@@ -1752,14 +1769,14 @@
   },
   {
     "FileNo_": "INS160920314",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/20 下午 02:46:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路與禮明路93巷口(科學工藝博物館大客車停車場)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "怠速",
     "BeforeDesc_": "渠反映該處現有多部遊覽車怠速已久，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 04:23:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919419",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 04:14:23",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華二路381號與遼北街口",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處路口有一路面掏空造成坑洞，惟鄰近有台電手孔蓋及水利局高污水孔蓋，需派員釐清掏空原因，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 04:21:19",
     "Close_Date_": ""
   }
 ]
