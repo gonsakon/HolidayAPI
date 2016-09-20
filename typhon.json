@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921032",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 07:48:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "孟子路上 (重立路口、全家前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路上有一貓屍，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921031",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 07:42:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 02:40:42",
     "Close_Date_": "2016/9/20 上午 07:39:28"
-  },
-  {
-    "FileNo_": "INS160920014",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 上午 01:08:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段394之1號(食品加工廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前有不明機具運轉聲響過大，造成噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 01:09:58",
-    "Close_Date_": ""
   }
 ]
