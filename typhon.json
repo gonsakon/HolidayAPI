@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920486",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 07:59:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "保生路上(介於信義路至湖中路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920485",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 07:55:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 06:07:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919484",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/19 下午 06:04:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如三路275之7號(檳榔攤)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處公園旁有一電線桿傾倒，導致停電，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 06:07:53",
     "Close_Date_": ""
   }
 ]
