@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920489",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 07:59:56",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "康定路與新衙路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口有交通號誌線路遭扯斷情況，因仍有通電恐發生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920488",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 07:59:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 06:28:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919487",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 06:26:10",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路與大社路(中山路往楠梓方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈，因颱風轉向致用路人無法辨識燈號，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 06:27:23",
     "Close_Date_": ""
   }
 ]
