@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS160920211",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 上午 11:26:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "瀋陽街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "七八點就修道路",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/20 11：42 洽詢此案留手機的民眾，其表示非為此案陳情人，也未通報此案，故無\r\n法受理此案件；倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 11:45:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/20 上午 11:51:15"
   },
   {
     "FileNo_": "INS160920210",
