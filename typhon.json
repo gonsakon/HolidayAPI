@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920429",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 05:54:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "意誠路31號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈輕推會有搖晃情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920428",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 05:51:02",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160920426",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 05:43:04",
     "ReplyUnit_": "E01001",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "五福四路229巷35號(建議由瀨南街轉必忠街進入)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻疑似受傷倒臥，建請救援。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 05:54:26",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 04:27:00",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919425",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/19 下午 04:24:35",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金一巷，金獅湖風景區內，保安宮後方",
-    "UnitName_": "觀光局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處路樹傾倒，橫向倒於登山用樓梯上，影響民眾通行，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/20 14：12經與觀光局風景區管理站陳秋富管理站確認；現場已排除上述情事；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 04:25:38",
-    "Close_Date_": "2016/9/20 下午 02:22:21"
   }
 ]
