@@ -68,37 +68,20 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160920431",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/20 下午 05:59:50",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "會社里鳳林三路344巷40號右邊",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路中有一溝蓋破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160920430",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 05:57:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡燕路與懷德路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌全天閃燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 06:03:41",
     "Close_Date_": ""
   },
   {
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 04:39:21",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160919431",
+    "Status_": "3",
+    "Cre_Date_": "2016/9/19 下午 04:36:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "德昌路167號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/19 下午 04:39:14",
     "Close_Date_": ""
   }
 ]
