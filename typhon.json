@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920253",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 12:57:37",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路與寶安街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有號誌電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920251",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 12:56:24",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160920250",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 12:53:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "復興三路與一心二路口，斑馬線旁及機車待轉區旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處各有一路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 12:56:47",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 12:07:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919249",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 12:05:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "進學路208號前面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有局處人員前往鋸樹，然將該斷樹棄置於該址前，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 12:08:42",
     "Close_Date_": ""
   }
 ]
