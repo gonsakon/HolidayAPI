@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920399",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 04:57:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "7615839鳳山區五甲二路464號 該址前路面有一坑洞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920397",
     "Status_": "1",
     "Cre_Date_": "2016/9/20 下午 04:53:24",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160920395",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 04:51:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "七賢二路270號旁巷內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有一大片鐵皮，妨礙通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 04:54:04",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 03:40:56",
     "Close_Date_": "2016/9/19 下午 08:08:01"
-  },
-  {
-    "FileNo_": "INS160919393",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 03:36:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "國光路7號旁公園前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路邊現堆置許多傾倒樹木與斷枝，因此皆有阻擋行車轉彎之視線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 03:40:43",
-    "Close_Date_": ""
   }
 ]
