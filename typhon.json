@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160920507",
+    "FileNo_": "INS160920508",
     "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 08:38:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "1.英雄路與海邊路2. 英雄路9號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映地點一:有一梅花造型照明燈故障不亮；地點二:有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160920507",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 08:36:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族二路上與河南路口(南往北方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一棵路樹傾倒於一線車道上，已影響車輛通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 08:38:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 07:52:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919506",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/19 下午 07:16:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路3巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附近一帶沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 07:18:12",
     "Close_Date_": ""
   }
 ]
