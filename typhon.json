@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920090",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 上午 08:47:07",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "樂利路與康莊路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "空地前號誌紅燈故障",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920089",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 08:43:48",
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS160920079",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 08:31:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "苓雅一路與仁智街口(靠近全聯)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處有一「苓雅一路」字樣之路牌掉落，望請盡速復原，建請查處。(※現路牌放在全聯斜對角的路邊，仁智街上)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 08:49:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 上午 08:56:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919084",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 上午 08:52:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "河西一路與北端街口(烤鴨店旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一號誌燈桿因風災致自基座已傾斜彎曲，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 上午 08:58:49",
     "Close_Date_": ""
   }
 ]
