@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160920178",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 上午 10:39:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "鳳林二路 光明路一段",
+    "address_": "鳳林二路與光明路一段",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈桿連接點斷裂出現傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 上午 10:40:44",
     "Close_Date_": ""
   },
   {
