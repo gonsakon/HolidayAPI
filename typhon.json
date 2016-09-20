@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160921025",
+    "FileNo_": "INS160921026",
     "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 07:25:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "經武路與力行路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近空氣飄散著不明化學異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160921025",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 07:23:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "翠亨南路上(與金福路口)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該處路燈沿線白天未熄，晚上卻故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 上午 07:25:17",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 12:33:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920008",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 上午 12:25:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興西路165號至御宿旅館",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處6路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 12:32:23",
     "Close_Date_": ""
   }
 ]
