@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160920500",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/20 下午 08:26:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南榮路256號4樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址樓上住戶有冷氣滴水情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160920499",
     "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 08:24:24",
@@ -664,14 +681,14 @@
   },
   {
     "FileNo_": "INS160920460",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 下午 07:15:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族陸橋下(民族一路往建國二路方向)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有許多廢棄物及樹枝樹葉散落已佔據近一個車道，恐致危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 06:56:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919498",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 06:52:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "崇本街沿線與周界巷道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段與周界巷道內路燈均不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 06:53:33",
     "Close_Date_": ""
   }
 ]
