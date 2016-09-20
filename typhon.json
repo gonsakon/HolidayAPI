@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160920438",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 06:12:43",
     "ReplyUnit_": "A01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營新路205號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前有兩處寬頻孔蓋鬆動致噪音，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 06:20:00",
     "Close_Date_": ""
   },
   {
