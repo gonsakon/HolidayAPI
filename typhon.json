@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921005",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 12:46:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "高雄市九如四路1275巷",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "颳風把路牌吹壞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921004",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 上午 12:46:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 11:34:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919591",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/19 下午 11:32:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "城峰路上，往南近圓環處",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一行人號誌燈讀秒面板有脫落情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/20 01:06 智輸中心張寬如小姐回報：該處已先將燈面拆除，因需報修廠商無法立\r\n即修復，改派非網A-TB-2016-80659。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 11:33:40",
-    "Close_Date_": "2016/9/20 上午 07:54:03"
   }
 ]
