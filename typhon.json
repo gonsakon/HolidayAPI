@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160920385",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/20 下午 04:32:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "民族一路上與明誠一路及裕誠路",
+    "address_": "民族一路上與明誠一路口及裕誠路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映下述2路口之號誌因故障不連鎖，建請查處。",
+    "BeforeDesc_": "渠反映下述2路口之號誌燈原為連鎖設定，目前因故障不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/20 下午 04:35:23",
     "Close_Date_": ""
   },
   {
@@ -116,6 +116,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 04:29:44",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160920378",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/20 下午 04:27:24",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁德路80號",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前電線桿上有電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/20 下午 04:37:20",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/19 下午 03:20:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160919380",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/19 下午 03:17:27",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路680號、682號、686號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該三址前方皆各有兩個污水孔蓋目前皆阻塞、滿溢，更曾在颱風來臨時冒出大量汙水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/19 下午 03:21:45",
     "Close_Date_": ""
   }
 ]
