@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921413",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 07:05:44",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興西路與興楠路(往西，過高速公路，位於興楠路上)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌紅燈秒數故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921412",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 07:03:37",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS160921359",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 下午 05:11:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "海專路與德民路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 04:53:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920393",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/20 下午 04:48:44",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "Test",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "Test",
-    "AfterDesc_": "Test",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 05:13:33",
-    "Close_Date_": "2016/9/20 下午 05:21:21"
   }
 ]
