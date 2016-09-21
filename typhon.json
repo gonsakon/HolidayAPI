@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921192",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 11:49:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "環球路(環球水泥斜對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有樹枝堆放在此，然外包人員表示不願清運，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921191",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 上午 11:46:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 10:44:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920172",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 上午 10:34:55",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十三路與高坪二十五街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一號誌桿傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 10:36:14",
     "Close_Date_": ""
   }
 ]
