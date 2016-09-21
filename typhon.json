@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160922007",
+    "FileNo_": "INS160922008",
     "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 12:17:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路上(五塊厝公園附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160922007",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 12:15:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "民權一路與四維二路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有不明燃燒異味空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 12:17:12",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:30:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920534",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 09:20:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文和街58號前(位於文山國小圍牆旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭人棄置一垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:22:20",
     "Close_Date_": ""
   }
 ]
