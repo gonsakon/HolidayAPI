@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160921169",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/21 上午 11:01:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "立忠路與立人街口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路口遭人丟棄1包粉紅色垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 上午 11:06:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921168",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 11:00:23",
@@ -3044,20 +3061,20 @@
   },
   {
     "FileNo_": "INS160920576",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 下午 10:55:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與建榮路口(美美卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用擴音器唱歌致噪音擾民，建請盡速查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/21 11：06簡訊回覆：陳先生您好，您9月20日所反映擴音噪音問題，經本\r\n府環保局前往稽查，稽查時於通報地點巡查，店家立即配合調降音量及關閉擴音器，於周界巡查未發\r\n現有噪音情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 11:37:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 上午 11:09:06"
   },
   {
     "FileNo_": "INS160920575",
@@ -8331,14 +8348,14 @@
   },
   {
     "FileNo_": "INS160920259",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 下午 01:04:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海景街往緯九路(四海一家；棒球場與羽球場中間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹上垂掛一個粗樹枝，恐會掉落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 10:08:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920150",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 上午 10:05:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "綏遠街與博愛一路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處「博愛一路」路牌遭颱風來襲時吹走遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 10:09:58",
     "Close_Date_": ""
   }
 ]
