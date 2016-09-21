@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160921264",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 02:30:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路53巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該巷內路燈皆未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 02:35:56",
     "Close_Date_": ""
   },
   {
