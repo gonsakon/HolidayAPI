@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160921189",
+    "FileNo_": "INS160921190",
     "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 11:42:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文英里文英路63號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有路面凹陷，有一車輛寬度，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160921189",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 11:40:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "有光路47號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 上午 11:41:50",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 10:44:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920170",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 上午 10:31:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九大路與九曲路北極巷",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口相向號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 10:34:17",
     "Close_Date_": ""
   }
 ]
