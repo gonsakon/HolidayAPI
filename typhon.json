@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160921494",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 09:20:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路與富國路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路口於新庄仔路上分隔島有6盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 09:21:28",
     "Close_Date_": ""
   },
   {
