@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922039",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 07:27:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重愛路與博愛四路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣瀰漫柴油異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922038",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 07:24:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 10:43:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920565",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 10:40:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "和平二路與廣西路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍所遺留之油漬，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 10:42:16",
     "Close_Date_": ""
   }
 ]
