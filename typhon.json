@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922021",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 01:49:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "壽天路與仁壽路(仁壽橋上)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處橋上有五六盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922020",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 01:30:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:41:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920547",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 09:36:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "瓦厝街與九曲路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處兩盞路燈(其一盞編號：九曲幹86Q2410DD09、另一盞約50公尺距離)故障不亮，建請查修。(請人員檢修時與陳情人聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:39:20",
     "Close_Date_": ""
   }
 ]
