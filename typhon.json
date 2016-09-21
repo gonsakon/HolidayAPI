@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922014",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 01:03:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "河堤路一段155號、",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段有多盞路燈故障不亮，建請查處。(000726、000727、",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922013",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 12:58:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:35:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920540",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 09:33:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津三路916巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:35:44",
     "Close_Date_": ""
   }
 ]
