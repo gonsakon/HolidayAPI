@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921420",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 07:18:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "興中二路63號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址旁有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921419",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 07:12:27",
@@ -1174,14 +1191,14 @@
   },
   {
     "FileNo_": "INS160921350",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/21 下午 04:52:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路1155號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，壓在鐵門上致無法開門，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 05:00:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920400",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 04:57:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路328巷36號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處掉落一塊白色廣告帆布至路旁，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 05:01:01",
     "Close_Date_": ""
   }
 ]
