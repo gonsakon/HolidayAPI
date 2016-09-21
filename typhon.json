@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922040",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 07:28:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松路8號往大寮路橋下方的住宅區",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "濃濃油氣味，久久不散，太誇張了，持續好多天，我也知道說是中油風災的關係，但不用限期改善嗎？",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922039",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 07:27:10",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160922038",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 07:24:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "華興街與水管路",
+    "address_": "華興街與水管路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌風災故障修復後，於06至18時無法正常運作故障外，其餘時段皆正常運作，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 07:29:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 10:47:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920566",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 10:41:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "新興路30號旁邊(靠近中油附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處該處有2盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 10:43:35",
     "Close_Date_": ""
   }
 ]
