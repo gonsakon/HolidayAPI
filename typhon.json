@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160921299",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 03:39:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路620巷29號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一鐵皮廢棄物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921298",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 03:39:54",
@@ -9674,20 +9691,20 @@
   },
   {
     "FileNo_": "INS160920307",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 下午 02:36:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路與灣興街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/21 15：39 簡訊回覆：李先生您好，您9月20日所反映號誌故障問題，已交由\r\n交通局賡續辦理，惟因需另報修廠商協助修復，另轉由案件編號：A-TB-2016-81281賡續辦理，感謝您的熱\r\n心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:38:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 03:40:32"
   },
   {
     "FileNo_": "INS160920306",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 01:47:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920277",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 01:45:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路487號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 01:47:27",
     "Close_Date_": ""
   }
 ]
