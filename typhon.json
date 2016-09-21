@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921541",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 11:21:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山田路與松興路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處路段有民眾燃放鞭炮致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921540",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 11:12:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:07:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920523",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 09:03:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里旗南三路155之8號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈，一盞故障不亮；另一則為方向歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:07:27",
     "Close_Date_": ""
   }
 ]
