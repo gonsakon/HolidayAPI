@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922004",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 12:07:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路107之20號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922003",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 12:06:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:14:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920530",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/20 下午 09:11:47",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "輔仁路48巷26號旁",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處牆壁上之台電電錶已剝落，且僅剩電線懸掛於空中，建請查處。",
-    "AfterDesc_": "【主管解除管制】此案於09/20 21:13通報台電1911客服蔡先生(值機代號8003)成功，後續轉派非網A-TB-\r\n2016-81772辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:17:31",
-    "Close_Date_": "2016/9/21 下午 05:48:06"
   }
 ]
