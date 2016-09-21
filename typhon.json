@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921380",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 05:49:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "1.鳳凌廣場金礦咖啡旁水池，2.體育路與中山路交叉口(仁愛眼鏡旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有地點有路樹倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921379",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 05:47:19",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS160921347",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/21 下午 04:50:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金鼎路與鼎新路",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處斑馬線上有一路面坑洞，建請查處。",
     "AfterDesc_": "",
@@ -4655,7 +4672,7 @@
     "AfterDesc_": "黃先生您好，您9月21日所反映號誌燈故障、路燈牌掉落問題，已交由本府交通局、工務賡續辦理，案件編號：\r\nA-TB-2016-81662、A-TB-2016-81648，待處理完成再向您回覆，倘您對案件處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:32:49",
-    "Close_Date_": "2016/9/21 下午 05:50:14"
+    "Close_Date_": "2016/9/21 下午 05:50:39"
   },
   {
     "FileNo_": "INS160921100",
@@ -7345,20 +7362,20 @@
   },
   {
     "FileNo_": "INS160920530",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 下午 09:11:47",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路48巷26號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處牆壁上之台電電錶已剝落，且僅剩電線懸掛於空中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】此案於09/20 21:13通報台電1911客服蔡先生(值機代號8003)成功，後續轉派非網A-TB-\r\n2016-81772辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:17:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 05:48:06"
   },
   {
     "FileNo_": "INS160920529",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 04:06:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920359",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 04:03:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大竹路2號(活動中心後方)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處籃球場上有一路樹傾倒，導致壓到電線桿上之電線，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 04:06:07",
     "Close_Date_": ""
   }
 ]
