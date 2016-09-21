@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160921372",
+    "FileNo_": "INS160921373",
     "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 05:42:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新衙路308號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處因風災有多處枯枝、落葉垃圾之情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160921372",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 05:41:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路269號旁，於河北路上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路面有一路面坑洞，建請修補。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 05:42:33",
     "Close_Date_": ""
   },
   {
@@ -4897,20 +4914,20 @@
   },
   {
     "FileNo_": "INS160921079",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 上午 09:07:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路145號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/21 17：42簡訊回覆：簡小姐您好，您9月21日所反映路樹傾倒問題，私人\r\n樹木，需由區公所查明地主處理，已交由本府區公所賡續辦理，案件編號：A-TB-2016-81496，待處理\r\n完成再向您回覆，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:10:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 05:44:09"
   },
   {
     "FileNo_": "INS160921078",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 03:52:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920353",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 03:46:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "濱山街上(正修宿舍出來左手邊20公尺處)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一樹幹懸掛在電纜線上多日，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 03:49:33",
     "Close_Date_": ""
   }
 ]
