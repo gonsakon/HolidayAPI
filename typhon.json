@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922009",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 12:19:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣州一街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處周邊有飄散不明惡臭異味，且有白煙飄散，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922008",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 12:17:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:22:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920535",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 09:20:30",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "東方路110號(東方設計學院)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一流浪犬隻被咬傷，建請查處。(麻煩收案後先與陳情人聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:30:24",
     "Close_Date_": ""
   }
 ]
