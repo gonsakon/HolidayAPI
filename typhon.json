@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922023",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 04:30:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922022",
     "Status_": "4",
     "Cre_Date_": "2016/9/22 上午 04:07:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:43:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920549",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 09:38:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內東里茄苳崙2號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈照射角度歪斜，建請查處。(請單位處理完畢直接跟民眾聯繫說明)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:41:25",
     "Close_Date_": ""
   }
 ]
