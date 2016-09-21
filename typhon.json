@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921302",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 03:43:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "三中路上(介於三民路與經建路之間)(靠住宅區這邊)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段有一盞路燈故障閃爍，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921297",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 03:42:03",
@@ -698,14 +715,14 @@
   },
   {
     "FileNo_": "INS160921260",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/21 下午 02:18:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞田街與凱旋四路口(號誌燈下)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有一路面坑洞，且修補後再次下陷，疑似有掏空情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 01:56:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920280",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 01:47:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈白天未熄，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 01:51:34",
     "Close_Date_": ""
   }
 ]
