@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922027",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 05:23:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高鳳路上(介於孔宅接至孔鳳路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有六盞路燈故障不亮，建請修繕。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922026",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 05:22:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:57:43",
     "Close_Date_": "2016/9/21 下午 02:48:42"
-  },
-  {
-    "FileNo_": "INS160920553",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 09:50:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠亨南路231號至207號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈沿線晚間皆故障不亮，但白天卻是未熄狀況，疑似定時器有故障，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:51:16",
-    "Close_Date_": ""
   }
 ]
