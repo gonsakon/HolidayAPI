@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921247",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 01:49:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "海邊路100號、102號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921246",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 01:41:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 12:02:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920226",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 上午 11:59:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路與翠屏路口(全聯福利中心前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處號誌旁有路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 12:02:46",
     "Close_Date_": ""
   }
 ]
