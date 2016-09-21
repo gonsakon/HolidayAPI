@@ -477,20 +477,20 @@
   },
   {
     "FileNo_": "INS160922006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 12:11:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "文化中心周邊",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周邊瀰漫燃燒塑膠異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 02:52環保局公害專線王奕翔先生回報，稽查人員於00:45到達，經查上述地\r\n點周邊，發現空氣中有燃燒異味之情事，沿周界巡查，未發現燃燒行為以致空污之情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 12:14:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 07:03:38"
   },
   {
     "FileNo_": "INS160922005",
@@ -630,20 +630,20 @@
   },
   {
     "FileNo_": "INS160921541",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 下午 11:21:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山田路與松興路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處路段有民眾燃放鞭炮致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 01:50環保局公害專線楊竣安先生回報，稽查人員於23:50到達，稽查時於上\r\n述路段巡查，未發現施放鞭炮以致噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 11:21:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 07:03:05"
   },
   {
     "FileNo_": "INS160921540",
@@ -783,20 +783,20 @@
   },
   {
     "FileNo_": "INS160921532",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 下午 10:50:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "龍東街100之1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近有民眾疑似燃燒瀝青異味致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 01：12 環保局環境稽查科北區股余泓陞先生回報，稽查人員於00：22到達，\r\n稽查時於周界巡視未發現上述空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 10:52:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 07:04:21"
   },
   {
     "FileNo_": "INS160921531",
