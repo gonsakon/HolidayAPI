@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921392",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 06:15:31",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "華正路200號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處有一台電管線挖掘施工，惟無擺放告示牌，亦無派員指揮交通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921391",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 06:09:22",
@@ -4489,20 +4506,20 @@
   },
   {
     "FileNo_": "INS160921123",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 上午 09:51:22",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "英明路260巷37號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址污水管阻塞且已滿出，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/09/21 18:14簡訊回覆:王先生您好，您9月21日所反映汙水管問題，本\r\n府水利局已派員前往修復完成，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:54:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 06:15:09"
   },
   {
     "FileNo_": "INS160921121",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 04:25:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920372",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 04:19:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "長壽路65巷2弄22號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處電線桿上有一廣告布條垂掛在上方，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 04:22:29",
     "Close_Date_": ""
   }
 ]
