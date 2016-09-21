@@ -61,7 +61,7 @@
     "UnitName_": "交通局",
     "StatusName_": "建立中",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前方號誌目前閃黃燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
