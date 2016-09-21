@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921063",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 08:33:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "1.尚禮街2.建業街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該兩街道沿線路燈故障不亮已一個禮拜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921056",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 上午 08:33:29",
@@ -51,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160921058",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/21 上午 08:32:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路306號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有風災過後散落的垃圾、零散招牌及碎玻璃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 上午 08:34:42",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921057",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 上午 08:31:20",
@@ -61,7 +95,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(燈號：12左6 )故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處有一路燈(燈號：12左6 )故障不亮；一盞路燈燈頭(燈號：3150)歪斜，並影響農作物，望請能改為黃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 07:51:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920043",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/20 上午 07:32:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大園街與鼎勇街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上皆堆置樹枝葉及垃圾，造成髒亂，建請清除。",
-    "AfterDesc_": "【主管解除管制】三民東區清潔隊翁舜華小姐於09/20 07:41回報：該處為養工處將公園內所清理\r\n之樹枝葉及垃圾(裝在黑色垃圾包)，故改派INS160920047由養工處查處。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 07:35:27",
-    "Close_Date_": "2016/9/20 上午 07:51:39"
-  },
-  {
-    "FileNo_": "INS160920042",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 上午 07:27:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "崑山路22號(崑山宮)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 07:30:04",
     "Close_Date_": ""
   }
 ]
