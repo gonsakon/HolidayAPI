@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160921396",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 06:20:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "旗楠路與保舍甲路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處沿線路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 06:22:46",
     "Close_Date_": ""
   },
   {
@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160921392",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 06:15:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "華正路200號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電管線挖掘施工，惟無擺放告示牌，亦無派員指揮交通，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 06:23:13",
     "Close_Date_": ""
   },
   {
