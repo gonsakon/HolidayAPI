@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160922045",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 07:45:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋新一路與橋新六路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處一「橋新一路」路牌搖搖欲墜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922043",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 07:42:28",
@@ -35,20 +52,20 @@
   },
   {
     "FileNo_": "INS160922042",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 07:38:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文府路226號後方停車場(由阿珠海產店旁走道 進入)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處停車場內有兩隻貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 07:43左營區清潔隊祝立庭小姐回報，已致電陳情人說明，該停車場屬私人領\r\n域，倘若前往清理，恐遭他人質疑有圖利之虞，陳情人表示接受。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 07:42:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 07:49:10"
   },
   {
     "FileNo_": "INS160922041",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 10:59:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920571",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 10:49:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "菜公路102巷60號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞水銀路燈故障不亮，建議一併更換為LED路燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 10:51:30",
     "Close_Date_": ""
   }
 ]
