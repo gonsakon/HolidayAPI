@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922006",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 12:11:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "文化中心周邊",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處周邊瀰漫燃燒塑膠異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922005",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 12:08:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:20:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920532",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 09:13:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中崙四路與中崙一路口(中崙國小)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈紅燈未亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:14:33",
     "Close_Date_": ""
   }
 ]
