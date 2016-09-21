@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921144",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/21 上午 10:24:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南星路448號與南星路(靠近沿海三路)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處該處有多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 上午 10:29:06",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921143",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 上午 10:24:09",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS160921116",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/21 上午 09:44:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎安路27號左側前(機慢車道上)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段有許多斷枝樹葉垃圾，建請盡速查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 09:33:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920125",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 上午 09:28:25",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大社路(介於大社國小到東安綜合商場之間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路段上有一盞紅綠燈故障僅會閃紅燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 09:29:13",
     "Close_Date_": ""
   }
 ]
