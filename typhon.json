@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921398",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 06:28:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路521號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921397",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 06:27:45",
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS160921354",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 下午 04:57:50",
     "ReplyUnit_": "A01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重和路32號",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前一方型高市寬頻孔蓋鬆動噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 04:37:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920379",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 04:26:33",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫北路15之2號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址停電多日皆未見復電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 04:30:21",
     "Close_Date_": ""
   }
 ]
