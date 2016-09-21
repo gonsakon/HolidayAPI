@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921271",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/21 下午 02:40:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術南三路207號至209號前沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面落葉掃成堆擺放停車格內，惟遭車輛輾壓散落，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 下午 02:42:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921270",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 02:38:14",
@@ -1327,14 +1344,14 @@
   },
   {
     "FileNo_": "INS160921190",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 上午 11:42:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文英里文英路63號對面",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有路面凹陷，有一車輛寬度，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 12:56:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920249",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 12:48:13",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "北林路與世全路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 12:49:18",
     "Close_Date_": ""
   }
 ]
