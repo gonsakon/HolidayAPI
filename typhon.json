@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921138",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 上午 10:14:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "正修路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有電線垂落情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921137",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 上午 10:11:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 09:32:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920121",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 上午 09:26:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金山路與鼎中路口，兒童鼎泰公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處公園內堆積大量傾倒的樹木、樹枝未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 09:27:15",
     "Close_Date_": ""
   }
 ]
