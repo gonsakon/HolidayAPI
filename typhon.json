@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160922041",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 07:33:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "王公路485號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處一盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 07:33:56",
     "Close_Date_": ""
   },
   {
@@ -6852,20 +6852,20 @@
   },
   {
     "FileNo_": "INS160921178",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 上午 11:18:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎山街上(鼎金國中側門)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該校人行道上有樹枝與黑色垃圾包未清，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/21 12：28 三民東區清潔隊曾美華小姐回報，該處經人員勘查現場無影響通行之\r\n危險性，惟因風災後受損嚴重人力較為不足，需另派員協助清除，故改派非網：A-TB-2016-81628追蹤\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:33:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 07:36:30"
   },
   {
     "FileNo_": "INS160921177",
