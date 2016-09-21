@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921286",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/21 下午 03:16:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路與福安路口(家扶中心前)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該處有一「福安路」的路牌掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 下午 03:18:49",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921285",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 03:13:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 01:15:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920264",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 01:09:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺民路680之1號(汽車公司)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映有一棵路樹目前傾倒於該址公司屋頂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 01:20:17",
     "Close_Date_": ""
   }
 ]
