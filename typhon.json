@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921339",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 04:48:46",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高楠公路32號(台灣時報對面)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該路段機慢車道上有一台電孔蓋旁有坑洞，(陳情人表示有危險性)建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921336",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 04:47:41",
@@ -4285,20 +4302,20 @@
   },
   {
     "FileNo_": "INS160921082",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/21 上午 09:09:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河北二路132號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處前有一攤販擴音器持續撥放佛經聲響過大噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/21 16：47簡訊回覆：林小姐您好，您9月21日所反映擴音噪音問題，經本\r\n府環保局前往稽查，人員至現場已立即促請業者調降音量改善，感謝您的熱心通報，倘您對案件處理\r\n有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:14:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 04:50:34"
   },
   {
     "FileNo_": "INS160921081",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:56:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920316",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 02:51:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段,青年陸橋(南下)與青年路二段103巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處附掛於號誌桿上的道路指示牌歪斜恐將掉落,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 02:52:44",
     "Close_Date_": ""
   }
 ]
