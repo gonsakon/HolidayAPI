@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160921321",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 04:20:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大仁路420巷6號、8號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該幼稚園有使用擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921320",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 04:19:24",
@@ -8875,14 +8892,14 @@
   },
   {
     "FileNo_": "INS160920379",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 下午 04:26:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫北路15之2號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址停電多日皆未見復電，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:34:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920298",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/20 下午 02:31:20",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中華路3號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前一布條纏繞於高壓電線及電桿上怕會著火，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 02:35:26",
     "Close_Date_": ""
   }
 ]
