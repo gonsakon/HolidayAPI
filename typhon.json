@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921532",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 10:50:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "龍東街100之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近空氣中有燃燒瀝青異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921531",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 10:49:36",
@@ -2458,7 +2475,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前飄散濃厚類似藥水異味，建請查處。",
+    "BeforeDesc_": "渠反映該處目前飄散濃厚類似藥水異味，建請會同查處。(請人員先與其聯繫告知何時會前往)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 05:57:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 08:47:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920513",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 08:46:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中樂街與中樂街25巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路燈下有一貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 08:47:03",
     "Close_Date_": ""
   }
 ]
