@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921522",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 10:20:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "中華里整個社區",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "莫蘭蒂颱風來社區內的路就完全沒路燈\n到現在一個禮拜了還是沒有來維修",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921521",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 10:14:20",
@@ -1990,14 +2007,14 @@
   },
   {
     "FileNo_": "INS160921403",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 下午 06:45:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "民裕街上，與衡山街、 鄭和路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該兩路口號誌不連鎖，且民裕街衡山街口在非上下課時間應要是閃燈，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 08:44:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920504",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 08:31:25",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "和義街22號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一水溝蓋，周邊水泥有破損情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 08:34:41",
     "Close_Date_": ""
   }
 ]
