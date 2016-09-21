@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921543",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 11:37:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳屏一路與大漢路口(你福氣檳榔對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921542",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 11:35:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 09:11:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920525",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 09:05:09",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路898號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址有一隻黑灰色貓隻不慎受困黏鼠板，其已先將黏鼠板移除，惟貓隻仍有受傷情事，建請救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 09:11:44",
     "Close_Date_": ""
   }
 ]
