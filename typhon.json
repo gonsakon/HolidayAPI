@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160921280",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 03:03:47",
     "ReplyUnit_": "A01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "深中路",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處三個大學校區路段現有4、5處不明挖路工程進行，已進行許久，因該處學生眾多十分危險，望局處查察改善學生與大車爭道問題，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/21 下午 03:06:13",
     "Close_Date_": ""
   },
   {
