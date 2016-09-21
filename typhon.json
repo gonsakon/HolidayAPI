@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921426",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 07:27:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "中正路與港九街交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌四面都呈現紅燈情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921425",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 07:23:41",
@@ -1684,14 +1701,14 @@
   },
   {
     "FileNo_": "INS160921325",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 下午 04:29:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "埤北路245號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址前有人焚燒稻草，造成空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 05:14:01",
     "Close_Date_": "2016/9/20 下午 05:22:35"
-  },
-  {
-    "FileNo_": "INS160920406",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 05:01:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路85巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該巷沿線路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 05:02:41",
-    "Close_Date_": ""
   }
 ]
