@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921527",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 10:41:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路(新上街至新莊仔路，北上方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道路磚有2處凹陷，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921526",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 10:36:28",
@@ -9351,14 +9368,14 @@
   },
   {
     "FileNo_": "INS160920558",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/20 下午 10:03:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "安寧街486號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 08:45:24",
     "Close_Date_": "2016/9/21 上午 11:06:42"
-  },
-  {
-    "FileNo_": "INS160920509",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 08:39:35",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "英雄路與光明街",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一汙水人孔蓋周邊柏油破損致坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 08:42:15",
-    "Close_Date_": ""
   }
 ]
