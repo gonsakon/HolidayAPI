@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921317",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 04:11:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中光街23號旁(青島兒童遊戲場)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處因風災後養工處救災，惟把公園椅弄壞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921316",
     "Status_": "1",
     "Cre_Date_": "2016/9/21 下午 04:10:18",
@@ -8195,20 +8212,20 @@
   },
   {
     "FileNo_": "INS160920415",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/20 下午 05:26:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "熱河一街450巷33號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線垂落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】此案於09/20 17:26 通報台電1911客服孫小姐(值機代號8052)成功，後續轉派非網A-TB-\r\n2016-81781辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 05:30:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/21 下午 04:10:12"
   },
   {
     "FileNo_": "INS160920414",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 02:29:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920295",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 下午 02:24:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路3之2號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前有路樹傾倒，阻擋通行，建請移除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 02:26:52",
     "Close_Date_": ""
   }
 ]
