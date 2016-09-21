@@ -137,20 +137,20 @@
   },
   {
     "FileNo_": "INS160922022",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 04:07:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天津街與熱河二街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處號誌燈下有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 04:21溝渠隊莊斯宇先生回報，該貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 04:09:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 06:27:01"
   },
   {
     "FileNo_": "INS160922021",
@@ -171,20 +171,20 @@
   },
   {
     "FileNo_": "INS160922020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 01:30:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路398號旁(紐約牙醫)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人棄置大型廢棄家具，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 04:26溝渠隊莊斯宇先生回報，該處無危險性且不影響交通，需派大型車輛清\r\n運，故轉派非網A-TB-2016-82036賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 01:31:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/22 上午 06:28:15"
   },
   {
     "FileNo_": "INS160922019",
