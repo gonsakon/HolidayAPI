@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921481",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 08:57:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南京路上與五甲一路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921480",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 08:54:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 07:23:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920462",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/20 下午 07:16:25",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "林森一路281號",
-    "UnitName_": "警察局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "arc-9155",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 08:21:22",
     "Close_Date_": ""
   }
 ]
