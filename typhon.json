@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921262",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 02:24:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "自強路二段與泰安路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處舊衣回收箱周圍遭人丟棄許多垃圾，望請局處派員稽查，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921261",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 02:19:14",
@@ -1123,14 +1140,14 @@
   },
   {
     "FileNo_": "INS160921193",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 上午 11:51:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠四路256號前(人行道上)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有多處樹葉斷枝垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/20 下午 12:33:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920240",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/20 下午 12:30:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大鵬路與康莊路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有樹枝堆積尚未清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/20 14:22 小港區清潔隊張少驊先生回報，該處已清除完成；並於09/21 \r\n10：36電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 下午 12:33:09",
-    "Close_Date_": "2016/9/21 上午 10:40:08"
   }
 ]
