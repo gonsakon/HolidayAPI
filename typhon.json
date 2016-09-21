@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160921228",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/21 下午 01:17:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "中崙寮路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路沿線路燈皆故障不亮，且中崙寮路1號、6號、20多號前亦有燈殼掉落路燈折斷之情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160921226",
     "Status_": "2",
     "Cre_Date_": "2016/9/21 下午 01:10:08",
@@ -3163,14 +3180,14 @@
   },
   {
     "FileNo_": "INS160921038",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/21 上午 07:53:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "左楠路近後昌路上，往東300公尺，國光中學前",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/20 上午 11:17:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160920207",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/20 上午 11:13:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱璇二路35號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/20 上午 11:14:47",
     "Close_Date_": ""
   }
 ]
