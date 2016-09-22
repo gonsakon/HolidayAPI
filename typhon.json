@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922239",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 11:49:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海二路上(介於中鋼路與中林路間，南北巷慢車道)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處沿線傾倒之路樹擺放於人行道，遭風吹落至機車道且有部分木擺放位置突出機車道，恐發生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922238",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 11:49:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:33:42",
     "Close_Date_": "2016/9/22 上午 07:36:30"
-  },
-  {
-    "FileNo_": "INS160921177",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 上午 11:18:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "和成路與鳳南一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 11:19:22",
-    "Close_Date_": ""
   }
 ]
