@@ -1973,20 +1973,20 @@
   },
   {
     "FileNo_": "INS160922477",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 下午 06:44:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自強陸橋上(往澄清湖方向中下位置)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 19:34 三民東區清潔隊徐瑞聯先生回報，該處附近巡視未發現貓屍，已與陳\r\n情人確認地點無誤。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 06:50:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/23 上午 01:41:09"
   },
   {
     "FileNo_": "INS160922476",
