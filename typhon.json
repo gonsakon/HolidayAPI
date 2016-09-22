@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922383",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 03:50:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "凱旋四路上，從瑞南街到中山三路之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該處路燈皆白天未熄，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922382",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 03:50:38",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160922381",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 03:49:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重光路72巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有大量雜物、枝葉堆積，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 03:51:33",
     "Close_Date_": ""
   },
   {
@@ -2466,14 +2483,14 @@
   },
   {
     "FileNo_": "INS160922236",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 上午 11:49:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "武功巷99號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹上方斷枝懸在半空中，恐掉落發生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 04:31:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921322",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 04:27:22",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "新田路215巷1號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處有汙水管阻塞滿溢至住家，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 04:29:40",
     "Close_Date_": ""
   }
 ]
