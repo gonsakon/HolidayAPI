@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160922244",
+    "FileNo_": "INS160922245",
     "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 11:59:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁林路仁武高中",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前飄散不明化學空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160922244",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 11:56:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "桂林街與忠民街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一個藍色舊衣回收箱，疑似不合法設置，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 11:59:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:33:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921183",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 上午 11:31:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "六合一路七賢國小後門(六和一路83之1號對面)路段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處整排路樹上均掛著颱風吹斷之樹枝，懸於半空中，方才已有一枝掉落砸破汽車玻璃，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 11:32:31",
     "Close_Date_": ""
   }
 ]
