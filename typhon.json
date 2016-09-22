@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922331",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 02:24:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "建楠路84巷，公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處有",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922327",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 02:22:04",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160922330",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 02:21:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林一路161巷(近鳳林一路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該路段沿線有許多坑洞，表示近鳳林一路有兩個大坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 02:24:17",
     "Close_Date_": ""
   },
   {
@@ -851,14 +868,14 @@
   },
   {
     "FileNo_": "INS160922277",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/22 下午 01:14:12",
     "ReplyUnit_": "F01008",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "成大街上近安招路",
     "UnitName_": "燕巢區公所",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處六米以下道路有一路面大坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 02:47:51",
     "Close_Date_": "2016/9/21 下午 06:39:29"
-  },
-  {
-    "FileNo_": "INS160921271",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 下午 02:40:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術南三路207號至209號前沿線",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面落葉掃成堆擺放停車格內，惟遭車輛輾壓散落，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於09/21 15:13 鼓山區清潔隊黃小紋小姐回報，該處皆已清除完畢；並於\r\n09/21 16：53電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 02:42:37",
-    "Close_Date_": "2016/9/21 下午 05:01:45"
   }
 ]
