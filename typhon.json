@@ -545,19 +545,19 @@
   },
   {
     "FileNo_": "INS160922232",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 11:43:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "典昌路與復興西路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "號誌不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 12:44:24",
     "Close_Date_": ""
   },
   {
