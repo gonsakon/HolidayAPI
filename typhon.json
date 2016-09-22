@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922509",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 07:48:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路459巷38號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭民眾堆積雜物，造成髒亂，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922508",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 07:44:27",
@@ -987,14 +1004,14 @@
   },
   {
     "FileNo_": "INS160922450",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/22 下午 05:32:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "康莊路70號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有冷氣滴水情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 08:19:07",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921448",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 下午 08:15:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學11街與26街(地號：藍田中段105號)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處有鋼浪板圍籬傾倒於車道上，影響通行，建請查處。",
-    "AfterDesc_": "【承辦機關完成通報】因操作錯誤派錯單位，已於09/21 20:38 告知養工處四維養護工程隊值班人員江明秀\r\n小姐，此案件因分錯單位結案，已改派工INS160921477辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 08:26:51",
-    "Close_Date_": "2016/9/22 上午 10:47:04"
   }
 ]
