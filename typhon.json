@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160922227",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 11:32:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "永年街51巷與堯山街(藝術汽車旅館對面小公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該線園樹傾倒未清除，還有民眾清道落葉期棄置垃圾已成小山，建請查處。",
+    "BeforeDesc_": "渠反映該現園樹傾倒未清除，還有民眾清倒落葉及棄置垃圾已成小山，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 11:34:01",
     "Close_Date_": ""
   },
   {
@@ -1366,7 +1366,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
-    "address_": "中華街上靠近90號位子",
+    "address_": "中華街上靠近90號位置",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
