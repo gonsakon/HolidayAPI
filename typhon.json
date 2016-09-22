@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160922174",
+    "FileNo_": "INS160922175",
     "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 10:34:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路382號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道上有一傾倒的路樹旁,有一凸出人行道的鐵管,因有造成民眾絆倒,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160922174",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 10:31:00",
     "ReplyUnit_": "B02000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路51號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有汙水管阻塞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 10:32:26",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:44:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921110",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 上午 09:41:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路52號附近",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處孔蓋旁凹陷，建請查處。(要求會同)",
-    "AfterDesc_": "【主管解除管制】本案於9/21 11:20水利局防洪維護科曾榮華先生回報，該處經污水人員致電向陳情\r\n人確認，而雨水人員至現場察看表示為中華電信孔蓋，無危險性，故改派非網A-TB-2016-81590賡續辦\r\n理；並於9/21 18：13電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 09:45:45",
-    "Close_Date_": "2016/9/21 下午 06:13:10"
   }
 ]
