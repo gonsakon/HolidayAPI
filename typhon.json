@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923042",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:52:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正國小大門前人行道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處面向國小大門口右側有二棵福木樹枝斷裂快掉落，面向國小左側有一顆行道樹傾斜45度，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923041",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 上午 07:51:30",
@@ -64,7 +81,7 @@
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 07:53:07",
+    "Save_Date_": "2016/9/23 上午 07:54:20",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 05:28:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922023",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 04:30:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "黃厝路2號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該住戶燃燒木材烹飪，以致煙霧迷漫空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 04:34:13",
     "Close_Date_": ""
   }
 ]
