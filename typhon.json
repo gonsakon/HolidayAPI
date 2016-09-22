@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922538",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 08:57:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明鳳二十六街與明鳳十三街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922537",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 08:55:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 08:58:27",
     "Close_Date_": "2016/9/22 上午 10:49:40"
-  },
-  {
-    "FileNo_": "INS160921476",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 08:51:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "復安路接田厝路往南方向，北極殿前南端路口號誌。",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 08:54:49",
-    "Close_Date_": ""
   }
 ]
