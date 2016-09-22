@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922454",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 05:41:02",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "忠誠路上(瑞祥高中後門)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋陷落(寬15公分，深10公分)，近道路邊緣和人行道邊緣，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922453",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 05:40:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 06:19:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921392",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/21 下午 06:15:31",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "華正路200號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電管線挖掘施工，惟無擺放告示牌，亦無派員指揮交通，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 06:23:13",
     "Close_Date_": ""
   }
 ]
