@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160922570",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/22 下午 10:34:51",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "自強一路119巷與五福一路",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有兩隻流浪犬(黃色及黑色)受傷，建請救援。(清單位先行與陳情人聯繫，欲了解到場時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160922569",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 10:15:38",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 10:02:35",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160921510",
+    "Status_": "3",
+    "Cre_Date_": "2016/9/21 下午 10:01:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋南路上近糖廠路",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/21 下午 10:09:26",
     "Close_Date_": ""
   }
 ]
