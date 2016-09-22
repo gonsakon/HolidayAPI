@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922183",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 10:42:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "頂寮里成功路往西魚塭",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映一水泥電桿(夏巴嶼高分3)傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922181",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 10:41:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:52:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921119",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 上午 09:47:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中芸路(中芸國小前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有2至3個路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 09:49:18",
     "Close_Date_": ""
   }
 ]
