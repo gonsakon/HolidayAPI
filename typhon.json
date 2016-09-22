@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922191",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 10:52:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "二仁溪橋上(台39線上，南北向往歸仁方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線南下(全不亮)、北上(上橋前有八支)路燈故障不亮且反映多次至今尚未修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922190",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 10:48:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 10:07:49",
     "Close_Date_": "2016/9/21 下午 06:38:35"
-  },
-  {
-    "FileNo_": "INS160921127",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 上午 10:02:56",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "通港路與中正二街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 10:04:33",
-    "Close_Date_": ""
   }
 ]
