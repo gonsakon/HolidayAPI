@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922481",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 06:58:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪十五路與大平路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有不明燃燒異味空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922480",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 06:52:39",
@@ -1735,14 +1752,14 @@
   },
   {
     "FileNo_": "INS160922375",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 下午 03:40:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "建榮路79號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有人員燃燒金紙導致空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 07:25:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921419",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 07:12:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路與大埤路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映此兩路沿線路燈幾乎故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 07:15:27",
     "Close_Date_": ""
   }
 ]
