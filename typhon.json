@@ -7430,20 +7430,20 @@
   },
   {
     "FileNo_": "INS160922155",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 09:59:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "長明街與安寧街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口該遭人丟棄垃圾與資源回收物，與長明街路牌下方易遭人丟棄垃圾，望請稽查，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 11:12 鳳山區清潔隊賴培貞小姐回報，該處垃圾已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 10:02:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/23 上午 01:54:53"
   },
   {
     "FileNo_": "INS160922154",
@@ -8059,20 +8059,20 @@
   },
   {
     "FileNo_": "INS160922116",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 上午 09:10:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鎮北北巷20之10號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前路中有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/22 10:43 北鳳山區清潔隊賴培貞小姐回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 09:13:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/23 上午 01:55:06"
   },
   {
     "FileNo_": "INS160922115",
