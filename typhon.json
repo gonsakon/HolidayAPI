@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922463",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 06:03:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "豐田街與翠亨南路口(翠亨南路上，往北)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922462",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 06:02:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 06:48:46",
     "Close_Date_": "2016/9/22 上午 10:37:23"
-  },
-  {
-    "FileNo_": "INS160921401",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 06:39:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自由一路201、203、205號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處共有三盞路燈故障不亮已有多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 10:33:36",
-    "Close_Date_": ""
   }
 ]
