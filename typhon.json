@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922461",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/22 下午 05:59:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "新中五街",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處沿線多棵路樹傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/22 下午 06:01:18",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922460",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 05:59:33",
@@ -10,7 +27,7 @@
     "UnitName_": "台電公司",
     "StatusName_": "建立中",
     "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映該處變電箱損壞，電線外露，恐有危險，建請查處。",
+    "BeforeDesc_": "渠反映該處公園人行道上變電箱損壞，電線外露，恐有危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -1412,14 +1429,14 @@
   },
   {
     "FileNo_": "INS160922374",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 下午 03:37:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "&#22356;埔路4巷33號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址四周看到有人在燃燒樹葉導致煙幕瀰漫，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 06:40:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921399",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 06:30:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山三路84巷29號與31號間",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 06:31:09",
     "Close_Date_": ""
   }
 ]
