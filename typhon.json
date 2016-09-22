@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922194",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 10:55:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "力行路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922193",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 10:53:54",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160922191",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 10:52:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "二仁溪橋上(台39線上，南北向往歸仁方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線南下(全不亮)、北上(上橋前有八支)路燈故障不亮且反映多次至今尚未修復，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 10:55:33",
     "Close_Date_": ""
   },
   {
@@ -1293,14 +1310,14 @@
   },
   {
     "FileNo_": "INS160922115",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 上午 09:09:39",
     "ReplyUnit_": "E01001",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "莒光路二段底",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一黃色犬隻掉落水溝受困，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 10:10:17",
     "Close_Date_": "2016/9/21 下午 06:44:36"
-  },
-  {
-    "FileNo_": "INS160921130",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 上午 10:04:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "第一科技大學前路段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有許多路樹傾倒影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 10:11:40",
-    "Close_Date_": ""
   }
 ]
