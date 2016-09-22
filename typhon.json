@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922569",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 10:15:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南正二路上(龍成路與南正二路149巷間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊散落碎玻璃，並先行將大型玻璃移至一旁，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922568",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 10:07:11",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS160922530",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 下午 08:43:30",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路與高坪二十二路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口三桿號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 10:10:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921507",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 09:59:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林一路161巷上與鳳林一路口(由路口轉入30至40公尺處、往西方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段有多處路面坑洞，建請修補。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 10:00:21",
     "Close_Date_": ""
   }
 ]
