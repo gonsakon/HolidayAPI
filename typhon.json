@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922275",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 01:10:43",
+    "ReplyUnit_": "F01008",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "成大街上近安招路",
+    "UnitName_": "燕巢區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處六米以下道路有一路面大坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922274",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 01:07:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 12:51:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921213",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 12:39:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路25之15號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路上有一路面坑洞，其表示該處曾修補過，然後續又再下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 12:41:12",
     "Close_Date_": ""
   }
 ]
