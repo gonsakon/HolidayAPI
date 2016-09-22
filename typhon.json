@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923041",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:51:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "皓東路171之11號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處騎樓有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923039",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 07:49:47",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160923040",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 07:48:38",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路與茂大街",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "閃燈",
+    "BeforeDesc_": "渠反映該處路口有一號誌燈於颱風過後，皆呈現閃燈疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 上午 07:51:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 04:34:13",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922022",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 上午 04:07:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "天津街與熱河二街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處號誌燈下有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/22 04:21溝渠隊莊斯宇先生回報，該貓屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 04:09:11",
-    "Close_Date_": "2016/9/22 上午 06:27:01"
   }
 ]
