@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922587",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 11:43:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "林森二路10號(康橋商旅)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922586",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 11:38:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 10:39:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921524",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 10:33:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "興華街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "至從上個星期三颱風過後 二個路燈都壞了一直到現在都還沒修護整條巷子都黑漆漆的晚上都會出現一些奇怪的人現在還有一對男女在巷子裡摟摟抱抱的麻煩能盡快把路燈修好 謝謝",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 11:12:08",
     "Close_Date_": ""
   }
 ]
