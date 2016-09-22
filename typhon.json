@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923034",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:39:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "811台灣高雄市楠梓區常德路317巷11號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "楠梓區靠近清成街的常德路317巷附近，有黑色日產無牌車輛，煩請移置!",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923032",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 07:34:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 01:18:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922015",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 上午 01:07:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "河堤路一段218號對面及旁邊",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段有多盞路燈故障不亮(000677、000733)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 01:18:56",
     "Close_Date_": ""
   }
 ]
