@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922477",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 06:44:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自強陸橋上(往澄清湖方向中下位置)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道上有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922475",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 06:41:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 07:09:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921414",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 07:08:05",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興西路與興楠路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口雙向綠燈亮度不足，且於未過高速公路往楠梓方向，紅綠燈同亮，且有一號誌黃燈閃爍，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 07:11:40",
     "Close_Date_": ""
   }
 ]
