@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922173",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 10:28:42",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "三民路與維新路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈的燈頭轉",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922172",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 10:25:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 09:41:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921109",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 上午 09:36:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路821號之16對面公園旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該愛河K支線兩旁路面掉落許多樹枝髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/21 10:10三民東區清潔隊曾美華小姐回報目前因人力不足恐逾期，故轉非網賡續處理。A-\r\nTB-2016-81521 ；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 09:38:36",
-    "Close_Date_": "2016/9/21 上午 10:11:10"
   }
 ]
