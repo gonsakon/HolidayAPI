@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922108",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 09:01:15",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路與裕誠路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一行人號誌燈已掉落在路面上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922107",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 09:01:08",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160922106",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 上午 09:00:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "凱旋二路上與三多二路口 (近五權國小)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈燈罩垂落欲墜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 上午 09:01:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 08:45:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921046",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 上午 08:08:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐路，楠梓高中前",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/21 17：25簡訊回覆：林小姐您好，您9月21日所反映號誌閃燈故障問題，\r\n本府交通局回覆：經查現場號誌三色正常運作，無上述情事，感謝您的熱心通報，倘您對案件處理有\r\n疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 08:10:22",
-    "Close_Date_": "2016/9/21 下午 05:28:00"
   }
 ]
