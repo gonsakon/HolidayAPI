@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922292",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 01:31:19",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "軍校路553號(海軍總醫院大門旁計程車招呼站)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處機車道有一水溝蓋掉入溝內，民眾已先放置樹枝警示，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922291",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 01:27:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 01:24:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921231",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 01:20:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中崙寮路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路沿線路燈桿上皆有線路垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 01:29:04",
     "Close_Date_": ""
   }
 ]
