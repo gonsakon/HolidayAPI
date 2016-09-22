@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922241",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 11:52:57",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建民路80號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處有一寬頻孔蓋鬆動致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922240",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 11:52:44",
@@ -2262,14 +2279,14 @@
   },
   {
     "FileNo_": "INS160922105",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 上午 09:00:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東八街10號對面(新亞合板工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處工廠正在排放燃燒木材異味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:23:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921179",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 上午 11:22:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一心一路與凱旋四路口(種小花附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處風災過後泥土髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/21 13:58 前鎮區清潔隊張昭和先生回報，現場已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 11:24:36",
-    "Close_Date_": "2016/9/22 上午 07:36:12"
   }
 ]
