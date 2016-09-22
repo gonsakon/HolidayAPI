@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922563",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 09:50:50",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路388號前",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "違規在路口停車\n馬路都他家開的喔",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922561",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 09:45:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 09:42:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921500",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 09:41:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "麒麟巷、番田路、金山路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處道路路燈全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 09:42:35",
     "Close_Date_": ""
   }
 ]
