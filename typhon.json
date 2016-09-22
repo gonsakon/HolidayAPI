@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160922254",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 12:12:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中山一路與民生一路交叉口，南向快車道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路中央有一路面凹陷坑洞，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922253",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 12:12:13",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160922249",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 12:08:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南華路與南江街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該街口處有一路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 12:15:40",
     "Close_Date_": ""
   },
   {
@@ -1378,14 +1395,14 @@
   },
   {
     "FileNo_": "INS160922172",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 上午 10:25:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊仔路211號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前數塊人行道磚遺失，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:52:47",
     "Close_Date_": "2016/9/22 上午 07:35:00"
-  },
-  {
-    "FileNo_": "INS160921192",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 上午 11:49:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "環球路(環球水泥斜對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有樹枝堆放在此，惟因樹枝有影響通行，民眾便先將樹枝拉向內，然外包人員表示不願清運，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/09/21 18:46簡訊回覆:蔡小姐您好，您9月21日所反映路樹問題，斷枝\r\n掉在電線上，需聯繫台電共同處理、另一處需調派機具將樹木移除，另轉呈公文:A-TB-2016-81710、\r\n81739，交由工務局賡續辦理，待處理完成再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝\r\n謝。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 02:07:22",
-    "Close_Date_": "2016/9/21 下午 06:46:23"
   }
 ]
