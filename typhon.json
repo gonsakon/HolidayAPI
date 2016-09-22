@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160922387",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 03:56:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "高雄市鳥松區松中正路355-2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "颱風過後 路樹損毀  樹枝並長到和電線糾纏一起  請派員來修剪  避免颱風來襲造成路樹和電線的損毀  謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922384",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 03:54:50",
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS160922380",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 03:46:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "埤北路往建國路一段(山仔頂溝滯洪池後方)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處魚蝦業者排放廢水造成惡臭，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 03:55:47",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 04:37:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921327",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 04:31:50",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "安東街上，近中安路",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有兩個台電孔蓋旁柏油下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 04:37:13",
     "Close_Date_": ""
   }
 ]
