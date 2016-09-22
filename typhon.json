@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160922330",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 02:21:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林一路161巷(近鳳林一路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段沿線有許多坑洞，表示近鳳林一路有兩個大坑洞，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922326",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 02:21:47",
@@ -86,36 +103,19 @@
   },
   {
     "FileNo_": "INS160922324",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 02:18:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "後興北路55巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈(編號001427)故障不亮，已數月，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922322",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/22 下午 02:16:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海三路與上林街",
-    "UnitName_": "環保局",
-    "StatusName_": "待確認",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫烤漆化學異味，導致眼睛不舒服，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 02:18:16",
+    "Save_Date_": "2016/9/22 下午 02:22:15",
     "Close_Date_": ""
   },
   {
@@ -133,6 +133,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 02:17:50",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160922322",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/22 下午 02:16:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海三路與上林街",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫烤漆化學異味，導致眼睛不舒服，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/22 下午 02:18:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 02:42:37",
     "Close_Date_": "2016/9/21 下午 05:01:45"
-  },
-  {
-    "FileNo_": "INS160921270",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 02:38:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文山里文藝街20巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內有多條路燈電線遭壓斷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 02:39:23",
-    "Close_Date_": ""
   }
 ]
