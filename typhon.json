@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922554",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 09:38:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊興路170之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922553",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 09:38:08",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160922552",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 09:37:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山路與五甲一路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌黃燈倒數秒數故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/22 下午 09:39:39",
     "Close_Date_": ""
   },
   {
@@ -1837,14 +1854,14 @@
   },
   {
     "FileNo_": "INS160922444",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 下午 05:11:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學二十一路上，往東方向，近大學西路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊有兩大包垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 09:25:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921492",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/21 下午 09:14:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "圓山路上(過圓山大飯店往正修大學方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 09:16:53",
     "Close_Date_": ""
   }
 ]
