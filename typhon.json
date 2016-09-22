@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922561",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/22 下午 09:45:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "田厝路34號(雞排店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者作業中有油煙逸散致空汙情事，建請會同查處。(另提供測點備註特別叮嚀)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/22 下午 09:49:24",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922560",
     "Status_": "2",
     "Cre_Date_": "2016/9/22 下午 09:43:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 09:42:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921499",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/21 下午 09:39:51",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "南寮里新庄路60號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一台電電桿電線垂落且離地約一人高，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 09:45:48",
     "Close_Date_": ""
   }
 ]
