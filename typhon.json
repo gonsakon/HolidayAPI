@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922297",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 01:44:20",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德中路口與大學二十一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922296",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 01:43:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 01:31:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921236",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 下午 01:28:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光明路一段與鳳林二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈號整座掉落以一電線支撐於半空中搖晃，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 01:29:36",
     "Close_Date_": ""
   }
 ]
