@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922244",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 上午 11:56:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "桂林街與忠民街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一個藍色舊衣回收箱，疑似不合法設置，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922243",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 上午 11:56:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/21 上午 11:32:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921182",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/21 上午 11:28:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松金里宏林街旁(松金兒童遊戲場)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一園燈燈泡被颱風吹落，且有5至6盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 上午 11:35:57",
     "Close_Date_": ""
   }
 ]
