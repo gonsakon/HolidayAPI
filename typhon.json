@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160923031",
+    "FileNo_": "INS160923033",
     "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:33:09",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海二路與茂大街口，北上方向",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈朝下無法辨識，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160923031",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 07:32:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "",
+    "address_": "左營大路928號(榮民之家社區)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "落葉  燒落葉",
+    "BeforeDesc_": "渠反映該處空地有民眾正在燃燒落葉造成空污，建請查處。(陳情人請稽查人員處理完成與其回覆)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 上午 07:36:08",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 01:18:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922014",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 上午 01:03:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "河堤路一段155號前面及對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 01:21:40",
     "Close_Date_": ""
   }
 ]
