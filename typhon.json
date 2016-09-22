@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160922577",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/22 下午 11:00:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路565巷與鼎中路603巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160922576",
     "Status_": "1",
     "Cre_Date_": "2016/9/22 下午 10:59:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/21 下午 10:05:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160921514",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/21 下午 10:04:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重立路與文川路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有宮廟活動擴音器噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/22 01:22環保局公害專線王奕翔先生回報，稽查人員於00:05到達，稽查\r\n時廟會活動已結束，周界巡查未發現擴音器以致噪音之情事；並於9/22 10：58電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/21 下午 10:05:13",
-    "Close_Date_": "2016/9/22 上午 10:58:53"
   }
 ]
