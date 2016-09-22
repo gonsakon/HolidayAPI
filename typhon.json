@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923029",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:23:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923028",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 07:05:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 12:36:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922010",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 12:28:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣州一街與青年一路口(文化中心附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前飄散一股燃燒物品之空污異味，並表示現場霧茫茫一片，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 12:31:37",
     "Close_Date_": ""
   }
 ]
