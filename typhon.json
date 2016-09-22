@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923032",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 07:34:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路上近和平一路口,南和游泳池旁停車場外",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒壓到停車場車棚仍未處理,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923031",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 上午 07:32:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 01:21:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922013",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 上午 12:58:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永昌三街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "從上週颱風過後至今，永昌三街的整排路燈都沒亮過，不知是否沒開？還是故障？再煩請派修檢查，謝謝。??",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 05:06:30",
     "Close_Date_": ""
   }
 ]
