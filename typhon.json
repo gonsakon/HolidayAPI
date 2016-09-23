@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923467",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 10:20:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "廣澤街與商港街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處一號誌燈頭掉落，僅剩一線連接，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923466",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 10:18:23",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS160923434",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/23 下午 08:44:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路上與漁港東一路交叉(北往南方向)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處紅燈號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 05:38:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922451",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 05:32:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "慈隆街與大寮路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 05:36:12",
     "Close_Date_": ""
   }
 ]
