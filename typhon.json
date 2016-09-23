@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923242",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 02:10:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路99號與101號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映處人行道上有民眾因風災導致之廢棄物，擺放多日影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923239",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 02:07:05",
@@ -1428,6 +1445,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160923157",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/23 上午 10:47:53",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "新田路與海邊路口",
+    "UnitName_": "交通局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口有一號誌燈因風災轉向，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/23 上午 10:51:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923156",
     "Status_": "4",
     "Cre_Date_": "2016/9/23 上午 10:47:53",
@@ -1442,23 +1476,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:50:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923157",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 10:47:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "新田路與海邊路口",
-    "UnitName_": "交通局",
-    "StatusName_": "待處理",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口有一號誌燈因風災轉向，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 10:51:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 11:31:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922224",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 11:24:47",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮海八街123號前(鎮海加油站前方)",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "寬頻孔蓋坑洞",
-    "BeforeDesc_": "渠反映該處有一寬頻孔蓋周邊柏油破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 11:28:05",
     "Close_Date_": ""
   }
 ]
