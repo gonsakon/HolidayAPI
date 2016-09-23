@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923456",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 09:52:02",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路與中山四路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映中安路與中山路口左轉燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923454",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 09:50:23",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS160923450",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/23 下午 09:38:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路二段",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映颱風過後該路段沿線仍有許多落葉與樹枝未清除，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 05:10:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922440",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 05:07:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞隆路136號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一 LED路燈故障不亮，且燈頭斷裂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 05:10:10",
     "Close_Date_": ""
   }
 ]
