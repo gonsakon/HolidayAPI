@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923421",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 08:13:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲一路710巷巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處巷口2、3盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923420",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 08:12:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 04:23:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922405",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 04:19:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "曹公路129巷2號附近(曹公圳旁公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園園內園樹傾倒至路面迴轉道上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:22:02",
     "Close_Date_": ""
   }
 ]
