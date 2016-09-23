@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923399",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 07:28:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "惠安里",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該里內路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923398",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 07:26:32",
@@ -664,14 +681,14 @@
   },
   {
     "FileNo_": "INS160923359",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 06:23:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "長庚路上，轉入勞工公園後方無名路",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路段沿線約有20盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 03:54:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922381",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 03:49:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重光路72巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊有大量雜物、枝葉堆積，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/22 16：53 左營區清潔隊蔡旻秀小姐回報，該處已清除完畢；並於09/23 14：20電覆\r\n陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 03:51:33",
-    "Close_Date_": "2016/9/23 下午 02:23:30"
   }
 ]
