@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923441",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 09:05:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "保興二路與保安路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有不明挖掘工程，有封閉兩線道，未於行車路線上放置指引三角錐與交管，易生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923440",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 08:58:36",
@@ -1667,14 +1684,14 @@
   },
   {
     "FileNo_": "INS160923342",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 05:42:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "環球路9巷",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾在燃燒不明物品，導致煙霧迷漫與空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 05:09:58",
     "Close_Date_": "2016/9/23 下午 02:39:06"
-  },
-  {
-    "FileNo_": "INS160922425",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 04:50:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大昌路與球場路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:52:46",
-    "Close_Date_": ""
   }
 ]
