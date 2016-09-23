@@ -596,20 +596,20 @@
   },
   {
     "FileNo_": "INS160923472",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 10:50:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "臨海一路(西子灣捷運站一號出口)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處周邊道路路燈全數故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 00:30 養工處四維養護工程隊江明秀小姐回報，該處台電已復電，路燈\r\n正常放亮。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 10:51:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 上午 07:59:51"
   },
   {
     "FileNo_": "INS160923471",
@@ -681,20 +681,20 @@
   },
   {
     "FileNo_": "INS160923467",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 10:20:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "廣澤街與商港街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一號誌燈頭掉落，僅剩一線連接，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 01:37 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 10:21:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 上午 08:00:05"
   },
   {
     "FileNo_": "INS160923466",
@@ -834,20 +834,20 @@
   },
   {
     "FileNo_": "INS160923456",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 09:52:02",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中安路與中山四路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映中安路與中山路口左轉燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/23 22：06 交通局智慧運輸中心李品鋒先生回報，該處為燈面故障，需報請廠商\r\n維修，無危險性，故改派非網:A-TB-2016-83320賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 09:53:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 上午 08:00:23"
   },
   {
     "FileNo_": "INS160923454",
