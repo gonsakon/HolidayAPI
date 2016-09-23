@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923265",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 02:57:18",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路與建軍路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修繕。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923264",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 02:56:23",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160923262",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 02:50:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "興仁路167巷32號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈上方已遭颱風吹走不見，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 02:57:10",
     "Close_Date_": ""
   },
   {
@@ -924,7 +941,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "中山一路與中山橫路(美麗島10號出口、北上)",
+    "address_": "中山一路與中山橫路(美麗島9號出口、北上)",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 12:05:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922247",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 12:00:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路與七賢路口(中山一路上往六合路方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處斑馬線上有一坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 12:01:22",
     "Close_Date_": ""
   }
 ]
