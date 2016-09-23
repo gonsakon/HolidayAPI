@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923459",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 09:58:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "中興路轉新生路上",
+    "address_": "中興路轉新生路上(轉彎處)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面修補柏油後，有凹凸不平影響機車行經情事，建請查處。",
+    "BeforeDesc_": "渠反映該處路面修補柏油後，有高低落差過大與凹凸不平致影響機車行車情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 10:00:19",
     "Close_Date_": ""
   },
   {
@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160923457",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 09:49:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "翁園里翁園路13巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "多日路燈未亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 09:59:39",
     "Close_Date_": ""
   },
   {
