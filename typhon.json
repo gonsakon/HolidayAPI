@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924015",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 06:18:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "援中路上(大學七街與大學十一街間， 東往西方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路段機車道遭人棄置多包垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924014",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 06:04:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 07:14:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922484",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 07:10:43",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重和路32號",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該址前一方型高市寬頻孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 07:15:35",
     "Close_Date_": ""
   }
 ]
