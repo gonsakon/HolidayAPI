@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160923133",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 10:10:48",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "八德二路與南台路口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處大樓轉角處有連續三個溝蓋，其中一個已陷入溝內並會影響其他二個溝蓋，先放置三角錐警示，已修復多次需徹底檢修，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 上午 10:16:13",
     "Close_Date_": ""
   },
   {
