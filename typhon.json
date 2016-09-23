@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923341",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 05:41:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "平安街與大宅街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈以前於上下班會正常運作，3至4天前突然變閃燈，因有學童出入有危險，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923340",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 05:40:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 02:18:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922323",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 02:16:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "富民路327號後方",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處有汙水管線阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 02:17:50",
     "Close_Date_": ""
   }
 ]
