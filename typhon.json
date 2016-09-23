@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923273",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 03:17:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "梓官路與忠孝路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有民眾於住家旁空地燃燒疑似事業廢棄物,造成惡臭空污,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923272",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 03:10:11",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS160923242",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 02:10:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國三路99號與101號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映處人行道上有該址民眾因風災受損導致之廢棄物，已擺放多日影響通行，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 12:18:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922255",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 12:16:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路17巷90號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址旁有一盞LED路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 12:17:51",
     "Close_Date_": ""
   }
 ]
