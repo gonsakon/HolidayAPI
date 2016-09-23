@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923056",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 08:19:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "翠亨南路上(介於中平路至小港路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該路段路燈目前皆白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923059",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 上午 08:18:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 07:33:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922040",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 07:28:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高松路8號往大寮路橋下方的住宅區",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "濃濃油氣味，久久不散，太誇張了，持續好多天，我也知道說是中油風災的關係，但不用限期改善嗎？",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 08:09:39",
     "Close_Date_": ""
   }
 ]
