@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160923146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 10:34:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中鋼路80號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處路樹因樹根壟起，導致人行道有高地落差，建請查處。(請人員前往前先與陳情人聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 上午 10:36:36",
     "Close_Date_": ""
   },
   {
@@ -82,6 +82,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:35:31",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160923142",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 10:29:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "臨海新路與鼓山一路口，捷運西子灣站，2號出口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一樹木倒在出口屋頂上，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS160923093",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 上午 09:04:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武昌路70巷64弄8號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址住戶於家門放置垃圾包及三輪車上堆放垃圾，已散發惡臭，已多次希望開立罰單，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 09:27:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922127",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 09:24:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "河西路(近龍水路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映興建大樓的工程有清洗施工機具致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 09:24:57",
     "Close_Date_": ""
   }
 ]
