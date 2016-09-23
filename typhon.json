@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923411",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 07:48:26",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新富路與南京路口(上光眼鏡前，轉彎處)",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處有一不明方形孔蓋，有鬆動致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923410",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 07:48:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 04:08:23",
     "Close_Date_": "2016/9/23 上午 07:43:20"
-  },
-  {
-    "FileNo_": "INS160922393",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 04:04:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路584號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前路樹上有斷枝垂掛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:07:29",
-    "Close_Date_": ""
   }
 ]
