@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160923387",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/23 下午 07:06:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有使用機具清洗車輛致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/23 下午 07:10:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923385",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 07:06:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 03:39:30",
     "Close_Date_": "2016/9/23 上午 01:46:55"
-  },
-  {
-    "FileNo_": "INS160922371",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 03:32:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "保安路上(路燈編號:維新665、維新666)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有二盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 03:33:56",
-    "Close_Date_": ""
   }
 ]
