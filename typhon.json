@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923201",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 12:28:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "石潭路117巷29號後方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：4480)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923200",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 12:23:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 10:50:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922183",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/22 上午 10:42:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "頂寮里成功路往西魚塭處",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映一水泥電桿(夏巴嶼高分3)傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 10:50:49",
     "Close_Date_": ""
   }
 ]
