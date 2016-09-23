@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923379",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 07:00:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿里角宿路1之3號(寶泰公司左側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路燈下柏油路面隆起，且發出聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923376",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 06:56:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 03:20:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922360",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 03:17:16",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "八德二路與南台路(大樓前方、號誌燈下方)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋有下陷情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 03:19:30",
     "Close_Date_": ""
   }
 ]
