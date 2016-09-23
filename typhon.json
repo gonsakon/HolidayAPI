@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924009",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 03:22:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金鼎路154號(近鼎金中街)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有兩處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924008",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 03:22:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 06:47:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922478",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 06:45:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永昌一街54巷17號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址社區於風災後路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 06:46:42",
     "Close_Date_": ""
   }
 ]
