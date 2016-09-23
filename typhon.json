@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923234",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 01:54:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "洲港路168巷8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前路燈基座下方路面掏空，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 01:59:09",
     "Close_Date_": ""
   },
   {
@@ -9606,20 +9606,20 @@
   },
   {
     "FileNo_": "INS160922251",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 下午 12:10:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "康莊路70號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有冷氣滴水情事，建請會同查處。(人員前往時先與陳情人聯繫)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/22 14:46 環保局稽查科南區股唐予平先生回報，稽查人員於13:43到達，依陳情人\r\n要求現場電話聯絡，陳情人表示已無滴水情事；陳情人並於09/22 17：28來電詢問處理情並表示未改善，故另入\r\n案：INS160922450 ，故不再電覆解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 12:12:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/23 下午 02:01:52"
   },
   {
     "FileNo_": "INS160922250",
