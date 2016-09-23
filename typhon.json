@@ -596,19 +596,19 @@
   },
   {
     "FileNo_": "INS160923400",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 07:32:42",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德二路205號，於享溫馨店家對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處小公園旁有一電線桿傾斜，傾斜幅度較大，恐倒塌，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 08:53:39",
     "Close_Date_": ""
   },
   {
