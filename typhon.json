@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923326",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 05:03:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳南路與國道交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，且號誌燈線路垂落，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923324",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 04:58:38",
@@ -1361,16 +1378,16 @@
   },
   {
     "FileNo_": "INS160923243",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 02:11:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "崇德路286巷(近崇德路)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一工地施工未設防塵網導致揚塵空污，建請查處。",
+    "BeforeDesc_": "渠反映該處有一施工未設防塵網導致揚塵空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 02:13:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 02:06:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922307",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 01:57:29",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄合街457號前",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該址前約有70、80公尺長的路面下陷越來越嚴重，疑似2、3年前欣雄瓦斯挖埋管線導致，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 01:59:40",
     "Close_Date_": ""
   }
 ]
