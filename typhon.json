@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923301",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 04:18:56",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄清路與青年路二段口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923300",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 04:14:48",
@@ -664,14 +681,14 @@
   },
   {
     "FileNo_": "INS160923260",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 02:50:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "華山路、福安街至上口巷沿線",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該路段沿線路燈白天未熄已數月，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 01:21:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922283",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 01:16:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路一段全線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處全線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 01:20:51",
     "Close_Date_": ""
   }
 ]
