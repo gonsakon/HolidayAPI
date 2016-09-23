@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923282",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 03:38:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "漁港路上(國道一號下來)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映安全島上有瓶瓶罐罐及垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923281",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 03:36:55",
@@ -5322,14 +5339,14 @@
   },
   {
     "FileNo_": "INS160922554",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/22 下午 09:38:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "瓊興路170之1號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 12:55:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922264",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 12:35:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "文橫一路5巷22號(私人宮廟)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處現有布袋戲舉行，擴音噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 12:37:56",
     "Close_Date_": ""
   }
 ]
