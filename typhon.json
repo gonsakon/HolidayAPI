@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160923245",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 02:13:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路231號前安全島上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有兩盞共桿投射型路燈，因風災燈具歪斜照射民眾房屋，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 02:15:05",
     "Close_Date_": ""
   },
   {
