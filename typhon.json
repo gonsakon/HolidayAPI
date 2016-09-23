@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160923241",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 02:06:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新庄仔路772號(新庄派出所)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映有民眾將「正心街」的路牌拿到所內，建請回收。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923240",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 02:06:40",
@@ -1344,14 +1361,14 @@
   },
   {
     "FileNo_": "INS160923161",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 上午 10:55:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "東方路166之1號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，並壓到鐵皮屋，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 11:28:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922223",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 11:19:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路光明三巷口(愛生雅公司轉角處)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處巷口處，路面下陷，有先放置三角錐，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 11:24:19",
     "Close_Date_": ""
   }
 ]
