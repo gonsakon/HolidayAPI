@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923234",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 01:54:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "洲港路168巷8號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前路燈基座下方路面掏空，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923232",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 01:53:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 11:09:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922216",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 上午 11:07:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "山明路與水秀路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處三棵路樹自風災傾倒至今未處理，致民眾須繞路通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 11:09:31",
     "Close_Date_": ""
   }
 ]
