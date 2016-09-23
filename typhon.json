@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 12:15:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
-    "address_": "四維路",
+    "address_": "四維路周圍",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處周圍目前有瀰漫螺絲電鍍異味，造成空汙，建請查處。",
+    "BeforeDesc_": "渠反映該處有一工業區，然周圍目前有瀰漫螺絲電鍍異味，造成空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 12:17:25",
     "Close_Date_": ""
   },
   {
