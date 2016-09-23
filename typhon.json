@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923127",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 10:04:01",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高鳳路332號(7-11)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有兩隻攻擊性流浪犬，且會亂咬物品，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923126",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 上午 10:03:41",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS160923113",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 上午 09:45:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文德路172號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址前有一廢棄公園椅將丟棄,惟多次通報清潔隊皆未處理,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 09:01:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922105",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 09:00:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東八街10號對面(新亞合板工廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處工廠正在排放燃燒木材異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 09:02:52",
     "Close_Date_": ""
   }
 ]
