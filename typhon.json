@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923172",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 11:20:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明誠二路上(明華國中大門)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該校大門號誌燈故障閃燈，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923171",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 11:13:12",
@@ -834,14 +851,14 @@
   },
   {
     "FileNo_": "INS160923122",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 上午 10:01:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中二路148號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址大樓旁一興建工地有施工機具噪音產生，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 10:02:30",
     "Close_Date_": "2016/9/23 上午 01:54:53"
-  },
-  {
-    "FileNo_": "INS160922154",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 09:58:47",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "臨海二路53號前",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有慶聯第四台人孔蓋鬆動噪音，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 10:01:47",
-    "Close_Date_": ""
   }
 ]
