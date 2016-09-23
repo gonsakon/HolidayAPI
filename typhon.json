@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160923439",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 08:58:13",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路與中華四路口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "渠反映該處人行道上有一坑洞，是台電電箱移除後留下，養工處已先於現場圍起警示帶，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923438",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 08:58:13",
@@ -31,23 +48,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 09:03:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923439",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/23 下午 08:58:13",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多四路與中華四路口",
-    "UnitName_": "工務局",
-    "StatusName_": "建立中",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "渠反映該處人行道上有一坑洞，應是電箱移除後留下，因未處理或設立安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
