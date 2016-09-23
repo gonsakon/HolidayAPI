@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924007",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 03:04:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路二段上(介於三隆路與萬丹路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈均故障不亮，致險發生追撞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924006",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 01:56:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 06:50:29",
     "Close_Date_": "2016/9/23 上午 01:41:09"
-  },
-  {
-    "FileNo_": "INS160922476",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 06:43:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北一路211號、227號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該兩址前各一盞路燈仍有故障不亮情事，建請查處。(需請單位收案後先行電聯與電覆處理結果)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 06:46:08",
-    "Close_Date_": ""
   }
 ]
