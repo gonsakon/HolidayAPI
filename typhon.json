@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923140",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 上午 10:24:15",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪二十二路與高坪二十七街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌有故障閃燈情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923138",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 10:21:28",
@@ -1803,14 +1820,14 @@
   },
   {
     "FileNo_": "INS160923031",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/23 上午 07:32:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路928號(榮民之家社區)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空地有民眾正在燃燒落葉造成空污，建請查處。(陳情人請稽查人員處理完成與其回覆)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 09:19:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922119",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 上午 09:15:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "曾子路188號 (華爾頓幼兒園)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有擴音器噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 09:17:23",
     "Close_Date_": ""
   }
 ]
