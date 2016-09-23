@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923219",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 01:14:37",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "廣西路與育德路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口有一號誌角度向下照射，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 01:16:18",
     "Close_Date_": ""
   },
   {
