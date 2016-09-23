@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160923461",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/23 下午 10:03:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德賢路95號之1",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈(編號:021789)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/23 下午 10:05:54",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923459",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 09:58:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 05:19:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922445",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 05:17:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路與榮總路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處斑馬線路面隆起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 05:20:19",
     "Close_Date_": ""
   }
 ]
