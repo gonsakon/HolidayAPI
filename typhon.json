@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923275",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 03:18:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "竹湖陸橋上(東往西)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處汽車道因有砂石掉落，導致揚塵，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923273",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 03:17:46",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS160923265",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 02:57:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路與建軍路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修繕。",
     "AfterDesc_": "",
@@ -5628,20 +5645,20 @@
   },
   {
     "FileNo_": "INS160922527",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/22 下午 08:39:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "凱旋路與海洋二路交叉口(七里香炭烤攤販)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處攤販油煙逸散，導致空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/23 00:17環保局公害專線楊竣安先生回報，稽查人員於21:54到達，稽查時店家營業\r\n中，於上址未發現油煙溢散導致空污之情事，業者允諾會加強裝設備；並於09/23 15：13電覆陳情人，故解除管\r\n制；惟陳情人反映該處長期空污問題，故另派非網A-TB-2016-83076追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:44:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/23 下午 03:20:02"
   },
   {
     "FileNo_": "INS160922526",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 12:20:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922256",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 12:17:03",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路38號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處一溝蓋下陷破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 12:18:39",
     "Close_Date_": ""
   }
 ]
