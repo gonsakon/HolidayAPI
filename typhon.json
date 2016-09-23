@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923478",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 11:23:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮興路與鎮榮街交叉口及鎮興路與鎮洋街交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該二路路口號誌燈與翠亨北路路口號誌不連鎖，建請查處。",
+    "BeforeDesc_": "渠反映該二路口號誌燈與翠亨北路路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 11:24:52",
     "Close_Date_": ""
   },
   {
