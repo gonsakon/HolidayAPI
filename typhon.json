@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923408",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 07:45:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣東一街3巷2弄1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923406",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 07:43:24",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 07:44:36",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160923409",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 07:43:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路290巷116號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處公園綠地又多棵樹木倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 04:05:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922391",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 04:02:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "康莊路與樂利路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處號誌燈下有廚餘棄置在此，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/22 16:34 小港區清潔隊王雪娥小姐回報，該處已清除。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:03:13",
-    "Close_Date_": "2016/9/23 上午 01:46:17"
-  },
-  {
-    "FileNo_": "INS160922390",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 04:01:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路(介於中安路與台88)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段路面因重車通行致佈滿坑洞，造成行經撞擊車損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:11:51",
     "Close_Date_": ""
   }
 ]
