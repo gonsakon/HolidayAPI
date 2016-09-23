@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923213",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 12:50:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳林一路上(林園區與大寮區交界)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處於一電線(桿號：昭和幹59號旁)，該處號誌燈故障，不會閃黃燈，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 12:51:49",
     "Close_Date_": ""
   },
   {
