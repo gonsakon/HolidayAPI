@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923443",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 09:11:25",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923442",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 09:09:17",
@@ -1854,14 +1871,14 @@
   },
   {
     "FileNo_": "INS160923333",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/23 下午 05:25:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德街與廣州三街交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面塌陷(一)",
     "BeforeDesc_": "渠反映該處路面塌陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 04:53:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922427",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 04:51:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路378巷26號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一空地，空地兩角落都有黃色大桶子內有儲水，擔心孳生蚊蟲，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/22 17：47 梓官區清潔隊蔡其男先生回報，該處現場稽查確實有多個積水容器，且\r\n內部有儲水尚無孳生孑孓情事，並與陳情人致電確認，後續將再會同相關單位前往處理，故改派非網：A-TB-\r\n2016-82541 追蹤管制；並於09/23 14：37電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 04:54:47",
-    "Close_Date_": "2016/9/23 下午 02:40:49"
   }
 ]
