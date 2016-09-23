@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923224",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 01:29:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "公正路與岡山中街交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一疑似非法之舊衣回收箱，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923223",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 01:29:44",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS160923198",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/23 下午 12:20:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "臥龍路60巷1弄11號5樓",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住家冷氣機滴水，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 11:02:58",
     "Close_Date_": "2016/9/22 下午 04:25:35"
-  },
-  {
-    "FileNo_": "INS160922206",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 上午 11:00:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "頂園街38號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該址旁公園內有多盞園燈於颱風後故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 11:01:33",
-    "Close_Date_": ""
   }
 ]
