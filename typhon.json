@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923469",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 10:28:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "大灣里大智一街、大智二街、大春街(近澄觀路350巷後段)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，且這個月已兩次，建請局處澈底查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923468",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 10:26:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 05:42:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922453",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 05:40:13",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路356巷60弄(公園第一樓)後方",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處大樓後方於後勁溪沿線景觀燈均故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 05:42:13",
     "Close_Date_": ""
   }
 ]
