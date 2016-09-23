@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923485",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 11:50:16",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "山東街162號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址前機車道處有一圓形污水孔蓋周遭柏油脫落，現還未形成坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923484",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 11:48:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 06:33:35",
     "Close_Date_": "2016/9/23 下午 03:04:44"
-  },
-  {
-    "FileNo_": "INS160922469",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 06:27:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "華東路13號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址為醫療廢棄物回收場，現鍋爐冒出大量濃煙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 06:28:12",
-    "Close_Date_": ""
   }
 ]
