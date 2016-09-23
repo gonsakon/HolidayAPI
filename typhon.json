@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS160923132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 上午 10:10:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "瀨南街4號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址前有一電線桿傾斜且電線垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 上午 10:21:36",
     "Close_Date_": ""
   },
   {
