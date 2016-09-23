@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923476",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/23 下午 11:08:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路3.5公里至4公里之間(往義守大學方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段路燈沿線故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/23 下午 11:12:35",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923475",
     "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 11:06:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 06:01:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922460",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/22 下午 05:59:33",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂陽路209巷25弄內",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映該處公園人行道上變電箱損壞，電線外露，恐有危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 06:04:09",
     "Close_Date_": ""
   }
 ]
