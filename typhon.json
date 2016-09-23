@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923243",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 02:11:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反又該處有一工地未設防塵網導致揚塵空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923242",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 02:10:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 上午 11:33:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922225",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/22 上午 11:28:29",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路光明三巷5號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有一疑似台電電線掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 上午 11:31:42",
     "Close_Date_": ""
   }
 ]
