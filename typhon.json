@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924012",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 05:43:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由三路與孟子路(市場旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處不明原因瀰漫類似燃燒電纜線塑膠異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924011",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 04:55:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 07:07:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922481",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 06:58:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪十五路與大平路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有不明燃燒異味空汙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 07:00:01",
     "Close_Date_": ""
   }
 ]
