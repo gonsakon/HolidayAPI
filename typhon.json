@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160923299",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/23 下午 04:13:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "復興街3巷30號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處編號南寮398號路燈故障不亮，編號400號路燈燈桿歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160923298",
     "Status_": "1",
     "Cre_Date_": "2016/9/23 下午 04:12:24",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS160923246",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 02:13:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "鼎盛街58號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前一路燈遭吹歪，且燈罩遭吹開來，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 01:20:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922281",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 01:15:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金後路36巷11號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處於紅磚人行道上有廢棄門板及樹枝堆置，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/22 15:10 三民東區清潔隊曾愛玲小姐回報，該處人行道廢棄物及樹枝皆已清除\r\n完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 01:16:35",
-    "Close_Date_": "2016/9/23 上午 01:51:39"
   }
 ]
