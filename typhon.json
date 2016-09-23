@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160923239",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 02:07:05",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "吊雞林段1020號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址風災至今未恢復供電(電號11665109058)，致損毀農地無法整理，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 02:10:59",
     "Close_Date_": ""
   },
   {
@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS160923236",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/23 下午 02:01:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "信義路1之3號斜前方",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處電線桿有傾斜快倒塌，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/23 下午 02:07:59",
     "Close_Date_": ""
   },
   {
