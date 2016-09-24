@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924134",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 上午 11:37:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德中路與德中路40巷(往南方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈已遺失，望請局處盡速裝回，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 上午 11:38:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924133",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 11:36:41",
@@ -800,14 +817,14 @@
   },
   {
     "FileNo_": "INS160924082",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 上午 10:09:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路與林森四路口(往南)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處斑馬線上有兩坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 05:40:13",
     "Close_Date_": "2016/9/23 上午 07:15:53"
-  },
-  {
-    "FileNo_": "INS160923016",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 05:23:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大坪頂陸橋下方，天主教墓園圍牆旁，水泥路面靠近高坪二十七街906巷口之前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有兩盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 05:25:45",
-    "Close_Date_": ""
   }
 ]
