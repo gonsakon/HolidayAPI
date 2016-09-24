@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924234",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 04:53:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路139號3樓之2",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址有冷氣滴水情事，建請查處。 (請人員與管理員會同)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924233",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 04:45:03",
@@ -6087,20 +6104,20 @@
   },
   {
     "FileNo_": "INS160923358",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 06:20:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中正路215巷104之1號後方，215巷內",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路旁遭堆放木板與鐵架，已有多日，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/24 16:47覆陳情人未果，故於2016/09/24 16:52簡訊回覆:王先生您好，\r\n您9月23日所反映髒亂問題，是一家工廠堆放，需於上班時間清稽查前往，另轉呈公文A-TB-2016-\r\n83253，交由環保局賡續追蹤辦理，待處理完成再向您回覆，感謝您的熱心通報，歡迎您再次來電\r\n1999，謝謝。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 06:23:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 下午 04:55:37"
   },
   {
     "FileNo_": "INS160923357",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:21:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923116",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 09:50:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "立德路323號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處旁有一樹枝掛於電線上恐掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:53:29",
     "Close_Date_": ""
   }
 ]
