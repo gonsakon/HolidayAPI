@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160924055",
+    "FileNo_": "INS160924057",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:14:32",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路  華夏路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈(紅燈不亮)故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924055",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 09:12:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "美都路與遼寧三街(TOYOTA旁無路名道路；靠近新亞停車場旁)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈嚴重傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 09:13:47",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:44:19",
     "Close_Date_": "2016/9/23 下午 03:20:02"
-  },
-  {
-    "FileNo_": "INS160922526",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 08:35:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "成功南路上(過德民路往橋頭方向，位於楠梓中油油庫前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處位於外側車道第二、三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 08:37:08",
-    "Close_Date_": ""
   }
 ]
