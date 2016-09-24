@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160924210",
+    "FileNo_": "INS160924211",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 03:22:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民生一路與民權一路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面因，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924210",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 03:19:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "東方路與民族街311巷口(安全島上)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反應該處有五盞路燈故障不亮，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 03:22:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:11:31",
     "Close_Date_": "2016/9/24 下午 02:18:57"
-  },
-  {
-    "FileNo_": "INS160923092",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 09:04:16",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "公園二路上與大義街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該公園二路號誌燈故障不亮,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:05:58",
-    "Close_Date_": ""
   }
 ]
