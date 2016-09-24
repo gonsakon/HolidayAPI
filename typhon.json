@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924224",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 04:14:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "大順三路183號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處拆除工程未設防塵設施至空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924223",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 04:12:56",
@@ -987,14 +1004,14 @@
   },
   {
     "FileNo_": "INS160924165",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/24 下午 01:38:54",
     "ReplyUnit_": "A01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路(介於中正國中到高速公路間、第四盞路燈到電子螢幕間)",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有慢車道一不明長方形孔蓋握把有突出情事，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:40:28",
     "Close_Date_": "2016/9/24 上午 10:35:06"
-  },
-  {
-    "FileNo_": "INS160923106",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 09:33:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "進學路129巷34號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有2路面坑洞，補後再度下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:38:28",
-    "Close_Date_": ""
   }
 ]
