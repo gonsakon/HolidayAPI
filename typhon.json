@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924049",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:02:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "王公路469巷1號至3號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924048",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 08:59:53",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS160924037",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 上午 08:33:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "金龍路與中華路14巷",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該轉彎處於電線桿上有一大型廣告物刊版，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:56:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922518",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 08:12:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東三路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段沿線人行道上有許多樹枝與落葉，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於09/22 20:49 鼓山區清潔隊王忠書先生回覆：該處無安全顧慮，目前無人力，故將本案\r\n改派非網A-TB-2016-82610賡續辦理；並於09/23 18：49電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 08:17:11",
-    "Close_Date_": "2016/9/23 下午 06:55:29"
   }
 ]
