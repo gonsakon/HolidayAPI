@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924195",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 02:35:24",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新吉街與自由二路路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一條電線垂落且影響到交通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924194",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 02:31:54",
@@ -1480,14 +1497,14 @@
   },
   {
     "FileNo_": "INS160924106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 上午 10:43:36",
     "ReplyUnit_": "E01001",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "中正一路上(污水處理廠與自來水廠之間)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處大排溝內有一犬隻受困多日，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 08:48:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923076",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 08:44:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路與新莊仔路、環潭路三叉路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍造成路面油漬，現場有員警駐守，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 08:49:05",
     "Close_Date_": ""
   }
 ]
