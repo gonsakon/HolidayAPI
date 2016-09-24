@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160924060",
+    "FileNo_": "INS160924062",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:21:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "忠義八巷2號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "反映該處有線路從路燈上垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924060",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 09:18:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄清路637號前(靠近家樂福)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前快慢車道上有一動物屍體，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 09:22:25",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:46:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922530",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 08:43:30",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "北林路與高坪二十二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口三桿號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 08:44:38",
     "Close_Date_": ""
   }
 ]
