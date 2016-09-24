@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924194",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 02:31:54",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路與海專路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口四個小綠人號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924193",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 02:31:20",
@@ -1157,14 +1174,14 @@
   },
   {
     "FileNo_": "INS160924123",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 上午 11:13:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "市中一路與鼎盛街(河邊海產餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家烹煮食物產生油煙致空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:25:59",
     "Close_Date_": "2016/9/23 上午 09:28:16"
-  },
-  {
-    "FileNo_": "INS160923074",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 08:39:40",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段550號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處因今日施工停電，惟未於公告時間先行停電，造成該處店家無電可用，無法關閉鐵捲門，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 08:54:48",
-    "Close_Date_": ""
   }
 ]
