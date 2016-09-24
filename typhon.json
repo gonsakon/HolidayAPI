@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160924348",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 下午 09:35:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫二路225號(惡魔雞排)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址店家目前有作業油煙逸散致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 下午 09:38:56",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924347",
     "Status_": "3",
     "Cre_Date_": "2016/9/24 下午 09:32:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 01:53:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923231",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 01:47:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲圍路豐田巷86號，(電線桿:仕隆高幹右4右1Q0832DD47)旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處二盞路燈白天未熄，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 01:48:47",
     "Close_Date_": ""
   }
 ]
