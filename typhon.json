@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160924217",
+    "FileNo_": "INS160924218",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 03:55:16",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復興一路與七賢一路上",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "誌燈閃黃燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924217",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 03:53:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路635號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前因風災移除路樹，導致人行道上有一坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 03:55:15",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:22:02",
     "Close_Date_": "2016/9/24 下午 12:32:05"
-  },
-  {
-    "FileNo_": "INS160923100",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 09:15:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五權街65號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址對面有一路樹上的樹枝已裂，惟恐掉落，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:17:50",
-    "Close_Date_": ""
   }
 ]
