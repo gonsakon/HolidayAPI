@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924318",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 08:15:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "王公一路86號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924317",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 08:13:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 12:25:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923199",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 12:21:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "宣化街89號至119號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈修復後又故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 12:25:32",
     "Close_Date_": ""
   }
 ]
