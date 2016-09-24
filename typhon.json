@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924362",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 10:05:57",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街與民族一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口四向多桿號誌皆因颱風侵襲，致號誌歪斜恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924361",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 10:04:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 02:15:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923243",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 02:11:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "崇德路286巷(近崇德路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有大樓施工未設防塵網導致揚塵空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 02:13:02",
     "Close_Date_": ""
   }
 ]
