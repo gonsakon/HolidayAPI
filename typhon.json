@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924332",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 08:45:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路278號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924331",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 08:42:03",
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS160924325",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 08:34:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山路59號(樹德科大，大門旁)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上有一犬屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 08:45:13",
     "Close_Date_": ""
   },
   {
@@ -1327,14 +1344,14 @@
   },
   {
     "FileNo_": "INS160924252",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 下午 05:39:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海富路上(介於海平路與實踐路間)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 12:55:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923213",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 12:50:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "鳳林一路上(林園區與大寮區交界)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處於一電線(桿號：昭和幹59號旁)，該處號誌燈故障，不會閃黃燈，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 12:51:49",
     "Close_Date_": ""
   }
 ]
