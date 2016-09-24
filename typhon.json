@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924054",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:09:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "保安路上(台17線，往路竹科學園區，南向紅綠燈處)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有不明工程未擺設三角錐，導致車輛誤闖逆向車道，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924053",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 09:06:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:31:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922523",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 08:29:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "翁園里",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該里路燈均故障不亮已有多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 08:30:39",
     "Close_Date_": ""
   }
 ]
