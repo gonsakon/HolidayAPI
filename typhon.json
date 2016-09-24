@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160924085",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 10:09:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "臥龍路60巷2弄9號10樓以上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址有一住戶現冷氣機滴水，望請查明改善，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924084",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 10:07:45",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160924083",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 10:07:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "東安街36巷(近復興路327巷146弄高雄小城社區)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "養工-路樹傾倒(二)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該處有一公園，然園內有一棵園樹傾倒已壓到民宅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 10:09:20",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 09:46:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922555",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 09:41:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山西路117號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 09:46:19",
     "Close_Date_": ""
   }
 ]
