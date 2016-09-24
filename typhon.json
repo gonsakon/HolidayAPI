@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924259",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 05:53:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "南溝路中溝巷與南溝路明義巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924258",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 05:50:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:39:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923141",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 10:26:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中正一路301號至351號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 10:27:58",
     "Close_Date_": ""
   }
 ]
