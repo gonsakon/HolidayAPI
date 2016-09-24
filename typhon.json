@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924221",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 03:58:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正二路與民族二路口，往西方向",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌(向前直行箭頭燈)故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924219",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 03:57:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:28:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923102",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 09:22:25",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "深興路26巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌目前全不亮，然偶有閃燈或亂跳之情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:23:26",
     "Close_Date_": ""
   }
 ]
