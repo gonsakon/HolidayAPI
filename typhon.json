@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160924212",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 03:24:51",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路257號與鳳林二路252巷口",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處路口有一台電電桿傾斜且電線垂落，已影響交通，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 03:29:54",
     "Close_Date_": ""
   },
   {
