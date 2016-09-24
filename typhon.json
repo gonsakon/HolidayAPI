@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924336",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 09:05:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中正路二段441巷7號對面巷道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈 (編號：新庄高字P9669CA24)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924335",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 08:58:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 01:13:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923217",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 01:07:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里內湖巷21號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮(編號:南勝高分2右分1)，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 01:13:54",
     "Close_Date_": ""
   }
 ]
