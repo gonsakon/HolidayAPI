@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924053",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:06:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "鳥松環湖路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "環湖路路燈於颱風後已經故障一星期多了\n整排路燈皆不亮\n當地晚上車速也快\n非常危險\n希望趕緊修復",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924052",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 09:05:26",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160924050",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 09:05:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁雄路與澄合街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處可聞到空氣中有燃燒垃圾的異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 09:06:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 08:30:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922522",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 08:23:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "廣州三街48號斜對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞LED路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 08:25:25",
     "Close_Date_": ""
   }
 ]
