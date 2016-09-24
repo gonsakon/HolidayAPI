@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924161",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 01:31:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路171號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處快車道有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924160",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 01:28:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 07:56:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923042",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 07:52:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正國小大門前人行道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處面向國小大門口右側有二棵福木樹枝斷裂快掉落，面向國小大門左側有一顆行道樹傾斜45度，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 07:54:17",
     "Close_Date_": ""
   }
 ]
