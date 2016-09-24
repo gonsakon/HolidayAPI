@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925002",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 12:22:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園區文化街161巷1號前路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "因建商蓋完房子，有立一支電線杆及路燈可是沒有接電線，詢問建商已有申請還是沒有來牽線，導致周邊黑暗，周邊住戶有著不安全感……是否可以告知如何申請還是有解決方案?",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925001",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 12:19:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 02:59:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923265",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 02:57:18",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正一路與建軍路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 02:58:03",
     "Close_Date_": ""
   }
 ]
