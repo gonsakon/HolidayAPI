@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924157",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 01:22:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "中正南路2巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(編號:209)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924156",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 01:21:15",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS160924138",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 下午 12:00:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路29號前(事務所前方)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道約有四處有下陷狀況，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 07:51:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923037",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 07:47:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營新路205號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 07:54:20",
     "Close_Date_": ""
   }
 ]
