@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924127",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 11:22:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "漢口街上與十全二路程(往九如路方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924126",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 11:18:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 02:00:11",
     "Close_Date_": "2016/9/23 上午 05:29:32"
-  },
-  {
-    "FileNo_": "INS160923009",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 01:40:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全二路與康平街口(台電門口前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 01:43:03",
-    "Close_Date_": ""
   }
 ]
