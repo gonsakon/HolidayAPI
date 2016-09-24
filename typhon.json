@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160924096",
+    "FileNo_": "INS160924097",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 10:36:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "凱旋路78號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該址前有一路數傾斜，建請扶正。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924096",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 10:35:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路與忠言路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路面因車禍有油漬及碎玻璃，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 10:36:14",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 10:07:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922567",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/22 下午 09:59:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "華德街133號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該店家使用擴音設備聲響過大，產生噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/23 00:14 環保局公害專線楊人傑先生回報，稽查人員於00:08到達，現場未發現有\r\n使用擴音器，亦未發現有噪音情事；並於09/23 16：35電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 10:00:47",
-    "Close_Date_": "2016/9/23 下午 04:39:16"
   }
 ]
