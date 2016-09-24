@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924272",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 06:20:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲二路140之4號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924271",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 06:18:00",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160924269",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 06:17:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路53巷23號尾端",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈照射角度歪斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 06:20:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:48:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923154",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 10:46:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "海邊路46號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址左前方有一盞路燈因風災歪斜，光線已影響隔壁住戶，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 10:49:43",
     "Close_Date_": ""
   }
 ]
