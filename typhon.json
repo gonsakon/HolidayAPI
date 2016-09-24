@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924296",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 07:27:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "和西一路(鐵路下方涵洞內)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處涵洞內雙向道路照明燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924295",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 07:23:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 11:36:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923178",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 11:33:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "瑞竹街10巷4號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處前二盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 11:37:29",
     "Close_Date_": ""
   }
 ]
