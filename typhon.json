@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160924218",
+    "FileNo_": "INS160924219",
     "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 03:57:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "濃三街169巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有排放不明煙體致空污，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924218",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 03:55:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "復興一路與七賢一路上",
+    "address_": "復興一路與七賢一路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "誌燈閃黃燈",
+    "BeforeDesc_": "渠反映該址有一號誌燈閃黃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 03:57:35",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:23:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923101",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 上午 09:18:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路930號(右昌聯合醫院)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該醫院頂樓有冷氣馬達致機具噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/23 11:41 環保局公害專線施金民先生回報，稽查人員於11:10到達，並會\r\n同陳情人，於陳情人住處檢測，均能音量為51分貝，未超過管制標準72分貝，並與陳情人說明處理情\r\n形；並於9/24 12：32電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:22:02",
-    "Close_Date_": "2016/9/24 下午 12:32:05"
   }
 ]
