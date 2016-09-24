@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160924381",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 11:47:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "自強三路與苓雅二路(西南向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路口有一盞路燈故障不亮，請請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 11:50:48",
     "Close_Date_": ""
   },
   {
