@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924245",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 05:20:20",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫路上近億進寢具旁5公尺處",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一台電電線垂落，勾到陳情人煞車處致摔車，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924244",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 05:12:50",
@@ -8450,14 +8467,14 @@
   },
   {
     "FileNo_": "INS160923229",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/23 下午 01:46:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中門路39號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址有電線垂落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:08:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923124",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 10:05:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路173號前近轉彎處",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處慢車道有一凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 10:08:58",
     "Close_Date_": ""
   }
 ]
