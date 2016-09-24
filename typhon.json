@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924294",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 07:21:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路(仁武運動公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該園內籃球場燈桿歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924293",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 07:17:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 11:37:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923176",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 11:32:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路180之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處前一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 11:36:57",
     "Close_Date_": ""
   }
 ]
