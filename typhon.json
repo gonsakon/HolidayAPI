@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS160924380",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 下午 11:32:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路與勝利路口(中正國小側門)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址一盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 下午 11:35:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924379",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 11:31:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "埤頂街33之49號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "路燈及燈殼 遺失",
+    "BeforeDesc_": "渠反映該址有一盞路燈燈殼遺失，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 11:35:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 02:57:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923260",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 02:50:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "華山路、福安街至上口巷沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈白天未熄已數月，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 02:52:43",
     "Close_Date_": ""
   }
 ]
