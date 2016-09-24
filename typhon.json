@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925034",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 07:41:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "臨海二路路與長安街口附近(於鼓山國小前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處附近路燈多日故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925033",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 07:27:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 04:14:07",
     "Close_Date_": "2016/9/23 下午 04:39:25"
-  },
-  {
-    "FileNo_": "INS160923297",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 04:11:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "環湖路全線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 04:14:10",
-    "Close_Date_": ""
   }
 ]
