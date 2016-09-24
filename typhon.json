@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160924044",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 08:47:52",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "中正路311號(鳥松郵局)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處電線桿有兩條電線(黑、灰)垂落，恐有危險，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 08:52:37",
     "Close_Date_": ""
   },
   {
