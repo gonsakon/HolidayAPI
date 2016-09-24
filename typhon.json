@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924227",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 04:26:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "惠結路144之35號對面便道",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有鐵皮垂掛在台電電桿上，並垂落至地面，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924226",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 04:24:54",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS160924203",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/24 下午 02:58:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "學專路802號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有成堆的落葉，望請派員清除，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:41:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923110",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 上午 09:38:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "裕國街123號大樓周界人行道",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址周界人行步道因人員未清掃，導致髒亂情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/23 10：10 鼓山區清潔隊陳尚青先生回報，已向陳情人說明，目前人已災\r\n後復原優先，現場僅有落葉，預計9月24日清除完畢，故轉派非網：A-TB-2016-82827；並於9/24 \r\n14:20電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:40:10",
-    "Close_Date_": "2016/9/24 下午 02:21:58"
   }
 ]
