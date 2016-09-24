@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924231",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 04:38:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "興龍路20號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該住戶燃燒樹葉致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924230",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 04:36:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:47:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923113",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 09:45:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文德路172號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前有一廢棄公園椅將丟棄,惟多次通報清潔隊皆未處理,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:48:14",
     "Close_Date_": ""
   }
 ]
