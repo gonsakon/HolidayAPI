@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160924068",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 09:37:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路上(台17線，往路竹科學園區，南向紅綠燈處)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有台電工程現場有擺設三角錐，但仍有車輛誤闖逆向車道，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 09:44:17",
     "Close_Date_": ""
   },
   {
