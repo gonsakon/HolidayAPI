@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924258",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 05:50:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "惠民路170巷2弄10號1樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住戶常使用擴音設備發處噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924257",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 05:48:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 10:27:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923140",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 10:24:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十二路與高坪二十七街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌有故障閃燈情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 10:24:57",
     "Close_Date_": ""
   }
 ]
