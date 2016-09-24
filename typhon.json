@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924233",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 04:45:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "新強街49號、51號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924232",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 04:40:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:53:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923115",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 09:50:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "立德路323號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號：東成分15左502007BC84)照射角度偏掉未照設道路而是照射田地，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:53:45",
     "Close_Date_": ""
   }
 ]
