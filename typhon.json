@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924144",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 下午 12:36:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路130號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有三鳳宮廟會燃放鞭炮導致煙霧瀰漫空污，建請查處。(請環保局人員到場時先致電陳情人)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 下午 12:40:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924143",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 12:22:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 07:04:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923026",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 07:02:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中華路上，與後鄉路及長興路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該兩路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 07:05:13",
     "Close_Date_": ""
   }
 ]
