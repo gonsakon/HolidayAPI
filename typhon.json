@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160924127",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 11:22:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "漢口街上與十全二路程(往九如路方向)",
+    "address_": "漢口街上與十全二路口(往九如路方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 11:26:25",
     "Close_Date_": ""
   },
   {
