@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924096",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 10:35:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路與忠言路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924095",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 上午 10:33:25",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160924094",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 上午 10:32:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德中路上與大學二十一路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一共桿路燈上的交通號誌遺失，已致用路人查看辨識不清，恐造成危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 上午 10:34:46",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 10:00:47",
     "Close_Date_": "2016/9/23 下午 04:39:16"
-  },
-  {
-    "FileNo_": "INS160922566",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 09:57:01",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文自路526號(森活計畫大樓)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻，惟疑似流浪犬且呼吸急促恐生病，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 09:59:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922565",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 09:56:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "黃埔路55巷34之1號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該住家唱歌使用擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 09:58:05",
-    "Close_Date_": ""
   }
 ]
