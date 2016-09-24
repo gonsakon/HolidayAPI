@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924237",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 05:00:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路522之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有瓦斯異味，消防局於現場使用PID儀器測量有測出讀值，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924236",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 04:54:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:59:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923119",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 09:55:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲一路與南京路與瑞隆東路(三角公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該處公園內堆放鋸下來的樹枝幹，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:57:47",
     "Close_Date_": ""
   }
 ]
