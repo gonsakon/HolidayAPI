@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924039",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 08:39:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "明德路與明德巷沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924038",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 08:36:15",
@@ -367,7 +384,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "描述 渠反映該處有工廠偷排放廢水至排水溝內，建請查處。",
+    "BeforeDesc_": "描述 渠反映該處有工廠偷排放廢水至排水溝內，往海邊的方向，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 06:43:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 07:51:22",
     "Close_Date_": "2016/9/23 上午 01:40:31"
-  },
-  {
-    "FileNo_": "INS160922508",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 07:44:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路上(過捐血中心、青農路口，往南向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處分隔道上有一看板傾倒，部分突出於車道上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 07:47:14",
-    "Close_Date_": ""
   }
 ]
