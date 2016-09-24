@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS160924080",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 10:05:21",
     "ReplyUnit_": "E01002",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "觀音山風景區環保公園",
     "UnitName_": "觀光局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "公廁水管破裂，造成無水可用",
+    "BeforeDesc_": "渠反映該處園內公廁水管破裂，造成無水可用，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 10:10:50",
     "Close_Date_": ""
   },
   {
@@ -4234,20 +4234,20 @@
   },
   {
     "FileNo_": "INS160923321",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 04:54:41",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "劉厝里156號圍牆邊國軒路上",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處電線桿(編號劉厝高分6左2)上電線一半垂落地面，另一半垂至屋頂上，建請儘速查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/24 10：00 經詢問台電1911張小姐表示，因有事故搶修移續處理，故轉派\r\n非網A-TB-2016-83444賡續辦理；並於9/24 10：10電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:01:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 上午 10:13:31"
   },
   {
     "FileNo_": "INS160923320",
