@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924305",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 07:43:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟二路上，客家文物館方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處位置目前有使用擴音器設備聲響過大致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924304",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 07:38:17",
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS160924234",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 下午 04:53:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富國路139號3樓之2",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有冷氣滴水情事，建請查處。 (請人員與管理員會同)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 11:59:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923187",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 11:57:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "神農路與九大路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈電線斷裂掉落，上方日前有漏電狀況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 11:58:48",
     "Close_Date_": ""
   }
 ]
