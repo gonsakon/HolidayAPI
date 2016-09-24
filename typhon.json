@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924071",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 上午 09:47:22",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金鼎路154號(近鼎金中街)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有路溝導致掏空致坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924070",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 09:41:58",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS160924017",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 上午 06:35:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "海墘路66巷36號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "描述 渠反映該處有工廠偷排放廢水至排水溝內，往海邊的方向，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 09:10:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922541",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/22 下午 09:04:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫八街213號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 09:05:58",
     "Close_Date_": ""
   }
 ]
