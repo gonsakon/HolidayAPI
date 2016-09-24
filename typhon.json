@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924217",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 03:53:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路635號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該址前因風災移除路樹，導致人行道上有一坑洞，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924216",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 03:44:28",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS160924188",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/24 下午 02:18:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路34之10(廢鐵回收廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者現作業，粉塵飄散嚴重，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 09:17:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923098",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 09:15:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中安路227之13號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前路樹有一斷枝未掉落，擔憂掉落會砸到機車騎士，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 09:16:13",
     "Close_Date_": ""
   }
 ]
