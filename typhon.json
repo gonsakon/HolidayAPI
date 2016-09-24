@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924304",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 07:38:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "石潭路57號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈由颱風故障不亮至今，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924303",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 07:37:15",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160924301",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 07:36:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "寶米路沿線，至公館路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路段沿線路燈從颱風過後至今仍是故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 下午 07:38:34",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 11:58:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923186",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 11:52:41",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路457號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處因洩水孔及溝壁破損導致行道磚破損掏空，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 11:56:30",
     "Close_Date_": ""
   }
 ]
