@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924179",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 02:12:17",
+    "ReplyUnit_": "",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "高雄市路竹區",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "路面已經開始凹陷，孔蓋嚴重跳動\n\n柏油部分已經裂開，影響用路安全\n\n已經通知多次了，都還是沒有修復完善",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924178",
     "Status_": "2",
     "Cre_Date_": "2016/9/24 下午 02:07:53",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS160924147",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/24 下午 12:57:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "南北路與頂橫路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有垃圾堆放，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 08:21:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923056",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 上午 08:19:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠亨南路上(介於中平路至小港路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈白天未熄(一)",
-    "BeforeDesc_": "渠反映該路段路燈目前皆白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 08:24:06",
     "Close_Date_": ""
   }
 ]
