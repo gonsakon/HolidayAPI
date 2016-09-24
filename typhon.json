@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160924202",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/24 下午 02:57:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "光華一路253號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址公廟使用擴音器噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924201",
     "Status_": "1",
     "Cre_Date_": "2016/9/24 下午 02:56:40",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS160924171",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/24 下午 01:54:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重信路上(高鐵路往華夏路)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -6954,20 +6971,20 @@
   },
   {
     "FileNo_": "INS160923273",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/23 下午 03:17:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官路與忠孝路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾於住家旁空地燃燒疑似事業廢棄物,造成惡臭空污,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/23 17：38 環保局公害專線北區股莊恭旭先生回報，稽查人員於15：57到\r\n達，本局人員於梓官區忠孝路10之1號發現該址於屋外有一爐灶以木柴煮熱水，但稽查時只剩餘燼，請\r\n該住戶改善煮熱水方式，避免造成空氣汙染，並請該住戶注意環境衛生，去除積水容器，以免滋生孑\r\n孓；並於9/24 14：42電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 03:19:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/24 下午 02:59:55"
   },
   {
     "FileNo_": "INS160923274",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 上午 08:58:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923084",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 上午 08:54:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "新豐街49巷 (新豐兒童公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該園內樹木倒塌多日尚未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 上午 08:56:01",
     "Close_Date_": ""
   }
 ]
