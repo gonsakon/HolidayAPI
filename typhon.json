@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS160924103",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/24 上午 10:40:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "凱旋四路788號前",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈疑似故障一直有閃燈情事，致民眾行經時險發生車禍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/24 上午 10:41:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160924101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/24 上午 10:39:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加宏路191巷53號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈呈現閃黃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/24 上午 10:40:56",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/22 下午 10:53:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160922573",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/22 下午 10:48:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "延慶街上過永年街約10尺處(往東方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道上有一長方形坑洞與一龜裂凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/22 下午 10:52:55",
     "Close_Date_": ""
   }
 ]
