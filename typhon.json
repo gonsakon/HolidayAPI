@@ -3231,20 +3231,20 @@
   },
   {
     "FileNo_": "INS160925139",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 01:24:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "建華街與英明路交叉口(阮正骨診所那邊)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "路口紅綠燈有一個不亮",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 18:26 交通局 智慧運輸中心 張寬如小姐回報，上述號誌已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 02:47:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:58:46"
   },
   {
     "FileNo_": "INS160925137",
