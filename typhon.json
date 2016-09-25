@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS160925278",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 09:38:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大勇路與公園路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "公園路與大勇路幾盞造型燈故障未亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925277",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 09:37:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "左營區先鋒路與桃子園路",
+    "address_": "先鋒路與桃子園路",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160925276",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 09:36:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "先鋒路上(介於桃子園路與必勝路間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈(編號:012672)故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 09:38:44",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:17:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924057",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:14:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路與華夏路口(北向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈(紅燈不亮)故障及電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:15:37",
     "Close_Date_": ""
   }
 ]
