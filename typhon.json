@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160925149",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 01:49:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎富路25號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上仍有樹枝及垃圾未清除,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 01:51:42",
     "Close_Date_": ""
   },
   {
@@ -8195,20 +8195,20 @@
   },
   {
     "FileNo_": "INS160924045",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 上午 08:49:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙一路上(介於凱旋路與國泰路一段之間)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處因颱風過後有多件垃圾未清理，造成環境髒亂，且有傳出惡臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/24 10:25 鳳山區清潔隊林家彤小姐回報，已清除完畢；並於9/25 13：44\r\n電覆陳情人，惟陳情人表示未改善，故改派非網A-TB-2016-83992追蹤並解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 08:53:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/25 下午 01:51:40"
   },
   {
     "FileNo_": "INS160924044",
