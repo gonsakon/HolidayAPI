@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925292",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 10:41:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "復興一路右轉大港街上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處第三盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925291",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 10:32:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:51:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924070",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:41:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大德三路與大德二路口(地下道上來)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:45:45",
     "Close_Date_": ""
   }
 ]
