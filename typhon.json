@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926007",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 01:57:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路807號5樓之1",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926006",
     "Status_": "3",
     "Cre_Date_": "2016/9/26 上午 01:05:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:31:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924091",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 10:29:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋四路與籬仔內路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈故障(綠燈秒數過短)，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:30:06",
     "Close_Date_": ""
   }
 ]
