@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925055",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 08:56:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.後昌路1189號(7-11前)、2.後昌路1240號前、3.後昌路1302號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該三處前號誌燈桿上有違規售屋看板(250*80公分)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925054",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 08:51:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 06:58:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923319",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 04:52:30",
-    "ReplyUnit_": "F01018",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "民族路28號對面(保舍甲運動公園)",
-    "UnitName_": "大社區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該公園籃球場皆照明燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 05:04:57",
     "Close_Date_": ""
   }
 ]
