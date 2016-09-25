@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925128",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 12:19:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢三路12號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址處有一路樹傾斜於人行道上，建請協助扶正。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925126",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 12:12:08",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS160925097",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/25 上午 10:41:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "福美路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段因許多砂石車載運泥土掉落，導致路面沿線皆是泥沙，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 07:18:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923391",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 07:11:16",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "阿公店路二段212號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處沿線住家停電，疑似迴路問題，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 07:14:31",
     "Close_Date_": ""
   }
 ]
