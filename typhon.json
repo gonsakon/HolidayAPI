@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925215",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 06:36:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國泰路二段上，從台糖花市往軍校方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈皆故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925214",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 06:31:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 11:30:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923478",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 下午 11:23:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮興路與鎮榮街交叉口及鎮興路與鎮洋街交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該二路口號誌燈與翠亨北路路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/24 01:37 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 11:24:52",
-    "Close_Date_": "2016/9/24 上午 07:58:34"
   }
 ]
