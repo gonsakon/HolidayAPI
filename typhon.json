@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925258",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 08:16:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "一金平路上(介於一甲路與仁愛路間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路段三路口號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925257",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 08:08:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 08:36:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924036",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 08:23:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路140巷26弄",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處一新建大樓工地目前機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 08:31:05",
     "Close_Date_": ""
   }
 ]
