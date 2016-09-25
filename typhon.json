@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160925072",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/25 上午 09:32:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "北昌三街與北仁街",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有怪手機具施工噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 上午 09:40:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925069",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 09:27:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:36:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923336",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 05:33:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "華德街126號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該指旁有一廣場，目前有一流動卡拉ok，目前有唱歌擴音機噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 05:35:06",
     "Close_Date_": ""
   }
 ]
