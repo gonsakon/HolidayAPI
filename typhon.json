@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925190",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 04:52:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山稽徵所停車場旁空地",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "雜草廢樹枝髒亂，圍籬倒塌",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925189",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 04:49:41",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS160925166",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/25 下午 03:09:45",
     "ReplyUnit_": "E01001",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "文興街67巷3號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有家犬疑似遭虐死亡,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 09:49:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923453",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 下午 09:43:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正忠路361巷(近正忠路)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鐵皮屋傳來陣陣惡臭，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/24 00：13 環保局環境稽查科李政鴻先生回報，稽查人員於23：48到達，\r\n稽查時此處周界及巷弄巡視未發現不明惡臭異味逸散情事；並於9/24 15：25電覆陳情人，惟陳情人反\r\n映此為長期問題，故另派非網A-TB-2016-83607追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 09:45:54",
-    "Close_Date_": "2016/9/24 下午 03:33:42"
   }
 ]
