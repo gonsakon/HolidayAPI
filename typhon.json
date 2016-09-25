@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925279",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 09:41:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "必忠街171號12樓之十",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "必忠街171號路旁廢棄腳踏車多輛，希冀處理，謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925278",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 09:38:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:17:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924058",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:15:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與新生路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處號誌燈下有一坑洞已多次破損，望請加強補竣以使牢固，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:17:26",
     "Close_Date_": ""
   }
 ]
