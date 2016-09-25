@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160925138",
+    "FileNo_": "INS160925140",
     "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 01:26:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "廟前路75號(海味鮮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家有油煙空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160925138",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 01:25:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海三路與上林街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處自早上即有一股類似烤漆的燒焦化學異味空污,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 01:28:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 07:43:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923402",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 07:40:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "東方路上，往西方向，過和平路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有6盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 07:42:32",
     "Close_Date_": ""
   }
 ]
