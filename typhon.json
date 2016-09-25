@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926020",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 07:43:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926019",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 07:36:05",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160926018",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 07:30:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "千富街223巷12號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映疑似該址目前排放惡臭廢氣異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 上午 07:40:51",
     "Close_Date_": ""
   },
   {
@@ -6631,20 +6648,20 @@
   },
   {
     "FileNo_": "INS160924316",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 08:08:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路上與林森一路交叉口(高雄法國台北婚紗前方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一遭車輾過之老鼠屍體，建請查處。",
     "AfterDesc_": "【主管解除管制】09/24 20:29新興區清潔隊林希宸先生回報，該處鼠屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:10:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:43:22"
   },
   {
     "FileNo_": "INS160924315",
@@ -8603,20 +8620,20 @@
   },
   {
     "FileNo_": "INS160924199",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 02:42:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞西街上(武德街至瑞隆路之間)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段路面有樹葉未清，導致環境髒亂，建請清掃。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 15:30 前鎮區清潔隊洪惠貞小姐回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 02:52:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:43:32"
   },
   {
     "FileNo_": "INS160924198",
@@ -9011,20 +9028,20 @@
   },
   {
     "FileNo_": "INS160924176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 02:01:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路與國1南下轉彎處",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有樹葉堆積，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 15:18 前鎮區清潔隊胡秀花小姐回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 02:05:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:43:43"
   },
   {
     "FileNo_": "INS160924174",
@@ -9215,20 +9232,20 @@
   },
   {
     "FileNo_": "INS160924164",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 01:34:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路三段365巷口(近建國路三段)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處因水溝阻塞，導致該巷尾淹水，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 13:46 鳳山區清潔隊鄭秀玲小姐回報，因今天(9/24)為假日水溝班休假，無\r\n法清疏水溝，將於週一派員前往清疏，故改派非網A-TB-2016-83550賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:38:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:43:57"
   },
   {
     "FileNo_": "INS160924162",
@@ -9300,20 +9317,20 @@
   },
   {
     "FileNo_": "INS160924158",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 01:22:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路一段53巷旁，莒光三村對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有三包垃圾包，望請派員清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 14:05 鳳山區清潔隊鄭秀玲小姐回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:24:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:44:09"
   },
   {
     "FileNo_": "INS160924157",
@@ -9463,7 +9480,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該四處前皆有犬隻排泄物，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 13：44 左營區清潔隊林明輝先生回報，經處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:03:51",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:45:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924105",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 10:43:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路上(介於大中二路到站前南路間)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處有三支路燈桿與一支交通號誌桿上遭仲介使用鐵絲綁80*80售屋廣告，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:45:47",
     "Close_Date_": ""
   }
 ]
