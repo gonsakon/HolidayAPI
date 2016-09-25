@@ -5458,20 +5458,20 @@
   },
   {
     "FileNo_": "INS160925003",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 12:23:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "民權二路628號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 00:51溝渠隊莊斯宇先生回報，因單位人員還在鼓山區清除路面油漬，無法預\r\n計何時能夠前往，有先跟民眾徐先生說明，請徐先生將貓施打包裝袋，送至苓雅區清潔隊門口放置即\r\n可，民眾同意接受，故此結案。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 12:28:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:42:42"
   },
   {
     "FileNo_": "INS160925002",
@@ -5832,20 +5832,20 @@
   },
   {
     "FileNo_": "INS160924363",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 10:16:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明誠一路370號(全聯超市對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有血跡，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 22：55 溝渠隊莊斯宇先生回報，該處人行道上血跡已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 10:18:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:42:57"
   },
   {
     "FileNo_": "INS160924362",
@@ -6478,20 +6478,20 @@
   },
   {
     "FileNo_": "INS160924325",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 08:34:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山路59號(樹德科大，大門旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上有一犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 21:28 燕巢區清潔隊陳建銘先生回報，該處犬屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:45:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:43:08"
   },
   {
     "FileNo_": "INS160924324",
@@ -6641,7 +6641,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一遭車輾過之老鼠屍體，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 20:29新興區清潔隊林希宸先生回報，該處鼠屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:10:54",
     "Close_Date_": ""
