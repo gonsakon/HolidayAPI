@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925276",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 09:36:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "先鋒路上(介於桃子園路與必勝路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈(編號:012672)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925275",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 09:29:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:13:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924054",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:09:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "保安路上(台17線，往路竹科學園區，南向紅綠燈處)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有不明工程未擺設三角錐，導致車輛誤闖逆向車道，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:11:18",
     "Close_Date_": ""
   }
 ]
