@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160925237",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/25 下午 07:11:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路41巷31號、五福一路41巷",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該2處前方各有一號誌燈之紅燈故障，綠燈時紅燈同時放亮，紅燈時號誌正常，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 07:17:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925236",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 07:08:11",
@@ -766,20 +783,20 @@
   },
   {
     "FileNo_": "INS160925193",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 05:01:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山區空醫院路53巷17號對面空地",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "雜草，廢樹枝影響環境",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案針對空地髒亂問題，已轉呈人民陳情案件：A-TB-2016-84089 委由環保局派員稽查，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:15:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/25 下午 07:16:53"
   },
   {
     "FileNo_": "INS160925192",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 06:44:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924017",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 06:35:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "海墘路66巷36號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "描述 渠反映該處有工廠偷排放廢水至排水溝內，往海邊的方向，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 06:43:19",
     "Close_Date_": ""
   }
 ]
