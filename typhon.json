@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926013",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 06:47:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926012",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 06:17:35",
@@ -3146,20 +3163,20 @@
   },
   {
     "FileNo_": "INS160925133",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 12:54:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "九大路上(南往北方向，近九曲路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處車道上有散落碎石，建請查處。",
     "AfterDesc_": "【主管解除管制】9/25 14：16 仁武區清潔隊黃嘉宏先生回報，皆已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 01:01:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 06:49:29"
   },
   {
     "FileNo_": "INS160925132",
@@ -3367,20 +3384,20 @@
   },
   {
     "FileNo_": "INS160925120",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 12:02:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中山二路-苓雅二路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處一舊衣回收箱傾倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/25 12:28 苓雅區清潔隊陳姵羽小姐回報，該舊衣回收箱為合法設置,惟因遭中華\r\n電信的電桿傾倒壓住,無法處理,需先通報中華電信前往處理該傾倒電桿(同派工INS160925089 )，故改\r\n派非網A-TB-2016-83972 由中華電信賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 12:06:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 06:49:54"
   },
   {
     "FileNo_": "INS160925119",
@@ -3554,20 +3571,20 @@
   },
   {
     "FileNo_": "INS160925108",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 11:35:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路上(近焚化爐一帶)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段沿線人行道及慢車道遍佈大量落葉，許多已堵住洩水孔，恐颱風來下雨時排洩不及，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 11:38 小港區清潔隊林敏碩先生回報，該處屬臨海工業區範圍，非清潔隊轄\r\n管，故記錄於非本府案件，已於09/25 11:42 通報臨海工業區黃小姐。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 11:38:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 06:50:08"
   },
   {
     "FileNo_": "INS160925109",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:40:01",
     "Close_Date_": "2016/9/25 下午 01:59:47"
-  },
-  {
-    "FileNo_": "INS160924097",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 10:36:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "凱旋路78號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前有一路數傾斜，建請扶正。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:37:39",
-    "Close_Date_": ""
   }
 ]
