@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925282",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 09:49:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路398號 附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925281",
     "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 09:44:05",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS160925267",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/25 下午 09:00:13",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國三路437號(7-11前大樹旁邊)",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一個台電綠色變電箱，颱風傾倒至今，尚未扶正，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:25:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924060",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:18:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路637號前(靠近家樂福)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前快慢車道上有一動物屍體，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:22:25",
     "Close_Date_": ""
   }
 ]
