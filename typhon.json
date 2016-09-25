@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS160926011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 06:00:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路與明誠三路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈皆故障閃燈，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】交通局智慧運輸中心黃泰郎先生於09/26 06:11回報：該處號誌為6點前設定閃\r\n燈，6點後已正常運作，非故障。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 06:01:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 06:42:56"
   },
   {
     "FileNo_": "INS160926010",
@@ -137,20 +137,20 @@
   },
   {
     "FileNo_": "INS160926004",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 01:00:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "厚生路52號(海安宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/26 01：25 溝渠清潔隊李文山先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 01:02:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 06:43:15"
   },
   {
     "FileNo_": "INS160926003",
