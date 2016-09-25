@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925054",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 08:51:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "文化街6號側面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925053",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 上午 08:50:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:04:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923318",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 04:50:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "河華路，河華橋",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處現有露天燃燒，造成空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 04:50:51",
     "Close_Date_": ""
   }
 ]
