@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925163",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 02:51:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中央公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映園內有許多成堆枝落葉未清，風一吹又四散髒亂，已放置多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925162",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 02:46:49",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS160925141",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 下午 01:27:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "華山路與鳳陽街6巷口(華山路上，停車場附近)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有枝葉及垃圾堆積，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 08:36:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923426",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 08:31:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福一路(自來水公園內)，近光華一路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處座椅旁有一盞園燈，稍早有冒火花與有爆炸聲響，目前仍有放亮，其已先行將垂落電線放置一旁樹上並有貼紙條，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 08:32:44",
     "Close_Date_": ""
   }
 ]
