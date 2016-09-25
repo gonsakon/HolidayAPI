@@ -698,20 +698,20 @@
   },
   {
     "FileNo_": "INS160925287",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 10:17:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "金府路與漢民路口，於眼鏡行前",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌控制箱有冒出火花，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/26 01：58 交通局智慧運輸中心黃泰郎先生回報，經人員現場確認，控制箱並無\r\n冒火花或故障情事。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:18:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:57:13"
   },
   {
     "FileNo_": "INS160925286",
@@ -7940,20 +7940,20 @@
   },
   {
     "FileNo_": "INS160924241",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 05:10:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙路往南京路方向(與五甲一路口)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌綠燈通行秒數過短，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 18：54 交通局智慧運輸中心李品鋒先生回報，經人員現場查看，該處號\r\n誌燈綠燈秒數為15秒，係屬正常情事，並無故障。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 05:11:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:56:36"
   },
   {
     "FileNo_": "INS160924240",
