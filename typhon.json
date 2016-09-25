@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926008",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 02:14:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和昌街81號~133號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有四盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926007",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 01:57:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:47:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924092",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 10:29:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中寮一路64號與60之1號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處各有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:31:37",
     "Close_Date_": ""
   }
 ]
