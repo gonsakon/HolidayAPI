@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160926020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 07:43:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "澄清路與文龍路口(文山文兒三公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該公園外圍人行道上有許多落葉，造成民眾行走，公園內人行步道旁有多包黑色垃圾包已散發惡臭，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 上午 07:55:08",
     "Close_Date_": ""
   },
   {
@@ -2126,20 +2126,20 @@
   },
   {
     "FileNo_": "INS160925203",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 05:47:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "五福四路與中華四路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "該路口號誌紅燈倒數恆亮",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 22：25 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:07:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:57:42"
   },
   {
     "FileNo_": "INS160925202",
@@ -2500,20 +2500,20 @@
   },
   {
     "FileNo_": "INS160925181",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 04:19:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大智路與新樂街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/25 19：33 交通局智慧運輸中心張寬如小姐回報，已修復完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 04:19:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:57:52"
   },
   {
     "FileNo_": "INS160925180",
@@ -2823,20 +2823,20 @@
   },
   {
     "FileNo_": "INS160925162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 02:46:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路(中正路交流道下來靠近中正技擊館)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌紅燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 17:36 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 02:47:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:57:02"
   },
   {
     "FileNo_": "INS160925161",
