@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925148",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 01:48:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街與天祥一路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處機車待轉區有一坑洞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925146",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 01:39:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 07:50:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923410",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 07:48:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "和平路二段269號附近(仁武往大社方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處汽機車道中間白線處，有一貓屍遭輾過，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 07:52:27",
     "Close_Date_": ""
   }
 ]
