@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926017",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 07:27:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興楠路上,由旗楠路126巷口至三民路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該快車道上的分隔島上有掉落的廣告牌及髒亂未清理,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926015",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 07:13:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:40:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924100",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 10:38:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路675之12號(觀音山馬術中心附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有五盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:40:03",
     "Close_Date_": ""
   }
 ]
