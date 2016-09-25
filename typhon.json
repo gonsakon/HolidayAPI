@@ -1191,20 +1191,20 @@
   },
   {
     "FileNo_": "INS160925258",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 08:16:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "金平路上(介於一甲路與仁愛路間)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路段三路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/25 22：25 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 08:18:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:56:09"
   },
   {
     "FileNo_": "INS160925257",
@@ -6189,20 +6189,20 @@
   },
   {
     "FileNo_": "INS160924345",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 09:31:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠三路上(與民泰街口)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌與前後路口不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/25 01:06 智輸中心黃泰郎先生回報：該處已修復完成(已連鎖)。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 09:34:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:56:20"
   },
   {
     "FileNo_": "INS160924344",
