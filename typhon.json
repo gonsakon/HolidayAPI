@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160925095",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 10:32:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文平街16號斜對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925092",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 10:23:53",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS160925089",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 上午 10:04:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中山二路-苓雅二路",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "電線桿倒塌",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 06:24:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923358",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 下午 06:20:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中正路215巷104之1號後方，215巷內",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路旁遭堆放木板與鐵架，已有多日，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/24 16:47覆陳情人未果，故於2016/09/24 16:52簡訊回覆:王先生您好，\r\n您9月23日所反映髒亂問題，是一家工廠堆放，需於上班時間清稽查前往，另轉呈公文A-TB-2016-\r\n83253，交由環保局賡續追蹤辦理，待處理完成再向您回覆，感謝您的熱心通報，歡迎您再次來電\r\n1999，謝謝。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 06:23:59",
-    "Close_Date_": "2016/9/24 下午 04:55:37"
   }
 ]
