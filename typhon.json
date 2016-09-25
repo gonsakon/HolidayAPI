@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925165",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 03:07:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "哈爾濱街121號至125號之間後方防火巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前有房屋進行整修作業，使用機具致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925164",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 02:52:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 08:32:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923428",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 08:31:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路554巷12弄口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處弄口有一盞路燈時滅時亮，疑似故障，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 08:33:26",
     "Close_Date_": ""
   }
 ]
