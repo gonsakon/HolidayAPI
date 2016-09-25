@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160925081",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 09:48:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "182縣道29K到29.5K",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面有多處坑洞凹凸不平，並有一坑洞30公分寬，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925078",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 上午 09:45:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:49:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923344",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 05:44:24",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "大坑路186號附近",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址住家附近常有1大2小流浪犬隻有攻擊性，且會亂咬物品，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 05:49:37",
     "Close_Date_": ""
   }
 ]
