@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160925257",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 08:08:52",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
-    "address_": "嘉好路26巷45號對面",
+    "address_": "嘉好路26巷45號，對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有一電線桿有傾斜搖晃情事，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 08:12:23",
     "Close_Date_": ""
   },
   {
