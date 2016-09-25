@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160925249",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 07:42:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "明聖街120巷口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 07:43:40",
     "Close_Date_": ""
   },
   {
