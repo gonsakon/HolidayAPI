@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925242",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 07:19:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925241",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 07:18:29",
@@ -783,14 +800,14 @@
   },
   {
     "FileNo_": "INS160925195",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 下午 05:11:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路與會結路附近",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味致空污之情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 07:53:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924020",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 07:40:30",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲三路2之4號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一溝蓋損壞甚久均無處理，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 07:41:36",
     "Close_Date_": ""
   }
 ]
