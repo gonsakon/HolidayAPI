@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926021",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 07:47:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "大管巷300號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一路燈(漯底304)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926020",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 上午 07:43:53",
@@ -7107,20 +7124,20 @@
   },
   {
     "FileNo_": "INS160924288",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 07:10:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "1.義華路299巷8號對面、2.義德路2巷43號旁、3.光武路152巷30號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該三處各有一水藍色未合法舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 20:10三民東區清潔隊王文全先生回報，上述地點回收箱並無影響交通危險，\r\n因無法判斷是否有合法，需再由負責人員前往查察，故改派非網A-TB-2016-83716賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 07:25:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:49:28"
   },
   {
     "FileNo_": "INS160924284",
@@ -8654,20 +8671,20 @@
   },
   {
     "FileNo_": "INS160924197",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 02:38:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路219號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址前有樹木未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/24 15：10小港區清潔隊鄭玉梅小姐回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 02:39:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 07:49:39"
   },
   {
     "FileNo_": "INS160924196",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:50:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924106",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 10:43:36",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中正一路上(污水處理廠與自來水廠之間)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處大排溝內有一犬隻受困多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:45:14",
     "Close_Date_": ""
   }
 ]
