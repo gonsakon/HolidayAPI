@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925296",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 10:55:48",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "成功二路與凱旋四路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處稍早行經時，遭兩隻大型犬隻追咬，建請捕捉。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925295",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 10:49:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:59:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924074",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:57:38",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山高速公路國道1號機慢車專用道與中山四路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有兩隻流浪犬有追咬騎士之情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:00:21",
     "Close_Date_": ""
   }
 ]
