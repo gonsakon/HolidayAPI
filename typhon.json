@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925287",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/25 下午 10:17:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "金府路與漢民路口，於眼鏡行前",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌控制箱有冒出火花，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 10:18:42",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925286",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 10:05:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:40:18",
     "Close_Date_": "2016/9/25 下午 01:53:31"
-  },
-  {
-    "FileNo_": "INS160924065",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 09:29:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "新庄巷123號之3",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:32:10",
-    "Close_Date_": ""
   }
 ]
