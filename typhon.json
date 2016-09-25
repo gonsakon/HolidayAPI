@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160925137",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 01:11:29",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "永和街",
+    "address_": "永和街85巷7之4號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
+    "BeforeDesc_": "渠反映該處附近皆突然無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 01:18:13",
     "Close_Date_": ""
   },
   {
