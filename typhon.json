@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925107",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 11:29:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由三路101巷31號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈忽明忽暗，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925106",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 11:26:55",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS160925078",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 上午 09:45:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "182縣道29K到32K處(尤其30.4K處須立即處理)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處山區許多竹子已橫越快車道，恐造成危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 06:50:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923369",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 06:43:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "五福二路上(高雄高商門口)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中彌漫瓦斯異味，已有消防局人員在場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 06:45:46",
     "Close_Date_": ""
   }
 ]
