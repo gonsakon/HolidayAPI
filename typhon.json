@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160925199",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/25 下午 05:36:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林內里林內路45巷14號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈之電線斷裂，故障不亮且冒出火花，渠目前已將電線包覆，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 05:40:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925198",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 05:27:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 10:19:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923463",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 10:15:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學三十二街128巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 10:17:07",
     "Close_Date_": ""
   }
 ]
