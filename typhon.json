@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925207",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 06:01:00",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "成功四巷20及26號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處附近有三隻流浪犬聚集且有追咬行人情事，建請捕捉。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925206",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 05:58:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 10:40:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923470",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 10:36:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "新順路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段全線遭義大工地完全佔用，影響車輛通行，欲瞭解業者是否有申請路權，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 10:40:15",
     "Close_Date_": ""
   }
 ]
