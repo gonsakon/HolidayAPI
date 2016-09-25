@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925161",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 02:41:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "輔仁路180號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處樹下有一鴿屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925160",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 02:34:28",
@@ -970,14 +987,14 @@
   },
   {
     "FileNo_": "INS160925103",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/25 上午 11:10:26",
     "ReplyUnit_": "E01001",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三民路220巷內(新建工地)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有許多野狗聚集，其中有一隻黑犬咬傷民眾，望全數捕捉，建請會同。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 08:25:08",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923423",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/23 下午 08:19:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "美山路77巷8之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈目前冒火花，且時亮時滅，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/23 21:39養工處鳳山養護工程隊劉緯婕小姐回報，該處經人員現場查看，為台電高\r\n壓電線漏電所致，目前無危險性，已於21:20通報台電公司7100164陳先生，故改派INS160923452 賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 08:21:32",
-    "Close_Date_": "2016/9/24 上午 10:49:20"
   }
 ]
