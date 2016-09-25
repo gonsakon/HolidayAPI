@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925155",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 02:08:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "中正南路77號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925154",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 下午 02:06:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 08:07:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923418",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/23 下午 08:05:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "公園東路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 08:07:15",
     "Close_Date_": ""
   }
 ]
