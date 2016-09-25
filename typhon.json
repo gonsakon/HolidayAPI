@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925305",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/25 下午 11:45:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤南路延伸至河堤路(自行車步道上)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處遭多部機車違規行駛，建請驅離。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 11:46:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925304",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 11:38:55",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS160925286",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/25 下午 10:05:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路上(青年夜市)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該夜市內近廁所旁及守衛室附近有攤販使用擴音設備叫賣，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:10:40",
     "Close_Date_": "2016/9/25 上午 11:36:39"
-  },
-  {
-    "FileNo_": "INS160924084",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 10:07:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段與文化西路(全家前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一小綠人燈殼遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:10:16",
-    "Close_Date_": ""
   }
 ]
