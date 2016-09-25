@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926006",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 01:05:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔北巷4之6號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈(編號:1015)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926005",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 上午 01:05:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:30:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924090",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 10:27:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋四路上(凱旋世貿大門口前斑馬線對面第一枝電線桿旁，輕軌附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一鳥屍，並使用透明塑膠袋裝起，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:30:39",
     "Close_Date_": ""
   }
 ]
