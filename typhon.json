@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160925229",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 06:52:53",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "巨輪路與前峰路上(位於前峰路上，往中華電信方向)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有一電線桿遭風災侵襲致傾斜，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/25 下午 06:59:01",
     "Close_Date_": ""
   },
   {
