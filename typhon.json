@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925073",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 09:40:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄觀路與鳳仁路口(釣蝦場旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有兩棵路樹傾倒於私人地上，造成地主無法作業，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925071",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 上午 09:34:20",
@@ -1395,14 +1412,14 @@
   },
   {
     "FileNo_": "INS160924370",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/24 下午 10:57:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "裕誠路400號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該址人行道上有一台電孔蓋周邊破損至坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:35:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923335",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 05:30:09",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "河南二路與市中一路",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有一不明電箱打開關不上，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 05:32:35",
     "Close_Date_": ""
   }
 ]
