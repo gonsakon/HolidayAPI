@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925080",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 上午 09:49:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "樂善街與憲政路、大順三路之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處進行舊家樂福拆除作業，施工未灑水致有嚴重揚塵問題，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925079",
     "Status_": "1",
     "Cre_Date_": "2016/9/25 上午 09:48:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/23 下午 05:49:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160923343",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/23 下午 05:44:13",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "熱河一街與民族一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈桿螺絲有鬆脫歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/23 下午 05:48:01",
     "Close_Date_": ""
   }
 ]
