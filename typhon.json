@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926022",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 07:51:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "濱山街上過濱山街50巷與正修科大宿舍間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處右側有一木麻黃的大樹枝懸掛,恐颱風來襲吹落造成危險,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926021",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 上午 07:47:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 10:48:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924107",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 上午 10:43:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "保安二街136號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前人形步道上樹木傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 10:50:21",
     "Close_Date_": ""
   }
 ]
