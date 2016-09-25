@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160925290",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/25 下午 10:30:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "七賢二路23號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處前遭人棄置一彈簧床逾兩日，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160925289",
     "Status_": "2",
     "Cre_Date_": "2016/9/25 下午 10:22:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 上午 09:40:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924068",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 上午 09:37:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "保安路上(台17線，往路竹科學園區，南向紅綠燈處)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有台電工程現場有擺設三角錐，但仍有車輛誤闖逆向車道，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 上午 09:44:17",
     "Close_Date_": ""
   }
 ]
