@@ -239,19 +239,19 @@
   },
   {
     "FileNo_": "INS160926116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 09:57:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "德昌路3巷40號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處有一路燈,燈頭懸掛上方搖晃,恐發生危險,建請儘速修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 上午 10:14:34",
     "Close_Date_": ""
   },
   {
@@ -273,19 +273,19 @@
   },
   {
     "FileNo_": "INS160926112",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 09:54:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "1.德昌街8巷28號、2.德昌街8巷底",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，靠近8巷底處其中一盞路燈燈頭斷裂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 上午 10:14:46",
     "Close_Date_": ""
   },
   {
@@ -1105,6 +1105,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160926064",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/26 上午 08:53:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎安路58號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處變電箱旁有樹枝、垃圾、椅子與彈簧床，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 上午 09:01:42",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926058",
     "Status_": "4",
     "Cre_Date_": "2016/9/26 上午 08:53:02",
@@ -1119,23 +1136,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 08:55:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926064",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 上午 08:53:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎安路58號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "待確認",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處變電箱旁有樹枝、垃圾、椅子與彈簧床，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:01:42",
     "Close_Date_": ""
   },
   {
@@ -5815,20 +5815,20 @@
   },
   {
     "FileNo_": "INS160925095",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 10:32:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文平街16號斜對面(公園外路燈旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面擺放一藍色舊衣回收箱疑未合法設置，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 10：12簡訊回覆：洪先生您好，您9月25日所反映藍色舊衣回收箱，疑似未合法\r\n設置問題，經本府環保局回覆：人員前往稽查發現是合法設置，感謝您的熱心通報，倘您對案件處理有疑問，歡\r\n迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:37:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 10:14:12"
   },
   {
     "FileNo_": "INS160925092",
