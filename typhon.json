@@ -3248,20 +3248,20 @@
   },
   {
     "FileNo_": "INS160926211",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 12:34:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄清路與澄照街口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處斑馬線上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 17：37 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處已修復\r\n完成；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 12:37:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 07:23:02"
   },
   {
     "FileNo_": "INS160926210",
