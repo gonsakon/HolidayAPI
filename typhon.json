@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926331",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 04:40:51",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大同路25之35號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電線遭吊車勾到垂落，恐造成危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926330",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 04:38:46",
@@ -3452,20 +3469,20 @@
   },
   {
     "FileNo_": "INS160926125",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:06:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "昌平街6號與7號間空地",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭棄置廢棄傢俱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 13:05三民東區清潔隊郭康尉小姐回報，該處已清除完成；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:07:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 04:43:01"
   },
   {
     "FileNo_": "INS160926124",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 07:25:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925031",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 07:20:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "和平二路與三多二路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處基督教堂後方空地，疑似有民眾燃燒垃圾產生大量白煙，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 07:24:39",
     "Close_Date_": ""
   }
 ]
