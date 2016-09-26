@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926391",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:53:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港後路89巷6號，左側",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈之燈具已變形，恐掉落致危險產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926389",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:49:06",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS160926371",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/26 下午 05:59:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河堤路一段",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處腳踏車步道施工完竣後，路邊周邊有放置石塊與拆除後的圍籬，未予固定緊綁，擔憂9/27風災四處飛散危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:26:28",
     "Close_Date_": "2016/9/26 下午 06:12:21"
-  },
-  {
-    "FileNo_": "INS160925091",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 10:21:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路上，機場出口往市區方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處機車道與快車道之間有兩個坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:23:44",
-    "Close_Date_": ""
   }
 ]
