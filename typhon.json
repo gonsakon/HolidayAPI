@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926371",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 05:59:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "河堤路一段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處腳踏車步道施工完竣後，路邊周邊有放置石塊與拆除後的圍籬，未予固定緊綁，擔憂9/27風災四處飛散危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926370",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 05:53:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 09:45:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925071",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 09:34:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "麒麟巷全線",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 09:37:00",
     "Close_Date_": ""
   }
 ]
