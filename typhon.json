@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927008",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 12:47:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927007",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 12:42:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 01:52:58",
     "Close_Date_": "2016/9/26 下午 06:32:33"
-  },
-  {
-    "FileNo_": "INS160925149",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 01:49:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎富路25號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上仍有樹枝及垃圾未清除,請查處。",
-    "AfterDesc_": "【主管解除管制】9/25 14：31 三民東區清潔隊曾美華小姐回報，皆已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 01:51:42",
-    "Close_Date_": "2016/9/26 上午 06:49:14"
   }
 ]
