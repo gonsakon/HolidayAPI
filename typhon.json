@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926347",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 04:54:35",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "北汕尾巷18號至29號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線桿(桿號:高分造船8TS12C85)傾斜欲壓到住家，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926346",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 04:53:11",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160926343",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 04:52:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文中街139號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處一路牌「文中街」已鬆脫歪斜，恐會有掉落情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 04:54:29",
     "Close_Date_": ""
   },
   {
@@ -1599,14 +1616,14 @@
   },
   {
     "FileNo_": "INS160926250",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/26 下午 02:03:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大仁路584巷19號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近傳出不明發酵惡臭味導致空污，建請查處。",
     "AfterDesc_": "",
@@ -3061,20 +3078,20 @@
   },
   {
     "FileNo_": "INS160926161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:48:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路696號冷氣空調",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址店家於該址後方車庫進行焊接作業，惟機具聲音過大，陳情人請人員從左營大路472巷進入稽查，建請查處。(陳情人要求局處人員處理完成與其回覆)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 12:40環保局環境稽查科中區股謝朝富先生回報，稽查人員於12:37到達，現\r\n場未發現機具噪音情事，已電覆陳情人；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:55:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 04:56:26"
   },
   {
     "FileNo_": "INS160926160",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 08:41:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925045",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 上午 08:31:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "溪寮路46號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈燈罩快要掉落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 08:33:33",
     "Close_Date_": ""
   }
 ]
