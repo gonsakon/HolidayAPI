@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926079",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 09:17:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "三民路沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926076",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 上午 09:16:33",
@@ -65,6 +82,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:14:44",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160926074",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 上午 09:13:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "嘉展路496巷10號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址現有工地機具噪音擾民(推高機等)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 上午 09:17:14",
     "Close_Date_": ""
   },
   {
@@ -6240,20 +6274,20 @@
   },
   {
     "FileNo_": "INS160925015",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 02:03:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路89號2樓",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家卡拉OK噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 09：16簡訊回覆：洪小姐您好，您9月25日所反映卡拉OK噪音問題，經本府環保\r\n局前往稽查，店家營業中，僅客人喝酒聊天，未使用擴音器，未發現噪音情事，感謝您的熱心通報，倘您對案件\r\n處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 02:06:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 09:19:12"
   },
   {
     "FileNo_": "INS160925013",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:43:44",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924163",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 01:36:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "新衙路上(前鎮國中前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處正進行路樹修剪，惟工人對話皆用吼叫，已打擾居民安寧，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 01:37:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924164",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/24 下午 01:34:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路三段365巷口(近建國路三段)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處因水溝阻塞，導致該巷尾淹水，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/24 13:46 鳳山區清潔隊鄭秀玲小姐回報，因今天(9/24)為假日水溝班休假，無\r\n法清疏水溝，將於週一派員前往清疏，故改派非網A-TB-2016-83550賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 01:38:02",
-    "Close_Date_": "2016/9/26 上午 07:43:57"
   }
 ]
