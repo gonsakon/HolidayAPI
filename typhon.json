@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160926213",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 12:33:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三民路145巷3號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有二盞路燈故障不亮，且燈罩破損，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 12:34:55",
     "Close_Date_": ""
   },
   {
@@ -3724,20 +3724,20 @@
   },
   {
     "FileNo_": "INS160925296",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 10:55:48",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路與凱旋四路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處稍早行經時，遭兩隻大型流浪犬隻追咬，建請捕捉。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 12：34簡訊回覆：伍先生您好，您9月25日所反映流浪犬追咬問題，經本府農業\r\n局動保處捕犬大隊前往稽查，人員抵達現場巡查， 未發現上述攻擊性犬隻，感謝您的熱心通報，倘您對案件處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:57:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 12:37:58"
   },
   {
     "FileNo_": "INS160925295",
