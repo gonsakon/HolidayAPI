@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926359",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 05:36:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "堤防路7號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址旁道路上現約莫有5片鐵皮掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926358",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 05:27:21",
@@ -1276,20 +1293,20 @@
   },
   {
     "FileNo_": "INS160926283",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 03:14:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟二路靠近博愛一路(愛河之心)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處樹木上掛有鐵皮未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 16:28養工處四維養護工程隊綠化股江昱德先生回報，該處鐵皮已清除完\r\n畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:16:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:35:22"
   },
   {
     "FileNo_": "INS160926282",
@@ -3962,20 +3979,20 @@
   },
   {
     "FileNo_": "INS160926122",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:04:01",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維二路155號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址後方汙水管有阻塞致汙水逆流，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/26 17：05水利局污水營運科鄭婷云小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:06:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:35:48"
   },
   {
     "FileNo_": "INS160926121",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 09:19:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925061",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 09:11:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路64巷56號(正道公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處有養工處單位人員前往正道公園進行內部修剪後所整理出之枯枝垃圾，望請清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 09:13:37",
     "Close_Date_": ""
   }
 ]
