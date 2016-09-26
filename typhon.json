@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926230",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 01:18:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.加宏路151號旁、2.加宏路156巷口、3.加宏路93號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該三處於公園內，皆有堆置先前颱風所清出樹枝垃圾包，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926229",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 01:17:31",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160926227",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 01:16:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "九曲路565號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處右前方有一盞LED路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 01:18:13",
     "Close_Date_": ""
   },
   {
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS160926220",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/26 下午 12:43:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港路北上高架橋上",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處汽車內線道上有一掉落廣告看板，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:08:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924314",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 08:05:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "南衙路106巷89號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈之燈頭角度偏移，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 08:06:50",
     "Close_Date_": ""
   }
 ]
