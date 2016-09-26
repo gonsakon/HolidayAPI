@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926254",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 02:15:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "光華路20巷28號對面巷子",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處第二盞路燈的燈罩及燈泡遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926253",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 02:11:46",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS160926217",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/26 下午 12:38:57",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路二段鳳山高中",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處前號誌綠燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 09:09:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924337",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 09:07:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路與新民路口，新民路上",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口綠燈秒數原先為35秒左右，颱風過後卻變為20秒左右，疑似有故障，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 09:08:08",
     "Close_Date_": ""
   }
 ]
