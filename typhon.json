@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926075",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 09:13:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路64巷54號前及往公園方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有二大堆樹枝及垃圾雜物皆未清除,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926073",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 09:13:28",
@@ -4676,14 +4693,14 @@
   },
   {
     "FileNo_": "INS160925104",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 上午 11:17:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "金潭路17巷1-1號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有樹木斷枝垂掛在電線上，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:32:36",
     "Close_Date_": "2016/9/25 下午 02:32:21"
-  },
-  {
-    "FileNo_": "INS160924160",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 01:28:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福三路與河東路(往國軍英雄館方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處腳踏車道上有2處路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 01:28:53",
-    "Close_Date_": ""
   }
 ]
