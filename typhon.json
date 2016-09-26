@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926394",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:58:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "凱旋二路7巷28號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處稍早有修剪樹木，並有壓斷路燈電線，造成2至3展路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926393",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:55:36",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160926392",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:53:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "鎮港路7號(建銨國際有限公司)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映",
+    "BeforeDesc_": "渠反映該處公司清洗化學櫃所散發濃厚化學異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 06:58:06",
     "Close_Date_": ""
   },
   {
@@ -6886,20 +6903,20 @@
   },
   {
     "FileNo_": "INS160925289",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 10:22:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "黃埔街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該街道中間路段正進行移除路樹工程，使用機具產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 00:49 環保局環境稽查科南區股戴宏霖先生回報，稽查人員於23:21到達，於黃埔\r\n街沿線巡查未發現施工機具致噪音情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:24:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:57:01"
   },
   {
     "FileNo_": "INS160925288",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:44:06",
     "Close_Date_": "2016/9/26 上午 07:39:48"
-  },
-  {
-    "FileNo_": "INS160925094",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 10:33:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大業北路上與漢民路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭丟棄許多廢棄木材等廢棄物，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 10：16簡訊回覆：陳先生您好，您9月25日所反映廢棄木材等問題，本府環保局\r\n已派員前往清除完畢，感謝熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:34:58",
-    "Close_Date_": "2016/9/26 上午 10:19:36"
   }
 ]
