@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926293",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 03:31:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "北汕里中洲三路沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線路面有菸頭及紙張垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926288",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 03:21:49",
@@ -6631,14 +6648,14 @@
   },
   {
     "FileNo_": "INS160925202",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/25 下午 05:47:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中民路623巷與中興路10巷(兒三公園))",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該處公園內籃球場旁鐵絲網，遭風災侵襲致局部受損情事，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 11:22:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924374",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 11:17:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山西路與澄清路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路口分隔島有數盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 11:21:42",
     "Close_Date_": ""
   }
 ]
