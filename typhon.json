@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160926233",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 01:27:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路裕農巷7弄內",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處巷道內電線皆低垂,已造成貨車無法通行會勾到,因恐車輛會勾斷電線,建請儘速查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 01:31:10",
     "Close_Date_": ""
   },
   {
