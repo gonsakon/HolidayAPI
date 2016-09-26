@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926234",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 01:33:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "河堤路一段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處腳踏車步道施工完竣後，路邊周邊有放置石塊與拆除後的圍籬，且未設安全措施，憂恐路人行經危險，望局處盡速移除，建請查處不需電覆。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926233",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 01:27:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:21:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924318",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 08:15:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "王公一路86號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 08:16:28",
     "Close_Date_": ""
   }
 ]
