@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926388",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:44:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路78號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926384",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:41:11",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160926385",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:39:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "潮興路107巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內沿線路燈從颱風過後故障不亮，至今仍尚未放亮，建請查處。",
+    "BeforeDesc_": "渠反映該巷內沿線路燈從先前颱風過後故障不亮，至今仍尚未放亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 06:40:52",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:21:46",
     "Close_Date_": "2016/9/26 下午 06:20:18"
-  },
-  {
-    "FileNo_": "INS160925088",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 10:01:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "中庄里立德路與鳳捷路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有大石塊掉落機車道路旁，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/25 10:40大寮區清潔隊分隊長王先生回報，會同陳情人前往查看係為工務局大石\r\n塊堆置於機車道旁，故改派非網A-TB-2016-83928賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:04:27",
-    "Close_Date_": "2016/9/26 上午 07:40:02"
   }
 ]
