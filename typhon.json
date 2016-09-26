@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926064",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 08:53:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎安路58號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處變電箱旁有樹枝、垃圾、椅子與彈簧床，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926058",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 08:53:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:08:40",
     "Close_Date_": "2016/9/25 下午 03:54:21"
-  },
-  {
-    "FileNo_": "INS160924149",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 01:02:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路212巷66號對面空地",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該透天厝有施工致噪音，建請查處。(請稽查人員現場回覆)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 01:05:11",
-    "Close_Date_": ""
   }
 ]
