@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926196",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 11:45:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "六合二路近中華三路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處郵局前斑馬線汽車道上有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926195",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 11:44:47",
@@ -1837,14 +1854,14 @@
   },
   {
     "FileNo_": "INS160926086",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/26 上午 09:25:39",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港南二路與興漁二路口東北角",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處一溝蓋塌陷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 06:53:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924279",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 06:51:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "飛機路361巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 06:53:44",
     "Close_Date_": ""
   }
 ]
