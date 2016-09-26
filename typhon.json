@@ -51,20 +51,37 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160926365",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 下午 05:40:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營下路173之1號，萬年縣公園",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址對面路面有堆積大量落葉，尚未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 下午 05:44:59",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926364",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 05:39:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "洲仔東街173號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前路面有堆積大量落葉，尚未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 05:45:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 09:29:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925068",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 09:27:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞福路與崗山東街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有碎玻璃，恐致用路人危險，建請清除。",
-    "AfterDesc_": "【主管解除管制】9/25 09:54前鎮區清潔隊洪惠貞小姐回報，經查現場未發現疑已遭民眾清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 09:31:31",
-    "Close_Date_": "2016/9/26 上午 07:41:14"
   }
 ]
