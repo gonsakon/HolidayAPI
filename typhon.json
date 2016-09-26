@@ -8416,20 +8416,20 @@
   },
   {
     "FileNo_": "INS160924213",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 03:31:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與金府路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處綠燈號誌故障不亮，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 17:57 交通局智慧運輸中心李品鋒先生回報，該處目前無危險性，惟線路故\r\n障需報修，故轉非網A-TB-2016-83674賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 03:32:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 08:04:01"
   },
   {
     "FileNo_": "INS160924212",
@@ -8484,20 +8484,20 @@
   },
   {
     "FileNo_": "INS160924209",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 03:14:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路與海功路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈上有一樹枝懸掛，擔心掉落，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 17:57 交通局智慧運輸中心李品鋒先生回報，該處樹枝已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 03:15:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 08:05:12"
   },
   {
     "FileNo_": "INS160924208",
@@ -8739,20 +8739,20 @@
   },
   {
     "FileNo_": "INS160924194",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 02:31:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路與海專路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口四個小綠人號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 17:57 交通局智慧運輸中心李品鋒先生回報，該處目前無危險性，惟線路故\r\n障需報修，故轉非網A-TB-2016-83673賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 02:32:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 08:05:26"
   },
   {
     "FileNo_": "INS160924193",
