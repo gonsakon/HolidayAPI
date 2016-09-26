@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927010",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 01:32:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "懷德路16巷2弄1號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一舊式路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927009",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 上午 01:31:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 02:06:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925151",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 下午 02:01:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "經武路與光復路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈與燈桿的連接支架有斷裂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 02:02:02",
     "Close_Date_": ""
   }
 ]
