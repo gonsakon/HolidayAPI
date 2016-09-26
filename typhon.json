@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160926198",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 上午 11:55:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大埤路27號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有樹枝未清除，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 上午 11:57:56",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926197",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 上午 11:55:09",
@@ -2772,14 +2789,14 @@
   },
   {
     "FileNo_": "INS160926032",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/26 上午 08:18:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文化西路95號前、文化西路200巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該兩處路旁皆堆罝上次風災的樹枝及垃圾雜物未清,恐颱風來時再沖刷至排水溝造成阻塞,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 07:02:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924283",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 06:55:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "竹園里新生路205巷24號之1",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 06:58:18",
     "Close_Date_": ""
   }
 ]
