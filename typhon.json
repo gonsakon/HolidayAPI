@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160926393",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:55:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁林路上(近山隆加油站，西向東方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠滿映該處公園旁有一號誌燈歪斜，建請查處。",
+    "BeforeDesc_": "渠滿映該處公園旁有一號誌燈歪斜，號誌燈朝路面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 06:57:30",
     "Close_Date_": ""
   },
   {
@@ -48,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 06:55:01",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160926390",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 下午 06:52:33",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文自路200號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 下午 06:56:47",
     "Close_Date_": ""
   },
   {
@@ -6631,20 +6648,20 @@
   },
   {
     "FileNo_": "INS160925303",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 11:32:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路186巷26號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處先前進行部分路面挖除填補作業，惟將工具袋遺留在場未帶回，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 17：37 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，已取回，故結案；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 11:34:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:56:57"
   },
   {
     "FileNo_": "INS160925302",
@@ -6784,20 +6801,20 @@
   },
   {
     "FileNo_": "INS160925294",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 10:42:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國二路154號、190號及98號前方",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映上述三址前人行道緣石均有破損，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 15:45 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該三處人行道破損皆\r\n已修復；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:44:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:57:21"
   },
   {
     "FileNo_": "INS160925293",
@@ -6835,20 +6852,20 @@
   },
   {
     "FileNo_": "INS160925291",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 10:32:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "民權一路(四維國小旁人行道上)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一大型樹幹擺放於地面上未清除，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 08:20 養工處四維養護工程隊苓雅養護分隊 陳美熹小姐回報，該處目前無危險性\r\n也未影響通行，對此將列入災後復建工程辦理，故改派非網A-TB-2016-84195賡續辦理；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:34:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:57:41"
   },
   {
     "FileNo_": "INS160925290",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:34:58",
     "Close_Date_": "2016/9/26 上午 10:19:36"
-  },
-  {
-    "FileNo_": "INS160925093",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 10:32:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大業北路上與漢民路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭丟棄許多廢棄木材等廢棄物，建請查處。",
-    "AfterDesc_": "經查本案係重覆成立，併案至INS160925094辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:11:41",
-    "Close_Date_": "2016/9/26 上午 09:12:05"
   }
 ]
