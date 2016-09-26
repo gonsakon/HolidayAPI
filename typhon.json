@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926381",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:20:01",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "新庄路127號前",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "渠反映該處台電電線桿上之電線在冒火花，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926380",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 06:18:11",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160926378",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:16:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "文學路二段311號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 06:20:36",
     "Close_Date_": ""
   },
   {
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160926376",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:14:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "文學三街與文學路二段交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 06:20:29",
     "Close_Date_": ""
   },
   {
@@ -9810,37 +9827,37 @@
   },
   {
     "FileNo_": "INS160925104",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 11:17:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "金潭路17巷1-1號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有樹木斷枝垂掛在電線上，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/26 09：06 養工處鳳山養護工程林照裕先生回報，該處無危險性，惟屬私人種植芒果\r\n樹，不屬養工處權管；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 11:19:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:23:17"
   },
   {
     "FileNo_": "INS160925103",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 上午 11:10:26",
     "ReplyUnit_": "E01001",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三民路220巷內(新建工地)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有許多野狗聚集，其中有一隻黑犬咬傷民眾，望全數捕捉，建請會同。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/25 14:38農業局動物保護處捕犬大隊蕭明發先生回報，有聯繫陳情人與其母親會同到\r\n場，惟因工地大門深鎖，且找不到咬傷的犬隻，並告知陳情人可於周一人員上班時間在做一次通報，協助捕捉；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 11:15:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:22:57"
   },
   {
     "FileNo_": "INS160925102",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:16:51",
     "Close_Date_": "2016/9/26 下午 06:10:58"
-  },
-  {
-    "FileNo_": "INS160925082",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 上午 09:57:19",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路與孟子路(南下方向)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處機車道有過路溝破損致路面下陷，約深20公分，寬1米，已設立安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:00:18",
-    "Close_Date_": ""
   }
 ]
