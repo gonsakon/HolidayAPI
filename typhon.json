@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS160927002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 上午 12:05:13",
     "ReplyUnit_": "A04000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "復安路接田厝路往南方向，北極殿前南端路口號誌",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】交通局智慧運輸中心黃泰郎先生於09/27 00:13回報：該處號誌22點過後設定為\r\n閃燈，故號誌正常無故障。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 12:08:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 上午 12:18:46"
   },
   {
     "FileNo_": "INS160927001",
