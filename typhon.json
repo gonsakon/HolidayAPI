@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926405",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 07:23:22",
+    "ReplyUnit_": "B01001",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "竹滬里國昌路189巷263弄315號往西方向第三根電線桿(電桿編號：東方高分77)",
+    "UnitName_": "養工處2",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面下陷(二)",
+    "BeforeDesc_": "渠反映該處為6米以下巷道，現場有一路面凸起約5公分，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926403",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 07:21:24",
@@ -2636,20 +2653,20 @@
   },
   {
     "FileNo_": "INS160926249",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 02:03:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正義路上，與文山路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌綠燈故障不亮，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 17：54 交通局智慧運輸中心張寬如小姐回報，該處號誌燈已修復；本案不\r\n需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 02:06:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 07:22:59"
   },
   {
     "FileNo_": "INS160926246",
@@ -3027,20 +3044,20 @@
   },
   {
     "FileNo_": "INS160926224",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 01:01:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路近正義路口，往鳳山方向",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道上有一大坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 17：37 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處已修復\r\n完畢；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 01:03:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 07:23:36"
   },
   {
     "FileNo_": "INS160926223",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 11:30:17",
     "Close_Date_": "2016/9/26 下午 06:23:42"
-  },
-  {
-    "FileNo_": "INS160925106",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 上午 11:26:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "修文街38巷20弄8號及對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮及路燈電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 11:28:04",
-    "Close_Date_": ""
   }
 ]
