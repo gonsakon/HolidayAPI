@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926410",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 下午 07:30:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加仁路87巷13號(近翠屏國中前，加仁路上)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前沿線路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 下午 07:33:55",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926406",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 07:28:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 11:45:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925111",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 上午 11:36:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "樂群路(籃球場東側)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處三盞路燈(64區6662之01、64區6662之03、5514)，約每兩時會熄滅，或放亮情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 11:45:52",
     "Close_Date_": ""
   }
 ]
