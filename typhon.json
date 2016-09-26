@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS160926432",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 下午 10:05:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與曾子路口",
-    "UnitName_": "交通局",
-    "StatusName_": "待確認",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈已斷裂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 10:07:15",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160926431",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 09:52:58",
@@ -137,14 +120,14 @@
   },
   {
     "FileNo_": "INS160926424",
-    "Status_": "3",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 08:26:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "信義路62巷",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 01:01:17",
     "Close_Date_": "2016/9/26 上午 10:23:03"
+  },
+  {
+    "FileNo_": "INS160925133",
+    "Status_": "5",
+    "Cre_Date_": "2016/9/25 下午 12:54:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九大路上(南往北方向，近九曲路)",
+    "UnitName_": "環保局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處車道上有散落碎石，建請查處。",
+    "AfterDesc_": "【主管解除管制】9/25 14：16 仁武區清潔隊黃嘉宏先生回報，皆已清除完畢。",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 01:01:59",
+    "Close_Date_": "2016/9/26 上午 06:49:29"
   }
 ]
