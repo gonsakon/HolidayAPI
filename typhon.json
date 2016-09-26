@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160926355",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 05:14:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路19巷25號(萬福中華聖母堂)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址圍牆邊有一吹落大鐵皮(約5米X2米左右)，擔心颱風將至，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 05:16:11",
     "Close_Date_": ""
   },
   {
@@ -1565,20 +1565,20 @@
   },
   {
     "FileNo_": "INS160926263",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 02:32:23",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "永年街與九如一路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有幼貓受困引擎蓋內，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/26 16:00農業局動物保護處蔡勝全先生回報，該處貓隻已自行脫困；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 02:33:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:18:35"
   },
   {
     "FileNo_": "INS160926262",
