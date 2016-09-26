@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160926361",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 05:35:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "旗楠路80巷6號旁(保舍甲路上)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾斜快傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/26 下午 05:36:44",
     "Close_Date_": ""
   },
   {
@@ -970,20 +970,20 @@
   },
   {
     "FileNo_": "INS160926306",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 03:55:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路與高雄展覽館平面停車場交叉處",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌與前後路口號誌燈不連鎖，建請修繕。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 16:08交通局智慧運輸中心張寬如小姐回報，該處經查是變燈異常所致，無\r\n立即危險性，惟目前該處號誌是由捷運局控制，屬捷運局權責，故改派，案號：A-TB-2016-84524；本案不\r\n需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:56:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:38:41"
   },
   {
     "FileNo_": "INS160926305",
