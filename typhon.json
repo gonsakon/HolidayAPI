@@ -885,20 +885,20 @@
   },
   {
     "FileNo_": "INS160926312",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 04:05:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "保生路298巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處巷口有一狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 16:23湖內區清潔隊郭怡君小姐回報，該處犬屍已清除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:06:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:39:58"
   },
   {
     "FileNo_": "INS160926310",
@@ -919,20 +919,20 @@
   },
   {
     "FileNo_": "INS160926309",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 03:57:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "明鳳三路與明鳳十街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 16:08交通局智慧運輸中心張寬如小姐回報，經查該處一桿線路斷裂所致，\r\n現場仍有一桿可供觀看，無立即危險性，已報修廠商處理，故改派非網追蹤，案號：A-TB-2016-84523；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:02:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 05:39:28"
   },
   {
     "FileNo_": "INS160926308",
