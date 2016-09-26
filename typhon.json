@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926097",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 上午 09:35:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多三路218號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前汽車道上有3個大小坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926095",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 上午 09:34:25",
@@ -82,6 +99,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:30:06",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160926090",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/26 上午 09:27:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "武昌路(中華電信對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭民眾丟棄廢棄家具(有沙發)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/26 上午 09:35:23",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 02:15:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924180",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 02:14:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多四路36號至38號 (近三多四路40巷)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址有一盞路燈(LED)故障閃爍，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 02:17:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924179",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/24 下午 02:12:17",
-    "ReplyUnit_": "E01004",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "高雄市路竹區",
-    "UnitName_": "中華電信公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "中華-孔蓋路面下陷",
-    "BeforeDesc_": "路面已經開始凹陷，孔蓋嚴重跳動柏油部分已經裂開，影響用路安全已經通知多次了，都還是沒有修復完善",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-83598由中華電信賡續辦理，倘您對本案處理有疑問，歡\r\n迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 03:14:33",
-    "Close_Date_": "2016/9/24 下午 03:23:13"
   }
 ]
