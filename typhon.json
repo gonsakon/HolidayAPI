@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926231",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 01:26:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "漢泰街與漢陽街50巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址設有兩個舊衣回收箱並未固定，先前颱風時因此傾倒壓損車輛，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926230",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 01:18:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 08:10:54",
     "Close_Date_": "2016/9/26 上午 07:43:22"
-  },
-  {
-    "FileNo_": "INS160924315",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 08:05:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段53巷2弄84旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈燈頭有冒火燃燒情況，目前消防隊已協助滅火，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 08:08:01",
-    "Close_Date_": ""
   }
 ]
