@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926339",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 04:48:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路112巷21號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有8盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926338",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 04:47:20",
@@ -3265,20 +3282,20 @@
   },
   {
     "FileNo_": "INS160926136",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:20:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族二路與中東街(往北方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處快慢車道號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 13:50交通局智慧運輸中心蔡淑君小姐回報，該處慢車道上有一號誌燈遺\r\n失，已通報廠商處理，現場無危險性，故改派非網：A-TB-2016-84431處理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:21:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 04:50:16"
   },
   {
     "FileNo_": "INS160926140",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 07:53:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925036",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 07:45:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "萬壽路上(自鼓山一路至忠烈祠)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路段仍有樹枝懸掛樹上仍未清除,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 07:53:25",
     "Close_Date_": ""
   }
 ]
