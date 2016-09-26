@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926332",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 04:45:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中山路1097號前",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線垂落，已影響交通，建請儘速處理。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926331",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 04:40:51",
@@ -3214,20 +3231,20 @@
   },
   {
     "FileNo_": "INS160926140",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:19:51",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路與建國路二段口",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線垂落過低，車輛行經會有勾到危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 14:24台電謝先生7100164回報，該處非屬台電線路；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:22:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 04:45:58"
   },
   {
     "FileNo_": "INS160926139",
@@ -3282,20 +3299,20 @@
   },
   {
     "FileNo_": "INS160926135",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 10:16:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路與華安街口(大鎰回收場)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道堆積許多回收物致髒亂，恐生登革熱疫情，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/26 10：39鼓山區清潔隊羅憶琇小姐回報，該處經人員現場勘查未發現髒亂及積\r\n水容器，因回收物屬有價物，且有部分非大鎰回收場的物品，需釐清權責，故轉非網:A-TB-2016-84307；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:22:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 04:45:30"
   },
   {
     "FileNo_": "INS160926134",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 07:30:53",
     "Close_Date_": "2016/9/25 下午 02:07:30"
-  },
-  {
-    "FileNo_": "INS160925032",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 上午 07:24:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "勞工公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公廁燈不亮，殘障廁所門損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 07:25:34",
-    "Close_Date_": ""
   }
 ]
