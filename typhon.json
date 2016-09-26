@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927003",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 12:29:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "明誠二路上，明誠橋",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處橋面上南邊有三盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927002",
     "Status_": "5",
     "Cre_Date_": "2016/9/27 上午 12:05:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 01:36:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925144",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 下午 01:31:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "東林西路284號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈路燈蓋快要掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 01:36:11",
     "Close_Date_": ""
   }
 ]
