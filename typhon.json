@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926392",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:53:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926391",
     "Status_": "1",
     "Cre_Date_": "2016/9/26 下午 06:53:40",
@@ -7328,20 +7345,20 @@
   },
   {
     "FileNo_": "INS160925260",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/25 下午 08:30:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路地下道出來，尚未至中安路(北往南方向)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處汽車道上有兩個路面坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 17：15 養工處四維養護工程隊前鎮養護分隊潘麗娥小姐回報，該路面坑洞均修復\r\n完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 08:32:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 下午 06:54:20"
   },
   {
     "FileNo_": "INS160925259",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:37:22",
     "Close_Date_": "2016/9/26 上午 10:14:12"
-  },
-  {
-    "FileNo_": "INS160925092",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 10:23:53",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "育樂路161號a5-11樓",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻受困11樓雨遮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/25 11:30農業局動物保護處捕犬大隊王崑吉先生回報，到現場了解係陳情人所飼養貓\r\n隻，已告知需自行處理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:26:28",
-    "Close_Date_": "2016/9/26 下午 06:12:21"
   }
 ]
