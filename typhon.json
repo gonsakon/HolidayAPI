@@ -9130,20 +9130,20 @@
   },
   {
     "FileNo_": "INS160924171",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/24 下午 01:54:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重信路上(高鐵路往華夏路)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/24 14:52 交通局智慧運輸中心蔡淑君小姐回報，人員現場查勘，該號誌現場正\r\n常運作。",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 01:56:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/26 上午 08:05:41"
   },
   {
     "FileNo_": "INS160924170",
