@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926200",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 12:03:36",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌一路上，近立忠路口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一台電孔蓋，之前有不明工程施工，惟施工完成後將鐵板與安全錐推放在人行道上，建請查處施工單位。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926199",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 12:00:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 07:03:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924285",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/24 下午 07:01:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文學二街、文學三街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 07:02:30",
     "Close_Date_": ""
   }
 ]
