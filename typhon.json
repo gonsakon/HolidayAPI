@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926266",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 02:45:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "武廟路85巷與建民路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊遭棄置一片玻璃(約90乘70公分)及散落碎玻璃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926265",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 02:39:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/24 下午 09:38:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160924348",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/24 下午 09:35:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫二路225號(惡魔雞排)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址店家目前有作業油煙逸散致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/24 下午 09:38:56",
     "Close_Date_": ""
   }
 ]
