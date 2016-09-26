@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926389",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 06:49:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "赤仁路(公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園步道照明燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926388",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 06:44:12",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS160926373",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/26 下午 06:08:09",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "龍德路83巷18號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處後方污水管堵塞，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 上午 10:23:44",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925090",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 上午 10:16:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "山頂路213號(山頂國小旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處因重車輾壓導致路面凹陷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/25 11:46養工處鳳山養護工程隊陳毓郡小姐回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 上午 10:18:09",
-    "Close_Date_": "2016/9/26 下午 06:11:58"
   }
 ]
