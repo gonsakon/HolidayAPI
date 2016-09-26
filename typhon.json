@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160926426",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/26 下午 08:40:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "海街(開台福德宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "卡拉OK致噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160926424",
     "Status_": "2",
     "Cre_Date_": "2016/9/26 下午 08:26:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 12:14:23",
     "Close_Date_": "2016/9/26 下午 06:27:53"
-  },
-  {
-    "FileNo_": "INS160925125",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 12:11:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路與後勁西路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌紅燈及綠燈固定不轉換，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/25 14:04交通局智慧運輸中心蔡淑君小姐回報，該處號誌線路故障報修廠商處\r\n理，故改派非網A-TB-2016-84002賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 12:12:56",
-    "Close_Date_": "2016/9/26 上午 08:00:21"
   }
 ]
