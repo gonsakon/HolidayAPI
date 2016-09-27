@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160927058",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:07:25",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "大舍南路61號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址處目前有無預警停電之情況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 09:11:11",
     "Close_Date_": ""
   },
   {
