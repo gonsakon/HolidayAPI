@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160927095",
+    "FileNo_": "INS160927096",
     "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 10:24:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華二路372號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160927095",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 10:24:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "仁愛路與八德路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障全不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 10:25:04",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:14:47",
     "Close_Date_": "2016/9/26 下午 10:30:51"
-  },
-  {
-    "FileNo_": "INS160925237",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 下午 07:11:10",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福一路41巷31號、五福一路41巷",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該2處前方各有一號誌燈之紅燈故障，綠燈時紅燈同時放亮，紅燈時號誌正常，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 07:17:37",
-    "Close_Date_": ""
   }
 ]
