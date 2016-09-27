@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927288",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 11:28:12",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高鳳路上與中安路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈的電線斷裂，目前一直冒火花，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927287",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 11:23:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:10:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926123",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 上午 10:06:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新衙路21巷內,德昌路3巷至德昌路5巷之間",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道磚有多處下陷,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:11:18",
     "Close_Date_": ""
   }
 ]
