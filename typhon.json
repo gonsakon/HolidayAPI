@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927272",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 09:53:14",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "黃興路437巷旁",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該巷內已淹水，且旁邊蓄洪池內已滿水位，且無法正常排水，已快淹至路面，惟周邊未圍警示帶，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927271",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 09:44:25",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS160927269",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/27 下午 09:42:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "和平里",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "台瘋停電",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:57:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926110",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:48:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "瑞源路31號(一品花園大廈)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該大廈汽車道出入口，有一路樹倒塌未清除，影響車輛出入，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/26 10:45工務局四維養護工程隊苓雅分隊陳美熹小姐回報該處為大樓之私人樹，需請\r\n管委會自行處理，轉派非網工務局建管處A-TB-2016-84318；並於09/26 11：40電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:51:10",
-    "Close_Date_": "2016/9/26 上午 11:41:12"
   }
 ]
