@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160927204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 04:00:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "頂潭北路55號(劉嘉修護理之家)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者目前有發電機運轉致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 04:03:22",
     "Close_Date_": ""
   },
   {
@@ -9283,20 +9283,20 @@
   },
   {
     "FileNo_": "INS160926093",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 09:32:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生二路46號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前人行道上仍有樹葉、樹枝未清，該址旁為大同國小，小朋友無法行走，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/26 09：46 新興區清潔隊郭宸睿先生回報，人員於09:30到達，該處係大型樹木倒\r\n塌造成人行道設施破壞，產生廢棄土方散佈機車道上，權責單位係養工處，已開立勸告單(勸A字124420)予\r\n養工處，故轉派INS160926115養工處後續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:38:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 04:02:56"
   },
   {
     "FileNo_": "INS160926092",
