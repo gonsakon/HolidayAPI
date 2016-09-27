@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927125",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 11:43:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "金龍路上(大社分駐所對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園旁路邊電箱上，有一園樹斷枝卡在樹上，擔心斷肢掉落造成停電，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927124",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 上午 11:41:50",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS160927070",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 上午 09:38:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞隆路607巷45弄2號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈底座損壞，即將傾倒，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 08:55:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925265",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 下午 08:51:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三德西街35巷7號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 08:53:31",
     "Close_Date_": ""
   }
 ]
