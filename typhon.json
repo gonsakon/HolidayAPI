@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927084",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 10:04:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中華三路85號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處安全島上有一棵路樹傾倒，影響通行，警員有在現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927083",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 10:02:04",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS160927075",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:49:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "山壩煙路上(與岡山區交界處，河堤旁)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該路段約四、五百公尺範圍有多棵路樹傾倒，已影響民眾行車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 10:08:05",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 06:53:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925226",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 06:51:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三民區九如一路186巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "您好：住家三民區九如一路186巷巷內的路燈，不明原因未亮，請儘速派員修理，謝謝",
-    "AfterDesc_": "【主管解除管制】本案於9/26 15：48養工處四維養護工程隊九如養護分隊鄒廣雄先生回報：該處係台電送電問\r\n題，並已修復完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 07:09:21",
-    "Close_Date_": "2016/9/26 下午 06:46:15"
   }
 ]
