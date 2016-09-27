@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS160927201",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 02:57:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "高雄市橋頭區白樹村合興街117巷",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電了",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 15:24通報災害應變中心吳小姐",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 03:28:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 03:29:15"
   },
   {
     "FileNo_": "INS160927200",
