@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927280",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 10:38:09",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "三民路文化巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "已經停電好幾個小時 請問何時能恢復正常供電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927279",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 10:35:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:58:05",
     "Close_Date_": "2016/9/26 下午 04:40:18"
-  },
-  {
-    "FileNo_": "INS160926112",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 上午 09:54:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "1.德昌街8巷28號、2.德昌街8巷底",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，靠近8巷底處其中一盞路燈燈頭斷裂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:14:46",
-    "Close_Date_": ""
   }
 ]
