@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927131",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 12:11:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路與五權街三角窗處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一棵路樹傾倒，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927130",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 12:07:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 09:22:27",
     "Close_Date_": "2016/9/26 下午 06:52:39"
-  },
-  {
-    "FileNo_": "INS160925271",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 下午 09:14:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲路737巷內及中洲路735號至645號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷道內及住家前沿線路燈皆故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 09:17:47",
-    "Close_Date_": ""
   }
 ]
