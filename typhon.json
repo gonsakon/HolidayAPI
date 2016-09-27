@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160927164",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 01:36:51",
     "ReplyUnit_": "E01005",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "永安路(美濃國小前)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處已無預警停電約兩小時，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 01:38:58",
     "Close_Date_": ""
   },
   {
