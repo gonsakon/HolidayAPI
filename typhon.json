@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927238",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 06:42:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南京路與瑞隆東路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌皆故障不亮，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927237",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 06:33:55",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:17:41",
     "Close_Date_": "2016/9/27 上午 10:14:57"
-  },
-  {
-    "FileNo_": "INS160926071",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:06:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路與德民路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處車禍導致路面有油漬，建請查處。(警方已在現場)",
-    "AfterDesc_": "【主管解除管制】本案於09/26 10:16楠梓區清潔隊蔡怡如小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:08:06",
-    "Close_Date_": "2016/9/26 下午 04:31:20"
   }
 ]
