@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160927073",
+    "FileNo_": "INS160927074",
     "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 09:49:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "山壩煙路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160927073",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:44:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路與明華路口(7-11)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址超商人行道上有一20多年的老樹，現遭私人業者雇工鋸除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 09:46:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 06:38:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925215",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 06:36:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "國泰路一段上，從台糖花市往軍校方向",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段沿線路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於 09/26 21:14 鳳山養護工程隊 劉瑋婕小姐回報，上述情事經查為台電供電設備異常\r\n 所致，經台電搶修後，路燈已恢復正常運作；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 06:37:04",
-    "Close_Date_": "2016/9/26 下午 10:32:01"
   }
 ]
