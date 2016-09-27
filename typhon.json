@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927266",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 09:10:24",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "高雄市燕巢區",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "又停電了，上次一停停三天，冰箱裏的東西全部壞光，這次希望能夠早點修復好嗎？",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927265",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 09:08:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:45:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926102",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 上午 09:41:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "洲港路168巷8號 (電桿編號:一庫高分20左7Q0444C125)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前台電電桿基座下方路面掏空，現場有擺放三角錐警示，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:51:35",
     "Close_Date_": ""
   }
 ]
