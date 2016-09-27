@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927214",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 05:07:06",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "赤崁社區到大社西路一帶",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "從早上11:50停電到現在",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927213",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 04:48:17",
@@ -6665,20 +6682,20 @@
   },
   {
     "FileNo_": "INS160926259",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 02:21:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重治路與政德路口(政德舊貨商)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭擺放許多廢棄物、塑膠殼、冷氣外殼，造成環境髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 14:29 左營區清潔隊李苡絃小姐回報，該處已請舊貨商自行處理完\r\n成；並於9/27 17：07電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 02:25:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:07:15"
   },
   {
     "FileNo_": "INS160926258",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 08:43:35",
     "Close_Date_": "2016/9/27 下午 03:32:39"
-  },
-  {
-    "FileNo_": "INS160926047",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 上午 08:41:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "公園路上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈有兩盞路燈(路燈編號為：0526與0380)皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 08:50:05",
-    "Close_Date_": ""
   }
 ]
