@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS160927089",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 10:14:59",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高松路78號之4",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該址前方有一長方形台電孔蓋邊有坑洞且鬆動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 10:39:01",
     "Close_Date_": ""
   },
   {
