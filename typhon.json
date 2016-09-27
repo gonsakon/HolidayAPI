@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927250",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 07:20:49",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "高雄市岡山區協和里致遠路附１２－９號。",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "牧場停電了，麻煩待颱風風雨緩和後，盡快幫忙修復。辛苦了，謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927249",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 07:19:16",
@@ -273,19 +290,19 @@
   },
   {
     "FileNo_": "INS160927234",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 06:16:42",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "826台灣高雄市梓官區漁港二路22號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 07:20:50",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:28:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926084",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:22:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "修文街與修文街146巷口(中華電信旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有人棄置衣櫃、木板已數星期，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 11：26前鎮區清潔隊張昭和先生回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:24:45",
-    "Close_Date_": "2016/9/26 下午 04:34:02"
   }
 ]
