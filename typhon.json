@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160927265",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 下午 09:08:02",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "高雄市林園區廣應街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "今日上午10時20分停電至今，下午約19時30分左右又復電約五分鐘，但馬上又停了。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 09:45:50",
     "Close_Date_": ""
   },
   {
