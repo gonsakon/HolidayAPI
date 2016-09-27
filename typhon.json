@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160927160",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 01:32:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "華山街167巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "沒風沒雨又停電了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927159",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 01:31:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 11:22:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925300",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/25 下午 11:18:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "筧橋路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 11:22:51",
     "Close_Date_": ""
   }
 ]
