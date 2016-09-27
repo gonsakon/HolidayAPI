@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927064",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 09:14:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "前鎮巷167號對面",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處固定線路之開關掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927063",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:13:08",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS160927047",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 上午 08:39:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞和街236號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一車禍地面油漬，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 06:04:08",
     "Close_Date_": "2016/9/26 上午 06:43:02"
-  },
-  {
-    "FileNo_": "INS160925205",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 05:52:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "捷運北機廠前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處燈罩脫落懸空，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/25 19:09 養工處岡山養護工程隊馬振邁先生回報，該處經查無立即危險性，因位在北\r\n機廠前尚未到省道，屬捷運局權責，故改派，案號：A-TB-2016-84088；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 05:55:09",
-    "Close_Date_": "2016/9/26 下午 06:44:55"
   }
 ]
