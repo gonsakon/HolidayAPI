@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160927223",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 05:47:37",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營明德新村12號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "9/27日下午17:35分，停电。請速復电。",
+    "BeforeDesc_": "9/27日下午17:35分，停?。請速復?。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 05:53:25",
     "Close_Date_": ""
   },
   {
