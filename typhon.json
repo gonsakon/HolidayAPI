@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927262",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 08:23:35",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大社路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927261",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 08:20:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:45:50",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926097",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:35:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多三路218號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前汽車道上有3個大小坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/27 15：50養工處四維養護工程隊苓雅養護分隊陳美熹小姐回報，該處已修復；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:44:09",
-    "Close_Date_": "2016/9/27 下午 05:54:53"
   }
 ]
