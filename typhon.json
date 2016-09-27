@@ -188,19 +188,19 @@
   },
   {
     "FileNo_": "INS160927257",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 08:03:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高雄市左營區東門路85巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 09:35:19",
     "Close_Date_": ""
   },
   {
