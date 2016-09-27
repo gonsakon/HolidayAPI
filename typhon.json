@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927050",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 08:44:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "北端街79號後方公園內",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該公園仍多處堆積枝葉及垃圾未清除,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927048",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 上午 08:39:44",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160927047",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 08:39:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞和街236號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一車禍地面油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 08:41:46",
     "Close_Date_": ""
   },
   {
@@ -3639,14 +3656,14 @@
   },
   {
     "FileNo_": "INS160926270",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/26 下午 03:02:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "宏平路528號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處一行道樹因風災後致傾斜，恐再次風災會隨時傾倒，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:03:48",
     "Close_Date_": "2016/9/25 下午 07:05:50"
-  },
-  {
-    "FileNo_": "INS160925190",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 04:52:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山稽徵所停車場旁空地",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "雜草廢樹枝髒亂，圍籬倒塌",
-    "AfterDesc_": "【主管解除管制】本案針對空地髒亂問題，已轉呈人民陳情案件：A-TB-2016-84083 委由環保局派員稽查，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 07:02:01",
-    "Close_Date_": "2016/9/25 下午 07:02:44"
   }
 ]
