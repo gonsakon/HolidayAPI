@@ -3639,20 +3639,20 @@
   },
   {
     "FileNo_": "INS160927020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 上午 07:05:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "芎焦五街93號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有大量廢棄家具堆積，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/27 10：56楠梓區清潔隊李郁慧小姐回報：該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 07:08:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 06:24:24"
   },
   {
     "FileNo_": "INS160927018",
