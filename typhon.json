@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160927061",
+    "FileNo_": "INS160927062",
     "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 09:11:41",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "大舍東路與大舍北路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160927061",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:08:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "水秀路與鳳陽街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌倒數秒數故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 09:09:10",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160927057",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 09:06:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "水秀路與鳳陽街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈燈頭懸掛半空，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 09:09:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 05:57:27",
     "Close_Date_": "2016/9/26 上午 06:44:18"
-  },
-  {
-    "FileNo_": "INS160925203",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 05:47:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "五福四路與中華四路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "該路口號誌紅燈倒數恆亮",
-    "AfterDesc_": "【主管解除管制】09/25 22：25 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 07:07:45",
-    "Close_Date_": "2016/9/26 上午 07:57:42"
   }
 ]
