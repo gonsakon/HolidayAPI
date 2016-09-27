@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160927281",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 10:40:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "高雄市彌陀區南寮里復興街二巷21號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "整區沒電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 11:00:16",
     "Close_Date_": ""
   },
   {
