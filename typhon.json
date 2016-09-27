@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927173",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 02:02:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊招路50巷2號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927171",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 02:00:06",
@@ -14,23 +31,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:01:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927173",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/27 下午 01:59:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "和平二路30號、32號",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -1820,14 +1820,14 @@
   },
   {
     "FileNo_": "INS160927065",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 上午 09:18:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路與中正一路口(摩斯漢堡)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈桿搖晃，建請查處。",
     "AfterDesc_": "",
