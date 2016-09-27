@@ -494,19 +494,19 @@
   },
   {
     "FileNo_": "INS160928020",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 上午 04:14:12",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "興龍路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "已經停電10小時了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 07:59:15",
     "Close_Date_": ""
   },
   {
