@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927087",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 10:10:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "青年路二段(青年便橋)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該陸橋上側邊鐵片掀起，且前後搖晃快要掉落，恐造成行車危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927086",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 上午 10:09:51",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS160927062",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 上午 09:11:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "大舍東路與大舍北路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 06:56:41",
     "Close_Date_": "2016/9/26 下午 06:46:58"
-  },
-  {
-    "FileNo_": "INS160925229",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 06:52:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "巨輪路與前峰路上(位於前峰路上，往中華電信方向)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有一電線桿遭風災侵襲致傾斜，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於9/26 10：12經詢問台電1911李小姐表示，預定明日(9/26)停電施工，故轉派非網：A-TB-\r\n2016-84312追蹤管制；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 06:59:01",
-    "Close_Date_": "2016/9/26 下午 06:46:35"
   }
 ]
