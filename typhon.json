@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927237",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 06:33:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中正路三段(約349號附近路段)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈均故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927236",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 06:22:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:08:06",
     "Close_Date_": "2016/9/26 下午 04:31:20"
-  },
-  {
-    "FileNo_": "INS160926070",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 上午 09:06:43",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三民區鼎金一巷",
-    "UnitName_": "觀光局",
-    "StatusName_": "待確認",
-    "InformDesc_": "風景區髒亂",
-    "BeforeDesc_": "渠反映該風景區假山流水惟因無水流動，池塘水已散發臭味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:11:37",
-    "Close_Date_": ""
   }
 ]
