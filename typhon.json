@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927279",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/27 下午 10:35:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大同路73之7號(左方)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/27 下午 10:36:06",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927278",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 10:18:06",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS160927271",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 下午 09:44:25",
-    "ReplyUnit_": "A01000",
+    "ReplyUnit_": "E01005",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "永新七街45號",
-    "UnitName_": "工務局",
-    "StatusName_": "建立中",
-    "InformDesc_": "寬頻管線破損",
+    "UnitName_": "台電公司",
+    "StatusName_": "待處理",
+    "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 10:38:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:14:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926115",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 上午 09:54:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民生二路46號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有大型樹木倒塌造成人行道設施破壞，產生廢棄土方散佈機車道上，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:00:11",
     "Close_Date_": ""
   }
 ]
