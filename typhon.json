@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS160927136",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 12:22:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路二段與建國路三段口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處路牌快被吹掉，與鐵桿狀，建請查處。",
+    "BeforeDesc_": "渠反映該處路牌快被吹掉，牌面有翻轉的狀況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 12:24:53",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160927135",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/27 下午 12:22:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "林森四路176號(法國愛樂大樓)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處門口前有一路燈燈座搖晃，恐會倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/27 下午 12:25:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 09:39:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160925276",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 下午 09:36:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "先鋒路上(介於桃子園路與必勝路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:012672)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 09:38:44",
     "Close_Date_": ""
   }
 ]
