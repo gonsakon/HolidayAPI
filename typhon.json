@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927245",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 07:07:38",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "清水岩路279巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "林園區清水岩路279巷這邊已停電，風小雨小時請儘速來維修  謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927244",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 07:06:40",
@@ -52,20 +69,20 @@
   },
   {
     "FileNo_": "INS160927241",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 06:58:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "漢翔岡山廠",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "漢翔岡山廠區內宿舍停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 19:01 通報災害應變中心許小姐。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:06:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 07:07:24"
   },
   {
     "FileNo_": "INS160927240",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:23:32",
     "Close_Date_": "2016/9/27 下午 03:58:07"
-  },
-  {
-    "FileNo_": "INS160926079",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:17:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "三民路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/27 16：53養工處鳳山養護工程隊劉偉婕小姐回報，該處已修復完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:18:23",
-    "Close_Date_": "2016/9/27 下午 05:54:07"
   }
 ]
