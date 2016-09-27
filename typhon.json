@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS160927198",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 02:42:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "廣應里頂瑤溝119巷41弄16號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電已一個多小時，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 04:12:34",
     "Close_Date_": ""
   },
   {
