@@ -290,19 +290,19 @@
   },
   {
     "FileNo_": "INS161003001",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/9/27 下午 11:11:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓區清豐路全線",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電10小時了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 01:20:52",
     "Close_Date_": ""
   },
   {
