@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927281",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 10:40:14",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "高雄市彌陀區南寮里復興街二巷21號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "整區沒電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927280",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 10:38:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:14:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926118",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 09:57:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路736號(全聯商店前人行道上)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/26 10:33三民東區清潔隊許華玲小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:58:05",
-    "Close_Date_": "2016/9/26 下午 04:40:18"
   }
 ]
