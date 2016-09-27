@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160927283",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 下午 10:59:46",
     "ReplyUnit_": "E01005",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗山區中正里中 興街一號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 11:07:26",
     "Close_Date_": ""
   },
   {
