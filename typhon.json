@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927183",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 02:17:53",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "鳥松區松埔北巷4-202號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "9月27下午1點左右，鳥松區松埔北巷4-202號附近全區停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927181",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 02:17:38",
@@ -17,20 +34,37 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160927180",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/27 下午 02:15:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "花園街10巷3號1樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處現有打牆的機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/27 下午 02:18:40",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927179",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 02:10:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路77號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址附近有停電情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 02:18:06",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 07:32:04",
     "Close_Date_": "2016/9/27 上午 10:43:33"
-  },
-  {
-    "FileNo_": "INS160926015",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 07:13:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過昌街38巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭堆放大量廢傢俱,自風災至今仍未清,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 10:34鳳山區清潔隊趙祥宇先生回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 07:18:02",
-    "Close_Date_": "2016/9/26 下午 04:13:08"
-  },
-  {
-    "FileNo_": "INS160926016",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 07:11:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "山明路上，餐飲大學站前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道與機車道有樹枝、葉堆置，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/26 10:06小港區清潔隊張少驊先生回報，因山明路未銜接餐飲大學，目前已派員\r\n山明路全線人行道與機車道樹枝及樹葉全數清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 07:31:33",
-    "Close_Date_": "2016/9/26 下午 04:13:40"
   }
 ]
