@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS160927219",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 05:30:52",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官區大舍東路公厝巷12弄",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "梓官區停電已通報INS160927058 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:48:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:49:20"
   },
   {
     "FileNo_": "INS160927218",
@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS160927214",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 05:07:06",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "赤崁社區到大社西路一帶",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "從早上11:50停電到現在",
-    "AfterDesc_": "",
+    "AfterDesc_": "梓官區停電已通報INS160927058 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:48:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:49:39"
   },
   {
     "FileNo_": "INS160927213",
