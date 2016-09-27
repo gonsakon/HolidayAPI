@@ -7039,20 +7039,20 @@
   },
   {
     "FileNo_": "INS160926235",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 下午 01:34:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武昌路70巷32號4F之1",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 14:11 苓雅區清潔隊陳冠宏先生回報，已清除完畢；並於9/27 17：05\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 01:38:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:05:36"
   },
   {
     "FileNo_": "INS160926234",
