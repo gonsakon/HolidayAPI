@@ -290,20 +290,20 @@
   },
   {
     "FileNo_": "INS160927234",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 06:16:42",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "826台灣高雄市梓官區漁港二路22號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 16:36通報災害應變中心陳小姐",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:20:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 07:21:25"
   },
   {
     "FileNo_": "INS160927232",
