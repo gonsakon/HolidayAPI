@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS160927249",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 07:19:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "高雄市彌陀區南寮里復興街2巷21號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "整個社區停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 19:07通報災害應變中心(8224567)葉先生",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:44:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 07:45:17"
   },
   {
     "FileNo_": "INS160927248",
@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS160927246",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 07:10:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "彌陀區文安路北二巷十二之二號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "中午十二點停電到現在是要停多久阿!颱風一來這裡都會停電是怎樣啦！",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 19:07通報災害應變中心(8224567)葉先生",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:43:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 07:45:06"
   },
   {
     "FileNo_": "INS160927245",
