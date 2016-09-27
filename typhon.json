@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927236",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 06:22:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營區文天路沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927235",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 06:21:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:11:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926068",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 上午 09:03:49",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "竹內里和平二路134巷18弄3號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址住戶後方污水管阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:05:00",
     "Close_Date_": ""
   }
 ]
