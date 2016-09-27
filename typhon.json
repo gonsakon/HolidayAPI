@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927181",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 02:16:16",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "中正路上近中華路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該路段目前無預警停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927179",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 02:10:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 07:31:33",
     "Close_Date_": "2016/9/26 下午 04:13:40"
-  },
-  {
-    "FileNo_": "INS160926014",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 07:11:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛四路與文自路口(文自路上)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有許多垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/26 08：09左營區清潔隊祝立庭小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 07:15:03",
-    "Close_Date_": "2016/9/26 下午 04:12:03"
   }
 ]
