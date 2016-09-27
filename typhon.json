@@ -68,23 +68,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160927104",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/27 上午 10:52:20",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "中正路15巷6號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址住戶將子家犬隻關於籠內，然未將籠子放進屋內，致犬隻目前在室外淋雨，擔憂有生命安危，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160927102",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 10:51:57",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:55:39",
     "Close_Date_": "2016/9/26 上午 10:48:47"
+  },
+  {
+    "FileNo_": "INS160925249",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/25 下午 07:42:16",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "明聖街120巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/25 下午 07:43:40",
+    "Close_Date_": ""
   }
 ]
