@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS160927223",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 05:47:37",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營明德新村12號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "9/27日下午17:35分，停?。請速復?。",
-    "AfterDesc_": "",
+    "AfterDesc_": "左營區停電已通報INS160927197 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:53:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:53:59"
   },
   {
     "FileNo_": "INS160927222",
@@ -307,19 +307,19 @@
   },
   {
     "FileNo_": "INS160927207",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 04:28:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "建業街39號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "從中午停電停到現在...麻煩可以派人搶休ㄧ下嗎",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 05:54:46",
     "Close_Date_": ""
   },
   {
@@ -9861,20 +9861,20 @@
   },
   {
     "FileNo_": "INS160926079",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 09:17:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "三民路沿線",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於9/27 16：53養工處鳳山養護工程隊劉偉婕小姐回報，該處已修復完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 09:18:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:54:07"
   },
   {
     "FileNo_": "INS160926076",
