@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928004",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 12:29:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路(文藻技術學院)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一棵路樹傾倒已佔據北上2個車道，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928003",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 12:14:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:22:42",
     "Close_Date_": "2016/9/26 下午 04:45:30"
-  },
-  {
-    "FileNo_": "INS160926134",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 上午 10:15:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路371號左右",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址前，分隔島上有一路樹傾斜，建請扶正。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:16:20",
-    "Close_Date_": ""
   }
 ]
