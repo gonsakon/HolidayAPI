@@ -647,19 +647,19 @@
   },
   {
     "FileNo_": "INS160928010",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 02:30:56",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "高雄市湖內區中山路一段301巷50-18號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "整個沒電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 07:54:40",
     "Close_Date_": ""
   },
   {
