@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160927154",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 下午 01:19:52",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "832台灣高雄市林園區東林西路298巷95弄",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "廣應里東林西路298巷95弄這裡停電,請派人維修,謝謝",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 01:21:20",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160927153",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 下午 01:16:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "高雄市林園區廣應街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "剛復點沒多久馬上又斷了，請協助，麻煩了。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 01:21:09",
     "Close_Date_": ""
   },
   {
