@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS160927123",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 11:36:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "高雄市路竹區北嶺里民有路61號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "整里停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 上午 11:56:43",
     "Close_Date_": ""
   },
   {
@@ -183,7 +183,7 @@
     "BeforeDesc_": "於10點開始停電至現在，請協助復電，感恩。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:55:40",
+    "Save_Date_": "2016/9/27 上午 11:55:50",
     "Close_Date_": ""
   },
   {
