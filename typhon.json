@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS160927155",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 01:21:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "832台灣高雄市林園區東林西路298巷95弄",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "廣應里東林西路298巷95弄這裡停電,請派人維修",
-    "AfterDesc_": "",
+    "AfterDesc_": "林園區停電已通報INS160927118 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:22:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 01:22:54"
   },
   {
     "FileNo_": "INS160927154",
