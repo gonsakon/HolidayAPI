@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS160927208",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 04:29:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "白樹里",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "拜託在颱風離去快點幫我們里修理",
-    "AfterDesc_": "",
+    "AfterDesc_": "橋頭區停電已於9/27 15:24通報災害應變中心吳小姐，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:40:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 05:41:28"
   },
   {
     "FileNo_": "INS160927207",
