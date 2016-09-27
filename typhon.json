@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160927108",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 10:59:57",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社路367號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處有無預警停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927106",
     "Status_": "2",
     "Cre_Date_": "2016/9/27 上午 10:55:24",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS160927093",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/27 上午 10:19:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖二路123號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有帆布廣告掉落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 07:55:39",
     "Close_Date_": "2016/9/26 上午 10:48:47"
-  },
-  {
-    "FileNo_": "INS160925249",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/25 下午 07:42:16",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "明聖街120巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 07:43:40",
-    "Close_Date_": ""
   }
 ]
