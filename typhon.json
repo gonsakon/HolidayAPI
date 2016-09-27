@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927122",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 上午 11:29:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永平路與永泰路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈線路垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927121",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 上午 11:27:01",
@@ -1531,14 +1548,14 @@
   },
   {
     "FileNo_": "INS160927031",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/27 上午 07:48:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "千富街223巷12號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址工廠正在排放廢氣空污，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 08:44:58",
     "Close_Date_": "2016/9/26 下午 06:53:43"
-  },
-  {
-    "FileNo_": "INS160925262",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 08:39:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路370巷與惠民路(右昌大橋往南方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中飄散木炭燃燒不完全所產生之刺鼻異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/25 22：10環保局環境稽查科中區股洪天賜先生回報，稽查人員於21：45到達，稽查時\r\n於上址附近巡查未發現空氣中有木炭燃燒不完全所產生之刺鼻異味空污情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 08:42:10",
-    "Close_Date_": "2016/9/26 下午 06:53:18"
   }
 ]
