@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928024",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 上午 05:22:29",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路與大順二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈全故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 上午 05:23:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928023",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 04:51:04",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:51:31",
     "Close_Date_": "2016/9/27 下午 05:57:42"
-  },
-  {
-    "FileNo_": "INS160926153",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 上午 10:42:43",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路38之1號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝蓋塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:46:11",
-    "Close_Date_": ""
   }
 ]
