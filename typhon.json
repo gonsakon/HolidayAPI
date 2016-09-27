@@ -9946,20 +9946,20 @@
   },
   {
     "FileNo_": "INS160926053",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/26 上午 08:43:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過昌街38巷36號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭大樓棄置廢棄家具，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/26 10:34 鳳山區清潔隊趙祥宇先生回報，已清除完畢；並於9/27 15：55\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 08:49:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 03:55:16"
   },
   {
     "FileNo_": "INS160926052",
