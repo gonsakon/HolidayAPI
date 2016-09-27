@@ -222,20 +222,20 @@
   },
   {
     "FileNo_": "INS160927183",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 02:17:53",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "鳥松區松埔北巷4-202號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "9月27下午1點左右，鳥松區松埔北巷4-202號附近全區停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "鳥松區停電已通報INS160927189 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/9/27 下午 02:41:00",
+    "Close_Date_": "2016/9/27 下午 02:41:48"
   },
   {
     "FileNo_": "INS160927182",
@@ -256,20 +256,20 @@
   },
   {
     "FileNo_": "INS160927181",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 02:17:38",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "鳥松區松埔北巷4-202號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "9月27下午1點左右，鳥松區松埔北巷4-202號附近全區停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "鳥松區停電已通報INS160927189 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/9/27 下午 02:40:48",
+    "Close_Date_": "2016/9/27 下午 02:41:32"
   },
   {
     "FileNo_": "INS160927180",
