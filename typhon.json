@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS160927148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 01:06:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "興華路與林森一路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈桿,底座已有鬆脫嚴重搖晃,恐將傾倒,上方也有監視器,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/27 下午 01:08:01",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160927149",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 01:05:36",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "開封街",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -35,20 +52,20 @@
   },
   {
     "FileNo_": "INS160927146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 01:01:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山石潭路",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "岡山區停電已通報INS160927113台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:03:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 01:04:46"
   },
   {
     "FileNo_": "INS160927145",
@@ -103,20 +120,20 @@
   },
   {
     "FileNo_": "INS160927142",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 12:53:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "高雄市岡山區石潭里石潭路282巷",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
-    "AfterDesc_": "",
+    "AfterDesc_": "岡山區停電已通報INS160927113台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 12:57:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 01:04:55"
   },
   {
     "FileNo_": "INS160927141",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/25 下午 10:31:22",
     "Close_Date_": "2016/9/26 上午 07:48:15"
-  },
-  {
-    "FileNo_": "INS160925289",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/25 下午 10:22:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "黃埔街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該街道中間路段正進行移除路樹工程，使用機具產生噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 00:49 環保局環境稽查科南區股戴宏霖先生回報，稽查人員於23:21到達，於黃埔\r\n街沿線巡查未發現施工機具致噪音情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/25 下午 10:24:13",
-    "Close_Date_": "2016/9/26 下午 06:57:01"
   }
 ]
