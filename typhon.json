@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927274",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 09:57:14",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "龍鳳龍興路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "龍鳳龍興路口電線掉落疑似斷裂。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927273",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 09:55:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:42:57",
     "Close_Date_": "2016/9/26 上午 10:46:39"
-  },
-  {
-    "FileNo_": "INS160926107",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 上午 09:49:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路90號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處人行道上有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:57:30",
-    "Close_Date_": ""
   }
 ]
