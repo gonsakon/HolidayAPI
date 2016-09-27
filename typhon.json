@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160927229",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/27 下午 06:03:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠華路與華榮路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒於機車道上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160927228",
     "Status_": "1",
     "Cre_Date_": "2016/9/27 下午 06:02:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 08:55:06",
     "Close_Date_": "2016/9/26 下午 04:27:13"
-  },
-  {
-    "FileNo_": "INS160926063",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 上午 08:52:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "大豐街96號(大豐公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園內共有十三盞園燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 09:00:18",
-    "Close_Date_": ""
   }
 ]
