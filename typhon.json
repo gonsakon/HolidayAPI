@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928028",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 06:17:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路(介於鼎力路與鼎中路間)、鼎貴路、鼎中路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928027",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 上午 06:10:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 上午 10:57:17",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926159",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 上午 10:45:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "球場路與本館路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈閃燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 13:50交通局智慧運輸中心蔡淑君小姐回報，該處線路故障已報修廠商，現\r\n場無危險性，故改派非網：A-TB-2016-84433處理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 上午 10:47:28",
-    "Close_Date_": "2016/9/26 下午 04:54:09"
   }
 ]
