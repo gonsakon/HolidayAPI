@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160927253",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/27 下午 07:48:01",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青海路與美術東八街口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該處有一汙水孔蓋冒水上下浮動，恐有位移產生危險，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/27 下午 07:51:42",
     "Close_Date_": ""
   },
   {
@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS160927250",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 07:20:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "高雄市岡山區協和里致遠路附１２－９號。",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "牧場停電了，麻煩待颱風風雨緩和後，盡快幫忙修復。辛苦了，謝謝",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 19:16通報災害應變中心林先生",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:49:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/27 下午 07:51:41"
   },
   {
     "FileNo_": "INS160927249",
