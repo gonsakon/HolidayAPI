@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928189",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 12:29:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮成一街29號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "紀小姐0988188248左營區榮成一街29號 將車輛停放於該址自家前，因颱風而該址自家對面人行道上有一藍色舊衣回收箱",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928188",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 12:25:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:24:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926320",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 04:22:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族二路285號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前人行道磨石子路面有破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:39:06",
     "Close_Date_": ""
   }
 ]
