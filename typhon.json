@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928402",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 09:17:15",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "茄萣區全區",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "整個高雄市茄萣區無一悻免又擱再次大停電ヽ(`Д´)ﾉ\n邁入第二天還是佔整個高雄市各區第一名，\n而且是高雄市整個停電戶數超過1/5都在茄萣區。\n“曾經停電數”與“目前停電數”根本就是無動于終",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928401",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 09:15:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 10:21:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927091",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 10:15:43",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔北巷56號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址前有一台電電箱方才發生爆炸，因此現該處附近皆停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 10:24:49",
     "Close_Date_": ""
   }
 ]
