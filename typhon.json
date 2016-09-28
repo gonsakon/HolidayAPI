@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160928382",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 08:24:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "政德路與曾子路501號交叉後",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "政德路與曾子路501號  全家超商後  至重立路交叉  如圖  有箭頭處路燈  已2天不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 08:38:28",
     "Close_Date_": ""
   },
   {
