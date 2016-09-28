@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929011",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 03:08:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇德路與華夏路之寶雅",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處號誌下方有貓屍(7-11袋裝)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929010",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 02:04:55",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 12:57:41",
     "Close_Date_": "2016/9/27 下午 01:04:55"
-  },
-  {
-    "FileNo_": "INS160927141",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 12:45:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山區協和里重義街77號1樓",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "岡山區停電已通報INS160927113台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 01:03:07",
-    "Close_Date_": "2016/9/27 下午 01:04:24"
   }
 ]
