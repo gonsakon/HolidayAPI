@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 01:18:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大智路與大埤路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈脫落，燈號垂掛在半空中，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 01:26:08",
     "Close_Date_": ""
   },
   {
