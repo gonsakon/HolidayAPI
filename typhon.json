@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160928411",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/9/28 下午 09:47:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路4巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "處理完成",
     "InformDesc_": "漏電",
     "BeforeDesc_": "左營區左營大路4巷內大約9-1號前面的路燈與電線的交接處不斷在冒火花，還有爆米花的聲音",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 10:04:25",
     "Close_Date_": ""
   },
   {
