@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928388",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 08:44:28",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路185巷8之1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處由鼓山三路193巷旁大排溝內，因枝葉阻塞致呈現滿溢淹水情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928385",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 08:39:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 10:05:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927078",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/27 上午 09:48:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "山壩煙路，近阿公店溪沿岸，岡山往彌陀方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 09:51:15",
     "Close_Date_": ""
   }
 ]
