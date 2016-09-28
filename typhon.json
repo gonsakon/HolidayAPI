@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928142",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 10:40:47",
+    "ReplyUnit_": "F01001",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "永安里永達路",
+    "UnitName_": "永安區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處因無抽水致淹水至膝蓋，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928141",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 10:38:36",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS160928121",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 上午 09:52:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "安泰街10巷24號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一樹木因颱風傾倒後，陳情人已先行鋸斷，惟堆放此會有影響通行之情況，望協助清除，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:05:09",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926275",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 03:02:36",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路與裕誠路口(博愛二路往北方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈黃燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 18：27 交通局智慧運輸中心張寬如小姐回報，該處號誌燈無危險性，惟因\r\n燈具故障需報修廠商，故轉非網A-TB-2016-84619賡續辦理；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 03:03:18",
-    "Close_Date_": "2016/9/26 下午 07:20:49"
   }
 ]
