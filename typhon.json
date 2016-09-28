@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160928432",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 11:24:25",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "夢裡里育德一街36號",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線桿之電線有爆炸聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 11:32:17",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928431",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 11:17:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:44:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927124",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 11:41:50",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林一路82巷280號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處目前無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:45:55",
     "Close_Date_": ""
   }
 ]
