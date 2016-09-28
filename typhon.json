@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928161",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 11:17:00",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "南溪南街溪南街橋(介於土庫七街與土庫八街)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處大排水溝已被垃圾堵住，水位高漲，建請清疏。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928160",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 上午 11:16:34",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160928158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 11:15:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路568號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處人行道有一很大的路樹斷枝，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 11:17:18",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:37:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926293",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 03:31:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "北汕里中洲三路沿線",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處沿線路面有菸頭及紙張垃圾，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 16:24旗津區清潔隊方秀密小姐回報，該處髒亂已清除完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 03:32:48",
-    "Close_Date_": "2016/9/26 下午 05:37:19"
   }
 ]
