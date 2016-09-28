@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160928361",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 07:11:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "1.民族一路與熱河一街2.民族一路與鼎山街",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映上述兩處路口號誌均故障閃燈，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 07:13:09",
     "Close_Date_": ""
   },
   {
@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS160928352",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:57:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮區內坑里(全里)",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "仁德路，崇恩路，崇偉路，仁勇路，仁忠路，仁德路16巷，仁德路16巷30弄，崇聖路，內坑路，明月潭加油站~鳳林二路，鳳林二路381巷剛才18:40在仁德路與內坑路口發生車禍",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】感謝您的反映，此案件已轉呈人民陳情案件編號A-TB-2016-86009，待處理完成\r\n再交由台電與您回覆！",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 07:11:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 07:13:24"
   },
   {
     "FileNo_": "INS160928351",
