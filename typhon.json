@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS160928272",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 04:59:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠民路8巷12號2樓",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電18小時了",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情人案件由A-TB-2016-85857台電辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:14:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 05:17:21"
   },
   {
     "FileNo_": "INS160928271",
