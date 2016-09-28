@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929062",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:56:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "井腳產業道路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處近中間路段上，路面有龜裂突起情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929061",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:52:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:34:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927191",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 下午 02:32:15",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "民族路15號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址現有停電狀況已一個小時，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:36:57",
     "Close_Date_": ""
   }
 ]
