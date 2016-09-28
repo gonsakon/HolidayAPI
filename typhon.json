@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929034",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 06:59:44",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路往南近裕誠路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈斷落，過路口號誌不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929032",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 06:46:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:38:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927163",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 01:34:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路與美術北三路 (往南)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映處快車道有一斷掉樹幹已遮蔽車輛視線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 01:35:34",
     "Close_Date_": ""
   }
 ]
