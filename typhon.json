@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS160928272",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 04:59:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠民路8巷12號2樓",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電18小時了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 05:14:02",
     "Close_Date_": ""
   },
   {
@@ -358,20 +358,20 @@
   },
   {
     "FileNo_": "INS160928259",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 04:21:30",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "停電超過20小時啦......",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "岡山區金興街超過20小時沒電能用了，請問哪時能派人來修好?",
     "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情人案件由A-TB-2016-85849台電辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:10:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 05:13:45"
   },
   {
     "FileNo_": "INS160928258",
