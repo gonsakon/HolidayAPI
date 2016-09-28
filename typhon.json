@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929045",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:23:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "澄清路與圓山路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929044",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:20:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:08:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927174",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 02:02:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "秀群路499巷7弄(Super one)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該大樓1樓，目前進行房屋整修作業，使用機具致噪音產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:04:53",
     "Close_Date_": ""
   }
 ]
