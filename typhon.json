@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928433",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 11:25:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路與鎮海路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障全閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 11:26:40",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928431",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 11:17:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:45:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927123",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 11:36:35",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "高雄市路竹區北嶺里民有路61號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "整里停電",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:56:54",
     "Close_Date_": ""
   }
 ]
