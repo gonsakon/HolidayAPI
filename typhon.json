@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928353",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 07:04:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路與鳳山溪(近青年夜市)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映於該溪看見上游有廢油流下，且有嚴重臭味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928352",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 06:57:40",
@@ -2024,14 +2041,14 @@
   },
   {
     "FileNo_": "INS160928232",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/28 下午 02:47:56",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心二路與修文街",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌閃燈故障，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 08:33:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927044",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 08:27:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "大舍西路102號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 08:30:41",
     "Close_Date_": ""
   }
 ]
