@@ -307,20 +307,20 @@
   },
   {
     "FileNo_": "INS160929011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 03:08:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "崇德路與華夏路之寶雅",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處號誌下方有貓屍(7-11袋裝)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/29 03:30 溝渠隊林漢宗先生回報：該處已清理完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 03:12:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 06:44:31"
   },
   {
     "FileNo_": "INS160929010",
@@ -358,20 +358,20 @@
   },
   {
     "FileNo_": "INS160929008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 01:53:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "神農路與龍德路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處排水溝遭樹葉阻塞致淹水，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/29 02:26 溝渠隊林漢宗先生回報：該處水溝淤積嚴重(非僅表面被枝葉堵住)，需\r\n由區隊處理，改派非網A-TB-2016-86246。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 01:55:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 06:44:46"
   },
   {
     "FileNo_": "INS160929007",
@@ -1803,20 +1803,20 @@
   },
   {
     "FileNo_": "INS160928362",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 07:15:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路46號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面堆積許多樹葉，致已有民眾滑倒情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 20:02 溝渠清潔隊林漢宗先生回報，該處樹枝落葉為颱風所致，因沿線範圍\r\n過大，其不影響通行且無危險性，惟因目前人手不足，需由早上區隊人員處理，故改派非網A-TB-\r\n2016-86061賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 07:22:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 06:44:03"
   },
   {
     "FileNo_": "INS160928361",
