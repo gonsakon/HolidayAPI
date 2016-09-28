@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160928190",
+    "FileNo_": "INS160928191",
     "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 12:35:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160928190",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 12:30:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明華路257號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處人行道上有路樹斷裂，卡在電線上，搖搖欲墜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 12:32:21",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:34:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926321",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 04:24:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路216號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前人行道磨石子路面有破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:32:14",
     "Close_Date_": ""
   }
 ]
