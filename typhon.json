@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160928089",
+    "FileNo_": "INS160928090",
     "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 09:06:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "高雄市永安區永達路22號之一",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "停電停非常久了 上次颱風也停非常久 希望可以快點修復 才方便清理家園",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160928089",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 上午 09:02:22",
     "ReplyUnit_": "A01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官區",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "網路不順",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 09:07:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 12:46:12",
     "Close_Date_": "2016/9/26 下午 05:08:56"
-  },
-  {
-    "FileNo_": "INS160926219",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 12:42:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "瓦厝街119巷26弄2之1號、及瓦厝街119巷26弄往前50公尺處",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該二處有一盞路燈故障不亮，並有一盞路燈傾斜，其表示該處這一帶路燈未修復，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 12:47:56",
-    "Close_Date_": ""
   }
 ]
