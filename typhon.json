@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929038",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:06:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路402號前至國道1號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口前後約4個路口號誌街故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929036",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 07:05:36",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160929035",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:03:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "新厝路101號至121號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處機車道有碎石子，並有山上沖刷的垃圾堆積於此，建請查處。",
+    "BeforeDesc_": "渠反映該處機車道有山上沖刷下的碎石子，並有山上沖刷下的垃圾堆積於排水溝，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 07:06:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:53:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927166",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/27 下午 01:46:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維四路上，近中山二路口(彰化銀行前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映現該處人行道矮樹叢上有路樹較粗大之斷枝，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 01:52:22",
     "Close_Date_": ""
   }
 ]
