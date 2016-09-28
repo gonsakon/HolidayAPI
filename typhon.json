@@ -239,19 +239,19 @@
   },
   {
     "FileNo_": "INS160928230",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 02:42:09",
     "ReplyUnit_": "E01005",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大吉路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "9月27日下午3:00停電至今尚未恢復",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 03:56:11",
     "Close_Date_": ""
   },
   {
