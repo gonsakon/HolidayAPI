@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928309",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 06:22:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "崇恩路63巷17號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928307",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 06:21:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 12:05:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926440",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 下午 11:51:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大寮去內坑里內坑路139-128旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "此路燈線從莫蘭蒂颱風線滑落路面，通報至今上未處理~麻煩儘速處理~",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 12:19:54",
     "Close_Date_": ""
   }
 ]
