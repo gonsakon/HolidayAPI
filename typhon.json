@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928418",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 10:12:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "西溪路上(中油林園廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處路段瀰漫由此業者排放石化異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928417",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 10:09:33",
@@ -1344,14 +1361,14 @@
   },
   {
     "FileNo_": "INS160928338",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 06:48:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國一路與正義路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:24:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927109",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 11:11:08",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳甲路475巷1號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址附近有停電情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:15:39",
     "Close_Date_": ""
   }
 ]
