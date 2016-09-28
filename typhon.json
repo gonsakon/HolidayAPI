@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160929009",
+    "FileNo_": "INS160929010",
     "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 02:04:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "高雄市岡山區協德街92號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "9/27(二)下午16:30左右，附近電箱爆掉，整條街停電，截至目前為止尚未復電，電力無法恢復水塔也無法運作，快要沒水了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929009",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 02:02:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐路123號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前有一約1米乘1米大之路面塌陷，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 02:04:39",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:03:07",
     "Close_Date_": "2016/9/27 下午 01:04:24"
-  },
-  {
-    "FileNo_": "INS160927139",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 12:39:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全一路與民族一路口,果菜市場前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈不正常搖晃,恐底座有鬆脫,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 12:43:03",
-    "Close_Date_": ""
   }
 ]
