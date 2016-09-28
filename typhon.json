@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928328",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 06:37:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路238號與武廟路251巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有碎玻璃之木架掉落於路面上，望請派員清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928327",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 06:36:30",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160928325",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 06:34:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "廣昌街182巷61弄16號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前路燈基座開關蓋遺失，造成電線外露，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 06:37:41",
     "Close_Date_": ""
   },
   {
@@ -2007,14 +2024,14 @@
   },
   {
     "FileNo_": "INS160928208",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 01:35:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "澄清路上(介於自由路至鳳山行政中心之間)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌疑似遭颱風損壞，致前後不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 07:09:46",
     "Close_Date_": "2016/9/27 下午 06:22:59"
-  },
-  {
-    "FileNo_": "INS160927019",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 上午 06:38:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路199巷(鼎中兒童公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該園區負責清掃婦人將公園落葉清掃至巷道上，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/27 09：14養工處四維養護工程隊三民養護分隊趙廣慶先生回報，人員至現場未發現反\r\n應之狀況，已通知清潔人員加強注意清潔，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 06:42:39",
-    "Close_Date_": "2016/9/27 下午 06:23:36"
   }
 ]
