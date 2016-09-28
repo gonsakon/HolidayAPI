@@ -2500,20 +2500,20 @@
   },
   {
     "FileNo_": "INS160928343",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:51:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中華二路與九如三路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障，目前閃黃燈，建請查處。",
     "AfterDesc_": "【主管解除管制】09/28 22:10 交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:53:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:40:26"
   },
   {
     "FileNo_": "INS160928342",
@@ -2534,20 +2534,20 @@
   },
   {
     "FileNo_": "INS160928341",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:50:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路與民族一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障，目前閃黃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 21:40 交通局智慧運輸中心蔡淑君小姐回覆：該處已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:53:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:40:47"
   },
   {
     "FileNo_": "INS160928340",
@@ -2585,20 +2585,20 @@
   },
   {
     "FileNo_": "INS160928338",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:48:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國一路與正義路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 22:10 交通局智慧運輸中心蔡淑君小姐回報，該處無危險性，惟因線路故\r\n障，已報修廠商處理，無法立即修復，故改派非網A-TB-2016-86156賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:49:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:40:17"
   },
   {
     "FileNo_": "INS160928337",
