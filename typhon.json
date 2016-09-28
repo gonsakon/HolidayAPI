@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928430",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 11:13:46",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "正德新村8-5號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "燕巢區正德新村一帶已從27號晚上8點前後，停電至今(28號晚上11點)，可否進行復電?",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928429",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 11:11:58",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS160928405",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 09:37:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山區正言街",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "岡山區正言街整條街路燈不亮",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:31:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927121",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 上午 11:27:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "三成街107號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈基座螺絲鬆脫，已有搖晃情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:30:55",
     "Close_Date_": ""
   }
 ]
