@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160928273",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 05:00:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "華山國小",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近傳出疑似工廠排放的廢氣意味致空污，建請查處。",
+    "BeforeDesc_": "渠反映該處附近傳出疑似工廠排放的廢氣異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 05:02:47",
     "Close_Date_": ""
   },
   {
