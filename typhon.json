@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929054",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:40:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929053",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 07:39:35",
@@ -3401,37 +3418,37 @@
   },
   {
     "FileNo_": "INS160928291",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:56:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與新庄仔路口(新庄仔路上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障，綠燈一下就變紅燈，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：該處係線路故障，無危險性，故\r\n將本案改派非網A-TB-2016-86111賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:57:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:42:31"
   },
   {
     "FileNo_": "INS160928289",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:50:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路580號(合作金庫前)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障，目前呈現閃黃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：該處係線路故障，無危險性，故\r\n將本案改派非網A-TB-2016-86108賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:51:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:42:45"
   },
   {
     "FileNo_": "INS160928288",
@@ -3469,20 +3486,20 @@
   },
   {
     "FileNo_": "INS160928286",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:45:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林四路上(光華路至中正路之間)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路段號誌燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：該處係台電問題需台電處理，故\r\n將本案改派非網A-TB-2016-86105賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:46:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:42:57"
   },
   {
     "FileNo_": "INS160928285",
@@ -3758,37 +3775,37 @@
   },
   {
     "FileNo_": "INS160928269",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 04:50:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢一路與民族二路口(往南方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈故障，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 22:10 交通局智慧運輸中心蔡淑君小姐回報，該處無危險性，惟因線路故\r\n障，已報修廠商處理，無法立即修復，故改派非網A-TB-2016-86155賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:52:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:43:11"
   },
   {
     "FileNo_": "INS160928268",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 04:47:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與逢甲路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：該處係線路故障，無危險性，故\r\n將本案改派非網A-TB-2016-86106賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:48:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:43:25"
   },
   {
     "FileNo_": "INS160928267",
@@ -3853,7 +3870,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，因該處車流量大，望可盡速辦理以免發生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:35:57",
     "Close_Date_": ""
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:30:08",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927183",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 02:17:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "鳥松區松埔北巷4-202號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "9月27下午1點左右，鳥松區松埔北巷4-202號附近全區停電",
-    "AfterDesc_": "鳥松區停電已通報INS160927189 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:41:00",
-    "Close_Date_": "2016/9/27 下午 02:41:48"
   }
 ]
