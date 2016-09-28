@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928145",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 10:51:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路靠近 新光三越",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有路樹傾倒，擋住車道，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928144",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 上午 10:46:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:07:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926277",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 03:03:51",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "經武路與建國路二段口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈電線垂落(有危險性)，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 18：27 交通局智慧運輸中心張寬如小姐回報，該處號誌燈已修復；本案不\r\n需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 03:04:46",
-    "Close_Date_": "2016/9/26 下午 07:19:03"
   }
 ]
