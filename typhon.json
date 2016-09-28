@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS160929018",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 04:48:08",
     "ReplyUnit_": "E01003",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "興龍路",
     "UnitName_": "自來水公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停水",
     "BeforeDesc_": "停水",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案為INS160929017重複入案之案件，故結案以該案辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 05:44:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 05:50:22"
   },
   {
     "FileNo_": "INS160929017",
