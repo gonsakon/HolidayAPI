@@ -630,19 +630,19 @@
   },
   {
     "FileNo_": "INS160928090",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 上午 09:06:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "高雄市永安區永達路22號之一",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電停非常久了 上次颱風也停非常久 希望可以快點修復 才方便清理家園",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 上午 10:03:20",
     "Close_Date_": ""
   },
   {
