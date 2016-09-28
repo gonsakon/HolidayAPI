@@ -3843,20 +3843,20 @@
   },
   {
     "FileNo_": "INS160928261",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 04:24:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "和昌街127號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址前有一不知從何飛來的纖維壓克力板掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 17:20 前鎮區清潔隊莊素雲小姐回報，已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:27:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:34:10"
   },
   {
     "FileNo_": "INS160928260",
