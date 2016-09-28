@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928429",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 11:11:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂陽路與桂園路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近空氣中有不明重油異味空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928428",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 11:11:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:30:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927120",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 上午 11:24:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路與和平一路口(中華電信大樓前方)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車道上有掉落一把椅子，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:26:18",
     "Close_Date_": ""
   }
 ]
