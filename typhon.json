@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160929028",
+    "FileNo_": "INS160929029",
     "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 06:40:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區瑞鳳街106號對面路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "路燈照明處彎曲變型",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929028",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 06:39:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "新生路與金福路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有許多坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 06:41:01",
     "Close_Date_": ""
   },
   {
@@ -137,20 +154,20 @@
   },
   {
     "FileNo_": "INS160929020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 05:26:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "康定路150巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有貓屍(白色袋裝)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 06:19前鎮區清潔隊黃秋英小姐回報，該處貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 05:29:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 06:44:20"
   },
   {
     "FileNo_": "INS160929019",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:38:03",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927160",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 01:32:40",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "華山街167巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "沒風沒雨又停電了",
-    "AfterDesc_": "鳳山區停電已通報INS160927188 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:39:08",
-    "Close_Date_": "2016/9/27 下午 02:39:31"
   }
 ]
