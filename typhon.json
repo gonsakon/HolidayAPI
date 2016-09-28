@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929009",
-    "Status_": "2",
+    "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 02:02:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐路123號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "建立中",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前有一約1米乘1米大之路面塌陷，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 02:04:39",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
