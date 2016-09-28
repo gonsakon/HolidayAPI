@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929051",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:31:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松信路22巷與松達路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處花圃旁有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929050",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 07:29:12",
@@ -715,20 +732,20 @@
   },
   {
     "FileNo_": "INS160929007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 01:18:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大智路與大埤路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈脫落，燈號垂掛在半空中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 02:14交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 01:26:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:34:31"
   },
   {
     "FileNo_": "INS160929006",
@@ -936,20 +953,20 @@
   },
   {
     "FileNo_": "INS160928433",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 11:25:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路與鎮海路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障全閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 02:14交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 11:26:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:34:41"
   },
   {
     "FileNo_": "INS160928432",
@@ -1089,20 +1106,20 @@
   },
   {
     "FileNo_": "INS160928424",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 10:56:20",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路與大順一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處雙向號誌燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/29 00:34 智慧運輸中心張寬如小姐回報：該處號誌正常，因尚待台電送電，改派\r\n非網A-TB-2016-86227。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 10:57:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:34:55"
   },
   {
     "FileNo_": "INS160928423",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:40:48",
     "Close_Date_": "2016/9/27 下午 02:41:32"
-  },
-  {
-    "FileNo_": "INS160927180",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 02:15:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "花園街10巷3號1樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處現有打牆的機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:18:40",
-    "Close_Date_": ""
   }
 ]
