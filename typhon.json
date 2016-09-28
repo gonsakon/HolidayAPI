@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929049",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:28:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "尖山里後荷巷往新興橋(台29線)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址電桿號:卑尾高分126分37位置，有路面崩塌且掏空情事，恐造成行車危險，望局處盡速派員修繕。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929048",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 07:26:44",
@@ -6036,20 +6053,20 @@
   },
   {
     "FileNo_": "INS160928130",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 上午 10:09:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義永路54巷11弄16號(晉天宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有許多樹枝與樹葉待清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 10:41三民東區清潔隊葉淑莉小姐回報，人員目前從覺民路開始清掃，預計下\r\n午會處理完成恐逾期故轉非網賡續處理。A-TB-2016-85606",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 10:16:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:30:02"
   },
   {
     "FileNo_": "INS160928129",
@@ -6104,20 +6121,20 @@
   },
   {
     "FileNo_": "INS160928126",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 上午 09:59:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路與重和路口(東南角位置)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處因颱風將鐵皮吹落至路上，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 10:24 左營區清潔隊祝立庭小姐回報，已處理完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 10:02:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:31:15"
   },
   {
     "FileNo_": "INS160928125",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:18:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927178",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 下午 02:06:46",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路130號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址從上午停電，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:20:34",
     "Close_Date_": ""
   }
 ]
