@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS160929017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 04:47:50",
     "ReplyUnit_": "E01003",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "興龍路",
     "UnitName_": "自來水公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停水",
     "BeforeDesc_": "停水",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於09/29 05:36 代通報自來水公司1910廖小姐，待處理完成再交由自來水公\r\n司與您回覆！倘您對本案處理有疑問可電洽1910，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 05:42:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 05:43:45"
   },
   {
     "FileNo_": "INS160929016",
