@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928162",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 11:17:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中寮二路2號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段沿線有土石坍方，致阻斷道路無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928161",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 上午 11:17:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:42:12",
     "Close_Date_": "2016/9/27 下午 05:24:16"
-  },
-  {
-    "FileNo_": "INS160926292",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 03:32:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "文前路上(澄清湖後門出來，往環湖路方向已過涼亭)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處右上方有一根大樹幹掉落壓在粗電線上，恐有危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 03:37:53",
-    "Close_Date_": ""
   }
 ]
