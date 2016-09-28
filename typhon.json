@@ -664,20 +664,20 @@
   },
   {
     "FileNo_": "INS160928063",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 上午 08:24:53",
     "ReplyUnit_": "A02000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "高雄市茄萣區信義路三段156巷2號門口",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "急迫危害立即排除",
     "BeforeDesc_": "隔壁無人住鐵皮整大片掉落卡在整個路口待移除 ，且疑似有鐵皮還會掉落 ，市民專線打不進去 ！現在茄萣停電 ，家人用line聯絡 ！",
-    "AfterDesc_": "",
+    "AfterDesc_": "9/27 09:27通報災害應變中心王小姐。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 09:26:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 上午 09:28:19"
   },
   {
     "FileNo_": "INS160928060",
