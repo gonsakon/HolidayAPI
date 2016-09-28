@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928263",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 04:29:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "807台灣高雄市三民區大豐二路339號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "路口四支號誌都故障",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928262",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 04:26:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 07:06:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926394",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 06:58:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋二路7巷28號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處稍早有修剪陸路並有壓斷路燈電線，造成2至3盞路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於9/27 15：13養工處四維養護工程隊九如養護分隊陳戊昌先生回報：該處已修復完畢；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 06:59:34",
-    "Close_Date_": "2016/9/27 下午 05:27:22"
   }
 ]
