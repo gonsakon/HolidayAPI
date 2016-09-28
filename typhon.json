@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS160928358",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 07:10:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "三爺里",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "路竹區三爺里全區停電中",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】感謝您的反映，此案件已轉呈人民陳情案件編號A-TB-2016-86020，待處理完成\r\n再交由台電與您回覆！",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 07:16:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 07:21:51"
   },
   {
     "FileNo_": "INS160928357",
