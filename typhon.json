@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160928186",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 12:20:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "光華路75巷與保舍甲路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有路樹倒塌，壓損台電線路，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 12:22:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928185",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 12:12:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:38:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926319",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 04:17:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "忠孝路二段67巷14號右前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:20:15",
     "Close_Date_": ""
   }
 ]
