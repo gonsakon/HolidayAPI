@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160929049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:28:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "尖山里後荷巷往新興橋(台29線)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址電桿號:卑尾高分126分37位置，有路面崩塌且掏空情事，恐造成行車危險，望局處盡速派員修繕。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 07:30:38",
     "Close_Date_": ""
   },
   {
@@ -7719,20 +7719,20 @@
   },
   {
     "FileNo_": "INS160928031",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 上午 06:58:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "澄觀路一段與鳳仁路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口水溝上有垃圾，惟恐再瞬間大雨，導致淹水，請查處。",
     "AfterDesc_": "【主管解除管制】09/28 09：35 仁武區清潔隊李建興先生回報，該處垃圾已清除完成，且積水已退\r\n去。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 07:08:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:32:27"
   },
   {
     "FileNo_": "INS160928030",
@@ -9521,20 +9521,20 @@
   },
   {
     "FileNo_": "INS160927220",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/27 下午 05:37:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學東路與大學52街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有許多垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/27 19：47 楠梓區清潔隊王麒源先生回報，該處經人員現場勘查未發現垃圾情\r\n事，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:39:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:32:53"
   },
   {
     "FileNo_": "INS160927219",
