@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929014",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 03:46:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中崙路近五甲一路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處路樹傾斜，影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929013",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 03:17:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:03:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927144",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 12:59:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路與中正路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有號誌燈快要掉落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 01:03:32",
     "Close_Date_": ""
   }
 ]
