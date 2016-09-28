@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928140",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 上午 10:37:42",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大埤路與忠誠路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928139",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 上午 10:36:32",
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS160928096",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/28 上午 09:13:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪五十路與高坪七路(運動公園轉角處)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處一藍色舊衣回收箱遭風吹傾倒衣物散落髒亂，因已多次希望局處可要求不要放置於此處風大的位置，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 03:06:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926272",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 下午 03:01:56",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊路2巷底",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一登山入口(好漢亭前)，有一橫跨路面的電線垂落半空，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 03:03:39",
     "Close_Date_": ""
   }
 ]
