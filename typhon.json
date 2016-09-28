@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS160928204",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 01:16:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "高雄市燕巢區橫山里興龍路一巷26弄2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "目前根本還沒有維修完，還是停電狀態，為什麼都這樣敷衍了事，前一次報修已經處理完成？什麼鬼東西，哪裡處理完成，還是在停電啊",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 01:23:11",
     "Close_Date_": ""
   },
   {
