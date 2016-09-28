@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929053",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:39:35",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路與鎮海路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929052",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:36:46",
@@ -2602,20 +2619,20 @@
   },
   {
     "FileNo_": "INS160928337",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:48:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山西路與建軍路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 21:40交通局智慧運輸中心蔡淑君小姐回覆：危險已排除，需請廠商維修，故\r\n將本案改派非網A-TB-2016-86130賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:49:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:41:39"
   },
   {
     "FileNo_": "INS160928336",
@@ -2704,20 +2721,20 @@
   },
   {
     "FileNo_": "INS160928331",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:39:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中安路與復華路(中安路上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌傾斜，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 21:40交通局智慧運輸中心蔡淑君小姐回覆：危險已排除，需請廠商維修，故\r\n將本案改派非網A-TB-2016-86132賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:41:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:41:53"
   },
   {
     "FileNo_": "INS160928330",
@@ -3095,20 +3112,20 @@
   },
   {
     "FileNo_": "INS160928308",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:19:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山西路與自由路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口中山西路方向號誌全不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 21:40交通局智慧運輸中心蔡淑君小姐回覆：該處係線路故障，故將本案改派\r\n非網A-TB-2016-86129賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:20:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:42:06"
   },
   {
     "FileNo_": "INS160928306",
@@ -3248,20 +3265,20 @@
   },
   {
     "FileNo_": "INS160928298",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 06:07:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋四路與瑞南街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈箱倒塌，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 21:40交通局智慧運輸中心蔡淑君小姐回覆：危險已排除，需請廠商維修，故\r\n將本案改派非網A-TB-2016-86133賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:12:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:42:19"
   },
   {
     "FileNo_": "INS160928297",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:41:00",
     "Close_Date_": "2016/9/27 下午 02:41:48"
-  },
-  {
-    "FileNo_": "INS160927182",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 下午 02:17:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十九路60巷57號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有停電情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 05:38:51",
-    "Close_Date_": ""
   }
 ]
