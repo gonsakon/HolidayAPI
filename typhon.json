@@ -85,6 +85,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160928387",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 08:43:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德南路上與仁雄路起至文前路澄清湖之後門收費點",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線路燈均故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 08:53:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928386",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 08:43:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 10:02:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927082",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 上午 10:01:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明誠三路與華榮路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處紅燈倒數秒數故障無法變換，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 10:02:23",
     "Close_Date_": ""
   }
 ]
