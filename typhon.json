@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS160928197",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 01:01:53",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "高雄市梓官區赤崁東路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "赤崁里已經停電將近20小時，請麻煩派人",
-    "AfterDesc_": "",
+    "AfterDesc_": "09/28 09:48通報災害應變中心吳小姐成功",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/9/28 下午 01:11:55",
+    "Close_Date_": "2016/9/28 下午 01:12:23"
   },
   {
     "FileNo_": "INS160928196",
