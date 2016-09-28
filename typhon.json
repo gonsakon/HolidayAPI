@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928230",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 02:42:09",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大吉路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "9月27日下午3:00停電至今尚未恢復",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928229",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 02:39:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 05:39:40",
     "Close_Date_": "2016/9/26 下午 07:27:22"
-  },
-  {
-    "FileNo_": "INS160926362",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 05:35:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路沿線岡山農工附近，往北方向",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處有紅綠號誌燈不連鎖，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於 09/26 19:27 交通局 智慧運輸中心 張寬如小姐回報，上述情事已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 05:38:16",
-    "Close_Date_": "2016/9/26 下午 07:29:16"
   }
 ]
