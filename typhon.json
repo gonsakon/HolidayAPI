@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS160928215",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 01:46:36",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "愛國路87巷3號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映昨日下大雨時，有貓隻闖入住家，目前躲在電風扇哩，望協助捕捉，建請查處。",
+    "BeforeDesc_": "渠反映昨日下大雨時，有貓隻闖入住家，目前躲在電風扇裡，望協助捕捉，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 01:50:53",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160928214",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 01:45:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路與大榮街口(由南往北左側)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處紅磚人行道上有落葉、枯枝及垃圾，建請清除。(麻煩人員收案後先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 01:51:33",
     "Close_Date_": ""
   },
   {
@@ -52,20 +69,20 @@
   },
   {
     "FileNo_": "INS160928211",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 01:41:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山路",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電已經21個小時了ㄔㄨㄥˊ",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案經查台電公司接獲民眾於105/09/27 23:00 通報之停電資訊，已立即派員趕赴現場\r\n處理，停電原因查證中。本公司為儘量縮短停電影響用戶時間，除儘速派員進行搶修，並將逐步縮小停電\r\n影響範圍，於搶修過程陸續恢復局部區間供電，並加速完成搶修至全面修復。相關處理情況將隨時更新，\r\n請稍後再次查詢；因停電造成您的諸多不便，台電公司謹表達十分歉意，尚請見諒。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 01:49:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 01:51:09"
   },
   {
     "FileNo_": "INS160928210",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 06:07:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926346",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 下午 04:53:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "太華路284號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址大樓住戶冷氣機滴水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:54:46",
     "Close_Date_": ""
   }
 ]
