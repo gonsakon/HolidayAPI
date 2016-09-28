@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160928372",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 07:43:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "1.中華三路與七賢二路口、2.中華三路與河南二路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該兩處路口號誌燈故障閃燈，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 07:47:37",
     "Close_Date_": ""
   },
   {
