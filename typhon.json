@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS160928276",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:03:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "伊犁街111號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈基座鐵蓋掉落，導致可看到內部線路，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/28 17:23養工處九如分隊胡建州先生回報已修復；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:04:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 05:23:53"
   },
   {
     "FileNo_": "INS160928275",
@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS160928274",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 05:01:05",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路556巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "楠梓路556巷這個區域非常容易停電，每次颱風必停電，風雨還沒到就先停電，復電後又馬上再停電，是否能請台電人員，協助此區穩定供電。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 05:24:15",
     "Close_Date_": ""
   },
   {
