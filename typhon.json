@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928368",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 07:35:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "1.文府路、2.文學路、3.華夏路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處3條路沿線路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928367",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 07:30:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 09:10:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927058",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 09:07:25",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "大舍南路61號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址處目前有無預警停電之情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 09:11:11",
     "Close_Date_": ""
   }
 ]
