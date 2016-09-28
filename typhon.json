@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928439",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 11:56:01",
+    "ReplyUnit_": "F01016",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "拷潭路180之2號",
+    "UnitName_": "大寮區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有暴雨積水約一個輪胎高，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928438",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 11:47:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 12:12:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927130",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/27 下午 12:07:10",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路與中鋼路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝蓋飛起恐發生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 12:09:30",
     "Close_Date_": ""
   }
 ]
