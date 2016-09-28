@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:31:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松信路22巷與松達路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處花圃旁有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 07:34:42",
     "Close_Date_": ""
   },
   {
@@ -222,14 +222,14 @@
   },
   {
     "FileNo_": "INS160929039",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 07:07:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自由路23號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址左前方路中間有一貓屍，請查處。",
     "AfterDesc_": "",
@@ -1616,20 +1616,20 @@
   },
   {
     "FileNo_": "INS160928394",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 08:58:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路與援中路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有四盞號誌燈皆故障不亮，建請查修。",
     "AfterDesc_": "【主管解除管制】9/29 00:34 智慧運輸中心張寬如小姐回報：該處號誌正常，因尚待台電送電，改派\r\n非網A-TB-2016-86223。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 09:00:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:36:32"
   },
   {
     "FileNo_": "INS160928393",
@@ -1803,20 +1803,20 @@
   },
   {
     "FileNo_": "INS160928383",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 08:29:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路上，近五福三路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映成功一路上，該路口附近的路口號誌皆是閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 22：34交通局智慧運輸中心蔡淑君小姐回報，上述路口號誌皆已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 08:30:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:36:50"
   },
   {
     "FileNo_": "INS160928382",
@@ -1871,20 +1871,20 @@
   },
   {
     "FileNo_": "INS160928379",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 08:11:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路至中華三路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路沿線數個路口號誌皆故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 22：34交通局智慧運輸中心蔡淑君小姐回報，上述路口號誌皆已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 08:13:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:36:01"
   },
   {
     "FileNo_": "INS160928378",
@@ -1939,20 +1939,20 @@
   },
   {
     "FileNo_": "INS160928375",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 07:51:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路與美術館路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/28 22:10 交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈已修復。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 07:52:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:37:26"
   },
   {
     "FileNo_": "INS160928374",
