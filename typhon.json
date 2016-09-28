@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928217",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 01:56:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "大順一路與南屏路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928216",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 01:55:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 05:05:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926348",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/26 下午 04:59:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路與輔仁路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映輔仁路的斑馬線上有疑似車禍殘留血漬，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 05:01:09",
     "Close_Date_": ""
   }
 ]
