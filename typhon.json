@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929008",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 01:53:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "神農路與龍德路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處排水溝遭樹葉阻塞致淹水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929007",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 01:18:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 12:45:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927138",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 12:34:04",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民生一路與民權一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口西側號誌燈嚴重搖晃，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 12:35:01",
     "Close_Date_": ""
   }
 ]
