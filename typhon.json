@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928436",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 11:41:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松華路與松和路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該些路段傳出不明化學異味，疑似柴油異味越來越重，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928434",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 11:38:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:55:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927126",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 上午 11:46:59",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳燕一街55巷51號前沿線",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處沿線臨時停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:51:31",
     "Close_Date_": ""
   }
 ]
