@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928267",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 04:42:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路260巷5號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處前一盞路燈的燈頭吊在半空中搖晃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928265",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 04:37:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 07:17:13",
     "Close_Date_": "2016/9/27 下午 05:27:38"
-  },
-  {
-    "FileNo_": "INS160926397",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 07:11:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁福里公館一巷34號(古嚴寺側門，大榕樹旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 07:13:56",
-    "Close_Date_": ""
   }
 ]
