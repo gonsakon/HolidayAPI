@@ -1582,20 +1582,20 @@
   },
   {
     "FileNo_": "INS160928396",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 09:05:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠中華路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "故障。重要路口只閃黃燈，不是紅綠燈",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/28 22:21通報交通局智慧運輸中心吳芳睿先生，其表示稍早亦有接獲通\r\n報，目前確認已修復，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 10:21:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 上午 07:36:20"
   },
   {
     "FileNo_": "INS160928395",
@@ -1626,7 +1626,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有四盞號誌燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/29 00:34 智慧運輸中心張寬如小姐回報：該處號誌正常，因尚待台電送電，改派\r\n非網A-TB-2016-86223。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 09:00:29",
     "Close_Date_": ""
