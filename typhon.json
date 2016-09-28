@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928434",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 11:38:30",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "復興路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "已經停兩天了。。完全沒有任何修復訊息",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928433",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 11:25:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 11:51:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927125",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 上午 11:43:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "金龍路上(大社分駐所對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園旁路邊電箱上，有一園樹斷枝卡在樹上，擔心斷肢掉落造成停電，建請移除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 11:44:38",
     "Close_Date_": ""
   }
 ]
