@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928392",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 08:53:09",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "高雄市路竹區中山路674號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "急迫危害立即排除",
+    "BeforeDesc_": "本人房屋後方他人土地上之大榕樹9/27颱風夜傾倒，該樹壓垮多人之鐵皮建築與車輛，並阻斷多戶民宅出入動線，目前大榕樹仍持續傾倒，為避免釀成人員傷亡，懇請市府派員協助儘速移除大樹。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928391",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 08:52:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 10:02:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927081",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 上午 09:58:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "崇德路與立大路口(城揚建設建案後方)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處建案發電機排煙管朝向住家排放濃厚柴油異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 09:59:37",
     "Close_Date_": ""
   }
 ]
