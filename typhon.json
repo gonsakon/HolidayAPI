@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929060",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 07:51:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學一街與藍田路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈有鹽柱傾斜情況，基座螺絲鬆脫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929059",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 07:49:41",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160929057",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 07:49:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路496巷10號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段路燈均故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 07:50:54",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 02:33:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927188",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/27 下午 02:30:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山路上(近安寧街)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有一電線桿疑似遭招牌砸到，致電線桿嚴重傾斜，且該區域目前停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 02:40:26",
     "Close_Date_": ""
   }
 ]
