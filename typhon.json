@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS160928274",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:01:05",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路556巷",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "楠梓路556巷這個區域非常容易停電，每次颱風必停電，風雨還沒到就先停電，復電後又馬上再停電，是否能請台電人員，協助此區穩定供電。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情人案件由A-TB-2016-85870台電辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:24:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 05:25:55"
   },
   {
     "FileNo_": "INS160928273",
