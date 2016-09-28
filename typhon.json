@@ -358,19 +358,19 @@
   },
   {
     "FileNo_": "INS160928259",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 04:21:30",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "停電超過20小時啦......",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "岡山區金興街超過20小時沒電能用了，請問哪時能派人來修好?",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 05:10:45",
     "Close_Date_": ""
   },
   {
