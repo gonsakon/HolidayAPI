@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928226",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 02:23:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建德路與建興路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該路口快車道上有一坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928225",
     "Status_": "1",
     "Cre_Date_": "2016/9/28 下午 02:19:36",
@@ -1353,7 +1370,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該紙錢路燈燈頭歪斜，建請查處。",
+    "BeforeDesc_": "渠反映該址前路燈燈頭歪斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 10:55:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 05:46:21",
     "Close_Date_": "2016/9/26 下午 05:50:54"
-  },
-  {
-    "FileNo_": "INS160926357",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 05:25:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "國昌里智昌街146號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 05:28:30",
-    "Close_Date_": ""
   }
 ]
