@@ -290,19 +290,19 @@
   },
   {
     "FileNo_": "INS160928262",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 04:26:38",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "永華路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "一直沒電來",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/28 下午 05:05:44",
     "Close_Date_": ""
   },
   {
