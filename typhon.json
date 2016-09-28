@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928197",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 01:01:53",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "高雄市梓官區赤崁東路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "赤崁里已經停電將近20小時，請麻煩派人",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928196",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 12:54:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:38:46",
     "Close_Date_": "2016/9/27 下午 05:32:02"
-  },
-  {
-    "FileNo_": "INS160926328",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/26 下午 04:36:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "文前路上，三亭攬勝前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一棵路樹折斷勾到電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:38:52",
-    "Close_Date_": ""
   }
 ]
