@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS160928281",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 05:14:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "彌陀區中正西路",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電20小時了，請派人維修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情人案件由A-TB-2016-85878台電辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:29:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/28 下午 05:32:30"
   },
   {
     "FileNo_": "INS160928280",
