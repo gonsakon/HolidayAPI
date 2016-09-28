@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160928200",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 01:07:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族陸橋(往北)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處下坡處路面有凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928198",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 01:07:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 04:49:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926331",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 下午 04:40:51",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路25之35號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線遭吊車勾到垂落，恐造成路人危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 04:44:50",
     "Close_Date_": ""
   }
 ]
