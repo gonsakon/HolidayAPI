@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS160929002",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 12:12:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "建業街41號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電停快兩天了...麻煩可以派人搶修嗎？",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 01:10:02",
     "Close_Date_": ""
   },
   {
