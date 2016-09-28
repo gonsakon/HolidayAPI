@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160928260",
+    "FileNo_": "INS160928261",
     "Status_": "1",
-    "Cre_Date_": "2016/9/28 下午 04:21:57",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "師大路上山路段",
-    "UnitName_": "警察局",
+    "Cre_Date_": "2016/9/28 下午 04:24:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和昌街127號",
+    "UnitName_": "環保局",
     "StatusName_": "建立中",
-    "InformDesc_": "交通疏導",
-    "BeforeDesc_": "沿路路樹倒塌 已經影響民眾騎車安全懇請前往處理 清除路上的障礙路樹",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址前有一不知從何飛來的纖維壓克力板掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160928260",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 04:21:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "師大路上山路段",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "沿路路樹倒塌 已經影響民眾騎車安全懇請前往處理 清除路上的障礙路樹",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 04:24:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 06:57:30",
     "Close_Date_": "2016/9/27 下午 05:28:38"
-  },
-  {
-    "FileNo_": "INS160926392",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/26 下午 06:53:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮港路7號(建銨國際有限公司)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處公司清洗化學櫃所散發濃厚化學異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/26 21：29 環保局環境稽查科南區股楊竣安先生回報，稽查人員於19：55到達，稽\r\n查時於上述地址周界巡查，未發現有化學異味逸散致空污情事，人員以PID設備檢測數據為0；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 06:58:06",
-    "Close_Date_": "2016/9/27 下午 05:28:59"
   }
 ]
