@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160928386",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/28 下午 08:43:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大埤路與忠誠路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/28 下午 08:49:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928385",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 08:39:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 上午 10:00:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927075",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/27 上午 09:49:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "山霸煙路上(與岡山區交界處，河堤旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該路段約四、五百公尺範圍有多棵路樹傾倒，已影響民眾行車，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 上午 10:08:05",
     "Close_Date_": ""
   }
 ]
