@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929026",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 06:07:13",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "大明路與新富路 (鳳新高級中學前)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929025",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 06:01:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 01:34:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927156",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 01:25:04",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "博愛一路與十全一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 01:25:58",
     "Close_Date_": ""
   }
 ]
