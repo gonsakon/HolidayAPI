@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160928216",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/28 下午 01:55:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160928215",
     "Status_": "2",
     "Cre_Date_": "2016/9/28 下午 01:46:36",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS160928187",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/28 下午 12:21:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "環河東街45號至49號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處前方有一盞路燈傾斜，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/26 下午 05:01:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160926347",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/26 下午 04:54:35",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "北汕尾巷18號至29號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一電線桿(桿號:高分造船8TS12C85)傾斜欲壓到住家，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/26 下午 06:07:49",
     "Close_Date_": ""
   }
 ]
