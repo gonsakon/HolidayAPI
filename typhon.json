@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929265",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:05:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路與華夏路(文學公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處園內公共廁所，目前未有裝設衛生紙，造成民眾無法使用，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:06:24",
     "Close_Date_": ""
   },
   {
@@ -2097,7 +2097,7 @@
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "和平二路靠近三多路(YMCA)",
+    "address_": "和平二路靠近三多二路(YMCA)",
     "UnitName_": "交通局",
     "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
