@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929714",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 10:25:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔路3巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段之路燈沿線共60盞故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929713",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 10:22:41",
@@ -375,20 +392,20 @@
   },
   {
     "FileNo_": "INS160929691",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 09:33:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "中泰街35號至泰昌街之間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段路面上有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/29 22:21 楠梓區清潔隊 彭永明先生回報，上述情事已清除完畢並致電陳情人\r\n 說明；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 09:35:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 下午 10:24:57"
   },
   {
     "FileNo_": "INS160929690",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 09:05:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929102",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 09:02:58",
-    "ReplyUnit_": "F01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "莒光路周界",
-    "UnitName_": "茄萣區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處魚塭目前有淹水情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 09:06:44",
     "Close_Date_": ""
   }
 ]
