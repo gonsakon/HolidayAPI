@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929212",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 11:18:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "鳳東路與義大路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路口路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929211",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 11:18:14",
@@ -7124,14 +7141,14 @@
   },
   {
     "FileNo_": "INS160928227",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/28 下午 02:31:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "保安二街136號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址前人行步道上，有一棵榕樹傾斜，恐有傾倒之虞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 07:46:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928048",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/28 上午 07:44:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "北昌街166號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈皆故障不亮，且控制箱未關，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 07:47:06",
     "Close_Date_": ""
   }
 ]
