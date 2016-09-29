@@ -1,36 +1,19 @@
 [
   {
-    "FileNo_": "INS160929643",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/29 下午 08:25:41",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "新田路與忠孝路交叉",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障，原三色運作變為閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160929642",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 08:24:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義華路(陽明國中)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處周界目前有飄散化學刺鼻異味，造成空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 08:26:25",
     "Close_Date_": ""
   },
   {
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 06:47:42",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929029",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/29 上午 06:40:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區瑞鳳街106號對面路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "路燈照明處彎曲變型",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 上午 07:23:30",
     "Close_Date_": ""
   }
 ]
