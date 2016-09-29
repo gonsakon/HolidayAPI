@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929681",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 09:14:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "體育路49號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該址店家前有一棵路樹傾倒，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929680",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 09:13:28",
@@ -3265,14 +3282,14 @@
   },
   {
     "FileNo_": "INS160929487",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 05:35:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁光路與仁雄路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈均故障閃爍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 08:13:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929068",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 08:06:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "和平一路與五福一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 08:08:16",
     "Close_Date_": ""
   }
 ]
