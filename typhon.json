@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929120",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 09:21:11",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金鼎路 大裕路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929118",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:16:17",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160929114",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:13:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路與光遠路口(黃埔公園)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈具傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 09:23:37",
     "Close_Date_": ""
   },
   {
@@ -91,11 +108,11 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "中山東路  鳳林",
+    "address_": "中山東與鳳林路口(黃埔公園外)",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:44:19",
     "Close_Date_": "2016/9/27 下午 07:45:17"
-  },
-  {
-    "FileNo_": "INS160927248",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 07:14:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "正德里",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "晚間6:50停電！鼓山區正德里",
-    "AfterDesc_": "9/27 19:07通報災害應變中心葉先生。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 07:45:56",
-    "Close_Date_": "2016/9/27 下午 07:46:29"
   }
 ]
