@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929725",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 10:41:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新庄仔路724號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929724",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 10:40:23",
@@ -2381,14 +2398,14 @@
   },
   {
     "FileNo_": "INS160929583",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/29 下午 07:23:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "右昌街143巷61號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該巷內沿線路燈均故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 09:26:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929111",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 09:12:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路393之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈燈罩脫落但可放亮，恐有危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 09:27:02",
     "Close_Date_": ""
   }
 ]
