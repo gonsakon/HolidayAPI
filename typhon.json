@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929271",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 01:12:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興西路(阿囉哈客運楠梓站附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處因風災有大量樹枝垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929270",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 01:12:17",
@@ -1378,14 +1395,14 @@
   },
   {
     "FileNo_": "INS160929184",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/29 上午 10:48:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林三路9之7號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "怠速",
     "BeforeDesc_": "渠反映該處有一銀色汽車(車牌: ZI-9655)怠速許久，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 09:31:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928101",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 上午 09:24:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "牛寮路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處道路旁路面塌陷，且土方掉落路面，導致無法通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 09:30:15",
     "Close_Date_": ""
   }
 ]
