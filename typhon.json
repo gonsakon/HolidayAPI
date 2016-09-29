@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929179",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 10:41:18",
+    "ReplyUnit_": "F01002",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "井腳產業道路",
+    "UnitName_": "鳥松區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處近中間路段上，路面有龜裂突起情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929178",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 10:41:11",
@@ -324,19 +341,19 @@
   },
   {
     "FileNo_": "INS160929159",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:59:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林路四段與鳳林一路82巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處人行道路樹傾倒至機車道，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 10:41:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 02:45:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928012",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 上午 02:42:41",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "高鐵路180號至190號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "暴雨積水(一)",
-    "BeforeDesc_": "渠反映該處目前已積水，疑似為蓮池潭曹公圳水閘門未開所致，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 02:44:30",
     "Close_Date_": ""
   }
 ]
