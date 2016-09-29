@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929558",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 06:55:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "察哈爾一街143巷、松江街221巷、博仁街2號至24號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該附近路燈全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929557",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 06:52:43",
@@ -30,7 +47,7 @@
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 06:55:27",
+    "Save_Date_": "2016/9/29 下午 06:55:56",
     "Close_Date_": ""
   },
   {
@@ -1786,14 +1803,14 @@
   },
   {
     "FileNo_": "INS160929453",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/29 下午 04:39:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中正路二段59巷51號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址斜對面有一盞路燈故障不亮，惟該處常有蛇出沒，建請儘速查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 08:40:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928384",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 08:37:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路46號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 08:39:07",
     "Close_Date_": ""
   }
 ]
