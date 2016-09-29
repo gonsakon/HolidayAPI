@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929657",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 08:41:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路與莊敬路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路口中央分隔島第一盞共桿路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929656",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 08:40:54",
@@ -184,6 +201,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929645",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 下午 08:36:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮昌街53巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷內第一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 下午 08:42:18",
     "Close_Date_": ""
   },
   {
@@ -2551,14 +2585,14 @@
   },
   {
     "FileNo_": "INS160929504",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 06:02:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路二段226巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
     "AfterDesc_": "",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 07:26:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929044",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 07:20:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "正義路與建國一路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌呈現閃燈，疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 07:22:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929043",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 上午 07:15:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "中正路與鳳仁路及工業二路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 09/29 11：51 交通局 智慧運輸中心 李品鋒先生回報：該處暫無危險，經查為控制器\r\n 故障所致，需報請廠商修繕處理，故改派非網：A-TB-2016-86611 賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 07:18:51",
-    "Close_Date_": "2016/9/29 下午 04:33:54"
   }
 ]
