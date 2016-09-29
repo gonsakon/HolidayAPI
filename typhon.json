@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929304",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 01:53:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明誠四路156號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒於人行道上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929297",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:52:37",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160929302",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:51:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "翠亨北路與草衙一路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處惟T字路口有兩號誌故障現紅燈及黃燈閃爍，表示平時就有人會闖紅燈，擔心會危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:53:30",
     "Close_Date_": ""
   },
   {
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS160929262",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/29 下午 12:53:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "漯底路61巷37弄16號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞附掛電桿之路燈，因颱風吹歪且目前發出短路聲響，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 10:16:38",
     "Close_Date_": "2016/9/29 上午 07:30:02"
-  },
-  {
-    "FileNo_": "INS160928129",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/28 上午 10:08:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林四路20之1號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址彩券行前方騎樓有一貓屍，已先用紙箱裝起，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/28 10:47大寮區清潔隊林永祥先生回報已處理完成；本案不需電覆故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 10:13:24",
-    "Close_Date_": "2016/9/28 上午 10:47:50"
   }
 ]
