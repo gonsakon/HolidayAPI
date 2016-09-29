@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929425",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 下午 04:15:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "擴建路與建基路",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 下午 04:16:59",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929423",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:13:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:14:49",
     "Close_Date_": "2016/9/28 下午 04:17:40"
-  },
-  {
-    "FileNo_": "INS160928251",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/28 下午 04:10:12",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "停電",
-    "UnitName_": "台電公司",
-    "StatusName_": "待處理",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電_楠梓區土庫一路181號昨天到今天停電超過19小時，復電後陸續又停了幾次，現又停電，何時可復電？",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 04:22:04",
-    "Close_Date_": ""
   }
 ]
