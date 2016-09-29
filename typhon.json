@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929158",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 09:57:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "中正南路10號到台17線間(東側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段LED燈已故障不亮，望請盡速修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929152",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:56:37",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160929157",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:56:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "西藏街177號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有木板、樹枝及燈罩碎片堆積，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 09:57:13",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160929155",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 09:55:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "保生路298巷與保生路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有一電線垂落，且號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 上午 09:57:07",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 12:36:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003002",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/27 下午 11:12:29",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓區清豐路全線",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電10小時了",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 12:45:06",
     "Close_Date_": ""
   }
 ]
