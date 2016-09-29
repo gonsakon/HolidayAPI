@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929272",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:20:24",
     "ReplyUnit_": "F01008",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "鞍平巷8號",
     "UnitName_": "燕巢區公所",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該址前有土石崩塌,造成巷道無法出入,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:22:40",
     "Close_Date_": ""
   },
   {
@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS160929264",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:01:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山區中山北路果菜批發市場",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "岡山鎮果菜批發市場屋頂被樹枝插破",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:20:31",
     "Close_Date_": ""
   },
   {
