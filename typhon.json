@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160930048",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 07:28:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路639號19樓",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處冷氣滴水，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 07:30:08",
     "Close_Date_": ""
   },
   {
@@ -7804,37 +7804,37 @@
   },
   {
     "FileNo_": "INS160929338",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 02:27:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路上(與大中一路交叉、萊爾富前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有一壓克力板，望請清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 15：17 三民東區清潔隊曾美華小姐回報，該處經查看無立即危險性亦未影響\r\n交通，惟因區隊人力與車輛目前進行風災後市容恢復工作，後續會儘速派員前往清理，故轉派非網：\r\nA-TB-2016-86827。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 02:30:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:32:39"
   },
   {
     "FileNo_": "INS160929337",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 02:27:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路751巷38弄32號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一廢棄木櫃，望請局處派員清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 15：17 三民東區清潔隊曾美華小姐回報，該處經查看無立即危險性亦未影響\r\n交通，惟因區隊人力與車輛目前進行風災後市容恢復工作，後續會儘速派員前往清理，故轉派非網：\r\nA-TB-2016-86824。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 02:30:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:32:55"
   },
   {
     "FileNo_": "INS160929336",
