@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929226",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 11:36:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "協和街20號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一坑洞，且有掏空情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929225",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 11:32:34",
@@ -8348,14 +8365,14 @@
   },
   {
     "FileNo_": "INS160928169",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/28 上午 11:29:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路64巷35號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處前道路旁一棵榕樹，有5至6根斷枝卡在樹上，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 08:26:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928061",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 上午 08:21:26",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順三路(介於憲政路、建國一路、中正一路)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "重要道路 號誌 壞了 很危險",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 09:24:11",
     "Close_Date_": ""
   }
 ]
