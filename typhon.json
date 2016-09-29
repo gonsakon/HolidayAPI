@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929080",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 08:27:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "皓東路9巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊遭堆放垃圾及樹枝，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929079",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 08:27:40",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 04:40:54",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927210",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 04:37:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "仁義路(勵志新城)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "大約16:25左右電桶爆炸閃光後即停電",
-    "AfterDesc_": "岡山區停電已通報INS160927113 台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 05:44:05",
-    "Close_Date_": "2016/9/27 下午 05:44:22"
   }
 ]
