@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930048",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 07:28:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路639號19樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處冷氣滴水，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930047",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 07:23:58",
@@ -7124,20 +7141,20 @@
   },
   {
     "FileNo_": "INS160929376",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 03:15:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "壽山公園,忠義路(忠烈祠旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處排水溝皆因樹枝等垃圾阻塞無法流通,造成水皆溢流到路面,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 15:30 鼓山區清潔隊許瓊文小姐回報，該處無危險性，目前以市區道路作業\r\n為主，需再安排時間清疏，故改派非網A-TB-2016-86826賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 03:17:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:31:25"
   },
   {
     "FileNo_": "INS160929377",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 11:00:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929191",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 10:57:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九曲路129號旁(橘7A站牌旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 10:59:48",
     "Close_Date_": ""
   }
 ]
