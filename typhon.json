@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930027",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 03:12:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪六十二街上近高坪三十七路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈燈頭斷裂不見(編號018103)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930026",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 02:52:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 10:27:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929169",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 10:21:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東五路與中華一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路口有一路樹傾倒於慢車道上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 10:23:08",
     "Close_Date_": ""
   }
 ]
