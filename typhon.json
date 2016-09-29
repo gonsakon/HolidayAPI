@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929576",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 07:15:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋新二路與新東一街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929575",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 07:12:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 09:35:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928402",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 09:17:15",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "茄萣區全區",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "整個高雄市茄萣區無一悻免又擱再次大停電?(`?’)?邁入第二天還是佔整個高雄市各區第一名，而且是高雄市整個停電戶數超過1/5都在茄萣區。“曾經停電數”與“目前停電數”根本就是無動于終",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 09:57:52",
     "Close_Date_": ""
   }
 ]
