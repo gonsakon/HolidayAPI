@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929680",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 09:13:28",
+    "ReplyUnit_": "",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "翠屏里大吉路16巷39號",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "水壓太低，無法送水至4F水塔，水塔已經空了",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929679",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 09:12:18",
@@ -3044,14 +3061,14 @@
   },
   {
     "FileNo_": "INS160929499",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 05:48:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山西路與建軍路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口已號誌閃燈故障一整天，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 08:08:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929067",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 08:02:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "裕興路117號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前有大量路樹樹枝堆放，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 08:04:00",
     "Close_Date_": ""
   }
 ]
