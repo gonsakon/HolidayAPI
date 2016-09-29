@@ -817,19 +817,19 @@
   },
   {
     "FileNo_": "INS160929224",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 11:31:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "赤崁東路315巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "梅姬台颱風登陸就斷電至今尚未供電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:22:22",
     "Close_Date_": ""
   },
   {
