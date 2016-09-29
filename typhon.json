@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160929446",
+    "FileNo_": "INS160929450",
     "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 04:37:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "成功一路237巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷口第一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929446",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:35:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠四路256號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前傾倒路樹已先協助移至路旁，建請移除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 04:36:53",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:24:15",
     "Close_Date_": "2016/9/28 下午 05:25:55"
-  },
-  {
-    "FileNo_": "INS160928273",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 05:00:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "華山國小",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近傳出疑似工廠排放的廢氣異味致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 05:02:47",
-    "Close_Date_": ""
   }
 ]
