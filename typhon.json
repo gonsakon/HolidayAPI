@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929432",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 04:21:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大昌街(金座大樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址大樓發電機噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929429",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:19:15",
@@ -1446,14 +1463,14 @@
   },
   {
     "FileNo_": "INS160929341",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 02:28:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "翠亨北路391號與393號間",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前有一路樹傾倒一半，影響住戶進出，建請派員扶正處理。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 04:24:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928256",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 04:15:03",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎強街418號1、2樓",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映現該址有汙水管阻塞滿溢之情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 04:24:33",
     "Close_Date_": ""
   }
 ]
