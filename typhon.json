@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160929252",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 12:29:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青海路143號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路樹傾倒後已自行切割，每段樹幹大小皆為人力可搬運，望協助清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 12:30:40",
     "Close_Date_": ""
   },
   {
@@ -4591,20 +4591,20 @@
   },
   {
     "FileNo_": "INS160928414",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/28 下午 09:55:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松山里高松路1號之1至5號之5",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處堆積許多樹葉，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/29 12：25電覆陳情人未果，故於09/29 12：29簡訊回覆：梁小姐您好，您9月28日\r\n所反映堆積樹葉問題，已交由本府環保局賡續辦理，案件編號：A-TB-2016-86173，待處理完成再向您回覆，倘\r\n您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 09:59:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 下午 12:32:49"
   },
   {
     "FileNo_": "INS160928413",
