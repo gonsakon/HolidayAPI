@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS160930001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/30 上午 12:02:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自治街上(自治公園兒童遊戲區外)，近自治街65巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處黃網格上遭堆放廢棄家具、樹葉、垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/30 00：42 溝渠隊莊斯宇先生回報，現場並未有影響交通，因數量龐大需派車清\r\n運，須由該區清潔隊處理，故轉派非網A-TB-2016-87208賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 12:11:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:45:51"
   },
   {
     "FileNo_": "INS160929753",
@@ -7260,20 +7260,20 @@
   },
   {
     "FileNo_": "INS160929378",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 03:16:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "西汕路219號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有鐵片掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】9/29 16：13 林園區清潔隊黃敏龍先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 03:18:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:45:01"
   },
   {
     "FileNo_": "INS160929376",
@@ -7634,20 +7634,20 @@
   },
   {
     "FileNo_": "INS160929352",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 02:50:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "北仁街與鳳仁路110巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭任意棄置8包黑色垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 16：11 鳳山區清潔隊楊孟珍小姐回報，該處皆已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 02:56:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 07:46:11"
   },
   {
     "FileNo_": "INS160929351",
