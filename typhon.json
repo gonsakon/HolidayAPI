@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929569",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 07:09:39",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "海專路（海洋科技大學大門口）旁號誌",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "燈號號誌旁讀秒號誌箱體已翻開多日，因位處行人等候過馬路之人行道下方，覺得存在危險。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929568",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 07:08:15",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160929567",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 07:07:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "崙頂路64號旁巷子進入後第一個小十字路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 07:09:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 10:41:11",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928394",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/28 下午 08:58:10",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路與援中路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有四盞號誌燈皆故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】9/29 00:34 智慧運輸中心張寬如小姐回報：該處號誌正常，因尚待台電送電，改派\r\n非網A-TB-2016-86223。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 09:00:29",
-    "Close_Date_": "2016/9/29 上午 07:36:32"
   }
 ]
