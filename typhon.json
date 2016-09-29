@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929122",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 09:22:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "海專路與加昌路口(和平陸橋下)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路上有淤泥，已有民眾滑倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929119",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 09:21:21",
@@ -129,7 +146,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈燈罩脫落但可放亮，恐有危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -159,11 +176,11 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "工協街工協市場   海軍明德訓練班   圍牆旁",
+    "address_": "工協街工協市場，海軍明德訓練班圍牆旁",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 07:49:28",
     "Close_Date_": "2016/9/27 下午 07:51:41"
-  },
-  {
-    "FileNo_": "INS160927249",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 07:19:16",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "高雄市彌陀區南寮里復興街2巷21號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "整個社區停電",
-    "AfterDesc_": "9/27 19:07通報災害應變中心(8224567)葉先生",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 07:44:19",
-    "Close_Date_": "2016/9/27 下午 07:45:17"
   }
 ]
