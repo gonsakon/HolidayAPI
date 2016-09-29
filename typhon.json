@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930046",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 07:19:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄觀路一段(近仁林路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面沿線皆是泥沙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930045",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 上午 07:18:29",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160930041",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 07:12:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路往北未過大昌一路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處機車道號誌低垂，無法辨識，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 07:19:44",
     "Close_Date_": ""
   },
   {
@@ -154,19 +171,19 @@
   },
   {
     "FileNo_": "INS160930036",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 07:03:33",
     "ReplyUnit_": "A01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
-    "address_": "",
+    "address_": "新庄路1之4號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處十米寬路面遭鐵工廠私挖進行埋管工程，後續僅將埋管處回填，留下現場穿越馬路施挖後柏油未修補並未設交維，致民眾跌傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 07:19:15",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 11:03:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929189",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 上午 10:50:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "三民路529號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前有一具貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 11:08:49",
     "Close_Date_": ""
   }
 ]
