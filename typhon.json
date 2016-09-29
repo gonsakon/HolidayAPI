@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929270",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 01:12:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路與大春街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處「大春街」路牌有",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929268",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 01:10:32",
@@ -596,19 +613,19 @@
   },
   {
     "FileNo_": "INS160929232",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 11:48:47",
-    "ReplyUnit_": "A03000",
+    "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳屏一路509號",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "上次颱風慈惠醫院前人行道路樹倒後，雖有鋸斷，但大量樹枝堆放至今仍未清除，造成人行不便與民眾於該處任意丟棄垃圾製造髒亂，請協助清除",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 01:11:53",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 09:30:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928100",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 上午 09:22:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術南五街192號前(美術南二路口)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一棵路樹傾倒，機車道與汽車道皆不能通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 09:24:32",
     "Close_Date_": ""
   }
 ]
