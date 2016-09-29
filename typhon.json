@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929744",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 下午 11:34:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠路126巷120號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址4樓以上有住戶冷氣滴水，建請會同。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 下午 11:36:45",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929743",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 11:31:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 09:41:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929133",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 09:39:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "仁山巷3號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈燈泡掉落，建請查處。(要求人員前往時與其聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 09:41:54",
     "Close_Date_": ""
   }
 ]
