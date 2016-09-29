@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929465",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 04:51:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路292之7號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929464",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:50:20",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS160929439",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 04:26:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "光興街233巷32號、34號間",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有路面坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:57:01",
     "Close_Date_": "2016/9/29 上午 07:42:31"
-  },
-  {
-    "FileNo_": "INS160928289",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/28 下午 05:50:14",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路580號(合作金庫前)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障，目前呈現閃黃燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】9/28 21:18交通局智慧運輸中心蔡淑君小姐回覆：該處係線路故障，無危險性，故\r\n將本案改派非網A-TB-2016-86108賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 05:51:23",
-    "Close_Date_": "2016/9/29 上午 07:42:45"
   }
 ]
