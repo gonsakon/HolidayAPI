@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930056",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 07:44:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930055",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 07:36:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 11:07:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929199",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 11:04:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "沿海路(海墘路往小港方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段機車道沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 11:10:28",
     "Close_Date_": ""
   }
 ]
