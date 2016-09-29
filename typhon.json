@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929607",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 07:42:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中正路二段(建國街至湖中路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段路燈皆不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929605",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 07:39:57",
@@ -188,19 +205,19 @@
   },
   {
     "FileNo_": "INS160929594",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 07:31:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "維新路上(與維新路光明三巷、七巷、新華路口)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "三路口號誌故障不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 07:42:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 11:26:40",
     "Close_Date_": "2016/9/29 上午 07:34:41"
-  },
-  {
-    "FileNo_": "INS160928432",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/28 下午 11:24:25",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "夢裡里育德一街36號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待處理",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一電線桿之電線有爆炸聲響，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 11:32:17",
-    "Close_Date_": ""
   }
 ]
