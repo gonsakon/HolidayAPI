@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929185",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 上午 10:49:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "延慶街128號至130號，對面快車道",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有坑洞，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 上午 10:58:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929184",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 10:48:11",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS160929137",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/29 上午 09:42:53",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路685巷底至文藻外語大學(愛河K支線)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處沿線路燈未熄，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 05:23:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928023",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/28 上午 04:51:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "常興街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段路燈沿線多盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 04:52:34",
     "Close_Date_": ""
   }
 ]
