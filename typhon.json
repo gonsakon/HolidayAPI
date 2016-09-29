@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930031",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 04:54:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德富街286巷87號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處2路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930030",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 04:22:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 10:35:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929174",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 10:26:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "後庄里大漢路412號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有三盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 10:31:00",
     "Close_Date_": ""
   }
 ]
