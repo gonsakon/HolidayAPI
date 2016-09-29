@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929258",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 12:37:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山路與河華路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該路口岡山路巷牌傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929257",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 12:36:36",
@@ -3180,14 +3197,14 @@
   },
   {
     "FileNo_": "INS160929065",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 08:00:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大智路與大仁北路交叉口(鳥松國小旁邊)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 10:03:20",
     "Close_Date_": "2016/9/28 上午 10:04:18"
-  },
-  {
-    "FileNo_": "INS160928089",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/28 上午 09:02:22",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "梓官區",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "網路不順",
-    "AfterDesc_": "感謝您的反映，此案件已於9/28 09:06致電陳情人，如手機網路問題請直接電洽電信業者 ，倘您對本\r\n案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 09:07:24",
-    "Close_Date_": "2016/9/28 上午 09:10:34"
   }
 ]
