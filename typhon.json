@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929469",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 04:57:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929468",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:52:52",
@@ -4880,14 +4897,14 @@
   },
   {
     "FileNo_": "INS160929168",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 10:20:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡燕路616號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹斷枝垂落至汽車外車道，使汽車行經該處會打破後照鏡及玻璃，造成危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 06:03:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928292",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 06:00:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與崇德路口(大魯閣)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家目前有瀰漫濃厚刺鼻異味空污，造成民眾皆有不適情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 06:02:16",
     "Close_Date_": ""
   }
 ]
