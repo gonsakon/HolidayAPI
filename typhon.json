@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929566",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 07:06:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "商港街14巷52弄17號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929565",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 下午 07:05:50",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160929564",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 07:05:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "北平二街8巷47號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/29 下午 07:06:54",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 10:25:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928391",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/28 下午 08:52:26",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高雄市楠梓區惠民路233巷8號10樓",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "楠加洲社區，停電從9/27晚11:00至9/28晚8:50，未有預計復電時間。請處置，並通知警衛人員07-3608558。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 09:08:07",
     "Close_Date_": ""
   }
 ]
