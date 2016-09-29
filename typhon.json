@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929085",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 08:33:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路945號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929084",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 08:31:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:21:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160927215",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 05:18:57",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "文安路北二巷7-2號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "從9/27日12點停電至今",
-    "AfterDesc_": "彌陀區停電已通報INS160927011台電搶修中，倘若有疑義亦可撥打1911台電客服詢問。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 05:51:13",
-    "Close_Date_": "2016/9/27 下午 05:51:52"
   }
 ]
