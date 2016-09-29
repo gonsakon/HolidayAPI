@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929464",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 下午 04:50:20",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "翠亨南路與金福路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處南北向號誌不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 下午 04:50:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929462",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 04:48:14",
@@ -1701,14 +1718,14 @@
   },
   {
     "FileNo_": "INS160929358",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 02:53:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路161之1號(翔裕發電機旁巷子底)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有燃燒不明物品，飄散塑膠及化學空污異味，建請查處。",
     "AfterDesc_": "",
@@ -5356,20 +5373,20 @@
   },
   {
     "FileNo_": "INS160929136",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 09:42:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中華地下道(北往南方向、機車道上)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處機車道上方會漏水，造成路面濕滑，建請查修。",
     "AfterDesc_": "【主管解除管制】本案於 09/29 11：40 養工處 四維養護工程隊 三民分隊 趙廣慶先生回報，現場路況正常，\r\n 惟地下道滲水係屬鐵路地下化工區範圍所致，故另以非本府權管案件代為反映；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 09:43:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 下午 04:48:47"
   },
   {
     "FileNo_": "INS160929135",
@@ -6801,20 +6818,20 @@
   },
   {
     "FileNo_": "INS160929050",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 上午 07:29:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路近國軒路61巷巷口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處快車道上有一凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/29 14：15 養工處 岡山養護工程隊 盧冠諭小姐回報，該處已修補完成；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 07:37:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/29 下午 04:50:18"
   },
   {
     "FileNo_": "INS160929049",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 下午 05:51:23",
     "Close_Date_": "2016/9/29 上午 07:42:45"
-  },
-  {
-    "FileNo_": "INS160928288",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/28 下午 05:47:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮興路60巷110號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 下午 05:48:26",
-    "Close_Date_": ""
   }
 ]
