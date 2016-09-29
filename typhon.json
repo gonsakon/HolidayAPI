@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160929213",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/29 上午 11:19:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重和路51巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷餒有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 上午 11:22:08",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929212",
     "Status_": "1",
     "Cre_Date_": "2016/9/29 上午 11:18:45",
@@ -2330,14 +2347,14 @@
   },
   {
     "FileNo_": "INS160929075",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 08:21:30",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "慶雲街126號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一污水蓋遺失,已先用布覆蓋,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/28 上午 08:04:05",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160928051",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/28 上午 07:59:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "哨船街上，雄鎮北門旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處掉落一塊鐵皮，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/28 09:45鼓山區清潔隊沈致中隊長回報，經查非僅有鐵皮，而是連同鋼架掉落於\r\n路面，影響單線通行，惟無法移開，區隊也無切割器處理，故於09:47轉通報災害應變中心黃小姐成\r\n功。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/28 上午 08:11:17",
-    "Close_Date_": "2016/9/29 上午 07:32:15"
   }
 ]
