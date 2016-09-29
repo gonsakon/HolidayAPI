@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929077",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 08:21:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華三路上與建國三路(中華地下道)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該機車地下道有許多落葉，已多輛機車於此摔車，已造成危險，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929075",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 上午 08:21:30",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 08:23:02",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929076",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 上午 08:20:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢三路272號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒於車輛上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -494,14 +528,14 @@
   },
   {
     "FileNo_": "INS160929046",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 上午 07:26:06",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區苓中路153號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "從昨天晚上11點半至今未來電",
     "AfterDesc_": "",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/27 下午 05:40:08",
     "Close_Date_": "2016/9/27 下午 05:41:28"
-  },
-  {
-    "FileNo_": "INS160927207",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/27 下午 04:28:17",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "建業街39號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "從中午停電停到現在...麻煩可以派人搶休ㄧ下嗎",
-    "AfterDesc_": "09/27 16:07 通報災害應變中心劉小姐成功。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 05:55:04",
-    "Close_Date_": "2016/9/27 下午 05:55:36"
-  },
-  {
-    "FileNo_": "INS160927205",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/27 下午 04:18:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "六合二路(介於自立二路與瑞源路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映現該區段間有兩棵路樹傾倒在道路上影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/27 下午 04:23:28",
-    "Close_Date_": ""
   }
 ]
