@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160929724",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/29 下午 10:40:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "三山街153巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "路燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160929723",
     "Status_": "2",
     "Cre_Date_": "2016/9/29 下午 10:36:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 09:27:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929110",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 09:12:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳松路178之5號 (中油直營店)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前方有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 09:27:21",
     "Close_Date_": ""
   }
 ]
