@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930639",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 09:54:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中正路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路上路燈全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930637",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 09:51:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 03:45:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930028",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 03:29:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎強街與天祥一路口(文藻大學附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫化學異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 03:31:15",
     "Close_Date_": ""
   }
 ]
