@@ -1088,6 +1088,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160930368",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/30 下午 03:13:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文慈路142巷",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址巷口有很多垃圾被堆置在此及廢棄物，建請清除。(靠近文慈路巷口)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 03:14:18",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930369",
     "Status_": "4",
     "Cre_Date_": "2016/9/30 下午 03:13:05",
@@ -1102,23 +1119,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:18:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930368",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 03:13:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文慈路142巷",
-    "UnitName_": "環保局",
-    "StatusName_": "待處理",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址巷口有很多垃圾被堆置在此及廢棄物，建請清除。(靠近文慈路巷口)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:14:18",
     "Close_Date_": ""
   },
   {
