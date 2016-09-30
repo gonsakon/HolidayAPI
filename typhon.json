@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160930535",
+    "FileNo_": "INS160930536",
     "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 07:04:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "頭林巷5號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址住家前有一盞路燈故障不亮多日，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930535",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:03:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "十全一路與大連街交叉口(三民公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處公園內有2盞園燈03789、03790故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 07:04:31",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 09:15:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929680",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 09:13:28",
-    "ReplyUnit_": "E01003",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "翠屏里大吉路16巷39號",
-    "UnitName_": "自來水公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "檢修管線",
-    "BeforeDesc_": "水壓太低，無法送水至4F水塔，水塔已經空了",
-    "AfterDesc_": "【主管解除管制】本案於 09/29 21：48 於簡訊回覆：蘇先生您好，您於9月29日反映大社區翠屏里水壓過低\r\n 問題，已轉呈人民陳情案件：A-TB-2016-87143 委由自來水公司持續辦理，待處理完成，將由承辦單位再\r\n 向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 09:37:01",
-    "Close_Date_": "2016/9/29 下午 09:48:31"
   }
 ]
