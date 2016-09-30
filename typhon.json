@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930571",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 07:57:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路與夢裡路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口五個號誌皆未有運作，建請儘速查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930570",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:53:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 10:34:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929715",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 10:27:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重愛路、高鐵路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 10:30:28",
     "Close_Date_": ""
   }
 ]
