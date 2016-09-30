@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160930551",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:23:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路與仁雄路口(美術燈具店前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一路燈線路垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 07:24:52",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160930549",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:22:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "萬客隆百貨後方立德路，於立德路平行之產業道路上",
+    "address_": "萬客隆百貨後方的立德路，位於立德路平行之產業道路上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹即將傾倒，已壓到台電線路，建請查處。",
+    "BeforeDesc_": "渠反映該處有一路樹即將傾倒，已碰觸到台電之線路，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 07:25:00",
     "Close_Date_": ""
   },
   {
