@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS160930490",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 06:10:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄湖路、澄湖路208巷3號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路燈已三、四天故障不亮，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 06:19:50",
     "Close_Date_": ""
   },
   {
