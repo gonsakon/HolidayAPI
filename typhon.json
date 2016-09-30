@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930132",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 09:22:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "裕興路117號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "人行道及路面 樹枝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930125",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 上午 09:20:33",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS160930129",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 09:19:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "1.頂潭路50號旁 2.頂潭路75號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈持續放亮，建請查處。",
+    "BeforeDesc_": "渠反映該處各有一盞路燈持續放亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 09:22:24",
     "Close_Date_": ""
   },
   {
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS160930126",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 09:18:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "頂潭路與頂潭北路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處附掛台電桿上路燈(編號;岡石高幹37號、41號、42號及43號)共4盞持續放亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 09:21:58",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 01:57:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929281",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 01:28:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與葆禎路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 01:29:19",
     "Close_Date_": ""
   }
 ]
