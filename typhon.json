@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930278",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 12:14:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路水管路17巷88號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該址前路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930277",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 12:13:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:20:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929427",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 04:17:45",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "立民路與立安路口(公園)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻受困於樹上，建請救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:19:32",
     "Close_Date_": ""
   }
 ]
