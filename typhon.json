@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS160930286",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 12:32:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠陽路180巷18號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該址有二盞路燈故障白天未熄，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 12:34:47",
     "Close_Date_": ""
   },
   {
