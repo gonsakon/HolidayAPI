@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160930669",
+    "FileNo_": "INS160930670",
     "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 10:52:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐一路與大裕路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處瀰漫燃燒廢棄物異味致空汙情事，且應為中區焚化爐排放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930669",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 10:49:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗甲路二段(台糖加油站前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面有一大坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 10:52:05",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 07:58:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930060",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 07:51:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳林四路與鳳東路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映近日該處路口號誌與前後不連鎖，疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 07:53:46",
     "Close_Date_": ""
   }
 ]
