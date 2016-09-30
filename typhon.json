@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS160930293",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/30 下午 12:44:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路與大中二路口(博愛三路上)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 12:44:40",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930292",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 12:42:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉華路 (國一號道下涵洞致高鐵下涵洞)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 12:44:35",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:33:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929442",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 04:30:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "月光山隧道往杉林方向；高壓電工作室旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面隆起有30、40公分高，且土石有裸露，疑似是順向坡導致，恐有崩塌情事，表示望設置警示牌，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:33:19",
     "Close_Date_": ""
   }
 ]
