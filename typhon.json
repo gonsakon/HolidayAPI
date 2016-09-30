@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930387",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 03:37:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "北平路49號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一路面下陷，致有一貨車車輪深陷，建請盡速前往查修。(員警仍於現場戒護)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930386",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 03:35:27",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160930385",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 03:34:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳松路69號(大立眼科)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前方人行道與柏油路面交接處有高低不平情形，已造成民眾行經跌倒，建請會同勘查。(陳情人要求會同勘查)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 03:39:50",
     "Close_Date_": ""
   },
   {
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS160930364",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/30 下午 02:59:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "埤北里舊城巷19號、埤北里舊城巷71號、埤北里舊城巷74號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址共有三盞路燈不亮，建請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 06:35:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929536",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 06:32:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路57巷13號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前巷內有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 06:33:36",
     "Close_Date_": ""
   }
 ]
