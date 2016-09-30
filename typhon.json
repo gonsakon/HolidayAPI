@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930307",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 01:10:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "松藝路(介於漆彈場與圓山飯店)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面佈滿落葉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930306",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 01:07:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:43:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929457",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 04:43:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重忠路87之1號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一空地上之二收機車行有機油及黑油異味致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:48:04",
     "Close_Date_": ""
   }
 ]
