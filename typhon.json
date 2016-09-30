@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930292",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 12:42:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "嘉華路 (國一號道下涵洞致高鐵下涵洞)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930291",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 12:39:53",
@@ -1157,14 +1174,14 @@
   },
   {
     "FileNo_": "INS160930225",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/30 上午 10:55:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路8號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠惡臭異味致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:33:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929441",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 04:30:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪三十五街與六十街路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路口旁路燈桿上遭釘上大型廣告看板，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:33:57",
     "Close_Date_": ""
   }
 ]
