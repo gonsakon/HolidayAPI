@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930324",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 01:54:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "光華一路三多二路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該路口車禍留有路面油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930323",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 01:50:46",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS160930271",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/30 上午 11:59:10",
     "ReplyUnit_": "A01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣州一街與林德街(金礦咖啡、古道茶飲)",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一欣高石油氣工程車在此施工，疑似未申請路權，欲了解是否合法安裝施工，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 05:40:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929474",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/29 下午 05:03:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "糖北路上(台糖大門前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待確認",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 05:07:57",
     "Close_Date_": ""
   }
 ]
