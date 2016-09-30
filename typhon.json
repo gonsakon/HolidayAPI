@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930366",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 03:07:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "大坑里大坑路106號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映1.該址對面有一盞路燈 2.該址對面左方台29線上有一盞路燈，均故障不亮數日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930365",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 03:01:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 06:30:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929515",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 06:18:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "高雄市燕巢區南燕里燕南三街路底",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "不亮",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 06:33:17",
     "Close_Date_": ""
   }
 ]
