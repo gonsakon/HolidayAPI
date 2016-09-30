@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001021",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 07:27:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "台22線與信誼路口(往義大醫院方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001020",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 07:16:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 09:04:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930110",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 09:00:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山火車站地下道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處地下道有髒亂與犬隻排泄物，望請局處派員清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 09:01:09",
     "Close_Date_": ""
   }
 ]
