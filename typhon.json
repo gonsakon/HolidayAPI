@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS160930468",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 05:41:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "清豐里旗楠路524巷 轉旗楠路",
+    "address_": "清豐里旗楠路524巷轉旗楠路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，惟因匝道口車流量大，望局處盡速派員修復，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 05:43:13",
     "Close_Date_": ""
   },
   {
