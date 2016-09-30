@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930489",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 06:09:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "義大二路966巷；古嚴寺旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處2盞路燈故障不亮(館前分34、34之1)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930488",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 06:06:01",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS160930429",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/30 下午 04:41:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路121號7樓之1",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶有冷氣滴水情事，建請查處。(請人員到場與陳情人說明處理狀況)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 08:09:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929633",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 08:05:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金後路 1.鼎強街口(7-11超商前)  2. 鼎金後路532巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該兩處皆有落葉枯枝，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於 09/29 21:01 三民東區清潔隊 王文全先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 08:09:16",
-    "Close_Date_": "2016/9/29 下午 10:18:59"
   }
 ]
