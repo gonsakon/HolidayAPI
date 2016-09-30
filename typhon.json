@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS160930064",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 08:01:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路與曾子路路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍留有路面油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 08:03:12",
     "Close_Date_": ""
   },
   {
@@ -5373,20 +5373,20 @@
   },
   {
     "FileNo_": "INS160929504",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 06:02:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路二段226巷口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 21:07 交通局智慧運輸中心蔡淑君小姐回報，該處是線路故障，已報請廠商\r\n維修，故改派非網A-TB-2016-87134追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 06:03:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 08:05:40"
   },
   {
     "FileNo_": "INS160929503",
