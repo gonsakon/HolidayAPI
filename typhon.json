@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930153",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 09:39:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "保生路與保生路298號(便利超商7-11旁)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，已有民眾發生交通事故，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930151",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 09:37:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 01:53:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929302",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 01:51:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠亨北路與草衙一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處惟T字路口有兩號誌故障現紅燈及黃燈閃爍，表示平時就有人會闖紅燈，擔心會危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 01:53:30",
     "Close_Date_": ""
   }
 ]
