@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930101",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/30 上午 08:48:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "仕豐南路94號至100號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有多盞路燈故障閃爍，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 上午 08:48:44",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930100",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 08:45:53",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS160930098",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 08:45:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "新田路284號與284之1號",
+    "address_": "新田路284號與新田路284之1號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路面疑因風災吹落一很長塑膠管，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 08:48:51",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS160930096",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 08:43:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "維新里台17線",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈不亮，請查處。(編號： 路燈79號 )",
+    "BeforeDesc_": "渠反映該處有一路燈不亮，請查處。(編號：79號 )",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 08:48:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 12:21:05",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929248",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 12:15:45",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "後協里協德街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "岡山區後協里協德街自9/27下午4點30分即停電，至今尚未復電，周邊一街之隔都都沒停電問題,相關單位也不告知問題及何時復電，不知問題為何，是否查詢無法復電原因及何時復電",
-    "AfterDesc_": "【承辦機關完成通報】感謝您的反映，此案件已轉呈人民陳情案件編號A-TB-2016-86679，待處理完成再交由台\r\n電與您回覆！",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 01:24:00",
-    "Close_Date_": "2016/9/29 下午 01:31:20"
   }
 ]
