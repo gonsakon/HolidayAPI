@@ -51,23 +51,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160930398",
-    "Status_": "1",
-    "Cre_Date_": "2016/9/30 下午 03:55:15",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "民權路30巷6弄33號",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS160930393",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 03:53:06",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 06:52:33",
     "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160929551",
+    "Status_": "5",
+    "Cre_Date_": "2016/9/29 下午 06:49:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "擴建路與新生路口",
+    "UnitName_": "交通局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查處。",
+    "AfterDesc_": "【主管解除管制】09/29 23:58交通局智慧運輸中心蔡淑君小姐回覆：該處係因線路故障，已報修廠\r\n商，故將本案改派非網A-TB-2016-87123賡續辦理。",
+    "Memo_": "",
+    "Save_Date_": "2016/9/29 下午 06:51:12",
+    "Close_Date_": "2016/9/30 上午 08:02:42"
   }
 ]
