@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930276",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 12:06:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌路，718巷至885巷間路段",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930275",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 12:02:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:18:24",
     "Close_Date_": "2016/9/29 下午 07:01:08"
-  },
-  {
-    "FileNo_": "INS160929425",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 04:15:49",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "擴建路與建基路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:16:59",
-    "Close_Date_": ""
   }
 ]
