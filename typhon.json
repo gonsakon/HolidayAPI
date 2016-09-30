@@ -5713,20 +5713,20 @@
   },
   {
     "FileNo_": "INS160930358",
-    "Status_": "5",
+    "Status_": "4",
     "Cre_Date_": "2016/9/30 下午 02:52:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路，高應大前",
     "UnitName_": "環保局",
-    "StatusName_": "解除管制",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該址前車禍留有路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 09/30 15:50 三民東區清潔隊 趙美佐小姐回報，該處路面油漬已清除完畢；\r\n 本案不需回電故解除管制。",
+    "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 02:54:13",
-    "Close_Date_": "2016/10/1 上午 12:32:25"
+    "Close_Date_": ""
   },
   {
     "FileNo_": "INS160930357",
