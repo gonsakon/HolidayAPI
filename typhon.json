@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930606",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 08:51:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "長春路上，往龍鳳殿下坡 8090 8092(LED)8093(LED) 8094",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線有四盞路燈(8090、8092、8093、8094)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930605",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 08:49:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 12:00:31",
     "Close_Date_": "2016/9/30 下午 06:37:51"
-  },
-  {
-    "FileNo_": "INS160929748",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 11:53:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "英明一路與賢明路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鹽酥雞店家油炸作業，致油煙逸散，建請會同。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 11:56:10",
-    "Close_Date_": ""
   }
 ]
