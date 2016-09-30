@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930494",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 06:15:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富民路295號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有施工",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930493",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 06:14:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 08:23:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929638",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 08:16:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "擴建路1之2號(前鎮公車總站前方)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈箱歪斜，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/29 23:58交通局智慧運輸中心蔡淑君小姐回覆：已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 08:20:34",
-    "Close_Date_": "2016/9/30 上午 08:01:26"
   }
 ]
