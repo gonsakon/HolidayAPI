@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930277",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 12:13:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930276",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 12:06:46",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS160930247",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/30 上午 11:23:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "糖北路5巷底",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈持續放亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:19:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929426",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 04:17:35",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與澄觀路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障，鳳仁路紅燈恆亮， 澄觀路黃燈恆亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於09/29 18:03交通局智慧運輸中心蔡淑君小姐回報，該處線路故障，需報修廠商，\r\n目前無危險性，故改派非網A-TB-2016-87042賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:18:24",
-    "Close_Date_": "2016/9/29 下午 07:01:08"
   }
 ]
