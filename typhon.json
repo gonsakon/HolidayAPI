@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930323",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 01:50:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930322",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 01:38:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 05:07:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929473",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 05:03:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "延平一路與中正路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該二處路號誌燈一處故障恆亮綠燈及一盞號誌燈不亮。",
-    "AfterDesc_": "【主管解除管制】09/29 20:24 交通局智慧運輸中心蔡淑君小姐回報，該兩處無危險性，因兩處皆為\r\n綠燈故障，需更換綠燈，無法於期限內修復，故改派非網A-TB-2016-87116 賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 05:05:17",
-    "Close_Date_": "2016/9/30 上午 08:07:24"
   }
 ]
