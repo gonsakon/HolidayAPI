@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930266",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 11:43:00",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中南街12號旁",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該址旁一不明挖路工程無設立告示且未處理好交通動線難以通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930265",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 11:42:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:08:50",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929414",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 04:04:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "平等路(民族國小前)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於 09/29 20:14 交通局 智慧運輸中心 蔡淑君小姐回報，該處號誌燈已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:06:25",
-    "Close_Date_": "2016/9/29 下午 11:36:17"
   }
 ]
