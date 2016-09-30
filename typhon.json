@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930284",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 12:33:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "金山里金山路25號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址隔壁與金山路沿線皆有放置子母車，且皆為星期1、3、5上午9點清運，但今日未前往清運因此現垃圾滿溢亦有野狗嘶咬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930283",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 12:29:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 04:24:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929433",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 04:22:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "正勤路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段之路燈上蝴蝶旗廣告布條皆已破損，恐影響行車視線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 04:26:28",
     "Close_Date_": ""
   }
 ]
