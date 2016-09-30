@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930618",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 09:08:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路，德民路橋至都會公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段沿線多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930617",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 09:04:30",
@@ -686,11 +703,11 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
-    "address_": "大同路與大隆巷口",
+    "address_": "大同路與大榮巷口",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處有一(大同路大隆巷)之路牌掉落，建請查處。",
+    "BeforeDesc_": "渠反映該處有一(大同路大榮巷)之路牌掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:05:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 12:51:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930007",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 上午 12:35:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路二段13號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該1.址前有一盞路燈 2.該址旁有一盞附掛路燈，均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 12:37:39",
     "Close_Date_": ""
   }
 ]
