@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930694",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 11:50:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鐵路街20巷2之1旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930693",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 11:46:48",
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS160930687",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 11:40:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高鳳路與松安街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 11:50:40",
     "Close_Date_": ""
   },
   {
@@ -4472,14 +4489,14 @@
   },
   {
     "FileNo_": "INS160930425",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/30 下午 04:33:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山南路與民有路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 08:34:04",
     "Close_Date_": "2016/9/30 上午 08:35:46"
-  },
-  {
-    "FileNo_": "INS160930084",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 08:28:57",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲圍路、甲樹路與豐田巷",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌閃燈故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 08:29:56",
-    "Close_Date_": ""
   }
 ]
