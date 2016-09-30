@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS160930147",
+    "FileNo_": "INS160930149",
     "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 09:36:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重立路與重立路146巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道上遭人棄置垃圾包即有落枝未清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930147",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 09:34:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐三路371號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有瓦斯異味產生，建請查處。",
+    "BeforeDesc_": "渠反映該處前天開始有瓦斯異味產生，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 上午 09:36:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 01:56:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929299",
-    "Status_": "5",
-    "Cre_Date_": "2016/9/29 下午 01:51:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路72巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有壓克力招牌掉落，建請查處。",
-    "AfterDesc_": "【主管解除管制】09/29 14:36 苓雅區清潔隊于采靈小姐回報，該處未影響通行，無安全疑慮，需安\r\n排時間清運，故改派非網A-TB-2016-86767賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 01:56:28",
-    "Close_Date_": "2016/9/30 上午 07:34:37"
   }
 ]
