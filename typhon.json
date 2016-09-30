@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930581",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 08:06:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋新六路與成功南路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930580",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 08:05:37",
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS160930573",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:59:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路與水管路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障全紅燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 08:05:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 10:42:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929724",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 10:40:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "三山街153巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "路燈不亮",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 10:52:31",
     "Close_Date_": ""
   }
 ]
