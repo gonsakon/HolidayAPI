@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930584",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 08:11:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930583",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 08:08:43",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930582",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/30 下午 08:07:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "丹山二路49號、50號、54號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該三處各有一盞路燈故障不亮，因54號有喪家，希望可盡速修復54號路燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 08:11:47",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 10:52:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929728",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 10:44:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路上(過平等路口)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處雙向中央分隔島第一盞路燈及路牌燈箱故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 11:10:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929727",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 10:43:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "至真路133號、107號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該兩址前快車道各有一大坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 10:52:58",
     "Close_Date_": ""
   }
 ]
