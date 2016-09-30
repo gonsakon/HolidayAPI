@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930200",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 10:24:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "廠前路29巷近廠前路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930198",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 上午 10:21:51",
@@ -3775,14 +3792,14 @@
   },
   {
     "FileNo_": "INS160929727",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/29 下午 10:43:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "至真路133號、107號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該兩址前快車道各有一大坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 02:35:52",
     "Close_Date_": "2016/9/30 上午 07:32:11"
-  },
-  {
-    "FileNo_": "INS160929346",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/29 下午 02:33:21",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營區明德新村12?",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "無?警停電，風和日麗日。14:20發生。尚未來電。請派人檢修復電。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 02:38:45",
-    "Close_Date_": ""
   }
 ]
