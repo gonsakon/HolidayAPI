@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS160930555",
+    "FileNo_": "INS160930556",
     "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 07:28:29",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路與葆禎路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈有故障未有運作情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930555",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 07:27:44",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自立一路與察哈爾二街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一桿號誌不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 07:28:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 09:49:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929700",
-    "Status_": "2",
-    "Cre_Date_": "2016/9/29 下午 09:47:19",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "白砂路",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電很久了  煩請派人查看",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 09:50:19",
     "Close_Date_": ""
   }
 ]
