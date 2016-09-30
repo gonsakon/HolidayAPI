@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930668",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 10:45:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "華中街(旗山國小對面)，綠地涼亭",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處園燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930667",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 10:42:44",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:41:49",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930665",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/30 下午 10:39:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "港九街53號(金馬釣蝦場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家營業中有油煙逸散，導致空污情事，建請會同查處。(測點:中正五街12巷口)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 10:46:04",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 08:02:24",
     "Close_Date_": "2016/9/30 上午 11:55:18"
-  },
-  {
-    "FileNo_": "INS160930058",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 07:49:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山三路與時代大道口，北上方向",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌紅燈左轉故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 07:50:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930057",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 07:49:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路上(新莊國小正對面，黑董排骨飯)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該店家進行整修，將碎玻璃棄置於人行道上，致髒亂並恐生學童行走危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 07:54:14",
-    "Close_Date_": ""
   }
 ]
