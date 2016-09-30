@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930666",
+    "Status_": "2",
+    "Cre_Date_": "2016/9/30 下午 10:41:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "民權街與公館路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障，雙向同燈號，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 10:41:49",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930663",
     "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 10:27:31",
@@ -1531,14 +1548,14 @@
   },
   {
     "FileNo_": "INS160930572",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/9/30 下午 07:59:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "澄觀路與鳳仁路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口於橋墩下方有一號誌仍呈現閃黃燈狀態，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 07:37:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930051",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 07:36:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路轉入沿海一路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處轉彎處快車道上有兩枝枯樹枝，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 07:44:17",
     "Close_Date_": ""
   }
 ]
