@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS160930068",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 上午 08:03:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路10號之7前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處快車道上有 7、8個坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930067",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 上午 08:02:35",
@@ -5526,20 +5543,20 @@
   },
   {
     "FileNo_": "INS160929495",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/29 下午 05:42:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "永安區維新路、保安路段",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "保安路、維新路號誌沒有反應，請派員查修",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】09/29 21:07 交通局智慧運輸中心蔡淑君小姐回報，該處是台電供電異常導致，已\r\n通知台電處理，故改派人民陳情案件A-TB-2016-87137 追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 06:02:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 上午 08:05:21"
   },
   {
     "FileNo_": "INS160929494",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 上午 11:22:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929212",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 上午 11:18:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "鳳東路與義大路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路口路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 上午 11:26:49",
     "Close_Date_": ""
   }
 ]
