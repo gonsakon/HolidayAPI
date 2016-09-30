@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930649",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 10:01:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "大湖里民權路30巷47號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "從颱風過後停電了兩天，昨晚七點多才來電，今天傍晚開始又停電了，大家整排住家鐵門都關不下來，到底台電在做什麼！！我們還要停電停多久！！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930648",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 10:00:58",
@@ -7056,14 +7073,14 @@
   },
   {
     "FileNo_": "INS160930224",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/9/30 上午 10:57:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "夢里里育成一街、育成二街與育成三街",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該三路段沿線路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 07:20:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930039",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 07:11:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "新厝路上，往大坪頂",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段沿線有淤沙與碎石，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 07:15:30",
     "Close_Date_": ""
   }
 ]
