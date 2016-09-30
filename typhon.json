@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930486",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 06:03:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮州路298號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930485",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 06:02:42",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS160930484",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/9/30 下午 06:02:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "沿海一路351號 小港站二號出口",
+    "address_": "沿海一路351號(捷運小港站二號出口)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/9/30 下午 06:03:47",
     "Close_Date_": ""
   },
   {
@@ -99,6 +116,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 05:59:15",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930479",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 05:57:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮興路60巷82號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有數盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -4914,20 +4948,20 @@
   },
   {
     "FileNo_": "INS160930189",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/30 上午 10:14:00",
     "ReplyUnit_": "E01001",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "中庄153號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一隻黃色流浪犬右腳有受傷情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/30 17：57電覆陳情人未果，故於09/30 18：02簡訊回覆：邱先生您好，您9月30日\r\n所反映犬隻受傷問題，經本府環保局前往稽查，您同時於現場，該流浪犬右腳為舊傷，圍捕時跑掉，感謝您的熱\r\n心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 10:14:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 下午 06:06:11"
   },
   {
     "FileNo_": "INS160930188",
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 08:14:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929630",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 08:04:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段67巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 08:09:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160929629",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/29 下午 08:04:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段53巷2弄82號(近教會前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 08:09:42",
     "Close_Date_": ""
   }
 ]
