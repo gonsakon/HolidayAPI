@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161001010",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 06:16:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳頂路與過埤路口(近消防局)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路口南往北之號誌桿綠燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 上午 06:17:29",
     "Close_Date_": ""
   },
   {
