@@ -902,20 +902,20 @@
   },
   {
     "FileNo_": "INS160930537",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/9/30 下午 07:05:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "青年一路98號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有廢棄家具堆積，建請查處。(請人員先電聯說明何時會前往)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 09/30 20:26 苓雅區清潔隊 施長興先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:08:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/9/30 下午 08:27:12"
   },
   {
     "FileNo_": "INS160930536",
