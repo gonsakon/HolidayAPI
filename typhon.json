@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS160930537",
+    "Status_": "1",
+    "Cre_Date_": "2016/9/30 下午 07:05:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "青年一路98號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有廢棄家具堆積，建請查處。(請人員先電聯說明何時會前往)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS160930536",
     "Status_": "1",
     "Cre_Date_": "2016/9/30 下午 07:04:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/9/29 下午 09:18:21",
     "Close_Date_": "2016/9/30 下午 06:17:48"
-  },
-  {
-    "FileNo_": "INS160929681",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/29 下午 09:14:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "體育路49號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該址店家前有一棵路樹傾倒，建請移除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/29 下午 09:15:34",
-    "Close_Date_": ""
   }
 ]
