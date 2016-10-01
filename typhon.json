@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001089",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 10:10:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九曲里九大路河濱一巷95弄11號(左前方)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001085",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 10:06:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 10:07:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930178",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 10:04:13",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "青年一路與林森二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口僅號誌紅燈持亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 10:07:56",
     "Close_Date_": ""
   }
 ]
