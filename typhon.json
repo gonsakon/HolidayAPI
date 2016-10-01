@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 11:00:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "華欣路  華榮路(禾堡幼稚園前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "停車格堆放回收物",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001118",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 10:57:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 10:41:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930206",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 10:38:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "榮總路沿線(介於大中一路至榮總醫院前之間)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該區段間路面皆有許多落葉與廢棄物髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 10:42:57",
     "Close_Date_": ""
   }
 ]
