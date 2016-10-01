@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161001349",
+    "FileNo_": "INS161001350",
     "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 07:36:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "灣復街26號2樓(店名:樂臻)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處使用擴音設備在唱歌，產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161001349",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 07:34:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官路119巷10號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，並表示先前反映修復後僅亮2天又熄滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 07:36:15",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 04:55:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930443",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 04:52:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "岡山銀段地號00530006 ，路燈編號:古亭高幹94左15右8",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障亮度不足，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 04:55:42",
     "Close_Date_": ""
   }
 ]
