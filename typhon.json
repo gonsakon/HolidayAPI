@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161001197",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 01:39:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔路與水管路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈燈泡毀損僅剩電線垂掛，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 01:41:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001195",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:37:10",
@@ -2925,14 +2942,14 @@
   },
   {
     "FileNo_": "INS161001024",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 上午 07:34:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "1.府北路與大有街口(新蓋大樓周界)，2.府北路36號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該兩處分別於1.路面與人行道，2.機車格處皆有碎玻璃，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:39:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930288",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 12:34:49",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "佛公路與佛道路路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈紅燈閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:35:44",
     "Close_Date_": ""
   }
 ]
