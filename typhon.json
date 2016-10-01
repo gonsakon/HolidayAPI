@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161001487",
+    "FileNo_": "INS161001488",
     "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 11:42:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "民順街28號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161001487",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 11:41:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段上(由湖內分局往二仁溪方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路燈沿線均故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 11:42:34",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:08:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930580",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 08:05:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋新六路與橋新七路(橋新六路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌遭風災吹襲歪斜，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:07:25",
     "Close_Date_": ""
   }
 ]
