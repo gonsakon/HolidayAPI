@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001466",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 10:55:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "加昌路上(介於樂群路與外環西路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001465",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 10:50:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:36:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930558",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 07:32:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄仁東街97號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:34:06",
     "Close_Date_": ""
   }
 ]
