@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001252",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 03:52:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路276號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "左營區 該址正對面",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001251",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 03:45:27",
@@ -1327,14 +1344,14 @@
   },
   {
     "FileNo_": "INS161001172",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 下午 12:24:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山南路與中山南路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處往火車站方向慢車道號誌故障，導致機車與快車道汽車搶道，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 02:41:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930342",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 02:29:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路與聖森路，加油站前",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 02:30:28",
     "Close_Date_": ""
   }
 ]
