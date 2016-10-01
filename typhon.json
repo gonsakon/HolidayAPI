@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001288",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:20:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗津二路上(介於旗津國中與消防局旗津分隊之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處自行車道許多樹葉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001287",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 05:17:38",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161001284",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 05:07:50",
     "ReplyUnit_": "F01022",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "新興街186號",
     "UnitName_": "美濃區公所",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該址附近有一陸橋工程，唯有將鐵條放置於該址車庫前致影響通行，建請查處。(另表示需請單位電覆)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:27:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930377",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:23:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大德一路與育仁街口(三和回收廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該業者回收回來的桶子現有傳出不明酸臭異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:30:33",
     "Close_Date_": ""
   }
 ]
