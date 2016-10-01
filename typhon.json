@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001256",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 03:59:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "永新七街51號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈下方箱蓋脫落，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001255",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 03:58:05",
@@ -1395,14 +1412,14 @@
   },
   {
     "FileNo_": "INS161001172",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 12:24:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山南路與中山南路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處往火車站方向慢車道號誌故障，導致機車與快車道汽車搶道，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 02:42:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930346",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 02:41:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武廟路上(武廟市場前停車格)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一大型斷裂枝幹，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 02:42:07",
     "Close_Date_": ""
   }
 ]
