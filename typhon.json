@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161001435",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 09:49:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "沿海路二段4巷口(近大排溝)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠",
+    "BeforeDesc_": "渠反映該處一盞路燈燈罩角度歪斜，建請查查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 09:51:42",
     "Close_Date_": ""
   },
   {
