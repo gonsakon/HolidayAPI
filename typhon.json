@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001190",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:20:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "旗楠路35號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映現該址旁私人空地內亦有堆置大量黑色泥沙，且因未設置任何防護有造成揚塵空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001189",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:15:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:28:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930280",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 12:19:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "義和路5號、7號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址前2盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:22:40",
     "Close_Date_": ""
   }
 ]
