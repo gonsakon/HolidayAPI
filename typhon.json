@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161001212",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 01:58:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "舊港里東二巷(路燈編號:124)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，並傾倒於電線上，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 01:59:19",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001210",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:55:01",
@@ -545,19 +562,19 @@
   },
   {
     "FileNo_": "INS161001179",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 12:43:34",
-    "ReplyUnit_": "",
+    "ReplyUnit_": "E01004",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "830台灣高雄市鳳山區仁義街83巷8號",
-    "UnitName_": "",
-    "StatusName_": "建立中",
-    "InformDesc_": "",
+    "UnitName_": "中華電信公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "中華-孔蓋鬆動",
     "BeforeDesc_": "田寮區古亭里廟後巷5號電話不通已將一星期了。煩請修復，電話號碼6367088謝謝。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 01:59:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 01:23:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930302",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 01:06:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "圓山路近圓山飯店，往松藝路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹上有斷枝，致擦撞到陳情人照後鏡，且路面亦有斷枝，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 01:15:38",
     "Close_Date_": ""
   }
 ]
