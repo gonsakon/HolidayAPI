@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001355",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 07:47:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001354",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 07:45:13",
@@ -1616,14 +1633,14 @@
   },
   {
     "FileNo_": "INS161001258",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 下午 04:06:20",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠心街與青埔街",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障現紅黃燈閃爍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 05:07:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930449",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 05:03:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路與皓東路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處紅磚人道上有一自助洗機車招牌廢棄物，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 05:06:56",
     "Close_Date_": ""
   }
 ]
