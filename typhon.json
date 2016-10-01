@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001427",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 09:43:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山三路與民權二路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處慢車道上有一凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001426",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 09:39:02",
@@ -307,20 +324,20 @@
   },
   {
     "FileNo_": "INS161001408",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 09:11:51",
     "ReplyUnit_": "E01001",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路2-2號(永清國小)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處紅綠燈前有一犬隻被撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/01 21:40 農業局 動物保護處 捕犬大隊 金根雄先生回報，人員於現場巡查，\r\n 均未發現受傷犬隻；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 09:13:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/1 下午 09:42:56"
   },
   {
     "FileNo_": "INS161001407",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 06:43:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930521",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 06:39:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文府路，文府國小對面(總都汽車)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處正進行噴漆作業，造成空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 06:41:33",
     "Close_Date_": ""
   }
 ]
