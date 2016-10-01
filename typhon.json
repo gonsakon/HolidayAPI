@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001163",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 12:00:21",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲二路47號對面",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處台電電桿上有一反光警示鐵皮鬆脫,需派員以鐵絲綑緊,以免掉落,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001160",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 11:57:22",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161001162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 11:56:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文濱路與文龍路16巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該公園園燈有多盞不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 上午 11:57:14",
     "Close_Date_": ""
   },
   {
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161001108",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 上午 10:45:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青海路106號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處人行道上大型路樹斷枝懸掛樹上，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 11:30:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930253",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 11:28:36",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路與鳳林路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈因風災，導致歪斜情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 11:30:49",
     "Close_Date_": ""
   }
 ]
