@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001199",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:42:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "廣西路與民權二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌紅燈故障不會亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001196",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 01:40:36",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161001198",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:40:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "建國一路與樂仁路",
+    "address_": "建國一路與樂仁路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 01:42:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:42:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930289",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 12:36:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路往北近國道一號(轉彎處)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處轉彎處內側快車道連續50公尺皆有路面坑洞，坑洞較深有危險性，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:39:54",
     "Close_Date_": ""
   }
 ]
