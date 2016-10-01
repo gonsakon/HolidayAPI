@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001448",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 10:07:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "忠孝一路12巷25號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈照射角度歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001446",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 10:02:41",
@@ -1463,14 +1480,14 @@
   },
   {
     "FileNo_": "INS161001359",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 下午 07:53:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "舊港路東段28號(農會對面)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(路燈編號:舊港160號)故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:12:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930540",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 07:11:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁信巷45號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:12:53",
     "Close_Date_": ""
   }
 ]
