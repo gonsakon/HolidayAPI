@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002026",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 06:01:46",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大仁路上與富貴路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌與前後不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002025",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 05:51:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 09:01:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930607",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 08:52:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "長春路上，過龍鳳殿上坡位置",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(紅漆4)照射交度歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:59:22",
     "Close_Date_": ""
   }
 ]
