@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001174",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 12:30:14",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "高雄市湖內區",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "在高雄市湖內區的魚塭路上有電線杆傾斜,只知道附近的電線杆編號是白雲143左右附近,有一隻很明顯的傾斜",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001173",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 12:25:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 11:43:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930264",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 11:40:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路與大新路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 11:41:10",
     "Close_Date_": ""
   }
 ]
