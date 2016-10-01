@@ -358,20 +358,20 @@
   },
   {
     "FileNo_": "INS161002017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/2 上午 05:03:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路與澄觀路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍，路面有油漬，建請查處。(員警在場)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/02 06:09溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 05:06:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 07:59:17"
   },
   {
     "FileNo_": "INS161002016",
@@ -511,20 +511,20 @@
   },
   {
     "FileNo_": "INS161002008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/2 上午 01:19:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路949號(君毅正勤社區)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有飄散刺鼻惡臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/02 02:44環保局公害專線南區戴宏霖先生回報，稽查人員於02:33到達，稽查時\r\n於該址及附近路段巡查，未發現刺鼻惡臭味以致空污之情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 01:20:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 07:59:35"
   },
   {
     "FileNo_": "INS161002007",
