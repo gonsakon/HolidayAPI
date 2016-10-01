@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 12:05:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "燕新三街跟新生南路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹有傾斜情況，恐有倒塌危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001491",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 11:58:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:19:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930584",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 08:11:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "成功一路與六合二路口(近成功一路之西側)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處颱風過後人行道上有一廣告刊版，影響行人通行，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:16:17",
     "Close_Date_": ""
   }
 ]
