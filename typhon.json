@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001295",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:42:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區五甲一路與瑞隆東路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001294",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 05:38:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:39:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930384",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:31:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路與樂仁路(聖功醫院前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口有兩盞號誌呈現閃燈，疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:33:18",
     "Close_Date_": ""
   }
 ]
