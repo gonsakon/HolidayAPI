@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001342",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 07:19:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中華路74巷沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001341",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 07:13:55",
@@ -511,17 +528,17 @@
   },
   {
     "FileNo_": "INS161001311",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 06:13:56",
     "ReplyUnit_": "E01004",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山區山隙路12號前",
     "UnitName_": "中華電信公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "中華-孔蓋鬆動",
     "BeforeDesc_": "此陳情地址前有2個中華電信路面孔蓋鬆動,已於一星期前致電通報1999,但皆未見相關權責單位前來處理,日前已有騎士經過此處造成摔倒,請權責單位立即處理並電覆陳情人",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已轉呈人民陳情案件：A-TB-2016-88299 委由中華電信公司賡續辦理，\r\n 待處理完成將由承辦單位再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 07:15:52",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 04:46:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930432",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 04:43:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松藝路，中興塔往鳥松方向",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處疑因車輛漏油，導致路面有油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 04:48:57",
     "Close_Date_": ""
   }
 ]
