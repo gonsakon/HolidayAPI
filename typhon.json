@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001462",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 10:37:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "竹寮路74之9號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一不明動物屍體，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001461",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 10:33:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:28:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930554",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 07:26:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津三路56號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，對面道路整排路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:27:47",
     "Close_Date_": ""
   }
 ]
