@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001324",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 06:42:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "頂潭路63巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001323",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 06:40:51",
@@ -358,19 +375,19 @@
   },
   {
     "FileNo_": "INS161001302",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 05:56:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與崇德路口(台灣寵物前方)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "颱風造成路樹倒塌，雖已將路樹清除，但原栽種區域未填平或警示，造成夜間行人、自行車騎士多次摔倒，請盡快處理",
+    "BeforeDesc_": "颱風造成路樹倒塌，雖已將路樹清除，但路旁原栽種區域未填平或警示，造成夜間行人、自行車騎士多次摔倒，請盡快處理",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 06:42:13",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 04:19:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930414",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 04:18:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中崙二路(靠近中崙路、中崙國中旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 04:23:17",
     "Close_Date_": ""
   }
 ]
