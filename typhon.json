@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001106",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 10:43:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "青年一路上與維仁街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌前後不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001104",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 10:41:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 10:21:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930194",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 10:16:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明誠三路681號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有風災過後的枯枝、落葉堆積尚未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 10:19:22",
     "Close_Date_": ""
   }
 ]
