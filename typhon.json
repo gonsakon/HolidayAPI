@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161001195",
+    "FileNo_": "INS161001196",
     "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:40:36",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "847",
+    "ZipName_": "甲仙區",
+    "address_": "新興路67巷18之12號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前有一棵樹木已傾斜壓到台電的電線,恐因此造成電線斷裂及停電,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161001195",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:37:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大平路與大潭路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障不亮，導致發生車禍，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 01:38:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:39:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930287",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 12:32:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁雄路(介於全聯福利中心與仁雄路98號間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處沿線多處坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:33:09",
     "Close_Date_": ""
   }
 ]
