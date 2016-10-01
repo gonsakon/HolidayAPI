@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161001188",
+    "FileNo_": "INS161001189",
     "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:15:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁和街150巷口(仁武里活動中心前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處有一『仁和街150巷』的路牌倒塌,至今仍未修復,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161001188",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:09:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "光榮街底(駁二旁)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一停靠岸邊的文化觀光遊艇，其現卡拉OK擴音器擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 01:11:46",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:22:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930279",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 12:16:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "民成街147號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址前路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:22:56",
     "Close_Date_": ""
   }
 ]
