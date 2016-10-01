@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001456",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 10:28:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "綠八公園內，公園二路與與七賢三路，",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處鹽旅社對面有一盞鐘型園燈故障不亮及八盞矮型園燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001455",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 10:22:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:25:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930549",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 07:22:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "萬客隆百貨後方的立德路，位於立德路平行之產業道路上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹即將傾倒，已碰觸到台電之線路，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:25:00",
     "Close_Date_": ""
   }
 ]
