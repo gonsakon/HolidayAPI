@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001279",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 04:40:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "體育路49號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址前有一路樹，惟先前單位前往扶正，目前卻再度傾倒，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001278",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 04:39:53",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161001277",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 04:39:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "湖中路456號對向安全島上",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一黑色狗屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 04:40:57",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:18:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930368",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:13:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文慈路142巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址巷口有很多垃圾被堆置在此及廢棄物，建請清除。(靠近文慈路巷口)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:14:18",
     "Close_Date_": ""
   }
 ]
