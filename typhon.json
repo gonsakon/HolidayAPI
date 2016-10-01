@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001080",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 09:48:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "英明路上(天野日本料理前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映於該處店家前有一灰色貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001079",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 09:43:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 09:58:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930167",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 09:51:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文守路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 09:52:56",
     "Close_Date_": ""
   }
 ]
