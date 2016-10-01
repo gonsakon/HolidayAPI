@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161001273",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 04:30:46",
+    "ReplyUnit_": "F01019",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "三和路138之18號斜對面",
+    "UnitName_": "大樹區公所",
+    "StatusName_": "待確認",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處六米以下道路路面隆起，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 04:38:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001272",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 04:30:03",
@@ -6019,20 +6036,20 @@
   },
   {
     "FileNo_": "INS160930615",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/30 下午 09:01:17",
     "ReplyUnit_": "A01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中林路與沿海四路",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處目前有不明挖掘施工單位，渠欲了解是何單位施工及施工原因，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/01 16：30電覆陳情人未果，故於10/01 16：37簡訊回覆：余先生您好，您9月30日\r\n所反映不明挖掘施工問題，經工務局工企處現場查看，為臨海工業區之權責。已代為反映該單位意見信箱，礙於\r\n個資法問題，故未將您電話提供府外單位，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 09:09:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/1 下午 04:40:39"
   },
   {
     "FileNo_": "INS160930614",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:09:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930365",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:01:11",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "管仲南路與光華三路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址有號誌燈燈頭歪斜，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:02:26",
     "Close_Date_": ""
   }
 ]
