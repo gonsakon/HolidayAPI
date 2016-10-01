@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161001376",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 08:22:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "凱旋一路與河北一路及河南路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映下述2路口各有一盞號誌故障閃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 08:24:12",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161001373",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 08:18:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "新庄路11之5號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有6至7隻流浪犬",
+    "BeforeDesc_": "渠反映該處有6至7隻流浪犬(黑、土黃色)，有追咬民眾情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 08:24:30",
     "Close_Date_": ""
   },
   {
