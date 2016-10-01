@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001469",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 11:02:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路356巷46弄63號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一路面掏空，惟單位先前修補後又再度凹陷，且已有里民受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001468",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 10:57:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:37:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930561",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 07:34:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "三和路138之18號斜對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面隆起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:36:40",
     "Close_Date_": ""
   }
 ]
