@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161001254",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 03:54:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "後庄火車站周界",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有皮革廠排放廢氣空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 03:58:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001253",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 03:53:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 02:42:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930345",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 02:34:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大吉路16巷28之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前方有一路燈遭颱風吹落燈罩與燈泡，致目前故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 02:36:23",
     "Close_Date_": ""
   }
 ]
