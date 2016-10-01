@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001489",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 11:52:06",
+    "ReplyUnit_": "F01007",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "村中路",
+    "UnitName_": "橋頭區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有一路燈桿(桿號：三德高幹55之1右3)旁所設置之圓形小柱子正在冒煙、並發出臭味，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001488",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 11:42:00",
@@ -1837,14 +1854,14 @@
   },
   {
     "FileNo_": "INS161001378",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 08:29:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "南星路沿線(介於沿海三路至鳳北路間",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處沿線有四盞號誌燈故障，有部分不亮有部分恆亮，建請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:11:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930581",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 08:06:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋新六路與成功南路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:08:49",
     "Close_Date_": ""
   }
 ]
