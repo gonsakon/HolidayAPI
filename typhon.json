@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001078",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 09:41:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓路269巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址旁目前有一工地使用機具產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001077",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 09:35:16",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161001073",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 上午 09:30:19",
     "ReplyUnit_": "E01002",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金一巷(獅山公園、近道德院區域)",
     "UnitName_": "觀光局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "風景區設備損壞有立即危險者",
     "BeforeDesc_": "渠反映該處有多盞園燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 上午 09:40:01",
     "Close_Date_": ""
   },
   {
@@ -230,7 +247,7 @@
     "address_": "高雄市仁武區",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "高雄市仁慈里慈英街近仁慈路34號旁路燈不亮另仁慈二街近仁慈路3盞路燈及澄新九街78巷3號路燈亮整天",
     "AfterDesc_": "",
     "Memo_": "",
@@ -315,7 +332,7 @@
     "address_": "高雄市仁武區",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "高雄市仁武區赤山里赤吉街99巷及澄清巷路燈整條不亮",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 09:52:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930166",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 09:48:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "新厝巷17之24號(可口可樂公司，路燈編號:安招012)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 09:50:13",
     "Close_Date_": ""
   }
 ]
