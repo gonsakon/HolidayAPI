@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001287",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:17:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過勇路65巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷道內有多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001286",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 05:16:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:30:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930376",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:22:38",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松和路上(餐旅國中正門口右手邊)",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人手孔破損",
-    "BeforeDesc_": "渠反映該處有一不明方形孔蓋冒水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:24:31",
     "Close_Date_": ""
   }
 ]
