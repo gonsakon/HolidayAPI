@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161001213",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 02:01:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明正二街",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該巷內倉庫進行噴漆作業導致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 02:05:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001211",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:59:33",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161001209",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:53:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "協榮路上與寶米路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處分隔島上，路樹有倒塌及斷枝情況，恐致行車危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 02:05:42",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 01:09:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930304",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 01:06:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永新六街全線(八卦國小附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈全故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 01:23:27",
     "Close_Date_": ""
   }
 ]
