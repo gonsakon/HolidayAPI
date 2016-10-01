@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001120",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 11:01:18",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港信街與港源街口(港信街上)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈頭與基座皆有歪斜情事，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001119",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 11:00:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 10:45:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930209",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 上午 10:40:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "舊城巷16號之2",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 10:41:33",
     "Close_Date_": ""
   }
 ]
