@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002007",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 01:16:03",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路356巷46弄63號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一路面排水溝掏空，惟單位先前修補後又再度凹陷，且已有里民受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002006",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 01:14:45",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161002005",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 01:12:25",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中厝里大義路14巷1號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線垂落且產生火花，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 上午 01:16:05",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:26:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930589",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 08:23:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁光路76號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址住戶鋁製牆面，倒塌於仁光路70巷口處已有2日，惟未見屋主處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:29:38",
     "Close_Date_": ""
   }
 ]
