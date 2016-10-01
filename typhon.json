@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002037",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 07:51:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "民權街69號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一早餐店油煙廢氣致空污之情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002036",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 07:43:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 09:20:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930618",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 09:08:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路，德民路橋至都會公園",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段沿線多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 09:09:44",
     "Close_Date_": ""
   }
 ]
