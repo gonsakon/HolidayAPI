@@ -102,23 +102,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161001226",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/1 下午 02:37:43",
-    "ReplyUnit_": "F01017",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "石岸潭段1926號(阿蓮往台南方向)",
-    "UnitName_": "阿蓮區公所",
-    "StatusName_": "建立中",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處於石安排水溝旁，沿線路面有塌陷情事，恐至電桿倒塌，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161001225",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 02:37:06",
@@ -1548,14 +1531,14 @@
   },
   {
     "FileNo_": "INS161001141",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 上午 11:26:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路三段上(西向)與中正路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌紅燈故障不亮,請查處。",
     "AfterDesc_": "",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 01:57:22",
     "Close_Date_": "2016/10/1 下午 02:27:23"
+  },
+  {
+    "FileNo_": "INS160930323",
+    "Status_": "3",
+    "Cre_Date_": "2016/9/30 下午 01:50:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路上往北方向，接近地下道入口前",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道上有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 01:53:38",
+    "Close_Date_": ""
   }
 ]
