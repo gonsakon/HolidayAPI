@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001147",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 11:33:54",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "青年一路與金門街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口車輛通行為紅燈時，行人號誌為綠燈不一致，恐致行人遭撞危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001146",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 上午 11:33:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 11:07:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930238",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 11:04:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路上近聯興路，舊大統新世紀前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路與人行道上堆放多包黑色垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 11:07:33",
     "Close_Date_": ""
   }
 ]
