@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001285",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:15:35",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤路與溪濱路口(南北巷)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈綠燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001284",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 05:07:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:25:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930374",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 03:21:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路394巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址路燈不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:23:10",
     "Close_Date_": ""
   }
 ]
