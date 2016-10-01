@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161001031",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 08:03:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路62號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處工廠發出低頻噪音致擾民，建請會同稽查。(請局處會同陳情人前往)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 上午 08:08:23",
     "Close_Date_": ""
   },
   {
