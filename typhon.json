@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161001293",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 05:36:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重信路上與華夏路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路段號誌燈恆亮無法變燈，建請查修。",
+    "BeforeDesc_": "渠反映該路段號誌燈紅燈恆亮無法變燈，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 下午 05:37:18",
     "Close_Date_": ""
   },
   {
