@@ -9997,20 +9997,20 @@
   },
   {
     "FileNo_": "INS160930324",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/9/30 下午 01:54:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華一路與三多二路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路口車禍留有路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於09/30 14:18 苓雅區清潔隊楊雨霖先生回報，該處已清除完畢；並於10/01 14：24電覆\r\n陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 01:57:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/1 下午 02:27:23"
   },
   {
     "FileNo_": "INS160930323",
