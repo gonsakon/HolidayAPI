@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001284",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:07:50",
+    "ReplyUnit_": "F01022",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "新興街186號",
+    "UnitName_": "美濃區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該址附近有一陸橋工程，唯有將鐵條放置於該址車庫前致影響通行，建請查處。(另表示需請單位電覆)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001283",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 05:03:22",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161001270",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 04:25:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "協仁街與仁壽路口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒後未清除，恐發生火災，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:23:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930373",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 03:21:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "孟子路174巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址路燈不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 11:25:13",
     "Close_Date_": ""
   }
 ]
