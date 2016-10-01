@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001483",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/1 下午 11:23:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "興中路與延平二路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有廟會活動，其使用擴音器及麥克風致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/1 下午 11:27:34",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001482",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 11:21:46",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161001462",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 下午 10:37:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "竹寮路74之9號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路旁有一不明動物屍體，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:05:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930575",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 08:02:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路與大榮巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處有一(大同路大榮巷)之路牌掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:05:47",
     "Close_Date_": ""
   }
 ]
