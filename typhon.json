@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001187",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:08:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路328號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處約5至6盞路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001186",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:03:04",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161001159",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 上午 11:53:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "新樂街1號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處擺放三個舊衣回收箱疑未合法設置，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 12:22:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930277",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 12:13:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三德西街35巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷內1盞路燈故障閃爍，建請查處。(※該巷內僅有1盞路燈)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 12:19:23",
     "Close_Date_": ""
   }
 ]
