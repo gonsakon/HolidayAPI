@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001289",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:22:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄和路296號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一監視器線路垂落，現線路橫跨車道並未斷裂，惟擔心車輛勾到，建請查處不需電覆。(不詳可洽)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001288",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 05:20:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:33:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930380",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 03:25:42",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "介壽路與大義二路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一盞號誌燈閃紅燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:27:00",
     "Close_Date_": ""
   }
 ]
