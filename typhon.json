@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001286",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 05:16:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤路51巷(由過埤路進去)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷道內有多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001285",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 05:15:35",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161001284",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/1 下午 05:07:50",
     "ReplyUnit_": "F01022",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "新興街186號",
     "UnitName_": "美濃區公所",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該址附近有一陸橋工程，唯有將鐵條放置於該址車庫前致影響通行，建請查處。(另表示需請單位電覆)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 03:24:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930375",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 03:21:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路2之24號(海青地下道)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處地下道內疑似管線破裂，大量滲水致嚴重積水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 03:25:44",
     "Close_Date_": ""
   }
 ]
