@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161001154",
+    "FileNo_": "INS161001156",
     "Status_": "1",
+    "Cre_Date_": "2016/10/1 上午 11:46:32",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "七賢二路166號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址處目前污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161001154",
+    "Status_": "2",
     "Cre_Date_": "2016/10/1 上午 11:42:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "崗山南街與瑞福路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路口有一片油漬，已造成多部機車滑倒，目前有員警指揮交通，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/1 上午 11:46:31",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 上午 11:24:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930246",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 上午 11:19:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明誠四路208號(觀美術大樓)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒與傾斜，望局處扶正，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 上午 11:24:24",
     "Close_Date_": ""
   }
 ]
