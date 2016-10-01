@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001487",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 11:41:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中山路一段上(由湖內分局往二仁溪方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈沿線均故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001486",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 11:34:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 08:07:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930579",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 08:04:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "店仔頂路29號對面(舊城國小後方)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 08:06:48",
     "Close_Date_": ""
   }
 ]
