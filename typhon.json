@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001323",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 06:40:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "路科五路、路科九路與路科十路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該區域路段，路燈皆故障不亮，建請查修。。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001322",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 06:37:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 04:23:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930413",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 04:18:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "溪州二路91號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 04:21:56",
     "Close_Date_": ""
   }
 ]
