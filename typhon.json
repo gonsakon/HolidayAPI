@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001464",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 10:49:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德孝街與德祥路(位於後勁溪)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處由溪邊傳來一股類似濃厚油漆異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001463",
     "Status_": "1",
     "Cre_Date_": "2016/10/1 下午 10:48:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 07:30:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930556",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 07:28:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與葆禎路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障未有運作，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 07:30:10",
     "Close_Date_": ""
   }
 ]
