@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002038",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 07:58:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "過港里成功北路9之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002037",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 07:51:57",
@@ -4200,20 +4217,20 @@
   },
   {
     "FileNo_": "INS161001277",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 04:39:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "湖中路456號對向安全島上",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一黑色狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/01 17:50 湖內區清潔隊蔡明亮班長回報，欲將該狗屍清除放置垃圾車時，有民\r\n眾要求要將此狗屍帶走自行處理，已轉交狗屍給民眾處理，故此結案。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 04:40:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 07:54:40"
   },
   {
     "FileNo_": "INS161001276",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 09:19:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930619",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 09:15:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "安正路22之2號後方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 09:20:05",
     "Close_Date_": ""
   }
 ]
