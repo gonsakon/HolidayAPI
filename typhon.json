@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161001211",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/1 下午 01:59:33",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄和路與應安街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈號現是朝下，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161001210",
     "Status_": "2",
     "Cre_Date_": "2016/10/1 下午 01:55:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 01:15:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930301",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 01:00:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "愛國路與灣中街(有起重機的轉角處)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處斑馬線上有一鼠屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 01:02:15",
     "Close_Date_": ""
   }
 ]
