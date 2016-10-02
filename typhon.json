@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002374",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 10:05:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮中路247巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002372",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 10:02:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 03:58:14",
     "Close_Date_": "2016/10/2 下午 12:19:51"
-  },
-  {
-    "FileNo_": "INS161001253",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 03:53:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "神農街57號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈(LED)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 03:55:10",
-    "Close_Date_": ""
   }
 ]
