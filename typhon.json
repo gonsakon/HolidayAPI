@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002304",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:29:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學十七街與大學南路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處紅燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002303",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 07:28:51",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161002298",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:23:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "高坪8號155號",
+    "address_": "高坪八路155號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址前路面有碎石及砂土，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 07:30:22",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:56:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001183",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 12:51:40",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大業北路上與福隆街口(往高雄公園方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌亮燈處已朝向路面照，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 12:52:54",
     "Close_Date_": ""
   }
 ]
