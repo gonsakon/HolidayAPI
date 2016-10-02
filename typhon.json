@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003025",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:08:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "旗楠路與義大路口(國10下交流道)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處一號誌/紅燈/綠燈/小綠人故障不亮/不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003024",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 07:05:17",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161003016",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 05:43:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "竹門街與南亞街口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該轉彎處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 06:05:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001305",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 05:59:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "和平二路與林西街交叉口，林西街上(汽車保養場旁邊)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈開關箱 有異聲，建請查處。",
-    "AfterDesc_": "【主管解除管制】養工處四維養護工程隊陳錦茸小姐於10/02 04:27 回報：該處已修復完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:00:56",
-    "Close_Date_": "2016/10/2 上午 04:32:25"
   }
 ]
