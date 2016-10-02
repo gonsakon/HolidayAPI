@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002226",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 04:57:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中學路60號(旗山醫院，機房對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面堆置樹枝尚未移除，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002225",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 04:53:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:46:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001106",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 10:43:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "青年一路上與維仁街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌前後不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 10:44:38",
     "Close_Date_": ""
   }
 ]
