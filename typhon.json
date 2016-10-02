@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003041",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:59:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "赤崁東路182巷26號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003040",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 07:58:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 06:40:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001320",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 06:36:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "國慶一街、國慶二街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該二處沿線路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:37:29",
     "Close_Date_": ""
   }
 ]
