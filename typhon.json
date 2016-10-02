@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002229",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 05:17:47",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路與葆楨路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002228",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 05:05:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:53:06",
     "Close_Date_": "2016/10/1 下午 12:43:42"
-  },
-  {
-    "FileNo_": "INS161001109",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 10:48:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南進五街12號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 10:52:32",
-    "Close_Date_": ""
   }
 ]
