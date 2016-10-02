@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002401",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 11:52:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "安樂路與鹽埕大路街交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002400",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 11:47:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:09:34",
     "Close_Date_": "2016/10/2 上午 07:54:23"
-  },
-  {
-    "FileNo_": "INS161001282",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 04:48:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中山二路 (苓雅二路至四維三路)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌燈故障不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 04:49:59",
-    "Close_Date_": ""
   }
 ]
