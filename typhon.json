@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161002384",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 10:28:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市楠梓區宏昌街136巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "本區域已一週路燈不亮，不僅危及用路安全，也行成治安死角，煩請儘速查修，謝謝！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 10:36:06",
     "Close_Date_": ""
   },
   {
