@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002355",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 09:09:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "嘉展路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "想請問一下，我們嘉展路居民就不是高雄市的市民嗎?那為什麼從颱風到現在嘉展路496巷及嘉展路整條路燈未亮而造成多起交通事故！請趕緊至這些地方修復！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002354",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 09:07:53",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161002352",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:07:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路與後勁西路口(近後勁國中大門前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 09:09:40",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:58:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001234",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 02:54:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與熱河一街、民族一路與承德街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌與前後不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 02:55:29",
     "Close_Date_": ""
   }
 ]
