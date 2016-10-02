@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161002369",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:43:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "球場路與文心巷及山腳路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附近路燈於稍早跳電不亮，建請查處。(並表示近期已多次跳電)",
+    "BeforeDesc_": "渠反映該處附近路燈於稍早跳電、目前不亮，建請查處。(並表示近期已多次跳電)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 09:45:34",
     "Close_Date_": ""
   },
   {
