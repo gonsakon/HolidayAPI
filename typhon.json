@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002164",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 02:31:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山三路43號(獅甲國中)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處正撥放音樂，噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002163",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:26:16",
@@ -3418,20 +3435,20 @@
   },
   {
     "FileNo_": "INS161001445",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 09:58:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "公園北路22巷與壽華路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處路口周界瀰漫一股疑似工廠所排放廢氣異味致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/2 14:28電覆陳情人未果，故於2016/10/02 14:30簡訊回覆:蔡小姐您好，\r\n您10月2日反映空汙問題，本府環保局派員聯繫，稽查時於周界巡視未發現，感謝您的熱心通報，倘您\r\n對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 10:00:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 下午 02:31:17"
   },
   {
     "FileNo_": "INS161001444",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 08:48:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001045",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 08:40:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華寧路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線自颱風過後，有8至9盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 08:42:00",
     "Close_Date_": ""
   }
 ]
