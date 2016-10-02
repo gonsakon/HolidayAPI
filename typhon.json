@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161002169",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:41:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路6巷44弄25號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈1盞故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 02:43:09",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161002167",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:40:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "舊城巷19號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈1盞故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 02:43:02",
     "Close_Date_": ""
   },
   {
