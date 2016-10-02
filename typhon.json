@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002132",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 12:03:14",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "崎漏里濱海路一段779號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址旁有一長蟲狗屍，建請查處。(先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002131",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 12:00:30",
@@ -1293,14 +1310,14 @@
   },
   {
     "FileNo_": "INS161002052",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 上午 08:42:37",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由二路上與大順一路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌保護蓋不見，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 06:49:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001013",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 上午 06:46:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "海邊路(光榮碼頭)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處進行輕軌施工，機具噪音擾鄰，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/01 08:50 環保局環境稽查科中區股潘政&#23791;先生回報，稽查人員於07:20到\r\n達現場，稽查當時人員沿該路段光榮碼頭外圍沿線巡查，未發現有輕軌施工使用動力機具致噪音情\r\n事；並於10/02 09：47電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 06:49:04",
-    "Close_Date_": "2016/10/2 上午 09:48:03"
   }
 ]
