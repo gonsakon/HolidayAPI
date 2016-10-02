@@ -272,6 +272,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161002205",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/2 下午 04:10:10",
+    "ReplyUnit_": "F01005",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "大崗山一線天",
+    "UnitName_": "田寮區公所",
+    "StatusName_": "處理完成",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有樹木傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 04:11:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002204",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 04:08:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:42:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001101",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/1 上午 10:33:31",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "830台灣高雄市鳳山區華山街167巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "田寮區古亭里廟後巷剛剛來電，隆后宮前電線有爆炸聲，現在又停電了，拜託處理，謝謝。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 10:53:29",
     "Close_Date_": ""
   }
 ]
