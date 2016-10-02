@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002106",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 10:46:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順三路316巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處鐵路工地擴音器撥放音樂噪音，已持續近2小時，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002105",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 10:43:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 11:50:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930687",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 11:40:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高鳳路與松安街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 11:50:40",
     "Close_Date_": ""
   }
 ]
