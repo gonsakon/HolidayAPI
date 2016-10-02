@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 12:17:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新庄仔路662號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002401",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 11:52:30",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161002391",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 10:54:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重光路65號10樓",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情事，建請會同。(請人員先行致電聯繫陳情人)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:08:50",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001283",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 05:03:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路6之13號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前住家因颱風有一大型鐵片吹至該處，尚未移除，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/1 18：13 三民西區清潔隊黃子沄小姐回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 05:09:34",
-    "Close_Date_": "2016/10/2 上午 07:54:23"
   }
 ]
