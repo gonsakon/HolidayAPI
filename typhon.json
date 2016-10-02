@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002184",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 03:29:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "民有路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮(路燈編號：001472)，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002183",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 03:28:19",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS161002154",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 01:45:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "合興街133巷1號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處前一盞路燈白天未熄，建請查修。",
     "AfterDesc_": "",
@@ -7362,20 +7379,20 @@
   },
   {
     "FileNo_": "INS161001230",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 02:42:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路651號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前人行道上有堆放樹枝垃圾未清,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/01 15：35鼓山區清潔隊馮靜儀小姐回報，該處暫不影響交通，之前已有進行處理，\r\n惟因人力、車輛不足，需排程處理，故改派非網A-TB-2016-88182賡續辦理；並於10/02 15：26電覆陳情人，故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:47:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 下午 03:28:08"
   },
   {
     "FileNo_": "INS161001229",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 09:18:21",
     "Close_Date_": "2016/10/2 下午 03:00:30"
-  },
-  {
-    "FileNo_": "INS161001063",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 09:14:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "高雄市仁武區",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "高雄市仁慈里慈英街近仁慈路34號旁路燈不亮另仁慈二街近仁慈路3盞路燈及澄新九街78巷3號路燈亮整天",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 09:49:31",
-    "Close_Date_": ""
   }
 ]
