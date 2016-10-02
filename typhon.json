@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002122",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 11:39:39",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗後砲台",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映前往該處時，有三隻流浪犬衝出對民眾攻擊，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002121",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 11:33:35",
@@ -57,7 +74,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "清豐三路376巷前空地",
+    "address_": "清豐五路與土庫路交叉口前空地",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
@@ -6811,7 +6828,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址裝潢，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/01 15:36 環保局稽查科中區股林明勳先生回報，稽查人員於14:00到達，\r\n稽查當時該處大門深鎖且未發現有機具致噪音；並於10/02 11：30電覆陳情人，惟陳情人反映此為長\r\n期問題，故另派非網A-TB-2016-88547追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:49:02",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 01:26:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001003",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 01:00:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "信昌街及後昌路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該兩處路段沿線至颱風過後路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 01:02:37",
     "Close_Date_": ""
   }
 ]
