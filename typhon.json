@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161002395",
+    "FileNo_": "INS161002396",
     "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 11:11:10",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "仕元路右邊巷與仕元路左邊巷口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有流浪犬之聚集，並追逐陳情人姪子導致受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002395",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 11:08:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "翁園路441號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處兩盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 11:11:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 04:42:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001277",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 04:39:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "湖中路456號對向安全島上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一黑色狗屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】10/01 17:50 湖內區清潔隊蔡明亮班長回報，欲將該狗屍清除放置垃圾車時，有民\r\n眾要求要將此狗屍帶走自行處理，已轉交狗屍給民眾處理，故此結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 04:40:57",
-    "Close_Date_": "2016/10/2 上午 07:54:40"
   }
 ]
