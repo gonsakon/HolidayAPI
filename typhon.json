@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002147",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 01:13:01",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "成功路160號前(魚塭附近)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻狗脖子受傷，鐵鍊還在脖子上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002146",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 01:03:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 07:58:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001026",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 07:49:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過勇路15號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，已有民眾摔傷，警方已在場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 07:50:16",
     "Close_Date_": ""
   }
 ]
