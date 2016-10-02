@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002296",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:20:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "龍德路90號 104號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002295",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:16:37",
@@ -26,7 +43,7 @@
     "address_": "民益路64巷71弄與72弄旁",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
-    "InformDesc_": "人行道設施損壞(一)",
+    "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處巷弄旁自行車道沿線路燈皆故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:41:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001176",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 12:31:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路與中東街口(波斯頓餐廳旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一地層下陷之25公分坑洞，已通報110前來設警示，煩儘速處理。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 12:34:35",
     "Close_Date_": ""
   }
 ]
