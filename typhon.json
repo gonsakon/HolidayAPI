@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003024",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:05:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加昌路上，從803號到加工區前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該處兩側路燈、號誌、電桿皆張貼售屋廣告，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003023",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 06:59:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 06:00:56",
     "Close_Date_": "2016/10/2 上午 04:32:25"
-  },
-  {
-    "FileNo_": "INS161001304",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 05:57:21",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺民路與民孝路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌有幾處綠燈不亮及紅燈不亮狀況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 05:59:06",
-    "Close_Date_": ""
   }
 ]
