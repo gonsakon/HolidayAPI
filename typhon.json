@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002315",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:46:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫不明惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002314",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 07:46:18",
@@ -2024,14 +2041,14 @@
   },
   {
     "FileNo_": "INS161002194",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 04:02:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東三路與裕誠路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈為閃紅燈狀態，建請修繕。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:38:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001193",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 01:32:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "勇志街與忠誠路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障不亮多日,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:33:54",
     "Close_Date_": ""
   }
 ]
