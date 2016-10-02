@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002171",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 02:56:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "文橫二路24號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址正進行裝修作業，有機具使用噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002170",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:46:44",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161002130",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 上午 11:59:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路(介於中華路與澄觀路之間)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映分隔島電線桿上遭張貼廣告物，建請拆除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 08:51:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001050",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 08:48:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中興路上；過港隧道出口(旗津往高雄方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，造成民眾行經爆胎且車輛卡住，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 08:50:00",
     "Close_Date_": ""
   }
 ]
