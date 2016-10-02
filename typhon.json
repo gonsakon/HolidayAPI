@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002314",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:46:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲圍路豐田巷40號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002313",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 07:44:27",
@@ -1905,14 +1922,14 @@
   },
   {
     "FileNo_": "INS161002200",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 04:04:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路一段與自由路路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:33:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001194",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 01:30:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋西路與中華路口(紅綠號誌燈底下)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:31:20",
     "Close_Date_": ""
   }
 ]
