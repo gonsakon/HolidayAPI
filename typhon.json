@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002325",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 08:06:27",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "東門路與城峰路口(大義國中後門)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處於慢車道旁有一水利局箱涵破損所致之柏油坑洞、下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002323",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:02:53",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161002322",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:00:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河堤路(介於明誠二路與大順橋)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該段河堤腳踏車道之路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 08:06:27",
     "Close_Date_": ""
   },
   {
@@ -1667,14 +1684,14 @@
   },
   {
     "FileNo_": "INS161002223",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 04:47:15",
     "ReplyUnit_": "E01002",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "大崗山一線天",
     "UnitName_": "觀光局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "風景區設備損壞有立即危險者",
     "BeforeDesc_": "渠反映該處有樹木傾倒，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:49:02",
     "Close_Date_": "2016/10/2 上午 11:39:49"
-  },
-  {
-    "FileNo_": "INS161001202",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 01:45:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大坪路與永和街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈故障不亮，並已有民眾發生交通事故，建請儘速修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:47:52",
-    "Close_Date_": ""
   }
 ]
