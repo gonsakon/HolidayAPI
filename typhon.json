@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002146",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 01:03:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路與建國二路口(民族陸橋)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處雙向邊坡有藤蔓掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 01:04:27",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002145",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 12:57:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 07:50:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001025",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 07:38:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北二路上(三鳳宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該廟宇燃放鞭炮致空氣污染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 07:40:41",
     "Close_Date_": ""
   }
 ]
