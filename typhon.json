@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161002171",
+    "FileNo_": "INS161002172",
     "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 02:58:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇德路與文康路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面有車禍油漬，警員仍於現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002171",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:56:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "文橫二路24號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址正進行裝修作業，有機具使用噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 02:58:11",
     "Close_Date_": ""
   },
   {
@@ -6750,20 +6767,20 @@
   },
   {
     "FileNo_": "INS161001255",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 03:58:05",
     "ReplyUnit_": "A01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳松路11號(合作金庫前)",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一小段白色標線是以油漆補繪,造成10/1下雨天時陳情人騎腳踏車滑倒,另起身不久,又有一位機車騎士滑倒,因具危險性,建請查該處原施工單位未確實復原標線,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/01 18:23工務局工程企劃處第六課黃禹穎先生回報，表示該處確位置是在\r\n郵局前方，並非合作金庫前，目前無危險性，因無法確認為何單位施工所致，需要再另外查明，故改\r\n派非網A-TB-2016-88282賡續辦理；並於10/02 14：58電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 04:04:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 下午 02:58:40"
   },
   {
     "FileNo_": "INS161001254",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 08:53:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001051",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 08:50:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路與河華路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處雙向號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 08:51:16",
     "Close_Date_": ""
   }
 ]
