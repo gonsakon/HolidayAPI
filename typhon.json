@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002182",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 03:14:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三鳳宮",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該廟燃放爆竹造成煙霧瀰漫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002181",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 03:07:32",
@@ -1038,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161002118",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 上午 11:26:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐五路與土庫路交叉口前空地",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該空地有民眾在燃燒金紙致空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 09:19:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001061",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 09:11:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "海洋二路102巷14號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該民宅燃燒大量金紙產生空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 09:14:15",
     "Close_Date_": ""
   }
 ]
