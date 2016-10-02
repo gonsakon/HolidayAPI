@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002058",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 08:50:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁勇路上中華電信學院至松藝路之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002057",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 08:49:35",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161002055",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 08:47:23",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路356巷60弄10號後方，後勁溪旁",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處人行步道燈均故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 上午 08:49:51",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 09:58:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930639",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 09:54:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中正路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路上路燈全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 09:56:16",
     "Close_Date_": ""
   }
 ]
