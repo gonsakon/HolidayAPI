@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003023",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 06:59:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路6巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處「水管路6巷」之路牌已歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003022",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 06:39:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:59:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001303",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 05:56:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐二路116號大樓附近(樹德家商校內頂樓水塔，靠近學校後門)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該校屋頂水塔機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:00:22",
     "Close_Date_": ""
   }
 ]
