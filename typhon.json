@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 11:40:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓路13號至15號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一(楠梓路、建楠路)路牌掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002122",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 11:39:39",
@@ -6818,20 +6835,20 @@
   },
   {
     "FileNo_": "INS161001203",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 01:45:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術南二路80號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址裝潢，機具噪音擾民，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/01 15:36 環保局稽查科中區股林明勳先生回報，稽查人員於14:00到達，\r\n稽查當時該處大門深鎖且未發現有機具致噪音；並於10/02 11：30電覆陳情人，惟陳情人反映此為長\r\n期問題，故另派非網A-TB-2016-88547追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:49:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 11:39:49"
   },
   {
     "FileNo_": "INS161001202",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 02:01:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001004",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 01:25:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路270號附近 (陽明網球場前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處六盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 01:26:51",
     "Close_Date_": ""
   }
 ]
