@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161002290",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:05:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "海成一街海成社區",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址有一盞路燈(編號:角宿027)故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 07:12:16",
     "Close_Date_": ""
   },
   {
