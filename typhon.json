@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002138",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 12:40:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "濱海路4段21巷1號(區公所旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒阻擋住家進出，煩請儘速移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 12:46:39",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002137",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 12:38:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 07:18:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001019",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 07:14:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "五福三路與河東路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處於號誌燈下路面有一遭輾碎鼠屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 07:16:00",
     "Close_Date_": ""
   }
 ]
