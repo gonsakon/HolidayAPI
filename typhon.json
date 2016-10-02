@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002067",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 上午 09:16:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路97號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處外牆磁磚施工噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 上午 09:18:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002066",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 09:16:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:09:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930648",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 10:00:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大庄路356之1號左前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 10:10:48",
     "Close_Date_": ""
   }
 ]
