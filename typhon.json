@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002345",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 08:51:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "富野路100號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002344",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:45:08",
@@ -1038,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161002281",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 06:54:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路三段與光明路三路1078巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障，呈現閃燈，建請查處",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:36:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001223",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 02:32:01",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東四路與美術東五路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈閃燈故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 02:33:11",
     "Close_Date_": ""
   }
 ]
