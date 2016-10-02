@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002295",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:16:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路560巷與民族一路交叉口(TOYOTA旁邊)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002294",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 07:16:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:34:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001175",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 12:31:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "旗楠路60號(聯華氣體公司)對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一鐵皮圍籬吹至慢車道上，擔心夜間行車安全，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 12:39:56",
     "Close_Date_": ""
   }
 ]
