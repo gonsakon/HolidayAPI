@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003037",
+    "FileNo_": "INS161003038",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:51:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "夢裡東巷18之7號旁(路燈編號:3191)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003037",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 07:47:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建興路116號(樹德家商)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該校後方校舍頂樓有一冷卻水塔故障，運轉皆會產生噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 07:49:05",
     "Close_Date_": ""
   },
   {
@@ -664,20 +681,20 @@
   },
   {
     "FileNo_": "INS161002396",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/2 下午 11:11:10",
     "ReplyUnit_": "E01001",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕元路右邊巷與仕元路左邊巷口",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有流浪犬隻聚集，並追逐陳情人姪子導致受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/02 23：35 農業局動物保護處鄭坤山先生回報，有與陳情人聯繫確認現場情況，\r\n陳情人表示犬隻已經不在現場，請局處不用前往該處，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 11:14:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/3 上午 07:48:05"
   },
   {
     "FileNo_": "INS161002395",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 06:36:20",
     "Close_Date_": "2016/10/2 下午 12:40:42"
-  },
-  {
-    "FileNo_": "INS161001317",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 06:32:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔北巷9號(路燈編號:1264)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:33:29",
-    "Close_Date_": ""
   }
 ]
