@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161002382",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 10:24:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "仁愛三街與四維三路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一號誌小綠人故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處一小綠人號誌故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 10:26:50",
     "Close_Date_": ""
   },
   {
