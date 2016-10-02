@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002317",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 07:51:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自重街1號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮三天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 07:53:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002316",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:49:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:42:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001197",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 01:39:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路與水管路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈燈泡毀損僅剩電線垂掛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:41:07",
     "Close_Date_": ""
   }
 ]
