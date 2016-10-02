@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002268",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 06:37:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄和路208巷、澄平街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002266",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:36:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 11:38:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001147",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 11:33:54",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "青年一路與金門街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口車輛通行為紅燈時，行人號誌為綠燈不一致，恐致行人遭撞危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 11:35:33",
     "Close_Date_": ""
   }
 ]
