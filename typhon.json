@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002187",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 03:48:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002185",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 03:30:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 09:49:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001065",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/1 上午 09:16:46",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "古亭里廟後巷停電",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "古亭里廟後巷停電",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 09:57:04",
     "Close_Date_": ""
   }
 ]
