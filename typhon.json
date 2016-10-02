@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002356",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 09:09:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "嘉展路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "想請問一下，我們嘉展路居民就不是高雄市的市民嗎?那為什麼從颱風到現在嘉展路496巷及嘉展路整條路燈未亮而造成多起交通事故！請趕緊至這些地方修復！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002355",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 09:09:00",
@@ -18,36 +35,36 @@
   },
   {
     "FileNo_": "INS161002354",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:07:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "1.後昌新路(後昌路與德民路間) 2.後昌路(後昌新路與加昌路間) 3.加昌路(後昌路與軍校路間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該三處沿線路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 09:09:58",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161002353",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:07:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路上(介於惠民路與德民路間)、惠民路、右昌大橋",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 09:09:51",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:59:00",
     "Close_Date_": "2016/10/2 上午 04:34:14"
-  },
-  {
-    "FileNo_": "INS161001235",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 02:56:41",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "建榮路上與九如四路(東往西方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈線路垂落，若公車行駛過去會碰到，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 02:58:25",
-    "Close_Date_": ""
   }
 ]
