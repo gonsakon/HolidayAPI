@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002363",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 09:27:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞春街上(介於瑞春街41巷到瑞賢街之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002362",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:20:53",
@@ -1055,14 +1072,14 @@
   },
   {
     "FileNo_": "INS161002298",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 07:23:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪八路155號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址前路面有碎石及砂土，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 03:21:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001242",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 03:16:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "民勇街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有疑似火車站附近工廠排廢廢棄導致空污惡臭，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/01 18：23 環保局環境稽查科南區股朱春滿先生回報，稽查人員於18:00\r\n到達，沿火車站附近巡查未發現有工廠排放廢氣之情事；並於10/02 12：15電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 03:18:48",
-    "Close_Date_": "2016/10/2 下午 12:16:56"
   }
 ]
