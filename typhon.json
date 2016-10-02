@@ -10,7 +10,7 @@
     "UnitName_": "交通局",
     "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障閃燈,請查處。",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 07:24:45",
