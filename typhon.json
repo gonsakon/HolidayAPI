@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002129",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 11:55:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興楠路上(介於國道1號往天后宮之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該處路段沿線中央分隔島上，有建商廣告用鐵絲固定違規看板，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002128",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 11:53:49",
@@ -2262,20 +2279,20 @@
   },
   {
     "FileNo_": "INS161001482",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 11:21:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "府北路與大有街口交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路口網狀格處有玻璃碎片，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/2 11:50電覆陳情人未果，故於2016/10/02 11:53簡訊回覆:趙先生您好，\r\n您10月1日所反映玻璃碎片問題，本府清潔隊已派員前往清除完畢，感謝您的熱心通報，倘您對本案處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 11:24:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 11:54:10"
   },
   {
     "FileNo_": "INS161001481",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 06:39:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001010",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 06:16:03",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路與過埤路口(近消防局)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口南往北之號誌桿綠燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 06:17:29",
     "Close_Date_": ""
   }
 ]
