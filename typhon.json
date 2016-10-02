@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161002267",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 06:37:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河南路6號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有兩盞路燈故障不亮已一周，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 06:38:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002266",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:36:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 11:50:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001148",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 11:37:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河堤南路50號至80號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿路路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 11:38:52",
     "Close_Date_": ""
   }
 ]
