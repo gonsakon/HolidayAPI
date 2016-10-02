@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002133",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 12:14:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "番仔路16號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002132",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 12:03:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 06:53:23",
     "Close_Date_": "2016/10/1 下午 04:25:31"
-  },
-  {
-    "FileNo_": "INS161001014",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 06:46:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "台29旗南三路與台22統嶺路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 06:49:34",
-    "Close_Date_": ""
   }
 ]
