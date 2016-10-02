@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002334",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 08:22:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎信街60號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002333",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:19:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:05:13",
     "Close_Date_": "2016/10/2 上午 11:24:50"
-  },
-  {
-    "FileNo_": "INS161001211",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 01:59:33",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路與應安街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈號現是朝下，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 02:03:28",
-    "Close_Date_": ""
   }
 ]
