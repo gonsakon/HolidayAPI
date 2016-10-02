@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002137",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 12:38:07",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "東門路與城峰路口(大義國中後門)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處於慢車道水溝旁有柏油破損致坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 12:38:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002136",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 12:37:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 07:12:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001017",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 07:10:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大平路85號至高坪二十三路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 07:12:24",
     "Close_Date_": ""
   }
 ]
