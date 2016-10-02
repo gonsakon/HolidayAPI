@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161002168",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:41:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大智路與大埤路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處共桿路燈號誌面板遺失且不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 02:43:44",
     "Close_Date_": ""
   },
   {
@@ -3197,20 +3197,20 @@
   },
   {
     "FileNo_": "INS161001465",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 下午 10:50:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "光華三路155號附近",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處飄散不明化學刺鼻異味，令渠深感不適，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/2 14:37電覆陳情人未果，故於2016/10/02 14:43簡訊回覆:林先生您好，\r\n您10月1日反映空汙問題，本府環保局派員前往，稽查時於通報地址及周界附近巡查均未發現有不明化\r\n學異味，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 10:53:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 下午 02:44:19"
   },
   {
     "FileNo_": "INS161001464",
