@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002329",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 08:16:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "民族路36巷2號(東門國小前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002328",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:09:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 01:54:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001207",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 01:48:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北二路(三鳳宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該廟宇燃放鞭炮致空氣污染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:51:50",
     "Close_Date_": ""
   }
 ]
