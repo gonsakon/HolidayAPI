@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002144",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 12:55:30",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "高雄展覽館公有停車場與成功二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障秒數過長，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002143",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 12:54:51",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161002139",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 12:53:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "民族路與南科高雄園區中山高聯絡道",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈黃燈燈號轉向，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 12:55:27",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 07:46:01",
     "Close_Date_": "2016/10/2 上午 11:51:46"
-  },
-  {
-    "FileNo_": "INS161001023",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 07:32:03",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路一段與自由路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌為閃燈狀態，未有正常運作，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 07:33:03",
-    "Close_Date_": ""
   }
 ]
