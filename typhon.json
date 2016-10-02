@@ -1105,6 +1105,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161002300",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/2 下午 07:26:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "筆秀路、筆秀東路、秀正路、秀正路康樂巷、秀正路信義巷、秀正路忠孝巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段路燈大範圍故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 07:29:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002299",
     "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 07:24:44",
@@ -1327,14 +1344,14 @@
   },
   {
     "FileNo_": "INS161002286",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 07:01:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "力行路79巷30號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞LED路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 03:30:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001246",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 03:25:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路近世全路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該路旁傾倒杉木疑遭兩人以電鋸截斷載上私人白色箱型車，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 03:34:54",
     "Close_Date_": ""
   }
 ]
