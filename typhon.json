@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161002342",
+    "FileNo_": "INS161002343",
     "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 08:43:54",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮總路與大中一路口(台灣大哥大前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一大坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002342",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 08:42:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "金山路與中民路交接處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈(編號:金山高幹31與32)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 08:44:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 02:30:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001221",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 02:22:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德中路166號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有三棵路樹傾倒在人行道上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 02:24:20",
     "Close_Date_": ""
   }
 ]
