@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002100",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 10:33:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路三段與光明路三段1078巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處四個方向號誌燈閃紅燈，建請修繕。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002099",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 10:29:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 11:25:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930681",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 11:14:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "旗楠路887號(一心釣蝦場)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處營業店家目前有油煙逸散致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 11:18:48",
     "Close_Date_": ""
   }
 ]
