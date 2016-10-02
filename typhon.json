@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002294",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:16:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "民益路64巷71弄與72弄旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002293",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:10:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:39:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001174",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/1 下午 12:30:14",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "高雄市湖內區",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "在高雄市湖內區的魚塭路上有電線杆傾斜,只知道附近的電線杆編號是白雲143左右附近,有一隻很明顯的傾斜",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 01:55:07",
     "Close_Date_": ""
   }
 ]
