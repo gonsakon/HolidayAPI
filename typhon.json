@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003013",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 上午 01:38:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓路480號旁(香香雞排)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家油煙逸散致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 上午 01:42:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003012",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 01:15:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:43:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001293",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 05:36:22",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重信路上與華夏路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路段號誌燈紅燈恆亮無法變燈，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 05:37:18",
     "Close_Date_": ""
   }
 ]
