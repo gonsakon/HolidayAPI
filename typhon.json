@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161003008",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 12:48:53",
     "ReplyUnit_": "E01001",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "高雄市仁武區京吉二路37號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "高雄市仁武區京吉二路37號 飛鳥觀止大樓附近 常有流浪狗聚集 而且會追機車騎士 半夜吠叫",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 02:00:43",
     "Close_Date_": ""
   },
   {
