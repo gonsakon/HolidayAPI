@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002160",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 02:20:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "翠屏路2號之2",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有許多傾倒路樹未清除，影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002159",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 02:15:52",
@@ -698,14 +715,14 @@
   },
   {
     "FileNo_": "INS161002116",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 上午 11:18:50",
     "ReplyUnit_": "E01001",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "林園北路408巷200弄與溪洲二路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻現於水溝內，腳疑似骨折，建請會同查處。(先與陳情人聯繫)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 08:42:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001039",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 08:26:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "鳥松里中正路46巷與中正路口(明華傢俱轉入)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈故障不亮，致9/30晚有民眾相撞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 08:31:19",
     "Close_Date_": ""
   }
 ]
