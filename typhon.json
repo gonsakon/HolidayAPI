@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002388",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 10:45:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路上(介於中興路與金福路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有數個較深路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002387",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 10:41:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 04:26:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001269",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 04:22:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "新興街186號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該址附近有一陸橋工程，唯有將鐵條放置於該址車庫前致影響通行，建請查處。(另表示需請單位電覆)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 04:28:22",
     "Close_Date_": ""
   }
 ]
