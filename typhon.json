@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002391",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 10:54:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002390",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 10:52:47",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161002389",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 10:52:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "湖內巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有瀰漫燃燒塑膠惡臭異味，疑似由北邊垃圾掩埋場飄散，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 10:54:17",
     "Close_Date_": ""
   },
   {
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161002382",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 10:24:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "仁愛三街與四維三路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一小綠人號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 04:33:32",
     "Close_Date_": "2016/10/2 下午 03:32:38"
-  },
-  {
-    "FileNo_": "INS161001273",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 04:30:46",
-    "ReplyUnit_": "F01019",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "三和路138之18號斜對面",
-    "UnitName_": "大樹區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處六米以下道路路面隆起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 04:38:11",
-    "Close_Date_": ""
   }
 ]
