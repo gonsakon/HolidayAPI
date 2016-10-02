@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161002301",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:26:50",
     "ReplyUnit_": "E01001",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "光明九巷69之12號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一流浪犬掉入舊井中，建請救援。(人員到達前先與渠聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 07:29:31",
     "Close_Date_": ""
   },
   {
