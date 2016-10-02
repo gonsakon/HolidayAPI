@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003004",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 12:31:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "皓東路9巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003003",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 12:17:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:21:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001284",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 05:07:50",
-    "ReplyUnit_": "F01022",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "新興街186號",
-    "UnitName_": "美濃區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該址附近有一陸橋工程，唯有將鐵條放置於該址車庫前致影響通行，建請查處。(另表示需請單位電覆)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 05:08:50",
     "Close_Date_": ""
   }
 ]
