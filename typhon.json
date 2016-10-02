@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002104",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 10:42:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路24號；楠梓都會公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該公園內園樹颱風來襲時傾倒至今尚未處理，已散發出異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002103",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 10:40:36",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161002083",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 上午 10:01:54",
     "ReplyUnit_": "F01004",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳崗路31巷17號",
     "UnitName_": "鳳山區公所",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有水泥塊、垃圾堆置，建請查處。",
     "AfterDesc_": "",
@@ -8025,20 +8042,20 @@
   },
   {
     "FileNo_": "INS161001115",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/1 上午 10:55:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路102號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該早餐業者目前有產生油煙致空汙情形，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/01 14：34 環保局環境稽查科中區股劉翹瑋先生回報，稽查人員於14：15\r\n到達，稽查當時店內無客人，周界巡視未發現上述空污情事，仍予以勸導店家加強防範；並於10/02 \r\n10：40電覆陳情人，其表示未通報此案，經側聽錄音電話無誤，故解除管制",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:59:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/2 上午 10:42:48"
   },
   {
     "FileNo_": "INS161001114",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 11:39:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930685",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 11:37:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路，小港國小附近",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有瀰漫油耗化學異味，質疑為中油排放，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 11:39:29",
     "Close_Date_": ""
   }
 ]
