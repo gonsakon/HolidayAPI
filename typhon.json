@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002235",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 05:29:52",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "玉庫里老公堀圳北向",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "全反映該處內有一隻黑色犬隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002234",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 05:27:59",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS161002182",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 03:14:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三鳳宮",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該廟燃放爆竹造成煙霧瀰漫，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:59:07",
     "Close_Date_": "2016/10/2 上午 10:42:48"
-  },
-  {
-    "FileNo_": "INS161001114",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 10:55:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "壽民路140號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一大型樹枝懸掛路上(陳情人恐掉下來，有危險性)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 10:56:32",
-    "Close_Date_": ""
   }
 ]
