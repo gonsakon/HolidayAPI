@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002358",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 09:14:25",
+    "ReplyUnit_": "F01008",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中興路上，與中安路口",
+    "UnitName_": "燕巢區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處公所對面有一自行車LED指示燈傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002357",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 09:11:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 03:05:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001237",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 03:02:18",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與建榮路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映現該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 03:14:07",
     "Close_Date_": ""
   }
 ]
