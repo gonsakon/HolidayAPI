@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003005",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 12:34:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "中昌街、民昌街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈沿線多盞故障不亮，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003004",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 12:31:39",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161002399",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 下午 11:15:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "蚵仔寮",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "廣澤路後半段一整排路燈從莫蘭蒂颱風後就壞掉整個岸邊漁港都一片漆黑",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 05:22:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001285",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 05:15:35",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過埤路與溪濱路口(南北向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈綠燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 05:21:09",
     "Close_Date_": ""
   }
 ]
