@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161002283",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:56:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路(凱旋三路至和平二路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段單數邊路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該路段門牌單數號路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 07:03:19",
     "Close_Date_": ""
   },
   {
