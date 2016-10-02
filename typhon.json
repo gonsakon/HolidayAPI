@@ -239,19 +239,19 @@
   },
   {
     "FileNo_": "INS161002047",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 08:20:25",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區民安街2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 上午 09:03:58",
     "Close_Date_": ""
   },
   {
