@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161002255",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:19:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八卦里永新四街416號、418號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址住戶燃燒垃圾致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 06:26:17",
     "Close_Date_": ""
   },
   {
