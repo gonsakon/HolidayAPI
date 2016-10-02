@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002250",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 06:06:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大埤路與濱湖路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處舉辦活動，有擴音器喇叭噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002249",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:03:43",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161002246",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 05:56:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "黃興路353巷與黃興路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 06:05:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 11:18:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001130",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 11:12:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "孟子路與文守路口(亞東水泥)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處因亞東水泥車輛掉落約50公尺長水泥漿致髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 11:16:27",
     "Close_Date_": ""
   }
 ]
