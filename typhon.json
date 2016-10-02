@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002221",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 04:42:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山路上(岡山農工前方)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路中央有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002218",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 04:35:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 10:33:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001097",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 10:28:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南京路148號(小確幸寵物店前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處人行道上有遭颱風吹落的「海洋一路、海洋二路」之路牌，建請查處。(※請人員前往取回時與寵物店人員告知)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 10:31:17",
     "Close_Date_": ""
   }
 ]
