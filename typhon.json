@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003033",
+    "FileNo_": "INS161003035",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:44:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山區中華一路992號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003033",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 07:44:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "文化路上,電桿編號195附近",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處整排路燈白天未熄(24小時恆亮)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 07:46:34",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 06:27:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001313",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 06:24:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁雄路沿線(往焚化廠方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈全故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:25:23",
     "Close_Date_": ""
   }
 ]
