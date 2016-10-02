@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002073",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 09:31:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "江山路33之3號隔壁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址進行施工有電鑽機具施工致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002072",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 09:30:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:10:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930654",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 10:03:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "1.大庄路80巷納骨塔前面、2.大庄路80巷35號右前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處地點前各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 10:10:25",
     "Close_Date_": ""
   }
 ]
