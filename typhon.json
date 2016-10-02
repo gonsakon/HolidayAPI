@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161002114",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/2 上午 11:03:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重信路上與華夏路口",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處綠燈號誌只有1秒鐘，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161002113",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 11:03:04",
@@ -35,19 +18,19 @@
   },
   {
     "FileNo_": "INS161002112",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 11:00:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重信路上與華夏路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處綠燈號誌只有1秒鐘，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 上午 11:05:18",
     "Close_Date_": ""
   },
   {
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 11:54:30",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS160930694",
+    "Status_": "4",
+    "Cre_Date_": "2016/9/30 下午 11:50:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鐵路街20巷2之1旁",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/9/30 下午 11:51:48",
     "Close_Date_": ""
   }
 ]
