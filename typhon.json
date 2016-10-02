@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002188",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 03:49:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路與鼎強街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "圓形路燈 燈蓋掀起",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002187",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 下午 03:48:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 09:19:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001066",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 上午 09:16:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路(過雄街口)至中安路口往北方向道路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "路面凹凸不平,落差大,汽機車通行易造成危險,希望可以整平道路,謝謝",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 09:49:22",
     "Close_Date_": ""
   }
 ]
