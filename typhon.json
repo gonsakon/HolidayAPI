@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161002292",
+    "FileNo_": "INS161002293",
     "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:10:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維四路與永平街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002292",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 07:08:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "大舍南路133號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處約有10多盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處約有10多盞路燈均故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 07:10:36",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:26:42",
     "Close_Date_": "2016/10/2 下午 03:13:16"
-  },
-  {
-    "FileNo_": "INS161001172",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 12:24:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山南路與中山南路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處往火車站方向慢車道號誌故障，導致機車與快車道汽車搶道，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 12:25:30",
-    "Close_Date_": ""
   }
 ]
