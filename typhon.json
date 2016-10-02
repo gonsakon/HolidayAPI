@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002081",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 09:55:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南星路(過中林路口；往港口方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處汽車道上有一犬屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002080",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 09:52:13",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS161002068",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 上午 09:25:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武仁街98號對面小公園轉角處",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人棄置一大包粉色廢棄垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:23:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930661",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 10:21:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路、同和路及八德一路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該三處道路沿線路燈從颱風過後皆是故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 10:22:49",
     "Close_Date_": ""
   }
 ]
