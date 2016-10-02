@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003030",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 07:38:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學二十六街大學西路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003029",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 07:34:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 07:15:52",
     "Close_Date_": "2016/10/1 下午 07:19:46"
-  },
-  {
-    "FileNo_": "INS161001310",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 06:11:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德一路384巷23號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有2至3盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 06:12:53",
-    "Close_Date_": ""
   }
 ]
