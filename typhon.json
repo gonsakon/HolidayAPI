@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002286",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 07:01:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "力行路79巷30號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞LED路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002285",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 06:58:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 12:05:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001166",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 12:03:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "林山巷上近義大二路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有鋼骨架廣告看板掉落於路面上阻礙道路，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 12:36:17",
     "Close_Date_": ""
   }
 ]
