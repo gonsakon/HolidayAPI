@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161002188",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 03:49:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金後路與鼎強街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "圓形路燈 燈蓋掀起",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處人行道上有一路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/2 下午 03:54:10",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002186",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/2 下午 03:48:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街99之2號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處人行道上有一圓形路燈燈蓋掀起，且左右兩盞皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 03:53:55",
     "Close_Date_": ""
   },
   {
@@ -5322,14 +5339,14 @@
   },
   {
     "FileNo_": "INS161001356",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 07:49:37",
     "ReplyUnit_": "B01001",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "七星路68之1號前方(慈玄宮旁)",
     "UnitName_": "養工處2",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公所-路樹傾倒(二)",
     "BeforeDesc_": "渠反映有一路路樹傾倒於路面，且壓到電線，並影響交通，建請移除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 上午 09:50:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001067",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 上午 09:17:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路718號與天興街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 上午 09:19:50",
     "Close_Date_": ""
   }
 ]
