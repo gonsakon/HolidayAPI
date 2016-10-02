@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002372",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 下午 10:02:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "成功南路上，捷運青埔站附近一帶",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002371",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 下午 09:51:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 03:55:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001252",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 03:52:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "政德路276號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址正對面路邊水溝洩水孔因砂土淤積導致現降雨無法洩流進水溝造成積水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 03:58:52",
     "Close_Date_": ""
   }
 ]
