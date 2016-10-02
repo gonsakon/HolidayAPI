@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002080",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 09:52:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓元街105號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈兩盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002078",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 09:50:24",
@@ -2313,14 +2330,14 @@
   },
   {
     "FileNo_": "INS161001428",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/1 下午 09:46:10",
     "ReplyUnit_": "F01008",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "埤底巷(往中寮二路蓮花亭方向)",
     "UnitName_": "燕巢區公所",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有土石滑落至路面，為六米以下道路，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:19:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930659",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 10:16:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華二路上(介於九如三路與熱河三街之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段雙向多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 10:21:22",
     "Close_Date_": ""
   }
 ]
