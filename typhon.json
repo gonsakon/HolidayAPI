@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002062",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 09:04:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "忠孝路二段67巷45號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈斷裂、一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002061",
     "Status_": "1",
     "Cre_Date_": "2016/10/2 上午 09:00:54",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161002056",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/2 上午 08:48:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "頂厝路與沿海路四段",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有號誌當故障不亮情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:11:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930643",
-    "Status_": "3",
-    "Cre_Date_": "2016/9/30 下午 09:56:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大埤路上(長庚醫院之門診大樓停車場對面)， 往澄清湖棒球場方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 09:59:03",
     "Close_Date_": ""
   }
 ]
