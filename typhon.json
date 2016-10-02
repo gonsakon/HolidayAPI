@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161002088",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/2 上午 10:13:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳松路450巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈白天未熄已三天(編號: 開發幹13右1Q1710GE8966)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161002087",
     "Status_": "2",
     "Cre_Date_": "2016/10/2 上午 10:12:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/9/30 下午 10:52:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS160930668",
-    "Status_": "4",
-    "Cre_Date_": "2016/9/30 下午 10:45:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "華中街(旗山國小對面)，綠地涼亭",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處涼亭燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/9/30 下午 10:49:37",
     "Close_Date_": ""
   }
 ]
