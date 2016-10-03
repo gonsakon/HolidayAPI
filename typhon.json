@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003393",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 04:54:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "八德路二段與青年路二段口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌閃燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003392",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 04:53:19",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161003391",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 04:52:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "八德一路與八德中路",
+    "address_": "八德一路與八德中路上",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 04:54:04",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 03:54:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002187",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 03:48:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中山路85巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有兩個路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:06:43",
     "Close_Date_": ""
   }
 ]
