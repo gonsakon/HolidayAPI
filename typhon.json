@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161003482",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:08:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "建國路66巷22號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮數日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 07:10:05",
     "Close_Date_": ""
   },
   {
