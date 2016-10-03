@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004003",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 上午 12:23:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華二路19號(卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業目前有使用卡拉OK擴音器致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 上午 12:26:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004002",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 12:06:17",
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS161003565",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 09:20:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "龍東街100之1號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近疑似有人燃燒廢棄物，致空氣中瀰漫似瀝青之異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 07:48:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003032",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/3 上午 07:41:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "環球路79巷127號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處工廠停電多日(電號:11736033025)至今尚未復電，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 07:46:58",
     "Close_Date_": ""
   }
 ]
