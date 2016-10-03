@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161003415",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 05:31:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與大榮街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈均故障閃黃燈已有一日，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌燈均故障閃黃燈且已有一日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 05:32:13",
     "Close_Date_": ""
   },
   {
