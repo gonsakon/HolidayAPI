@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003355",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 03:47:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明誠三路上(介於民利街至中華一路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線人形道上，藝術造型路燈皆故障不亮，且有燈泡遺失情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003354",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 03:44:48",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003353",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 下午 03:44:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大吉路622巷對面",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有民眾燃燒物品產生白煙空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 下午 03:47:28",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 01:30:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002150",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 01:26:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "保安二街對面公園(鳳甲8之1公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該園內園燈皆故障不亮，表示從中秋節過後就故障至今，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 01:28:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002149",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 01:20:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎山街與大順二路(摩斯漢堡)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有2個小綠人號誌燈壞損多時皆未見人員修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 01:23:28",
     "Close_Date_": ""
   }
 ]
