@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003501",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 下午 07:40:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟三路278號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處安全島上有一盞路燈已故障多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 下午 07:44:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003500",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:38:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 07:22:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002295",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 07:16:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路560巷與民族一路交叉口(TOYOTA旁邊)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 07:18:30",
     "Close_Date_": ""
   }
 ]
