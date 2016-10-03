@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003219",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 11:38:27",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路27號旁",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處人行道破損，有兩個坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003217",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 11:37:03",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161003216",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 11:36:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "延平二路與信義街口(信義街上)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處一盞路燈未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 11:37:46",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 01:46:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002010",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 01:39:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "1.介壽路(013207、013207)、2.介壽路與自勉路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段有三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 01:46:15",
     "Close_Date_": ""
   }
 ]
