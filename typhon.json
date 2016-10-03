@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003228",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:07:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新下街上(介於博愛二路加油站後方至富民路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路段有風災遺留之垃圾、落葉未清，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003230",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:06:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 05:45:10",
     "Close_Date_": "2016/10/3 上午 11:55:58"
-  },
-  {
-    "FileNo_": "INS161002022",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 上午 05:33:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "慈英街9巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹已觸碰至高壓電線，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 05:37:02",
-    "Close_Date_": ""
   }
 ]
