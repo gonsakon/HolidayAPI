@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004043",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 07:47:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "千富街223巷12號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址工廠目前排放惡臭廢氣異味，建請查處。 (陳情人要求稽查人員處理完成與其回覆)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004042",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 07:44:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 08:50:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003073",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 08:45:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "右昌街143巷169弄2號、8號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該兩址前，各有一盞路燈(桿號：020600、020619)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 08:46:06",
     "Close_Date_": ""
   }
 ]
