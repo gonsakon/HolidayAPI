@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003351",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 03:41:48",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "一心二路235號(馬可先生麵包坊)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處後方夾縫有一隻貓受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003350",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 03:40:41",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161003349",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 03:37:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "吉和里下九寮5之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈遭風災吹走，建請查處。",
+    "BeforeDesc_": "渠反映該處一路燈整支遭風災吹走，致轉彎處昏暗，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 03:42:01",
     "Close_Date_": ""
   },
   {
@@ -1599,14 +1616,14 @@
   },
   {
     "FileNo_": "INS161003255",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 下午 12:53:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "大順三路191號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道有一路面坑洞，且曾修補過又再次下陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 01:16:11",
     "Close_Date_": "2016/10/3 下午 02:57:45"
-  },
-  {
-    "FileNo_": "INS161002146",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 01:03:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與建國二路口(民族陸橋)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處雙向邊坡有藤蔓掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 01:04:27",
-    "Close_Date_": ""
   }
 ]
