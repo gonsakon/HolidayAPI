@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161003626",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 10:53:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路499巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 10:59:13",
     "Close_Date_": ""
   },
   {
@@ -324,19 +324,19 @@
   },
   {
     "FileNo_": "INS161003602",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 10:24:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "阿蓮區",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "阿蓮區文學二路 柏園公園周邊路燈都故障，附近有遊覽車停在路邊，路況能見度很低非常危險，希望能趕快派修",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 10:59:42",
     "Close_Date_": ""
   },
   {
