@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003118",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 09:39:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "0919039082左營區忠言路復明路金城",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003117",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 09:35:22",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161003115",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 09:34:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "德昌街1巷17號4樓",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址住戶將廢棄家具丟在1樓數日，望派員稽查，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 09:36:06",
     "Close_Date_": ""
   },
   {
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS161003112",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 09:31:24",
     "ReplyUnit_": "F01019",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "中山路85巷內",
     "UnitName_": "大樹區公所",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處六米下巷道有兩個路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 09:36:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 08:58:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001397",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 08:55:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路與尚義街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 08:57:58",
     "Close_Date_": ""
   }
 ]
