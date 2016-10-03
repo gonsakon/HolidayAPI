@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003603",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 10:27:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "1.新庄仔路742號 2.新庄仔路652巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映地點1.一桿兩盞路燈故障不亮；地點2.一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003602",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 10:24:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 11:16:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002397",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 11:12:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路17之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號:0763)照射角度朝天空，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 11:15:44",
     "Close_Date_": ""
   }
 ]
