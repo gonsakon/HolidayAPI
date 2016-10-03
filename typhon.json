@@ -255,23 +255,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161003524",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/3 下午 08:26:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高松路42之2號",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "一坨斷掉電線 皆未見處理",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161003523",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 08:22:30",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 08:29:38",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161002334",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/2 下午 08:22:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎信街60號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/2 下午 08:24:03",
     "Close_Date_": ""
   }
 ]
