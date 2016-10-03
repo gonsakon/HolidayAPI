@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161003049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 08:14:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "台29線與里嶺大橋口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 08:24:23",
     "Close_Date_": ""
   },
   {
