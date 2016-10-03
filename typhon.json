@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003127",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 09:47:41",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "工業二路與工業一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003126",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 09:47:29",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161003124",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 09:45:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "東門里中山東路82巷口",
+    "address_": "東門里中山東路82巷巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一大型遮陽傘，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 09:47:40",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 10:19:34",
     "Close_Date_": "2016/10/1 下午 10:20:14"
-  },
-  {
-    "FileNo_": "INS161001405",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 09:05:54",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "文藻外語旁水溝",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "暴雨積水(一)",
-    "BeforeDesc_": "水溝樹枝未清除",
-    "AfterDesc_": "【主管解除管制】本案針對撒林子埤大排溝渠內樹枝未清乙案，已轉呈人民陳情案件：A-TB-2016-88362\r\n 委由水利局賡續辦理，待處理完成，將由承辦單位再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，\r\n 謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 10:14:20",
-    "Close_Date_": "2016/10/1 下午 10:18:06"
   }
 ]
