@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161003150",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 10:16:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐二路396號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003148",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 10:14:06",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161003147",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 10:13:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "筆秀里林西路5之15號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前方沿線整排路燈故障不亮數月，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 10:16:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 09:49:38",
     "Close_Date_": "2016/10/2 上午 01:32:01"
-  },
-  {
-    "FileNo_": "INS161001429",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 09:46:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "頂潭路63巷沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈障均故障不亮數日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 09:49:09",
-    "Close_Date_": ""
   }
 ]
