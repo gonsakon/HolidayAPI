@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003281",
+    "FileNo_": "INS161003282",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:35:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路上,由中安路至上國道一號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有多處坑洞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003281",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:30:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "海峰路(近大學路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有路面油漬，已有民眾摔倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 01:32:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 09:39:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002074",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 上午 09:34:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路198號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處於路中路面有一坑洞造成民眾絆倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 09:36:12",
     "Close_Date_": ""
   }
 ]
