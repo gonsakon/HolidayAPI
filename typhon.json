@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003483",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 07:10:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "孟子路520號D棟之2，10樓住戶",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003482",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:08:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 06:51:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002277",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 06:49:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "國隆路31巷7號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 06:50:27",
     "Close_Date_": ""
   }
 ]
