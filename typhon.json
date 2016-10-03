@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003224",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 11:57:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路838號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003223",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 11:52:55",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS161003201",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 11:15:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "力行路76號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一盞路燈，夜間有明滅不定之情事，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 05:06:27",
     "Close_Date_": "2016/10/2 上午 07:59:17"
-  },
-  {
-    "FileNo_": "INS161002016",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/2 上午 04:59:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "台29線，78.3K處",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該車道上有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/02 05:45溝渠隊林漢宗先生回報，該狗屍已清除完畢；並於10/03 11：30電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 05:01:29",
-    "Close_Date_": "2016/10/3 上午 11:33:27"
   }
 ]
