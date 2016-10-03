@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003261",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:01:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大埤路與大智路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處共桿路燈號誌面板遺失且不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003260",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:58:16",
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161003205",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 上午 11:22:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大埤路與大智路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "路口號誌燈遺失，機慢出車道綠燈號誌不亮",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 08:44:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002052",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 08:42:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由二路上與大順一路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌保護蓋不見，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 08:44:15",
     "Close_Date_": ""
   }
 ]
