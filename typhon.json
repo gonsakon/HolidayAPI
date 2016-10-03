@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003275",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:22:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁忠一街60號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003274",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:17:51",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161003272",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:14:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮區內坑里(里長帶路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "屬led燈部份內坑路147號內坑路151號內坑路78-3號六和路78-25號4支路燈都不滅",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 01:24:37",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 09:18:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002066",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 上午 09:16:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文東街218巷巷底",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內一盞路燈(燈號:102671)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 09:16:57",
     "Close_Date_": ""
   }
 ]
