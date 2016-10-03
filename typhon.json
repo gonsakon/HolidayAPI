@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003485",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 07:14:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "哨船街1巷與哨船街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003484",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 07:13:05",
@@ -418,7 +435,7 @@
     "UnitName_": "交通局",
     "StatusName_": "建立中",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "里嶺大橋路口紅綠燈故障（往大樹方向）\n國道十號燕巢交流道（往義大醫院方向）",
+    "BeforeDesc_": "里嶺大橋路口紅綠燈故障（往大樹方向）國道十號燕巢交流道（往義大醫院方向）",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 06:55:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002279",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 06:50:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "榮總路與大中一路轉彎處(台灣大哥大前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處機車道有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 06:51:08",
     "Close_Date_": ""
   }
 ]
