@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003259",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:56:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "新鎮路826號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003258",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:56:01",
@@ -2075,14 +2092,14 @@
   },
   {
     "FileNo_": "INS161003135",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 09:54:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "新鎮路建村街135巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌紅燈不亮，號誌有偏移，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 08:54:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002050",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 08:32:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮興路60巷118號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面以塑膠袋盛裝一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 08:34:49",
     "Close_Date_": ""
   }
 ]
