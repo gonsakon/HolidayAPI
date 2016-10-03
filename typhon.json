@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003164",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 10:36:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "前庄路46號之23(土地公廟馬路旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一傳統路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003163",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 10:33:35",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161003145",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 10:08:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路264號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一路樹上有許多樹枝垂掛，擔心掉落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 10:00:36",
     "Close_Date_": "2016/10/2 下午 02:40:21"
-  },
-  {
-    "FileNo_": "INS161001444",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/1 下午 09:57:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新衙路82號、84號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該兩址前方各有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 10:00:23",
-    "Close_Date_": ""
   }
 ]
