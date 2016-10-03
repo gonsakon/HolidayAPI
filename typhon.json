@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161003218",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 上午 11:37:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路175號(小吃部餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址業者油煙空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 上午 11:39:59",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003217",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 11:37:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 01:45:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002011",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 01:40:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "介壽路221巷(路燈012716)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷內有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 01:46:06",
     "Close_Date_": ""
   }
 ]
