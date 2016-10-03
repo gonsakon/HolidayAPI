@@ -171,19 +171,19 @@
   },
   {
     "FileNo_": "INS161003520",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 08:21:02",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松平街近營口路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "號誌燈 損壞",
+    "BeforeDesc_": "渠反映該址有一號誌燈已損壞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 08:32:13",
     "Close_Date_": ""
   },
   {
