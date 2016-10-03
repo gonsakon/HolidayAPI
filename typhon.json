@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003410",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:26:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中山橫路66號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003409",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 05:23:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:11:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002204",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 04:08:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "至學路(介於光明路二段至春和技術院間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該路段雙向皆有路樹傾斜至機車道，恐機車駕駛發生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:09:26",
     "Close_Date_": ""
   }
 ]
