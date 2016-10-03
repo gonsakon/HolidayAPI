@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003285",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:36:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋南路上(由興糖國小往青埔站方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003284",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:35:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 09:54:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002077",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 09:47:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "孟子路174巷1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 09:59:58",
     "Close_Date_": ""
   }
 ]
