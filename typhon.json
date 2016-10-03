@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003415",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:31:16",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "翠華路與大榮街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈均故障閃黃燈已有一日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003414",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 05:30:07",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161003412",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 05:26:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳林路二段1038號(三隆加油站後方產業道路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一棄土場之土方流到路面造成髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 05:31:27",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:17:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002208",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 04:13:03",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "金城路底產業道路",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有台電的電纜線垂落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:14:08",
     "Close_Date_": ""
   }
 ]
