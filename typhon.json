@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003329",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 02:51:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡燕路89號(果菜市場)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處管理組織9/30結束管理，留下許多垃圾及廢棄物，已導致惡臭，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003328",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 02:49:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 11:46:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002122",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 11:39:39",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗後砲台",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映前往該處時，有三隻流浪犬衝出對民眾攻擊，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 11:41:13",
     "Close_Date_": ""
   }
 ]
