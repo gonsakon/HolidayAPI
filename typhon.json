@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003378",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 04:28:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路104之6",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞電桿上的路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003377",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 04:26:10",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161003374",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 04:22:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維二路185號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前路燈基座下方路面掏空，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 04:27:57",
     "Close_Date_": ""
   },
   {
@@ -9113,20 +9130,20 @@
   },
   {
     "FileNo_": "INS161002235",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/2 下午 05:29:52",
     "ReplyUnit_": "E01001",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "玉庫里老公堀圳北向",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處內有一隻黑色犬隻受困，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/02 22：22 農業局動物保護處劉傳寶先生回報，人員會同陳情人於現場查\r\n察，惟該老公堀圳水深較深、水流湍急，該犬隻受困於對岸，人員表示該河川過寬，且晚間視線不佳\r\n不利於救援，恐有人員安全上疑慮，後續人員並向陳情人說明，請其於10/3上午通報燕巢區收容所，\r\n並請岡山捕犬大隊到場救援，陳情人表示接受，故轉派非網A-TB-2016-88760賡續辦理；並於10/03 \r\n16：26電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 05:33:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/3 下午 04:27:35"
   },
   {
     "FileNo_": "INS161002234",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:08:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002172",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 02:58:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "崇德路與文康路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，警員仍於現場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 03:00:05",
     "Close_Date_": ""
   }
 ]
