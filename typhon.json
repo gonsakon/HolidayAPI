@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003458",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 06:18:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路與中庸街(近信宗大飯店前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處約有三四盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003457",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 06:17:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 06:14:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002252",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 06:12:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後勁東路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 06:13:27",
     "Close_Date_": ""
   }
 ]
