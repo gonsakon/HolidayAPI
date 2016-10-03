@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003409",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 下午 05:23:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "嘉展路496巷14之10號旁巷子",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 下午 05:23:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003408",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 05:21:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:09:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002203",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 04:05:24",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "蓮潭路5、6、7號",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該址前路燈故障燈座損壞且斷枝懸掛樹上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:10:31",
     "Close_Date_": ""
   }
 ]
