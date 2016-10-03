@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003594",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/3 下午 10:03:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港源街與港信路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒於號誌燈上，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 下午 10:04:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003593",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 10:02:02",
@@ -1888,14 +1905,14 @@
   },
   {
     "FileNo_": "INS161003481",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 07:06:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "中崙寮路與中崙寮路31巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 10:54:17",
     "Close_Date_": "2016/10/3 下午 05:44:00"
-  },
-  {
-    "FileNo_": "INS161002388",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 10:45:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路上(介於中興路與金福路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有數個較深路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 10:46:49",
-    "Close_Date_": ""
   }
 ]
