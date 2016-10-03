@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003405",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:14:33",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "自由路與中安街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口有一盞號誌綠燈不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003404",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 05:09:23",
@@ -358,20 +375,20 @@
   },
   {
     "FileNo_": "INS161003383",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/3 下午 04:44:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "慈惠二街68號",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "號誌路牌倒塌，已經收起來放置路邊。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-89358由交通局賡續辦理，倘您\r\n對本案處理有疑問，歡迎您再電洽1999，謝謝！故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 05:13:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/3 下午 05:17:26"
   },
   {
     "FileNo_": "INS161003382",
@@ -8722,14 +8739,14 @@
   },
   {
     "FileNo_": "INS161002285",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/2 下午 06:58:28",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "黃興路353巷38號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處汙水管線有阻塞情況，以致汙水會有倒灌情形，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:08:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002199",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 04:04:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "青山街115號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:07:55",
     "Close_Date_": ""
   }
 ]
