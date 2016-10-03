@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003167",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 10:40:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "北平路與學堂路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處最近17時至18時過後，號誌會閃黃燈，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003166",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 10:37:37",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161003163",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 上午 10:33:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "裕誠路與華榮路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口近號誌燈下有垃圾堆放，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 上午 10:39:49",
     "Close_Date_": ""
   },
   {
@@ -2381,14 +2398,14 @@
   },
   {
     "FileNo_": "INS161003025",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 上午 07:08:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "旗楠路與義大路口(國10下交流道後)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 10:09:17",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001447",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/1 下午 10:06:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路797巷12號(後昌敬老協會)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前有卡拉ok擴音器致噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/02 00:06環保局稽查科吳政翰先生回報，稽查人員於23:18到達，該址為\r\n老人協會唱歌使用擴音器所致，稽查當時協會人員立即調降音量，未發現有明顯使用擴音器致噪音情\r\n事，惟本局人仍促請協會人員注意防範；並於10/02 15：17電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 10:12:37",
-    "Close_Date_": "2016/10/2 下午 03:17:29"
   }
 ]
