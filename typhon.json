@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003481",
+    "FileNo_": "INS161003482",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 07:08:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "建國路66巷22號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003481",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:06:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "中崙寮路31巷口",
+    "address_": "中崙寮路與中崙寮路31巷口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 07:09:17",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 06:50:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002276",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 06:48:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "建業路71號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 06:49:11",
     "Close_Date_": ""
   }
 ]
