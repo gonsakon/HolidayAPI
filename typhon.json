@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161003512",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 08:05:51",
     "ReplyUnit_": "E01005",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "玉庫里玉庫路60之2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該里內大範圍住家均無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 08:11:03",
     "Close_Date_": ""
   },
   {
