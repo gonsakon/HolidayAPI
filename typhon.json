@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004014",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 01:09:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "1.九曲路336號右邊2.九曲路346之1號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映上述兩處地點各有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004013",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 01:07:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 08:13:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003043",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 08:08:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林一路161巷23號與附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處共有五、六盞路燈故障不亮，建請查處。(陳情人要求人員前往前先行聯繫告知故障路燈之詳細地點)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 08:17:00",
     "Close_Date_": ""
   }
 ]
