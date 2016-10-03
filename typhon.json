@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003628",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 11:02:49",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "龍江街120號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003627",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 11:01:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 06:41:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003021",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 06:38:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "鳳林路126巷30號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處共有四盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 06:41:54",
     "Close_Date_": ""
   }
 ]
