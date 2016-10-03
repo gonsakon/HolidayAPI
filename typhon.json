@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003483",
+    "FileNo_": "INS161003484",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 07:13:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路與天祥一路交叉口(7-11前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道前有兩個路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003483",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:10:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "孟子路520號D棟之2，10樓住戶",
+    "address_": "孟子路520號D棟之2，10樓",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 07:13:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 06:51:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002278",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 06:50:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路上與九如一路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處分隔島第一盞路燈上有一「義大醫院」指示牌掉落一角，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 06:51:19",
     "Close_Date_": ""
   }
 ]
