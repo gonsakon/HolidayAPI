@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003302",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 02:03:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民生一路93號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前人行道磚有三個區域陷落，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003301",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 02:02:15",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161003279",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 01:26:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與大中二路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面油漬，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 10:24:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002094",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 10:22:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "青海路430號前至青海橋",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段路面有風災掉落招牌、樹枝及樹葉未清除致髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 10:26:08",
     "Close_Date_": ""
   }
 ]
