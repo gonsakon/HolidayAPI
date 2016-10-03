@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003330",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 02:56:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "嘉華路135之6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003329",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 02:51:13",
@@ -1429,14 +1446,14 @@
   },
   {
     "FileNo_": "INS161003244",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 下午 12:37:01",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠昌街125巷23號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處附近堤岸水利局權管之路燈，約有三、四支路燈於風災後不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 11:43:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002123",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 11:40:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓路13號至15號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前有一(楠梓路、建楠路)路牌掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 11:46:56",
     "Close_Date_": ""
   }
 ]
