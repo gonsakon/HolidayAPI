@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003279",
+    "FileNo_": "INS161003280",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:28:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學七街99號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003279",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:26:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與大中二路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 01:28:22",
     "Close_Date_": ""
   },
   {
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161003277",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:24:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重忠路與華夏路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈燈罩遭颱風吹壞整個掉落，造成夜間過於昏暗易發生事故，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 01:27:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 09:47:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002072",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 09:30:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "興發路與中華五路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 09:33:23",
     "Close_Date_": ""
   }
 ]
