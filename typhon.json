@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003235",
+    "FileNo_": "INS161003236",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:21:29",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "海富路與實踐路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈罩凹陷，無法辨識，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003235",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 12:20:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "海專路與德民路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處行人號誌燈有故障不亮情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 12:21:17",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 06:24:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002028",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 06:18:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路上(七賢國中校區前)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處活動擴音器聲響噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 06:19:31",
     "Close_Date_": ""
   }
 ]
