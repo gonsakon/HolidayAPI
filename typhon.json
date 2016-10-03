@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003386",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 04:48:38",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "英明一路131巷13號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處皆有汙水管阻塞情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003385",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 04:46:26",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161003384",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 04:45:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路182號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處稍早有單位人員前往噴藥，惟後續卻遺漏一個溝蓋未蓋回原位，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 04:48:41",
     "Close_Date_": ""
   },
   {
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS161003344",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 下午 03:30:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "和平一路與和平一路144巷",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處機車道上有一坑洞，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 03:09:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002180",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 03:06:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "富貴路與台上路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有路口有大量樹枝落葉及廢棄物，建請清除。(陳情人要求人員到場先行聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 03:07:29",
     "Close_Date_": ""
   }
 ]
