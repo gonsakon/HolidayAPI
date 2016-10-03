@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003241",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:29:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新衙路44號與康定路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有路面塌陷，可見水溝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003240",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:27:01",
@@ -10,7 +27,7 @@
     "UnitName_": "水利局防洪維護科",
     "StatusName_": "建立中",
     "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處前水溝阻塞，目前有滿溢出路面，建請查處。",
+    "BeforeDesc_": "渠反映該處前汙水管阻塞，目前水溝有滿溢出路面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 07:35:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002033",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 07:23:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂江街149號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "怠速",
-    "BeforeDesc_": "渠反映該私人空地停車場有大型車輛持續加油並怠速，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 07:28:32",
     "Close_Date_": ""
   }
 ]
