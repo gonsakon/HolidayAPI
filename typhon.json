@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003247",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:42:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中一路上榮總停車場左側橋上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一大樹枝未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003246",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:41:36",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161003218",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 上午 11:37:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲二路175號(小吃部餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址業者油煙空污擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 08:07:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002038",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 上午 07:58:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "過港里成功北路9之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址屋前及屋後有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 08:00:37",
     "Close_Date_": ""
   }
 ]
