@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003412",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:26:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林路二段1038號(三隆加油站後方產業道路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003410",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 05:26:19",
@@ -970,14 +987,14 @@
   },
   {
     "FileNo_": "INS161003353",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 下午 03:44:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大吉路622巷對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾燃燒物品產生白煙空污擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 04:17:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002205",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 04:10:10",
-    "ReplyUnit_": "F01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "大崗山一線天",
-    "UnitName_": "田寮區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處有樹木傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 04:11:09",
     "Close_Date_": ""
   }
 ]
