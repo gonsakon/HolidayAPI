@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003585",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 09:54:04",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "光和路150號 後面",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "垂落 快碰到路面",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003584",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 09:53:22",
@@ -1854,14 +1871,14 @@
   },
   {
     "FileNo_": "INS161003473",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 06:45:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "皓東路與大豐二路口(賣雞肉飯那側)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一盞三時向號誌之綠燈會亮，惟紅黃燈故障不亮，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 10:18:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002378",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 10:13:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "山腳路上，近本館路600巷，且近殯儀館，於太陽大地社區附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 10:15:26",
     "Close_Date_": ""
   }
 ]
