@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003239",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:26:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003238",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 12:24:44",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161003230",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 12:06:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武廟路83之1號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處前水溝阻塞，目前有滿溢出路面，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 07:21:52",
     "Close_Date_": "2016/10/2 上午 07:49:41"
-  },
-  {
-    "FileNo_": "INS161002031",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 07:15:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路(美術館)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處馬拉松活動使用擴音器噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 07:16:44",
-    "Close_Date_": ""
   }
 ]
