@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003277",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 01:24:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重忠路與華夏路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈燈罩遭颱風吹壞整個掉落，造成夜間過於昏暗易發生事故，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003276",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 01:22:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 09:32:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002068",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 09:25:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武仁街98號對面小公園轉角處",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人棄置一大包粉色廢棄垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 09:27:19",
     "Close_Date_": ""
   }
 ]
