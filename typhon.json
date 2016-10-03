@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003236",
+    "FileNo_": "INS161003237",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 12:23:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "翠屏路112巷5之4號附近(路燈編號:學府高幹9左二)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003236",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 12:21:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海富路與實踐路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈罩凹陷，無法辨識，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 12:23:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 07:02:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002029",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 06:22:05",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "1.鳳楠路與經建路口；2.鳳楠路與興西路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該兩處路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 06:24:55",
     "Close_Date_": ""
   }
 ]
