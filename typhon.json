@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161003303",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 02:07:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街125巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷道內沿線路燈自風災後皆故障不亮，恐生危險，建請查處。(陳情人要求人員前往前先行與其聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003302",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 02:03:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 10:26:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002096",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 上午 10:23:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明華路81號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 10:24:58",
     "Close_Date_": ""
   }
 ]
