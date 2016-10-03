@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003354",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 03:44:48",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "大同一路229巷與大同一路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該路口有一個一米半的路面下陷情事，已有行經車輛陷入，請盡速派員查修，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003352",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 03:42:15",
@@ -987,14 +1004,14 @@
   },
   {
     "FileNo_": "INS161003293",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/3 下午 01:47:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "大同一路229巷與大同一路口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路口有一個一米半的路面下陷情事，已有行經車輛陷入，請盡速派員查修，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 01:23:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002148",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 01:15:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓路上(楠梓國小、國中至消防局)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處沿線人行道掛設許多建商大型廣告看板，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 01:17:27",
     "Close_Date_": ""
   }
 ]
