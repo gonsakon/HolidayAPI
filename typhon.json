@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004018",
+    "FileNo_": "INS161004019",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 01:17:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "新鎮路(鐵路涵洞口，東側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處1盞路燈故障不亮，旁邊有3盞造型燈燈罩已損壞，其中1盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004018",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 01:16:32",
     "ReplyUnit_": "E01002",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "蓮海路(十八王公廟公廁前)",
     "UnitName_": "觀光局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "風景區設備損壞有立即危險者",
     "BeforeDesc_": "渠反映該處一盞路燈電線斷裂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 01:17:14",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161004014",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 01:09:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "1.九曲路336號右邊2.九曲路346之1號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映上述兩處地點各有一盞路燈故障不亮，建請查修。",
+    "BeforeDesc_": "渠反映地點一:有兩盞路燈故障不亮，地點二:有一路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 01:17:23",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 08:24:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003048",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 08:12:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功南路240巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路巷內路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 08:13:32",
     "Close_Date_": ""
   }
 ]
