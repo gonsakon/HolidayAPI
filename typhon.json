@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161004033",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 07:08:39",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德一路25巷及63巷雙號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 07:12:12",
     "Close_Date_": ""
   },
   {
