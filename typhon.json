@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003618",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 10:43:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "三德西路8號 ，對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003617",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 10:40:15",
@@ -1412,14 +1429,14 @@
   },
   {
     "FileNo_": "INS161003534",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 08:35:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "茄萣路一段159巷21號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，且住家旁有一盞路燈斷裂，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 03:52:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003013",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 01:38:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓路480號旁(香香雞排)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家油煙逸散致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 01:42:07",
     "Close_Date_": ""
   }
 ]
