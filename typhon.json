@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003372",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 04:19:38",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "清成街47號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處有汙水孔蓋鬆動致噪音情形，並希望人員能順便檢查清成街上的汙水孔蓋，檢請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003371",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 04:16:03",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161003364",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 04:03:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明誠一路與鼎山街口(三多)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該店家前方號誌燈與慶聯變電箱中間有多個廢棄壓克力招牌，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 04:21:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 02:43:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002166",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 02:33:18",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞北路與精忠街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌全閃燈故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 02:34:56",
     "Close_Date_": ""
   }
 ]
