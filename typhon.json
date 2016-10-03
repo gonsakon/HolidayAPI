@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161003328",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 02:49:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過雄街與頂新七街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 02:50:18",
     "Close_Date_": ""
   },
   {
@@ -2602,20 +2602,20 @@
   },
   {
     "FileNo_": "INS161003173",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/3 上午 10:46:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "永豐路與保泰路口(永豐路上，北側中央分隔島、南下車道)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈傾斜，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/3 14:29交通局智慧運輸中心蔡淑君小姐回報，該處傾斜需請廠商調整,\r\n故轉非網A-TB-2016-89222賡續處理；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 10:54:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/3 下午 02:49:46"
   },
   {
     "FileNo_": "INS161003172",
