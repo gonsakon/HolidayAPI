@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161003574",
+    "FileNo_": "INS161003575",
     "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 09:31:55",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "名山七街與名湖街",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有七八流浪犬於此聚集，追咬行人及騎士，建請捕捉。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003574",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 09:31:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路5巷與保安路口(保安路往南沿線)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段路燈均故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 09:32:02",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 09:45:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002369",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 09:43:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "球場路與文心巷及山腳路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附近路燈於稍早跳電、目前不亮，建請查處。(並表示近期已多次跳電)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 09:45:34",
     "Close_Date_": ""
   }
 ]
