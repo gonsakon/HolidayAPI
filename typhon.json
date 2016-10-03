@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003436",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:51:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五權路(介於自由路與中山西路間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003435",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 05:50:22",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161003431",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 05:47:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "立群路(二苓國小大門)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈近兩周全天候皆正常運作，有故障情事，另表示希望局處將號誌燈改為前後連鎖，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌燈近兩周全天候皆正常運作，現場應為上下課時間正常運作，故有故障情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 05:51:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 05:26:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002230",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 05:22:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路343號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前方騎樓及人行道上均遭棄置廢棄盆栽與垃圾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 05:25:50",
     "Close_Date_": ""
   }
 ]
