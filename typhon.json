@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003563",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 09:15:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中安路，從中興路開始往西方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈皆故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003562",
     "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 09:11:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 09:23:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002357",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 09:11:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "想請問一下，我們嘉展路居民就不是高雄市的市民嗎?那為什麼從颱風到現在嘉展路496巷及嘉展路整條路燈未亮而造成多起交通事故！請趕緊至這些地方修復！",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 10:17:23",
     "Close_Date_": ""
   }
 ]
