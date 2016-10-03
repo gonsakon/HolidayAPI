@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003535",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 08:35:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "保義街(鳳翔國中大門口前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處人行道上有一路樹原已傾斜，雖已有固定惟固定措施仍不足，造成傾斜幅度增加，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003533",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 08:34:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 08:20:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002329",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/2 下午 08:16:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "民族路36巷2號(東門國小前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該有一盞燈罩有剝落且搖晃情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 08:20:20",
     "Close_Date_": ""
   }
 ]
