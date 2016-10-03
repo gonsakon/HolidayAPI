@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003319",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 02:31:35",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "清華街與天民路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "白色帶斑點會攻擊性",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003318",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 02:30:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/2 上午 11:05:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161002111",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 上午 10:59:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大智路與大埤路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌面板遺失且不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 上午 11:01:11",
     "Close_Date_": ""
   }
 ]
