@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161003492",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/3 下午 07:30:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路8巷12號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號:75-881001)故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處有一盞路燈(編號:75-881001)故障不亮數日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/3 下午 07:31:21",
     "Close_Date_": ""
   },
   {
