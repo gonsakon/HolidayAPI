@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003096",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 上午 09:11:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社路200巷20號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址旁路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003094",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 上午 09:10:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/1 下午 08:22:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161001374",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/1 下午 08:19:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "信義路175號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前因路燈線路與台電線路交錯，致地面出現發燙恐產生漏電情事，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/1 下午 08:21:03",
     "Close_Date_": ""
   }
 ]
