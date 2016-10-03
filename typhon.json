@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161003440",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/3 下午 05:55:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "海尾路240號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161003439",
     "Status_": "1",
     "Cre_Date_": "2016/10/3 下午 05:53:38",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS161003384",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/3 下午 04:45:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路182號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處稍早有單位人員前往噴藥，惟後續卻遺漏一個溝蓋未蓋回原位，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/2 下午 05:33:00",
     "Close_Date_": "2016/10/3 下午 04:27:35"
-  },
-  {
-    "FileNo_": "INS161002234",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/2 下午 05:27:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "明潭路與環潭路(兒童公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處溜滑梯滑道多個破洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/2 下午 05:29:04",
-    "Close_Date_": ""
   }
 ]
