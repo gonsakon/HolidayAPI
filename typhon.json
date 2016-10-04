@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004474",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 06:49:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明鳳八街58巷25號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004473",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 06:46:26",
@@ -2058,14 +2075,14 @@
   },
   {
     "FileNo_": "INS161004349",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 03:41:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東四路365號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有裝潢噴漆化學異味致空污(陳情人要求稽查人員到現場後先與其聯繫)，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 09:19:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003502",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 07:49:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "南勢巷10號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 07:51:23",
     "Close_Date_": ""
   }
 ]
