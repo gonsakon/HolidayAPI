@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005017",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 06:46:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "186縣道上(介於和山里與興山里間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線路面皆有柏油瀝青掉落路面，恐致危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005016",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 06:45:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 06:49:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004029",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 06:41:35",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大公路與華正路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 06:49:50",
     "Close_Date_": ""
   }
 ]
