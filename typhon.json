@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161004232",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/4 上午 11:57:36",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路上(自大順二路至民族陸橋)",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處一號誌/紅燈/綠燈/小綠人故障不亮/不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161004231",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 11:57:19",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:09:27",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161003263",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/3 下午 01:06:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文自路(近博愛四路交叉口；空地前)",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭人棄置廢棄安全帽以及兩包紅色小垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/3 下午 01:09:25",
     "Close_Date_": ""
   }
 ]
