@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005027",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 07:52:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005026",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 07:26:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:44:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004038",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 07:24:28",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "翠華路331號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一溝壁凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:26:06",
     "Close_Date_": ""
   }
 ]
