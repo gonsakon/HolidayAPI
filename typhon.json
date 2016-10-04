@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004457",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 06:35:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "更新街37號、38號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004455",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 06:34:20",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161004453",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 06:32:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "成功路68號與68之5號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞LED路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址前各有一盞LED路燈故障不亮，一共兩盞路燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 06:35:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 07:22:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003486",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 07:14:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "安船街28號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 07:15:51",
     "Close_Date_": ""
   }
 ]
