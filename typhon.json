@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004342",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 下午 03:28:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "潮寮路78之60號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處前一盞路燈白天未熄滅，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 下午 03:29:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004341",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 03:25:05",
@@ -800,14 +817,14 @@
   },
   {
     "FileNo_": "INS161004294",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 下午 02:17:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "維新路、光明七巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "如題",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 04:27:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003373",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 04:20:50",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "文橫二路90號與林森二路85巷口(臺灣菸酒公賣局前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一污水人孔蓋旁柏油下陷致掏空，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 04:23:17",
     "Close_Date_": ""
   }
 ]
