@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004469",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 下午 06:44:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "萬壽路上，壽山動物園附近",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處多盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 下午 06:44:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004468",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 06:42:05",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161004467",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 06:41:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "五和路386號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 06:44:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 07:40:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003497",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 07:37:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "美山路220巷85號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈(路燈編號:6700)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 07:40:22",
     "Close_Date_": ""
   }
 ]
