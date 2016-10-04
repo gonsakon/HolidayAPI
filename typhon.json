@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005029",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 上午 07:54:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "澄清路(光復路二段與中山西路)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處前後號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 上午 07:56:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005028",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 07:53:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:34:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004040",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 07:30:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路669號，郵局",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處外側車道上有一大坑洞，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:36:36",
     "Close_Date_": ""
   }
 ]
