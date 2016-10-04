@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005020",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 06:58:19",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠路上與興西路(往東方向，轉角處)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處路面以積水有3分之1輪胎高，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005019",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 06:53:05",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161005014",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 06:12:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金鼎路上(高速公路下方涵洞起至明誠一路)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路段沿線飄散一股濃重之瓦斯異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:25:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004032",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 07:04:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "角宿里寶頂一街、寶頂東街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈不亮(海成高分22以東、海成高分36右10右1)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:06:24",
     "Close_Date_": ""
   }
 ]
