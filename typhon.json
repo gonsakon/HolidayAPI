@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004195",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 10:57:11",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "立莊路35巷23號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處有一高污水圓形孔蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004193",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 10:55:02",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161004192",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 10:54:17",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "鳳林路159號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前有一個經查為水利局歸屬之坑洞，現已設立安全錐，建請盡速派員查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 10:57:48",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 11:59:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003223",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 11:52:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大裕路51巷21號左右",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處公園水泥專圍籬遭人移開，導致有車輛停入公園內佔用，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 11:54:13",
     "Close_Date_": ""
   }
 ]
