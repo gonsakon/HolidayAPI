@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004133",
+    "FileNo_": "INS161004134",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 09:52:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "登山街48巷7號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004133",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 09:45:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文天路170號上(介於重仁路與重愛路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址沿線路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 09:49:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 10:39:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003163",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 10:33:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "裕誠路與華榮路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口近號誌燈下有垃圾堆放，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 10:39:49",
     "Close_Date_": ""
   }
 ]
