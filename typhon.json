@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004278",
+    "FileNo_": "INS161004279",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 01:39:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "公正路與二聖路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處車禍留有油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004278",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 01:36:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天祥二路與鼎祥街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處共桿路燈，號誌面板鬆脫往下傾斜快掉落，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 01:39:30",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:34:57",
     "Close_Date_": "2016/10/4 上午 10:10:22"
-  },
-  {
-    "FileNo_": "INS161003311",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 02:18:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "梓官路425巷12號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈搖搖欲墜，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:20:35",
-    "Close_Date_": ""
   }
 ]
