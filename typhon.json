@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161004063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 08:32:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "三和里山隙路1巷100號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址工廠(電號：74162950)自風災9/24停電至今，影響工廠生計，建請查處。(陳情人要求人員先行與其聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 08:47:43",
     "Close_Date_": ""
   },
   {
