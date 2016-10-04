@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161004255",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 12:45:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "台29線上，近溪寮路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有兩個號誌閃黃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004252",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:42:17",
@@ -91,14 +108,14 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "沿海三路與上林路口",
+    "address_": "沿海三路與上林街口",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:41:13",
+    "Save_Date_": "2016/10/4 下午 12:45:35",
     "Close_Date_": ""
   },
   {
@@ -2245,14 +2262,14 @@
   },
   {
     "FileNo_": "INS161004121",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 上午 09:32:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "修文街146巷，近一心二路84巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有丟棄的垃圾、家具和木頭，致環境髒亂，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:42:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003285",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 01:36:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋南路上(由興糖國小往青埔站方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 01:38:36",
     "Close_Date_": ""
   }
 ]
