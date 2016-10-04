@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161004227",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 11:42:43",
     "ReplyUnit_": "A01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路195號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前高縣寬頻孔蓋鬆動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 11:46:02",
     "Close_Date_": ""
   },
   {
@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161004223",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 11:40:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮東二巷17號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址屋內外堆積回收物及雜物，，建請查處。",
+    "BeforeDesc_": "渠反映該址屋內外堆積回收物及雜物，致孳生蚊蟲、白蟻，並發出惡臭及髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 11:46:06",
     "Close_Date_": ""
   },
   {
