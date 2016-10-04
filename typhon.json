@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004316",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 02:40:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "京中四街72巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷內有芭蕉葉、樹枝尚未清除乾淨，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004315",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 02:39:03",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161004307",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 02:35:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "中崎里通燕路沿線、中崎路沿線、海豐路沿線",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該三路沿線皆有堆置多堆樹枝樹葉未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 02:42:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 03:38:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003347",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 03:35:32",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮興路60巷102號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處一盞水利局維護之路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 03:38:51",
     "Close_Date_": ""
   }
 ]
