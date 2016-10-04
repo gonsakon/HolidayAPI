@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004295",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 02:22:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和路與港源街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處一號誌有紅燈與綠燈同亮情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004294",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 02:17:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:47:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003326",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 02:44:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "和山路(往仁武方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段沿線安全島旁有落葉以及樹枝致環境髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:47:23",
     "Close_Date_": ""
   }
 ]
