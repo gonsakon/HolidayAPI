@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004523",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 07:43:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武德街150號、168號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該兩址前各一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004522",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:41:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 09:13:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003553",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 09:02:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "本洲路近正氣路(往前鋒路方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，建請清除。(請單位先行陳情人連繫，欲了解到場時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 09:05:42",
     "Close_Date_": ""
   }
 ]
