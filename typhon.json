@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004601",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 10:59:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "博愛一路與北平二街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有路面施工致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004600",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 10:49:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 11:39:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003631",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 11:38:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞隆路194巷4弄口，停車場旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路段有遺棄木頭垃圾未清，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 11:40:10",
     "Close_Date_": ""
   }
 ]
