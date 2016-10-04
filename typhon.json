@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004495",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 07:12:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "廣福里廣和路6之2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004494",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:10:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 08:30:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003525",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 08:28:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路沿線上(大舍南路與光明路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段路燈至昨夜起均故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 08:29:31",
     "Close_Date_": ""
   }
 ]
