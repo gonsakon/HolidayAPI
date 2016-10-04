@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161005022",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 上午 07:08:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "廣應街上近廣應街182巷口右前方",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄滅，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 上午 07:09:24",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005021",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 07:03:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "五甲三路(介於五福一路與馬祖港橋間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線兩側路燈不亮，有時21時會點亮後續至清晨4至5時即未見點亮，建請查處。",
+    "BeforeDesc_": "渠反映該處沿線兩側路燈不亮，有時21時會點亮，惟清晨4至5時卻未見點亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 07:06:20",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:14:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004033",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 上午 07:08:39",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福德一路25巷及63巷雙號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:12:12",
     "Close_Date_": ""
   }
 ]
