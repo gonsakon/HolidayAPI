@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161005018",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/5 上午 06:55:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "班超路與凱旋四路(華南銀行)",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈角度傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161005019",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 06:53:05",
@@ -307,14 +290,14 @@
   },
   {
     "FileNo_": "INS161005001",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 上午 12:03:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "186縣道上(介於和山里與興山里間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處沿線路面皆有柏油瀝青掉落路面，恐致危險，建請查處。",
     "AfterDesc_": "",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:25:03",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004032",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/4 上午 07:04:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿里寶頂一街、寶頂東街",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處多盞路燈不亮(海成高分22以東、海成高分36右10右1)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 上午 07:06:24",
     "Close_Date_": ""
   }
 ]
