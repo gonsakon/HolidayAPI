@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004403",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 05:19:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍田里大學東路  大學二十六街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障，呈現閃黃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004402",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 05:19:29",
@@ -468,7 +485,7 @@
     "address_": "大德一路101巷28號前",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
-    "InformDesc_": "養工-路樹傾倒(二)",
+    "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 05:52:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003433",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 05:48:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路716號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有樹枝、樹葉及三包垃圾包未清，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 05:54:42",
     "Close_Date_": ""
   }
 ]
