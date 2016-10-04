@@ -8382,20 +8382,20 @@
   },
   {
     "FileNo_": "INS161003367",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/3 下午 04:02:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路2號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有樹木斷枝，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/03 18:55左營區清潔隊曹志營先生回報，該處樹木斷枝皆已清除完畢；並\r\n於10/04 11：44電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 04:05:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/4 上午 11:44:22"
   },
   {
     "FileNo_": "INS161003363",
