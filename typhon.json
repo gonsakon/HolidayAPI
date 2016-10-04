@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004586",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 10:20:11",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路，過港隧道上來後往小港方向",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處地點路邊水溝蓋有塌陷情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004585",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 09:54:27",
@@ -1259,14 +1276,14 @@
   },
   {
     "FileNo_": "INS161004511",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 07:33:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "南華橫一路47號(眾悅洗車場)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者於晚間19時起有使用噴槍機具，運轉聲響過大，造成噪音，表示日前局處有要求業者晚間19時過後勿有相關情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 10:44:26",
     "Close_Date_": "2016/10/4 上午 10:45:23"
-  },
-  {
-    "FileNo_": "INS161003616",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 10:39:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址斜對面2盞路燈故障不亮，已於上方綁藍線做記號，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 10:41:29",
-    "Close_Date_": ""
   }
 ]
