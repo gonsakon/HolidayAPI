@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004209",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 11:16:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "外環西路上(介於加昌路與左楠路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該路段兩側路燈及號誌桿皆遭張貼售屋廣告，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004208",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 11:16:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 12:35:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003238",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 12:24:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三奶里三民路451巷46號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址門前有堆積垃圾，且該處垃圾桶內有積水狀況，擔心登革熱疫情產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 12:28:41",
     "Close_Date_": ""
   }
 ]
