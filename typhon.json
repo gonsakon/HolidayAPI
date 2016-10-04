@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004219",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 11:34:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路554巷12弄",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004218",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 11:33:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 12:49:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003249",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 12:44:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "鼎中路與大中一路上交叉口往榮總方向",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處白色網格線上遭人丟棄廢棄招牌及安全島上有廢棄金爐，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 12:51:19",
     "Close_Date_": ""
   }
 ]
