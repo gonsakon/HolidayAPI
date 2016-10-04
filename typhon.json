@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161004243",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:26:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "後協里協德街2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁一路燈自來風過後至今故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址旁一路燈自颱風過後至今故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 12:27:43",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161004241",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:25:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "興龍里土龍57號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 12:27:10",
     "Close_Date_": ""
   },
   {
