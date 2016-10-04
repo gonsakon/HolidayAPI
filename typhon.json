@@ -146,7 +146,7 @@
     "UnitName_": "交通局",
     "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障全閃燈，建請查處。",
+    "BeforeDesc_": "渠反映該路口號誌故障全閃燈，且有電線掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 09:42:34",
