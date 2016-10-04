@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004495",
+    "FileNo_": "INS161004496",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 07:14:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "維新里阿公店溪旁河堤",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號：維新273)不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004495",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:12:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "廣福里廣和路6之2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 07:13:57",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 08:30:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003526",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 08:28:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "公園西路三段上(與民族路交叉口、南下方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處快車道有一路面下陷，深度約10公分，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 08:30:46",
     "Close_Date_": ""
   }
 ]
