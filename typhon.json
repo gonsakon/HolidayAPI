@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004508",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 07:30:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明鳳二十六街、明鳳十一街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該兩址沿線路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004507",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:25:36",
@@ -970,14 +987,14 @@
   },
   {
     "FileNo_": "INS161004449",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 06:28:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山路上(往東向，過義大路之下一路口處)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 08:40:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003538",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 08:39:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄平街 (陽明公園到應安街)與周邊巷道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 08:40:27",
     "Close_Date_": ""
   }
 ]
