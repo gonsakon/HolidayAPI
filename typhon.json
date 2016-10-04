@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004155",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 10:09:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "民族路與廣興街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004153",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 10:06:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 11:11:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003183",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 11:06:09",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山三路與民權二路交叉口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處因水利局管線破損致慢車道上有一凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 11:08:48",
     "Close_Date_": ""
   }
 ]
