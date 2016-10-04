@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005026",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 07:26:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "左楠路與後昌路口(往西方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處依號誌綠燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處一號誌綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 07:28:21",
     "Close_Date_": ""
   },
   {
