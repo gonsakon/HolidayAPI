@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004229",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 11:56:40",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路上(十全一路至民族路橋)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004228",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 11:51:15",
@@ -1089,14 +1106,14 @@
   },
   {
     "FileNo_": "INS161004164",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 上午 10:26:43",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "東海街186號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前方有一水溝內部結構疑似破損，下雨時水溝水會溢流淹水至民眾華廈地下室內，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:04:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003259",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 12:56:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "新鎮路826號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 12:59:14",
     "Close_Date_": ""
   }
 ]
