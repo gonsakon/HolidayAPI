@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 06:58:19",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠路上與興西路(往東方向，轉角處)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "暴雨積水(一)",
     "BeforeDesc_": "渠反映該處路面以積水有3分之1輪胎高，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 07:00:01",
     "Close_Date_": ""
   },
   {
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161005014",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 上午 06:12:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金鼎路上(高速公路下方涵洞起至明誠一路)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路段沿線飄散一股濃重之瓦斯異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局李政鴻先生於10/05 06:59 回報：稽查人員於06:42到場，稽查當時人員\r\n於上述路段以PID檢測，讀值為0PPM，現場亦未發現有瓦斯異味逸散之情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 06:14:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 07:01:39"
   },
   {
     "FileNo_": "INS161005013",
