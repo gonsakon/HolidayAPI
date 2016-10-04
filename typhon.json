@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161004087",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 上午 09:04:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄新十一街2號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有一個路牌掉落，一個還掛在上面，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 上午 09:09:03",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004086",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 09:03:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 09:49:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003117",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 09:35:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中華三路171號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處前人行道上方有多棵路樹因風災移除，但遺留樹穴未回填，僅以樹葉、樹枝堆置，導致民眾不慎踩空，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 09:38:42",
     "Close_Date_": ""
   }
 ]
