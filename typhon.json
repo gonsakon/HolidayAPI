@@ -341,20 +341,20 @@
   },
   {
     "FileNo_": "INS161005005",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 上午 12:18:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路二段與中山西路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口光復路二段上號誌燈，未有與中山西路上號誌燈連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/05 00:32 智慧運輸中心黃泰郎先生回報，該處號誌是不同週期，不連鎖是正常\r\n的，無故障情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 12:39:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 07:38:17"
   },
   {
     "FileNo_": "INS161005004",
