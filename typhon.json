@@ -60,7 +60,7 @@
     "address_": "澄清路與圓山路口(澄清路轉圓山路方向)",
     "UnitName_": "交通局",
     "StatusName_": "待確認",
-    "InformDesc_": "號誌故障",
+    "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌燈紅燈秒數相差50多秒，有故障情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
