@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005028",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 07:53:59",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "台29線與溪寮路口的路口號誌",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "路口號誌自莫蘭蒂颱風過後就一直只有閃燈功能，不能正常運作了，請派修",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005027",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 07:52:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:36:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004039",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 07:28:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄德路上(近八德一路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有車禍造成之血漬，現場有警方，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:44:20",
     "Close_Date_": ""
   }
 ]
