@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004274",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 01:26:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲二路160之2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004272",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 01:24:40",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161004247",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 下午 12:34:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文化路16號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址旁有一貓屍，請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:15:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003305",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/3 下午 02:11:19",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德中路24號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址住家屋頂上有一台電電線垂落，擔心摩擦破皮後會漏電，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:18:21",
     "Close_Date_": ""
   }
 ]
