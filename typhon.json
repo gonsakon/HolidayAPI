@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004240",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 12:24:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中山路1號，旗山火車站角樓旁路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路燈燈座掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004239",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 12:14:38",
@@ -2126,14 +2143,14 @@
   },
   {
     "FileNo_": "INS161004114",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 上午 09:27:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "曾子路188號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處幼兒園使用擴音器致噪音擾民，建請稽查。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:24:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003270",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 01:12:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路與二聖二路口(往一心一路方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該路段汽車道近斑馬線處，有2至3處路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 01:15:21",
     "Close_Date_": ""
   }
 ]
