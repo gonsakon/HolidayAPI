@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004249",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 12:40:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "漢民路與華盛街口(摩斯漢堡前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處圓柱斷裂，造成坑洞積水兩三個禮拜，恐孳生病媒蚊，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004247",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:34:37",
@@ -1089,14 +1106,14 @@
   },
   {
     "FileNo_": "INS161004183",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 上午 10:46:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "青年一路(介於福建街與維仁街之間；中國信託旁)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處有一大樓橫放兩個鐵架在人行道上，已影響行人以及身障人士通行，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:28:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003278",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 01:26:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "球場路26號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一棵路樹，目前有斷肢懸掛上方，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 01:30:55",
     "Close_Date_": ""
   }
 ]
