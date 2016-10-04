@@ -1,5 +1,39 @@
 [
   {
+    "FileNo_": "INS161004067",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 08:34:08",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "漢昌街與漢陽街口，福康國小",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障，僅閃黃燈，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004066",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 08:33:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路與黃埔路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處轉角有一路面坑洞，已設置安全錐，惟安全錐影響交通，望儘速修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004063",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 08:32:19",
@@ -18,19 +52,19 @@
   },
   {
     "FileNo_": "INS161004065",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 08:30:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "角宿里海成北街30號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一展路燈故障不亮(桿號：B345)，建請查處。",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(編號：B345)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 08:34:35",
     "Close_Date_": ""
   },
   {
@@ -115,7 +149,7 @@
     "BeforeDesc_": "渠反映該處有一盞號誌燈紅燈故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 08:30:11",
+    "Save_Date_": "2016/10/4 上午 08:34:19",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 09:14:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003096",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 09:11:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路200巷20號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 09:12:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003095",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 上午 09:11:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自立一路502號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 09:13:12",
     "Close_Date_": ""
   }
 ]
