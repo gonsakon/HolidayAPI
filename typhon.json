@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161004506",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:24:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路上，近中安路口(南往北方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處汽車道對向車道上，號誌燈紅燈左轉箭頭故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處汽車道對向車道上，紅燈左轉箭頭故障不亮數日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 07:27:15",
     "Close_Date_": ""
   },
   {
