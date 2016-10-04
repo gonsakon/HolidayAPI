@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161005023",
+    "FileNo_": "INS161005024",
     "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 07:12:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路 海專路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161005023",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 07:10:12",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "憲政路123巷6弄3號2樓",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處污水管阻塞，造成室內一直冒出汙水，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 07:12:26",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:22:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004035",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 07:14:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "左楠路與宏毅一路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車禍遺留路面油漬約30*100面積，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:17:12",
     "Close_Date_": ""
   }
 ]
