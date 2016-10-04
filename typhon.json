@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004288",
+    "FileNo_": "INS161004289",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 02:06:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "青年一路118號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "路燈 時亮 時不亮 變壓器故障 1946",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004288",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 02:03:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "懷德路16巷2弄22號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址住家在煮烤鴨，會拿去賣，現有油煙飄散情事，建請查處。",
+    "BeforeDesc_": "渠反映該址住家處理烤鴨會拿去賣，現有油煙飄散情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 02:06:03",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:37:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003320",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 02:31:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "葆禎路與九如四路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:32:21",
     "Close_Date_": ""
   }
 ]
