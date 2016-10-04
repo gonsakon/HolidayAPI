@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 12:14:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社路275之1號，過大社區清潔隊門口右手邊的鐵皮工廠前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊有一具狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005002",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 12:05:39",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS161004565",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 09:06:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "沱江街",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路段周界皆飄散類似燃燒塑膠之異味，造成空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 01:18:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004015",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 01:10:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "瓦厝街興建4號橋邊",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一電桿(美莊幹井1之2左41)上路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 01:17:47",
     "Close_Date_": ""
   }
 ]
