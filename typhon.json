@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161004214",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 11:27:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港南一路31號與興漁三路口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處轉角排水溝已遭重車壓損，導致公司污水排不出去，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 11:31:07",
     "Close_Date_": ""
   },
   {
@@ -7668,20 +7668,20 @@
   },
   {
     "FileNo_": "INS161003397",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/3 下午 05:03:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武仁街98號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址對面小公園外的路邊轉角處遭棄置彈簧床墊，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/03 17:13 苓雅區清潔隊謝炳章先生回報，經查現場不影響通行，惟日機\r\n動班人員已下班，將於10/04派車處理，故改派非網追蹤，案號：A-TB-2016-89367；並於10/04 11:31\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 05:08:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/4 上午 11:31:25"
   },
   {
     "FileNo_": "INS161003398",
