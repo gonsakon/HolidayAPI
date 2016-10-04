@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004097",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 09:14:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "愛河畔鰲燈往北公廁旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004096",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 09:13:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 09:51:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003126",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 09:47:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "溪州二路與工業一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 09:51:31",
     "Close_Date_": ""
   }
 ]
