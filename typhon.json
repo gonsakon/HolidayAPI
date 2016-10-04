@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004604",
+    "FileNo_": "INS161004606",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 11:07:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "五福二路59之9號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處分隔島上有一盞水銀燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004604",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 11:05:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "環湖路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路上全線路燈有亮，但全線路都都很暗，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 11:07:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 12:07:55",
     "Close_Date_": "2016/10/4 上午 01:23:58"
-  },
-  {
-    "FileNo_": "INS161004001",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 上午 12:05:37",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松光街228號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處附近住家無預警停電，且已多次有此情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 12:07:53",
-    "Close_Date_": ""
   }
 ]
