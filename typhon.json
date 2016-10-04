@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161004339",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 03:20:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路287號(允成工業區)前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 03:21:17",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 03:20:31",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004337",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 下午 03:17:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "內惟路與吳鳳路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有路燈電線垂落，已先拉至一旁，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 下午 03:20:59",
     "Close_Date_": ""
   },
   {
@@ -1089,14 +1106,14 @@
   },
   {
     "FileNo_": "INS161004272",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 下午 01:24:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路與鳳林路口(黃埔公園外)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -1650,20 +1667,20 @@
   },
   {
     "FileNo_": "INS161004240",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 12:24:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中山路1號，旗山火車站角樓旁路燈",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路燈燈座掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 13:32養工處旗美養護工程隊洪冠馨小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:25:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/4 下午 03:20:49"
   },
   {
     "FileNo_": "INS161004239",
@@ -1871,20 +1888,20 @@
   },
   {
     "FileNo_": "INS161004227",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 上午 11:42:43",
     "ReplyUnit_": "A01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路195號",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前高縣寬頻孔蓋鬆動，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 14:25工務局工程企劃處第六課陳昭宏先生回報，該處已修復完成；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 11:46:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/4 下午 03:21:30"
   },
   {
     "FileNo_": "INS161004226",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 04:17:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003370",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 04:11:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "崗山橫街63號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 04:12:55",
     "Close_Date_": ""
   }
 ]
