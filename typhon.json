@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004524",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/4 下午 07:46:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "育英街與澄新路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該些路段空氣中傳出不明化學空氣異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/4 下午 07:47:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004523",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 07:43:45",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS161004471",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 下午 06:45:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路123號(福斯汽車)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有2堆樹枝、落葉，望請派員清理，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 09:13:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003554",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 09:03:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "長記巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段LED路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 09:13:20",
     "Close_Date_": ""
   }
 ]
