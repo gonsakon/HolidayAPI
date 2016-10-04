@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004296",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 02:28:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鎮西里新庄子公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "公園垃圾、樹枝一堆，請派員清理，謝謝。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004295",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 02:22:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:50:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003327",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 02:45:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "六和路上(女子監獄前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處東西向雙向車道都有路面下陷，導致車輛駛過發出聲響，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:47:01",
     "Close_Date_": ""
   }
 ]
