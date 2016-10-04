@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005016",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 06:45:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "大坑路上,由南區水資源局至近佛光山",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處快車道與慢車道間有脫落小碎石,請查處,",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005015",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 06:22:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 06:49:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004028",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 06:32:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "竹寮里蓬萊山莊24之23號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處1路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 06:40:51",
     "Close_Date_": ""
   }
 ]
