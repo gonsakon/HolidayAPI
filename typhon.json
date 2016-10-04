@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004448",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 06:26:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "旗楠路與義大路口(國10下交流道後)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈均故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004447",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 06:25:30",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161004444",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 06:21:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "旗楠路與義大路口(國10下交流道後)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌均故障不亮，致交通阻塞，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 06:26:38",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 07:04:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003478",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 06:55:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多四路與自強三路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有不明人行道工程，其未設安全措施及未放置告示牌，恐生危險，施工已久致渠深感不便，望盡速處理完畢，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 07:05:02",
     "Close_Date_": ""
   }
 ]
