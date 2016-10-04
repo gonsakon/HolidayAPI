@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005021",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 07:03:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "五甲三路(介於五福一路與馬祖港橋間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線兩側路燈不亮，有時21時會點亮後續至清晨4至5時即未見點亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005020",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 06:58:19",
@@ -44,7 +61,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處因載運柏油瀝青之車輛，沿途所掉落碎柏油瀝青於該處沿線路面，恐致危險，建請查處。",
+    "BeforeDesc_": "渠反映該處因載運柏油瀝青之車輛，沿途掉落碎柏油瀝青於該處沿線路面，恐致危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 06:50:10",
@@ -120,20 +137,20 @@
   },
   {
     "FileNo_": "INS161005012",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 上午 05:46:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明誠一路與鼎山街口及大裕路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該2處附近皆飄散一股濃重之汽油異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局李政鴻先生於10/05 06:59 回報：稽查人員於06:04到場，稽查當時人員\r\n於上述路段周界巡查，未發現有汽油異味逸散空汙之情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 05:47:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 07:02:51"
   },
   {
     "FileNo_": "INS161005011",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 07:12:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004031",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 07:05:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "經武路上，鳳山醫院前方",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌遭颱風吹致歪斜，民眾無法觀看號誌，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 07:25:03",
     "Close_Date_": ""
   }
 ]
