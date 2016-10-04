@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004220",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 11:36:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "1.中正路2.大同路與復興路路口至復興路370號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段有路燈以及路樹遭綁大型售屋廣告，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004219",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 11:34:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 12:51:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003250",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 12:46:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重愛路與博愛四路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處「博愛四路」路燈指示牌有歪斜情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 12:49:36",
     "Close_Date_": ""
   }
 ]
