@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161004408",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 05:36:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重政路70巷上；近重立路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004406",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 05:33:57",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161004404",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 05:27:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "846",
     "ZipName_": "杉林區",
-    "address_": "杉林區181縣道",
+    "address_": "181縣道上，月光山隧道，美濃往杉林方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映出隧道口後約三十公尺處，有路面隆起，恐影響行車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 05:37:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 05:58:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003438",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 05:53:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "臥龍路100巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該路口有路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 05:54:02",
     "Close_Date_": ""
   }
 ]
