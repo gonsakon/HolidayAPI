@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004252",
+    "FileNo_": "INS161004253",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 12:45:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "南勝里復興巷294號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004252",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:42:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲二路與龍成路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌燈不連鎖，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 12:43:40",
     "Close_Date_": ""
   },
   {
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161004249",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 12:40:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與華盛街口(摩斯漢堡前)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處圓柱斷裂，造成坑洞積水兩三個禮拜，恐孳生病媒蚊，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 12:43:22",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 01:36:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003283",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 01:34:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "南昌街、民昌街、藍昌路(介於德民路與後昌路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映上述路段整個區塊自莫蘭蒂風災後即故障不亮至今未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 01:39:49",
     "Close_Date_": ""
   }
 ]
