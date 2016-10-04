@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161004189",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 10:52:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路(兒18公園，涼亭旁邊)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處有1至2個涼椅已損壞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004188",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 10:51:45",
@@ -188,19 +205,19 @@
   },
   {
     "FileNo_": "INS161004178",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 上午 10:43:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中平路142號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前中間快車道上有一路面坑洞，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 上午 10:52:14",
     "Close_Date_": ""
   },
   {
@@ -2483,14 +2500,14 @@
   },
   {
     "FileNo_": "INS161004042",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 上午 07:44:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路18巷口對面(監理站前)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈方向恐因颱風吹襲致歪斜,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/3 上午 11:43:50",
     "Close_Date_": "2016/10/4 上午 09:23:00"
-  },
-  {
-    "FileNo_": "INS161003218",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 上午 11:37:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路175號(小吃部餐廳)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址業者油煙空污擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 上午 11:39:59",
-    "Close_Date_": ""
   }
 ]
