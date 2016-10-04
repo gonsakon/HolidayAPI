@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004317",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 02:42:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "會結路83號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004316",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 02:40:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 03:42:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003348",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 03:37:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華泰路297號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處外牆有帆布廣告搖搖欲墜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 03:38:00",
     "Close_Date_": ""
   }
 ]
