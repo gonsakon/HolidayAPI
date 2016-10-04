@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004365",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 04:18:53",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "清豐里清安街49號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址前有一汙水人孔蓋鬆動產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004364",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 04:12:44",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161004361",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 04:12:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪五十路與高坪七路(運動公園轉角處)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一疑似非法之藍色舊衣回收箱，且內部衣服散落一地，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 04:18:59",
     "Close_Date_": ""
   },
   {
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161004345",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 03:38:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "新盛一街45號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址柱子前有家具解體後之木板等未清，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 05:02:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003395",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 04:56:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "立民路與安通街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 05:02:20",
     "Close_Date_": ""
   }
 ]
