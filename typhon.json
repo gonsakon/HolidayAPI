@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004340",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 03:22:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "廠橫路30號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004339",
     "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 03:20:08",
@@ -2000,7 +2017,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段分隔島上路燈遭綁大型售屋廣告，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 13:59養工處岡山養護工程隊林欣怡小姐回報，人員到場未發現上述情事；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 11:42:02",
     "Close_Date_": ""
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 04:22:58",
     "Close_Date_": "2016/10/4 上午 10:36:21"
-  },
-  {
-    "FileNo_": "INS161003371",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 04:16:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "通仙巷388號、通仙巷389之12號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路旁散落大量砂石，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 04:17:52",
-    "Close_Date_": ""
   }
 ]
