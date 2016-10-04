@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161004281",
+    "FileNo_": "INS161004282",
     "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 01:52:10",
+    "ReplyUnit_": "B01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "承德街，幼稚園旁邊",
+    "UnitName_": "養工處2",
+    "StatusName_": "建立中",
+    "InformDesc_": "公所-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處有公園內有園樹傾倒未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161004281",
+    "Status_": "2",
     "Cre_Date_": "2016/10/4 下午 01:47:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "嘉峰路(台19甲線65K，高鐵下往阿蓮，滯洪池旁道路)",
+    "address_": "嘉峰路(台19甲線65K，高鐵下方往阿蓮，滯洪池旁道路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處整排路燈於風災後重新設置修復卻仍未點亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/4 下午 01:51:55",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 02:26:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003314",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 02:22:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮興路與康定路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處於10/02有廟會舉行，目前有炮屑未確實清理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 02:23:20",
     "Close_Date_": ""
   }
 ]
