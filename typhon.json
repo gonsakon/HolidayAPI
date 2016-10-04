@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004528",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 下午 07:51:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路與鳳仁路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路口分隔島共三盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004527",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 下午 07:50:36",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161004507",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/4 下午 07:25:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "東新街21號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址後中學路有整排路樹主枝幹因颱風倒進陳情人庭院圍牆內，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 09:10:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003557",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/3 下午 09:07:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "仕龍西巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段LED路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 09:13:58",
     "Close_Date_": ""
   }
 ]
