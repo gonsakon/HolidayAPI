@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161004217",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/4 上午 11:30:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "溪寮路，自大寮路轉入約100公尺處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161004216",
     "Status_": "1",
     "Cre_Date_": "2016/10/4 上午 11:28:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/3 下午 12:51:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161003247",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/3 下午 12:42:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大中一路上榮總停車場左側橋上",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一大樹枝未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/3 下午 12:51:23",
     "Close_Date_": ""
   }
 ]
