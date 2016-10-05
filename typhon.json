@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005350",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 03:34:15",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建軍路上(萬安生命與國軍醫院之間)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處人行道上有一圓形水溝蓋遺失，恐造成行人危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005348",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:28:08",
@@ -82,6 +99,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 03:28:20",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161005343",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 03:19:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.德賢路592巷，近統一超商位置，2.德賢路592巷22弄口(山泉加水站)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映1.該處路面上有一鼠屍，2.該處周邊有柏油渣及動物毛造成髒亂，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 03:34:43",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:12:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004359",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 04:05:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中正路二段近孝思園墓園",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:07:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004358",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 04:03:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新富路369巷8號、10號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處1盞路燈燈罩歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:05:03",
     "Close_Date_": ""
   }
 ]
