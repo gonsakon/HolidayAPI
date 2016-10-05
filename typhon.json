@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005499",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 07:59:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德南路100巷137號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005498",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 07:57:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:33:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004509",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 07:30:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明鳳三路59巷39號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:33:01",
     "Close_Date_": ""
   }
 ]
