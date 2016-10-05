@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005220",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 10:17:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "港平路上(港信路與福利路之間)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一京城建設興建大樓，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 10:20:32",
     "Close_Date_": ""
   },
   {
@@ -8263,20 +8263,20 @@
   },
   {
     "FileNo_": "INS161004346",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 03:38:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路438號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該工廠排放塑膠有毒氣體致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 18:12環保局公害專線中區股洪添賜先生回報，稽查人員於17:30到\r\n達，未發現有作業排放塑膠異味情事，該公司預計於10/15搬遷；並於10/05 10：19電覆陳情人，故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 03:41:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 10:19:02"
   },
   {
     "FileNo_": "INS161004345",
