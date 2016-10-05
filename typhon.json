@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006018",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 上午 02:00:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "博愛一路與北平一街口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處道路鋪設作業聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 上午 02:01:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006017",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 01:46:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:07:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004603",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 11:04:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文龍路與文龍路16巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園內園燈(編號:231及隔壁盞)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 11:05:50",
     "Close_Date_": ""
   }
 ]
