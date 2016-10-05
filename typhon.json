@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005268",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 11:44:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路與忠言路(停車場外圍人行道)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道有許多落葉等，造成髒亂，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005267",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:43:26",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161005263",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 11:40:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮東路與鎮東三街(允棟公園)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上遭民眾堆放垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 11:44:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 01:49:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004279",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/4 下午 01:39:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "公正路與二聖路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車禍留有油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/04 14:09前鎮區清潔隊張昭和先生回報，已清除完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 01:40:46",
-    "Close_Date_": "2016/10/4 下午 03:07:16"
   }
 ]
