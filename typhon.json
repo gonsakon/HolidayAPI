@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005308",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 01:46:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮路74號旁，無名產業道路上",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 01:49:48",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005307",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 01:45:33",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS161005254",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 11:26:33",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大裕路219號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前有一水溝蓋破損致翹起情況，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:49:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004318",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:43:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路與天興街，東西向",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌秒差不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:44:41",
     "Close_Date_": ""
   }
 ]
