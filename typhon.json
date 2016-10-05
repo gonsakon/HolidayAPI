@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005498",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 07:57:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中正路二段59巷51號後方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址斜對面有一盞路燈故障不亮，建請儘速查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005497",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 07:54:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:33:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004508",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 07:30:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明鳳二十六街、明鳳十一街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該兩址沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:32:53",
     "Close_Date_": ""
   }
 ]
