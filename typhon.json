@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161005241",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 上午 11:10:33",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "擴建路與大華一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障多日皆未修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 上午 11:11:46",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005240",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 11:09:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山里橫山路(樹德大學旁，長照中心對面小巷內，路燈編號:面前埔29右01936FC89)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 11:11:06",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:47:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004250",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 12:43:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維三路與文橫二路口(生日公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內廁所旁圓形平台右側一棵雨豆樹風災後樹根懸空翹起，樹木傾斜，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:49:33",
     "Close_Date_": ""
   }
 ]
