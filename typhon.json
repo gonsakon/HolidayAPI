@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005277",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 11:57:16",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋南路688之1號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一台電電線垂落路面，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005276",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:56:40",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS161005252",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 11:24:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "永隆三街1號至3號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該路段通報局處處理之路面坑洞，承辦單位填補不實，建請查處。",
     "AfterDesc_": "",
@@ -5815,20 +5832,20 @@
   },
   {
     "FileNo_": "INS161004547",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 08:21:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "阿蓮國小操場，在司令台左側及左前方",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有2盞路燈故障亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/5 11:52岡山養護工程隊康友淇先生回報，該處路燈故障為台電供電問題，路燈本身並\r\n無故障，目前供電正常故現場路燈已恢復正常放亮；本案不需電覆故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 08:22:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 11:56:01"
   },
   {
     "FileNo_": "INS161004546",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:14:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004288",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:03:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "懷德路16巷2弄22號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址住家處理烤鴨會拿去賣，現有油煙飄散情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:06:03",
     "Close_Date_": ""
   }
 ]
