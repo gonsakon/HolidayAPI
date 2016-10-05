@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161005567",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 下午 10:55:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路與鼎金後路(鼎力路上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌前後故障不連鎖，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 00:15交通局智慧運輸中心黃泰郎先生回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 10:56:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 07:54:20"
   },
   {
     "FileNo_": "INS161005566",
