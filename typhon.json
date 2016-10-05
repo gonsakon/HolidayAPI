@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005305",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:44:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路42之3號斜對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處有一大型路線指示牌『往鳳山、往仁美』底座螺絲有鬆脫,嚴重傾斜,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005304",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 01:25:20",
@@ -970,14 +987,14 @@
   },
   {
     "FileNo_": "INS161005245",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 11:18:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路92號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前紅磚人行道破損，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:43:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004315",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 下午 02:39:03",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松藝路上，近文前路",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電方型孔蓋持續不斷冒水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:47:58",
     "Close_Date_": ""
   }
 ]
