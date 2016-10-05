@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005309",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:53:51",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "中興街143號(九曲堂郵局前)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該郵局休息室有一幼貓，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005308",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 01:46:33",
@@ -1956,14 +1973,14 @@
   },
   {
     "FileNo_": "INS161005191",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 09:28:21",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "博愛一路陸橋",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處水利局寶珠溝截流站上陸橋，有愛河英文字一半LED燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:53:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004319",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:46:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "瑞豐街36號前，路旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有堆積樹木樹幹與遭丟棄數包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:49:38",
     "Close_Date_": ""
   }
 ]
