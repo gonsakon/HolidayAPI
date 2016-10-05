@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005353",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 03:40:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "永華里永華路9巷15號之8",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址旁一路燈(路燈編號：273)從颱風天故障不亮至今，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 03:42:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005352",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:37:50",
@@ -6104,20 +6121,20 @@
   },
   {
     "FileNo_": "INS161004605",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 11:05:58",
     "ReplyUnit_": "E01001",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路與新庄仔路口(快樂澎湖海鮮旁)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一流浪犬後腿遭撞受傷，持續哀嚎，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 23:47 農業局 動物保護處 捕犬大隊 史明德先生回報，已聯繫陳情人確認\r\n 地點無誤，該處來回巡視均未發現有受傷犬隻；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:09:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 03:41:49"
   },
   {
     "FileNo_": "INS161004604",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:14:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004361",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 04:12:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪五十路與高坪七路(運動公園轉角處)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一疑似非法之藍色舊衣回收箱，且內部衣服散落一地，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:18:59",
     "Close_Date_": ""
   }
 ]
