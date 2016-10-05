@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161005196",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 09:38:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "林靖公園",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005194",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 09:35:52",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161005192",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 09:33:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海一路往南(未到漢民路)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處中線車道上，有一路面突起，造成行車危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 09:37:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 11:18:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004207",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 11:10:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "有光路47號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一路燈傾斜，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 11:11:50",
     "Close_Date_": ""
   }
 ]
