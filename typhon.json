@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161005271",
+    "FileNo_": "INS161005272",
     "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 11:47:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋南路上(由楠梓路銜接過去，過鐵軌處)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161005271",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 11:46:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "八德二路196號10樓之10",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址目前有冷氣滴水情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 上午 11:48:15",
     "Close_Date_": ""
   },
   {
@@ -5169,20 +5186,20 @@
   },
   {
     "FileNo_": "INS161004581",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 09:47:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "華德街133號（好彩頭)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家有卡拉OK唱歌擴音機噪音情形，建請查處",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/04 23：54 環保局環境稽查科中區股李政鴻先生回報，稽查人員於22：20\r\n到達，稽查當時店家營業中，現場僅有客人喝酒聊天未使用擴音器歌唱，周界巡查未發現上述噪音情\r\n事；並於10/05 11：40電覆陳情人，惟陳情人反映此為長期問題，故另派非網A-TB-2016-90389追蹤管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 09:48:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 11:47:39"
   },
   {
     "FileNo_": "INS161004580",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:08:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004285",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 01:53:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大義二路上( 空軍醫院門口右側)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處人行道上有多棵路樹傾斜欲倒(陳情人表示有危險性)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 01:55:55",
     "Close_Date_": ""
   }
 ]
