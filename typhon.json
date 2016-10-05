@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005307",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 01:45:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮里竹寮路395號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 01:49:34",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005305",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 01:44:49",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161005285",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 下午 12:22:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興二路157號旁",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一新建案，惟施作噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:44:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004317",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:42:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "會結路83號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:42:59",
     "Close_Date_": ""
   }
 ]
