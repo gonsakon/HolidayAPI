@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005220",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 10:17:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港平路上(港信路與福利路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005219",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 10:15:16",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161005205",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 09:58:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "中安路上(剛要彎進國道一號)",
+    "address_": "中山四路上(剛要彎進國道一號)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路面多處坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:01:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004231",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 上午 11:57:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "京富路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有多個坑洞與凹陷，望請修補，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 11:58:54",
     "Close_Date_": ""
   }
 ]
