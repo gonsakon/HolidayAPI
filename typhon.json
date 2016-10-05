@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005534",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 09:15:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "濱海路二段上，於茄萣濱海公園旁道路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處新闢道路有2至3盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005533",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 09:10:01",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161005518",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 下午 08:35:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學南路近大學十七街",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊有一狗屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 08:18:01",
     "Close_Date_": "2016/10/5 下午 04:15:17"
-  },
-  {
-    "FileNo_": "INS161004542",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 08:15:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段209號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，且燈罩脫落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 08:19:02",
-    "Close_Date_": ""
   }
 ]
