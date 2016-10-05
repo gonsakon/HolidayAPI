@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005527",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 08:54:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "市中一路上，與大同二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005526",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 08:51:09",
@@ -2143,14 +2160,14 @@
   },
   {
     "FileNo_": "INS161005396",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 下午 05:40:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正興路84號(隱居食堂)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該餐廳目前有炒飯之油煙異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 08:09:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004535",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 08:08:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "力行路(漁港公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園園燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 08:09:21",
     "Close_Date_": ""
   }
 ]
