@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005265",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 上午 11:41:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大仁路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈的燈泡(大仁幹27左之7左分4後面)遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 上午 11:41:39",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005264",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:40:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 01:36:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004275",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 01:30:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山路與五甲一路(珠寶店前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處黃燈倒數秒數號誌故障不亮,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 01:31:31",
     "Close_Date_": ""
   }
 ]
