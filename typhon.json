@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006024",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 07:01:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "新樂街58巷30弄口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 07:02:48",
     "Close_Date_": ""
   },
   {
@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161006017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 01:46:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和九路沿線",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫消毒水異味，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/06 02:44環保局公害專線南區潘星宇先生回報，稽查人員於02:25到達，稽查時於\r\n上址沿線巡查，因現場有雨勢無法判別消毒水異味以致空污之情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 01:47:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 06:59:53"
   },
   {
     "FileNo_": "INS161006016",
@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161006015",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 01:16:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "益群橋上",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場還有員警)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 01：50溝渠隊李文山先生回報，該處油漬已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 01:18:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 07:02:32"
   },
   {
     "FileNo_": "INS161006014",
@@ -239,20 +239,20 @@
   },
   {
     "FileNo_": "INS161006010",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 12:24:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路203巷92弄48號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該指對面工廠有機械運轉聲響，建請查處。",
-    "AfterDesc_": "",
+    "BeforeDesc_": "渠反映該址對面工廠有機械運轉聲響，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於10/06 03:12環保局公害專線楊人傑先生回報，稽查人員於03:07到達，稽查當時未發\r\n現機械運轉以致噪音之情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:25:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 07:04:14"
   },
   {
     "FileNo_": "INS161006009",
