@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161005575",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 下午 11:42:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松藝路",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "路中央的孔蓋漏水，一個多禮拜了",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案經查為台電孔蓋不斷冒水情事，已轉呈人民陳情案件：A-TB-2016-90782 \r\n 委由台電公司賡續辦理，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:02:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 12:35:10"
   },
   {
     "FileNo_": "INS161005574",
