@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005358",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 03:54:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "高雄市美濃區東門里永安路19巷6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "颱風天左右兩盞路燈吹壞了不會亮，路燈也老舊可否更換LED型路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005357",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:48:51",
@@ -8773,14 +8790,14 @@
   },
   {
     "FileNo_": "INS161004452",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/4 下午 06:30:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國隆路31巷4號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:24:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004369",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 04:21:07",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中華五路(IKEA與家樂福前)",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有不明管線工程，然工程完工後路面有凹凸不平狀況，造成用路人危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:24:56",
     "Close_Date_": ""
   }
 ]
