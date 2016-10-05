@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161006009",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 12:24:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "橫山路轉入興龍路約100公尺",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處有一電線桿短路冒火花情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 12:29:55",
     "Close_Date_": ""
   },
   {
