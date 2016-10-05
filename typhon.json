@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005320",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 02:32:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "龍文巷28號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005316",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 02:30:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:07:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004328",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 03:04:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路350之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 03:05:11",
     "Close_Date_": ""
   }
 ]
