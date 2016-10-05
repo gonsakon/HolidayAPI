@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005339",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 03:12:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "內湖巷2號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈線路斷落，且路燈基座歪斜，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005337",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:10:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 03:40:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004347",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 03:38:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路2巷17號台灣創價學會會館對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 03:42:09",
     "Close_Date_": ""
   }
 ]
