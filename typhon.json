@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005407",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 06:04:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "大湖里長春二街40號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址對面一盞LED燈(燈桿編號：2691)燈頭遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005406",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 06:03:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 05:50:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004418",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 05:48:49",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一心二路與復興三路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有一電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 05:49:38",
     "Close_Date_": ""
   }
 ]
