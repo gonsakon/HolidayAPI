@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005291",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:50:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "大舍南路145巷12號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處一路燈全天點亮未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005290",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:41:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:31:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004302",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:30:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "成功路460巷11號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:31:21",
     "Close_Date_": ""
   }
 ]
