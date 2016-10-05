@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005297",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:14:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大德三路與台1線交叉口(順心二手車行前)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌綠燈亮度不足,僅1/3會亮,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005296",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 01:09:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:39:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004309",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:32:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路258巷與滇池街口(滇池街上停車場圍牆旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一鐵皮放置多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:39:06",
     "Close_Date_": ""
   }
 ]
