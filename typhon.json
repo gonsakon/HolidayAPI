@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005561",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 10:41:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄德路(八德東路與八德一路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 10:42:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005560",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 10:35:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 09:21:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004569",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 09:19:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "1.後昌路587巷全部、2.後昌路沿線至後昌路643巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該2處地點沿線路燈多盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 09:21:42",
     "Close_Date_": ""
   }
 ]
