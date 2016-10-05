@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161005472",
+    "FileNo_": "INS161005475",
     "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 07:08:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "成功一路42號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161005472",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 07:07:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "潭底里產業道路無路名(潭底幹40號)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處水泥桿柱上附掛1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 07:11:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:03:00",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004485",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/4 下午 07:01:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "1.建軍路與建軍路81巷2.建軍路81巷78之9號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映上述兩處各有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於 10/05 13：03 養工處 四維養護工程隊 九如分隊 陳戊昌先生回報：該處已修復\r\n 完畢；並於 10/05 16：54 電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:02:09",
-    "Close_Date_": "2016/10/5 下午 05:08:14"
   }
 ]
