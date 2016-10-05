@@ -102,6 +102,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161005344",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 03:23:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路908號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前近號誌人行道上位置因傾倒路樹移除後，現場仍遺留樹葉及泥土造成髒亂，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 03:39:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005343",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:19:31",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161005335",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 下午 02:57:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "溪州里工業一路，過溪州橋往台29線方向",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路段兩側枯枝及落葉尚未清除，造成髒亂，建請清除。",
     "AfterDesc_": "",
@@ -5968,20 +5985,20 @@
   },
   {
     "FileNo_": "INS161004610",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 11:34:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中華街30巷16弄",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映目前有住戶正在焚燒紙錢致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/05 01：30 環保局 環境稽查科 中區股 李政鴻先生回報，稽查人員於01：15\r\n 到達，當下致電陳情人，其表示已無燃燒金紙情事，另於周界巡視亦未發現上述空污情事；本案不需回電\r\n 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:38:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 03:38:15"
   },
   {
     "FileNo_": "INS161004609",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:10:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004360",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 04:08:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "鋼平街164號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址旁路邊有一路面坑洞，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:12:23",
     "Close_Date_": ""
   }
 ]
