@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005288",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:30:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路與忠言路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園旁人行道有許多落葉等，造成髒亂，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005286",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:27:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:35:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004298",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:29:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "竹圍里大仁路175巷88弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有3、4盞路燈故障不亮，直接通報單位3個禮拜至今未修復，建請查處。(陳情人要求聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:31:10",
     "Close_Date_": ""
   }
 ]
