@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161005224",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 10:24:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街與民族一路路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌讀秒器故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005222",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 10:21:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:03:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004235",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 上午 11:59:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "深水路(碧雲寺斜對面 ，台22線11.5公里)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一電線桿傾倒，並快掉入河內，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:04:58",
     "Close_Date_": ""
   }
 ]
