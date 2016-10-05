@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005281",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:14:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳松路與鳳松路27巷路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路口遭棄置許多，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005280",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 12:14:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:19:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004293",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:15:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "南寮中山巷(崇原19左5、南寮171、南寮172、南寮173、崇原高分19分4)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有5盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:17:25",
     "Close_Date_": ""
   }
 ]
