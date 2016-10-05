@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 02:15:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓波街16號4樓及5樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住家目前有冷氣滴水情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006018",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 02:00:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:09:18",
     "Close_Date_": "2016/10/5 下午 03:41:49"
-  },
-  {
-    "FileNo_": "INS161004604",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 11:05:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "環湖路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路上全線路燈有亮，但全線路都都很暗，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 11:07:12",
-    "Close_Date_": ""
   }
 ]
