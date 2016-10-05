@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005435",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 06:30:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "頂潭路63巷內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處巷內有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 06:33:09",
     "Close_Date_": ""
   },
   {
