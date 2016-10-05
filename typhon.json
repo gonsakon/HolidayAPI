@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161005356",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 03:48:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路251號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處行人交通號誌故障，一直呈現紅燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 03:49:52",
     "Close_Date_": ""
   },
   {
