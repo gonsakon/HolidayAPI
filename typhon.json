@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005299",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:14:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "宏林街53號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址前電線桿旁有被丟棄沙發，已放置2個禮拜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005297",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 01:14:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:42:33",
     "Close_Date_": "2016/10/4 下午 03:04:30"
-  },
-  {
-    "FileNo_": "INS161004311",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:34:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里內湖巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內沿線多盞路燈故障，有一些燈罩歪斜，有些燈桿傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:36:01",
-    "Close_Date_": ""
   }
 ]
