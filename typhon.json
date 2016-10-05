@@ -919,19 +919,19 @@
   },
   {
     "FileNo_": "INS161005427",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 06:19:02",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生一路與東海街 ，枝仔冰城",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "長期不定期時車輛違停，佔用道路及影響巷道出入視線，警察加強取締；拖吊可以嗎？反映多次都沒有改善",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 07:26:31",
     "Close_Date_": ""
   },
   {
