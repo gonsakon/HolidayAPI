@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005375",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 04:34:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "南昌巷往大樹方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址道路有泥濘，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005372",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 04:31:29",
@@ -8127,20 +8144,20 @@
   },
   {
     "FileNo_": "INS161004506",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 07:24:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路上，近中安路口(南往北方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處汽車道對向車道上，紅燈左轉箭頭故障不亮數日，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/04 22：08 交通局 智慧運輸中心 李品鋒先生回報，該處無危險性，經查\r\n 係因燈面故障所致，需報請廠商修繕，無法立即修復，故改派非網：A-TB-2016-90156 賡續辦理；\r\n 並於 10/05 16：32 電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:27:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 04:33:28"
   },
   {
     "FileNo_": "INS161004505",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:53:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004384",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 04:48:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "愛國路22號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭堆置大型家具及彈簧床，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:58:43",
     "Close_Date_": ""
   }
 ]
