@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005392",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 05:29:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "永安路6巷13號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:040)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005391",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 05:20:59",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161005363",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 下午 03:59:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "正氣路上(中山公園內)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映公園內有多盞園燈角度偏移，有朝上方照射情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 05:37:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004403",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 05:19:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍田里大學東路與大學二十六街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障，呈現閃黃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 05:20:47",
     "Close_Date_": ""
   }
 ]
