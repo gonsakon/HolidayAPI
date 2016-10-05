@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005476",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 07:10:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "柳橋西路上(近仁壽路口，NET門口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處號誌燈下方之路面有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005475",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 07:08:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:10:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004486",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 07:01:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建興路上與大順二路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有遭丟棄一紅色垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:03:00",
     "Close_Date_": ""
   }
 ]
