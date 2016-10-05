@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005315",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 02:27:21",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "舊城巷38號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一幼貓受困，已連續兩三天聽到叫聲，建請會同救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005314",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 02:25:00",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161005274",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 上午 11:55:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路與忠貞街口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌故障閃燈，其表示該號誌經常損壞，請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 03:05:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004325",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 03:01:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪十五路518巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址一盞水銀路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 03:02:31",
     "Close_Date_": ""
   }
 ]
