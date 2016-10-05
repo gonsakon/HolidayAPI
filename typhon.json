@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006025",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 07:14:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "翠亨北路392號，無障礙之家",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "閃黃",
+    "BeforeDesc_": "渠反映該址前號誌燈自颱風後一直閃黃燈未正常運轉，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 07:18:03",
     "Close_Date_": ""
   },
   {
