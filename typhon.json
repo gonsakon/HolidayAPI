@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005290",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:41:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "協榮路沿線",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 12:43:09",
     "Close_Date_": ""
   },
   {
@@ -222,20 +222,20 @@
   },
   {
     "FileNo_": "INS161005276",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 上午 11:56:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路與188縣道機車道(往高雄市區方向)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面下陷(一)",
     "BeforeDesc_": "鳳林二路與188縣道機車道(往高雄市區方向)，排水不良，導致積水嚴重，且該路段有開挖過，重新回填的地方已嚴重下陷，導致機車滑倒，建議重新鋪設該路段，並加強排水",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-90434由工務局；水利局賡續辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 12:42:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 12:43:34"
   },
   {
     "FileNo_": "INS161005274",
