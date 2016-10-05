@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161005258",
-    "Status_": "2",
+    "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:30:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路61巷內",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "建立中",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處路段沿線路燈白天未熄滅，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 11:32:47",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
