@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005356",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 03:48:33",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中華三路251號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處行人交通號誌故障，一直呈現紅燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005355",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 03:47:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:27:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004367",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 04:20:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "天祥一路與鼎昌路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈黃燈閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 04:22:25",
     "Close_Date_": ""
   }
 ]
