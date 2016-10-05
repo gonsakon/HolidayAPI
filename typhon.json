@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005055",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 08:52:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "溪濱一街接頂園街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映養工處車輛沿著該路段進入頂庄公園，惟車輛夾帶泥沙掉落道路引發揚塵，陳情人要求稽查、開罰，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005054",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 08:48:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 上午 08:38:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004066",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 上午 08:33:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路與黃埔路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處轉角有一路面坑洞，已設置安全錐，惟安全錐影響交通，望儘速修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 上午 08:35:01",
     "Close_Date_": ""
   }
 ]
