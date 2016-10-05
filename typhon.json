@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005533",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 09:10:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "國昌路312號(7-11前)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前有一路面大坑洞至颱風過後皆未見修復，恐至危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 09:12:31",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005532",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 09:06:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 08:19:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004541",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 下午 08:14:44",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功北路129號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處有一台電桿目前有冒火花情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 08:18:24",
     "Close_Date_": ""
   }
 ]
