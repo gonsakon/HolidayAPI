@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005284",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:21:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復興二路157號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一新建案，惟施作牆壁未有防塵網導致揚塵，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005283",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 12:19:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:24:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004294",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:17:21",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路、光明七巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "如題",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:22:27",
     "Close_Date_": ""
   }
 ]
