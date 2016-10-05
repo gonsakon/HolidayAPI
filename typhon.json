@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005478",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 07:15:09",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路與華安街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌底座螺絲已鬆，使號誌燈桿搖晃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005477",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 07:10:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:10:11",
     "Close_Date_": "2016/10/5 下午 12:10:37"
-  },
-  {
-    "FileNo_": "INS161004488",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 07:06:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "大德里至誠巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內有多盞路燈故障不亮達六日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:08:34",
-    "Close_Date_": ""
   }
 ]
