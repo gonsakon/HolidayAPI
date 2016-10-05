@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005278",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 12:01:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路664號與666號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 12:04:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005277",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:57:16",
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS161005233",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 10:46:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢一路469號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處前人行道磚有8至9塊翹起，建請補竣。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:19:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004289",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:06:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "青年一路118號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一路燈(路燈編號：1946)因變壓器故障，導致路燈時亮時滅，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:14:16",
     "Close_Date_": ""
   }
 ]
