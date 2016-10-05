@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005286",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/5 下午 12:27:35",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南星路(鳳北路往北)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處沿線號誌閃燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/5 下午 12:29:08",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005285",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:22:49",
@@ -8926,20 +8943,20 @@
   },
   {
     "FileNo_": "INS161004372",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 04:26:11",
     "ReplyUnit_": "B02000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "通山路21號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處塑膠汙水孔阻塞一直冒汙水，流到路面，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/5 10：39 水利局污水營運科鄭婷云小姐回報，該處已修復完畢；並於\r\n10/05 12：28電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 04:27:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 12:28:08"
   },
   {
     "FileNo_": "INS161004371",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:31:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004297",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:28:59",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "自強二路120號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處有一高汙水人孔蓋鬆動噪音(陳情人要求以橡皮墊方式處理)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:31:33",
     "Close_Date_": ""
   }
 ]
