@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005395",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 05:38:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大德一路(大德地下道、往中山北路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該地下道涵洞上方有懸掛一鐵片，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005394",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 05:34:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 05:39:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004406",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 05:33:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "萬丹路近捷西路(萬丹黃昏市場附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(電桿編號：萬丹分56)遭颱風垂到歪折損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 05:35:00",
     "Close_Date_": ""
   }
 ]
