@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161005283",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:19:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路792號前；順發3C",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 12:24:28",
     "Close_Date_": ""
   },
   {
