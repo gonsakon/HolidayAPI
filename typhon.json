@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005516",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 08:32:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和義街91號交叉口草衙中街67巷交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路口有4、5盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005515",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 08:31:00",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161005510",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 08:24:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路一段53巷2弄58號旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 08:33:05",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:49:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004524",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 07:46:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "育英街與澄新路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該些路段空氣中傳出不明化學空氣異味致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 07:47:33",
     "Close_Date_": ""
   }
 ]
