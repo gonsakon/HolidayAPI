@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161005231",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 10:40:05",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中民路644號前",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "妨害安寧",
+    "BeforeDesc_": "一盞路燈故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005229",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 10:36:09",
@@ -5662,20 +5679,20 @@
   },
   {
     "FileNo_": "INS161004511",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 07:33:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "南華橫一路47號(眾悅洗車場)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者於晚間19時起有使用噴槍機具，運轉聲響過大，造成噪音，表示日前局處有要求業者晚間19時過後勿有相關情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/05 10:36電覆陳情人未果，故於2016/10/05 10:39簡訊回覆:陳先生您\r\n好，您10月4日反映噪音問題，本府環保局派員前往，稽查當時該店家已打烊，現場並未發現，感謝您\r\n的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 07:37:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 上午 10:40:15"
   },
   {
     "FileNo_": "INS161004510",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:27:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004242",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/4 下午 12:25:15",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁慈路35巷(仁慈公園)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該有一電線垂落，貨車行經已會勾到，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:29:57",
     "Close_Date_": ""
   }
 ]
