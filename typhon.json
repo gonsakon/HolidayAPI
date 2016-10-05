@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005296",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:09:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學二十一路靠近大學西路前20、30公尺",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊堆積一包包垃圾包及落枝落葉未清除，已有異味飄散。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005295",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 01:09:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:39:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004301",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:32:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "大正路與大正二街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處共有三盞路燈故障不亮，建請查處。(務必與陳情人電覆說明)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:41:14",
     "Close_Date_": ""
   }
 ]
