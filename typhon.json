@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005289",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:31:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "民治路90巷與140巷附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近有不明異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005288",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 12:30:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:32:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004299",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:29:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "南寮新莊路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有多盞路燈不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:35:19",
     "Close_Date_": ""
   }
 ]
