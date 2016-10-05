@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005279",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:09:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "河南二路26號左右前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址前路樹樹枝卡在樹上，會卡到過往車輛，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005278",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:01:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:17:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004290",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 02:14:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大安街(大安公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內有2個運動設施損壞，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:19:37",
     "Close_Date_": ""
   }
 ]
