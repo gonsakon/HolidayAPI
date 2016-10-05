@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005242",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 11:12:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "外環西路與左楠路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈一邊不亮，一邊閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005241",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 11:10:33",
@@ -10,7 +27,7 @@
     "UnitName_": "交通局",
     "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障多日皆未修復，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌故障多日皆未修復，已影響交通，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 11:11:46",
@@ -1140,14 +1157,14 @@
   },
   {
     "FileNo_": "INS161005174",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 上午 09:17:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路三段1093號至1100號附近",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有路面油漬，警方已在現場，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:57:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004255",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 12:45:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "台29線上，近溪寮路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有兩個號誌閃黃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:47:21",
     "Close_Date_": ""
   }
 ]
