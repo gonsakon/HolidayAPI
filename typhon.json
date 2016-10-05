@@ -5934,20 +5934,20 @@
   },
   {
     "FileNo_": "INS161004612",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/4 下午 11:42:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "承德街與民族一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈紅綠燈皆會短時間反覆變換，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/05 01：28 交通局 智慧運輸中心 黃泰郎先生回報，該處號誌燈已修復完畢\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:43:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/5 下午 03:37:21"
   },
   {
     "FileNo_": "INS161004611",
