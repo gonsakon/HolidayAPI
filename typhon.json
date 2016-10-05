@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005236",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 10:55:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "崇明街162號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊遭丟棄許多樹枝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005235",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 10:47:26",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161005208",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 上午 09:59:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "光華三路與中山三路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口行人號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 12:45:55",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004247",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/4 下午 12:34:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文化路16號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁有一貓屍，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/04 13:25鳳山區清潔隊鄭惠瑛小姐回報，已清除；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 12:39:54",
-    "Close_Date_": "2016/10/4 下午 03:19:10"
   }
 ]
