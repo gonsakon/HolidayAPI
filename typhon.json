@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005273",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 上午 11:49:30",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "金田里加昌路69橫巷(由學專路轉進，煉油廠圍牆旁)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一台電電桿傾斜近45度，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005272",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 上午 11:47:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:01:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004286",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/4 下午 01:54:24",
-    "ReplyUnit_": "F01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "高40線北上往大安路方向，約6K+500處右轉往前200公尺",
-    "UnitName_": "田寮區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處路段為六米下道路，路面已坍塌致車輛無法通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:08:35",
     "Close_Date_": ""
   }
 ]
