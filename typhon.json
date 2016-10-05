@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006015",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 01:16:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "益群橋上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場還有員警)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006014",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 12:58:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 11:00:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004600",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 10:49:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "山東街往南未過熱河一街快車道",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，先前單位表示需進行切割修補作業，惟至今尚未施工，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 10:54:41",
     "Close_Date_": ""
   }
 ]
