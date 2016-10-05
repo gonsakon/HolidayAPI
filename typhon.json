@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006034",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 07:55:08",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路131巷與裕誠路1542巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線的包膜垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006033",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 07:53:40",
@@ -766,20 +783,20 @@
   },
   {
     "FileNo_": "INS161005565",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/5 下午 10:51:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路與世運大道口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有許多碎玻璃，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/05 23：33溝渠隊林漢宗先生回報，該處碎玻璃已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 10:54:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 上午 07:55:09"
   },
   {
     "FileNo_": "INS161005564",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 12:39:54",
     "Close_Date_": "2016/10/5 上午 07:38:48"
-  },
-  {
-    "FileNo_": "INS161005003",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 12:14:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "大社路275之1號，過大社區清潔隊門口右手邊的鐵皮工廠前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊有一具狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/05 00：52 溝渠隊林漢宗先生回報，該處犬屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 12:16:12",
-    "Close_Date_": "2016/10/5 上午 07:39:38"
   }
 ]
