@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161005277",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 上午 11:57:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "橋南路688之1號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電線垂落路面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 12:08:04",
     "Close_Date_": ""
   },
   {
