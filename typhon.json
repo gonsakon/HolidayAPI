@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005301",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 01:22:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路179之1號隔壁(全國加油站對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一新栽種路樹,因已嚴重傾倒,造成大型車輛出入皆會擦撞造成危險,建請扶正。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005300",
     "Status_": "1",
     "Cre_Date_": "2016/10/5 下午 01:19:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:36:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004308",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:35:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "大豐街96號(大豐公園旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處公園旁共有四盞路燈故障不亮，建請查處。(務必與陳情人電覆說明)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:41:20",
     "Close_Date_": ""
   }
 ]
