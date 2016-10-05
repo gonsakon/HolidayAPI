@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161005531",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 09:05:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路上與後昌新路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路段上之號誌燈皆故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/5 下午 09:06:55",
     "Close_Date_": ""
   },
   {
