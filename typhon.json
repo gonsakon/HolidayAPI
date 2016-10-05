@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161005283",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/5 下午 12:19:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "漢民路792號前；順發3C",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161005281",
     "Status_": "2",
     "Cre_Date_": "2016/10/5 下午 12:14:59",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161005268",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/5 上午 11:44:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富國路與忠言路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有許多落葉等，造成髒亂，望請清除，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/4 下午 02:22:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161004291",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/4 下午 02:16:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄觀路一段152巷33弄口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有許多大且深之路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/4 下午 02:19:42",
     "Close_Date_": ""
   }
 ]
