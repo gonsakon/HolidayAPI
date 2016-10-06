@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007033",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 07:51:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "天祥一路上(西向)由鼎強路至民族一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路段號誌今早未連鎖,造成塞車,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007032",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 07:38:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:44:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005489",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 07:39:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "頂園街38號(公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處有一盞園燈燈座破損且故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:41:16",
     "Close_Date_": ""
   }
 ]
