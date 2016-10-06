@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007012",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 12:44:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "阿公店路一段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈(編號:000768，000766，000755，000752及000751)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007011",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 12:43:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:02:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005467",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 06:59:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "武德街140巷24號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處民宅整修，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:01:37",
     "Close_Date_": ""
   }
 ]
