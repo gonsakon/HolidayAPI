@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006403",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 07:21:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者於晚間19時起有使用噴槍機具，運轉聲響過大，造成噪音，表示日前局處有要求業者晚間19時過後勿有相關情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 07:25:55",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006402",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 07:16:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 04:43:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005375",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 04:34:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "南昌巷往大樹方向",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址道路有泥濘，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 04:37:05",
     "Close_Date_": ""
   }
 ]
