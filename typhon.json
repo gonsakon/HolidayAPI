@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006346",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 06:10:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006345",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 06:06:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 02:30:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005317",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 02:29:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "1.高坪十八路與高坪二十三路 2. 高坪十九街與高坪十八路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該兩處有部分號誌燈有燈具損壞情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 02:42:21",
     "Close_Date_": ""
   }
 ]
