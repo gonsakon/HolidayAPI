@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006341",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 06:02:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "察哈爾一街118號對面(三民公園內、人行道旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該公園內有一機車店招牌丟棄於該處，造成髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006340",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 06:02:38",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161006339",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 06:02:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生一路164號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前路燈昨日修復後今日又故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址前一盞路燈昨日修復後今日又故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 06:03:22",
     "Close_Date_": ""
   },
   {
@@ -2568,14 +2585,14 @@
   },
   {
     "FileNo_": "INS161006187",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 下午 01:01:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "班超路72巷2弄17號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處資源回收業者將回收物放置門口，導致髒亂惡臭及孳生老鼠情事擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 02:13:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005311",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 02:04:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "竹園里新生路194巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處整片路燈故障不亮(編號：竹園高分24左3Q0861CC82) ，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 02:13:38",
     "Close_Date_": ""
   }
 ]
