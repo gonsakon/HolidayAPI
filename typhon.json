@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006275",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 04:15:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲三路295巷147號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處前有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006274",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 04:15:44",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161006246",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 下午 03:19:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "育群街266巷52弄",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一住戶在做資源回收，然因回收物過多，造成髒亂與影響通行，建請查處。",
     "AfterDesc_": "",
@@ -715,19 +732,19 @@
   },
   {
     "FileNo_": "INS161006230",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 02:40:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "路竹",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "下路竹交流道往阿蓮方向的機車道 上周才完成埋設什麼東西 填補後形成機車道隆起一道，致騎車騎士與汽車爭道非常危險 盼貴單位改善",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 04:16:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 11:16:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005243",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 11:13:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "興業街54號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有不明油汙異味導致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/05 13:58 環保局公害專線杜淑文小姐回報，稽查人員於12:09 到達，現場巡查，未\r\n發現明顯所述油汙異味致空污之情形；並於10/06 09：55電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 11:15:19",
-    "Close_Date_": "2016/10/6 上午 10:01:35"
   }
 ]
