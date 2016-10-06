@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006235",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 02:52:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡燕路350號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(編號：000536)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 02:54:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006234",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 02:47:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 10:01:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005205",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:58:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路上(剛要彎進國道一號)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面多處坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 10:00:32",
     "Close_Date_": ""
   }
 ]
