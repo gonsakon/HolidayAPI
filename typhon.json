@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006240",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 03:09:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中正路二段441巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該巷內有一盞路燈(編號:崎漏154左5P9669EA13)照射角度偏移，路燈照射方向往天空照，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 03:11:14",
     "Close_Date_": ""
   },
   {
