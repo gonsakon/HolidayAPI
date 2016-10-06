@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006241",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 03:12:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路9巷7號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前巷道有許多石棉瓦自颱風以來未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006240",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 03:09:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 10:03:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005211",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 上午 10:01:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "中正路上(左營大路19號後方)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處道路邊有多包裝有廢棄樹枝、樹葉之垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 10:05:52",
     "Close_Date_": ""
   }
 ]
