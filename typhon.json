@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006449",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 09:05:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌新路58巷底，右昌森林公園內",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園內廣場與附近園燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006448",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 08:59:46",
@@ -10150,14 +10167,14 @@
   },
   {
     "FileNo_": "INS161005422",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/5 下午 06:17:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路51巷5弄",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈全不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:16:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005420",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 06:15:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路914號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上有一颱風天時，不知哪掉落的招牌，望請派員清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:17:01",
     "Close_Date_": ""
   }
 ]
