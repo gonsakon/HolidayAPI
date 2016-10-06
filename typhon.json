@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006190",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 01:09:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民族二路與七賢一路口(新富發建設工地旁那棟)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映現該屋設置之帆布內有殘留許多水，對此恐孳生孑孓產生登革熱，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006189",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 01:05:46",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006187",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 01:01:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "班超路72巷2弄17號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處資源回收業者將回收物放置門口，導致髒亂惡臭及孳生老鼠情事擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 01:07:22",
     "Close_Date_": ""
   },
   {
@@ -1650,14 +1684,14 @@
   },
   {
     "FileNo_": "INS161006091",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 上午 09:45:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大裕路50號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前快車道上有兩路面坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:14:12",
     "Close_Date_": "2016/10/5 上午 09:45:02"
-  },
-  {
-    "FileNo_": "INS161005160",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:09:08",
-    "ReplyUnit_": "E01004",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "中華電信公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "中華-路面填補不實",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路邊路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:14:18",
-    "Close_Date_": "2016/10/5 上午 09:45:15"
-  },
-  {
-    "FileNo_": "INS161005159",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:09:07",
-    "ReplyUnit_": "E01004",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "中華電信公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "中華-路面填補不實",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路邊路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:15:44",
-    "Close_Date_": "2016/10/5 上午 09:45:24"
   }
 ]
