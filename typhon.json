@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006226",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 02:30:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "左楠路與後昌路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處所設置右轉號誌於紅燈時會放亮，但現皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006225",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 02:24:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:41:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005197",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:38:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐一路460號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前路邊有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/5 10:32三民東區清潔隊許華玲小姐回報，已清除完畢；並於10/06 09：27電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:39:58",
-    "Close_Date_": "2016/10/6 上午 09:30:08"
   }
 ]
