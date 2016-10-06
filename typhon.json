@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 12:33:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路與重忠路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007002",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 12:15:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:49:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005458",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/5 下午 06:45:37",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松藝路上，由八德南路轉進來第一個",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電人孔蓋持續不斷冒水，已長達一個禮拜，目前有積水情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:50:44",
     "Close_Date_": ""
   }
 ]
