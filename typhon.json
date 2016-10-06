@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006482",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 11:51:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓波街16號5樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住家目前有冷氣滴水情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 11:55:55",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006481",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 11:51:00",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161006478",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 11:37:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "高雄市岡山區壽峰里公園西路二段96巷133號門口路燈",
+    "address_": "壽峰里公園西路二段96巷133號門口路燈",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "約莫9/29傍晚時通報李美麗巷口路燈故障，迄今晚10月六號尚未修復、巷口幽暗",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 11:56:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:48:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005455",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 06:44:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫北路13之15號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:45:23",
     "Close_Date_": ""
   }
 ]
