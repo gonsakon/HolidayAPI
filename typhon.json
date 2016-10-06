@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 08:22:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲三路與五福二路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌一側黃綠同亮，一側紅黃同亮，有故障情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 08:23:46",
     "Close_Date_": ""
   },
   {
