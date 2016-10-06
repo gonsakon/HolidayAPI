@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006040",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 08:05:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "文東路一段111號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前路旁有風災過後枯枝落葉，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006035",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 上午 08:04:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 02:26:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005007",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 上午 12:20:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大中一路上，從鼎中路至榮總路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該路段快車道上有2坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 12:22:16",
     "Close_Date_": ""
   }
 ]
