@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006150",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 11:18:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "修成街與修城南街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該公園內颱風後至今尚未清掃，導致髒亂，望請派員清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006149",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 11:14:52",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161006148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 11:13:24",
     "ReplyUnit_": "E01001",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "石安里(紅綠燈下，心美商店前)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一個狗屍，經查該犬隻遭撞傷，目前仍有生命跡象，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 11:18:55",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161006146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 11:09:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重忠路(文府國小附近)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有落葉等髒亂多日未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 11:18:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:20:13",
     "Close_Date_": "2016/10/5 上午 09:54:20"
-  },
-  {
-    "FileNo_": "INS161005120",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:00:11",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:20:18",
-    "Close_Date_": "2016/10/5 上午 09:54:27"
   }
 ]
