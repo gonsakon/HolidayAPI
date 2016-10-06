@@ -85,6 +85,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006208",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 01:43:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "仁德街153號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面掏空(一)",
+    "BeforeDesc_": "渠反映該址前方機車道上有20公分路面掏空情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 01:48:08",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006207",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 01:43:20",
@@ -1004,14 +1021,14 @@
   },
   {
     "FileNo_": "INS161006153",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 上午 11:23:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路維新路橋下",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌現有兩邊同時紅燈長達20秒狀況，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:25:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005183",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:22:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "王公路30號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:29:12",
     "Close_Date_": ""
   }
 ]
