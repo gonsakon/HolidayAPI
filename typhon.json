@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006185",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 12:56:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "至聖路151號到155號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處下水道積水已滿溢至路面，望請派員清疏，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006184",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 12:56:14",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161006180",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 下午 12:41:39",
     "ReplyUnit_": "A01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "白砂路292號與中正路三段",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處日前有天然氣挖掘施工，鋪設後又導致柏油破損，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:17:16",
     "Close_Date_": "2016/10/5 上午 09:46:31"
-  },
-  {
-    "FileNo_": "INS161005155",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:08:45",
-    "ReplyUnit_": "E01004",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "中華電信公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "中華-路面填補不實",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路邊路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:08:56",
-    "Close_Date_": "2016/10/5 上午 09:46:39"
   }
 ]
