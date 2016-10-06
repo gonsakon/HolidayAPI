@@ -460,19 +460,19 @@
   },
   {
     "FileNo_": "INS161006176",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 12:30:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "和義街92巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處兩盞路燈不亮，通報很久了  連一通電話都沒  在不處理準備上新聞。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 01:37:22",
     "Close_Date_": ""
   },
   {
