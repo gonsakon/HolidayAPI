@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 12:14:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中一路上與榮總路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處第二盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006483",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 11:53:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:46:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005456",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/5 下午 06:44:24",
-    "ReplyUnit_": "F01012",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "通仙巷164號",
-    "UnitName_": "杉林區公所",
-    "StatusName_": "待確認",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處附近道路有土石坍塌，影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:48:14",
     "Close_Date_": ""
   }
 ]
