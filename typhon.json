@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006218",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 02:09:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊林路1005號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006217",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 02:01:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:31:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005188",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:27:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "博愛一路與同盟二路路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處慢車道有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:28:21",
     "Close_Date_": ""
   }
 ]
