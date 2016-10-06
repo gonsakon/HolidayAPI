@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161006345",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 06:06:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中正路二段652之2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一電線垂落路旁，建請查處。",
+    "BeforeDesc_": "渠反映該處有一台電電線垂落於路旁，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 06:12:29",
     "Close_Date_": ""
   },
   {
