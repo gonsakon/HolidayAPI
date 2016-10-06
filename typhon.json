@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 10:19:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁美路27巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈(燈號:6230)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006115",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 上午 10:19:17",
@@ -1038,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161006057",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 上午 08:47:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "真君路2巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映過埤國小側門附近有一動物屍體(小貓或狗)，請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:24:37",
     "Close_Date_": "2016/10/5 上午 09:39:35"
-  },
-  {
-    "FileNo_": "INS161005088",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 08:57:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:24:42",
-    "Close_Date_": "2016/10/5 上午 09:39:44"
   }
 ]
