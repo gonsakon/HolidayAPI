@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 12:45:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "華園路95巷8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一路燈白天未熄，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 12:50:14",
     "Close_Date_": ""
   },
   {
