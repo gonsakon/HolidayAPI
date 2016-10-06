@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006220",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 02:16:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建軍路與行仁路口(802醫院旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處殘障停車格位內有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006218",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 02:09:12",
@@ -239,19 +256,19 @@
   },
   {
     "FileNo_": "INS161006204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 01:38:41",
     "ReplyUnit_": "E01001",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中華路14巷160之8號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址旁一部汽車(車牌號碼：YW-3757)引擎內有小貓受困，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 02:15:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:31:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005189",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:27:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "橫山巷；憲兵營區大門口前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處前有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:31:32",
     "Close_Date_": ""
   }
 ]
