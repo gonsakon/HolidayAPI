@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006152",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 11:21:19",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路100號(果菜市場第六區出口公廁旁",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一貓隻受上，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006151",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 上午 11:19:51",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS161006121",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 上午 10:30:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路55之100號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:20:03",
     "Close_Date_": "2016/10/5 上午 09:52:43"
-  },
-  {
-    "FileNo_": "INS161005122",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 09:00:11",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80203高雄市苓雅區四維三路2號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "80203高雄市苓雅區四維三路2號建請查快車道路面有一坑洞1處。上午8.50分",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161005056 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:20:08",
-    "Close_Date_": "2016/10/5 上午 09:53:03"
   }
 ]
