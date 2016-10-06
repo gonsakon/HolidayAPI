@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006467",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 10:55:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民權二路與二聖路交叉口(民權公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園男生廁所環境有髒亂情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006466",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 10:47:55",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161006424",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 下午 08:03:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳楠路(於中山高速公路下)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處機車迴轉道上有一路面大坑洞，恐致危險，已設立安全措施，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:37:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005438",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 06:34:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "旗文路上(介於菜園頂與二成橋之間；往內門方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:43:12",
     "Close_Date_": ""
   }
 ]
