@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 06:18:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "中興西路91巷66號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007018",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 06:17:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:11:43",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005475",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 下午 07:08:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功一路42號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/05 21:46 養工處四維養護工程隊九如分隊李來益先生回報，該處已修復完畢；並於\r\n10/06 09：52電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:09:23",
-    "Close_Date_": "2016/10/6 上午 09:52:05"
   }
 ]
