@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161006436",
+    "FileNo_": "INS161006437",
     "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 08:26:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "樂安路2號(農會)對面產業道路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該道路路面泥濘嚴重，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006436",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 08:24:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明仁路與明哲路(河堤南僑)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該園內一盞園燈(編號04879)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 08:27:26",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:09:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005408",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 06:04:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "新威里137號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:09:30",
     "Close_Date_": ""
   }
 ]
