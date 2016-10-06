@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006227",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 02:33:31",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "車站後街與新生路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈紅黃燈閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006226",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 02:30:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:45:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005198",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:39:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路2之27號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有四盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:41:31",
     "Close_Date_": ""
   }
 ]
