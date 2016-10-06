@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161006277",
+    "FileNo_": "INS161006278",
     "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 04:22:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "鳳楠路(近仁武區，於中山高速公路下)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處機車迴轉道上有一路面大坑洞，恐致危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006277",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 04:18:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "永宏巷16號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有甲醛化學異味，建請查處。",
+    "BeforeDesc_": "渠反映該處有甲醛化學異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 04:22:06",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161006274",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 04:15:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮路665巷(瓏蛾落紅色布條下方排水溝)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處水溝內有化學白色無味液體污染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 04:22:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 11:23:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005246",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 上午 11:18:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "天祥一路153號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前紅磚人行道破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 11:20:24",
     "Close_Date_": ""
   }
 ]
