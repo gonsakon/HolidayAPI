@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006221",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 02:16:17",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路746號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址有汙水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006220",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 02:16:15",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006219",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 02:10:39",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路7號",
+    "UnitName_": "工務局",
+    "StatusName_": "待確認",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處人行道遭管線掏空，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 02:16:36",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:37:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005191",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:28:21",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛一路陸橋",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水利局寶珠溝截流站上陸橋，有愛河英文字一半LED燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:35:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005190",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:27:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路；慈善園老人養護中心旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:31:39",
     "Close_Date_": ""
   }
 ]
