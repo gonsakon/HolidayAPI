@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006400",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 07:08:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐二路169號與171號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一棵路樹傾斜，目前靠在路燈上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006399",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 07:06:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 04:32:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005370",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 04:29:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明誠四路306號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處有一道路指示牌，因颱風來襲時有損毀凹陷情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 04:30:56",
     "Close_Date_": ""
   }
 ]
