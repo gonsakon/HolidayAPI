@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006401",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 07:09:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五福一路、五福二路與漁村街三叉路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈有閃燈情事，疑似故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006400",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 07:08:14",
@@ -34,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006398",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/6 下午 07:06:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "新生巷40號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/6 下午 07:08:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006397",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 07:05:54",
@@ -52,19 +86,19 @@
   },
   {
     "FileNo_": "INS161006396",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 07:05:38",
     "ReplyUnit_": "E01001",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中安路(往燕巢醫院方向)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻受傷，望請救援，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 07:09:30",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 04:39:09",
     "Close_Date_": "2016/10/6 下午 02:05:32"
-  },
-  {
-    "FileNo_": "INS161005372",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 下午 04:31:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞北路與瑞福路198號(南啵萬炒飯)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者有油煙逸散致空污情事長達半年之久，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 11：45電覆陳情人未果，故於10/06 11：47簡訊回覆：戴先生您好，您10月5日\r\n所反映油煙空污問題，經本府環保局前往稽查，稽查時該店營業中，設有靜電式油煙收集設備，且正常運作中，\r\n於該址巡查，未發現顯油煙逸散情事，並已請店家注意防範，以維近鄰空氣品質，感謝您的熱心通報，倘您對案\r\n件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 04:32:34",
-    "Close_Date_": "2016/10/6 上午 11:51:08"
-  },
-  {
-    "FileNo_": "INS161005371",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 04:30:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里得勝巷33之12號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處巷道內，路面破損，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 04:32:30",
-    "Close_Date_": ""
   }
 ]
