@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006045",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 上午 08:17:54",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "葆禎路與九如四路口，左營往九如路橋方向",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006044",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 08:15:14",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161006027",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 上午 07:38:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "公園路上(文山高中前方)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處前方公車牌前方柏油路面上有許多風災遺留之枯樹枝、樹葉，恐造成機超騎士打滑，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 06:14:49",
     "Close_Date_": "2016/10/5 上午 07:01:39"
-  },
-  {
-    "FileNo_": "INS161005013",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 06:05:23",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "瑞源路214號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "暴雨積水(一)",
-    "BeforeDesc_": "渠反映因幸福川的水門未開啟，致該處已淹水，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/05 06:25水利局防洪維護科陳俊良先生回報，該處水門已開啟、現場積水已消\r\n退。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 06:07:04",
-    "Close_Date_": "2016/10/5 上午 07:37:30"
   }
 ]
