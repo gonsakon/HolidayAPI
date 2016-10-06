@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007029",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 07:34:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路848號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路邊有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007027",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 07:32:16",
@@ -681,20 +698,20 @@
   },
   {
     "FileNo_": "INS161006470",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 11:00:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "竹工三巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠惡臭異味，造成空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/07 02:18 環保局 公害專線 王奕翔先生回報，稽查人員於 23:40 現場查察，\r\n 人員於上址路段及周界巡查，未發現有燃燒塑膠以致異味空污之情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 11:01:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 07:33:12"
   },
   {
     "FileNo_": "INS161006469",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:32:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005484",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 07:30:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "球場路185號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處兩盞水銀路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:31:43",
     "Close_Date_": ""
   }
 ]
