@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006318",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 05:30:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "輔仁街98號對面轉角處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭棄置廢棄家具，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006316",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 05:21:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 12:34:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005287",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 12:30:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大鵬路與漢民路口(東南側)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處鐵製車阻有1、2個損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 12:36:28",
     "Close_Date_": ""
   }
 ]
