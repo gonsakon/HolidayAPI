@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006120",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 上午 10:23:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "自由路25號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 上午 10:24:58",
     "Close_Date_": ""
   },
   {
