@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006292",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 04:38:12",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "立志街與立忠路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006291",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 04:37:41",
@@ -4047,14 +4064,14 @@
   },
   {
     "FileNo_": "INS161006051",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 上午 08:29:26",
     "ReplyUnit_": "A01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大仁北路與大德一路(靠近和平公園)",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "寬頻孔蓋坑洞",
     "BeforeDesc_": "渠反映該處路邊有一高建寬頻孔蓋坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 11:38:11",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005260",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 上午 11:34:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "昌盛路與明倫路口(明倫自助餐前)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處行人專用號誌傾斜，且燈號不同步，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/10/06 15:02簡訊回覆:胡里長您好，您10月5日所反映行人號誌問題，本府交通局\r\n已派員前往修復完成，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 11:36:06",
-    "Close_Date_": "2016/10/6 下午 03:02:29"
   }
 ]
