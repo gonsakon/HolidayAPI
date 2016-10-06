@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007025",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 07:20:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽路與健鷹南路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007024",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 07:14:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:28:06",
     "Close_Date_": "2016/10/6 下午 01:03:40"
-  },
-  {
-    "FileNo_": "INS161005481",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 07:23:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "桐竹路218號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞路燈不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:25:11",
-    "Close_Date_": ""
   }
 ]
