@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161006414",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 07:47:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "1.明鳳三路59巷39號 、2.明鳳十一街與明鳳二十六街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處1.路燈故障不亮、2.路燈故障不亮且燈桿歪斜，建請查處。",
+    "BeforeDesc_": "渠反映該處1.一盞路燈故障不亮、2.一盞路燈故障不亮且燈桿歪斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 07:49:13",
     "Close_Date_": ""
   },
   {
