@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007017",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 05:06:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "班超路與凱旋四路交叉口 (班超公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園多盞園燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007016",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 03:14:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:11:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005474",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 07:06:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "深興路26巷內，轉彎處",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮已近十日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:08:49",
     "Close_Date_": ""
   }
 ]
