@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007004",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 12:37:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡燕路485巷10號及16號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映上述兩址前各有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007003",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 12:33:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:48:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005459",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 06:46:32",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路88之1號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一台電纜線垂落路面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:49:51",
     "Close_Date_": ""
   }
 ]
