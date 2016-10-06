@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006479",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 11:38:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園北路，於林園高中前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006478",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 11:37:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:40:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005450",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 06:37:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大同路276巷105弄(巷口及巷尾，該處係無尾巷)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷口、巷尾各一盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:39:10",
     "Close_Date_": ""
   }
 ]
