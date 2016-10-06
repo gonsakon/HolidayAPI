@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006381",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 06:50:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高雄大學路，高雄大學正門口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路口多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006380",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 06:49:41",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161006379",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 06:48:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "寧夏街1巷11號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮已長達兩、三日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 06:50:05",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 03:42:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005352",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 03:37:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "慈愛里安樂巷209之6號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 03:41:24",
     "Close_Date_": ""
   }
 ]
