@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006457",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 10:15:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "湖中路與福生五街沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有地點路燈沿線故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006456",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 10:05:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 06:26:53",
     "Close_Date_": "2016/10/6 下午 12:03:09"
-  },
-  {
-    "FileNo_": "INS161005428",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 06:20:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路上，由外環西路右轉約十公尺左右，近汽車停車格旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處機車道上有一老鼠屍體，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 06:22:47",
-    "Close_Date_": ""
   }
 ]
