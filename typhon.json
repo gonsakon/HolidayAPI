@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006245",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 03:18:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "小崗山；綠色指示牌1到1.5公里處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有道路坍方，已放置三角錐，但未設置警示燈，擔心晚上視線不明恐造成危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006244",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 03:17:40",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161006214",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 下午 01:48:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "太平里吉祥街(旗山國中後方)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈白天未熄已多日，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 10:09:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005215",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 上午 10:04:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中華路上(路竹公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該園內桃花心木四周走道與椅子下久未清掃，皆是落葉髒亂，建請清掃。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 10:12:12",
     "Close_Date_": ""
   }
 ]
