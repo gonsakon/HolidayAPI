@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161006356",
+    "FileNo_": "INS161006357",
     "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 06:30:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北一路與忠孝一路路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈上、下皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006356",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 06:28:27",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "廣昌街141巷22號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "貓陽台卡",
+    "BeforeDesc_": "渠反映該址陽台縫隙中有一貓隻受困，建請救援。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 06:30:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 02:47:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005328",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 02:41:48",
-    "ReplyUnit_": "F01013",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "圓富里復興路204巷2之1號後面產業道路",
-    "UnitName_": "旗山區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處為六米下路面有傾斜、掏空及有裂痕情事，恐生危險，目前陳情人暫時先以沙子堆起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 02:47:52",
     "Close_Date_": ""
   }
 ]
