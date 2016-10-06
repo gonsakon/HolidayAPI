@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161006246",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 03:19:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "育群街266巷52弄",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一住戶在做資源回收，然因回收物過多，造成髒亂與影響通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 03:21:09",
     "Close_Date_": ""
   },
   {
@@ -23,7 +23,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "小崗山；綠色指示牌1到1.5公里處",
+    "address_": "小崗山；高29綠色指示牌1到1.5公里處",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
