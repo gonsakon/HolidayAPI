@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161006204",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 01:38:41",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中華路14巷160之8號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址旁一部汽車(車牌號碼：YW-3757)引擎內有小貓受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006203",
     "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 01:29:44",
@@ -749,14 +766,14 @@
   },
   {
     "FileNo_": "INS161006160",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/6 上午 11:48:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "頂明路上(靠近全聯)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有堆放許多垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:29:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005175",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 上午 09:19:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "圓山路25之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一路燈燈桿蓋子快掉下來，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:20:25",
     "Close_Date_": ""
   }
 ]
