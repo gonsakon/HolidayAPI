@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161006298",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 04:43:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "外環西路與壽民路口(外環西路上)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處兩個號誌燈上之線路有外皮脫落情事，擔心有危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 04:49:33",
     "Close_Date_": ""
   },
   {
