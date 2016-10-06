@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161006415",
+    "FileNo_": "INS161006417",
     "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 07:50:36",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "通校路與協和路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口協和路方向號誌不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161006415",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 07:47:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
-    "address_": "美興街107號前",
+    "address_": "美興街107號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前與對面共有2盞路燈故障不亮多日，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 07:50:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 05:12:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005387",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 05:03:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "澄清路北上，介於覺民路至褒揚街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "省道破損",
-    "BeforeDesc_": "渠反映該處內線快車道有數個凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 05:08:48",
     "Close_Date_": ""
   }
 ]
