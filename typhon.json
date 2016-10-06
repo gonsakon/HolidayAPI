@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007018",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 06:17:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "中興西路91巷65、69號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該兩址前各有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007017",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 05:06:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:09:23",
     "Close_Date_": "2016/10/6 上午 09:52:05"
-  },
-  {
-    "FileNo_": "INS161005472",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 07:07:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "潭底里產業道路無路名(潭底幹40號)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處水泥桿柱上附掛1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:11:02",
-    "Close_Date_": ""
   }
 ]
