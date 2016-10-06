@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006213",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 01:50:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民權二路上與二聖二路口(往三多路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處汽車道上有一坑洞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006210",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 01:48:12",
@@ -154,20 +171,20 @@
   },
   {
     "FileNo_": "INS161006202",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 01:26:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "頂鹽里南北路100號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "雜草叢生，影響交通安全",
-    "AfterDesc_": "",
+    "AfterDesc_": "此案與派工INS161006201相同，併案處理。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 01:45:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/6 下午 01:46:46"
   },
   {
     "FileNo_": "INS161006201",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 上午 09:29:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005182",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 上午 09:22:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "曾子路188號(幼兒園)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址幼兒園目前使用擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 上午 09:24:17",
     "Close_Date_": ""
   }
 ]
