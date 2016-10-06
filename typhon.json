@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006397",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 07:05:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "神農路與農勝路口(公園內)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處園內草皮一直冒水流至路面上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006396",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 07:05:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 04:27:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005368",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 04:18:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "明德新村",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映現該眷村內所有道路邊仍有堆積許多堆傾倒路樹與斷枝未移除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 04:25:03",
     "Close_Date_": ""
   }
 ]
