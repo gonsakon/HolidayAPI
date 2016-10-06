@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006319",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 05:32:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "通典路與大學西路路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006317",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 05:31:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 12:43:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005289",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 12:31:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "民治路90巷與140巷附近",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近有民眾在燃燒，致不明異味空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 12:34:21",
     "Close_Date_": ""
   }
 ]
