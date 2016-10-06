@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161006345",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/6 下午 06:06:31",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中正路二段652之2號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線垂落路旁，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161006344",
     "Status_": "1",
     "Cre_Date_": "2016/10/6 下午 06:05:32",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161006343",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 06:04:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "港九街與中正路；近7-11",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處好智燈故障不亮多日，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 06:06:11",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 02:42:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005315",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 02:27:21",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "舊城巷38號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一幼貓受困，已連續兩三天聽到叫聲，建請會同救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 02:28:46",
     "Close_Date_": ""
   }
 ]
