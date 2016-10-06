@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161006280",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/6 下午 04:24:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "通校路與協和路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌閃黃燈，未有正常運作，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/6 下午 04:25:19",
     "Close_Date_": ""
   },
   {
