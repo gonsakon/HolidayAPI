@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007029",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 07:34:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路848號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路邊有一坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 07:35:25",
     "Close_Date_": ""
   },
   {
@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161006468",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 10:57:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "沿海路一段(中油林園廠)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處工廠現有冒白煙致空污情事，建請盡速會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/07 00：57 環保局 環境稽查科 南區股 王富財先生回報，稽查人員於 10/06\r\n 23:46 到達，經會同陳情人與廠方人員，廠方人員表示稍早白色煙霧係為工廠冷卻水塔所排放之水氣，人員\r\n 於周界巡視，已未有發現白煙之情事，仍勸導業者注意防範；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 11:01:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 07:34:58"
   },
   {
     "FileNo_": "INS161006467",
@@ -868,20 +868,20 @@
   },
   {
     "FileNo_": "INS161006460",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 10:34:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路與藍昌路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口有2座號誌燈故障，一個靠近第八街，一個靠近施工工地，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/06 23:28 交通局 智慧運輸中心 張寬如小姐回報，該處號誌皆已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 10:36:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 07:35:33"
   },
   {
     "FileNo_": "INS161006459",
