@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007032",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 07:38:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路1530號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "路面有凹陷",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007031",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 07:36:47",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS161007023",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 07:13:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與金福路口轉彎處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路面有多個大坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 07:41:26",
     "Close_Date_": ""
   },
   {
@@ -970,20 +987,20 @@
   },
   {
     "FileNo_": "INS161006456",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 10:05:37",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "修明街36號對面",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違停",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/06 23:46 通報110 高警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 11:49:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 07:39:47"
   },
   {
     "FileNo_": "INS161006455",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 07:37:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005487",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 07:33:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明倫路與瑞豐街",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路口有被放置多樣大型廢棄家具，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 07:36:23",
     "Close_Date_": ""
   }
 ]
