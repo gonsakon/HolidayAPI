@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161007065",
+    "FileNo_": "INS161007067",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 09:22:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中華三路與民生二路口，牛乳大王與陽明眼科前斑馬線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映快車道斑馬線上有許多路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007065",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 09:21:02",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "介壽西路與仁壽路(陽明公園)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈歪斜故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 09:22:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 08:51:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005524",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 08:48:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路439巷30號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮已達兩周，建請儘速查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 08:50:00",
     "Close_Date_": ""
   }
 ]
