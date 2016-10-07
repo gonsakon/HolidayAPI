@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007055",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 09:06:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國泰路一段與王生明路與鳳頂路口(軍校圍牆邊附近，北向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處有一路牌快要掉落，恐發生危險，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007054",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 09:03:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 08:31:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005513",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 08:27:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "湖中路與福生三街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈著火，已派車前往，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 08:29:09",
     "Close_Date_": ""
   }
 ]
