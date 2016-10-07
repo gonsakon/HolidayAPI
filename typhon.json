@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007233",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 03:22:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "福祥街172號之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路面有一坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 03:24:03",
     "Close_Date_": ""
   },
   {
@@ -7974,20 +7974,20 @@
   },
   {
     "FileNo_": "INS161006241",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 03:12:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金里鼎金後路9巷7號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前巷道有許多石棉瓦自颱風以來未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06  15：28  三民東區清潔隊郭康尉小姐回報，清潔隊班長有前往現場查看，\r\n該處石棉瓦放置位置不會影響交通，惟石棉瓦有毒，無法進焚化爐焚燒，故清潔隊無法協助清運，需由專\r\n門收石棉瓦公司處理，郭小姐表示若陳情人再次進線，請民眾撥打5370932付費請專門收石棉瓦公司處理\r\n【主管解除管制】本案於",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 03:15:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:23:47"
   },
   {
     "FileNo_": "INS161006240",
