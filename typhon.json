@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007194",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 01:54:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "北平路206號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007193",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 01:52:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 09:33:47",
     "Close_Date_": "2016/10/6 上午 10:36:49"
-  },
-  {
-    "FileNo_": "INS161006073",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 09:12:07",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路(介於大社國小與中正路間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:12:57",
-    "Close_Date_": ""
   }
 ]
