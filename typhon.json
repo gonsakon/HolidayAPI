@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007377",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 08:33:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "夢裡西巷151號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前路段有2盞路燈(編號:3474、3475)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007376",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 08:20:47",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161007363",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 07:48:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "青年一路9巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一舊衣回收箱，惟因門損壞，導致有許多垃圾與衣物造成髒亂，並希望能將回收箱轉正，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 03:40:00",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006253",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 03:36:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "國昌路548號(蔡文國小對面)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "怠速",
-    "BeforeDesc_": "渠反映該處有一輛車輛怠速(車牌: 8215-XB)",
-    "AfterDesc_": "【主管解除管制】本案於10/06 16:50 環保局怠速專線章家豪先生回報，稽查人員於16:40到達，現場查看\r\n未發現上述車輛；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 03:38:15",
-    "Close_Date_": "2016/10/7 下午 03:29:57"
   }
 ]
