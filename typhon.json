@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007065",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 09:21:02",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽西路與仁壽路(陽明公園)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈歪斜故障，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007064",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 09:20:30",
@@ -9045,20 +9062,20 @@
   },
   {
     "FileNo_": "INS161006013",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 12:45:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文川路與重信路、及高鐵站前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周邊空氣中瀰漫工廠所排放之廢棄異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 09：16電覆陳情人未果，故於10/07 09：18簡訊回覆：陳先生您好，您10月6日\r\n所反映廢棄異味問題，經本府環保局前往稽查，於通報路段巡查，未發現工廠排放廢氣以致空污之情事，感謝您\r\n的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:48:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 09:22:38"
   },
   {
     "FileNo_": "INS161006012",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 08:50:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005523",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 08:48:36",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "博愛路上 (瑞興路與維新陸橋間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處路段沿線號誌至風災過後即故障不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 08:49:57",
     "Close_Date_": ""
   }
 ]
