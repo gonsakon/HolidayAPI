@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007225",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 02:56:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "五福三路147巷11號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處堆放許多工程垃圾致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 02:59:08",
     "Close_Date_": ""
   },
   {
@@ -9480,7 +9480,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有落葉等髒亂多日未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 14:17 左營區清潔隊 祝立庭小姐回報，已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:18:59",
     "Close_Date_": ""
