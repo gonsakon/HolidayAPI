@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007179",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 01:22:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "七賢二路350號左右",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "路面及人行道上堆大包垃圾包及傢俱廢材",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007178",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 01:18:07",
@@ -1429,14 +1446,14 @@
   },
   {
     "FileNo_": "INS161007094",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 上午 10:10:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大德二路與岡燕路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌角度偏移，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 08:58:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006061",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 08:55:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術館路(聯合醫院對面，公車站牌前)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊公車停靠處有樹枝堆放，導致公車無法停靠，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 08:56:59",
     "Close_Date_": ""
   }
 ]
