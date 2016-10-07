@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007127",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/7 上午 10:59:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "河南二路與自強路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一榕樹有樹枝卡在樹上，以垂落到橋上，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/7 上午 11:00:27",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007124",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:59:40",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161007126",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:59:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "文德街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈接白天未熄，建請查處。",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 11:00:53",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161007125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:58:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "立忠路與立志街口(鮮味自助餐旁)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口有一號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 11:00:08",
     "Close_Date_": ""
   },
   {
@@ -7600,20 +7617,20 @@
   },
   {
     "FileNo_": "INS161006160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 11:48:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "頂明路上(靠近全聯)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有堆放許多垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 10：32電覆陳情人未果，故於10/07 10：44簡訊回覆：邵先生您好，您10月6日\r\n所反映垃圾包問題，其廢棄物數量過大，需排定於抓斗車前往清除，已交由本府環保局賡續辦理，案件編號：A-\r\nTB-2016-91083，待處理完成再向您回覆，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:50:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 上午 11:03:02"
   },
   {
     "FileNo_": "INS161006159",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:29:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006008",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 12:10:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大中一路上(鼎中路往榮總路方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 12:14:18",
     "Close_Date_": ""
   }
 ]
