@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161007163",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 12:14:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "沿海路一段69巷38弄32號4樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址住家沒有住人，因風災後窗戶與門都遭吹壞，導致屋內積水孳生蚊蟲，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007162",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 12:13:31",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161007158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 12:07:20",
     "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
     "address_": "文衡路(往西方向接近澄清路口)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處機車停等區附近有大量油漬，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 12:14:25",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 08:21:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006044",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 08:15:14",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與鎮港路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 08:16:14",
     "Close_Date_": ""
   }
 ]
