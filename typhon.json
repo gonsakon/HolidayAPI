@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007161",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 12:15:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路759號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有1路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007159",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 12:13:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 08:09:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006042",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 08:06:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華榮路與明誠三路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌綠燈秒數不會跑，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 08:07:38",
     "Close_Date_": ""
   }
 ]
