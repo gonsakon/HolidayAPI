@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161007088",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:00:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路，福東國小",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該校前行人號誌燈按鈕故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 10:02:36",
     "Close_Date_": ""
   },
   {
