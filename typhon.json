@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007201",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 02:12:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "廣昌街43巷9號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前方有一路燈電線垂落多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007200",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 02:10:04",
@@ -1208,14 +1225,14 @@
   },
   {
     "FileNo_": "INS161007127",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/7 上午 10:59:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "河南二路與自強路",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一榕樹有樹枝卡在樹上，以垂落到橋上，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 09:33:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006080",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 09:21:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "吉昌街40號斜對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該該址有路面下陷情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:23:24",
     "Close_Date_": ""
   }
 ]
