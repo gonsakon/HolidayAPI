@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008022",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 02:36:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海四路到南星路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段有多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008021",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 上午 02:36:16",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161007431",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 11:42:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎華街188號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用機具致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:58:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006331",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 05:56:28",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高雄市小港區中山四路13號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "盛葉車業行的機車運輸車每天違停於機慢車道的紅線上，造成機慢車的行駛不便及危險。",
-    "AfterDesc_": "感謝您的反映，此案件已10/06 18：50通報110趙警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 06:51:38",
-    "Close_Date_": "2016/10/6 下午 06:52:59"
   }
 ]
