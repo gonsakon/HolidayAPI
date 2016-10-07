@@ -2704,20 +2704,20 @@
   },
   {
     "FileNo_": "INS161007155",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 上午 11:50:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過埤路142號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址旁空地前方人行道上有樹葉和垃圾堆積致髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 12:40 鳳山區清潔隊 張開盛先生回報，已清除；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:52:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 06:38:06"
   },
   {
     "FileNo_": "INS161007154",
