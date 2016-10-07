@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007074",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 09:32:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "福祥街118號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前有路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 09:34:08",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161007072",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 09:30:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "永榮三街上近八德西路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處前兩盞路燈/路樹，建請查處。",
+    "BeforeDesc_": "渠反映該處前兩盞路燈白天未熄，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 09:34:34",
     "Close_Date_": ""
   },
   {
