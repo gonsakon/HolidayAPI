@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007231",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 03:15:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路三段與文昌路口 (中央分隔島上)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007230",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 03:13:54",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007229",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/7 下午 03:12:02",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "興中一路224號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址旁有一污水管不斷冒水且無蓋子，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/7 下午 03:16:10",
     "Close_Date_": ""
   },
   {
@@ -8773,20 +8807,20 @@
   },
   {
     "FileNo_": "INS161006190",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 01:09:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族二路與七賢一路口(以前的一翔百貨，新富發建設工地旁那棟)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該屋設置之帆布內有許多積水，對此恐孳生孑孓產生登革熱疫情，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 14:19 新興區清潔隊劉淑萍小姐回報，該處房子目前為空屋，需查明屋子\r\n所有權人，由屋主自行清理，無法進入清除，故改派非網A-TB-2016-91113賡續辦理；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 01:18:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:16:36"
   },
   {
     "FileNo_": "INS161006189",
@@ -8807,37 +8841,37 @@
   },
   {
     "FileNo_": "INS161006188",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 01:05:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路與重忠路",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈燈罩掉在地上，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 08：11 養工處四維養護工程隊九如養護分隊郭人彰先生回報，該處路燈已\r\n裝設修復完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 01:11:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:16:15"
   },
   {
     "FileNo_": "INS161006187",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 01:01:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "班超路72巷2弄17號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處資源回收業者將回收物放置門口，導致髒亂惡臭及孳生老鼠情事擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 18:02 前鎮區清潔隊 吳雅萍小姐回報，已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 01:07:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:15:58"
   },
   {
     "FileNo_": "INS161006186",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 10:11:46",
     "Close_Date_": "2016/10/7 下午 02:47:17"
-  },
-  {
-    "FileNo_": "INS161006106",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 上午 10:09:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "新庄路過鳳仁路約20公尺產業道路上(近鳳仁路101之22號附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮由颱風來襲至今，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 10:11:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006108",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 10:07:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "市中一路與大同二路口(市中一路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 10:08:26",
-    "Close_Date_": ""
   }
 ]
