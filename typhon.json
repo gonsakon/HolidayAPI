@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007424",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 10:53:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路(大中二路至重上街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
+    "BeforeDesc_": "渠反映該路段之快慢車道多盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 10:54:02",
     "Close_Date_": ""
   },
   {
