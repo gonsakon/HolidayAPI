@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007402",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 09:39:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "石化二路8號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址斜對面發生交通事故致路面散落破碎瓷器，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007401",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 09:35:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:35:25",
     "Close_Date_": "2016/10/7 下午 03:43:10"
-  },
-  {
-    "FileNo_": "INS161006280",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 04:24:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "通校路與協和路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌閃黃燈，未有正常運作，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 19:37 交通局智慧運輸中心高振閔先生回報，該處已修復；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 04:25:19",
-    "Close_Date_": "2016/10/7 下午 03:43:26"
   }
 ]
