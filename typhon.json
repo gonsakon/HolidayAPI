@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007409",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 10:04:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "三公路85號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電桿(永寧高幹153左14P9958DA04 )傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 10:08:22",
     "Close_Date_": ""
   },
   {
