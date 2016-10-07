@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161007097",
+    "FileNo_": "INS161007099",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 10:17:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "中華街2之20號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，開關箱也打開線路外露，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007097",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:16:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "孔鳳路與 1.金城路 2.高鳳路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該兩處號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 10:17:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 10:20:51",
     "Close_Date_": "2016/10/6 上午 07:58:37"
-  },
-  {
-    "FileNo_": "INS161005557",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/5 下午 10:17:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋四路與中山三路口(凱旋四路南往北方向，高架橋下方)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈上目前有垂掛螺旋塑膠物，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 00:15交通局智慧運輸中心黃泰郎先生回報，該處已排除；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 10:19:47",
-    "Close_Date_": "2016/10/6 上午 07:58:03"
   }
 ]
