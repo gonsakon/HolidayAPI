@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 11:27:12",
     "ReplyUnit_": "A01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路90號前",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該處有一高縣寬頻孔蓋有鬆動致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 11:28:37",
     "Close_Date_": ""
   },
   {
@@ -613,14 +613,14 @@
   },
   {
     "FileNo_": "INS161007105",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 上午 10:20:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "建盛街",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面疑因振美建設風災而掉落碎玻璃於此，且遭堆積垃圾，建請查處。",
     "AfterDesc_": "",
@@ -6641,7 +6641,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映近日行經該處皆有瓦斯異味瀰漫，風災過後瓦斯味道一直存在，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 18:19 環保局南區股 楊立文先生回報，稽查人員於16:05到達，對此人員於現場\r\n使用PID以及4用氣體偵測器檢測之數值皆為0，而人員於該址周界巡查皆未發現瓦斯異味致空汙之情事；並於\r\n10/07 11：23電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 02:50:10",
     "Close_Date_": ""
