@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007329",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 06:51:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路起銜接鼎山街(由鼎金後路至明誠一路間)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路段沿線號誌原本均為連鎖設定，惟今日卻疑似故障不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 06:53:33",
     "Close_Date_": ""
   },
   {
