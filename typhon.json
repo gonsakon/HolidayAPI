@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007372",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 08:10:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "河東路7號(好客漢風餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "該處業者排油煙機運轉噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007371",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 08:09:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 03:28:01",
     "Close_Date_": "2016/10/7 下午 03:29:28"
-  },
-  {
-    "FileNo_": "INS161006248",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 03:24:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中興一巷巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 03:27:28",
-    "Close_Date_": ""
   }
 ]
