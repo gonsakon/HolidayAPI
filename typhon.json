@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007369",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 08:02:40",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "明潭路與環山路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007368",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 08:01:47",
@@ -7328,14 +7345,14 @@
   },
   {
     "FileNo_": "INS161006413",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/6 下午 07:42:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁慈二街與仁慈三街口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 03:20:10",
     "Close_Date_": "2016/10/7 下午 04:29:52"
-  },
-  {
-    "FileNo_": "INS161006244",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 03:17:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳楠路與國1高速公路涵洞下(未到鳳仁路；往仁武方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處機車道上有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 03:19:21",
-    "Close_Date_": ""
   }
 ]
