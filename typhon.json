@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007079",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 09:45:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "捷西路轉入捷運大寮站出入口1",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處單行道路面傾倒兩棵樹致影響交通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007078",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 09:42:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 09:29:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005537",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 09:27:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文龍路16巷18號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該園內有一斷裂之樹枝未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 09:29:03",
     "Close_Date_": ""
   }
 ]
