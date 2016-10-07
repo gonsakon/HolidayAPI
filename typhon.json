@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007283",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 05:23:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞興路252號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈電箱控制箱蓋未蓋好，與路燈桿底座蓋子未蓋好，有路燈電線外露情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007282",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 05:12:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:50:56",
     "Close_Date_": "2016/10/7 上午 11:03:02"
-  },
-  {
-    "FileNo_": "INS161006159",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/6 上午 11:46:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路341號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前電線桿下方有電線掉落，有台電人員前往惟未見改善，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 11:52:28",
-    "Close_Date_": ""
   }
 ]
