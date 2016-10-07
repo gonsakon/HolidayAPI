@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007226",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 03:00:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東二路432號(黑浮咖啡)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者現有油煙飄散與香精惡臭，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007225",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 02:56:44",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161007211",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/7 下午 02:36:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞田街上與凱旋四路交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有一坑洞，已用三角錐圍起數天，惟至今無人前往修復，建請查處。",
     "AfterDesc_": "",
@@ -9368,37 +9385,37 @@
   },
   {
     "FileNo_": "INS161006151",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 11:19:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "通山路30號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前因風災過後遭棄置許多廢棄木頭以及垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/6 14：47 旗津區區清潔隊方秀密小姐回報，該處已清除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:21:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:01:35"
   },
   {
     "FileNo_": "INS161006150",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 11:18:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "修成街與修城南街",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該公園內颱風後至今尚未清掃，導致髒亂，望請派員清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 08：51養工處四維養護工程隊前鎮養護分隊潘麗娥小姐回報：該處經查係\r\n百立建設公司認養的區塊，惟認養後皆未主動清掃管理，並發函文給該建設公司限期清掃改善，故轉非\r\n網:A-TB-2016-91468；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:19:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:01:20"
   },
   {
     "FileNo_": "INS161006149",
@@ -9436,20 +9453,20 @@
   },
   {
     "FileNo_": "INS161006147",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 11:12:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明賢街上(明堤公園旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處放置7至8袋颱風清掃後之垃圾包，望請清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 13:03 三民西區清潔隊許美鈴小姐回報，已清除完成；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:15:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 02:59:02"
   },
   {
     "FileNo_": "INS161006143",
@@ -9470,20 +9487,20 @@
   },
   {
     "FileNo_": "INS161006146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 上午 11:09:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重忠路(文府國小附近)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有落葉等髒亂多日未清除，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/06 14:17 左營區清潔隊 祝立庭小姐回報，已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:18:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 02:59:46"
   },
   {
     "FileNo_": "INS161006145",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 10:07:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006103",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 10:01:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "路科籃球場",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "路科籃球場(路科一路跟路科六路交叉口)，投幣式照明設備故障，煩請確認維修，感謝辛苦了!!",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 10:14:23",
     "Close_Date_": ""
   }
 ]
