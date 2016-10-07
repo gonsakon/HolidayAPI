@@ -5713,20 +5713,20 @@
   },
   {
     "FileNo_": "INS161006433",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 08:15:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正大路120之5號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/7 15：20 養工處四維養護工程隊九如養護分隊陳戊昌先生回報，該處已修\r\n復；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 08:16:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 05:46:53"
   },
   {
     "FileNo_": "INS161006432",
@@ -5866,20 +5866,20 @@
   },
   {
     "FileNo_": "INS161006423",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 08:01:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "大智路橋，往高雄市區方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處陸橋上，機慢車道有一具貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 20:34 鳳山區清潔隊楊孟珍小姐回報，人員至現場巡視兩次，未發現上述\r\n情事 ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 08:03:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 05:47:22"
   },
   {
     "FileNo_": "INS161006422",
