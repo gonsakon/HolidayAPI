@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161007297",
+    "FileNo_": "INS161007298",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 06:09:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社區文化路17號與27號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該二處一盞路燈故障不亮，一盞路燈故障光線昏暗，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007297",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 06:08:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路175號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前人行道有一突起，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 06:10:05",
     "Close_Date_": ""
   },
   {
@@ -528,20 +545,20 @@
   },
   {
     "FileNo_": "INS161007266",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 04:29:32",
     "ReplyUnit_": "F01008",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "鳳澄路(南向)右轉典寶溪旁道路",
     "UnitName_": "燕巢區公所",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該址路面塌陷，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 16:41 燕巢區公所藍秋燕小姐回報，該處經查屬水利局權責，故改派非網\r\nA-TB-2016-91819賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:39:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 06:10:35"
   },
   {
     "FileNo_": "INS161007265",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 12:30:47",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006174",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 12:26:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "石安里",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，望請派員清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/6 13：33 阿蓮區清潔隊李松益先生回報，該處已清除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 12:28:37",
-    "Close_Date_": "2016/10/7 下午 03:13:32"
   }
 ]
