@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007242",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 03:43:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德南路200號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 03:43:57",
     "Close_Date_": ""
   },
   {
@@ -7294,37 +7294,37 @@
   },
   {
     "FileNo_": "INS161006291",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 04:37:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路555號；近民族二路這側",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道磚破損下陷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 17:09 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處無立即\r\n危險性，列為災後復建工作，故改派非網A-TB-2016-91251賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:39:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:44:43"
   },
   {
     "FileNo_": "INS161006290",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 04:37:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路上(醫學大學大門出口)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有一路面坑洞(約一尺大小)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 13:43 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已修復；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:39:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:44:28"
   },
   {
     "FileNo_": "INS161006289",
@@ -7413,20 +7413,20 @@
   },
   {
     "FileNo_": "INS161006284",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/6 下午 04:27:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802台灣高雄市苓雅區泰豊街44巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "路燈不亮",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/06 21：43養工處四維養護工程隊九如養護分隊陳戊昌先生回報：該處已另會\r\n同里長，修復完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:19:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 03:43:04"
   },
   {
     "FileNo_": "INS161006283",
