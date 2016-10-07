@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007134",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 11:12:31",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "本洲三街100號附近",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有三條電線垂落之情事，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007133",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 11:11:34",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161007131",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 11:10:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "北平路70之26號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址有一盞路燈(編號：6658)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 11:12:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 01:29:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006015",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 上午 01:16:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "益群橋上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場還有員警)",
-    "AfterDesc_": "【主管解除管制】本案於10/06 01：50溝渠隊李文山先生回報，該處油漬已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 01:18:55",
-    "Close_Date_": "2016/10/6 上午 07:02:32"
   }
 ]
