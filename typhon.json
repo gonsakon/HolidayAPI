@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161007296",
+    "FileNo_": "INS161007297",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 06:08:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中正四路175號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該址前人行道有一突起，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007296",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 06:06:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "義勇路52號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 06:08:11",
     "Close_Date_": ""
   },
   {
@@ -460,20 +477,20 @@
   },
   {
     "FileNo_": "INS161007269",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 04:34:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "大順一路605之1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址附近有颱風吹來的大型垃圾，類似遮雨棚，有塑膠亦有鐵，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/7 16：48 鼓山區清潔隊陳麗琴小姐回報，旨揭大型垃圾為陳情人所有，告知\r\n需費用後其表示會自行處理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:37:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 06:08:38"
   },
   {
     "FileNo_": "INS161007268",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 12:28:37",
     "Close_Date_": "2016/10/7 下午 03:13:32"
-  },
-  {
-    "FileNo_": "INS161006173",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 12:19:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路上，國一往水管路方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處過國1涵洞，約2分鐘的車程，慢車道上有一坑洞，剛剛已致其摔車，建請儘速修復或置交通椎。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 12:28:30",
-    "Close_Date_": ""
   }
 ]
