@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161007333",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 06:56:32",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "&#22356;埔段1地號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處自颱風過後停電至今皆未復電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 07:02:11",
     "Close_Date_": ""
   },
   {
