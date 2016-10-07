@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007204",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 02:25:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街與金鼎路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該處有一「金鼎路」路牌歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007203",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 02:17:47",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161007179",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 01:22:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "七賢二路350號左右",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路面及人行道上遭堆置大包垃圾包及傢俱廢材，建請一併查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 10:14:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006083",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 上午 09:31:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏平路與山明路口(靠近山明路上)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處路口有一「宏平路」路牌歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:33:28",
     "Close_Date_": ""
   }
 ]
