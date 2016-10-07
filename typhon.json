@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008002",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 12:04:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "後厝路5之1號旁邊",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞水泥製路燈桿，目前有倒塌在地面上，且電線有外露情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008001",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 上午 12:02:43",
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS161007399",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/7 下午 09:30:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "曾子路328號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有多盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:23:03",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006311",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 05:09:04",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "蓬萊路碼頭",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "高市鼓山區蓬萊路8號倉6辦公室外，傍晚5:00-8:00每天都有野狗追逐機車，造成同仁害怕險發生車禍，差點撞上分隔島，請派人將野狗抓走，謝謝，建請查處並以電子信箱函陳情人。",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161006308 ，研判應是重複成案，故併入該案一併\r\n委由動報處處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 05:20:03",
-    "Close_Date_": "2016/10/6 下午 05:20:57"
   }
 ]
