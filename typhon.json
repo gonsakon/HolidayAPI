@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007428",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 11:22:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "介壽東路與河堤路一段口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處一號誌綠燈秒數過短，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007426",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 11:07:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:00:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006304",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 04:57:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "埤北路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處滯洪池內及周邊之路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 05:00:10",
     "Close_Date_": ""
   }
 ]
