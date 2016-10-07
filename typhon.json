@@ -188,19 +188,19 @@
   },
   {
     "FileNo_": "INS161007027",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 07:32:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "廟前路上(近旗津三路，舊旗津醫院地址)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電線桿傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 08:11:12",
     "Close_Date_": ""
   },
   {
