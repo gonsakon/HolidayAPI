@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007058",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 09:09:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "1.鳳林一路184巷、2.鳳林一路300巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該兩處巷內皆有路燈故障不亮許久，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007057",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 09:07:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 08:34:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005515",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 08:31:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "江山里江山路12號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 08:32:24",
     "Close_Date_": ""
   }
 ]
