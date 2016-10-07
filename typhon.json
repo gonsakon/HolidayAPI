@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161007198",
+    "FileNo_": "INS161007199",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 02:09:09",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "保生路與建國街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障閃黃燈且歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007198",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 02:07:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "博愛一路25號前沿線",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處沿線路面有保麗龍碎屑，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 02:09:35",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 09:22:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006078",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 上午 09:18:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌一路302巷",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前空氣中有瀰漫，疑似燃燒不明物品致空污異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 12:34 環保局公害專線李政育先生回報，稽查人員於10:31到達，於上述路段巡\r\n查未發現汙染源致異味情事；並於10/07 09：41電覆陳情人，故解除管制；惟陳情人反映該處長期空污問題，故\r\n另派非網A-TB-2016-91520追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:19:17",
-    "Close_Date_": "2016/10/7 上午 09:49:56"
   }
 ]
