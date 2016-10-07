@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161007034",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 07:49:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "赤崁東路315巷口",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "變壓器有怪聲，出火花造成瞬停後已復電，近期發生多次請排員詳查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 上午 08:16:43",
     "Close_Date_": ""
   },
   {
