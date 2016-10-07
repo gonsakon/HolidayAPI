@@ -69,36 +69,36 @@
   },
   {
     "FileNo_": "INS161008018",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 02:33:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪十五路與高坪二十六街交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路口一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 上午 02:39:40",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161008017",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 02:32:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪十五路456巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路口一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 上午 02:39:26",
     "Close_Date_": ""
   },
   {
@@ -405,7 +405,7 @@
     "AfterDesc_": "【承辦機關完成通報】10/08 02:32 環保局 稽查科 陳彥州先生回報，稽查人員 02:20 到場，於上址周界巡查\r\n 未發現所述噪音之情事，且礙於雨勢也不便進行分貝數值量測，惟後續仍於日間時段派員複查，故改派非網：\r\n A-TB-2016-92059 賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 11:44:29",
-    "Close_Date_": "2016/10/8 上午 02:37:22"
+    "Close_Date_": "2016/10/8 上午 02:37:44"
   },
   {
     "FileNo_": "INS161007430",
