@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161007246",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 03:53:06",
     "ReplyUnit_": "E01005",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中南街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線桿(編號：竹圍12左高分2)，因椰子樹傾斜，導致電線垂落，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 03:56:41",
     "Close_Date_": ""
   },
   {
