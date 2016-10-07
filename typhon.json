@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007091",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 10:05:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "鹽埕巷(從和平路二段轉入、往觀音山方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段有三盞燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007090",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 10:03:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 09:49:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005549",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/5 下午 09:45:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "久昌街229巷42號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 09:47:56",
     "Close_Date_": ""
   }
 ]
