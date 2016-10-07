@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007046",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 08:46:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "茄萣路二段177巷37號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有7至8盞路燈白天未熄，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007044",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 上午 08:32:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/5 下午 08:20:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161005502",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/5 下午 08:16:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "陽明路207巷與義明街口(陽明文學院大樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該大樓19樓或22樓其一住戶冷氣滴水，造成污染，建請查處。(請人員抵達現場時與陳情人聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/5 下午 08:19:48",
     "Close_Date_": ""
   }
 ]
