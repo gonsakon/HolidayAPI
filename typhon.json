@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008007",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 01:22:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "小港路(介於翠亨南路至鋼平街之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路段周界目前飄散類似消毒水異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008006",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 12:53:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:34:02",
     "Close_Date_": "2016/10/7 下午 12:12:50"
-  },
-  {
-    "FileNo_": "INS161006316",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 05:21:03",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "憲政路與福德二路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處雨水涵管破損導致坑洞，已設安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 05:23:03",
-    "Close_Date_": ""
   }
 ]
