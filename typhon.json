@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007186",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 01:43:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞隆路上與凱旋四路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處慢車道上有一坑洞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007185",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 01:36:14",
@@ -1038,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161007125",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 上午 10:58:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "立忠路與立志街口(鮮味自助餐旁)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口有一號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 09:07:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006066",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 上午 09:01:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "後港巷86號前路邊",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊遭人丟棄物品及垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 11：22 仁武區清潔隊許進利先生回報，該處為廠房廢棄物，與陳情人聯繫說\r\n明，陳情人已向清潔隊登記清運，預計於下午處理，該處目前無妨礙交通，故改派非網A-TB-2016-90996賡續辦\r\n理；並於10/07 09：30電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:03:31",
-    "Close_Date_": "2016/10/7 上午 09:41:35"
   }
 ]
