@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 12:10:42",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓舊街7之1號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008002",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 12:04:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 05:23:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006312",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 05:14:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "竹寮里竹寮路57之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁有一盞路燈故障不亮，建請會同勘查。(陳情人要求會同)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 05:23:03",
     "Close_Date_": ""
   }
 ]
