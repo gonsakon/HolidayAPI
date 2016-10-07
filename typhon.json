@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007354",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 07:32:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與天后街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有工程進行，導致路面泥濘，機車行經危險，建請查處。",
+    "BeforeDesc_": "渠反映該處有道路工程進行，導致路面泥濘，機車行經危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 07:35:04",
     "Close_Date_": ""
   },
   {
