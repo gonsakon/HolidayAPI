@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 10:59:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路157號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址對面公園外人行道上有遭棄置廢棄家具，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007122",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 10:54:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:14:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006004",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 上午 12:09:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "忠誠路83號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(0307)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 12:14:15",
     "Close_Date_": ""
   }
 ]
