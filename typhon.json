@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007135",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 11:14:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "立忠路與立人街口，愛國超市前，號誌控制箱旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭棄置玻璃頻、招牌、垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007134",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 11:12:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 01:47:08",
     "Close_Date_": "2016/10/6 上午 06:59:53"
-  },
-  {
-    "FileNo_": "INS161006016",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 上午 01:27:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "民族路99號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 01:29:01",
-    "Close_Date_": ""
   }
 ]
