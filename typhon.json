@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161007341",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 07:09:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路539號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址對面有一盞路燈閃爍，疑似故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 07:10:30",
     "Close_Date_": ""
   },
   {
