@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161008006",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 12:53:46",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段91巷38弄9號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該址前電線趕上的電線有冒出火花，然後有異聲出現，建請查處。",
+    "BeforeDesc_": "渠反映該址前電線桿上的電線有冒出火花，然後有異聲出現，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 上午 12:57:07",
     "Close_Date_": ""
   },
   {
