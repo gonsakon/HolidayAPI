@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161007386",
+    "FileNo_": "INS161007387",
     "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 08:52:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路上過大春街口前方不遠處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處慢車道上有散落約1公尺長之碎玻璃，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161007386",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 08:49:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "赤崁北路往北方向，新庄路上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有一柏油回填處與路面不平，建請查處。",
+    "BeforeDesc_": "渠反映該處路面有一柏油回填處與路面不平，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 08:51:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:02:36",
     "Close_Date_": "2016/10/7 下午 04:59:33"
-  },
-  {
-    "FileNo_": "INS161006265",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 03:56:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學七街，近大學十街口(往北方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 04:01:01",
-    "Close_Date_": ""
   }
 ]
