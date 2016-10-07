@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007342",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 07:10:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路46巷30號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007341",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 07:09:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 02:16:36",
     "Close_Date_": "2016/10/7 下午 04:23:18"
-  },
-  {
-    "FileNo_": "INS161006218",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 下午 02:09:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "瓊林路1005號對面(路燈編號:64507910)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 02:11:17",
-    "Close_Date_": ""
   }
 ]
