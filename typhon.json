@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161007160",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 12:10:38",
     "ReplyUnit_": "A04000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
-    "address_": "統嶺路125號，中油嶺口站",
+    "address_": "統嶺路125號(中油嶺口站)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌不變燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/7 下午 12:11:38",
     "Close_Date_": ""
   },
   {
