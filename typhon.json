@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007424",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 10:53:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路(大中二路至重上街之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007423",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 10:48:21",
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS161007375",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 08:14:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路465巷(振展貨櫃場)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該貨櫃場目前使用機具致噪音情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:54:08",
     "Close_Date_": "2016/10/7 下午 04:30:47"
-  },
-  {
-    "FileNo_": "INS161006301",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 04:47:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明誠二路與聯興路口(明誠二路上往民族路方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "該處機車待轉區前方約1公尺處有1路面坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 13:43 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已修復；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 04:52:42",
-    "Close_Date_": "2016/10/7 下午 03:46:26"
   }
 ]
