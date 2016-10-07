@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007124",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 上午 10:59:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中華路18巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有一貓屍,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007123",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 上午 10:59:01",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161007118",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/7 上午 10:45:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中興路上,由中鋼構至元良化工(約一公里長度)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處路面刨鋪施工,圍設兩線道,未派員指揮疏導且現場未註明完工日期,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 12:14:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006005",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 上午 12:09:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松竹街中段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(0354)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 12:14:13",
     "Close_Date_": ""
   }
 ]
