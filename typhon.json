@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007208",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 02:32:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "大仁街上(約1號至26號)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007207",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 02:30:28",
@@ -1140,14 +1157,14 @@
   },
   {
     "FileNo_": "INS161007138",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 上午 11:20:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "民治路上(民治路140巷至民治路90巷)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有一股燃燒不明異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 09:44:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006087",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 上午 09:39:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "通校路290號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處兩盞路燈(編號：002879、002880)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 09:42:01",
     "Close_Date_": ""
   }
 ]
