@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007323",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 06:43:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "港興街與平和路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007320",
     "Status_": "1",
     "Cre_Date_": "2016/10/7 下午 06:43:16",
@@ -2993,20 +3010,20 @@
   },
   {
     "FileNo_": "INS161007140",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 上午 11:23:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙二路433號與435號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道有3至4個坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/07 14：44 養工處四維養護工程隊前鎮養護分隊潘麗娥小姐回報，該處已修復\r\n完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:24:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/7 下午 06:43:55"
   },
   {
     "FileNo_": "INS161007139",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 01:27:22",
     "Close_Date_": "2016/10/7 下午 03:18:03"
-  },
-  {
-    "FileNo_": "INS161006198",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 01:24:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路與一心二路口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有2至3個坑洞，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 17:05 養工處四維養護工程隊前鎮養護分隊潘麗娥小姐回報，該處已修補\r\n完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 01:27:19",
-    "Close_Date_": "2016/10/7 下午 03:18:46"
   }
 ]
