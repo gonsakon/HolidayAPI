@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007410",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 10:10:50",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大慶街10號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007409",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 10:04:00",
@@ -1531,14 +1548,14 @@
   },
   {
     "FileNo_": "INS161007318",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/7 下午 06:34:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "同慶路76號14樓",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映住家旁之師範大學校內冷氣機房目前傳出低頻噪音，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 04:37:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006287",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 下午 04:35:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "菩提大道(景好土雞城對面；山下往山上走的方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處第四盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 04:37:27",
     "Close_Date_": ""
   }
 ]
