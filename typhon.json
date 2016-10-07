@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161007269",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/7 下午 04:34:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "大順一路605之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址附近有颱風吹來的大型塑膠垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161007268",
     "Status_": "2",
     "Cre_Date_": "2016/10/7 下午 04:31:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 上午 11:14:46",
     "Close_Date_": "2016/10/7 下午 02:56:44"
-  },
-  {
-    "FileNo_": "INS161006146",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 上午 11:09:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重忠路(文府國小附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有落葉等髒亂多日未清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 14:17 左營區清潔隊 祝立庭小姐回報，已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 上午 11:18:59",
-    "Close_Date_": "2016/10/7 下午 02:59:46"
   }
 ]
