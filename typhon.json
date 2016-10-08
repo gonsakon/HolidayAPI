@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161008327",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 10:19:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中山路與自由街190巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮近1日，且明日該里會有大型活動舉辦，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008326",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 10:16:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "大福街上(近大裕路)",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有宮廟舉辦活動使用擴音器撥放音樂，及燃放鞭炮致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:47:31",
     "Close_Date_": "2016/10/7 下午 06:40:30"
-  },
-  {
-    "FileNo_": "INS161007152",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 上午 11:43:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "踩風大道(介於七姓宮至蔡鳳公之間；靠海一側)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 11:46:54",
-    "Close_Date_": ""
   }
 ]
