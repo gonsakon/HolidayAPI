@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161008116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 12:12:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路與榮昌街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "榮昌街往加昌路 號誌燈故障已經約三日，，號誌燈無法正常顯示，有時三顆燈同燈閃爍，可通行時綠燈不亮勞請相關單位維修",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 12:55:46",
     "Close_Date_": ""
   },
   {
