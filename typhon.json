@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008173",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 04:03:00",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008172",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 03:57:20",
@@ -5220,14 +5237,14 @@
   },
   {
     "FileNo_": "INS161007293",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 06:05:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲二路47號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址旁巷內有1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 11:55:55",
     "Close_Date_": "2016/10/7 上午 07:32:56"
-  },
-  {
-    "FileNo_": "INS161006481",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 11:51:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自勉路66巷近先勝路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈附掛之照明燈角度往下歪斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 12:04:15",
-    "Close_Date_": ""
   }
 ]
