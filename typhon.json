@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008129",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 01:07:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌路右轉左楠路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "右轉號誌燈故障不亮，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008128",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 01:04:33",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008127",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/8 下午 01:04:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "部後街沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處廟會使用擴音器播放音樂噪音擾民 ，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/8 下午 01:07:14",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 08:30:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006437",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 08:26:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "樂安路2號(農會)對面大排溝旁產業道路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該道路路面泥濘嚴重，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 21:25  彌陀區清潔隊曾振原先生回報，經人員現場查看，該處為地主進行\r\n工程，已請現場怪手司機將路面泥濘清除，目前已無影響交通，惟剩餘一些泥土，需待明日請地主派水車\r\n前往清洗路面，清潔隊人員明日會再次前往查看，確認地主是否將路面清洗乾淨，故轉派非網A-TB-2016-\r\n91357 賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 08:30:12",
-    "Close_Date_": "2016/10/7 下午 04:10:40"
-  },
-  {
-    "FileNo_": "INS161006436",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 下午 08:24:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明仁路與明哲路(河堤南橋)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內愛河河岸旁有一盞園燈(編號04879)故障不亮，該盞園燈燈罩有如斗笠般，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 08:27:26",
     "Close_Date_": ""
   }
 ]
