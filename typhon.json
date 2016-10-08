@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008034",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 08:11:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "進學路70巷22號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處斜對面轉角處堆放裝修房屋之廢料混凝土，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008031",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 上午 08:10:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 06:07:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006343",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 下午 06:04:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "港九街與中正路；近7-11",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 06:06:11",
     "Close_Date_": ""
   }
 ]
