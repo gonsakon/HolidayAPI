@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008232",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 06:36:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園區  工業一路與工業二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "林園區  工業一路與工業二路  路口號誌燈，自從上次颱風過後故障已久，麻煩盡快修復！此路口上下班時段車流很多！早上時段交通號誌可以提前至七點開始運作！！感謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008231",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 06:35:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 09:13:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007057",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 上午 09:07:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "1.鳳林一路34巷、2.鳳林一路82巷、3.鳳林一路128巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該三處巷內皆有路燈故障不亮許久，建請查修。(里長可會同查修)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 09:13:27",
     "Close_Date_": ""
   }
 ]
