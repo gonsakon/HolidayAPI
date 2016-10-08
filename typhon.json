@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161008105",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 11:36:11",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
-    "address_": "大德里活動中",
+    "address_": "大德里活動中心前",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處前排水溝內有一黑色小型犬隻受困，因排水溝水位較高，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 上午 11:39:33",
     "Close_Date_": ""
   },
   {
@@ -860,7 +860,7 @@
     "UnitName_": "環保局",
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址附近有一公廟現燃放鞭炮煙霧瀰漫造成空污，建請查處。",
+    "BeforeDesc_": "渠反映該址附近有一宮廟現燃放鞭炮煙霧瀰漫造成空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:05:42",
