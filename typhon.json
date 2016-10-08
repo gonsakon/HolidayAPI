@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161008214",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 06:00:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢一路與林森一路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "吊掛作業",
+    "BeforeDesc_": "渠反映該處進行吊掛作業是否有經申請，有無違反時間，建晴查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 06:02:09",
     "Close_Date_": ""
   },
   {
