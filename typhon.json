@@ -188,19 +188,19 @@
   },
   {
     "FileNo_": "INS161008169",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 03:39:06",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "二聖凱旋路口",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "二聖凱旋路口的人行道常有違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 04:21:38",
     "Close_Date_": ""
   },
   {
