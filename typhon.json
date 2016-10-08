@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161008315",
+    "FileNo_": "INS161008316",
     "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 10:03:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008315",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 10:00:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路與河堤南路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口號誌與前後號誌故障不連鎖，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 10:03:05",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:31:10",
     "Close_Date_": "2016/10/7 下午 06:42:56"
-  },
-  {
-    "FileNo_": "INS161007141",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 上午 11:27:12",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路90號前",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該處有一高縣寬頻孔蓋有鬆動致噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 15：26 工務局工程企劃處第二課陳昭宏先生回報，該處已修復完成；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 11:28:37",
-    "Close_Date_": "2016/10/7 下午 06:43:31"
   }
 ]
