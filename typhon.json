@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009008",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 01:33:39",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "福民街52號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映稍早附近疑似電筒爆炸發出異聲及火光，隨即附近住家無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 01:36:18",
     "Close_Date_": ""
   },
   {
