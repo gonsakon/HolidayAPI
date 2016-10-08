@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008065",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 09:28:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "新興區民生一路390號(東石蚵南)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該址處店家將壓克力板招牌直接掛於路燈上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008064",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 上午 09:26:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 06:45:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006374",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/6 下午 06:43:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "1.鼎金後路(介於鼎力路與鼎強街之間)、2.天祥一街(介於鼎力路與鼎強街之間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該兩處路口號誌燈不連鎖，因路口較短常有車輛回堵情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 06:45:43",
     "Close_Date_": ""
   }
 ]
