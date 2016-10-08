@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008331",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 10:33:56",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "西八街近經五路",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一灰色流浪犬隻追咬民眾情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008330",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 10:31:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:57:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007156",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 上午 11:51:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路上(靠近大榮巷、區公所往仁美方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處快車道上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 11:53:23",
     "Close_Date_": ""
   }
 ]
