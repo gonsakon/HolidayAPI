@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008158",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 02:58:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武慶一路68號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處道路上有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008157",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 02:56:44",
@@ -4533,7 +4550,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處人行道有台電變電箱傾倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/08 09：52 經詢問台電1911蘇小姐表示，此案目前另報改修處理，故轉派非\r\n網：A-TB-2016-92136追蹤管制；並於10/8 14：59電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:48:32",
     "Close_Date_": ""
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 10:57:26",
     "Close_Date_": "2016/10/7 下午 04:12:29"
-  },
-  {
-    "FileNo_": "INS161006466",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 10:47:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "金福路、翠亨南路及港壽街，高雄花市周界",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處周界路段沿線路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 10:50:40",
-    "Close_Date_": ""
   }
 ]
