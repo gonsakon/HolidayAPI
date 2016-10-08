@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009016",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 05:35:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "正義二路46巷3弄1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處1路燈不亮，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009015",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 03:34:32",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161009001",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 上午 12:11:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "福民街36號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處目前有停電情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 02:05:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007195",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 02:03:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路290巷5號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 02:06:28",
     "Close_Date_": ""
   }
 ]
