@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161008158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 02:58:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "武慶一路68號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路上有一貓屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 02:59:52",
     "Close_Date_": ""
   },
   {
@@ -392,14 +392,14 @@
   },
   {
     "FileNo_": "INS161008135",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/8 下午 01:20:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "學府路186甲縣道",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處2.5K至5K沿線路面軟質分向桿遭到拆除，且於3.5K至5.5K雙向皆有土石堆積路邊上，建請一併查處。",
     "AfterDesc_": "",
@@ -4540,20 +4540,20 @@
   },
   {
     "FileNo_": "INS161007322",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 06:42:11",
     "ReplyUnit_": "E01005",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路與昌盛路口(華榮路上，華榮公園前)",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處人行道有台電變電箱傾倒，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/08 09：52 經詢問台電1911蘇小姐表示，此案目前另報改修處理，故轉派非\r\n網：A-TB-2016-92136追蹤管制；並於10/8 14：59電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:48:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/8 下午 02:59:45"
   },
   {
     "FileNo_": "INS161007321",
