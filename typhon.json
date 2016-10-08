@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008081",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 10:11:12",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德一路與後港巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈罩歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008080",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 上午 10:10:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 07:01:55",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006390",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 06:56:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "隆興街與崗山西街交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈電線垂落，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 12:53 養工處四維養護工程隊九如分隊林泉先生回報，該處已修復；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 06:58:24",
-    "Close_Date_": "2016/10/7 下午 04:04:50"
   }
 ]
