@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008171",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 03:52:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "保福路(高71縣道)近後厝路，往大坪頂方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線有多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008170",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 03:42:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 12:02:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006479",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 11:38:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園北路，於林園高中前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段沿線故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 11:39:46",
     "Close_Date_": ""
   }
 ]
