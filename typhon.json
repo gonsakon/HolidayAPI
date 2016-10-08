@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161008156",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 02:50:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "獅興街上文林廣場旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈燈罩外翻，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 02:51:45",
     "Close_Date_": ""
   },
   {
@@ -6903,20 +6903,20 @@
   },
   {
     "FileNo_": "INS161007175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 01:08:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重上街3號到5號(靠近文奇路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有民眾正在露天燃燒致空汙，望請盡速辦理，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/7 17:00環保局稽查科中區股謝朝富先生回報，稽查人員於16:50到達，附近巡視\r\n未發現有燃燒情事，亦未發現有空汙情事；並於10/8 14：52電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 01:14:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/8 下午 02:52:31"
   },
   {
     "FileNo_": "INS161007174",
