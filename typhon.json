@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161008112",
+    "FileNo_": "INS161008113",
     "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 12:06:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "永安路146號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈上方斷裂垂掛，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008112",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 12:06:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國三路335號後面(三鳳宮)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有使用擴音器致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 12:07:38",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 08:02:14",
     "Close_Date_": "2016/10/7 下午 04:07:59"
-  },
-  {
-    "FileNo_": "INS161006421",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 07:57:00",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "華夏路與重信路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處交通號誌燈秒數不正確且會故障熄掉，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/06 23:12 交通局智慧運輸中心張寬如小姐回報，該處已修復；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 07:59:02",
-    "Close_Date_": "2016/10/7 下午 04:07:37"
   }
 ]
