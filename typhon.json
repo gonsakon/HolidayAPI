@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008154",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 02:36:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路  瑞興路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008153",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 02:29:31",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS161008137",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/8 下午 01:41:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南江街及南昌街口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "南昌街永遠綠燈",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 10:41:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006462",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 10:39:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "西陵街與軍校路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 10:39:57",
     "Close_Date_": ""
   }
 ]
