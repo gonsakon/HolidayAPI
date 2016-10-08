@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161008339",
+    "FileNo_": "INS161008340",
     "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 11:20:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路一段(大智陸橋上)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線多盞路燈故障不亮，並表示已向單位反映多次，惟至今尚未修復，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008339",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 11:16:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "河北二路134號(三鳳宮)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處廟會活動使用擴音設備，音量聲響過大，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 11:20:58",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 12:25:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007164",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 12:18:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文龍路與文龍路16巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園園燈(卡號163，上元水電行維護)有多盞不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 12:20:18",
     "Close_Date_": ""
   }
 ]
