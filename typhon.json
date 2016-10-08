@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008112",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 12:06:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路335號後面(三鳳宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有使用擴音器致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008111",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 12:05:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 07:59:02",
     "Close_Date_": "2016/10/7 下午 04:07:37"
-  },
-  {
-    "FileNo_": "INS161006420",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 07:55:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "光華路20巷28號、30號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前有兩盞路燈故障不亮至今未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 07:57:49",
-    "Close_Date_": ""
   }
 ]
