@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008303",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 09:14:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "本館路沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008302",
     "Status_": "1",
     "Cre_Date_": "2016/10/8 下午 09:12:20",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161008301",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 09:12:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "復興一路21號(頂宏電動遊戲場)",
+    "address_": "復興一路21號前(頂宏電動遊戲場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處店家人員進行烤肉活動，煙霧飄散致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 09:14:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 11:11:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007130",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 上午 11:06:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "昌富街5號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前有一路面坑洞且凹凸不平，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 11:07:54",
     "Close_Date_": ""
   }
 ]
