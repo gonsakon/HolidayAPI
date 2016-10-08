@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161008133",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 01:10:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松美路與松樂街交接處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 01:12:05",
     "Close_Date_": ""
   },
   {
@@ -47,7 +47,7 @@
     "BeforeDesc_": "渠反映民族一路道到路中央，左轉專用紅燈倒數秒數不顯示，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 01:11:16",
+    "Save_Date_": "2016/10/8 下午 01:11:59",
     "Close_Date_": ""
   },
   {
