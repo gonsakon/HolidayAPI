@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008339",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 11:16:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008338",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 11:10:28",
@@ -6308,14 +6325,14 @@
   },
   {
     "FileNo_": "INS161007398",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/7 下午 09:22:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙二路(大貨車專用道沿線)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段沿線路燈均故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 12:20:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007165",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 12:18:18",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路96號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝周邊水泥破損下陷，導致坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 12:19:53",
     "Close_Date_": ""
   }
 ]
