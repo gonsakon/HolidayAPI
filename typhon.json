@@ -18,19 +18,36 @@
   },
   {
     "FileNo_": "INS161008177",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 04:09:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "前庄里前庄路68號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處前一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 04:12:19",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008176",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/8 下午 04:09:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "前庄里前庄路26號之1",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處前一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/8 下午 04:12:07",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 上午 12:48:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007003",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 上午 12:33:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "高鐵路與重忠路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/07 02:05 溝渠隊 李文山先生回報，該處已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 12:35:51",
-    "Close_Date_": "2016/10/7 上午 07:28:23"
   }
 ]
