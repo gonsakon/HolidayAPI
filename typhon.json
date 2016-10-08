@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161008290",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 08:43:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "中山南路428巷18弄",
+    "address_": "中山南路428巷18弄口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 08:44:56",
     "Close_Date_": ""
   },
   {
@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161008286",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 08:40:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "永華路上近永達路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈(編號:永華116)故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 08:44:52",
     "Close_Date_": ""
   },
   {
