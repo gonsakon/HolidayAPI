@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008332",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/8 下午 10:35:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "延慶街121號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處前快車道及黃網線上各有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/8 下午 10:37:46",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008331",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 10:33:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 12:14:25",
     "Close_Date_": "2016/10/7 下午 06:38:37"
-  },
-  {
-    "FileNo_": "INS161007157",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 上午 11:55:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "果峰街47巷1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒後，導致人行道破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 上午 11:57:28",
-    "Close_Date_": ""
   }
 ]
