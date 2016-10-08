@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161008131",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 01:09:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順一路與民族一路口，南側",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映民族一路道到路中央，左轉專用紅燈倒數秒數不顯示，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/8 下午 01:11:16",
     "Close_Date_": ""
   },
   {
@@ -64,7 +64,7 @@
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 01:10:17",
+    "Save_Date_": "2016/10/8 下午 01:11:47",
     "Close_Date_": ""
   },
   {
