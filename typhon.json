@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008071",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 上午 09:49:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "永宏巷12弄",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址巷道內疑似有工廠摩擦鋼鐵產生惡臭異味逸散，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008070",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 上午 09:36:45",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161008057",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/8 上午 09:12:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "國昌路312號(7-11前)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前有路面有一坑洞，已有民眾因坑洞跌倒，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 06:55:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006380",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/6 下午 06:49:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "小港路152號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有2盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 12:53 養工處四維養護工程隊九如分隊林泉先生回報，該處已修復；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 06:51:32",
-    "Close_Date_": "2016/10/7 下午 04:03:01"
   }
 ]
