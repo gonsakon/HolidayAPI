@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161008119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/8 下午 12:21:54",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "鳳楠路與興西路口(下國道一號南下方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161008118",
     "Status_": "2",
     "Cre_Date_": "2016/10/8 下午 12:18:17",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161008098",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/8 上午 11:06:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路1巷10之5號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(編號:591)故障不亮，請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/6 下午 08:10:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161006427",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/6 下午 08:07:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "美山路27巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號6229)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/6 下午 08:09:59",
     "Close_Date_": ""
   }
 ]
