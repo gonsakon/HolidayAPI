@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009244",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 08:22:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "港埔二路168巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址周邊路燈大範圍故障不亮2日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009243",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 08:21:20",
@@ -10,10 +27,27 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該兩處業主",
+    "BeforeDesc_": "渠反映該兩處業者使用擴音器歌唱致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161009242",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 08:19:14",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "公園路(竹林公園)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該公園內目前有3隻中大型流浪犬，友會追咬民眾情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 08:22:04",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 11:23:25",
     "Close_Date_": "2016/10/9 下午 04:55:32"
-  },
-  {
-    "FileNo_": "INS161007426",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 11:07:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文化西路8號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 11:08:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007425",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 11:03:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金一巷(金獅湖保安宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該廟宇目前燃燒大量金紙，造成空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/10/08 14:10簡訊回覆:焦先生您好，您10月7日反映空汙問題，本府環保局\r\n派員前往，於通報地址周界巡查，均未發現廟方燃燒大量金紙，感謝您的熱心通報，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 11:05:03",
-    "Close_Date_": "2016/10/8 下午 02:11:03"
   }
 ]
