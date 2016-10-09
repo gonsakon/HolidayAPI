@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161009232",
+    "FileNo_": "INS161009233",
     "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 08:04:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "考潭里成功路上(從仁心路轉入約三、四百公尺處，未過埤內巷)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一處路面破損龜裂嚴重，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161009232",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 08:02:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "楠陽路(往台南)",
+    "address_": "楠陽路(往台南方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面塌陷(一)",
     "BeforeDesc_": "渠反映該處橋上有路面下陷情事，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 08:04:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 10:43:58",
     "Close_Date_": "2016/10/9 下午 04:57:04"
-  },
-  {
-    "FileNo_": "INS161007415",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 10:23:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "公園二路與大安街口(綠8公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內一園燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 10:25:12",
-    "Close_Date_": ""
   }
 ]
