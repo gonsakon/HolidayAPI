@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161009113",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 02:29:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "油煙空污",
+    "BeforeDesc_": "渠反映該業者營業中有油煙空污，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 02:37:25",
     "Close_Date_": ""
   },
   {
@@ -8518,20 +8518,20 @@
   },
   {
     "FileNo_": "INS161007397",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 09:21:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙二路(大貨車專用道沿線)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路段沿線路面有許多坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/10/09 14:37簡訊回覆:梁先生您好，您10月7日所反映坑洞問題，尚待\r\n備料(熱料)將盡速修繕改善，另轉呈公文:A-TB-2016-92228，交由工務局賡續辦理，待處理完成再向\r\n您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 09:23:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 02:37:25"
   },
   {
     "FileNo_": "INS161007396",
