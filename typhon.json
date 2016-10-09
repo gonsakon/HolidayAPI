@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 04:04:31",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "盛興公園",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區髒亂",
+    "BeforeDesc_": "颱風過後無人清掃，落葉和積水到處都是，\n落葉堵住排水孔，造成積水，積水造成公園里民活動危險，有長輩及孩童因濕滑的落葉跟積水滑倒，甚至成為登革熱溫床，請儘速派員協助處理。\n盛興里辦公室",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009135",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 04:01:27",
@@ -1446,14 +1463,14 @@
   },
   {
     "FileNo_": "INS161009049",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 上午 09:53:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "通昌街與惠昌街口(城揚建設)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映現該處興建工地有大型車輛與工程車輛排放柴油異味空汙，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:40:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007317",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:31:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "大榮街73巷1弄、2弄、3弄",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處附近路燈全故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:32:56",
     "Close_Date_": ""
   }
 ]
