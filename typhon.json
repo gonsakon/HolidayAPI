@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009096",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 01:24:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有使用擴音器卡拉OK致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 01:28:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009095",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 01:18:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 05:00:07",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007277",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 04:56:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "河北路72巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人丟棄垃圾及廢棄物，且已堆積至道路，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 17：54 苓雅區清潔隊施長興先生回報，該處已清除完畢 ；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:58:10",
-    "Close_Date_": "2016/10/7 下午 06:05:53"
   }
 ]
