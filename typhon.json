@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010009",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 01:48:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "安海街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有廟會活動擴音機噪音聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010008",
     "Status_": "4",
     "Cre_Date_": "2016/10/10 上午 01:01:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:25:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008062",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 09:21:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "楊厝巷12號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。(地點不詳可洽)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 09:24:55",
     "Close_Date_": ""
   }
 ]
