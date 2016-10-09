@@ -27,10 +27,27 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鐵工廠於廠區內燃燒物品產生燒塑膠廢氣，建請稽查。",
+    "BeforeDesc_": "渠反映該處鐵工廠於廠區內燃燒物品產生燒塑膠廢氣(冒煙)，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161009112",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 02:31:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "東亞南路、中船一村附近(小港國小正後方)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近目前有疑似燃燒金紙之惡臭異味，又像是不明工廠排放之惡臭廢氣，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 02:36:38",
     "Close_Date_": ""
   },
   {
@@ -74,7 +91,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "華崗里華崗路與&#25301;子三街(高鐵下小炒)",
+    "address_": "華崗里華崗路與&#25301;子三街(店名：高鐵下小炒)",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "噪音",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:10:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007296",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:06:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "義勇路52號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:08:11",
     "Close_Date_": ""
   }
 ]
