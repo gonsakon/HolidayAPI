@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161009076",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 11:13:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "鳳林路2巷2之7號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前方有一盞路燈之前修好近日又故障不亮，致行經老人跌倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 11:37:52",
     "Close_Date_": ""
   },
   {
