@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009104",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 02:01:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松義街247號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處周界目前有廟會活動燃放鞭炮，造成噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009100",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 01:53:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 05:29:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007285",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 05:25:51",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅一路上(介於復興二路與林森二路間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 05:26:52",
     "Close_Date_": ""
   }
 ]
