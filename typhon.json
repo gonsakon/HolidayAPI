@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009065",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 10:40:28",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中華路67號前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前大排水溝內有犬隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009063",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 上午 10:39:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 03:57:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007246",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 03:53:06",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中南街",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一電線桿(編號：竹圍12左高分2)，因椰子樹傾斜，導致電線垂落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 03:56:41",
     "Close_Date_": ""
   }
 ]
