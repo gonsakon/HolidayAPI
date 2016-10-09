@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009086",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 11:59:45",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙路1號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有救援一隻幼犬，望請局處收留，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 12:03:43",
     "Close_Date_": ""
   },
   {
@@ -6461,20 +6461,20 @@
   },
   {
     "FileNo_": "INS161008056",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/8 上午 09:10:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲二路462號對",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有垃圾散落於車道上，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/10/09 12:03簡訊回覆:李先生您好，您10月8日所反映垃圾問題，本府\r\n清潔隊已派員前往未發現，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:18:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 12:03:43"
   },
   {
     "FileNo_": "INS161008055",
