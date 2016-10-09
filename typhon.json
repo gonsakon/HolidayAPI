@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161010017",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 07:32:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "市中一路大同二路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010015",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 07:20:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:51:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008070",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 09:36:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "大坑路66號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處前方道路掏空塌陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 09:37:50",
     "Close_Date_": ""
   }
 ]
