@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009137",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 04:10:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "6119586球投區橋頭路114號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009136",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 04:04:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:39:55",
     "Close_Date_": "2016/10/9 下午 02:27:19"
-  },
-  {
-    "FileNo_": "INS161007318",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:34:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "同慶路76號14樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映住家旁之師範大學校內冷氣機房目前傳出低頻噪音，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:40:13",
-    "Close_Date_": ""
   }
 ]
