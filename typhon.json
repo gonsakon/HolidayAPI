@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009086",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 11:59:45",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中崙路1號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有救援一隻幼犬，望請局處收留，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009085",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 11:36:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:32:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007267",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 04:29:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路373巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內路燈全不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:30:59",
     "Close_Date_": ""
   }
 ]
