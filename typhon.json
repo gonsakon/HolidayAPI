@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009264",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 09:25:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "民權一街30巷1號旁邊，空地停車場草叢處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊草叢處有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009263",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 09:18:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 02:04:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008014",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 01:59:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "崇文路27號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 02:03:56",
     "Close_Date_": ""
   }
 ]
