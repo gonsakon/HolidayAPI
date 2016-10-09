@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009054",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 10:12:45",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新富路18巷2號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址區域突然停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 10:15:04",
     "Close_Date_": ""
   },
   {
@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS161008350",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/8 下午 11:49:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "民治路140巷、民治路90巷附近範圍",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處疑似附近民眾燃燒廢棄物，致空氣中瀰漫異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/10/09 10:15簡訊回覆:施小姐您好，您10月8日反映空汙問題，本府環\r\n保局派員前往，經查為茄萣區四維街63號在燃燒金紙，稽查時尚在悶燒、未熄滅，已請住戶用水撲\r\n滅，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 11:52:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 上午 10:15:25"
   },
   {
     "FileNo_": "INS161008349",
