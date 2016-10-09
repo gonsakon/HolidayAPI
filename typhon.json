@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009041",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 09:26:08",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009040",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 上午 09:22:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 02:49:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007221",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 02:46:19",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路1026號後(榮德街這一側)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址後汙水管阻塞導致汙水滿出，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 02:48:20",
     "Close_Date_": ""
   }
 ]
