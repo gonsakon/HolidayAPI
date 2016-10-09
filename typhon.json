@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009051",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 上午 09:54:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華路206號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家有油煙逸散情事，建請查處，並會同陳情人。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 上午 09:58:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009049",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 上午 09:53:35",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161009050",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 09:51:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家有油煙逸散情事，",
+    "BeforeDesc_": "渠反映該店家有油煙逸散情事，建請查處，並會同陳情人。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 09:58:01",
     "Close_Date_": ""
   },
   {
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161009036",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 上午 08:57:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "三協里大坑巷內往(合作農場方向，往大坑巷7之20號方向)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有土石流坍塌，造成民眾無法通行，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 03:19:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007231",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 03:15:49",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光明路三段與文昌路口 (中央分隔島上)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 03:17:26",
     "Close_Date_": ""
   }
 ]
