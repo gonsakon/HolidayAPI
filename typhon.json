@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009199",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 06:29:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街(介於藍昌路至德民路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段中央分隔島沿線有多個80X80的售屋廣告看板綁在路燈上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009198",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 06:26:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 08:39:20",
     "Close_Date_": "2016/10/8 下午 01:56:13"
-  },
-  {
-    "FileNo_": "INS161007381",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 08:37:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "經建路48之52號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有2盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 08:38:20",
-    "Close_Date_": ""
   }
 ]
