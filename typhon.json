@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009232",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 08:02:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠陽路(往台南)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面塌陷(一)",
+    "BeforeDesc_": "渠反映該處橋上有路面下陷情事，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009231",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 08:00:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 10:25:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007414",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 10:22:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大安公園",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內籃球場有7盞照明燈與1盞園燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 10:25:07",
     "Close_Date_": ""
   }
 ]
