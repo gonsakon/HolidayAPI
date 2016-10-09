@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161009190",
+    "FileNo_": "INS161009191",
     "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 06:15:55",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "華南街35號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "台電電線桿 火花",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161009190",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 06:15:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維四路212號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 06:16:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 08:15:36",
     "Close_Date_": "2016/10/9 下午 05:27:01"
-  },
-  {
-    "FileNo_": "INS161007373",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 08:13:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國三路335號(帝景苑)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映因目前三鳳宮有電子花車與歌仔戲表演，並使用麥克風，導致噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 23:51 環保局公害專線王奕翔先生回報，稽查人員於21:15到達，現場活動已\r\n結束，未發現上述噪音情事；並於10/8 14：55電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 08:16:20",
-    "Close_Date_": "2016/10/8 下午 02:56:34"
   }
 ]
