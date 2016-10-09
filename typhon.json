@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009090",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 12:12:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "都會公園人行道",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "莫蘭帝吹倒的路樹還橫躺在人行道上\n請問何時才要清運",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009089",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 12:06:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:46:22",
     "Close_Date_": "2016/10/7 下午 06:06:53"
-  },
-  {
-    "FileNo_": "INS161007271",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 04:44:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "民權路與介壽路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有燃燒木材異味導致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:47:15",
-    "Close_Date_": ""
   }
 ]
