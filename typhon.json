@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009085",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 11:36:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路(三鳳宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該宮廟有燃燒金紙致空屋情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009084",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 11:33:09",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161009060",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/9 上午 10:29:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "福誠一街與福誠五街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有大型家具垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:30:59",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007266",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 04:29:32",
-    "ReplyUnit_": "F01008",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "鳳澄路(南向)右轉典寶溪旁道路",
-    "UnitName_": "燕巢區公所",
-    "StatusName_": "解除管制",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該址路面塌陷，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 16:41 燕巢區公所藍秋燕小姐回報，該處經查屬水利局權責，故改派非網\r\nA-TB-2016-91819賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:39:52",
-    "Close_Date_": "2016/10/7 下午 06:10:35"
   }
 ]
