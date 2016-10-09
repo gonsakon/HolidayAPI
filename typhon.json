@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009152",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 05:04:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009151",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 04:58:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:59:56",
     "Close_Date_": "2016/10/9 下午 02:20:01"
-  },
-  {
-    "FileNo_": "INS161007334",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 06:56:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路與翠峰路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/07 19:30 左營區清潔隊蘇耿弘先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:58:49",
-    "Close_Date_": "2016/10/9 下午 04:34:06"
   }
 ]
