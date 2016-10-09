@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009185",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 06:04:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "復興三路上(一心二路至二聖二路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈全不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009184",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 06:02:25",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 06:03:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161009183",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 06:00:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "二苓路192號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面上有大量車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 06:04:21",
     "Close_Date_": ""
   },
   {
@@ -103,19 +137,19 @@
   },
   {
     "FileNo_": "INS161009177",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 05:58:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文川路與文川路108巷交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈桿上有一電線垂落近地面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 06:04:25",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 08:04:36",
     "Close_Date_": "2016/10/9 下午 02:11:25"
-  },
-  {
-    "FileNo_": "INS161007367",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 08:01:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "蓮潭路138巷(天府宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該廟宇舉辦慶典使用擴音設備聲響過大，產生噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/7 22:44 環保局環境稽查科中區股陳彥州先生回報，稽查人員於21:10抵達，經查為\r\n神明生日有使用擴音器，因稽查時下大雨路面潮濕，依法無法檢測噪音值，並有請廟方立即配合調降音量，以維\r\n護近鄰安寧；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 08:04:49",
-    "Close_Date_": "2016/10/9 下午 05:27:44"
-  },
-  {
-    "FileNo_": "INS161007366",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 07:55:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後勁溪旁，介於德惠路至德賢路220巷之間",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處後勁溪兩旁路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 07:56:25",
-    "Close_Date_": ""
   }
 ]
