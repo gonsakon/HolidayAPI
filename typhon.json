@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010010",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 01:56:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "西藏街與伊犁街交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路口中間有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010009",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 01:48:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:28:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008063",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 09:21:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "公園路120號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈白天未熄，建請查修。(地點不詳可洽)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 09:25:00",
     "Close_Date_": ""
   }
 ]
