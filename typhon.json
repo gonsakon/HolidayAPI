@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009139",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 04:14:51",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新下街14號與16號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 04:17:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009138",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 04:12:32",
@@ -783,14 +800,14 @@
   },
   {
     "FileNo_": "INS161009092",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/9 下午 12:25:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路(台塑工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映現有發現該處工廠有多個煙囪排放黑煙造成空汙，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:48:32",
     "Close_Date_": "2016/10/8 下午 02:59:45"
-  },
-  {
-    "FileNo_": "INS161007321",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:40:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "中興北路(介於工程路到燕巢分駐所之間；往南方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段沿線有稀飯翻覆致環境髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:45:15",
-    "Close_Date_": ""
   }
 ]
