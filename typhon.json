@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009251",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 08:48:43",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中華路與自由路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處閃燈號誌均故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009250",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 08:41:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 12:07:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008001",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 12:02:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中芸三路300號，永慶加油站附近",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有飄散化學惡臭異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 12:13:14",
     "Close_Date_": ""
   }
 ]
