@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009177",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 05:58:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文川路與文川路108巷交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈桿上有一電線垂落近地面，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009176",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 05:57:33",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161009175",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 05:56:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興南路上過國1(往大社方向；高雄高等行政法院前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該機車道有一深20公分坑洞，使其過民眾差點摔車，建請查處。",
+    "BeforeDesc_": "渠反映該機車道有一深20公分坑洞，使騎過民眾差點摔車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 05:58:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 07:44:52",
     "Close_Date_": "2016/10/9 下午 04:46:30"
-  },
-  {
-    "FileNo_": "INS161007358",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/7 下午 07:41:47",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中東街91號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址前污水孔蓋有冒污水情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/08 10:56 水利局汙水營運科許江永先生回報，該處已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 07:43:50",
-    "Close_Date_": "2016/10/9 下午 04:46:39"
   }
 ]
