@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009087",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 12:04:09",
-    "ReplyUnit_": "B01000",
+    "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "熱河一街與大連街",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈紅燈故障不亮，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 12:05:07",
     "Close_Date_": ""
   },
   {
@@ -5271,20 +5271,20 @@
   },
   {
     "FileNo_": "INS161008128",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/8 下午 01:04:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠心街上與健民街46巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面遭堆置兩三把藤椅，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/10/09 12:04簡訊回覆:李先生您好，您10月8日所反映藤椅問題，本府\r\n清潔隊已派員前往清除完成，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 01:09:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 12:04:49"
   },
   {
     "FileNo_": "INS161008127",
