@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009075",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 11:07:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "新厝路109號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有神壇目前在燃燒金紙致空污情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009074",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 上午 11:04:56",
@@ -562,14 +579,14 @@
   },
   {
     "FileNo_": "INS161009042",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 上午 09:24:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路與仁和街口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈歪斜，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:21:08",
     "Close_Date_": "2016/10/8 下午 02:01:52"
-  },
-  {
-    "FileNo_": "INS161007256",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 04:17:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "竹林街上(介於白樹路與公園路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線多盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:19:30",
-    "Close_Date_": ""
   }
 ]
