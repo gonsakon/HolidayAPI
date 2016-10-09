@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 04:42:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華泰路216號與218號之間",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處變電箱前方遭堆積大量的樹枝，衣服、垃圾等，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 下午 04:44:15",
     "Close_Date_": ""
   },
   {
@@ -9861,37 +9861,37 @@
   },
   {
     "FileNo_": "INS161007347",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 07:23:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路與正興路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口東西向號誌燈綠燈有故障不亮情事，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/07 22:30 交通局智慧運輸中心簡世豪先生回報，該處號誌因外線故障，需報請廠商\r\n修繕，暫無危險性，故轉派非網A-TB-2016-92001賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 07:24:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 04:43:49"
   },
   {
     "FileNo_": "INS161007346",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/7 下午 07:23:21",
     "ReplyUnit_": "E01005",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "赤崁東路267巷巷底",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一條粗的台電電線掉落路面，表示仍有漏電中，已先將電線移至路旁，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/08 11：07 經詢問台電1911吳先生表示，移續下一班人員處理，故轉派非網：A-TB-\r\n2016-92155追蹤管制；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 07:26:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 04:44:42"
   },
   {
     "FileNo_": "INS161007345",
