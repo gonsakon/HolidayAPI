@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010011",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/10 上午 02:04:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路青年夜市",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有烤肉之油煙異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/10 上午 02:08:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010010",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 01:56:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:30:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008064",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 09:26:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "嘉誠路34號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 09:28:47",
     "Close_Date_": ""
   }
 ]
