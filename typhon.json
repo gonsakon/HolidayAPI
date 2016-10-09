@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009105",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 02:07:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "介壽路221巷內(微風精品大樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該大樓於戶在正在燃燒金紙空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009104",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 02:01:44",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161009086",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 上午 11:59:45",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙路1號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有救援一隻幼犬，望請局處收留，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 05:30:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007286",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 05:27:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "隆豐路與南溝路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 05:29:30",
     "Close_Date_": ""
   }
 ]
