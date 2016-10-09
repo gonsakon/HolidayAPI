@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161009111",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 02:28:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者使用視聽器材唱歌，噪音聲過大，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009110",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 02:22:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:09:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007295",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:05:09",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南江街與南昌街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌不變燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:05:46",
     "Close_Date_": ""
   }
 ]
