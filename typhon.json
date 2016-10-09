@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009296",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 10:39:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "翠華路與建榮路口(美美卡拉OK店)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址店家目前使用擴音器設備致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009295",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 10:36:29",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161009258",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/9 下午 09:04:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "中興里中庄路297巷",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 08:53:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008046",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/8 上午 08:43:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "吉洋里吉安街",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/10/09 17:30簡訊回覆:曾里長您好，您10月8日所反映路燈問題，本府\r\n工務局已派員前往修復完成，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 08:46:14",
-    "Close_Date_": "2016/10/9 下午 05:30:27"
   }
 ]
