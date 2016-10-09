@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161009063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 10:39:27",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "武慶二路55號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "前鎮區",
+    "BeforeDesc_": "渠反映現該址自家無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 10:50:26",
     "Close_Date_": ""
   },
   {
