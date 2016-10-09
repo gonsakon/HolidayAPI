@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009133",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 03:58:53",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "盛興公園",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區髒亂",
+    "BeforeDesc_": "颱風過後無人清掃，落葉和積水到處都是，\n落葉堵住排水孔，造成積水，積水造成公園里民活動危險，有長輩及孩童因濕滑的落葉跟積水滑倒，甚至成為登革熱溫床，請儘速派員協助處理。\n盛興里辦公室",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009132",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 下午 03:55:30",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161009108",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/9 下午 02:16:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "府北路36號10樓之15",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址目前有冷氣滴水情形，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 06:32:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007314",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 06:27:13",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國二路與民族一路口(民族陸橋下方)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處雙向號誌故障不亮與閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 06:29:48",
     "Close_Date_": ""
   }
 ]
