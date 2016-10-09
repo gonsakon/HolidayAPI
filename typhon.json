@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010008",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 01:01:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海三路上(過南星路口約100公尺，北上)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010007",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 12:34:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:24:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008061",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 09:20:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅一路270巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該從上午七時即有機具施工噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 09:24:23",
     "Close_Date_": ""
   }
 ]
