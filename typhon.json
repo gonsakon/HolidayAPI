@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161009158",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/9 下午 05:23:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中林路與沿海四路口(沿海四路上)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處目前有暴雨積水情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/9 下午 05:33:04",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009157",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 05:18:00",
@@ -5475,20 +5492,20 @@
   },
   {
     "FileNo_": "INS161008189",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/8 下午 04:38:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東八街近青海路",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處一路樹嚴重傾斜，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/10/09 17:32簡訊回覆:吳小姐您好，您10月8日所反映美術東八街路樹\r\n問題，本府工務局已派員前往屬旁邊大樓內退縮地之樹木，為私人領域無法協助清除需由大樓自行處\r\n理，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 04:43:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 下午 05:33:07"
   },
   {
     "FileNo_": "INS161008188",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 07:18:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007342",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/7 下午 07:10:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路46巷30號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 07:12:06",
     "Close_Date_": ""
   }
 ]
