@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161009053",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 10:06:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "葆禎路與九如四路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障，呈現閃紅燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 10:07:40",
     "Close_Date_": ""
   },
   {
@@ -27,7 +27,7 @@
     "UnitName_": "旗山區公所",
     "StatusName_": "待確認",
     "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處有土石流坍塌，造成民眾無法通行，建請查處。",
+    "BeforeDesc_": "渠反映該處三米下道路有土石流坍塌，造成民眾無法通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:06:52",
@@ -5934,20 +5934,20 @@
   },
   {
     "FileNo_": "INS161008054",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/8 上午 09:01:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河北二路134號(三鳳宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址附近有一公廟現燃放鞭炮煙霧瀰漫造成空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/8 15：35環保局稽查科中區股李政鴻先生回報，稽查人員於13：40到達，\r\n稽查當時該宮廟為三太子誕辰祝壽，已結束燃放鞭炮，於上址周界巡視未發現有燃放鞭炮導致煙霧瀰\r\n漫空汙情事，仍促請注意防範；10/9已再次通報INS161009026賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 09:05:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/9 上午 10:07:49"
   },
   {
     "FileNo_": "INS161008053",
