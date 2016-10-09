@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009276",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 下午 09:55:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "湖中路與中華街，湖內衛生所前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路口路燈多盞故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009275",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 下午 09:48:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 07:28:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008026",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 07:22:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興楠路上(高等行政法院前方，接近國道一號交流道)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 07:35:38",
     "Close_Date_": ""
   }
 ]
