@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009052",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 10:00:17",
+    "ReplyUnit_": "F01013",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "三協里大坑巷內往(合作農場方向，往大坑巷7之20號方向)",
+    "UnitName_": "旗山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有土石流坍塌，造成民眾無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009051",
     "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 09:54:35",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161009049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/9 上午 09:53:35",
     "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "通昌街與惠昌街口(城揚建設)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "0936992379通昌街恩惠昌街 城揚建設",
+    "BeforeDesc_": "渠反映現該處興建工地有大型車輛與工程車輛排放柴油異味空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/9 上午 10:04:07",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 03:24:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161007232",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 03:18:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "尚禮街35號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 03:19:58",
     "Close_Date_": ""
   }
 ]
