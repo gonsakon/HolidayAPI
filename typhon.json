@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161009079",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/9 上午 11:14:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中洲里南北巷48號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該址有一盞LED路燈白天未熄，建請查",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161009076",
     "Status_": "1",
     "Cre_Date_": "2016/10/9 上午 11:13:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/7 下午 04:34:01",
     "Close_Date_": "2016/10/7 下午 06:10:07"
-  },
-  {
-    "FileNo_": "INS161007260",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/7 下午 04:25:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "瑞興路252號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈電線垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/7 下午 04:28:00",
-    "Close_Date_": ""
   }
 ]
