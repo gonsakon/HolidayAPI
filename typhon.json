@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010330",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 10:33:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平誠街76號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010329",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 10:33:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 08:12:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009029",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 上午 08:06:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "淵明街3號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處進行施工，有吊掛作業機具噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/09 11:05環保局環境稽查科中區股李政鴻先生回報，稽查人員於09:50到達，稽查當\r\n時人員於周界巡查，現場未有進行吊掛作業，人員未發現機具致噪音情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 08:09:06",
-    "Close_Date_": "2016/10/10 下午 04:29:04"
   }
 ]
