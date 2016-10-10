@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010205",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 05:47:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "協仁街36巷9號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有疑似豬屎之惡臭異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 05:49:07",
     "Close_Date_": ""
   },
   {
@@ -7413,20 +7413,20 @@
   },
   {
     "FileNo_": "INS161009069",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 10:54:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與大中二路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮且燈號轉向，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 15：29 智慧運輸中心張寬如小姐回報，燈號轉向部分已調整完成，惟該處經查\r\n是單一紅燈燈具故障，需報請廠商進行修復，現場無立即危險性，故轉派非網：A-TB-2016-92586；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:56:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 05:49:39"
   },
   {
     "FileNo_": "INS161009068",
