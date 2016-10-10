@@ -2670,20 +2670,20 @@
   },
   {
     "FileNo_": "INS161010185",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 04:54:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪十七街與高坪十五路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有2個螺絲已掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/10 19:07 交通局 智慧運輸中心 張寬如小姐回報，該處已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 04:56:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 上午 12:03:17"
   },
   {
     "FileNo_": "INS161010184",
@@ -2704,20 +2704,20 @@
   },
   {
     "FileNo_": "INS161010183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 04:52:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "右昌街(介於藍昌路至德民路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處路段沿線有多盞電線桿遭綁80X80的售屋廣告看板，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/10 17:24 楠梓區清潔隊 王麒源先生回報，該路段沿線廣告物已全數清除\r\n 完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 04:55:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 上午 12:04:40"
   },
   {
     "FileNo_": "INS161010182",
