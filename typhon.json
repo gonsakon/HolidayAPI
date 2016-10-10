@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161010158",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 03:17:02",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "公園二街91號與公園三街口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處路口有一圓形人孔蓋鬆動產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010157",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 03:14:28",
@@ -5798,20 +5815,20 @@
   },
   {
     "FileNo_": "INS161009120",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 02:49:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞隆路(瑞豐國小東側門前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處於機車道路面有沙石約15公尺長，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 16:30 前鎮區清潔隊莊素雲小姐回報，已清除完畢；並於10/10 15：15電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:56:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 03:19:40"
   },
   {
     "FileNo_": "INS161009118",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:00:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008212",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 05:44:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永平路36巷19號旁邊",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮三日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 05:45:26",
     "Close_Date_": ""
   }
 ]
