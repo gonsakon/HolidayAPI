@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010249",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 07:29:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "1.公園二路與大成街 2.公園二路與光榮街 3.公園二路與五福橋",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址1.前2盞路燈故障不亮 2.前1盞路燈故障不亮 3.橋上雙向路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 07:30:50",
     "Close_Date_": ""
   },
   {
