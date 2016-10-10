@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010110",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 12:29:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路上，神農停車場旁兒18公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處公園內颱風過後樹枝、垃圾堆積未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010109",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 12:29:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 03:24:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008164",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 03:20:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路(與仁春街交界附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處道路兩旁人行道皆破損嚴重，恐致用路人安危，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 03:22:04",
     "Close_Date_": ""
   }
 ]
