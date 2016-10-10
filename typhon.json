@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010139",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 02:21:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "濱海路四段2之1巷31號前方(茄萣區公所後方)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一大池塘，水面上有孑孓，蚊蟲孳生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010138",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 02:20:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 05:07:47",
     "Close_Date_": "2016/10/9 下午 05:34:45"
-  },
-  {
-    "FileNo_": "INS161008193",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 04:55:46",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "正義二路46巷3弄1號至17號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處巷弄內有電線垂落，且有漏電情事，恐致危險，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 05:02:10",
-    "Close_Date_": ""
   }
 ]
