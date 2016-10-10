@@ -579,19 +579,19 @@
   },
   {
     "FileNo_": "INS161010297",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/10 下午 09:10:23",
     "ReplyUnit_": "A02000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "南雄橋",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "您好：本人今天傍晚開車經過南雄橋，看見橋上有3輛汽車停於橋面上，及一群人在橋上垂釣，險象環生，請警察能多巡視，以維護用路人及垂釣者的安全，謝謝你。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 10:48:56",
     "Close_Date_": ""
   },
   {
