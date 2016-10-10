@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010319",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 10:03:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "后平路與后安路交叉口(佛公公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園內靠近后平路150巷有兩盞園燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010318",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 10:01:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 06:54:46",
     "Close_Date_": "2016/10/10 下午 04:25:03"
-  },
-  {
-    "FileNo_": "INS161009017",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 06:23:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路與右昌路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面下陷(一)",
-    "BeforeDesc_": "渠反映該路口快車道掏空下陷導致坑洞，具危險性，建請盡速補竣。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 06:25:13",
-    "Close_Date_": ""
   }
 ]
