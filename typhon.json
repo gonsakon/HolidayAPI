@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161010158",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/10 下午 03:17:02",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "公園二街91號與公園三街口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處路口有一圓形人孔蓋鬆動產生噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161010157",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 03:14:28",
@@ -137,19 +120,19 @@
   },
   {
     "FileNo_": "INS161010151",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 03:06:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過埤路與溪濱路口(溪濱路上)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌目前故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 03:24:13",
     "Close_Date_": ""
   },
   {
@@ -5390,20 +5373,20 @@
   },
   {
     "FileNo_": "INS161009145",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 04:38:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "北昌一街上(近鳥松區)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有一工程行之貨車(991-SF)載運廢材，進行燃燒致空污情事，建請查處。(請人員先與陳情人聯繫，欲了解到場時間，並引導前往)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 18:52環保局公害專線李政鴻先生回報，稽查人員於17:50到達，並有會同陳情\r\n人，陳情人表示該處地點已經燃燒多次，但稽查當下並未發現有燃燒情況，且該地點工廠大門深鎖無人回應，故\r\n未發現空污情事，後續有再跟陳情人說明稽查狀況，陳情人表示了解；並於10/10 15：20電覆陳情人，故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 04:41:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 03:23:19"
   },
   {
     "FileNo_": "INS161009144",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:02:09",
     "Close_Date_": "2016/10/10 下午 03:14:23"
+  },
+  {
+    "FileNo_": "INS161008213",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/8 下午 05:59:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路969巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷口有兩盞路燈故障不亮，建請查處。(請局處到場先與里長聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/8 下午 06:00:54",
+    "Close_Date_": ""
   }
 ]
