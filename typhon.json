@@ -10,7 +10,7 @@
     "UnitName_": "動物保護處",
     "StatusName_": "建立中",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處位於透天宮廟前有一遭車輛撞擊受傷犬隻，建請救援。(陳情人將於現場等候，請單位先行聯繫告知何時到場)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -3622,20 +3622,20 @@
   },
   {
     "FileNo_": "INS161009301",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 11:16:22",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中和街165號前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電方形孔蓋有凹凸不平與柏油脫落情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 10：56經詢問台電1911張小姐表示，檢查孔蓋周邊皆正常無破損；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 11:18:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 06:16:36"
   },
   {
     "FileNo_": "INS161009300",
@@ -3673,20 +3673,20 @@
   },
   {
     "FileNo_": "INS161009298",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 10:51:09",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "廣昌街175巷52號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有一電箱疑似遭松鼠誤觸致爆炸，現有停電情事，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 10：32經詢問台電1911林小姐表示，已修復完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:54:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 06:15:05"
   },
   {
     "FileNo_": "INS161009297",
