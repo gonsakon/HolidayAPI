@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010235",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 07:02:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大仁路241號和261號與281號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映上述地址皆有路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010234",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 07:00:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 08:43:36",
     "Close_Date_": "2016/10/9 上午 11:12:07"
-  },
-  {
-    "FileNo_": "INS161008286",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 08:40:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "永華路上近永達路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:永華116)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 08:44:52",
-    "Close_Date_": ""
   }
 ]
