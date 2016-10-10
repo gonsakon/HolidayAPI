@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011032",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 05:25:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "草衙二路與和誠街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011031",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 05:11:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 11:08:08",
     "Close_Date_": "2016/10/10 下午 05:50:06"
-  },
-  {
-    "FileNo_": "INS161009073",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 11:01:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "鹽港二路和平一巷11號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈(編號:114)，颱風過後路燈照射已轉向，建請調整。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 11:04:21",
-    "Close_Date_": ""
   }
 ]
