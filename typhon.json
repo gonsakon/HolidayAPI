@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161010142",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/10 下午 02:32:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文上路5號；婚宴會館",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址有油煙逸散情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/10 下午 02:35:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010141",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 02:30:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 05:13:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008197",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 05:08:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新上街151號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址對面有一盞路燈故障閃爍不停，光線已造成附近住戶困擾，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 05:10:00",
     "Close_Date_": ""
   }
 ]
