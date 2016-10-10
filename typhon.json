@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010136",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 02:14:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興西路上與經建路口附近",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路段有多處路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 02:16:43",
     "Close_Date_": ""
   },
   {
@@ -5628,20 +5628,20 @@
   },
   {
     "FileNo_": "INS161009108",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 02:16:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "府北路36號10樓之15",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址目前有冷氣滴水情形，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 15:46 環保局公害專線 李政鴻先生回報，稽查人員於15:35到達，人員稽查時，\r\n因雨天無法判定滴水住戶，請民等放晴後，仍有此況，可再反映；並於10/10 14：09電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:18:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 02:14:00"
   },
   {
     "FileNo_": "INS161009107",
