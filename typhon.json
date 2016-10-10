@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010049",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/10 上午 09:21:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "六和路上(過埤路2巷旁邊，高雄監獄斜對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道遭人丟棄廢棄傢俱、廢棄床墊與馬桶，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/10 上午 09:33:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010050",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 09:20:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 11:39:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008104",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 11:18:46",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路95號前(近民族二路81巷)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝蓋破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 11:20:54",
     "Close_Date_": ""
   }
 ]
