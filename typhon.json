@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010113",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 12:36:20",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義德路52號陽明國小內(從後門進入)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映目前有一灰色流浪犬遭捕獸夾夾到受傷鑽入該校，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010112",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 12:35:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 03:39:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008167",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 03:30:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海三路與鳳鳴路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 03:35:40",
     "Close_Date_": ""
   }
 ]
