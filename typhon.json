@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 12:32:49",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路近文慈路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處慢車道上有一台電圓形孔蓋冒水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011018",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 12:24:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:33:23",
     "Close_Date_": "2016/10/10 下午 05:46:41"
-  },
-  {
-    "FileNo_": "INS161009060",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 上午 10:29:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "福誠一街與福誠五街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有大型家具垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/09 11：35 鳳山區清潔隊簡素瓊小姐回報，該處已清除完成；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 10:33:22",
-    "Close_Date_": "2016/10/10 下午 05:46:14"
   }
 ]
