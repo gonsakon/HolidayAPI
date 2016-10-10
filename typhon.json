@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010309",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 09:52:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "苓雅區興中一路224號1樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一店家之排氣風口排放出不明煙味導致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010308",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 09:51:27",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161010307",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 09:49:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重立路835號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 09:52:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 01:36:18",
     "Close_Date_": "2016/10/10 下午 04:24:35"
-  },
-  {
-    "FileNo_": "INS161009007",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 上午 01:27:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣東二街123巷(鳳凰宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該廟宇燃燒金紙致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/10/09 17:47簡訊回覆:程先生您好，您10月9日反映空汙問題，本府環\r\n保局派員前往，未發現燃燒金紙，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，\r\n謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 01:30:39",
-    "Close_Date_": "2016/10/9 下午 05:47:01"
   }
 ]
