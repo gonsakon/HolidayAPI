@@ -1,5 +1,39 @@
 [
   {
+    "FileNo_": "INS161010266",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 07:57:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路與大埤路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161010265",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 07:56:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路53號與101號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該兩處路面有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010264",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 07:55:49",
@@ -132,7 +166,7 @@
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 07:56:35",
+    "Save_Date_": "2016/10/10 下午 07:57:20",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 10:12:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008317",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 10:08:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "天倫街50號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 10:15:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008316",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 10:03:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "白砂崙之魚塭產業道路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(崎漏高幹173912-P9569-DC23)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 10:09:06",
     "Close_Date_": ""
   }
 ]
