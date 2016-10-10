@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010341",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 11:32:40",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "莊敬路168號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該處台電方形孔蓋凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010339",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 11:25:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 09:26:11",
     "Close_Date_": "2016/10/10 下午 05:43:47"
-  },
-  {
-    "FileNo_": "INS161009037",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 上午 09:13:05",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "自由路與中泰街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌皆閃燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/09 11:25交通局智慧運輸中心潘毅華先生報，該處已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 09:42:22",
-    "Close_Date_": "2016/10/10 下午 05:38:18"
   }
 ]
