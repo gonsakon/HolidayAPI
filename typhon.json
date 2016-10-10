@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011025",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 01:53:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路上(中博高架橋下，位於斜坡處)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處一側為停放機車，一側為停放自行車處，遭人棄置一包垃圾包及掃把情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011024",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 01:24:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:56:26",
     "Close_Date_": "2016/10/10 下午 05:47:45"
-  },
-  {
-    "FileNo_": "INS161009066",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 10:48:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大寮區內坑里仁勇路21號前整排路燈",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "此路燈整排不亮已4天了，麻煩盡速處理",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 11:03:03",
-    "Close_Date_": ""
   }
 ]
