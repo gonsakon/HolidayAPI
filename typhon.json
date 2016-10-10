@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010238",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 07:05:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文衡路108巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010237",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 07:03:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 08:44:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008289",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 08:42:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "永達路上往北",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:永安225之3)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 08:44:34",
     "Close_Date_": ""
   }
 ]
