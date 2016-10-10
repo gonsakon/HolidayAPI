@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 12:02:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山西路與澄清路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有路面油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010342",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 11:59:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 09:28:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009041",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 09:26:08",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中正路二段652之2號、中正路二段654之2號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待處理",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該二址前方皆有台電電線垂落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 09:38:36",
     "Close_Date_": ""
   }
 ]
