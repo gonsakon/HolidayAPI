@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 01:16:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東街上近鎮東四街口(近龍師父便當店)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一橘色貓屍,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010122",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 01:10:58",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161010065",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/10 上午 10:08:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中山路二段(福安國小附近)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處道路、水溝有汽油異味致空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 04:12:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008176",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 04:09:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "前庄里前庄路26號之1",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 04:12:07",
     "Close_Date_": ""
   }
 ]
