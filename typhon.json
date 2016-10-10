@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011038",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 06:52:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎力路331、343、373號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處各有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011037",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 06:49:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 11:17:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009079",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 11:14:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中洲里南北巷48號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址有一盞LED路燈白天未熄，建請查",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 11:16:50",
     "Close_Date_": ""
   }
 ]
