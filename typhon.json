@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010252",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 07:36:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.楠梓新路341號 2.楠梓新路與新安街口 3.新安街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前各有2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010251",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 07:34:58",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161010250",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 07:33:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路二段74號(全鎧鋁業)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者作業期間排放廢氣，造成空污，建請查處。(陳情人要求轉達儘速前往)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 07:35:58",
     "Close_Date_": ""
   },
   {
@@ -171,19 +188,19 @@
   },
   {
     "FileNo_": "INS161010241",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/10 下午 07:08:46",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢二路253號前",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車佔用機車位",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 07:36:29",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 09:20:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008303",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 09:14:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "本館路上(介於澄清路與球場路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段斷斷續續有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 09:17:38",
     "Close_Date_": ""
   }
 ]
