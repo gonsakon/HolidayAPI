@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011022",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 12:58:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路與菜公一路附近一帶",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫濃厚油氣異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011021",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 12:49:55",
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161010309",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/10 下午 09:52:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中一路224號1樓",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有一店家之排氣風口排放出不明煙味導致空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:50:26",
     "Close_Date_": "2016/10/10 上午 10:48:29"
-  },
-  {
-    "FileNo_": "INS161009064",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 10:36:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正二路131之1號(冠安動物醫院前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處前人行道磚有多塊嚴重晃動，且有破損，建請補竣。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 10:38:33",
-    "Close_Date_": ""
   }
 ]
