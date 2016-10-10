@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010046",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 09:06:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路401號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處慢車道有兩處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010045",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 上午 09:06:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 11:16:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008100",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 上午 11:11:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路上(介於河堤路二段與筧橋路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處全線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 11:13:12",
     "Close_Date_": ""
   }
 ]
