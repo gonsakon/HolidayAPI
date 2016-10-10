@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011043",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 07:15:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "1.蓬萊路(自行車道)；2.蓬萊路與臨海新路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映兩處路面柏油填補完後又凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011042",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 07:04:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 11:38:26",
     "Close_Date_": "2016/10/10 下午 05:54:48"
-  },
-  {
-    "FileNo_": "INS161009084",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 11:33:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "草衙二路415號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前有兩個路面坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 11:34:20",
-    "Close_Date_": ""
   }
 ]
