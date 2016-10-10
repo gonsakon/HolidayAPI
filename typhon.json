@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161010116",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 12:56:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "天寮巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷道內沿線與周邊路燈皆故障不亮，其中天寮巷1號前方一盞路燈(編號：花旗幹116右4Q2862EB86)燈泡掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010115",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 12:53:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 03:58:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008171",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 03:52:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "保福路(高71縣道)近後厝路，往大坪頂方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線有多盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 03:54:17",
     "Close_Date_": ""
   }
 ]
