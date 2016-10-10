@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010174",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 04:17:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "廣昌街43巷9號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一路燈電線垂落，非第四台且包商約定要處理皆未聯繫，建請查處。(請聯繫陳情人)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010173",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 04:14:12",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161010164",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/10 下午 03:37:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路137巷沿線",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段沿線道路邊有許多風災遺留之垃圾、樹枝、樹葉，且該處之前由環保局派員清疏之無加蓋排水溝內有許多廢棄樹枝、樹葉、垃圾與貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:38:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008227",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 06:33:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "信昌街118號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址旁1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 06:35:05",
     "Close_Date_": ""
   }
 ]
