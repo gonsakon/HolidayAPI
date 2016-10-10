@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010180",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 04:42:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "仕豐路277號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一路面大坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010179",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 04:39:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:51:02",
     "Close_Date_": "2016/10/9 下午 12:07:53"
-  },
-  {
-    "FileNo_": "INS161008232",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 06:36:14",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園區  工業一路與工業二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "林園區  工業一路與工業二路  路口號誌燈，自從上次颱風過後故障已久，麻煩盡快修復！此路口上下班時段車流很多！早上時段交通號誌可以提前至七點開始運作！！感謝",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 07:33:23",
-    "Close_Date_": ""
   }
 ]
