@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010138",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 02:20:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "蓮潭路59號旁(舊城國小旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一烤肉攤位，因使用木材，故有煙燻異味空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010137",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 02:16:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 05:02:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008192",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 04:46:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "信義巷中段(1號至16號中間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 04:47:26",
     "Close_Date_": ""
   }
 ]
