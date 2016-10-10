@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010192",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 05:10:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "自立路73號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010191",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 05:08:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 07:25:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008244",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 07:20:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路559巷15號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮數日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 07:20:48",
     "Close_Date_": ""
   }
 ]
