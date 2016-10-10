@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010068",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 10:18:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路與孟子路口(佳味燒肉飯)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址店家燒肉油煙空污四散,疑似未開啟排油煙設備,因已多次,望請開罰,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010067",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 10:10:04",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS161010060",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 09:55:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富國路與立文路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處富國公園內園樹倒兩棵，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 上午 10:17:40",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 12:36:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008122",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 12:35:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "中正路二段與五福街口(左轉五福街上)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路口有一盞路燈故障不亮許久，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 12:38:30",
     "Close_Date_": ""
   }
 ]
