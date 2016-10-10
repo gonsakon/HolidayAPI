@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010087",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 11:31:36",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街(介於藍昌路至德民路)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "渠反映該處路段沿線有多盞電線桿遭綁80X80的售屋廣告看板，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010086",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 上午 11:29:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 02:03:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008141",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 01:51:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "新光路140號、142號附近巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有類似磚瓦等廢棄物堆置於人行道花叢，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 01:54:59",
     "Close_Date_": ""
   }
 ]
