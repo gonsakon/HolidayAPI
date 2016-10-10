@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010159",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 03:20:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松路段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "高松路往大寮路橋下的機車道，有沙石車來往，路面坑坑巴巴，塵土飛揚，偶有灑水車經過不但沒洗乾淨還造成路面溼滑，騎車實在是很危險，請協助派人清理，及路面修補",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010156",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 03:17:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:02:09",
     "Close_Date_": "2016/10/10 下午 03:14:23"
-  },
-  {
-    "FileNo_": "INS161008213",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 05:59:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中華五路969巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷口有兩盞路燈故障不亮，建請查處。(請局處到場先與里長聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 06:00:54",
-    "Close_Date_": ""
   }
 ]
