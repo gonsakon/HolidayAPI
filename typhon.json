@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161010191",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 05:08:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋四路與鎮興路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處行人號誌突然從5秒變紅燈",
+    "BeforeDesc_": "渠反映該處行人號誌突然從5秒變紅燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 05:43:59",
     "Close_Date_": ""
   },
   {
@@ -7566,20 +7566,20 @@
   },
   {
     "FileNo_": "INS161009055",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 10:21:14",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "重慶街146巷10號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映有一隻幼貓卡在車輛底盤下方，建請救援。",
     "AfterDesc_": "【主管解除管制】本案於10/09 11:04 農業局動物保護處捕犬大隊史明德先生回報，已救援成功，並帶回安置；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 10:23:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 05:40:48"
   },
   {
     "FileNo_": "INS161009054",
