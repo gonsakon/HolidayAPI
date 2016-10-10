@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010128",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 01:25:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "凱旋四路上(捷運凱旋站2號出口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面上有坑洞內有積水，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010125",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 01:22:00",
@@ -1055,20 +1072,20 @@
   },
   {
     "FileNo_": "INS161010065",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 上午 10:08:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中山路二段(福安國小附近)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處道路、水溝有汽油異味致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 13：14環保局北區稽查人員潘政&#23791;先生回報，稽查人員於11：20到達，於上述地\r\n點周界巡視，未發現，11：25致電陳情人，正確位置：美濃區中山路二段390號前水溝，故稽查人員使用PID檢\r\n測，測得VOC為6.3，11：45消防局也到場，會同消防局人員，人員使用五用氣體檢測，為2ppm，現場消防局人員\r\n使用水柱沖洗水溝，之後再使用五用氣體檢測，為0ppm，狀況解除；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 10:10:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 01:27:08"
   },
   {
     "FileNo_": "INS161010064",
@@ -1106,14 +1123,14 @@
   },
   {
     "FileNo_": "INS161010062",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/10 上午 09:56:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路與工業二路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口雙向號誌燈故障(一邊閃黃燈、一邊閃紅燈)，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 04:25:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008182",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 04:23:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內南里高135(2.2km；竹亮山莊前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有三盞路燈，有故障不亮、歪斜及開關外殼掉落情況，建請會同查修。(因陳情人有先將外殼收起)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 04:26:41",
     "Close_Date_": ""
   }
 ]
