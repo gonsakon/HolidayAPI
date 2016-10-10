@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010286",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 08:42:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳仁路100之48號、100之52號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有",
+    "BeforeDesc_": "渠反映該兩址前各有一盞路故障不亮。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 08:42:55",
     "Close_Date_": ""
   },
   {
