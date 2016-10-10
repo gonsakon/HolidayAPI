@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010151",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 03:06:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010149",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 03:00:48",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161010147",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 02:59:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松青街與松美路；從高松路往高鳳路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有施工工程車在回填泥土，導致沿路路面泥濘，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 03:03:29",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 05:41:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008204",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 05:36:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與金福路(汽車修復場轉角處)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處兩線車道上，有多處路面坑洞，深度約15公分，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 05:42:44",
     "Close_Date_": ""
   }
 ]
