@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161010241",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 07:08:46",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢二路253號前",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車佔用機車位",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 19:35 依據警政業務權責回歸，代為通報 110勤務指揮中心 羅警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 07:36:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 07:37:54"
   },
   {
     "FileNo_": "INS161010240",
