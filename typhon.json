@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010104",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 12:15:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "公園路，澄清湖棒球場",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處現有車輛(750-7Y)排放廢水至池塘，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010102",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 12:12:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 03:06:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008158",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 下午 02:58:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "武慶一路68號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路上有一貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 02:59:52",
     "Close_Date_": ""
   }
 ]
