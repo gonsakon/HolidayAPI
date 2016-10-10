@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161010217",
+    "FileNo_": "INS161010218",
     "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 06:25:43",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營下路251號前(近左營大路672巷)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "渠反映該處有兩台電變電箱遭車輛撞擊歪斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161010217",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 06:23:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大義二路(國軍醫院附近)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 06:24:45",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 08:14:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008269",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/8 下午 08:07:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "公館路上往南方向，致信興二路口沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 08:14:36",
     "Close_Date_": ""
   }
 ]
