@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161011013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 12:12:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "裕誠路249號(老江牛奶)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家於廚房後方播放音樂響噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 12:14:16",
     "Close_Date_": ""
   },
   {
@@ -3139,7 +3139,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該住戶車底下有一犬隻生病，因已躺在車底一天多，陳情人都無法讓其出來，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/10 17：54 農業局 動物保護處 鄭坤山先生回報，該處受傷流浪犬已協助\r\n 送至大豐動物醫院救治；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 03:50:13",
     "Close_Date_": ""
