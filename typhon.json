@@ -6257,20 +6257,20 @@
   },
   {
     "FileNo_": "INS161009009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 01:45:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中亨街",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 10：32經詢問台電1911林小姐表示，已修復完成。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 05:19:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 上午 10:49:50"
   },
   {
     "FileNo_": "INS161009008",
@@ -6359,20 +6359,20 @@
   },
   {
     "FileNo_": "INS161009003",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 12:22:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三中路與經建路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有不明機具運轉聲致噪音，疑似為一旁加工區傳出，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/9 03:11 環保局蔡元堯先生回報：人員於01:55到場，因風雨聲大無法查明音源，改\r\n派非網A-TB-2016-92429；並於10/10 10：47電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 12:24:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 上午 10:53:30"
   },
   {
     "FileNo_": "INS161009002",
