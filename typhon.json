@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010072",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 10:34:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大公路上與瀨南街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌前後不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 上午 10:34:52",
     "Close_Date_": ""
   },
   {
