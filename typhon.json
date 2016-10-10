@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010052",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 09:31:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "立民路與立安路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園內人行地磚下陷坑洞，且園內樹枝風災後仍未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010049",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 09:21:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 11:42:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008105",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 11:36:11",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "大德里活動中心前",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處前排水溝內有一黑色小型犬隻受困，因排水溝水位較高，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 11:39:33",
     "Close_Date_": ""
   }
 ]
