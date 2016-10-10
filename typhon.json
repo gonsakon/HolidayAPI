@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010339",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 11:25:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌路與加昌路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫酸臭異味，建請查處。",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫酸臭異味，導致空氣污染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 11:26:48",
     "Close_Date_": ""
   },
   {
