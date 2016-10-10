@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161010221",
+    "FileNo_": "INS161010222",
     "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 06:35:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "旗楠路80巷9之4號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161010221",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 06:33:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "和光街56巷46弄路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 06:35:00",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 08:14:28",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008273",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/8 下午 08:11:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "港五街與中正路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈均故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/08 23:39 交通局智慧運輸中心黃泰郎先生回報，該處經查為線路故障，無危險性，\r\n需報修廠商修繕，故改派非網A-TB-2016-92405賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 下午 08:14:01",
-    "Close_Date_": "2016/10/10 下午 03:26:15"
   }
 ]
