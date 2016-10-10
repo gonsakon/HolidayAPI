@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010047",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 上午 09:08:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "民族一路與霞海路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口有一車禍撞斷號誌燈桿，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010046",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 上午 09:06:59",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161010045",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 上午 09:06:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興西路上，近楠陽路約50公尺處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道有兩處坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 上午 09:08:05",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 上午 11:16:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161008101",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/8 上午 11:14:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建民路與輔仁路口；武廟公共停車場前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處人行道多棵路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/8 上午 11:16:01",
     "Close_Date_": ""
   }
 ]
