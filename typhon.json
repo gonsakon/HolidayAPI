@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161010107",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 12:21:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東四路329號(碳佐麻里)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有燒烤油耗異味致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 12:23:04",
     "Close_Date_": ""
   },
   {
@@ -4353,20 +4353,20 @@
   },
   {
     "FileNo_": "INS161009154",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 05:06:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "廠前路48巷19號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處台電電線垂落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 18:23台電鳳山區處陳先生回報，該處經查並非電線垂落，經了解為住\r\n戶對電線桿及電線設置有意見，已有跟里長做過說明解釋，並請住戶到台電區處申請遷移程序；並於\r\n10/10 12：22電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 05:10:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 12:23:38"
   },
   {
     "FileNo_": "INS161009153",
