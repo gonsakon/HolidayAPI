@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010312",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 10:00:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和昌街67號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010311",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 09:56:17",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161010291",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/10 下午 08:55:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路與瑞進路口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 05:19:53",
     "Close_Date_": "2016/10/9 上午 05:25:33"
-  },
-  {
-    "FileNo_": "INS161009010",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 上午 01:45:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中亨街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
-    "AfterDesc_": "本案同派工：INS161009009 研判為重複成案，故併入該案賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 05:19:46",
-    "Close_Date_": "2016/10/9 上午 05:26:16"
   }
 ]
