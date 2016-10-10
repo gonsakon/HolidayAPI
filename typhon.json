@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161011002",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 12:03:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "大正三街80巷與仁雄路路口",
+    "address_": "大正三街80巷與仁雄路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 12:06:12",
     "Close_Date_": ""
   },
   {
@@ -2721,20 +2721,20 @@
   },
   {
     "FileNo_": "INS161010182",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 04:48:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "忠孝路與中興路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈均故障不亮數日，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/10 20:30 交通局 智慧運輸中心 張寬如小姐回報，該處號誌箱已修復完成；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 04:50:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 上午 12:06:17"
   },
   {
     "FileNo_": "INS161010181",
