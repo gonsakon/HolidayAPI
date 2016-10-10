@@ -17,23 +17,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161010175",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/10 下午 04:23:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松美路與高松路",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處機車道上，沿線有砂石車掉落之碎石致影響交通，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161010174",
     "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 04:17:58",
@@ -43,7 +26,7 @@
     "address_": "廣昌街43巷9號",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
-    "InformDesc_": "養工-路燈故障(二)",
+    "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址有一路燈電線垂落，非第四台且包商約定要處理皆未聯繫，建請查處。(請聯繫陳情人)",
     "AfterDesc_": "",
     "Memo_": "",
@@ -3095,20 +3078,20 @@
   },
   {
     "FileNo_": "INS161009296",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 10:39:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與建榮路口(美美卡拉OK店)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址店家目前使用擴音器設備致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10 16：21電覆陳情人未果，故於10/10 16：24簡訊回覆：黃先生您好，您10月9日\r\n所反映擴音噪音問題，經本府環保局前往稽查，現場稽查店家營業中，稽查時業者立即配合關閉擴音器，仍予以\r\n勸導業者加強防範，以避免噪音擾民，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:42:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 04:27:51"
   },
   {
     "FileNo_": "INS161009295",
@@ -7855,20 +7838,20 @@
   },
   {
     "FileNo_": "INS161009015",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 03:34:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "五福二路70號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處酒吧擴音器噪音嚴重，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/9 07:01環保局蔡元堯先生回報：人員於06:38到場，未發現播放音樂致噪音情事；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 03:36:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 04:25:39"
   },
   {
     "FileNo_": "INS161009014",
@@ -7889,20 +7872,20 @@
   },
   {
     "FileNo_": "INS161009013",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 01:53:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "小港國小(鋼平街)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 03:09環保局稽查科南區股侯尊仁先生回報，稽查人員於 02:23 到場，於上址周\r\n界巡查，均未發現所述空污之情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 01:55:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 04:24:11"
   },
   {
     "FileNo_": "INS161009012",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/8 下午 06:38:21",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161008229",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/8 下午 06:34:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "永新一街",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/8 下午 06:38:14",
     "Close_Date_": ""
   }
 ]
