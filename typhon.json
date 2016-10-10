@@ -2160,20 +2160,20 @@
   },
   {
     "FileNo_": "INS161009195",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 06:17:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興二路123號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前路面上有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/09 18：38 新興區清潔隊林希宸先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 06:19:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 上午 08:02:46"
   },
   {
     "FileNo_": "INS161009194",
@@ -2364,20 +2364,20 @@
   },
   {
     "FileNo_": "INS161009183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 06:00:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "二苓路192號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路面上有大量車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/09 18：56 溝渠清潔隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 06:04:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 上午 08:03:08"
   },
   {
     "FileNo_": "INS161009182",
@@ -2483,20 +2483,20 @@
   },
   {
     "FileNo_": "INS161009176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 下午 05:57:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣東二街123巷(鳳凰宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處地點有燃燒金紙造成空氣汙染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/09 21：31 環保局環境稽查科中區股謝朝富先生回報，稽查人員於21:20到達，\r\n稽查時確認該寺廟地址為:廣東二街123巷2號，人員現場巡查並未發現有燃燒金紙致空污情事，並有促\r\n請廟方注意防範。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 05:59:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 上午 08:03:31"
   },
   {
     "FileNo_": "INS161009175",
