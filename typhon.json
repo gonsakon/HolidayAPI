@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161010308",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/10 下午 09:51:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "民成街107號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊有一狗屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161010307",
     "Status_": "1",
     "Cre_Date_": "2016/10/10 下午 09:49:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 01:30:39",
     "Close_Date_": "2016/10/9 下午 05:47:01"
-  },
-  {
-    "FileNo_": "INS161009006",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 上午 12:52:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "同盟一路往東近孝順街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道有3~4個坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 上午 12:57:50",
-    "Close_Date_": ""
   }
 ]
