@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161010204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/10 下午 05:47:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳東七街65巷旁大排溝內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處水面有白色不明氣體冒出，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/10 下午 05:54:33",
     "Close_Date_": ""
   },
   {
@@ -7141,20 +7141,20 @@
   },
   {
     "FileNo_": "INS161009085",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 11:36:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河北二路(三鳳宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該宮廟有燃燒金紙致空屋情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 14：51 環保局環境稽查科李政鴻先生姐回報，稽查人員於13：40到達，稽查\r\n當時該宮廟今日舉辦三太子誕辰祝壽活動，現場無燃燒金紙情事，人員於上址周界未發現燃燒金紙致空污情\r\n事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 11:38:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 05:54:48"
   },
   {
     "FileNo_": "INS161009084",
@@ -7192,20 +7192,20 @@
   },
   {
     "FileNo_": "INS161009082",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/9 上午 11:22:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路147巷3號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/09 18:28 養工處四維養護工程隊值班人員江明秀小姐回報，該處經查為中華電信孔\r\n蓋旁破損，已有設立安全措施，故需轉非網A-TB-2016-92643賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/9 上午 11:23:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/10 下午 05:52:21"
   },
   {
     "FileNo_": "INS161009081",
