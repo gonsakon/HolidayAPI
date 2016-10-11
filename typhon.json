@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011252",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 12:54:07",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "新莊里橋新三路與橋新七路紅綠燈號誌四座",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "新莊里橋新三路與橋新七路紅綠燈號誌四座全故障，恐造成交通事故，請儘速派員修復",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011251",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 12:41:12",
@@ -2126,14 +2143,14 @@
   },
   {
     "FileNo_": "INS161011124",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/11 上午 09:37:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路上(文府國中)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映現空氣中有一股很濃的燃燒塑膠異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:31:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009290",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 10:22:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "樂群路15號前(有擴音器之電線桿上)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 10:28:16",
     "Close_Date_": ""
   }
 ]
