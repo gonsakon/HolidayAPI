@@ -256,20 +256,20 @@
   },
   {
     "FileNo_": "INS161012023",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 上午 05:13:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文龍東路與文藝路交叉",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路口可見路面油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/12 05：46 溝渠清潔隊 杜金華先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 05:16:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 07:57:51"
   },
   {
     "FileNo_": "INS161012022",
@@ -562,20 +562,20 @@
   },
   {
     "FileNo_": "INS161012005",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 上午 12:20:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路南下過鎮中路口不遠處(福誠高中對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道邊有一動物屍體，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/12 00:45 溝渠清潔隊 杜金華先生回報，該處動物屍體已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 12:23:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 07:58:36"
   },
   {
     "FileNo_": "INS161012004",
