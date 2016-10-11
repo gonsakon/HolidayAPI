@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011501",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 09:37:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路6巷2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(5278)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011500",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 09:29:26",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS161011445",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 下午 07:24:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美明路148號(新台灣原味餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家目前有油煙逸散致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 07:06:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010235",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 07:02:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大仁路241號和261號與281號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映上述地址皆有路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 07:06:11",
     "Close_Date_": ""
   }
 ]
