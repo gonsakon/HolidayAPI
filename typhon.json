@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161011206",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 11:08:59",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "民華街11號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線桿的台電電線垂落過低，恐生危險，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 11:14:56",
     "Close_Date_": ""
   },
   {
