@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011348",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 04:15:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "復興三路(介於中華五路與成功二路之間；西向東方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處汽車道有兩坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011347",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 04:14:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 11:20:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010080",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 11:09:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "保生路與湖中路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌「保生路」閃燈，而「湖中路」故障不亮，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 11:11:21",
     "Close_Date_": ""
   }
 ]
