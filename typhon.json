@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011254",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 12:59:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路(北往南)右轉天祥二路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道轉彎處路面散落砂石，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011252",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 12:54:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:31:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009291",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 10:24:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "樂群路上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處路段有一籃球場西側2盞路燈白天未熄，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 10:31:31",
     "Close_Date_": ""
   }
 ]
