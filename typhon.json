@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011347",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 04:14:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "維新里光明三巷116之55號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前有一路面掏空下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011346",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 04:13:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 11:11:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010079",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 11:04:48",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明鳳六街20號對面",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一流浪犬隻疑似受傷，躺在草地哀嚎，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 11:07:25",
     "Close_Date_": ""
   }
 ]
