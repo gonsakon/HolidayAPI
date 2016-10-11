@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011256",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 01:02:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文天路190號(介於重仁路與重愛路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011255",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 01:01:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:30:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009293",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 10:25:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "忠孝路上，於佳來五金百貨停車場出口處",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處出口處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 10:31:40",
     "Close_Date_": ""
   }
 ]
