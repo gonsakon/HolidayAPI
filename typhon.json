@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS161011076",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 08:48:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路上,由平和東路至小港路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處雙向路面有多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 上午 08:50:39",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011077",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 08:47:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "哈爾濱街1巷13號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "一樓機具噪音",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:56:45",
     "Close_Date_": "2016/10/10 下午 03:19:40"
-  },
-  {
-    "FileNo_": "INS161009118",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 02:43:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路口轉彎處；過港隧道小港端出來",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有坑洞，已自行搬磚頭先填補坑洞，表示局處回覆已修復但實際上並未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 02:45:28",
-    "Close_Date_": ""
   }
 ]
