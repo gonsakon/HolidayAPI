@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011536",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 11:58:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "援港路上轉彎處，近德中路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊有4、5袋大包垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011535",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 11:51:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 08:07:23",
     "Close_Date_": "2016/10/11 下午 06:51:34"
-  },
-  {
-    "FileNo_": "INS161010270",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 08:02:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "阿公店路二段(介於空醫院路至柳橋西路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 08:04:41",
-    "Close_Date_": ""
   }
 ]
