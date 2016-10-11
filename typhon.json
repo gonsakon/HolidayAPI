@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011439",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 07:12:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國路81巷內，由建軍路轉入",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處巷內第一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011438",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 07:07:55",
@@ -188,19 +205,19 @@
   },
   {
     "FileNo_": "INS161011427",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 下午 06:48:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "武慶二路80巷42號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "處理完成",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處路段多戶無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 07:12:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 04:11:39",
     "Close_Date_": "2016/10/11 下午 02:14:33"
-  },
-  {
-    "FileNo_": "INS161010171",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 03:56:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "光和路上(離海岸走路約2分鐘路程)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號：光和235)自風災後即故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 04:08:10",
-    "Close_Date_": ""
   }
 ]
