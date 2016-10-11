@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011065",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 08:27:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "南衙路與草衙二路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處因路面掏空致坑洞產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011064",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 08:21:03",
@@ -8892,14 +8909,14 @@
   },
   {
     "FileNo_": "INS161009182",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/9 下午 05:59:21",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "三光街42號(於整建房屋外)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一甫出生幼貓逾十多小時均未見母貓，憂恐不測，建請救援。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:18:54",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009106",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 02:13:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "東門路57巷與東門路42巷口(東門路42巷口)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有垃圾髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/09 14:43 鼓山區清潔隊傅德南先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 02:20:44",
-    "Close_Date_": "2016/10/10 下午 06:02:11"
   }
 ]
