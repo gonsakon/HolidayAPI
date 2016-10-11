@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011262",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 01:19:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高鳳路與中安路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011261",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 01:14:16",
@@ -2041,14 +2058,14 @@
   },
   {
     "FileNo_": "INS161011139",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 上午 09:57:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路與永宏巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈歪斜故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 11:18:43",
     "Close_Date_": "2016/10/10 下午 06:16:36"
-  },
-  {
-    "FileNo_": "INS161009300",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 11:14:12",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中原街89號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一污水孔蓋有凹凸不平且周邊柏油有脫落情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 11:15:48",
-    "Close_Date_": ""
   }
 ]
