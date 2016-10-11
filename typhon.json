@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011224",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 11:46:44",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街355號旁",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該處台電孔蓋旁有凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011222",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 11:44:59",
@@ -235,6 +252,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 11:21:57",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011208",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 上午 11:12:07",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復橫一路196號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址前有斜坡道設於水溝上導致積水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 上午 11:45:59",
     "Close_Date_": ""
   },
   {
@@ -7685,37 +7719,37 @@
   },
   {
     "FileNo_": "INS161010106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 12:19:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正二路56巷內公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該公園內遮雨棚破裂損壞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 10：54 養工處四維養護工程隊苓雅養護分隊陳美熹小姐回報，該處無立即危險\r\n性，列入災後復建工程一併處理，故轉派非網：A-TB-2016-93217；並於10/11 11：45電覆陳情人，故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 12:21:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 上午 11:46:37"
   },
   {
     "FileNo_": "INS161010105",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 12:19:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正二路56巷內公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處公園內颱風過後斷枝落葉仍尚未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 10：54 養工處四維養護工程隊苓雅養護分隊陳美熹小姐回報，該處無立即危險\r\n性，列入災後復建工程一併處理，故轉派非網：A-TB-2016-93216；並於10/11 11：45電覆陳情人，故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 12:21:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 上午 11:46:13"
   },
   {
     "FileNo_": "INS161010104",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 09:28:13",
     "Close_Date_": "2016/10/10 上午 07:48:10"
-  },
-  {
-    "FileNo_": "INS161009263",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 09:18:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "中正路216巷17號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前及對面有2盞路燈故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 09:19:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009262",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/9 下午 09:18:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "蓬萊路與臨海新路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 09:20:37",
-    "Close_Date_": ""
   }
 ]
