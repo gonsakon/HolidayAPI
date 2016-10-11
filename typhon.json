@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161011479",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 08:49:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗南二路126號(溪州國小旁)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處台電電箱稍早發生火花後，便造成周界停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 08:53:38",
     "Close_Date_": ""
   },
   {
