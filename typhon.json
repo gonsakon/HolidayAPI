@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011068",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 08:34:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "澄湖路215號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011067",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 08:34:15",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161011042",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/11 上午 07:04:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "外環西路(介於加昌路與左楠路)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該路段於兩側燈桿、號誌桿皆遭張貼售屋廣告，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:32:14",
     "Close_Date_": "2016/10/10 下午 06:05:47"
-  },
-  {
-    "FileNo_": "INS161009109",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 02:16:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "翠華路與華安街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈故障閃燈，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/09 17:45 交通局智慧運輸中心張寬如小姐回報，現場查看為線路故障，已將線路拔\r\n除故號誌燈線不會亮，需報修廠商處理，故改派非網A-TB-2016-92634賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 02:17:41",
-    "Close_Date_": "2016/10/10 下午 06:02:43"
   }
 ]
