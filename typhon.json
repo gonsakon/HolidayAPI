@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011356",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 04:48:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路64巷40號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一雙頭路燈，有一頭路燈故障不亮已一個月，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011355",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 04:48:29",
@@ -6597,20 +6614,20 @@
   },
   {
     "FileNo_": "INS161010303",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 09:23:41",
     "ReplyUnit_": "F01004",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路404號與406號",
     "UnitName_": "鳳山區公所",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有一標示區公所廣播器線路垂落，致民眾行經跌倒，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/10  22：07  鳳山區公所吳慶瑞先生回報，已將該處線路先用線綁住與架\r\n高，該處無立即危險性，惟後續需由民政課處理，恐需數個工作天，已向里長與該處大樓主委說明，\r\n故轉派非網A-TB-2016-93004 賡續辦理；並於10/11 16：48電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 09:25:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 下午 04:48:01"
   },
   {
     "FileNo_": "INS161010302",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 11:35:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010088",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 11:33:40",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東五路與裕誠路口(7-11旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈基座螺絲鬆脫，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 11:34:29",
     "Close_Date_": ""
   }
 ]
