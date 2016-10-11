@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011257",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 01:03:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "左楠路與後昌路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌閃爍故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011256",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 01:02:36",
@@ -48,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 01:01:05",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011253",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 下午 12:58:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "同和路與八德西路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有吊車作業施工，未有人員指揮及設置交通錐警示，恐造成危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 下午 01:03:10",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 10:42:57",
     "Close_Date_": "2016/10/10 下午 04:27:51"
-  },
-  {
-    "FileNo_": "INS161009295",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 10:36:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "濟南里飛機路302號、306號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該2址對面各有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 10:38:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009294",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 10:28:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中華五路969巷4號、12號十字路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處地點各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 10:30:06",
-    "Close_Date_": ""
   }
 ]
