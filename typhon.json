@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011209",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 11:12:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "星光水岸公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處有一盞園燈燈桿斷裂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011207",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 11:09:08",
@@ -1174,14 +1191,14 @@
   },
   {
     "FileNo_": "INS161011138",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 上午 09:57:01",
     "ReplyUnit_": "A02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山區53巷32弄",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "妨害安寧",
     "BeforeDesc_": "廣播電台節目音量過大，巷弄都聽得到",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 08:44:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009248",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 08:36:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲一路192巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷內路燈多盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 08:38:05",
     "Close_Date_": ""
   }
 ]
