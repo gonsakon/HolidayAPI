@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011403",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 下午 06:00:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重安路與文智路口(重安路上)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號：011930)不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 下午 06:01:00",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011402",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 05:57:47",
@@ -1332,7 +1349,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "三頂路三巷1號",
+    "address_": "山頂里山頂路3巷1號",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
@@ -6427,20 +6444,20 @@
   },
   {
     "FileNo_": "INS161011017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 上午 12:21:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳東路與灣頭南巷交叉口(福德祠前方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 00:47溝渠隊杜金華先生回報，陳情人表示該貓屍已遭流浪狗叼走，故請人員毋\r\n須前往；並於10/11 18：00電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 12:23:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 下午 06:04:26"
   },
   {
     "FileNo_": "INS161011016",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 02:13:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010134",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 02:11:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "勝利路上小龜山蓮池潭公車亭對面(大龜山擋土牆下)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處溝內遭沖刷泥濘填滿，且上方堆滿落葉，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 02:18:58",
     "Close_Date_": ""
   }
 ]
