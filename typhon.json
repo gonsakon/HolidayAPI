@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161011470",
+    "FileNo_": "INS161011471",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 08:33:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中華路與國昌路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處快車道有一路面大坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011470",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 08:32:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河堤路(介於明誠二路與大順一路之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線自行車道邊路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 08:33:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 05:59:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010205",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/10 下午 05:47:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "協仁街36巷9號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有疑似豬屎之惡臭異味致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/10 20：10 環保局環境稽查科北區股潘政&#23791;先生回報，稽查人員於18：40到達，稽\r\n查當時於該處周界巡視未發現上述空污情事；並於10/11 14：31電覆陳情人，故解除管制；惟陳情人反映該處不\r\n定時空污問題，故另派非網A-TB-2016-93344追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 05:49:07",
-    "Close_Date_": "2016/10/11 下午 02:43:07"
   }
 ]
