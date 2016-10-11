@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011272",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 01:47:59",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "新田路236號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址住戶現無預警停電，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011271",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 01:43:52",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161011270",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 01:41:46",
     "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "0",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "莒光路二段(往茄萣方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線有多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 01:48:13",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161011268",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 01:38:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中正路二段441巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該巷內有一盞路燈(編號:崎漏154左5P9669EA13)照射角度偏移，路燈照射方向往天空照，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 01:48:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 01:03:52",
     "Close_Date_": "2016/10/10 上午 07:42:37"
-  },
-  {
-    "FileNo_": "INS161010007",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 12:34:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路與光武路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處中央分隔島有一盞路燈及路牌燈箱故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 12:36:28",
-    "Close_Date_": ""
   }
 ]
