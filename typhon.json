@@ -171,19 +171,19 @@
   },
   {
     "FileNo_": "INS161012012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 01:08:55",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中林路往西，大業南路之前機車道",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "地下道、路面積水(一)",
     "BeforeDesc_": "中林路往西，大業南路之前機車道積水，請相關單位查驗一下",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 04:59:00",
     "Close_Date_": ""
   },
   {
