@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011535",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 下午 11:51:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中智街與中林路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫戴奧辛異味，導致空氣污染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 下午 11:56:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011534",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 11:50:01",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161011525",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 下午 11:13:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "1.五福二路75號2.五福二路77號、79號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映地點一:該處人行道上有廢棄廣告招牌物；地點二:該處路面有許多垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 08:04:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010269",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 08:01:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "阿公店路二段(介於空醫院路至岡山南路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段有零星共13盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 08:06:01",
     "Close_Date_": ""
   }
 ]
