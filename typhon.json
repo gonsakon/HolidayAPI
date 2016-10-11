@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011154",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 10:08:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "久堂里復興街(九曲堂火車站開始)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處人線景觀燈均故障不亮已多天，因有許多民眾休憩過於昏暗恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011152",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 10:03:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 06:19:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009193",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 06:17:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "康定路152號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路中央有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 06:25:42",
     "Close_Date_": ""
   }
 ]
