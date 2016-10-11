@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161011408",
+    "FileNo_": "INS161011409",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 06:11:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁德路2弄7號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障及燈罩損壞情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011408",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 06:10:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國慶六街26號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，其中一盞燈罩遺失，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 06:11:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 02:31:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010139",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 下午 02:21:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路四段2之1巷31號前方(茄萣區公所後方)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一大池塘，水面上有孑孓，蚊蟲孳生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 02:24:44",
     "Close_Date_": ""
   }
 ]
