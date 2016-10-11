@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161011412",
+    "FileNo_": "INS161011413",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 06:20:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "南州街26之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011412",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 06:18:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路上，往南方向，近九如一路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處一家具行前機車道有破掉的飼料包，與滿地飼料，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 06:20:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 02:51:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010144",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 02:48:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "嘉誠路22之8號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 02:49:15",
     "Close_Date_": ""
   }
 ]
