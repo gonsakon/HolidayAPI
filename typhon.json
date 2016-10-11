@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011336",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 03:53:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "安住巷130號之1",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞相思燈故障不亮許久，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011333",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 03:51:34",
@@ -68,6 +85,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161011330",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 下午 03:45:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞興街214巷11號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮多日，其表示已有人員到場檢修，仍未有改善，建請儘速查修。(請人員到場查看時先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 下午 03:52:46",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011328",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 03:40:37",
@@ -86,14 +120,14 @@
   },
   {
     "FileNo_": "INS161011327",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/11 下午 03:36:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中華路與國昌路口，於國昌路上，近路竹高中旁",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路段雙向皆有路面凹陷情事，建請查修。",
     "AfterDesc_": "",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 10:19:20",
     "Close_Date_": "2016/10/11 下午 01:31:52"
-  },
-  {
-    "FileNo_": "INS161010069",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 10:16:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "六和路上(過埤路2巷旁邊，高雄監獄斜對面)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道遭人丟棄廢棄傢俱、廢棄床墊與馬桶，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 10:19:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010067",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 10:10:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中安路上近鳳頂路；往東(桂林中醫診所旁巷子進入)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 10:13:02",
-    "Close_Date_": ""
   }
 ]
