@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011218",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 11:29:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東四街20巷19號之1",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園內園燈換新後的舊燈具未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011217",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 11:26:00",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161011215",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 11:25:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "濱海路四段27號(區公所附近)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 11:29:38",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 09:06:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009257",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 09:04:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "高雄市仁武區永新街路段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "這路段區域路燈時常不亮。颱風過後不亮、平常沒大雨颱風也是有不亮的時候，對我們區域交通很危險，請妥善處理，極度困擾。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 09:15:59",
     "Close_Date_": ""
   }
 ]
