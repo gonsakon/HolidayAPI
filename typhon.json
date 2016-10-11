@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011186",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 10:47:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "永華路上二仁溪(黑龍江)，近高速公路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面/路燈/路樹，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011185",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 10:46:36",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161011182",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 10:43:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "熱河一街355號",
+    "address_": "1.熱河一街355號、2.近台電孔蓋旁有路面凹陷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前近號誌燈桿旁路面有一坑洞，建請查處。",
+    "BeforeDesc_": "渠反映該兩處路面有一坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 10:47:43",
     "Close_Date_": ""
   },
   {
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS161011114",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/11 上午 09:33:26",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建元路與興隆路",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處轉角因前有水利局施工導致坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 07:57:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009226",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 07:50:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福德一路65號(門前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 07:52:02",
     "Close_Date_": ""
   }
 ]
