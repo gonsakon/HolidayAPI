@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012020",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 03:23:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中山路一段110號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處業者運作產生",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012019",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 03:01:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 09:00:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010291",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 08:55:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "博愛路與瑞進路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 08:59:56",
     "Close_Date_": ""
   }
 ]
