@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161011130",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 09:44:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "東門里民權路7號左手邊",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈修復後又故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處一盞路燈修復後又故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 09:46:03",
     "Close_Date_": ""
   },
   {
