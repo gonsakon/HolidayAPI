@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011131",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 09:44:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區國慶十一街與明學路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011130",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 09:44:16",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161011129",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 09:41:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合一路180巷44之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一路燈燈頭已偏移，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 09:45:47",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 05:54:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161009172",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 05:52:27",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "省道旁五里林橋下，河內",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻受困，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/09 21：48 農業局動物保護處劉傳寶先生回報，該處人員到達時，會同陳情人因\r\n當下天色昏暗未發現受困犬隻，後續陳情人表示若再有發現將再進線通報。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 05:53:10",
-    "Close_Date_": "2016/10/10 上午 08:03:59"
   }
 ]
