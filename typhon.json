@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011321",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 03:28:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "三頂路三巷1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址三合院前有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011320",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 03:27:11",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161011318",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 03:25:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路203巷；汽車旅館後方",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址有一盞路燈傾斜30度，控造成行經車輛危險，建請查處。",
+    "BeforeDesc_": "渠反映該址有一盞路燈傾斜30度，恐造成行經車輛危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 03:29:15",
     "Close_Date_": ""
   },
   {
@@ -7005,20 +7022,20 @@
   },
   {
     "FileNo_": "INS161010245",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/10 下午 07:17:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "南華橫一路47號(眾悅洗車場)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者於晚間19時有使用機具致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 15：23電覆陳情人未果，故於10/11 15：28簡訊回覆：陳先生您好，您10月10日\r\n所反映洗車場機具噪音問題，經本府環保局前往稽查，到場時店家已打烊，巡視未發現有機具噪音情事，仍促請\r\n業者注意防範，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 07:20:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/11 下午 03:32:08"
   },
   {
     "FileNo_": "INS161010244",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 09:41:24",
     "Close_Date_": "2016/10/11 下午 01:26:33"
-  },
-  {
-    "FileNo_": "INS161010055",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 09:36:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路161號前，往北",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處於慢車道路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 09:37:57",
-    "Close_Date_": ""
   }
 ]
