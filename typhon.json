@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161012027",
+    "FileNo_": "INS161012028",
     "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 07:14:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "智群路,水果公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該公園內風災後髒亂皆未清掃,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161012027",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 07:08:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路與必勝路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌均故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 07:11:27",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 09:16:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010299",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/10 下午 09:13:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大安街(大安公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映於該園正門進入第一棵園樹已傾倒，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/11 11:32 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處經確認為一個大斷\r\n枝，已移除完畢；並於10/11 18：58電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 09:14:57",
-    "Close_Date_": "2016/10/11 下午 07:02:38"
   }
 ]
