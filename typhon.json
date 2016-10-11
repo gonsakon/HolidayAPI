@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011097",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 09:12:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路二段與仁春街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾斜，建請扶正或移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011090",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 上午 09:12:44",
@@ -17,20 +34,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161011093",
+    "FileNo_": "INS161011094",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 09:12:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "裕誠路1095號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞水銀路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011093",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 09:11:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路888號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址有一路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 09:12:39",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 04:21:03",
     "Close_Date_": "2016/10/10 下午 06:09:09"
-  },
-  {
-    "FileNo_": "INS161009136",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 04:04:31",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "盛興公園",
-    "UnitName_": "觀光局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "風景區髒亂",
-    "BeforeDesc_": "颱風過後無人清掃，落葉和積水到處都是，落葉堵住排水孔，造成積水，積水造成公園里民活動危險，有長輩及孩童因濕滑的落葉跟積水滑倒，甚至成為登革熱溫床，請儘速派員協助處理。盛興里辦公室",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161009128 ，研判應是重複成案，故併入該案一併\r\n委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 05:28:01",
-    "Close_Date_": "2016/10/9 下午 05:29:43"
-  },
-  {
-    "FileNo_": "INS161009135",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 04:01:27",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "盛興公園",
-    "UnitName_": "觀光局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "風景區髒亂",
-    "BeforeDesc_": "颱風過後無人清掃，落葉和積水到處都是，落葉堵住排水孔，造成積水，積水造成公園里民活動危險，有長輩及孩童因濕滑的落葉跟積水滑倒，甚至成為登革熱溫床，請儘速派員協助處理。盛興里辦公室",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161009128 ，研判應是重複成案，故併入\r\n該案一併委由工務局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 05:27:50",
-    "Close_Date_": "2016/10/9 下午 05:41:45"
   }
 ]
