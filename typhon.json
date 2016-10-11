@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012035",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 上午 07:49:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中安路上(中山四路與明聖街)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路段雙向均有多處坑洞，建請確實修補。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 上午 07:50:46",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012034",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 07:45:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 09:52:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010306",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/10 下午 09:40:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "赤西四街102號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址對面有一盞路燈至颱風過後便故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 09:41:15",
     "Close_Date_": ""
   }
 ]
