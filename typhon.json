@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161011218",
+    "FileNo_": "INS161011219",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 11:30:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "文萊路29號4樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011218",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 11:29:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮東四街20巷19號之1",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該公園內園燈換新後的舊燈具未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 11:30:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 09:08:02",
     "Close_Date_": "2016/10/10 下午 04:16:00"
-  },
-  {
-    "FileNo_": "INS161009258",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 09:04:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "中興里中庄路297巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 09:06:09",
-    "Close_Date_": ""
   }
 ]
