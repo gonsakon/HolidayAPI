@@ -154,19 +154,19 @@
   },
   {
     "FileNo_": "INS161011252",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 12:54:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "新莊里橋新三路與橋新七路紅綠燈號誌四座",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "新莊里橋新三路與橋新七路紅綠燈號誌四座全故障，恐造成交通事故，請儘速派員修復",
+    "BeforeDesc_": "渠反映該路口號誌四座全故障，恐造成交通事故，請儘速派員修復",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 01:16:11",
     "Close_Date_": ""
   },
   {
