@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011328",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 03:40:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加仁路87巷口往公園方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈持續閃爍，其他沿線路燈皆故障不亮，該閃爍路燈因光線過強，望修復前可先關閉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011327",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 03:36:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/10 上午 10:04:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161010062",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/10 上午 09:56:50",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與工業二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口雙向號誌燈故障(一邊閃黃燈、一邊閃紅燈)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 上午 09:58:30",
     "Close_Date_": ""
   }
 ]
