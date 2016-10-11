@@ -153,6 +153,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161011095",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/11 上午 09:12:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "中庄里內",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該里內有10多處路燈故障不亮，已通報養工處15天未修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 上午 09:18:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011094",
     "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 09:12:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 04:41:56",
     "Close_Date_": "2016/10/10 下午 03:23:19"
-  },
-  {
-    "FileNo_": "INS161009144",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/9 下午 04:35:25",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "1.中洲二路172號旁 2.中洲二路160之2號旁",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該兩處各有一溝壁塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 04:38:10",
-    "Close_Date_": ""
   }
 ]
