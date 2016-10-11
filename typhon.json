@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161011063",
+    "FileNo_": "INS161011064",
     "Status_": "1",
+    "Cre_Date_": "2016/10/11 上午 08:21:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "筆秀路69號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011063",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 上午 08:20:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
-    "address_": "大仁北路  育成二街",
+    "address_": "大仁北路與育成二街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一路燈白天未熄已好幾天，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 上午 08:21:41",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/9 下午 02:20:44",
     "Close_Date_": "2016/10/10 下午 06:02:11"
-  },
-  {
-    "FileNo_": "INS161009105",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/9 下午 02:07:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "介壽路221巷內(微風精品大樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該大樓於戶在正在燃燒金紙空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於2016/10/09 17:56簡訊回覆:尤小姐您好，您10月9日反映空汙問題，本府環\r\n保局派員前往，於通報地址周界巡視未發現燃燒金紙，並請管理人員加強防範，感謝您的熱心通報，\r\n倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/9 下午 02:09:11",
-    "Close_Date_": "2016/10/9 下午 05:56:48"
   }
 ]
