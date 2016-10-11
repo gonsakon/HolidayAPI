@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161011431",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/11 下午 06:50:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "溪濱路與過埤路口(鳳山溪旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161011430",
     "Status_": "1",
     "Cre_Date_": "2016/10/11 下午 06:49:31",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161011428",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/11 下午 06:48:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "維新東街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線有五盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/11 下午 06:50:29",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/10 下午 03:45:18",
     "Close_Date_": "2016/10/11 下午 01:56:26"
-  },
-  {
-    "FileNo_": "INS161010162",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/10 下午 03:35:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與天祥一路口(西南角)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處小綠人號誌已轉向到另一側,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/10 16:02交通局智慧運輸中心張寬如小姐回報，該處號誌燈因固定卡榫損壞，須報\r\n請廠商維修，現場無立即性危險，故轉派非網A-TB-2016-92902賡續辦理；並於10/10 17：58電覆陳情人，故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/10 下午 03:40:15",
-    "Close_Date_": "2016/10/10 下午 05:58:07"
   }
 ]
