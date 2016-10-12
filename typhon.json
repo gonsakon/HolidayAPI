@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012293",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 03:57:53",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012289",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 03:57:07",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 03:57:30",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161012291",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 下午 03:55:40",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路237巷26號與28號之間",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻腳遭捕鼠夾住，無法自行掙脫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 下午 03:58:17",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 11:57:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011224",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 11:46:44",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "熱河一街355號旁",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋旁有凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 11:58:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011223",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 11:46:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞隆路607巷45弄2號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈底座損壞，有傾倒危險，建請會同查處，並要求說明該處未修復為何卻回報已修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 11:52:23",
     "Close_Date_": ""
   }
 ]
