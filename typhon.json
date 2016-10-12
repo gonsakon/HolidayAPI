@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012431",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 08:23:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁孝路58號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012427",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 08:21:25",
@@ -13,7 +30,7 @@
     "BeforeDesc_": "渠反映該店家咖啡烘焙濃厚異味致空污，建請查處。(要求稽查員先聯繫，並且回復結果)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 08:25:29",
+    "Save_Date_": "2016/10/12 下午 08:25:41",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 05:00:43",
     "Close_Date_": "2016/10/12 下午 12:04:44"
-  },
-  {
-    "FileNo_": "INS161011364",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 04:57:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學南路上與大學十一街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處一棵路樹已傾斜佔據半個道路，恐生倒塌危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 04:59:30",
-    "Close_Date_": ""
   }
 ]
