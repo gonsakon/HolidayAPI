@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013027",
+    "FileNo_": "INS161013028",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 07:14:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "凱旋一路 民族一路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013027",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 07:09:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路之林靖公園",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "樹木壓損致園燈1263    1281",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 上午 07:14:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 07:17:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011441",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 07:14:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學東路52號，左邊",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路邊有一堆颱風過後散落之廣告看板及木條，上方有殘留鐵釘，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 07:18:25",
     "Close_Date_": ""
   }
 ]
