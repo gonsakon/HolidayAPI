@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012470",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 10:35:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012469",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 10:10:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 06:05:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011403",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 06:00:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重安路與文智路口(重安路上)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號：011930)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 06:01:00",
     "Close_Date_": ""
   }
 ]
