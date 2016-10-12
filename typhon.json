@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012217",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 01:46:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "褒忠街與覺民路288巷口(涵洞前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞似宮燈造型之路燈，其上方圓盤掀起損壞恐掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012216",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 01:43:52",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161012213",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 01:36:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣東一街49巷18號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前有一盞路燈白天未熄，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 01:47:33",
     "Close_Date_": ""
   },
   {
@@ -341,19 +358,19 @@
   },
   {
     "FileNo_": "INS161012196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 12:49:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "先峰路與桃子園路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面掏空(一)",
     "BeforeDesc_": "左營區 先峰路與桃子園路口因梅姬颱風大雨,造成路面塌陷,目前該路段仍在封閉狀態,致使附近居民交通不便,到底是市府還是軍方的責任範圍,怎麼都沒人處理??",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 01:50:44",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:00:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011147",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 09:59:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路81號至97號快車道上(近高楠公路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:06:06",
     "Close_Date_": ""
   }
 ]
