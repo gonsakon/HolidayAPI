@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013034",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 07:40:48",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路上(介於金福路至平和東路之間，往南方向)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該路段中間部分有一水溝蓋下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013033",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 上午 07:40:21",
@@ -3571,20 +3588,20 @@
   },
   {
     "FileNo_": "INS161012301",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 04:11:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "鹽田里鹽保路上",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈電線垂落至路面(桿號：鹽田008)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 17:02 養工處岡山養護工程隊林欣怡小姐回報，該處現場目前無危險性，經\r\n查係為台電電線，故改派派工INS161012320賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 04:13:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:45:09"
   },
   {
     "FileNo_": "INS161012300",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 07:33:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011448",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 07:32:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "南華一路與新興路口，新興路上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處位置有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 07:33:05",
     "Close_Date_": ""
   }
 ]
