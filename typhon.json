@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013015",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 01:11:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路與義華路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處路口周邊有高頻率(音頻)不明聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013014",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 12:53:26",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161012477",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/12 下午 11:25:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路566號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，有員警於現場，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 06:59:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011428",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 06:48:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "維新東街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線有五盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 06:50:29",
     "Close_Date_": ""
   }
 ]
