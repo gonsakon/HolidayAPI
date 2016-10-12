@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012414",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 07:53:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路(介於自立一路至瑞源路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈沿線多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012412",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 07:50:53",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161012411",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 07:49:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "莊敬路上(大昌一路至立志街)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段沿線路燈均故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 07:52:51",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 04:17:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011346",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 04:13:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新里光明三巷116之55號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞LED路燈故障不亮(編號:285、286)，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 04:17:40",
     "Close_Date_": ""
   }
 ]
