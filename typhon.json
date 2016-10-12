@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012075",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 09:15:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄和路102號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址有一路面大坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012072",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 09:13:33",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161012073",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 09:11:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "水管路621號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 09:14:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 12:16:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011004",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 12:11:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "大正路與大豐街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮、一盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 12:16:07",
     "Close_Date_": ""
   }
 ]
