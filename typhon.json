@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013024",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 07:05:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路上(介於大同路至水管路8巷之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段雙向道路上有多處路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013023",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 上午 07:01:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 07:09:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011437",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 07:07:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "青山街22巷56弄1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址對面有一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 07:08:36",
     "Close_Date_": ""
   }
 ]
