@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161012132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 10:32:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "瑞興路上(鳳山新村甲區管理室前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面下陷(一)",
     "BeforeDesc_": "渠反該處有路面下陷情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 10:33:04",
     "Close_Date_": ""
   },
   {
@@ -2058,20 +2058,20 @@
   },
   {
     "FileNo_": "INS161012012",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 上午 01:08:55",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中林路往西，大業南路之前機車道",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "地下道、路面積水(一)",
     "BeforeDesc_": "中林路往西，大業南路之前機車道積水，請相關單位查驗一下",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/12 08：41 水利局 市區排水一科林敬邦先生回報，該處積水已消退；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 04:59:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 10:35:47"
   },
   {
     "FileNo_": "INS161012011",
