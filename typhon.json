@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161012248",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 下午 02:40:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路仁武工業區外",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處進行路樹修剪工程占用車道，惟現場未設置安全錐及交維，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 下午 02:43:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012246",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 02:36:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:43:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011177",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 10:40:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "新盛一街上(與七賢二路交叉、南邊)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:41:29",
     "Close_Date_": ""
   }
 ]
