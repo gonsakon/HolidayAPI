@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161012183",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 12:21:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞隆路與公正路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口前後瑞隆路號誌分成兩段有不連鎖狀況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 12:22:43",
     "Close_Date_": ""
   },
   {
@@ -3724,20 +3724,20 @@
   },
   {
     "FileNo_": "INS161011500",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 下午 09:29:26",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德中路40巷(清水巖前)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映稍早行經該處遭一隻土黃色之流浪犬攻擊，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/12 12:18電覆陳情人未果，故於2016/10/12 12:21簡訊回覆:黃小姐您\r\n好，您10月11日所反映流浪犬問題，本府動保處已派員前往周界巡查皆無發現犬隻，感謝您的熱心通\r\n報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 09:32:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 下午 12:22:22"
   },
   {
     "FileNo_": "INS161011499",
