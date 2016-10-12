@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012373",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 06:40:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "新光路上(介於成功二路到中華五路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段之路燈相當昏暗，路燈亮度不足，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012372",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 06:39:53",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161012371",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 06:39:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "菜公一路108號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 06:41:09",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 03:01:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011304",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 02:59:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與建榮路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道(往北)有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 03:05:14",
     "Close_Date_": ""
   }
 ]
