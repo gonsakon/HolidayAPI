@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013022",
+    "FileNo_": "INS161013023",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 07:01:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金山路409巷3號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013022",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 06:48:34",
     "ReplyUnit_": "F01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "福德路109號",
     "UnitName_": "茄萣區公所",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 上午 07:00:51",
     "Close_Date_": ""
   },
   {
@@ -545,20 +562,20 @@
   },
   {
     "FileNo_": "INS161012470",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 10:35:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "成功北路上(與鐵道北路口)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障，持續紅燈未變燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/13 00:30交通局智慧運輸中心黃泰郎先生回報，該處目前暫時調整為閃光運作，\r\n因需要請廠商維修，故改派非網A-TB-2016-94145賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 10:36:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:00:19"
   },
   {
     "FileNo_": "INS161012469",
@@ -1021,20 +1038,20 @@
   },
   {
     "FileNo_": "INS161012442",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 08:46:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "保生路47巷底",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫類似松香水惡臭異味，造成空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 22:29 環保局環境稽查科北區股余泓陞先生回報，稽查人員於21:40到達，稽\r\n查當時人員於上述地點，47巷底沿線稽查，皆未發現松香水惡臭異味致空污情事，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 08:49:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:01:30"
   },
   {
     "FileNo_": "INS161012441",
@@ -1140,20 +1157,20 @@
   },
   {
     "FileNo_": "INS161012434",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 08:27:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路821之16號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該透天民宅2樓有冷氣滴水，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 22：04環保局環境稽查科中區股張志榮先生回報，稽查人員於21：30到達，\r\n稽查時於上址周界巡查未發現有冷氣滴水情事，並已促請該住戶加強注意防範。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 08:29:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:01:49"
   },
   {
     "FileNo_": "INS161012433",
@@ -1174,20 +1191,20 @@
   },
   {
     "FileNo_": "INS161012432",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 08:23:52",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金後路與鼎貴路口，獅湖公園",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該公園涼亭旁樹下有一犬隻疑似生病，都不會動，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 21:15農業局動物保護處陳三元先生回覆：已將該犬隻帶離並送至動物醫院。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 08:26:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:01:02"
   },
   {
     "FileNo_": "INS161012431",
@@ -1208,20 +1225,20 @@
   },
   {
     "FileNo_": "INS161012427",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 08:21:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "球場路42巷7號後門近大華路一側(日安咖啡商行)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家咖啡烘焙濃厚異味致空污，建請查處。(要求稽查員先聯繫，並且回復結果)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 22：04環保局環境稽查科中區股張志榮先生回報，稽查前已有致電陳情人，\r\n其表示目前已無啡烘焙濃厚異味空污情事，稽查人員於21：50到達，稽查時該店家大門深鎖，於周界\r\n巡查未發現有咖啡烘焙濃厚異味空污情事，稽查結束致電陳情人告知處理情形，並告知日後若有上述\r\n空污情事可再行通知環保局派員處理。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 08:25:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:03:28"
   },
   {
     "FileNo_": "INS161012430",
@@ -1412,20 +1429,20 @@
   },
   {
     "FileNo_": "INS161012418",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 08:05:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "神農路與美山路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口雙向號誌燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 21：11 交通局智慧運輸中心謝滿威先生回報，該處號誌燈因線路故障，須報\r\n請廠商維修，無法於期限內完成，現場無立即性危險，故轉派非網A-TB-2016-94117賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 08:06:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:03:58"
   },
   {
     "FileNo_": "INS161012417",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 07:08:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011436",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 07:01:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維一路上，近德安街，國宅前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，有設安全措施，但警示燈過暗，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 07:03:30",
     "Close_Date_": ""
   }
 ]
