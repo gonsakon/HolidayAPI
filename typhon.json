@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161012121",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 10:16:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "捷西路沿線",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線多盞路燈自風災後即故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 10:19:03",
     "Close_Date_": ""
   },
   {
@@ -443,19 +443,19 @@
   },
   {
     "FileNo_": "INS161012096",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/12 上午 09:42:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "大同二路前金國小正門",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "大同二路前金國小正門前的交通號誌\n，每當星期五，學生上學時間都會顯示為閃燈；而不是正常的紅綠燈。是否可以派員調整燈號的時差",
+    "BeforeDesc_": "大同二路前金國小正門前的交通號誌，每當星期五，學生上學時間都會顯示為閃燈；而不是正常的紅綠燈。是否可以派員調整燈號的時差",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 10:19:01",
     "Close_Date_": ""
   },
   {
