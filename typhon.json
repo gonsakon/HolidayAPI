@@ -3537,20 +3537,20 @@
   },
   {
     "FileNo_": "INS161012303",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 04:14:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "博愛二路與神農路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈故障不亮，建請查處。",
     "AfterDesc_": "【主管解除管制】10/12 19:55交通局智慧運輸中心謝滿威先生回覆：已修復。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 04:15:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:40:55"
   },
   {
     "FileNo_": "INS161012302",
