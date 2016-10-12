@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161012232",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 下午 02:15:12",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "榮新街99巷42號",
+    "UnitName_": "工務局",
+    "StatusName_": "待確認",
+    "InformDesc_": "人孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處車道上有兩個不明圓形孔蓋鬆動，車輛經過產生巨大噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 下午 02:19:22",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012231",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 02:13:56",
@@ -1293,14 +1310,14 @@
   },
   {
     "FileNo_": "INS161012158",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/12 上午 11:10:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "大順一路往富國路方向",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處機車待轉區有路面凹陷，造成積水情事，且疑似有病媒蚊蟲孳生，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:31:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011165",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 10:22:52",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路638號(民強郵局前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處前人行道水溝蓋旁溝面破損致坑洞，已放紅色三角椎，建請補竣。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:25:24",
     "Close_Date_": ""
   }
 ]
