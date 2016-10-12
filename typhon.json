@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012106",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 10:00:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "海成三街沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "燕巢區 該道路沿線路燈皆故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012105",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 09:55:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 06:31:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011035",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 06:24:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "頂中街(88快速道路旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一建築工地，目前有人於該處焚燒廢棄物導致空汙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 06:26:27",
     "Close_Date_": ""
   }
 ]
