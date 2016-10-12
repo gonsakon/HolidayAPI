@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161012390",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/12 下午 07:05:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣州一街135號",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "台電 圓形孔蓋鬆動",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161012389",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 07:01:46",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 03:32:20",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161011321",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/11 下午 03:28:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "山頂里山頂路3巷1號",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址三合院前有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/11 下午 03:31:06",
     "Close_Date_": ""
   }
 ]
