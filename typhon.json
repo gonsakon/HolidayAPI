@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012237",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 02:19:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永樂街與文橫二路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012236",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 02:18:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:40:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011167",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 10:23:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞田街，慶昇樓前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該樓前遭置廢棄泥土、垃圾 ，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:31:07",
     "Close_Date_": ""
   }
 ]
