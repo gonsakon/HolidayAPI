@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012093",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 09:38:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園北路443巷2弄",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012092",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 09:37:32",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161012085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 09:34:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "",
+    "address_": "裕誠路245號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前快車道有一污水孔蓋鬆動噪音，建請會同並電覆陳情人。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 09:38:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 12:35:17",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011018",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/11 上午 12:24:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大華里本館路與球場路上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/11 18：02電覆陳情人未果，故於10/11 18：04簡訊回覆：魏先生您好，您10月11日\r\n所反映燃燒異味問題，經本府環保局前往稽查，稽查當時於通報路段及周界巡查，未發現明顯燃燒異味以致空污\r\n之情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 12:27:20",
-    "Close_Date_": "2016/10/11 下午 06:08:19"
   }
 ]
