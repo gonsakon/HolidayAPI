@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012306",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 04:26:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路上(過山隆加油站後往前至路口間區段)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該區段間有三盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012305",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 04:22:06",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161012304",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 下午 04:19:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大德三路105號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該雞蛋批發商將廢水排入騎樓處水溝產生惡臭擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 下午 04:23:35",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 12:21:02",
     "Close_Date_": "2016/10/12 下午 01:50:10"
-  },
-  {
-    "FileNo_": "INS161011238",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 12:19:39",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "金福路與港壽街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處雙向號誌燈為閃燈狀態，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 12:20:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011237",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 12:13:56",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海四路接南星路；鳳鼻頭",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處1.號誌燈歪斜  2.號誌燈沒燈泡，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 12:16:10",
-    "Close_Date_": ""
   }
 ]
