@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012435",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 08:35:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "華德街133號(好彩頭卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012434",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 08:27:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 05:25:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011368",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 05:16:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "蓮潭路與左營下路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一烤肉攤販，目前營業致油煙空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 05:18:17",
     "Close_Date_": ""
   }
 ]
