@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012268",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 03:09:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "褒揚街246號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012267",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 03:03:07",
@@ -1514,14 +1531,14 @@
   },
   {
     "FileNo_": "INS161012178",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/12 下午 12:11:19",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮興路60巷(前鎮河整段)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處水利局維護之路燈全線故障不亮，建請查處。(請聯繫陳情人確認)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 11:05:52",
     "Close_Date_": "2016/10/12 下午 01:08:27"
-  },
-  {
-    "FileNo_": "INS161011200",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 11:00:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "興仁路151巷50弄12號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈白天未熄(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 11:02:00",
-    "Close_Date_": ""
   }
 ]
