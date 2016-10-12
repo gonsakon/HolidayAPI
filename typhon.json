@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013027",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 07:09:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "福德三路之林靖公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "樹木壓損致園燈1263    1281",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013026",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 上午 07:08:26",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161013023",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 07:01:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金山路409巷3號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前遭不明民眾亂吐檳榔渣汁，造成環境髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 上午 07:09:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 07:18:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011440",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 07:13:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "1.明正東巷3之8號、2.明正東巷2之59號、2之60號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映地點一有三盞路燈不亮，地點二2址前各有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 07:16:01",
     "Close_Date_": ""
   }
 ]
