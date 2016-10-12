@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161012344",
+    "FileNo_": "INS161012345",
     "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 05:59:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳南一路，高速公路涵洞，往鳳南路方向",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈有下垂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161012344",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 05:58:34",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "崗山中街203號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址屋後汙水管阻塞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 05:59:40",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 02:17:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011276",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/11 下午 01:55:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中華五路1007巷28之1號 正對面(台鋁商場)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處商場發電機運轉噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/11 16:35 環保局環境稽查科南區股楊立文先生回報，稽查人員於15:35抵達，稽查\r\n當時會同商場機電人員至現場巡查，未發現發電機運轉致噪音情事，仍促請業者注意防範；並於10/12 15：16電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 01:58:22",
-    "Close_Date_": "2016/10/12 下午 03:21:52"
   }
 ]
