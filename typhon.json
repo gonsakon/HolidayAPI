@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012231",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 02:13:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "勝利路龜山擋土牆 (眷村文化館停車場出口左側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "路經高雄市左營區勝利路龜山擋土牆 (眷村文化館停車場出口左側)破裂",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012230",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 02:07:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:27:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011164",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 10:21:21",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "鳳北路與南星路口(南星路上)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路口有一大排水溝內，有一流浪犬隻受困，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:23:53",
     "Close_Date_": ""
   }
 ]
