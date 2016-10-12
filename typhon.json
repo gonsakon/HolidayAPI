@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012479",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 11:33:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟三路上(近中都濕地公園出入口)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道與汽車停車格間有一鳥屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012478",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 11:31:40",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈桿上有纜線垂落，影響出入擔心有危險性，建請查處。",
+    "BeforeDesc_": "渠反映該處路燈桿上有纜線垂落，影響出入擔心有危險性，建請查處。(要求人員先與其聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 06:22:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011412",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 06:18:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路上，往南方向，近九如一路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處一家具行前機車道有破掉的飼料包，與滿地飼料，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 06:20:32",
     "Close_Date_": ""
   }
 ]
