@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012250",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/12 下午 02:42:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "尖山里大埔巷129號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 下午 02:43:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012246",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 02:36:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:41:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011176",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 10:40:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華三路272號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:42:31",
     "Close_Date_": ""
   }
 ]
