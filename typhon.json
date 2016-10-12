@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012172",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 11:58:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "金福路137號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道有一路面凹陷，其表示曾修補過又再次下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012171",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 11:57:01",
@@ -1582,14 +1599,14 @@
   },
   {
     "FileNo_": "INS161012078",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/12 上午 09:24:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "新民路(介於鴨母寮與三爺里)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "介於鴨母寮與三爺里中間路燈皆未亮對行人與腳踏車族用路權及安全性堪憂",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 09:17:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011101",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 09:13:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路二段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段路燈上之綠色光線皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 09:17:05",
     "Close_Date_": ""
   }
 ]
