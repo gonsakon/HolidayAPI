@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012323",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 05:08:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路100號對面(往九如一路方向過青島街，於台電舊宿舍前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一溝蓋旁坑洞，現有放置一石頭做記號，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012322",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 05:07:42",
@@ -8586,20 +8603,20 @@
   },
   {
     "FileNo_": "INS161011352",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 下午 04:34:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正二路與和平一路口(靠大統和平店)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該行人號誌紅燈恆亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 19:14 交通局智慧運輸中心張寬如小姐回報，該處行人號誌紅燈外線\r\n故障，人員已先拆除，需報請廠商修繕，暫無危險性，故改派非網A-TB-2016-93537賡續辦理；並於\r\n10/12 17：09電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 04:35:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 下午 05:09:26"
   },
   {
     "FileNo_": "INS161011351",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 01:06:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011255",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 01:01:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "南台路74巷46號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處轉角有一盞路燈故障不亮三日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 01:04:51",
     "Close_Date_": ""
   }
 ]
