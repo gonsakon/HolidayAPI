@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161012039",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 08:01:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松美路上與高松路口(橋下)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處約有200公尺長的路面小碎石,恐機車滑倒,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 上午 08:04:19",
     "Close_Date_": ""
   },
   {
@@ -681,20 +681,20 @@
   },
   {
     "FileNo_": "INS161011535",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 下午 11:51:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中智街與中林路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫戴奧辛異味，導致空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/12 02：39 環保局 環境稽查科 南區股 潘星宇先生回報，稽查人員於 00：50 \r\n 到達，稽查時於路口周界巡視未發現上述空污情事；本案不需回電 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 11:56:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 08:01:33"
   },
   {
     "FileNo_": "INS161011534",
@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS161011520",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 下午 11:00:37",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎貴路與鼎金後路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻受傷，望請救援，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/11 23:19 農業局 動物保護處 捕犬大隊 蔡正全先生回報，人員於周界巡查皆未\r\n 發現犬隻，詢問附近民眾亦無看見，並表示以後若需救援案件希望陳情人留下聯電以利救援；本案不需回電\r\n 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 11:03:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 07:59:36"
   },
   {
     "FileNo_": "INS161011519",
@@ -1123,20 +1123,20 @@
   },
   {
     "FileNo_": "INS161011509",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 下午 10:07:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "新樂街與中山北路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有車禍碎玻璃，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/11 22:57 溝渠清潔隊 林漢宗先生回報，該處車禍碎玻璃皆已清除完畢；\r\n 本案不需回電 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 10:08:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 08:00:01"
   },
   {
     "FileNo_": "INS161011508",
