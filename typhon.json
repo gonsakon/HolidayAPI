@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012098",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 09:46:25",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "球場路42巷20號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電線桿有傾斜，且有大型帆布吊掛在電線上，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012097",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 09:45:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 01:55:01",
     "Close_Date_": "2016/10/11 下午 06:22:11"
-  },
-  {
-    "FileNo_": "INS161011024",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 01:24:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "蓮潭路上(近天府宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有攤販使用擴音設備播放音樂，音量過大擾鄰，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 01:26:02",
-    "Close_Date_": ""
   }
 ]
