@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161012147",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 10:53:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "1.建國三路與河濱街、2.建國三路296號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該兩處於機車道上路面各有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012145",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 上午 10:53:07",
@@ -748,6 +765,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161012101",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/12 上午 09:50:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "文信路與華榮路(華榮公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該園區內有攤販占用，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 上午 09:53:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012102",
     "Status_": "3",
     "Cre_Date_": "2016/10/12 上午 09:50:21",
@@ -762,23 +796,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 09:58:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012101",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 09:50:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "文信路與華榮路(華榮公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該園區內有攤販占用，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 09:53:07",
     "Close_Date_": ""
   },
   {
@@ -9487,37 +9504,37 @@
   },
   {
     "FileNo_": "INS161011117",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 上午 09:34:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "江埤路上(神農停車場出口)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上遭堆置垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 10:53 鳥松區清潔隊 王顯琛先生回報，此屬停車場管轄，屬交通局權責，故改\r\n派非網A-TB-2016-93209賡續辦理；並於10/12 10：51電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 09:40:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 10:56:28"
   },
   {
     "FileNo_": "INS161011116",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/11 上午 09:33:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美德二街上(介於美勝五街與江埤路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段溝蓋上方遭落葉阻塞，建請查處",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/11 10:53 鳥松區清潔隊 王顯琛先生回報，已清除；並於10/12 10：51電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 09:40:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/12 上午 10:55:04"
   },
   {
     "FileNo_": "INS161011115",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 08:50:39",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011077",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/11 上午 08:47:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "哈爾濱街1巷13號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處一樓正進行施工致機具噪音情事，建請稽查。",
-    "AfterDesc_": "【主管解除管制】本案於10/12 10：45電覆陳情人未果，故於10/12 10：48簡訊回覆：彭小姐您好，您10月11日\r\n所反映機具噪音問題，經本府環保局前往稽查，該處為從事房屋整修工程，稽查當時未作業未發現有使用機具致\r\n噪音情事，仍促請業者注意防範，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 08:51:36",
-    "Close_Date_": "2016/10/12 上午 10:51:50"
   }
 ]
