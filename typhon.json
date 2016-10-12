@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012418",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 08:05:05",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路與美山路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口雙向號誌燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012417",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 08:02:33",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161012397",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/12 下午 07:14:46",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路512之1號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "佔用機車停車格*2紅線違停屢勸不聽每天都這樣停",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 04:35:11",
     "Close_Date_": "2016/10/12 下午 05:09:26"
-  },
-  {
-    "FileNo_": "INS161011351",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 04:32:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華欣路21號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭丟棄許多廢棄物，造成髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 04:35:57",
-    "Close_Date_": ""
   }
 ]
