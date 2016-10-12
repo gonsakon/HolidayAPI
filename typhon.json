@@ -2874,20 +2874,20 @@
   },
   {
     "FileNo_": "INS161012340",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 05:53:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過埤路與鳳頂路口，往溪濱路方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有掉落廚餘，建請查處。(警方已在現場)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 19:07溝渠隊杜金華先生回覆：經與陳情人確認地點無誤，於現場巡查未發現\r\n有明顯廚餘狀況，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 05:54:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:27:09"
   },
   {
     "FileNo_": "INS161012337",
@@ -2959,20 +2959,20 @@
   },
   {
     "FileNo_": "INS161012332",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 05:33:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大公路與新興街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌不連鎖，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 21：11 交通局智慧運輸中心謝滿威先生回報，該處號誌燈已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 05:34:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:27:21"
   },
   {
     "FileNo_": "INS161012331",
