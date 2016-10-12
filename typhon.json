@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161012340",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 05:53:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤路與鳳頂路口，往溪濱路方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有掉落廚餘，建請查處。(警方已在現場)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012338",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 05:51:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 01:53:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011272",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 01:47:59",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "新田路236號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址住戶現無預警停電，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 02:20:25",
     "Close_Date_": ""
   }
 ]
