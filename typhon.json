@@ -3741,20 +3741,20 @@
   },
   {
     "FileNo_": "INS161012289",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 03:57:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路與華安路交叉",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌全閃燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/12 19:55交通局智慧運輸中心謝滿威先生回覆：該處需更換控制器，故將本案改\r\n派非網A-TB-2016-94097賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 03:59:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 07:51:35"
   },
   {
     "FileNo_": "INS161012292",
