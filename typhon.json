@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012083",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 上午 09:31:42",
+    "ReplyUnit_": "F01013",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "三協里大坑巷內往(合作農場方向，往大坑巷7之20號方向)",
+    "UnitName_": "旗山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處前有土石流坍塌，導致無法通行，日前雖有局處前往處理，然土石未確實清除導致10/11下雨後現仍有路面泥濘無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012082",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 上午 09:30:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 12:14:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011012",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 12:11:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁雄路531號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 12:15:28",
     "Close_Date_": ""
   }
 ]
