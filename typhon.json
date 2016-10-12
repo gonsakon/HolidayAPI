@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161013006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/13 上午 12:31:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文學路與重和路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近空氣中有燒塑膠異味空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/13 03:55 環保局王奕翔先生回報：人員於02:10到場，周界巡查未發現明顯異味\r\n空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 12:33:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 06:58:06"
   },
   {
     "FileNo_": "INS161013005",
@@ -307,20 +307,20 @@
   },
   {
     "FileNo_": "INS161013004",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/13 上午 12:21:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳捷路24號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "怠速",
     "BeforeDesc_": "渠反映該處有一輛大貨車怠速(車牌: 227-X6)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/13 01:26 環保局怠速專線章家豪先生回報，稽查人員於00:55到達，現場未\r\n發現上述怠速車輛。",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 12:23:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 上午 06:58:31"
   },
   {
     "FileNo_": "INS161013003",
