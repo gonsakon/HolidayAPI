@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012286",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 03:54:04",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山西路上與裕昌街、中泰街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該兩路口號誌燈未連鎖,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012285",
     "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 03:44:38",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161012283",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/12 下午 03:44:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲一路與凱旋路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處   木箱",
+    "BeforeDesc_": "渠反映該處人行道及停車格遭堆置木箱及垃圾致髒亂，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/12 下午 03:51:04",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 11:30:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011217",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 上午 11:26:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功一路191之1號(仲介前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處人行道日前重新舖設後與水溝蓋旁間有空隙，恐致小孩易生踩空危險，建請填平。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 11:28:30",
     "Close_Date_": ""
   }
 ]
