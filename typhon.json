@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161012246",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/12 下午 02:36:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路102號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反義該處有一盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161012245",
     "Status_": "1",
     "Cre_Date_": "2016/10/12 下午 02:36:11",
@@ -8977,14 +8994,14 @@
   },
   {
     "FileNo_": "INS161011248",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/11 下午 12:28:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖路40號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前慢車道上有一路面坑洞，請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 上午 10:42:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011173",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 上午 10:38:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路光明十巷28之1號牆邊",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 上午 10:41:28",
     "Close_Date_": ""
   }
 ]
