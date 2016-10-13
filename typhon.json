@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161014003",
+    "FileNo_": "INS161014004",
     "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 12:27:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "宜昌街2號至4號之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該兩址後方有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161014003",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 12:26:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "五福一街43號(萬爺音樂酒吧)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者撥放音樂聲過大，建請查處。(要求人員到場告知處理狀況)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 12:28:04",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 05:59:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012343",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 05:55:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "三民巷20號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞舊式路燈故障不亮，建請查處。(請人員到達時先與其聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 05:57:14",
     "Close_Date_": ""
   }
 ]
