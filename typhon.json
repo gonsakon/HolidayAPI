@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014006",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 12:53:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中門路132巷35號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫化學惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014005",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 12:34:29",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS161013454",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 10:25:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路近捷運巨蛋站2號出口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫類似化學異味致空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 06:01:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012345",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 05:59:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳南一路，高速公路涵洞，往鳳南路方向",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有下垂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 06:00:33",
     "Close_Date_": ""
   }
 ]
