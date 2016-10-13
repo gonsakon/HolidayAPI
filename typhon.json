@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161013065",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/13 上午 08:51:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路936號(統一精工加油站)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處加油站業者目前違法處理化學土壤，導致空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/13 上午 08:56:04",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013064",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 08:48:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 08:51:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011479",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 08:49:23",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗南二路126號(溪州國小旁)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處台電電箱稍早發生火花後，便造成周界停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 08:53:38",
     "Close_Date_": ""
   }
 ]
