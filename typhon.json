@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014021",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 06:54:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路往西過鼎山街約30公尺",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處外車道有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014020",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 06:49:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 06:27:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012360",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 06:21:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "康定路150號對面、康定路152號對面、康定路182號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該三處各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 06:24:06",
     "Close_Date_": ""
   }
 ]
