@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013465",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 11:16:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "大同二街57號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013464",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 11:15:08",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映上述兩處地點各有一路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 05:56:57",
     "Close_Date_": "2016/10/13 下午 01:27:59"
-  },
-  {
-    "FileNo_": "INS161012340",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 下午 05:53:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過埤路與鳳頂路口，往溪濱路方向",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有掉落廚餘，建請查處。(警方已在現場)",
-    "AfterDesc_": "【主管解除管制】10/12 19:07溝渠隊杜金華先生回覆：經與陳情人確認地點無誤，於現場巡查未發現\r\n有明顯廚餘狀況，故結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 05:54:12",
-    "Close_Date_": "2016/10/13 上午 07:27:09"
   }
 ]
