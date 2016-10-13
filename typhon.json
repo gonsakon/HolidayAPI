@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161013216",
+    "FileNo_": "INS161013219",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 01:30:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "修文街與中華五路(檳榔攤前方)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有號誌燈線路遭扯斷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013216",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 01:27:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路上，與中安路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口南下方向的左轉號誌燈持亮，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 01:30:01",
     "Close_Date_": ""
   },
   {
@@ -5407,20 +5424,20 @@
   },
   {
     "FileNo_": "INS161012376",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 06:48:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路969巷2弄8號10樓之1",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情事，建請查處。(請人員前往前先行電覆陳情人)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/12  21:22 環保局環境稽查科南區股侯尊仁先生回報，稽查人員於20:35到達，稽查\r\n當時會同陳情人於該址巡查，發現確實有冷氣滴水情事，已於現場留置改善通知單，限期七日內改善完成，屆期\r\n複查，故改派非網A-TB-2016-94119 賡續辦理；並於10/13 13：29電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 06:54:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 下午 01:32:13"
   },
   {
     "FileNo_": "INS161012375",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 09:46:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012093",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 09:38:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園北路443巷2弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有二盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 09:40:00",
     "Close_Date_": ""
   }
 ]
