@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013318",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 05:10:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "河堤路二段(岡山河堤公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處園內步道上多盞園燈部分亮部分不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013317",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 05:03:37",
@@ -9266,14 +9283,14 @@
   },
   {
     "FileNo_": "INS161012244",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/12 下午 02:31:57",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫二路236號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該址前人行道沿線因汙水工程回填不實有多處下陷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:38:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012190",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 12:35:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "濟南里飛機路153號旁(濟南里活動中心旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一路燈水泥桿傾斜至今仍未派員改善，惟疑因雨後土壤鬆軟，導致路燈傾斜加劇，恐不慎倒下傷及在此掃地學童，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:39:43",
     "Close_Date_": ""
   }
 ]
