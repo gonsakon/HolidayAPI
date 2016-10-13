@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013333",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 05:55:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "0911652217",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013332",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 05:47:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 01:34:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012205",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 01:26:22",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路617號(聖森橋旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 01:28:01",
     "Close_Date_": ""
   }
 ]
