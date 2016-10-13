@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013430",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 09:07:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路492巷31號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞LED路燈時亮時滅，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013429",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 09:04:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 04:15:39",
     "Close_Date_": "2016/10/13 上午 07:40:55"
-  },
-  {
-    "FileNo_": "INS161012302",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 04:12:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "捷西路；大寮捷運站",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處風災過後路樹傾倒於1. 人行道；2. 地下道附近尚未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 04:20:10",
-    "Close_Date_": ""
   }
 ]
