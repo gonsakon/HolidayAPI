@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161013045",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 08:21:57",
     "ReplyUnit_": "E01005",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中東街161號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該址前有一台電孔蓋鬆動產生噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 上午 08:30:57",
     "Close_Date_": ""
   },
   {
