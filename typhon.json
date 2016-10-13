@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013350",
+    "FileNo_": "INS161013351",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 06:24:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "1.大昌二路96號對面2.大昌二路77號前3.大昌二路27號左前方約100公尺",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映上述三處地點各有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013350",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 06:23:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "過溪路107巷12號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 06:24:25",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 02:03:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012223",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 02:02:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "舊城巷73號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有一台電副電桿因風災傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 02:07:15",
     "Close_Date_": ""
   }
 ]
