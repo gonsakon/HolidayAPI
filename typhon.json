@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161013187",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 12:27:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗甲路二段402號旁巷子內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 12:32:10",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161013186",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 12:24:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路裕農巷7弄內",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該巷內電桿因先前大車行經勾落電線導致傾斜，經貴單位處理後電桿需重設，但該處方才誘因大車行經勾落電線導致電桿更傾斜亦有危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 12:32:15",
     "Close_Date_": ""
   },
   {
