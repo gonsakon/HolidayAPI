@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013420",
+    "FileNo_": "INS161013421",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 08:43:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓區德民路356巷46弄與加仁路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌未有正常運作，目前為閃燈情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013420",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 08:43:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "左楠路往南，近後昌路",
+    "address_": "左楠路往南，近後昌路(左楠路上)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌燈有紅綠燈同亮情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 08:45:27",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 04:04:33",
     "Close_Date_": "2016/10/13 上午 07:50:47"
-  },
-  {
-    "FileNo_": "INS161012293",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 03:57:53",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "林森一路與文化路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該轉角處有一方型溝蓋周邊塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 04:00:35",
-    "Close_Date_": ""
   }
 ]
