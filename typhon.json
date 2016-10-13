@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013203",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 12:50:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "開封路51號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有炒飯店油煙致空污，(陳情人要求人員到現場後與其聯繫)建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013201",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 12:49:31",
@@ -8994,20 +9011,20 @@
   },
   {
     "FileNo_": "INS161012148",
-    "Status_": "5",
+    "Status_": "3",
     "Cre_Date_": "2016/10/12 上午 10:56:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "武鹿巷1之2號",
     "UnitName_": "環保局",
-    "StatusName_": "解除管制",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前道路上有風災後遺留土石占用到道路上，建請清除。",
     "AfterDesc_": "【主管解除管制】本案於10/12 11:04 旗山區清潔隊向懷祖先生回報，經查該處為風災後土石崩落，需出動大型\r\n機具，清潔隊無力處理，已與陳情人聯絡並進行解說，故轉派工INS161012162；並於1013/12 47：電覆陳情人，\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 10:57:24",
-    "Close_Date_": "2016/10/13 下午 12:52:30"
+    "Close_Date_": ""
   },
   {
     "FileNo_": "INS161012146",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 09:26:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012078",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 09:24:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "新民路(介於鴨母寮與三爺里)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "介於鴨母寮與三爺里中間路燈皆未亮對行人與腳踏車族用路權及安全性堪憂",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 10:10:05",
     "Close_Date_": ""
   }
 ]
