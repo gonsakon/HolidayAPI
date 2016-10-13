@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013286",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 03:56:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "忠孝東路28號左側",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013285",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 03:55:31",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161013269",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 03:17:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山路170巷近中山路",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映路段沿線多處坑洞凹陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:29:11",
     "Close_Date_": "2016/10/12 上午 11:30:46"
-  },
-  {
-    "FileNo_": "INS161012158",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 11:10:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "大順一路往富國路方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處機車待轉區有路面凹陷，造成積水情事，且疑似有病媒蚊蟲孳生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 11:14:56",
-    "Close_Date_": ""
   }
 ]
