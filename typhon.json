@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013382",
+    "FileNo_": "INS161013383",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 07:19:57",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新富路18巷2之1號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013382",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 07:17:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "光武路上(光武國小前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 07:20:13",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 02:56:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012255",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 02:53:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津二路253號；廣濟宮",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路樹恐快傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 02:56:23",
     "Close_Date_": ""
   }
 ]
