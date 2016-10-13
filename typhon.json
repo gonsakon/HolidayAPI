@@ -10,7 +10,7 @@
     "UnitName_": "交通局",
     "StatusName_": "建立中",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌與前、後方不連鎖，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌與前、後方號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -630,20 +630,20 @@
   },
   {
     "FileNo_": "INS161013463",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/13 下午 11:06:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞興街與瑞祥街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有兩個舊衣回收箱疑未合法設置，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/13 23：42 環保局溝渠隊莊斯宇先生回報，表示該舊衣回收箱皆無影響交通，需\r\n由稽查人員前往確認是否為合法設置，故改派非網A-TB-2016-94687賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 11:10:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/14 上午 07:56:01"
   },
   {
     "FileNo_": "INS161013462",
