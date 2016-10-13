@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161013183",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 12:13:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "里林東路58號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013181",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 12:09:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "",
+    "address_": "育樂路上(光華國中籃球場外圍)",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處人行道上遭人丟棄一堆家庭廢棄物散發惡臭，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 08:43:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012057",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 上午 08:36:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路上(中博高架橋下，位於斜坡處)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處一側為停放機車，一側為停放自行車處，遭人棄置一包垃圾包及兩個台鐵紙箱，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/12 10：12 三民西區清潔隊張美珠小姐回報，該處確認係公有停車場屬交通局權\r\n管，故轉非網:A-TB-2016-93735由交通局後續辦理；並於10/13 11：01電覆陳情人，故解除管制；惟陳情人反映\r\n該處有女性流漢問題，故另派非網A-TB-2016-94300追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 08:41:23",
-    "Close_Date_": "2016/10/13 上午 11:14:09"
   }
 ]
