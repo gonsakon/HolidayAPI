@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 10:45:17",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳明街70號旁與鳳崗路17巷1弄",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一豹紋黑色流浪犬，於現場追咬路人，且咬破民眾垃圾包，望請派員捕抓，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013135",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 10:40:22",
@@ -1650,14 +1667,14 @@
   },
   {
     "FileNo_": "INS161013036",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 上午 07:53:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "里林東路與成功北路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障閃燈，請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 04:59:00",
     "Close_Date_": "2016/10/12 上午 10:35:47"
-  },
-  {
-    "FileNo_": "INS161012011",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 12:47:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國三路357號7樓之1",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址樓上有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 12:51:56",
-    "Close_Date_": ""
   }
 ]
