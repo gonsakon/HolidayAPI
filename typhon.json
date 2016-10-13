@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161013444",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 09:46:32",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山路179號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "台電-孔蓋鬆動",
+    "StatusName_": "待確認",
+    "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該址前一電線桿先前因颱風倒塌，已派員前往新設，惟目前該電線桿周邊柏油已凹陷，恐再次倒塌，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 09:51:58",
     "Close_Date_": ""
   },
   {
