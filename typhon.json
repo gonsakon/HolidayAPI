@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161013244",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 02:26:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "文橫二路上與永康街交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處汽車道上有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013243",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 02:26:24",
@@ -1208,14 +1225,14 @@
   },
   {
     "FileNo_": "INS161013171",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 上午 11:35:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路46巷與建武路口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路口道路中央有2至3處路面凹陷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 10:15:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012118",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 10:11:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓路3號；楠梓區第一分行",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該址前方2棵路樹上有垂掛樹枝，擔心恐會掉落危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 10:13:11",
     "Close_Date_": ""
   }
 ]
