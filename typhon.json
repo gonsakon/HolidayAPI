@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013319",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 05:13:20",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "海功路上(建業新村2號對面)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該路段有三處之水溝蓋旁水泥破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013318",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 05:10:15",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161013311",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 下午 04:50:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路欲上國道1號南下方向匝道斜坡處",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處道路中央有一路面坑洞，建請查處。",
     "AfterDesc_": "",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161013305",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 04:39:03",
     "ReplyUnit_": "E01001",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "溪州三路與工業一路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
     "AfterDesc_": "",
@@ -439,7 +456,7 @@
     "AfterDesc_": "【主管解除管制】本案經查為台電人手孔蓋持續滲水，已有相關案件承辦中，另據台電公司表示：\r\n 人手孔蓋滲水情事需移交線路課修繕，故轉派非網：A-TB-2016-94526 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 05:06:01",
-    "Close_Date_": "2016/10/13 下午 05:11:16"
+    "Close_Date_": "2016/10/13 下午 05:11:54"
   },
   {
     "FileNo_": "INS161013292",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:48:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012191",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 12:37:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國二路往東(高雄火車站)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處因鐵路地下化施工搬運泥土，導致揚塵空汙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:38:47",
     "Close_Date_": ""
   }
 ]
