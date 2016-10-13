@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013315",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:56:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路上(介於十全一路至九如二路之間、南下方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該路段快車道之外側車道有多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013314",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:53:08",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS161013307",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:45:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "翠華路全線",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該道路全線多處皆有路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 04:59:25",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:30:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012187",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 12:26:56",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路92之11號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝面破損塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:32:47",
     "Close_Date_": ""
   }
 ]
