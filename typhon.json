@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 06:44:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "桶寮巷12之30號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處傳出燃燒塑膠之異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014018",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 06:37:58",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161014017",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 06:37:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄明街2號至4號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路面有一鳥屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 06:44:08",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 06:21:18",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012358",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 下午 06:18:39",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "新興區復橫一路與林森一路，就愛餡",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "爐台，冰箱，桌子佔用騎樓，影響通行，通風設備設置戶外柱子",
-    "AfterDesc_": "感謝您的反映，此案件於10/12 18：48通報110王警員，且轉呈人民陳情案件A-TB-2016-94071由警察局賡續辦\r\n理，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 06:54:07",
-    "Close_Date_": "2016/10/12 下午 06:57:20"
   }
 ]
