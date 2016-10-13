@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013394",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 07:56:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013392",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 07:51:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 03:06:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012266",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 03:00:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "青海路430號(資源回收廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有怪手施工之機械噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 03:02:00",
     "Close_Date_": ""
   }
 ]
