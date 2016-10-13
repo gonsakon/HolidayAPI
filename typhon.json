@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013460",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 10:54:35",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路上，近后安路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該處路口於快車道上有一台電長方形手孔蓋周邊破損致坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013459",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 10:48:40",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 05:35:30",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012332",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 下午 05:33:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大公路與新興街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請修復。",
-    "AfterDesc_": "【主管解除管制】10/12 21：11 交通局智慧運輸中心謝滿威先生回報，該處號誌燈已修復完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 05:34:23",
-    "Close_Date_": "2016/10/13 上午 07:27:21"
   }
 ]
