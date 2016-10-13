@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013092",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 09:24:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "五福三路124巷中段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一不明市府水泥桿倒塌，現靠在樹上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013091",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 09:21:39",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161013087",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 09:17:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大莊路上(近阿公店溪；往東方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一犬屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 上午 09:24:35",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 09:56:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011504",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/11 下午 09:45:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "瑞豐街與慶豐街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 09:46:32",
     "Close_Date_": ""
   }
 ]
