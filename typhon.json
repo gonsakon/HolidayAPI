@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013238",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 02:19:54",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "龍山街64號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前有一流浪狗躲其車下，惟驅趕不走，疑似生病，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013236",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 02:15:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 10:26:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012111",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 10:06:11",
-    "ReplyUnit_": "F01005",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "大安路往牛寮(大坪頂)",
-    "UnitName_": "田寮區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處路面龜裂破損，經查為6米下道路，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 10:25:58",
     "Close_Date_": ""
   }
 ]
