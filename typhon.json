@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013097",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 09:30:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽東路上(下交流道往岡山方向，停止線前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013096",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 上午 09:28:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 10:14:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011509",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/11 下午 10:07:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "新樂街與中山北路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有車禍碎玻璃，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於 10/11 22:57 溝渠清潔隊 林漢宗先生回報，該處車禍碎玻璃皆已清除完畢；\r\n 本案不需回電 故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 10:08:46",
-    "Close_Date_": "2016/10/12 上午 08:00:01"
   }
 ]
