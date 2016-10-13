@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013406",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 08:21:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "渡船巷56號2盞 路燈  64之4號 路燈未亮",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013405",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 08:16:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 03:33:13",
     "Close_Date_": "2016/10/13 下午 06:37:02"
-  },
-  {
-    "FileNo_": "INS161012278",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 03:28:24",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路77號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該址前有一溝面破損所致路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 03:31:51",
-    "Close_Date_": ""
   }
 ]
