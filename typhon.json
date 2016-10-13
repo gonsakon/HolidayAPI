@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161013273",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 03:23:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "濱海路二段68號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有2至3盞路燈故障不亮，建請查處。 茄萣區(93) .67(遺失) 0989302748 遺失",
+    "BeforeDesc_": "渠反映該址前有2至3盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 03:27:40",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013271",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/13 下午 03:22:44",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武營路與崗山北街路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處雨水孔蓋破裂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/13 下午 03:27:22",
     "Close_Date_": ""
   },
   {
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161013227",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 01:52:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉華路45之52號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前二盞路燈故障，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 10:57:24",
     "Close_Date_": "2016/10/13 下午 12:53:19"
-  },
-  {
-    "FileNo_": "INS161012146",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 10:55:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學二十九路上(介於大學五十六街與大學五十八街間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有路樹傾倒在道路車道上影響通行，而該情況至今仍未處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 10:59:41",
-    "Close_Date_": ""
   }
 ]
