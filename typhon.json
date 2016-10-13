@@ -307,20 +307,20 @@
   },
   {
     "FileNo_": "INS161014017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 上午 06:37:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄明街2號至4號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路面有一鳥屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/14 07:05 三民東區清潔隊趙美佐小姐回報，現場該址巡查皆未發現。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 06:44:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/14 上午 07:55:26"
   },
   {
     "FileNo_": "INS161014016",
@@ -460,20 +460,20 @@
   },
   {
     "FileNo_": "INS161014008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 上午 04:49:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路與大昌一路之金&#37979;咖啡",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家裝修機具噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/14 07:01 環保局公害專線 李政鴻先生回報，稽查人員於06:30到達，稽查\r\n當時該店家已裝修完成，未現場有機具噪音。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 04:53:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/14 上午 07:55:40"
   },
   {
     "FileNo_": "INS161014007",
