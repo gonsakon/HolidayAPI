@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013438",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 09:35:07",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤路56巷與過埤路51巷(八八快速道路下)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-路面填補不實",
+    "BeforeDesc_": "渠反映該處稍早得知屬單位於此施工，惟原有安全措施遭車輛撞損，致有多部機車跌倒，建請恢復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013437",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 09:29:45",
@@ -1531,14 +1548,14 @@
   },
   {
     "FileNo_": "INS161013347",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 下午 06:15:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過仁街46號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻受困於4樓陽台上遮雨棚，望請協助，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 04:40:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012310",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 下午 04:33:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德一路與八德二路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處分隔島上遭張貼3至4張廣告物，建請清除。",
-    "AfterDesc_": "【主管解除管制】10/02 17:34仁武區清潔隊柯晨璋先生回報，該處廣告物已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 04:35:18",
-    "Close_Date_": "2016/10/13 上午 07:39:23"
   }
 ]
