@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013075",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 09:05:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維四路172之7號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前安全島上有一路燈經常故障不亮，建請徹底查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013074",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 09:03:47",
@@ -27,7 +44,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址對面現堆置衣櫥，書桌等廢家具以數天，建請查處。",
+    "BeforeDesc_": "渠反映該址對面現堆置衣櫥，書桌等廢家具已數天，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:05:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 09:06:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011484",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/11 下午 08:52:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "1.光明路107號旁 2.光明路161巷旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該兩處各一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 09:06:22",
     "Close_Date_": ""
   }
 ]
