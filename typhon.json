@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013345",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 06:14:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "東亞路8號至16號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013344",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 06:13:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 01:51:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012217",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 01:46:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "褒忠街與覺民路288巷口(涵洞前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞似宮燈造型之路燈，其上方圓盤掀起損壞恐掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 01:48:39",
     "Close_Date_": ""
   }
 ]
