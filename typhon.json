@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013200",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 12:45:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "小港區沿海三路與上林街街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前傳出濃厚化學異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013199",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 12:40:18",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161013195",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 12:39:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "新民路170巷11號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址住戶放任犬隻於該址前方道路便溺未清，已造成環境髒亂，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 12:48:35",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 09:18:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012075",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 09:15:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路102號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址有一路面大坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 09:16:17",
     "Close_Date_": ""
   }
 ]
