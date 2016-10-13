@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161013183",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 12:13:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "里林東路58號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 12:15:31",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 12:17:27",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013182",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/13 下午 12:08:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大安公園(近大安街處)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處籃球場有碎裂及凹洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/13 下午 12:15:32",
     "Close_Date_": ""
   },
   {
@@ -2228,14 +2245,14 @@
   },
   {
     "FileNo_": "INS161013051",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 上午 08:24:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路370巷",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處景觀燈(第一盞及S5-02、S5-06)共三盞故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 08:46:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012058",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 08:38:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "通校路302號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一路燈(燈編號:002881)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 08:43:32",
     "Close_Date_": ""
   }
 ]
