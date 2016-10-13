@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013161",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 11:21:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠路115號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道上有堆置之前颱風過後遺留的樹枝以及樹葉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013160",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 上午 11:18:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 07:55:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012036",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 07:51:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與水管路(往鳳山及大樹方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處高鐵橋下沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 07:54:15",
     "Close_Date_": ""
   }
 ]
