@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161013189",
+    "FileNo_": "INS161013190",
     "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 12:33:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "北汕路218巷18號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161013189",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 12:31:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路上，近復興三路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處雙向快車道，約有三、四處路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 12:33:53",
     "Close_Date_": ""
   },
   {
@@ -6359,20 +6376,20 @@
   },
   {
     "FileNo_": "INS161012291",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/12 下午 03:55:40",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路237巷26號與28號之間",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻腳遭捕鼠夾住，無法自行掙脫，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/12 17：21 農業局動物保護處陳三元先生回報，流浪犬已獲救送醫；並於\r\n10/13 12：32電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 03:58:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/13 下午 12:32:59"
   },
   {
     "FileNo_": "INS161012290",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 09:05:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012065",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 09:02:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "環湖路443之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 09:03:31",
     "Close_Date_": ""
   }
 ]
