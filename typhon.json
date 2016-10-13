@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013307",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:45:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "翠華路全線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該道路全線多處皆有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013306",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:40:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:23:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012179",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 12:13:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學十七街與大學二街口(樹木銀行公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處園內目前有民眾搭帳篷準備辦流水席，此行為極為不妥，若未經申請望可驅離，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:15:39",
     "Close_Date_": ""
   }
 ]
