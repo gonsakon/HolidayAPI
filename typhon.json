@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013302",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:34:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠華路全線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該道路全線多處皆有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013300",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:32:08",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161013301",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:31:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路三段與環湖路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處人行道集中之傾倒路樹未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 04:32:44",
     "Close_Date_": ""
   },
   {
@@ -3231,14 +3248,14 @@
   },
   {
     "FileNo_": "INS161013108",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 上午 09:49:23",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "盛昌里北昌街95號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址前汙水蓋遺失，現無蓋會有噪音，且恐小孩腳會踩進去，建請查處。(可與管理室人員洽詢)",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:03:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012174",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 12:00:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "明華一路99號(三龍帝國管理室前)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有兩塊木板，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:03:34",
     "Close_Date_": ""
   }
 ]
