@@ -17,23 +17,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161013278",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/13 下午 03:40:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功一路283號",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處有進行人行道工程，其中有切割一塊至今未補回，導致民眾跌倒與遭人丟棄垃圾、菸蒂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161013277",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 03:40:49",
@@ -630,14 +613,14 @@
   },
   {
     "FileNo_": "INS161013243",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 02:26:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "三隆里",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該里內有多處路燈故障不亮通報予養工處從颱風至今未修復，建請會同查處。",
     "AfterDesc_": "",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:07:07",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161012153",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/12 上午 11:03:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路685號前",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處有多塊人行道磚有破損情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/12 上午 11:04:52",
     "Close_Date_": ""
   }
 ]
