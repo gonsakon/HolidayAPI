@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013091",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 上午 09:21:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維四路與仁德街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處汽車道有一坑洞，前已補過又破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013090",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 上午 09:20:06",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/11 下午 09:46:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161011503",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/11 下午 09:44:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路二段108號前方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處地點前分隔島有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/11 22:15 茄萣區清潔隊吳竹耀先生回報，該處已清除完畢；並於10/12 16：05電覆\r\n陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/11 下午 09:50:08",
-    "Close_Date_": "2016/10/12 下午 04:08:44"
   }
 ]
