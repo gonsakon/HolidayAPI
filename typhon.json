@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013291",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:07:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "樂群路上與智群路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈(紅燈)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013290",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 04:06:20",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161013253",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 02:54:27",
     "ReplyUnit_": "A01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路上與文武二街交叉(機車道與汽車道分隔島；西往東方向)",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一不明電箱箱門蓋不起來，造成線路外露，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:30:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012163",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 11:23:52",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路與民生一路口(西向)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路面有雨水箱涵工程致有一凹陷坑洞，且多次通報未改善，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 11:28:07",
     "Close_Date_": ""
   }
 ]
