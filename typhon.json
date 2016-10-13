@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013247",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 02:38:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "玉庫里1之26號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:嘉峰高幹47/左5)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013246",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 02:29:27",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161013224",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/13 下午 01:47:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "文武一街與榮安街口東側10公尺",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有垃圾髒亂，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 10:26:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012121",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 10:16:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "捷西路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線多盞路燈自風災後即故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 10:19:03",
     "Close_Date_": ""
   }
 ]
