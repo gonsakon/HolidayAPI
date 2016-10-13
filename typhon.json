@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013292",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:09:54",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "民生二路上與文武二街交叉(機車道與汽車道分隔島；西往東方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈控制箱箱門蓋不起來，造成線路外露，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013291",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:07:55",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161013253",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 下午 02:54:27",
     "ReplyUnit_": "A01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路上與文武二街交叉(機車道與汽車道分隔島；西往東方向)",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一不明電箱箱門蓋不起來，造成線路外露，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:34:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012164",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 上午 11:30:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "觀音山風景區步道上涼亭旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處風景區步道上有一涼亭旁，有2盞燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 11:30:58",
     "Close_Date_": ""
   }
 ]
