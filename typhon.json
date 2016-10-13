@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013289",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:03:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮總路與榮佑路口(福山里活動中心旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處有一樹根部分鋸斷後放置至今3、4個月未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013288",
     "Status_": "1",
     "Cre_Date_": "2016/10/13 下午 04:02:13",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161013269",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/13 下午 03:17:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山路170巷近中山路",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映路段沿線多處坑洞凹陷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:18:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012161",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 上午 11:13:32",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路，前鎮河新生橋西側人行道橋",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該人行道橋玻璃脫落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 11:17:31",
     "Close_Date_": ""
   }
 ]
