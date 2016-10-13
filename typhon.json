@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014026",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 07:18:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲樹路與甲昌路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014025",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 07:13:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 06:36:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012365",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 06:35:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "安正路22之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址後方一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 06:36:29",
     "Close_Date_": ""
   }
 ]
