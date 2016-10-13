@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013370",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 06:48:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "後紅路37巷8弄27號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處住戶撿拾大量回收物堆積致嚴重髒亂惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013369",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 06:45:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 02:33:49",
     "Close_Date_": "2016/10/13 上午 11:47:38"
-  },
-  {
-    "FileNo_": "INS161012242",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 02:29:46",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "青海路266號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處前人行道上，有兩個圓形小型人孔蓋遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 02:32:30",
-    "Close_Date_": ""
   }
 ]
