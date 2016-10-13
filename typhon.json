@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161013303",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 04:34:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "南北路與芋寮路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處路口共有4盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013300",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:32:08",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161013299",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 04:27:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "新厝路(往光明路一段方向)下坡路段",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處",
+    "BeforeDesc_": "渠反映該處有一台電工程將廢水均排至路面造成濕滑髒亂，建請查楚。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 04:33:51",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 12:08:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012175",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 12:01:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營下路153之3號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 12:03:03",
     "Close_Date_": ""
   }
 ]
