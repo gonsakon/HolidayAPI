@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161013287",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/13 下午 03:59:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路175號對面(幸福川)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮已久，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161013286",
     "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 03:56:09",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161013285",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/13 下午 03:55:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "建基路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處沿線有路面坑洞，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/13 下午 03:59:47",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 上午 11:14:25",
     "Close_Date_": "2016/10/13 下午 12:59:21"
-  },
-  {
-    "FileNo_": "INS161012159",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/12 上午 11:10:47",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自由路vs 十全路口",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "交通疏導",
-    "BeforeDesc_": "機車大違停 汽車大塞車",
-    "AfterDesc_": "感謝您的反映，此案件已於10/12 11：25通報110劉警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 上午 11:29:11",
-    "Close_Date_": "2016/10/12 上午 11:30:46"
   }
 ]
