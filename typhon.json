@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014191",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 11:59:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔北巷7號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處為鳳梨田，有民眾大量灑藥於地面上，產生惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014190",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 上午 11:58:22",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161014189",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 11:58:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁心路與澄觀路一段387號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 11:59:06",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 08:47:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013051",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 08:24:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路370巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處景觀燈(第一盞及S5-02、S5-06)共三盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 08:25:08",
     "Close_Date_": ""
   }
 ]
