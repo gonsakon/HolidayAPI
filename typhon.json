@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014217",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 01:03:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠峰路12號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處水溝阻塞汙水滿溢，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014216",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 01:02:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:09:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013076",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 09:07:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中博高架橋中段",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該陸橋南向中間段有安全帽在橋邊，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 09:10:18",
     "Close_Date_": ""
   }
 ]
