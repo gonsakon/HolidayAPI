@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014307",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 05:43:51",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "復興西路上允統財公司轉角處(典昌路轉進復興西路往東)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電桿傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014306",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 下午 05:41:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 11:31:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013166",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 11:27:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路跟大德二路路口(近7-11)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈遭日前颱風吹歪，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 11:28:12",
     "Close_Date_": ""
   }
 ]
