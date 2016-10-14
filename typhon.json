@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161014337",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 06:31:40",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "明聖街4號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一水溝蓋破損，已致路人受傷，建請查處。",
+    "BeforeDesc_": "渠反映該址前有一水溝蓋腐化破損，已致路人受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 06:33:25",
     "Close_Date_": ""
   },
   {
