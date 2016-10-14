@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161014287",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 04:47:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "林森一路(國小側門)",
+    "address_": "林森一路(新興國小側門)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌因國小上下學需要不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 04:49:36",
     "Close_Date_": ""
   },
   {
