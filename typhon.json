@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014344",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 06:48:00",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "北端街(介於河川街至河西一路之間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該兩路口號誌燈皆不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014343",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 下午 06:45:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 12:57:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013203",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 12:50:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "開封路51號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有炒飯店油煙致空污，(陳情人要求人員到現場後與其聯繫)建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 12:53:10",
     "Close_Date_": ""
   }
 ]
