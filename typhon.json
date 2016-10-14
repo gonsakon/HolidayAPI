@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161014290",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 04:52:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路與自由二路口(近眼鏡行)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一紅燈倒數秒裝置傾斜45度，建請查處。",
+    "BeforeDesc_": "渠反映該處有一紅燈倒數裝置有傾斜45度情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 04:53:50",
     "Close_Date_": ""
   },
   {
