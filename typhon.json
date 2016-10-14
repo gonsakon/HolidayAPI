@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161014299",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 05:22:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正義路321號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道與機車道之間有一路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 05:24:06",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 05:22:45",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161014297",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/14 下午 05:18:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁愛路161號前(仁美派出所後方)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一工地施工現路面泥濘、泥沙髒亂不堪均未清除，機車行經恐會摔倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/14 下午 05:24:09",
     "Close_Date_": ""
   },
   {
@@ -2126,14 +2143,14 @@
   },
   {
     "FileNo_": "INS161014172",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/14 上午 11:26:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "復興一路162號和164號之間",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路面有多處坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 11:19:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013158",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 11:16:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "中興路(燕巢區公所旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 11:17:46",
     "Close_Date_": ""
   }
 ]
