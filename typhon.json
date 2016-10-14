@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161015018",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 上午 01:10:15",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "自強三路新田路口",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "轉角紅線停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已通報警察局110林員警辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 03:24:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 上午 03:25:12"
   },
   {
     "FileNo_": "INS161015017",
