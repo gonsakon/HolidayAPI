@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014070",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 09:07:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "林泉街35號與廣東一街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處目前有兩大包垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014068",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 上午 09:03:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 07:52:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012408",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 07:47:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "溪埔里",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該里內路燈有時不亮，有時會很晚才放亮，望請單位查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 07:48:38",
     "Close_Date_": ""
   }
 ]
