@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014296",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 05:15:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德二路166號前；駐龍公司",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處樹傾倒移除後，人行道上落葉、樹枝未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014295",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 05:11:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 11:17:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013155",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 11:15:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "吉頂街與吉東街",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈與紅燈不亮情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 11:16:29",
     "Close_Date_": ""
   }
 ]
