@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015004",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 12:24:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "蓮潭路上(近天府宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處萬世季攤販使用擴音器叫賣，造成噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015003",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 12:09:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 05:14:43",
     "Close_Date_": "2016/10/14 下午 02:29:00"
-  },
-  {
-    "FileNo_": "INS161013317",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 05:03:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳翔新村12之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前1盞路燈因照射角度歪斜，致光線直接照入住家內，影響睡眠品質，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 05:05:14",
-    "Close_Date_": ""
   }
 ]
