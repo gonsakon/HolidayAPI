@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015021",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 03:31:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新光碼頭",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處公園噴水池未將池水排放乾淨，目前有積水溢滿情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015020",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 02:31:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 05:59:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013334",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 05:56:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中正路一段87巷42弄22號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前路燈修復後光線過暗，致民眾夜間通行時發生擦撞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 05:58:47",
     "Close_Date_": ""
   }
 ]
