@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161014161",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/14 上午 11:03:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中山路二段679號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈(編號：88右4)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/14 上午 11:10:02",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014155",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 11:03:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 07:09:28",
     "Close_Date_": "2016/10/14 上午 09:50:17"
-  },
-  {
-    "FileNo_": "INS161013022",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/13 上午 06:48:34",
-    "ReplyUnit_": "F01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "福德路109號",
-    "UnitName_": "茄萣區公所",
-    "StatusName_": "待確認",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處有坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 07:00:51",
-    "Close_Date_": ""
   }
 ]
