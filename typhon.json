@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014212",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/14 下午 12:54:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "協榮路、介壽西路與頂潭北路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該路段有多盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/14 下午 12:55:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014210",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 12:44:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:05:21",
     "Close_Date_": "2016/10/14 上午 09:57:47"
-  },
-  {
-    "FileNo_": "INS161013070",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 上午 09:03:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大竹路上過觀音禪寺，離長春路約50公尺處",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈已噴上紅漆數字0故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 09:16:06",
-    "Close_Date_": ""
   }
 ]
