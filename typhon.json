@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014427",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 09:48:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞北路94巷16號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有有電電視公司施工噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014426",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 09:47:38",
@@ -1174,14 +1191,14 @@
   },
   {
     "FileNo_": "INS161014355",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/14 下午 07:09:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營下路21號前(歷史步道上)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處有一道路修補工程，惟警示燈未有運作，稍早已有發生兩起車禍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 04:06:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013287",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 03:59:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北二路175號對面(幸福川)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮已久，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 04:00:27",
     "Close_Date_": ""
   }
 ]
