@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015030",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 07:15:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路569號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015029",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 上午 07:14:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 06:15:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013343",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 06:13:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "樂善街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 06:15:28",
     "Close_Date_": ""
   }
 ]
