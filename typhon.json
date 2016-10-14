@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161014285",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 04:41:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大社路383號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 04:43:09",
     "Close_Date_": ""
   },
   {
@@ -6036,20 +6036,20 @@
   },
   {
     "FileNo_": "INS161013392",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/13 下午 07:51:16",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路近成功橋",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一黑色犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/13 21:34 農業局 動保處 陳三元先生回報，已協助救援並將其送往合作之動物醫院\r\n診療；並於10/14 16：42電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 07:54:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/14 下午 04:43:28"
   },
   {
     "FileNo_": "INS161013391",
