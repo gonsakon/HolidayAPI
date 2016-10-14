@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014229",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 01:47:39",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "一德路上與修文街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014226",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 下午 01:44:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:22:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013088",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 09:18:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路與皓東路口至大昌二路420巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映此兩路口號誌未連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 09:20:01",
     "Close_Date_": ""
   }
 ]
