@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161014091",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 09:33:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路與重信路口(高鐵正前方)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處行人號誌燈倒數秒數顯示器裝設顛倒，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 09:34:47",
     "Close_Date_": ""
   },
   {
@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161014085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 09:24:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "自由二路6巷上(河堤旁路段，與至聖路1號、明誠路二段)",
+    "address_": "自由二路6巷上(河堤旁路段，與至聖路1號、明誠二路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段與兩條路交界處，各有廢棄家具堆積，建請清除。",
+    "BeforeDesc_": "渠反映該路段分別於靠近兩條路的區域，各有廢棄家具堆積，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 09:34:28",
     "Close_Date_": ""
   },
   {
