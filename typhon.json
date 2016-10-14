@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014265",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 03:52:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大昌路342號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014264",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 下午 03:51:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 10:21:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013121",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 10:12:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34之10號(廢鐵回收廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址工廠目前施工機具聲音過大，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 10:20:43",
     "Close_Date_": ""
   }
 ]
