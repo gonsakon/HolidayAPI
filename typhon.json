@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 10:30:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "建楠路66號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有大型路樹斷枝垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014135",
     "Status_": "1",
     "Cre_Date_": "2016/10/14 上午 10:29:29",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161014134",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 10:28:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "七賢三路272號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處前路樹傾倒已鋸除剩下樹幹，且人行磚翻起，請協助移除與修補，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 10:30:46",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 11:27:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012475",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 11:21:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "鳳北路191巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 11:23:01",
     "Close_Date_": ""
   }
 ]
