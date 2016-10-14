@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015010",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 12:50:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金山路204巷內",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處巷道內有3盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015009",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 12:35:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 05:27:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013323",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 05:26:01",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武營路651號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處快車道上有一台電孔蓋，有鬆動聲響，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 05:28:53",
     "Close_Date_": ""
   }
 ]
