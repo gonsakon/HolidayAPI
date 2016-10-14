@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161014229",
+    "FileNo_": "INS161014230",
     "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 01:48:04",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "大平路100之1號前(鴻海景觀餐廳旁)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一溝蓋遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161014229",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 01:47:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一德路上與修文街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 01:48:29",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:25:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013089",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 上午 09:19:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功北路與鐵道北路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障，因為大型路口，請盡速搶修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 09:22:00",
     "Close_Date_": ""
   }
 ]
