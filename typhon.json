@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014137",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 10:34:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "鳳澄路7之21號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電線掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014136",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 10:30:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 11:28:10",
     "Close_Date_": "2016/10/13 上午 06:59:24"
-  },
-  {
-    "FileNo_": "INS161012476",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 11:24:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎和街40號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該址前有一台電孔蓋旁柏油破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 11:27:44",
-    "Close_Date_": ""
   }
 ]
