@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014294",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 04:59:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路上(中華四路至成功一路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處進行人行道工程一側，沿線路燈多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014293",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 04:54:16",
@@ -1344,14 +1361,14 @@
   },
   {
     "FileNo_": "INS161014213",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/14 下午 12:56:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "新光路與中華五路(星光園道)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映園內人行道上有鳥類排泄物甚多，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 11:18:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013153",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 上午 11:09:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文館路與文南街口(公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該園內於長照中心招牌旁，有一盞園燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 11:11:13",
     "Close_Date_": ""
   }
 ]
