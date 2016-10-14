@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014221",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 下午 01:33:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "八德一路近民族路口(拖吊場外)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處雙側多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014220",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 01:19:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 上午 09:14:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013080",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 上午 09:11:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路上捷運凹子底站4號出口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一側之照明燈皆不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 上午 09:13:12",
     "Close_Date_": ""
   }
 ]
