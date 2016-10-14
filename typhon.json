@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161014064",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/14 上午 08:58:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由四路184巷72號4樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有一機械低頻噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014063",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 08:52:40",
@@ -188,19 +205,19 @@
   },
   {
     "FileNo_": "INS161014052",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 08:28:55",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "前鎮區凱旋三路305號對向車道",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "前鎮區凱旋三路305號對向車道有一貨車紅線違規停車，該貨車為同一路段319號貨車租賃行所有，此為縮減車道，該車行屢屢違規停車，煩請取締以維護用路人安全。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 上午 09:02:35",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 07:29:29",
     "Close_Date_": "2016/10/13 上午 07:10:30"
-  },
-  {
-    "FileNo_": "INS161012403",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/12 下午 07:19:59",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新衙路158號對面(龍鳳公園)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處一台電電線桿傾斜，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 07:27:27",
-    "Close_Date_": ""
   }
 ]
