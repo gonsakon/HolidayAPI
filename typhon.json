@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161014383",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/14 下午 08:38:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "翠亨南路(介於金福路至漁港路間)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有許多樹枝、樹葉與垃圾包致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/14 下午 08:46:47",
     "Close_Date_": ""
   },
   {
@@ -132,7 +132,7 @@
     "BeforeDesc_": "渠反映該處外線汽車道有玻璃碎片，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 08:29:22",
+    "Save_Date_": "2016/10/14 下午 08:46:31",
     "Close_Date_": ""
   },
   {
