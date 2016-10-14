@@ -255,6 +255,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161014108",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/14 上午 09:58:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建武路51號(國香濃厚青草茶前)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處汽車道有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/14 上午 10:08:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161014107",
     "Status_": "2",
     "Cre_Date_": "2016/10/14 上午 09:58:22",
@@ -1735,14 +1752,14 @@
   },
   {
     "FileNo_": "INS161014018",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/14 上午 06:37:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正道公園",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處公園內有攤販佔據營業，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/12 下午 09:47:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161012461",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/12 下午 09:44:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐二路648號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/12 下午 09:47:00",
     "Close_Date_": ""
   }
 ]
