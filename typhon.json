@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161015307",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 09:42:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中門里下厝路89巷19號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處重電線桿上掉落一條電線至該址前，建請查處。",
+    "BeforeDesc_": "渠反映該處從電線桿上掉落一條電線至該址前，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 09:48:17",
     "Close_Date_": ""
   },
   {
