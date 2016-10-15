@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015124",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 11:23:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "林森路121巷38號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷道內有一小貓屍已用紙箱盛裝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015123",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 11:20:50",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 11:22:40",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015122",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 上午 11:19:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路(大遠百)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該百貨舉辦活動使用擴音器撥放音樂聲音過大致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 上午 11:23:22",
     "Close_Date_": ""
   },
   {
@@ -8399,20 +8433,20 @@
   },
   {
     "FileNo_": "INS161014075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 上午 09:14:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大慶街21號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處民宅施工，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 11：19電覆陳情人未果，故於10/15 11：21簡訊回覆：郭先生您好，您10月14日\r\n所反映機具噪音問題，經本府環保局前往稽查，稽查當時於現場未發現機具作業致噪音情事，感謝您的熱心通\r\n報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 09:16:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 上午 11:23:12"
   },
   {
     "FileNo_": "INS161014074",
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 09:30:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013436",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 09:29:10",
-    "ReplyUnit_": "B04000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內東里柿子園8號",
-    "UnitName_": "民政局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(二)",
-    "BeforeDesc_": "渠反映該處有一橋樑破損坑洞，造成水會流入橋樑內，恐造成橋樑耗損加快，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 09:32:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013435",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 09:26:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "林森一路與南華橫二路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍產生油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 09:30:48",
     "Close_Date_": ""
   }
 ]
