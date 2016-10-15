@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015165",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 02:32:11",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015164",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 02:19:13",
@@ -4472,37 +4489,37 @@
   },
   {
     "FileNo_": "INS161014350",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 下午 07:01:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "三和路往義守大學方向(義大遊樂園前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有大片路面油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/14 21:22 大樹區清潔隊黃嘉宏先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 07:03:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 02:29:42"
   },
   {
     "FileNo_": "INS161014349",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 下午 07:00:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "小港國小對面(中正體育場內)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻遭足球網纏繞受困，建請救援。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/14 19:41 通報農業局動物保護處陳威智先生成功，因該犬隻已離開現場，請動保處不\r\n需前往現場；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 07:02:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 02:29:19"
   },
   {
     "FileNo_": "INS161014348",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 05:33:43",
     "Close_Date_": "2016/10/15 下午 12:33:39"
-  },
-  {
-    "FileNo_": "INS161014011",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 05:29:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "高鳳一路往北與頂庄路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處安全島1路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 05:31:13",
-    "Close_Date_": ""
   }
 ]
