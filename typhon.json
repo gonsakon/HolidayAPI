@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161015078",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 09:41:03",
     "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合路上(靠近尚義街)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有施工未使用防塵網與灑水，致揚塵空污情事。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 09:44:39",
     "Close_Date_": ""
   },
   {
