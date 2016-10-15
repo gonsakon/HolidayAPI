@@ -5322,20 +5322,20 @@
   },
   {
     "FileNo_": "INS161014300",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 下午 05:28:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "本洲路上與本工西路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌與前後路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/14 21:11 交通局智慧運輸中心蔡淑君小姐回報，該處已修復；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 05:29:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 02:23:56"
   },
   {
     "FileNo_": "INS161014299",
