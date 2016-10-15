@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015250",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 下午 06:45:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "同慶路88號旁(近公園一側)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 下午 06:48:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015249",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 06:43:56",
@@ -970,14 +987,14 @@
   },
   {
     "FileNo_": "INS161015192",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/15 下午 03:53:00",
     "ReplyUnit_": "A01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "濱海一路88巷口",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一不明管線開挖單位回填寬七、八十公分、長度約六、七公尺長，惟現場留有四個安全錐，該巷道極為狹窄造成僅剩一車道行駛，已影響交通，望局處清除，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 09:50:36",
     "Close_Date_": "2016/10/15 下午 01:06:30"
-  },
-  {
-    "FileNo_": "INS161014097",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 09:42:49",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路123號(7-11前，靠近斑馬線)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面圓形孔蓋邊路面凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 09:45:08",
-    "Close_Date_": ""
   }
 ]
