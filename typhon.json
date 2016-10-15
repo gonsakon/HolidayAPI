@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016005",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 01:16:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新衙路上(龍鳳公園旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016004",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 12:38:19",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161015337",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/15 下午 11:42:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "文武三街與苓雅二路70巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處位於路牌下遭人棄置廢棄沙發及彈簧床，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 12:04:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014191",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 上午 11:59:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔北巷7號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處為鳳梨田，有民眾大量灑藥於地面上，產生惡臭異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 14：03 環保局公害專線郭進堯先生回報，稽查人員於13：00到達，稽查當時於7\r\n號鳳梨田附近巡查未發現藥劑異味情事；並於10/15 12：36電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 12:01:56",
-    "Close_Date_": "2016/10/15 下午 12:37:05"
   }
 ]
