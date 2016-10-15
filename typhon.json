@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161015203",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 04:25:33",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "熱河一街96之1號、2號",
+    "address_": "熱河一街96之1號、之2號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該二路污水管阻塞，望局處派員沿線檢查，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 04:28:02",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161015201",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 04:22:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路820號對面(封龍汽車修護廠)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處修護廠目前燃燒不明物飄散惡臭異味且散落許多灰燼，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 04:31:43",
     "Close_Date_": ""
   },
   {
@@ -1633,20 +1633,20 @@
   },
   {
     "FileNo_": "INS161015106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 上午 10:50:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "立大路377號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處大樓興建施工未用防塵網，周界揚塵嚴重致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 14:00 環保局公害專線中區股陳彥州先生回報，稽查人員於13:50到達，現場僅\r\n有立大路377巷,立大路379號為修車場,現場並無新建大樓工程，故未發現揚塵情事；並於10/15 16：11電覆陳情\r\n人，故解除管制；惟與陳情人確認正確位置：立大路337號旁(京城建設)，且告知該處長期揚塵，故另派非網A-\r\nTB-2016-95529追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 10:54:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 04:28:09"
   },
   {
     "FileNo_": "INS161015105",
