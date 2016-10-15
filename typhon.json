@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016008",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 03:23:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "山東街與熱河一街交叉",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍事故導致大面積路面油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016007",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 03:15:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 12:10:36",
     "Close_Date_": "2016/10/15 下午 01:44:25"
-  },
-  {
-    "FileNo_": "INS161014194",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 12:00:23",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過埤路56巷與過埤路",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有一不明施工，造成道路有坑洞且無設置警示標誌，望可查明是何單位施工。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 12:12:35",
-    "Close_Date_": ""
   }
 ]
