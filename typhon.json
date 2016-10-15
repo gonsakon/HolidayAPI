@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161015059",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 09:06:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路上(近小港機港國際線前面)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路段沿線有許多釘子，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 09:10:31",
     "Close_Date_": ""
   },
   {
@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161015050",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 上午 08:43:10",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "前鎮區凱旋三路297號對面車道",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "前鎮區凱旋三路297號對向車道，有一貨車佔用機車停車位，煩請撥冗取締。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於10/15 09：07通報110陳警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 09:11:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 上午 09:12:42"
   },
   {
     "FileNo_": "INS161015044",
