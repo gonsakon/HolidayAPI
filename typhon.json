@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015062",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 09:08:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松達街與松義街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "一故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015059",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 上午 09:06:45",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161015058",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 09:06:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文勇街23號8樓(伊甸園)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處冷氣滴水，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 09:10:17",
     "Close_Date_": ""
   },
   {
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS161015029",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/15 上午 07:14:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "1.宏平路140號前、2.宏文路與宏平路交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處地點各一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 06:58:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013372",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 06:53:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正一路與三多一路  中正狗狗運動公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "中正一路與三多一路交叉處的三角的中正狗狗運動公園 靠近內圈的圍欄倒了，一直沒修，請儘速派員修理，感謝",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 07:38:20",
     "Close_Date_": ""
   }
 ]
