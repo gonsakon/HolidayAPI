@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015052",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 08:48:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "忠誠路與瑞春路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前有民眾燃放鞭炮，造成噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015050",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 上午 08:43:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 06:37:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013364",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 06:36:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "忠孝一路340巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷內路燈都故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 06:36:47",
     "Close_Date_": ""
   }
 ]
