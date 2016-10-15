@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161015164",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 02:19:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "芋寮路101號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處農地住戶在燃燒塑膠廢棄物，導致異味飄散，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 02:20:12",
     "Close_Date_": ""
   },
   {
@@ -5492,20 +5492,20 @@
   },
   {
     "FileNo_": "INS161014290",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 下午 04:52:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路與自由二路口(近眼鏡行)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一紅燈倒數裝置有傾斜45度情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/14 17:58 交通局智慧運輸中心蔡淑君小姐回報，該處已修復；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 04:53:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 02:20:31"
   },
   {
     "FileNo_": "INS161014289",
@@ -5526,20 +5526,20 @@
   },
   {
     "FileNo_": "INS161014288",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 下午 04:48:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "847",
     "ZipName_": "甲仙區",
     "address_": "中正路(介於中山路與文化路間)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面有多處坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/14 17:16 養工處旗美養護工程隊洪冠馨小姐回報，該處是省道，已於10/14 17：13通\r\n報甲仙工務段6751014邦小姐成功，故另已非本府案件反映；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 04:50:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 02:19:06"
   },
   {
     "FileNo_": "INS161014287",
