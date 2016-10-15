@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161015303",
+    "FileNo_": "INS161015304",
     "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 09:28:51",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "民生二路與自立二路口，由東往西方向",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一排溝改善工程，惟現場警示燈光線不足且三角錐上反光條剝落，造成車輛行駛上不易辨識，建請改善。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015303",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 09:27:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "1.翠亨南路與漢威街180巷 2.翠亨南路與平和東路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該2址各有2盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 09:28:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:55:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014150",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 10:51:57",
-    "ReplyUnit_": "F01023",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內門木柵44號教會往北方向約300公尺處產業道路(通往木柵吊橋方向)",
-    "UnitName_": "內門區公所",
-    "StatusName_": "待處理",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處產業道路目前塌坍且有土石流滑落，造成運送農產品貨車無法通行致陳情人行經滑倒受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 11:02:46",
     "Close_Date_": ""
   }
 ]
