@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015174",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 02:44:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲圍路48號與50號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015173",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 下午 02:43:51",
@@ -27,7 +44,7 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映私人宮廟正在燃燒金紙造成空污，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 06:53:10",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014019",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 上午 06:44:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "桶寮巷12之30號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處傳出燃燒塑膠之異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 08：42 環保局公害專線吳政翰先生回報，稽查人員於07:37到達，人員\r\n於周界巡查，未發現上述情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 06:46:34",
-    "Close_Date_": "2016/10/15 下午 12:35:52"
   }
 ]
