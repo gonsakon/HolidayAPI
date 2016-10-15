@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015055",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 08:52:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "姑山路11號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015054",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 上午 08:51:37",
@@ -34,20 +51,20 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161015052",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/15 上午 08:48:52",
+    "FileNo_": "INS161015051",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 上午 08:50:07",
     "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "忠誠路與瑞春路口",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路14號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有民眾燃放鞭炮，造成噪音，建請查處。",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址住戶於該址前方人行道上堆放許多廢棄物且散發老鼠屍臭異味，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 08:56:37",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 06:44:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013367",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 下午 06:41:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "1.興田路2.溪埔路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 06:42:33",
     "Close_Date_": ""
   }
 ]
