@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015302",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 09:25:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海三路與山邊路口(沿海三路往北沿線)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處內車道上多處有路面空洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015301",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 09:21:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:52:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014146",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 上午 10:49:41",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "林西街18號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映現該址自家透天房屋地下室嚴重積水，對此其質疑為水溝破損所致，建請查處。(※請貴單位先與陳情人聯繫告知何時前往)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 10:56:51",
     "Close_Date_": ""
   }
 ]
