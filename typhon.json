@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015126",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 上午 11:28:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東二路靠近美明路京城建設對面",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道有一像水塔之大型黑色水桶，有積水情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 上午 11:33:06",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015125",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 11:27:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 09:39:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013438",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 09:35:07",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過埤路56巷與過埤路51巷(八八快速道路下)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-路面填補不實",
-    "BeforeDesc_": "渠反映該處稍早得知屬單位於此施工，惟原有安全措施遭車輛撞損，致有多部機車跌倒，建請恢復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 09:41:29",
     "Close_Date_": ""
   }
 ]
