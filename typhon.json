@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161015244",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 下午 06:33:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "憲德街(代天院)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該寺廟目前有使用擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 下午 06:37:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015243",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 06:33:45",
@@ -1310,14 +1327,14 @@
   },
   {
     "FileNo_": "INS161015167",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/15 下午 02:35:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家油煙異味致空污，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 09:44:08",
     "Close_Date_": "2016/10/15 下午 04:39:35"
-  },
-  {
-    "FileNo_": "INS161014092",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 09:37:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松藝路，近中興塔",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處多盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 09:38:02",
-    "Close_Date_": ""
   }
 ]
