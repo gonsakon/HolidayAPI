@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016006",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 02:52:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "大德里福安二街32之1號至36號之間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈忽明忽滅，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016005",
     "Status_": "4",
     "Cre_Date_": "2016/10/16 上午 01:16:47",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161016004",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/16 上午 12:38:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大中二路572號12樓之3",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處大樓12樓以上住戶有冷氣滴水情事，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 12:04:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014192",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 下午 12:00:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "公館路近梓官衛生所",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線整排路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 12:04:37",
     "Close_Date_": ""
   }
 ]
