@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161015191",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 03:49:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "東林西路360號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有一台電電桿上電線遭車輛拉扯，已呈現傾倒情事，建請查處。",
+    "BeforeDesc_": "渠反映該址前有一台電電桿上電線垂落遭車輛拉扯，已呈現傾倒情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 03:55:18",
     "Close_Date_": ""
   },
   {
