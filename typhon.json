@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015042",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 08:27:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路,三鳳宮",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處燃放煙火炮竹造成空污嚴重,已影響附近住戶,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015040",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 08:22:55",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161015039",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 08:20:02",
     "ReplyUnit_": "E01001",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "仁愛路三段82號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "屋頂",
+    "BeforeDesc_": "渠反映其3公尺高屋頂有一母貓在此生幼貓無法將幼貓都帶下來，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 08:24:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 06:29:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013355",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 下午 06:26:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "石潭路73之1號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 06:29:38",
     "Close_Date_": ""
   }
 ]
