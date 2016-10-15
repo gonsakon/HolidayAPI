@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161016014",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 上午 06:38:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "右昌街與仁昌街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場仍有員警)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/16 07:27 楠梓區清潔隊 王麒源先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 06:40:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 上午 07:27:07"
   },
   {
     "FileNo_": "INS161016013",
