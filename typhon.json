@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015079",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 09:46:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "明誠一路與大園街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015078",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 09:41:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 07:54:28",
     "Close_Date_": "2016/10/14 下午 04:43:28"
-  },
-  {
-    "FileNo_": "INS161013391",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 07:48:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過埤路與過埤路51巷交口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有一道路工程施工，雖有放置三角錐安全警示，但未有設置警示燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 07:49:59",
-    "Close_Date_": ""
   }
 ]
