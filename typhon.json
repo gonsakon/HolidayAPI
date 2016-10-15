@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015231",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 下午 06:06:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "左楠路大同新村15之15號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 下午 06:08:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015230",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 06:03:07",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161015205",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/15 下午 04:41:34",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓新路222號(全國電子附近巷口)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一隻流浪貓老鼠夾夾住，拖著一條鍊子，人員前往時請先連絡並進行會同，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 09:17:16",
     "Close_Date_": "2016/10/15 下午 12:59:05"
-  },
-  {
-    "FileNo_": "INS161014078",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 09:15:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "合和里泰和路13號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址T字路口有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 09:18:58",
-    "Close_Date_": ""
   }
 ]
