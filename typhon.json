@@ -205,19 +205,19 @@
   },
   {
     "FileNo_": "INS161015044",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 08:39:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路496巷10號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有機具作業噪音,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 09:14:08",
     "Close_Date_": ""
   },
   {
