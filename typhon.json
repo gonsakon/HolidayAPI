@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015109",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 上午 10:54:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "福德路 松美路(福德公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處園燈有三盞故障不亮且有一盞燈罩掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015108",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 10:52:59",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161015106",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 上午 10:50:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "力大路377號旁",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該施工興建大樓",
+    "BeforeDesc_": "渠反映該處大樓興建施工未用防塵網，周界揚塵嚴重致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 上午 10:54:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/13 下午 08:47:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161013421",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/13 下午 08:43:48",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路356巷46弄與加仁路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌未有正常運作，目前為閃燈情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 08:46:56",
     "Close_Date_": ""
   }
 ]
