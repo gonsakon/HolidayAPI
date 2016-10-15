@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015261",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 07:11:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "民富街與崇文街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路口多處有犬隻排泄物致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015260",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 下午 07:03:21",
@@ -1310,14 +1327,14 @@
   },
   {
     "FileNo_": "INS161015181",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/15 下午 03:14:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "龍文街69號旁，凹仔底公園",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處歌唱活動擴音器噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:08:57",
     "Close_Date_": "2016/10/15 下午 01:09:34"
-  },
-  {
-    "FileNo_": "INS161014107",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/14 上午 09:58:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建武路51號(國香濃厚青草茶前)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處汽車道台電孔蓋周邊路面破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 10:07:19",
-    "Close_Date_": ""
   }
 ]
