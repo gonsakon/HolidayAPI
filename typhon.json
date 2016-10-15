@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161015266",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 07:22:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "裕誠路，裕誠橋東岸往南方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處公園旁自行車道上有五盞聖誕鐘形狀的藝術燈具故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161015265",
     "Status_": "1",
     "Cre_Date_": "2016/10/15 下午 07:20:55",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161015264",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 07:20:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "南燕里中興路10巷11號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "一盞路燈",
+    "BeforeDesc_": "渠反映該址前一盞路燈自颱風過後故障不亮至今，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 07:22:04",
     "Close_Date_": ""
   },
   {
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS161015211",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/15 下午 04:46:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "成功路217號旁邊(立明越南小吃店)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家附設卡拉OK，使用擴音設備在唱歌，產生噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:11:48",
     "Close_Date_": "2016/10/15 下午 01:11:38"
-  },
-  {
-    "FileNo_": "INS161014111",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 上午 09:59:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "援中路東向西未至1178號前15公尺",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊有一大包保麗龍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 11：00 楠梓區清潔隊陳豔萍小姐回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 10:11:43",
-    "Close_Date_": "2016/10/15 下午 01:11:15"
   }
 ]
