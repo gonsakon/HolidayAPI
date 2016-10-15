@@ -1,16 +1,16 @@
 [
   {
-    "FileNo_": "INS161015258",
+    "FileNo_": "INS161015260",
     "Status_": "1",
-    "Cre_Date_": "2016/10/15 下午 07:00:45",
+    "Cre_Date_": "2016/10/15 下午 07:03:21",
     "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "1.大順二路65號 2.大順二路123號",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "高雄市鳳山區文福街跟文建街路口至文福街跟青年路二短路口",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處1.有一盞路燈故障不亮，2.有一盞路燈時亮時滅，建請查處。",
+    "InformDesc_": "安全島雜草叢生(一)",
+    "BeforeDesc_": "人行紅磚道與道路中雜草叢生影響行人進出",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 07:02:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015258",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/15 下午 07:00:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "1.大順二路65號 2.大順二路123號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處1.有一盞路燈故障不亮，2.有一盞路燈時亮時滅，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 下午 07:02:27",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:07:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014106",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 上午 09:58:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "育成三街32號對面公園內",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園內正對32號位址有七盞園燈，其中五盞不亮，兩盞只有一個燈泡在亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 10:07:09",
     "Close_Date_": ""
   }
 ]
