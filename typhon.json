@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161015273",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 07:41:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "濱山街55巷13號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈燈具歪斜90度且已有數日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 07:46:11",
     "Close_Date_": ""
   },
   {
@@ -527,23 +527,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161015241",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 下午 06:28:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "高楠公路22號往楠梓方向",
-    "UnitName_": "環保局",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處位於機車道上有車禍油漬，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 06:31:06",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161015240",
     "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 06:28:55",
@@ -558,6 +541,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:30:47",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015241",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/15 下午 06:28:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "高楠公路22號往楠梓方向",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處位於機車道上有車禍油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/15 下午 06:31:06",
     "Close_Date_": ""
   },
   {
