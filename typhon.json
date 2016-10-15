@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161015261",
+    "FileNo_": "INS161015262",
     "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 07:14:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路與和平路二段附近一帶",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒物品之焦臭味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015261",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 07:11:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "民富街與崇文街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口多處有犬隻排泄物致髒亂，建請查處。",
+    "BeforeDesc_": "渠反映該路口多處有犬隻排泄物致環境髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 07:14:52",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 10:02:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014108",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 上午 09:58:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建武路51號(國香濃厚青草茶前)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處汽車道有路面坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/14 10:52 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處正確地點為：\r\n建武路48號，惟屬六米以下巷道，需請區公所處理，故改派非網A-TB-2016-94861辦理；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 上午 10:08:57",
-    "Close_Date_": "2016/10/15 下午 01:09:34"
   }
 ]
