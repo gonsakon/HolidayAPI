@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161015154",
+    "FileNo_": "INS161015153",
     "Status_": "1",
+    "Cre_Date_": "2016/10/15 下午 01:41:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大智路129號之3",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161015154",
+    "Status_": "2",
     "Cre_Date_": "2016/10/15 下午 01:39:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "嘉慶街與忠言路中間",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處公園內樹上有風災後粗樹枝垂掛，未清除乾淨，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/15 下午 01:40:50",
     "Close_Date_": ""
   },
   {
@@ -7039,20 +7056,20 @@
   },
   {
     "FileNo_": "INS161014187",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/14 上午 11:53:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路上(介於金福路與機場門口)；往市區方向",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路段沿線四線車道多處坑洞，且內線車道亦有凹陷，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於 10/14 15:25 養工處四維養護工程隊前鎮分隊余雅雯小姐回報，該處坑洞皆已補竣；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 11:54:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/15 下午 01:40:49"
   },
   {
     "FileNo_": "INS161014186",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 上午 12:10:17",
     "Close_Date_": "2016/10/15 上午 09:51:29"
-  },
-  {
-    "FileNo_": "INS161013465",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/13 下午 11:16:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "大同二街57號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/13 下午 11:18:00",
-    "Close_Date_": ""
   }
 ]
