@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016189",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 07:22:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山三路25號(前鎮之星出入口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處人行道路樹因傾倒移除後，樹穴仍未補植，恐造成危險，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016188",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 07:21:40",
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS161016140",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 下午 04:49:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "夢裡路42號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾在燃燒樹葉，導致空氣污染，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 08:05:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014373",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 下午 08:03:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山三路上(分別與光華三路，民瑞街，民權二路及復興三路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映上述四處路口路牌燈箱均故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 08:05:23",
     "Close_Date_": ""
   }
 ]
