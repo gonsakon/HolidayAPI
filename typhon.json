@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016186",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 07:14:01",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文明路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線桿電線垂落(金龍高分4之1號)，並希望能加強電線牢固，避免再次垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016185",
     "Status_": "1",
     "Cre_Date_": "2016/10/16 下午 07:12:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 07:57:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014369",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 下午 07:53:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "善政街與保泰路口(釣蝦場)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該釣蝦場前有一路燈燈頭歪斜，朝上照明，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 07:55:35",
     "Close_Date_": ""
   }
 ]
