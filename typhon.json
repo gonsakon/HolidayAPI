@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016043",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 09:42:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "河南一路上，近林森一路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處近水溝處有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016042",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 09:38:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 01:51:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014229",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 01:47:39",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一德路上與修文街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 14：04 交通局智慧運輸中心李品鋒先生回報，該處原本就設定不連鎖，故現場正\r\n常未有故障情形；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 01:48:29",
-    "Close_Date_": "2016/10/15 下午 01:57:29"
   }
 ]
