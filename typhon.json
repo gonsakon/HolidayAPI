@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016060",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 10:32:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "龍虎塔至啟明堂至舊城國小至孔子廟",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "龍虎塔至啟明堂至舊城國小至孔子廟",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016059",
     "Status_": "1",
     "Cre_Date_": "2016/10/16 上午 10:30:11",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161016040",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 上午 09:27:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌新路58巷5號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址後面遭人丟棄事業廢棄物，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 03:01:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014245",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 02:52:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓新路261巷16弄18號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映為住該址9樓住戶,惟樓上不知那一住戶冷氣滴水至窗台,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/15 00：42 環保局環境稽查科中區股李政鴻先生回報，稽查人員於00:32到達，人員\r\n於該大樓周界巡查，未發現有冷氣滴水之情事；陳情人並於10/15 13：06來電詢問處理情形並表示未改善，另派\r\n工INS161015148。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 02:54:16",
-    "Close_Date_": "2016/10/15 下午 01:50:24"
   }
 ]
