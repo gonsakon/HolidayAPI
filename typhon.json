@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161017018",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 06:46:45",
     "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路與曾子路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌於6時由閃燈改為正常運作，疑似故障，致遭違規拍照，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 06:50:19",
     "Close_Date_": ""
   },
   {
