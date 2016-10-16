@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161016093",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/16 下午 12:41:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "舊城國小前的道路至孔廟間(蓮池潭旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路因萬年季攤販擺攤導致線路面皆有油垢與惡臭髒亂，忘請貴單位能盡速派員清洗街道，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161016092",
     "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 12:13:21",
@@ -409,14 +392,14 @@
   },
   {
     "FileNo_": "INS161016072",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/16 上午 11:05:14",
     "ReplyUnit_": "A01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路319號前人行道",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "渠反映該人行道水泥處有不明孔蓋周邊坑洞凹陷，建請修復。",
     "AfterDesc_": "",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 04:38:52",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161014281",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/14 下午 04:35:43",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "大順一路(憲政路往建國路)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待處理",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處於外側快車道上有水利局修補後致高低落差，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/14 下午 04:40:56",
     "Close_Date_": ""
   }
 ]
