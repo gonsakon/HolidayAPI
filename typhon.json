@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016178",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/16 下午 06:50:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "里林東路97號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一路燈桿上垂落2條電線(一粗、一細)，且該盞路燈亦故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/16 下午 06:56:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016177",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 06:49:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 07:47:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014362",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 07:43:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路上，往南方向，介於金福路與平和東路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處內側車道有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 07:44:31",
     "Close_Date_": ""
   }
 ]
