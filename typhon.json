@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161016192",
+    "FileNo_": "INS161016193",
     "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 07:40:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路通往大社路之產業道路(觀景山林通往嘉誠村之產業道路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒壓至電線，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161016192",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 07:37:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "復興新村335號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。(陳情人要求人員到場時先聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 下午 07:40:06",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 08:17:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014377",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 08:14:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "七賢三路底，與蓬萊路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處自行車道與行人用觸控鈕故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 22：15 交通局智慧運輸中心蔡淑君小姐回報，該處無危險性，惟屬線路故障已報\r\n請廠商維修，故改派非網A-TB-2016-95246賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 08:15:20",
-    "Close_Date_": "2016/10/15 下午 02:34:17"
   }
 ]
