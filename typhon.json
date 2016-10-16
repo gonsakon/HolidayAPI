@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016207",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 08:16:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "漢口街62號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一汙水孔蓋周邊柏油有破損坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016206",
     "Status_": "1",
     "Cre_Date_": "2016/10/16 下午 08:16:04",
@@ -987,14 +1004,14 @@
   },
   {
     "FileNo_": "INS161016148",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 下午 05:40:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁勇路近仁勇路8號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面中央有一坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 08:58:42",
     "Close_Date_": "2016/10/14 下午 10:28:02"
-  },
-  {
-    "FileNo_": "INS161014392",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 08:52:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路465巷(振展貨櫃場)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該貨櫃場目前使用機具致噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 23：49 環保局稽查科中區股李政鴻先生回報，稽查人員於22：53到達，稽查當時\r\n現場僅有卡車進出，人員於上述地點周界巡查，未發現有使用機具致噪音情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 08:54:13",
-    "Close_Date_": "2016/10/15 下午 02:52:31"
   }
 ]
