@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161016141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 05:00:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中山二路與四維三路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處快車道上有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 下午 05:05:06",
     "Close_Date_": ""
   },
   {
@@ -3962,20 +3962,20 @@
   },
   {
     "FileNo_": "INS161015242",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 06:30:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "通校路與介壽西路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道上玉米粒，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 19:42岡山區清潔隊陳榮東先生回覆：該處已處理清除完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:33:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:05:05"
   },
   {
     "FileNo_": "INS161015240",
@@ -3996,20 +3996,20 @@
   },
   {
     "FileNo_": "INS161015241",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 06:28:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "高楠公路22號往楠梓方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處位於機車道上有車禍油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 19：45 仁武區清潔隊陳進忠班長回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:31:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:05:12"
   },
   {
     "FileNo_": "INS161015239",
@@ -4166,20 +4166,20 @@
   },
   {
     "FileNo_": "INS161015230",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 06:03:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強二路與光復三街口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路面有一坑洞，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/16 10：43四維養護工程隊值班人員顏小晶小姐回報：該處已修復完畢；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:04:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:05:01"
   },
   {
     "FileNo_": "INS161015229",
@@ -4251,20 +4251,20 @@
   },
   {
     "FileNo_": "INS161015225",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 05:54:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文智路75號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 23:37 養工處四維養護工程隊江明秀小姐回報，該處已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 05:55:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:05:47"
   },
   {
     "FileNo_": "INS161015224",
@@ -4387,20 +4387,20 @@
   },
   {
     "FileNo_": "INS161015217",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 05:05:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正義路227號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址對向快車道路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/16 10：43四維養護工程隊值班人員顏小晶小姐回報：該處已修復完畢；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 05:08:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:04:09"
   },
   {
     "FileNo_": "INS161015216",
