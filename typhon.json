@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016101",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/16 下午 01:22:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新莊一路與華夏路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處工地新建大樓，機具施工導致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/16 下午 01:24:27",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016100",
     "Status_": "1",
     "Cre_Date_": "2016/10/16 下午 01:20:36",
@@ -681,14 +698,14 @@
   },
   {
     "FileNo_": "INS161016058",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 上午 10:27:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "盛昌街(右昌國中)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該校目前進行整修作業，使用機具致噪音產生，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 04:49:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014286",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 04:43:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "五福四路與新興街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌有閃紅與閃黃燈情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 04:46:39",
     "Close_Date_": ""
   }
 ]
