@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161016042",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 09:38:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "濱海路一段與仁愛路一段口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌閃燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 上午 09:40:41",
     "Close_Date_": ""
   },
   {
@@ -137,20 +137,20 @@
   },
   {
     "FileNo_": "INS161016034",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 上午 09:10:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區正興里興隆街69號前",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "反光鏡傾倒",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-95704由交通局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 09:34:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 上午 09:40:19"
   },
   {
     "FileNo_": "INS161016033",
