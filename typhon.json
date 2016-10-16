@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161016205",
+    "FileNo_": "INS161016206",
     "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 08:16:04",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "嫩江街59巷口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處有一台電孔蓋，周邊柏油有破損坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161016205",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 08:15:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重光路65號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有冷氣滴水情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 下午 08:16:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 08:54:13",
     "Close_Date_": "2016/10/15 下午 02:52:31"
-  },
-  {
-    "FileNo_": "INS161014391",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 08:48:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "長明街上，近五甲一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有台電線路地下化工程施工噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/14 23:28 環保局環境稽查科南區股戴宏霖先生回報，稽查人員於21:35到達，現\r\n場已停工，未發現噪音情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 08:49:37",
-    "Close_Date_": "2016/10/15 下午 02:51:54"
   }
 ]
