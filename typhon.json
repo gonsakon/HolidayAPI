@@ -10,7 +10,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家烹煮食物致大量油煙四散,已影響到旁邊大樓住戶,建請會同查處。",
+    "BeforeDesc_": "渠反映該店家烹煮食物致大量油煙四散,已影響到旁邊大樓住戶,建請會同管理員查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 10:41:47",
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161016065",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/16 上午 10:37:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路與新庄仔路(環保局西區垃圾車停放場旁矮房)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處人員進行施肥，惡臭異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/16 上午 10:40:28",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 03:31:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014252",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 下午 03:23:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "文和巷65號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞日光燈管路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 03:25:00",
     "Close_Date_": ""
   }
 ]
