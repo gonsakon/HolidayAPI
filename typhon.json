@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016124",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/16 下午 03:22:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路36巷50弄",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處於風災後遭民眾丟棄家具及廢棄物於此，已孳生蚊蟲，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/16 下午 03:25:59",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016123",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 03:16:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 05:50:58",
     "Close_Date_": "2016/10/15 下午 02:36:35"
-  },
-  {
-    "FileNo_": "INS161014309",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 05:44:31",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金獅湖公園內(道德院周界)",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處有數十盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 05:53:26",
-    "Close_Date_": ""
   }
 ]
