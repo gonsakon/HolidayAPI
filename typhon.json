@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161016148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 05:40:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁勇路近仁勇路8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面中央有一坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 下午 05:42:13",
     "Close_Date_": ""
   },
   {
@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161016141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 05:00:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中山二路與四維三路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道上有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/16 17:24 苓雅區清潔隊陳冠宏先生回報，該處已清除完畢；並於10/16 17：41電覆\r\n陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 05:05:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:41:05"
   },
   {
     "FileNo_": "INS161016140",
