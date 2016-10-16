@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161016033",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 09:03:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "花旗二路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮(編號 64、38)，建請查處。",
+    "BeforeDesc_": "渠反映該址有2盞路燈故障不亮(編號 64、38)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 上午 09:07:17",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161016030",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 09:02:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "1.  花旗二路230巷38號  2.花旗二路230巷32號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈白天未熄(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映1. 一盞路燈白天未熄；2. 一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 上午 09:07:11",
     "Close_Date_": ""
   },
   {
