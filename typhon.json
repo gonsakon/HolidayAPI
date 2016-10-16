@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016142",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 05:06:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路80巷22號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一路面下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016141",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 05:00:30",
@@ -562,14 +579,14 @@
   },
   {
     "FileNo_": "INS161016106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 下午 01:50:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中二路148號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處工地挖土機施工致噪音，建請查處。",
     "AfterDesc_": "",
@@ -5451,7 +5468,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該處該處高市寬頻孔蓋鬆動，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 16：30 工務局工程企劃處第二課陳昭宏先生回報，該處已修復完成；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 01:53:13",
     "Close_Date_": ""
@@ -5526,20 +5543,20 @@
   },
   {
     "FileNo_": "INS161015151",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 01:10:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中安路上(捷運維修廠前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該維修廠大門前，汽車道上有一鐵片掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 13:51前鎮區清潔隊張簡武秀先生回報，已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 01:12:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:07:45"
   },
   {
     "FileNo_": "INS161015149",
@@ -5628,20 +5645,20 @@
   },
   {
     "FileNo_": "INS161015144",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 12:52:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐路大崎巷1號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處台電的電線已垂落接近地面，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/16 12:24 經詢問台電1911施小姐表示，已處理完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 12:55:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/16 下午 05:07:35"
   },
   {
     "FileNo_": "INS161015143",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 06:18:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014325",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/14 下午 06:16:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路500號，漢民國小大門前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 06:17:49",
     "Close_Date_": ""
   }
 ]
