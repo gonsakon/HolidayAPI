@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161016048",
+    "FileNo_": "INS161016049",
     "Status_": "1",
+    "Cre_Date_": "2016/10/16 上午 09:55:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合一路55巷2號5樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161016048",
+    "Status_": "2",
     "Cre_Date_": "2016/10/16 上午 09:54:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "德北街上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈(編號:17577)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/16 上午 09:55:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 02:33:31",
     "Close_Date_": "2016/10/15 下午 02:00:12"
-  },
-  {
-    "FileNo_": "INS161014234",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/14 下午 02:24:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路與美術南五街口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處共桿路燈上有一「美術南五街」路牌因颱風風吹現位置過低，恐較高之車輛經過會有危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/14 15:15 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處無危險性，列入\r\n災後復建工作，故轉派非網A-TB-2016-95022賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 02:25:48",
-    "Close_Date_": "2016/10/15 下午 01:59:52"
   }
 ]
