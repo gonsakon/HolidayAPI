@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016228",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/16 下午 09:02:19",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "益群橋(北邊100公尺處、後勁溪岸邊)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處目前有許多垃圾，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/16 下午 09:09:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016227",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 09:02:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 09:29:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161014413",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 09:27:27",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "民族街91巷2弄2號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有一台電電線桿傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 09:29:56",
     "Close_Date_": ""
   }
 ]
