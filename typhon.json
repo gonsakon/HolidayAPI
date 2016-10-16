@@ -30,7 +30,7 @@
     "BeforeDesc_": "渠反映該處路口有一大排水溝內，堆積樹枝、樹葉、泥沙堵住致排水不良，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 08:35:13",
+    "Save_Date_": "2016/10/16 下午 08:36:19",
     "Close_Date_": ""
   },
   {
@@ -1140,14 +1140,14 @@
   },
   {
     "FileNo_": "INS161016146",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/16 下午 05:34:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖一路182號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址空氣中疑似飄散一股糞便惡臭味異味，建請查處。",
     "AfterDesc_": "",
