@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161017025",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 07:38:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路南下，與明誠二路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有路面油漬，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 07:43:47",
     "Close_Date_": ""
   },
   {
@@ -579,20 +579,20 @@
   },
   {
     "FileNo_": "INS161016241",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 10:11:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳捷路與中山東路口周界",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有飄散不明臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/17 00：07  環保局環境稽查科南區股侯尊仁先生回報，稽查人員於23：44到\r\n達，稽查當時於於該路段與中山東路口周界巡查，未發現不明臭味致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 10:13:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 上午 07:42:07"
   },
   {
     "FileNo_": "INS161016240",
@@ -613,20 +613,20 @@
   },
   {
     "FileNo_": "INS161016239",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 09:56:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "竹寮路606號前與竹寮路74號前",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該兩處號誌未連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/16  22：29  交通局智慧運輸中心蔡淑君小姐回報，經查該處現場號誌正常連\r\n鎖，並無故障情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 09:58:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 上午 07:43:21"
   },
   {
     "FileNo_": "INS161016238",
