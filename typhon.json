@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017025",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 07:38:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路南下，與明誠二路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有路面油漬，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017024",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 07:35:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 12:32:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015007",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 上午 12:27:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路46巷13號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(路燈編號:0712)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 12:31:58",
     "Close_Date_": ""
   }
 ]
