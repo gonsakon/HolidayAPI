@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161016102",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/16 下午 01:31:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華路112之1號(114號旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "騎樓下斜坡處棄置",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161016101",
     "Status_": "2",
     "Cre_Date_": "2016/10/16 下午 01:22:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/14 下午 04:50:54",
     "Close_Date_": "2016/10/15 下午 02:19:06"
-  },
-  {
-    "FileNo_": "INS161014287",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/14 下午 04:47:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "林森一路(新興國小側門)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌因國小上下學需要不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/14 下午 04:49:36",
-    "Close_Date_": ""
   }
 ]
