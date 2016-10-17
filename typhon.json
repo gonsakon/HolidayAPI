@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017360",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 08:43:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "漢慶街138巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017359",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 08:40:42",
@@ -196,7 +213,7 @@
     "address_": "劉厝里登科街108巷5號旁路燈不亮",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "岡山區劉厝里登科街108巷5號與劉厝路140巷10號相鄰的路燈不亮。",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 02:54:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016005",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/16 上午 01:16:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新衙路上(龍鳳公園旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/16 02:48溝渠隊莊斯宇先生回報，該貓屍已清除完畢；並於10/17 13：44電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 01:18:54",
-    "Close_Date_": "2016/10/17 下午 01:44:18"
   }
 ]
