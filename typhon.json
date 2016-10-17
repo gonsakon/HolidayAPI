@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161018025",
+    "FileNo_": "INS161018026",
     "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 07:17:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄觀路往鳳仁路方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線有碎玻璃於路面上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018025",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 07:17:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路與鳳仁路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該號誌燈故障亂跳,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 07:19:13",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 11:18:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016074",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/16 上午 11:10:23",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路上近捷運獅甲站1號、4號出口之間",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處公車停靠站有二處溝壁破損,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 11:12:50",
     "Close_Date_": ""
   }
 ]
