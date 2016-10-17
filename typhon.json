@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 01:58:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "鳳林路95號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫似燃燒塑膠之異味，疑似工廠排放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018002",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 01:28:55",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 10:01:23",
     "Close_Date_": "2016/10/17 下午 02:10:50"
-  },
-  {
-    "FileNo_": "INS161016050",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 09:58:28",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重信路344號",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該處有長方形寬頻孔蓋鬆動，車輛行經導致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 10:04:57",
-    "Close_Date_": ""
   }
 ]
