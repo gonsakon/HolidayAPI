@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017284",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 06:12:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "崗山南街19號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017283",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 06:03:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 07:37:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015269",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 下午 07:31:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津三路與復興三巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一四維檢測電箱(編號:013792)，目前有悶燒情事，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 07:32:43",
     "Close_Date_": ""
   }
 ]
