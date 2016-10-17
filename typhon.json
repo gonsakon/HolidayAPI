@@ -324,19 +324,19 @@
   },
   {
     "FileNo_": "INS161017204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 02:37:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮中路(康定路至鎮東一路間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "安全島雜草叢生(一)",
     "BeforeDesc_": "鎮中路(康定路至鎮東一路間)安全島雜草太長，孳生蚊蟲。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 下午 03:28:28",
     "Close_Date_": ""
   },
   {
