@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161017071",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 09:19:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "逢甲路30巷9號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前方人行道有路樹倒塌未清除，且易有堆積樹枝未清除已多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 09:20:40",
     "Close_Date_": ""
   },
   {
@@ -341,19 +341,19 @@
   },
   {
     "FileNo_": "INS161017051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 08:48:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "806台灣高雄市前鎮區成功二路1-2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "中華路從中華地下道一路往南至夢時代的路面凹凸不平，中華路屬於高雄重要大路之一，也是高雄門面，是否需要更加投入維護",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 09:19:54",
     "Close_Date_": ""
   },
   {
