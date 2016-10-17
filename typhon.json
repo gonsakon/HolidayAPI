@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017328",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 07:29:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓高中前道路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "楠梓高中前清豐路及其正前方道路路燈都不亮了，很多盞喔！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017326",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 07:23:24",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 09:55:22",
     "Close_Date_": "2016/10/16 下午 05:11:03"
-  },
-  {
-    "FileNo_": "INS161015312",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 下午 09:45:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大連街與大連街345巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 09:47:05",
-    "Close_Date_": ""
   }
 ]
