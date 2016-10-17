@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017091",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 09:47:26",
+    "ReplyUnit_": "F01018",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路通往大社路之產業道路(觀景山林通往嘉誠村之產業道路)",
+    "UnitName_": "大社區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒壓至電線，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017090",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 09:44:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 09:30:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015073",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 上午 09:22:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興楠路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線中央分隔島上的路樹以及路燈、路牌皆遭綁廣告看板，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 09:25:47",
     "Close_Date_": ""
   }
 ]
