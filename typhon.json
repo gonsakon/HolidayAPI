@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161018018",
+    "FileNo_": "INS161018019",
     "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 06:41:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國慶十一街明學路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "床墊家具衣物",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018018",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 06:39:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "惠春街往德民路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處整地施工工地機具噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 06:41:29",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 11:03:50",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016067",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/16 上午 10:50:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路322號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前營業中，有卡拉OK噪音，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/17 14：05電覆陳情人未果，故於10/17 14：10簡訊回覆：林小姐您好，您10月16日\r\n所反映店家油煙空污、卡拉OK噪音問題，經本府環保局前往稽查，稽查當時店家營業當中，於周界巡查未發現油\r\n煙致空汙情事；於周界巡查未發現有明顯卡拉OK噪音情事，仍促請業者注意防範，感謝您的熱心通報，倘您對案\r\n件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 10:58:56",
-    "Close_Date_": "2016/10/17 下午 02:13:47"
   }
 ]
