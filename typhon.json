@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 10:40:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大成街64號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處路樹風災傾倒移除後，樹根處未清理乾淨，已有民眾摔傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017118",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 10:39:36",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161017116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 10:37:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "福誠一街與福誠五街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄廢棄傢俱，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 10:39:50",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 10:40:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015102",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 上午 10:35:16",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "憲政路123巷6弄37號對面",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處有污水管阻塞，滿溢致路面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 10:37:29",
     "Close_Date_": ""
   }
 ]
