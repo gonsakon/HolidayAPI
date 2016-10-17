@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161017082",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 09:37:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中山路二段632巷38號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "斜對面  綁上紅色帶",
+    "BeforeDesc_": "渠反映該處斜對面有一盞路燈故障不亮，然上方綁上紅色帶",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 09:43:31",
     "Close_Date_": ""
   },
   {
