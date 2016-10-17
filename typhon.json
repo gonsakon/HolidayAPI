@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017093",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 09:49:16",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合一路53之12號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一污水孔蓋遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017092",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 09:48:39",
@@ -48,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161017089",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/17 上午 09:43:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊招路上沿線，到安招國小側門",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線燈故障不亮許久，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/17 上午 09:49:25",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 09:41:40",
     "Close_Date_": "2016/10/15 下午 03:20:26"
-  },
-  {
-    "FileNo_": "INS161015074",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 上午 09:29:45",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "博愛路559號前",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映有一隻小貓躲進汽車底盤內恐有受困,因發動車子仍未跑出,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 09:31:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015076",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/15 上午 09:29:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "延吉街上與延慶街(愛買超市後方)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊遭人丟棄家具椅子及茶几，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/15 10:03 三民東區清潔隊許華玲小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 09:38:33",
-    "Close_Date_": "2016/10/15 下午 03:18:59"
   }
 ]
