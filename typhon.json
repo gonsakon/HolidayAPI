@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161017148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 11:29:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "十全三路上靠近中華二路",
+    "address_": "十全三路上靠近中華二路；跳蚤市場",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有堆棄垃圾，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 11:31:36",
     "Close_Date_": ""
   },
   {
@@ -3962,20 +3962,20 @@
   },
   {
     "FileNo_": "INS161016164",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 06:15:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "篤敬路與文中路交叉口公園內",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處公園內有民眾在烤肉，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於養工處四維養護工程隊陳錦茸小姐於10/17 02:09 回報：現場烤肉民眾均已\r\n勸離；並於10/17 11：29電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 06:16:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 上午 11:29:18"
   },
   {
     "FileNo_": "INS161016163",
