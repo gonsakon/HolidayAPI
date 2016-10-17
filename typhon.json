@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017039",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 08:21:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松路102巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭民眾堆放垃圾，已產生髒亂，望局處能一併稽查行為人，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017035",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 08:12:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 01:16:40",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015018",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/15 上午 01:10:15",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "自強三路新田路口",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "轉角紅線停車",
-    "AfterDesc_": "感謝您的反映，此案件已通報警察局110林員警辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 03:24:15",
-    "Close_Date_": "2016/10/15 上午 03:25:12"
   }
 ]
