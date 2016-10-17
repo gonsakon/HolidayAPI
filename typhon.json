@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161017175",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 12:59:03",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民生二路與中山一路路口(江豪記臭豆腐前往南走10-20公尺處)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處人行道與機車道之間有一圓形孔蓋鐵片突出，恐刮傷行經路人，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017173",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 12:58:42",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161017153",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/17 上午 11:45:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新衙路166巷15弄10號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線路燈從颱風至今故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 02:03:09",
     "Close_Date_": "2016/10/16 下午 03:16:38"
-  },
-  {
-    "FileNo_": "INS161015158",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 02:00:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛四路與重信路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處有一空地圍籬風災後倒塌至今未清除，因倒在人行道上影響安全，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 02:01:20",
-    "Close_Date_": ""
   }
 ]
