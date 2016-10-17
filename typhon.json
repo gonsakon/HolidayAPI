@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017362",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 08:47:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗后山新光隧道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017361",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 下午 08:46:15",
@@ -8314,14 +8331,14 @@
   },
   {
     "FileNo_": "INS161016119",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/16 下午 02:42:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "博愛一路與綏遠二街(高雄銀行前)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處共桿燈上朝向人行道之路燈損壞，目前只有一條線連接垂掛，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 03:25:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016007",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 03:15:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高峰街41巷18號 (馬府觀音宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處廟宇燃放爆竹，噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 03:17:08",
     "Close_Date_": ""
   }
 ]
