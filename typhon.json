@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161017333",
+    "FileNo_": "INS161017334",
     "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 07:44:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "中庄里鳳屏一路426巷29號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161017333",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 07:41:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "八德二路上，介於自立二路與瑞源路間",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路段沿線路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 下午 07:44:10",
     "Close_Date_": ""
   },
   {
@@ -344,8 +361,8 @@
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 06:54:12",
     "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
     "address_": "河西一路上(鐵路至中州橋沿線)",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 10:35:30",
     "Close_Date_": "2016/10/17 下午 12:19:01"
-  },
-  {
-    "FileNo_": "INS161015319",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/15 下午 10:31:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "華山街160幾號附近",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有民眾在施放鞭炮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/16 17:15電覆陳情人未果，故於2016/10/16 17:17簡訊回覆:黃小姐您\r\n好，您10月15日反映噪音問題，本府環保局派員前往，稽查時人員於所地址周界巡查，未發現燃放鞭\r\n炮，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 10:32:34",
-    "Close_Date_": "2016/10/16 下午 05:17:42"
   }
 ]
