@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018033",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 07:43:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大順一路富民路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018031",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 07:39:15",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161018024",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 上午 07:13:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "忠孝路上,紫雲寺大門對面",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處二棵路樹因風災傾倒已移除,惟樹穴皆未填埔易發生絆倒危險,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 11:51:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016080",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 11:48:42",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大仁南路與河堤路一段口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌均故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 11:50:14",
     "Close_Date_": ""
   }
 ]
