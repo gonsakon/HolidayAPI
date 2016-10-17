@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017224",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 03:28:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中正二路與民族二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017223",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 03:26:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 04:45:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015207",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 04:44:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮港路7號(建安鋼鐵)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者目前排放清洗後有毒液體至前方水溝，恐進而影響高雄港水域，並發出惡臭，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 04:48:07",
     "Close_Date_": ""
   }
 ]
