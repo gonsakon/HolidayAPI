@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017157",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 11:53:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "南勝里得勝巷18號前( 廟前方)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處影一路燈電桿漏電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017156",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 11:51:30",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161017155",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 11:48:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "光復路二段343號對面路邊停車位(編號:693043)",
+    "address_": "光復路二段343號對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有台電電線垂落",
+    "BeforeDesc_": "渠反映該處有電線桿上有整捆電線掉落路邊停車格(編號:693043)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 上午 11:53:35",
     "Close_Date_": ""
   },
   {
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161017119",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/17 上午 10:40:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大成街64號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處人行道路樹風災時傾倒移除後，樹根處未清理乾淨，已有民眾摔傷，建請查處。",
     "AfterDesc_": "",
@@ -9419,20 +9436,20 @@
   },
   {
     "FileNo_": "INS161015186",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/15 下午 03:30:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合一路；六合公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該公園公廁有異味產生，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/15 16:23養工處四維養護工程隊值日室顏小晶小姐回報，清潔人員已加強處\r\n理完成；並於10/17 11：51電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 03:31:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 上午 11:53:32"
   },
   {
     "FileNo_": "INS161015185",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 12:38:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015141",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 12:31:04",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠禮街上與翠亨北路口(修車廠旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一號誌紅燈故障不亮,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 12:32:36",
     "Close_Date_": ""
   }
 ]
