@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161018011",
+    "FileNo_": "INS161018012",
     "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 05:46:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "凱旋一路上近民族路橋",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018011",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 05:45:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "海尾路178號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處1路燈(編號164)不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 05:47:13",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 10:34:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016059",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 10:30:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文守路上，過立明街往文育路的L轉角處",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面上有垃圾及骨頭致髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 10:35:27",
     "Close_Date_": ""
   }
 ]
