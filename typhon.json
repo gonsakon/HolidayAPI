@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161017393",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 10:57:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "七賢三路217號(蔡雪汶中醫店)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址前號誌桿基座鏽蝕且嚴重搖晃，建請查修。",
+    "BeforeDesc_": "渠反映該址前有一盞紅綠燈號誌桿基座鏽蝕裂開且嚴重搖晃，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 下午 10:59:02",
     "Close_Date_": ""
   },
   {
