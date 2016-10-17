@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161017192",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/17 下午 02:08:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路34之10號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一廢鐵回收廠現鐵屑飛散造成空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/17 下午 02:11:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017191",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 02:06:31",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161017187",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/17 下午 01:58:27",
     "ReplyUnit_": "E01002",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "壽山風景區",
     "UnitName_": "觀光局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "風景區髒亂",
     "BeforeDesc_": "渠反映萬壽山龍泉禪寺後進山木棧道有猴糞，環境髒亂有異味，建請查處。",
     "AfterDesc_": "",
@@ -6325,20 +6342,20 @@
   },
   {
     "FileNo_": "INS161016067",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 上午 10:50:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前營業中，有卡拉OK噪音，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/17 14：05電覆陳情人未果，故於10/17 14：10簡訊回覆：林小姐您好，您10月16日\r\n所反映店家油煙空污、卡拉OK噪音問題，經本府環保局前往稽查，稽查當時店家營業當中，於周界巡查未發現油\r\n煙致空汙情事；於周界巡查未發現有明顯卡拉OK噪音情事，仍促請業者注意防範，感謝您的熱心通報，倘您對案\r\n件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 10:58:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 下午 02:13:47"
   },
   {
     "FileNo_": "INS161016066",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 02:57:39",
     "Close_Date_": "2016/10/16 下午 05:08:35"
-  },
-  {
-    "FileNo_": "INS161015177",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 02:51:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "八德一路與復興一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處道路有一坑洞，先放置三角錐警示，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 02:52:20",
-    "Close_Date_": ""
   }
 ]
