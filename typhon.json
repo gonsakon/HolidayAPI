@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017101",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 10:07:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德北路559號(八卦休閒公園外門口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處公園內有樹枝髒亂垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017100",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 10:07:23",
@@ -2789,14 +2806,14 @@
   },
   {
     "FileNo_": "INS161016186",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/16 下午 07:14:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "文明路33號附近",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電線桿電線垂落(金龍高分4之1號)，並希望能加強電線牢固，避免再次垂落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 10:03:13",
     "Close_Date_": "2016/10/15 下午 03:22:11"
-  },
-  {
-    "FileNo_": "INS161015085",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 上午 09:57:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文清街25號前沿線(澄清龍大樓前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線有三盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 09:58:00",
-    "Close_Date_": ""
   }
 ]
