@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017246",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 04:22:08",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "漢民路683號與685號之間",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處人行道磚因溝蓋破損致翹起，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017245",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 04:19:52",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161017243",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 04:18:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路上(高雄市區監理所前方)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處機車道上有一凹陷坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/17 下午 04:22:17",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:01:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015228",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 05:58:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新里保安路3巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷內有一燈(編號066)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 05:58:57",
     "Close_Date_": ""
   }
 ]
