@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017143",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 11:20:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑里六和路78號之23近公墓",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒從颱風至今未清除，已造成附近水溝堵塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017141",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 上午 11:16:55",
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161017083",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/17 上午 09:41:57",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "英明路309號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該址前有一高污水人孔蓋鬆動,車行產生噪音,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 11:44:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015126",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 上午 11:28:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路靠近美明路京城建設對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道有一像水塔之大型黑色水桶，有積水情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 11:33:06",
     "Close_Date_": ""
   }
 ]
