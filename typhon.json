@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018024",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/18 上午 07:13:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "忠孝路上,紫雲寺大門對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處二棵路樹因風災傾倒已移除,惟樹穴皆未填埔易發生絆倒危險,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/18 上午 07:14:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018023",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 07:06:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 04:01:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016073",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 11:06:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路上與尚義街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處於快車道斑馬線上路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 11:08:37",
     "Close_Date_": ""
   }
 ]
