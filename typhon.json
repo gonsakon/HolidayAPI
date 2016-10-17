@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017225",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 03:36:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "金福路137號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道有一路面凹陷，其表示曾修補過又再次下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017224",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 03:28:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 04:47:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015208",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 04:44:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "光潭路88巷40號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 04:45:38",
     "Close_Date_": ""
   }
 ]
