@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017267",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 05:43:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路195巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路面有堆置許多樹枝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017266",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 05:32:20",
@@ -2075,14 +2092,14 @@
   },
   {
     "FileNo_": "INS161017143",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/17 上午 11:20:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑里六和路78號之23近公墓",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有一路樹傾倒從颱風至今未清除，已造成附近水溝堵塞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:59:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015250",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 下午 06:45:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "同慶路88號旁(近公園一側)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 06:48:43",
     "Close_Date_": ""
   }
 ]
