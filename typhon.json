@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161017249",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 04:26:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "廣和路近廣福派出所",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017248",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 下午 04:26:14",
@@ -26,7 +43,7 @@
     "address_": "忠義路265號(聯上湖美學大樓)",
     "UnitName_": "台電公司",
     "StatusName_": "建立中",
-    "InformDesc_": "",
+    "InformDesc_": "台電-路面填補不實",
     "BeforeDesc_": "渠反映該處大樓地下車道出入口，電線桿周圍泥土下陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
@@ -5968,20 +5985,20 @@
   },
   {
     "FileNo_": "INS161016146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/16 下午 05:34:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖一路182號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址空氣中疑似飄散一股糞便惡臭味異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/16 20：34 環保局環境稽查科南區股朱春滿先生回報，稽查人員於18：16到達，稽\r\n查當時會同管理員巡查，未發現有糞便惡臭味異味情事；並於10/17 16：12電覆陳情人，故解除管制；惟陳情人\r\n反映該處近日空污問題，故另派非網A-TB-2016-96336追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 05:36:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/17 下午 04:24:07"
   },
   {
     "FileNo_": "INS161016145",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 06:14:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015232",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/15 下午 06:09:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新庄仔路758號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前分隔島上有一盞路燈故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 06:11:27",
     "Close_Date_": ""
   }
 ]
