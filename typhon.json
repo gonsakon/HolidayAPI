@@ -85,23 +85,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161017398",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/17 下午 11:08:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "振興里大關路53號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待確認",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處機車道上有一約20公分寬、深15公路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 11:10:04",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161017397",
     "Status_": "4",
     "Cre_Date_": "2016/10/17 下午 11:08:42",
@@ -116,6 +99,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 11:11:37",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161017398",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/17 下午 11:08:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "振興里大關路53號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處機車道上有一約20公分寬、深15公路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/17 下午 11:10:04",
     "Close_Date_": ""
   },
   {
