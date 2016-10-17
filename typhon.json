@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017214",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 03:05:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路937號(高名文理補習班)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處路樹因風災連根拔起後，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017213",
     "Status_": "2",
     "Cre_Date_": "2016/10/17 下午 02:59:54",
@@ -1072,14 +1089,14 @@
   },
   {
     "FileNo_": "INS161017149",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/17 上午 11:35:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "和平一路143巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處巷道旁遭堆積建築廢棄物，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 04:21:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015197",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 04:07:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路與金鼎路；市場攤販中心",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有許多店家未裝設排油煙機設備致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 04:09:19",
     "Close_Date_": ""
   }
 ]
