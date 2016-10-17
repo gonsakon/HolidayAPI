@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018009",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 05:36:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "凱旋一路往南與憲政路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處1路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018008",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 05:32:12",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161018006",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 上午 02:50:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "信昌街20幾號至50號間",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路段路燈沿線不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 上午 10:27:08",
     "Close_Date_": "2016/10/17 上午 11:10:18"
-  },
-  {
-    "FileNo_": "INS161016056",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 上午 10:22:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓東街與楠泰街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 上午 10:24:06",
-    "Close_Date_": ""
   }
 ]
