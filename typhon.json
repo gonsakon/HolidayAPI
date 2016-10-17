@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017108",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 上午 10:23:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "三和里三和路上，興雲寺前方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈燈桿倒塌在路邊多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017107",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 上午 10:22:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/15 上午 10:25:46",
     "Close_Date_": "2016/10/16 下午 02:54:10"
-  },
-  {
-    "FileNo_": "INS161015092",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 上午 10:09:45",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "灣中街368巷23號旁",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處台電孔蓋水泥破損導致坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 上午 10:16:19",
-    "Close_Date_": ""
   }
 ]
