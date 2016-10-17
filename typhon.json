@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161017230",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/17 下午 03:44:42",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "錦田路123號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址前方水溝蓋有下陷情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161017229",
     "Status_": "1",
     "Cre_Date_": "2016/10/17 下午 03:42:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/15 下午 05:16:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161015213",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/15 下午 05:00:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海三路(接近鳳鼻頭)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有工廠廠區內進行施工，車輛進出夾帶泥土致路面髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/15 下午 05:05:34",
     "Close_Date_": ""
   }
 ]
