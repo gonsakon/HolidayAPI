@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161018033",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 07:43:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "大順一路富民路",
+    "address_": "大順一路與富民路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處空地因灑藥物致嗆鼻空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 07:46:23",
     "Close_Date_": ""
   },
   {
@@ -970,20 +970,20 @@
   },
   {
     "FileNo_": "INS161017377",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/17 下午 09:41:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由一路與大順一路口附近一帶",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒不明物品之異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/18 00:55 環保局環境稽查科中區股劉翹瑋先生回報，稽查人員於00:25到達，稽\r\n查時人員於上述路口巡查，未發現有燃燒不明物品產生異味致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 09:43:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/18 上午 07:45:41"
   },
   {
     "FileNo_": "INS161017376",
@@ -1174,20 +1174,20 @@
   },
   {
     "FileNo_": "INS161017365",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/17 下午 08:55:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路74號前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電方形孔蓋，有凹凸不平、稍微柏油脫落與有稍微鬆動情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/18 00:12 台電高雄區處黃先生回報，該處經人員查看後，表示現場為圓形高污\r\n水孔蓋周邊破損致坑洞，係屬水利局權責，故改派INS161018001，由水利局賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 08:58:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/18 上午 07:45:03"
   },
   {
     "FileNo_": "INS161017364",
