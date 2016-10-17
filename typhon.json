@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161018007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 04:39:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓區清豐一路93號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "人行道施工從鋪，一個月後，地面下陷。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 05:39:42",
     "Close_Date_": ""
   },
   {
