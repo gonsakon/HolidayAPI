@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161018204",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 03:17:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武慶二路(二聖路、漢慶街、瑞興街口)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處三個路口與其他路口號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018203",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 03:16:17",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161018201",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 03:13:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "文化二街與文化二街30巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處有一帆布條綁於圍籬處，已擋住行車視線，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 03:18:04",
     "Close_Date_": ""
   },
   {
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS161018171",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 下午 01:41:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "濱海路一段882之1號",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈歪斜且燈號下垂，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 01:05:03",
     "Close_Date_": "2016/10/17 上午 07:39:56"
-  },
-  {
-    "FileNo_": "INS161017005",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/17 上午 12:55:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新下街沿線，近長青服務中心一側",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處沿線路邊汽車停車格內，有堆放許多垃圾、樹葉與寶特瓶，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於環保局溝渠隊林福來先生於10/17 01:13回報：人員於所述路段沿線巡查，均未發現有\r\n所述之樹葉、寶特瓶等垃圾，且撥打陳情人聯電都未接聽；並於10/18 10：57電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 12:57:20",
-    "Close_Date_": "2016/10/18 上午 10:59:19"
   }
 ]
