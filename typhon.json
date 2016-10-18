@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018067",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 09:09:25",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中正四路17號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址汙水管堵塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018065",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 09:08:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 02:42:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016116",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 下午 02:30:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路上與裕誠路、立文路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路段號誌前後不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 02:32:17",
     "Close_Date_": ""
   }
 ]
