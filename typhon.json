@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018295",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 07:51:49",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南北路與店仔後街口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋破損凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018294",
     "Status_": "1",
     "Cre_Date_": "2016/10/18 下午 07:50:56",
@@ -1327,14 +1344,14 @@
   },
   {
     "FileNo_": "INS161018216",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 下午 04:12:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "月眉橋端(楠梓仙溪附近)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一砂石場有輾砂石噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:06:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017096",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 09:59:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋西路64之3號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路中有兩個路面坑洞，已先用三角錐警示，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 10:21:48",
     "Close_Date_": ""
   }
 ]
