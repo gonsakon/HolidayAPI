@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161018355",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/18 下午 11:26:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路與四維二路(長青活動中心頂樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處至晚間22:00起皆有發電機致噪音情事，建請查處。(願意提供渠家為測點)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/18 下午 11:29:45",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018354",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 11:24:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 11:58:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017157",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 11:53:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里得勝巷18號前( 廟前方)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處影一路燈電桿漏電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 11:55:20",
     "Close_Date_": ""
   }
 ]
