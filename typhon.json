@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018282",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 06:59:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "1.廟前路5號旁、2.廟前路1巷16號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映1.該址旁有一盞路燈故障不亮，2.該址住家後面有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018281",
     "Status_": "1",
     "Cre_Date_": "2016/10/18 下午 06:58:36",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018280",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/18 下午 06:57:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路161之1號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有二盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/18 下午 06:59:31",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 09:42:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017084",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 09:40:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁慈路109巷6號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈燈罩損壞，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 09:46:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017082",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 上午 09:37:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "中山路二段632巷38號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處斜對面有一盞路燈故障不亮，然上方有綁上紅色塑膠帶，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 09:43:31",
     "Close_Date_": ""
   }
 ]
