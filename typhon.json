@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018281",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 06:58:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "台鋁北巷內，近一德路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018279",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 06:52:57",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161018273",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/18 下午 06:17:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "福誠三街與福誠二街口(哲林大樓)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前空氣中有瀰漫瓦斯異味，建請查處。",
     "AfterDesc_": "",
@@ -562,20 +579,20 @@
   },
   {
     "FileNo_": "INS161018246",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/18 下午 05:34:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復橫一路11號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "這邊是住宅區，這間機車行時不時催機車，使用噴槍產生噪音，是否有合法申請營業登記證，符合區域規劃",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-96848由經發局、都發局賡續辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 06:58:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/18 下午 06:59:47"
   },
   {
     "FileNo_": "INS161018245",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 09:43:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017081",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 上午 09:34:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "立德街34號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址有三、四盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 09:40:05",
     "Close_Date_": ""
   }
 ]
