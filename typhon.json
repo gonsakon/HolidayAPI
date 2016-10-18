@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018294",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 07:50:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民權二路586號至624號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址間人行道上自颱風過後皆有垃圾堆積致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018293",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 07:40:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:21:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017095",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 09:54:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "敬業路9號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處前有二盞路燈，遭風災破壞，造成燈罩下垂，光線角度偏移往下照射，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 09:55:48",
     "Close_Date_": ""
   }
 ]
