@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018192",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 02:52:15",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞隆東路38巷1號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處巷底大樓後方有一流浪犬受困空地圍籬內，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018191",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 02:41:46",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161018160",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/18 下午 12:19:01",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中洲里中南街67號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映現該址前路邊有十餘隻流浪狗會追逐攻擊路過民眾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 10:23:39",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016243",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/16 下午 10:18:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路二段132號(鳳山行政中心前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有舉辦活動使用擴音器致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/17  00:09  環保局環境稽查科中區股潘星宇先生回報，稽查人員於22:50到達，\r\n稽查當時該活動已結束，人員於周界巡查，並未發現舉辦活動使用擴音器致噪音情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 10:20:34",
-    "Close_Date_": "2016/10/17 上午 07:42:15"
   }
 ]
