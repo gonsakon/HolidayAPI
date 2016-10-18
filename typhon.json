@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161018087",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/18 上午 09:36:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後勁溪，德民橋下，日月光排水孔",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處溪水有白色泡沫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/18 上午 09:41:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018086",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 09:35:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 05:05:06",
     "Close_Date_": "2016/10/16 下午 05:41:05"
-  },
-  {
-    "FileNo_": "INS161016140",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 下午 04:49:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "夢裡路42號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有民眾在燃燒樹葉，導致空氣污染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 04:52:50",
-    "Close_Date_": ""
   }
 ]
