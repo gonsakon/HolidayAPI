@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018300",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 08:01:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民權二路586號至624號間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道地上照明燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018299",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 08:00:15",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161018294",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 07:50:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "民權二路586號至624號",
+    "address_": "民權二路586號至624號間",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址間人行道上自颱風過後皆有垃圾堆積致髒亂，建請查處。",
+    "BeforeDesc_": "渠反映該址人行道上自颱風過後皆有垃圾堆積致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 08:02:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:13:48",
     "Close_Date_": "2016/10/18 下午 12:58:08"
-  },
-  {
-    "FileNo_": "INS161017101",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 10:07:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德北路559號(八卦休閒公園外門口)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該處公園內有樹枝髒亂垃圾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 10:14:14",
-    "Close_Date_": ""
   }
 ]
