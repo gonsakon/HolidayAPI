@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018335",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 09:52:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "立大路上，於左營國中與左營圖書館交接處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處晚間持續發出機具設備產生嗡鳴聲響致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018334",
     "Status_": "1",
     "Cre_Date_": "2016/10/18 下午 09:50:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 11:15:02",
     "Close_Date_": "2016/10/18 上午 11:46:42"
-  },
-  {
-    "FileNo_": "INS161017134",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 11:07:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "大湖里中山路一段447巷12弄21號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前方是兩部車輛可會車之道路範圍，惟現場有一處路面坑洞，建請查處。(陳情人要求局處人員前往前先行聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 11:15:16",
-    "Close_Date_": ""
   }
 ]
