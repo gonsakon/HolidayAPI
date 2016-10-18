@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161018351",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/10/18 下午 11:23:45",
     "ReplyUnit_": "A02000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "球場路山腳路口",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
-    "InformDesc_": "佔用道路",
+    "StatusName_": "處理完成",
+    "InformDesc_": "急迫危害立即排除",
     "BeforeDesc_": "2016-10-16下午16:16分，acv-0076違規跨越雙黃線逆向闖紅燈。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 11:33:19",
     "Close_Date_": ""
   },
   {
