@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161018262",
+    "FileNo_": "INS161018263",
     "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 06:04:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "菜公一路110號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018262",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 06:03:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路60號左右(往市區方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 06:04:35",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 09:11:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017062",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 上午 09:06:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "廈莊一街,廈莊兒童公園內",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處有二盞園燈故障不亮,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 09:12:33",
     "Close_Date_": ""
   }
 ]
