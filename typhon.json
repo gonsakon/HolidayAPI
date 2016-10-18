@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018351",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 11:23:45",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "球場路山腳路口",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "佔用道路",
+    "BeforeDesc_": "2016-10-16下午16:16分，acv-0076違規跨越雙黃線逆向闖紅燈。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018350",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 11:15:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 11:46:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017152",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 11:45:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路二段57巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈閃爍故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 11:47:48",
     "Close_Date_": ""
   }
 ]
