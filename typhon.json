@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161018212",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 04:06:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路(介於民族一路901巷與大中二路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映路段沿線紅磚人行道上有風災後垃圾及樹葉，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018210",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 03:53:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 06:11:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017013",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/17 上午 06:05:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建興路252巷5號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前遭丟棄一包垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】10/17 06：12 三民東區清潔隊吳振彬先生回報，該處人員經查無上述地址，惟陳情\r\n人無留聯電礙難查辦。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 06:06:36",
-    "Close_Date_": "2016/10/17 上午 07:34:03"
   }
 ]
