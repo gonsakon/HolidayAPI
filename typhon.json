@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018174",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 01:46:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "中正路46巷17號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018173",
     "Status_": "1",
     "Cre_Date_": "2016/10/18 下午 01:43:59",
@@ -5237,20 +5254,20 @@
   },
   {
     "FileNo_": "INS161017267",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/17 下午 05:43:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路195巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路面有堆置許多樹枝，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/17 18:19 苓雅區清潔隊施長興先生回報，人員於上述地點查察並未發現現場有堆置\r\n樹枝，且人員另與陳情人聯繫確認地點並說明未發現有上述情事，局處人員表示應該由早班清潔人員已協助清\r\n除；並於10/18 13：44電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 05:47:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/18 下午 01:45:20"
   },
   {
     "FileNo_": "INS161017266",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 09:01:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016225",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/16 下午 08:59:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北二路(自立一路至瑞源路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 09:01:43",
     "Close_Date_": ""
   }
 ]
