@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018320",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 09:07:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國富路34號6樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有施工機具噪音，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018319",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 09:03:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:49:28",
     "Close_Date_": "2016/10/17 上午 10:58:08"
-  },
-  {
-    "FileNo_": "INS161017121",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 10:44:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文聖街與華泰街交叉路口(文聖街處)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "小量木頭和一個塑膠箱，請下午資源回收車經過(是清運路線)時順便帶走。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 10:55:31",
-    "Close_Date_": ""
   }
 ]
