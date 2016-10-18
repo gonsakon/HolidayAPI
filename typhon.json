@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018188",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 02:28:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "河東路，七賢二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "河東路，七賢二路口號誌故障（紅燈不亮，綠燈會亮）",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018187",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 02:23:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 10:02:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016239",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/16 下午 09:56:15",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "竹寮路606號前與竹寮路74號前",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該兩處號誌未連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/16  22：29  交通局智慧運輸中心蔡淑君小姐回報，經查該處現場號誌正常連\r\n鎖，並無故障情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 09:58:19",
-    "Close_Date_": "2016/10/17 上午 07:43:21"
   }
 ]
