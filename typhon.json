@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018322",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 09:14:40",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區中山東路 光遠路口 紅燈故障",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018320",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 09:07:20",
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS161018277",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 下午 06:50:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "立忠路與立志街口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口一盞號誌故障全不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:50:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017122",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/17 上午 10:44:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文聖街與華泰街交叉路口(文聖街處)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "小量木頭和一個塑膠箱，請下午資源回收車經過(是清運路線)時順便帶走。",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161017121，研判應是重複成案，故併入\r\n該案一併委由環保局處賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 10:49:28",
-    "Close_Date_": "2016/10/17 上午 10:58:08"
   }
 ]
