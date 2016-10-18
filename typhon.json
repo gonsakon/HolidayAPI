@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161018304",
+    "FileNo_": "INS161018305",
     "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 08:11:59",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "蓮海路70號(中山大學)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018304",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 08:10:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "中崙路148巷60號對面大榕樹下",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈風災過後即燈頭故障歪斜，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 08:12:07",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 上午 10:27:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017106",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 上午 10:22:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光明路三段與至學路口(東北角)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處燈號下垂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 上午 10:24:39",
     "Close_Date_": ""
   }
 ]
