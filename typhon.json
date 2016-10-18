@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018186",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 02:20:24",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營下路155號旁(往哈囉市場方向)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有路面下陷情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018184",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 02:17:53",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161018182",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 02:11:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路，捷運凹子底站",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映捷運1號出口後方有一路樹(雞蛋花)傾斜且樹桹 外露，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 02:20:01",
     "Close_Date_": ""
   },
   {
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161018129",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 上午 10:40:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營下路155號(往哈囉市場方向)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有路面下陷情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 09:53:01",
     "Close_Date_": "2016/10/17 上午 07:44:24"
-  },
-  {
-    "FileNo_": "INS161016237",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 下午 09:48:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路，近屏山新村巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處有一榕樹倒塌移除，人行道地磚都未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 09:51:42",
-    "Close_Date_": ""
   }
 ]
