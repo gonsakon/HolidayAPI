@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161018307",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 08:16:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "自立一路66之6號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 08:17:14",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161018305",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 下午 08:11:59",
     "ReplyUnit_": "E01005",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "蓮海路70號(中山大學)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映全校目前無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 下午 08:16:54",
     "Close_Date_": ""
   },
   {
