@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018156",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 上午 11:55:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "大景二街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該路段「大景二街」路牌掉落於地上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018155",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 11:42:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 08:26:19",
     "Close_Date_": "2016/10/17 下午 05:33:31"
-  },
-  {
-    "FileNo_": "INS161016207",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/16 下午 08:16:58",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "漢口街62號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一汙水孔蓋周邊柏油有破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 08:18:16",
-    "Close_Date_": ""
   }
 ]
