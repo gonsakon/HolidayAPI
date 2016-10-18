@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161018141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 11:02:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "1.平和南路 2.平順街 3.平和南路250巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該三處沿線路段，多盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/18 上午 11:04:02",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 11:00:51",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161018137",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/18 上午 10:58:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "847",
+    "ZipName_": "甲仙區",
+    "address_": "大田里中園路62號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該址前方積水，局處僅放置一安全錐卻未派員處理，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/18 上午 11:07:51",
     "Close_Date_": ""
   },
   {
@@ -1038,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161018079",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/18 上午 09:24:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "民族路236巷對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一舊衣回收箱，現蓋子壞掉無法闔上，因緊鄰馬路恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 07:41:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016192",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 下午 07:37:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "復興新村335號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。(陳情人要求人員到場時先聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 07:40:06",
     "Close_Date_": ""
   }
 ]
