@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161018158",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/18 下午 12:02:05",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路與水管路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌三盞故障不亮，一盞閃燈故障，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161018157",
     "Status_": "2",
     "Cre_Date_": "2016/10/18 上午 11:55:57",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS161018105",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/18 上午 10:09:12",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "廠邊一路39號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址旁地下停車場出入口水溝蓋邊水泥破損鋼筋裸露，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/16 下午 08:27:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161016209",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/16 下午 08:23:21",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "旗楠路68之5號後方",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻受困於大排溝內，望請協助，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/16 下午 08:25:59",
     "Close_Date_": ""
   }
 ]
