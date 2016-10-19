@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161019200",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 03:34:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中芸里中芸路地下道內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一不明圓形孔蓋有損壞情事，建請查處並電覆陳情人。",
+    "BeforeDesc_": "渠反映該處有一不明圓形孔蓋有損壞情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 03:35:11",
     "Close_Date_": ""
   },
   {
