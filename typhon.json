@@ -239,19 +239,19 @@
   },
   {
     "FileNo_": "INS161019074",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 09:15:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大莊路11巷21號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該址前方有一盞路燈白天未熄滅，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 上午 09:42:17",
     "Close_Date_": ""
   },
   {
