@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161019354",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 10:53:27",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "凱旋一路近凱旋一路93巷",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處一貓隻遭撞受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 10:56:36",
     "Close_Date_": ""
   },
   {
@@ -171,20 +171,20 @@
   },
   {
     "FileNo_": "INS161019344",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/19 下午 10:27:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新中街75號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "紅線違規擺攤。洗手佔用公地，侵占公用電線桿。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】10/19 22:53 依據警政業務權責回歸，代為通報 110 勤務指揮中心 鄭警員成功，\r\n 另提供陳情人聯電供承辦單位於案情/地點不詳時聯繫詢問，感謝您的熱心通報，倘您對本案處理有疑問，\r\n 歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 10:55:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/19 下午 10:56:24"
   },
   {
     "FileNo_": "INS161019343",
