@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161019345",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 10:30:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "崇聖路20號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 10:31:41",
     "Close_Date_": ""
   },
   {
