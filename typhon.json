@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161019259",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/19 下午 06:10:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "博愛一路158號、160號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處樂器行使用擴音設備致噪音產生，建請查處。(陳情人要求人員前往前先行聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/19 下午 06:13:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019258",
     "Status_": "1",
     "Cre_Date_": "2016/10/19 下午 06:09:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 06:20:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018016",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 上午 06:16:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "環湖路近文前路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處中央分隔島1路燈燈罩幾近脫落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 06:20:40",
     "Close_Date_": ""
   }
 ]
