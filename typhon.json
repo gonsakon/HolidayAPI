@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019275",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 下午 06:45:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔北巷4之53號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019274",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 06:41:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 07:41:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018030",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 上午 07:38:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族陸橋上(往北)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處隔音牆上有插一廢棄輪胎皮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 07:39:46",
     "Close_Date_": ""
   }
 ]
