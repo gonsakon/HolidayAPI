@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 10:56:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "846",
+    "ZipName_": "杉林區",
+    "address_": "集來里通仙巷聖母宮前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019122",
     "Status_": "1",
     "Cre_Date_": "2016/10/19 上午 10:55:15",
@@ -3809,14 +3826,14 @@
   },
   {
     "FileNo_": "INS161018256",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/18 下午 05:55:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫八街385巷387號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該址住戶將狗籠連同犬隻飼養在對面公園內，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 06:13:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017283",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 下午 06:03:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐二路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 06:05:20",
     "Close_Date_": ""
   }
 ]
