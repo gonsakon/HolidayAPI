@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019177",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/19 下午 02:09:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "赤仁路25號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前整排路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/19 下午 02:12:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019176",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 02:03:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 08:05:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017335",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 07:47:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "華夏路1771號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道地磚有隆起不平情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 07:48:41",
     "Close_Date_": ""
   }
 ]
