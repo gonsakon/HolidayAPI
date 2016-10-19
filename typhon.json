@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161020016",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 07:43:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "筆秀路與大寮路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈閃燈故障，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 07:44:14",
     "Close_Date_": ""
   },
   {
