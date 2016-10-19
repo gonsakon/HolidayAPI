@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019129",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 11:12:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "孔鳳路179巷72號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處前路面有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019127",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 11:04:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 06:21:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017287",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 下午 06:16:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "宏昌街沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 06:17:44",
     "Close_Date_": ""
   }
 ]
