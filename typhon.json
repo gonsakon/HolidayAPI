@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019080",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 09:27:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大莊路2巷往61號方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷道二處前方，分別各有二盞路燈(其中一盞編號63區7336-24)及一盞路燈(編號63區7335-13)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019078",
     "Status_": "1",
     "Cre_Date_": "2016/10/19 上午 09:26:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 04:23:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017240",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 04:12:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠陽路與興西路(興西路上往南加工區方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有出現縫隙需填補柏油，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 04:14:39",
     "Close_Date_": ""
   }
 ]
