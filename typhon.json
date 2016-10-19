@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019115",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 10:44:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "桃源里柴山41號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一木製路燈桿傾斜，恐生危險，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019114",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 10:37:10",
@@ -851,14 +868,14 @@
   },
   {
     "FileNo_": "INS161019064",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/19 上午 09:02:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招路與安東街口(安招路上)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，且先前燈桿有遭撞歪斜未處理，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 06:00:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017275",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 05:58:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "豐田街66號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上遭丟棄一黑色垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 06:03:57",
     "Close_Date_": ""
   }
 ]
