@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019294",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/19 下午 07:27:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路25巷61弄內",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有廟宇在焚燒物品致空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/19 下午 07:30:02",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019293",
     "Status_": "1",
     "Cre_Date_": "2016/10/19 下午 07:25:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 08:47:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018049",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 上午 08:35:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新衙路308號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前方有多包風災掉落之樹枝、樹葉、大樹枝與垃圾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 08:48:01",
     "Close_Date_": ""
   }
 ]
