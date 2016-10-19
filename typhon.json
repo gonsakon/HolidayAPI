@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019345",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 下午 10:30:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "崇聖路20號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019344",
     "Status_": "1",
     "Cre_Date_": "2016/10/19 下午 10:27:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 10:04:45",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018100",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/18 上午 09:59:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄觀路159號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一洗車場，排油發電機的異味致空污情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/18 11：40 環保局公害專線中區股張愛群先生回報，稽查人員於11：20到達，現場\r\n未發現所述空汙之情事；並於10/19 10：06電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 10:02:33",
-    "Close_Date_": "2016/10/19 上午 10:13:34"
   }
 ]
