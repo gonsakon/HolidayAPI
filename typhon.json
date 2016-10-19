@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019143",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 11:57:43",
+    "ReplyUnit_": "",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營區華夏路722號",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "左營區華夏路722號路樹太高請派人修剪！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019142",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 11:52:40",
@@ -239,19 +256,19 @@
   },
   {
     "FileNo_": "INS161019128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 11:10:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路189巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映凱旋醫院工程車進出未清洗輪胎夾帶泥沙行駛該路段，致現場嚴重揚塵，建請查處。(陳情人要求局處處理完成與其回覆)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 12:00:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 06:39:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017302",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 下午 06:35:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁福里公館一巷34號(古嚴寺)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 06:36:28",
     "Close_Date_": ""
   }
 ]
