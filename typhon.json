@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161019214",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/19 下午 04:03:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "公園街67號與69號間",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一開關箱(編號:5199)外殼遺失電線外露，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161019213",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 03:58:17",
@@ -1106,14 +1089,14 @@
   },
   {
     "FileNo_": "INS161019147",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/19 下午 12:04:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "翠華路與海功東路(萬姓公媽祠旁)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有一斷樹傾倒於電線上，建請查處。",
     "AfterDesc_": "",
@@ -4115,20 +4098,20 @@
   },
   {
     "FileNo_": "INS161018327",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/18 下午 09:26:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路377號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有路樹傾倒後之樹枝未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/18 21:54左營區清潔隊申華國先生回報，該處經人員查看，並與陳情人聯繫確認\r\n後，該處路樹呈現半倒塌情況，且還有樹枝吊掛在樹上，非屬於清潔隊權責，需請養工處協住處理，故改派\r\nINS161018341 賡續辦理；待該案處理完成再行回覆陳情人，故先行將本案解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 09:31:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/19 下午 04:05:52"
   },
   {
     "FileNo_": "INS161018326",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 09:20:58",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161017371",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/17 下午 09:17:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "學府路上(大社里範圍、由觀音山往義大方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段有一區域路燈故障不亮許久，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/17 下午 09:20:50",
     "Close_Date_": ""
   }
 ]
