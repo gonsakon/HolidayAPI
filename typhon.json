@@ -154,19 +154,19 @@
   },
   {
     "FileNo_": "INS161019343",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/19 下午 10:21:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁武區鳳仁路255號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "道路反射鏡的鏡子不見 出入要嚴加注意",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 10:50:37",
     "Close_Date_": ""
   },
   {
