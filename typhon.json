@@ -171,19 +171,19 @@
   },
   {
     "FileNo_": "INS161019344",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/19 下午 10:27:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新中街75號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "紅線違規擺攤。洗手佔用公地，侵占公用電線桿。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 下午 10:55:10",
     "Close_Date_": ""
   },
   {
