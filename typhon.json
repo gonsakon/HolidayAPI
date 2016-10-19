@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019041",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 08:03:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路62巷19號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址住戶堆置大量資源回收物在路面上，造成髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019038",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 08:02:43",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161019040",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 08:01:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "大華一路擴建路",
+    "address_": "大華一路與擴建路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 上午 08:02:37",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 02:35:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017201",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 02:30:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "慶雲街116號至126號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有不明異體從50樓廣場飄落， 且乾掉之後會形成白色粉末，建請單位會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 02:36:38",
     "Close_Date_": ""
   }
 ]
