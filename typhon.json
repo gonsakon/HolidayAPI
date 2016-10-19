@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161019051",
+    "FileNo_": "INS161019052",
     "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 08:32:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街514號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161019051",
+    "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 08:31:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "和平路二段160號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈(綠燈)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/19 上午 08:33:15",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 03:00:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017212",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 02:55:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金後路510號之2",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道變電箱旁有三包垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 02:57:10",
     "Close_Date_": ""
   }
 ]
