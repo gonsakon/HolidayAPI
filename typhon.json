@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019316",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 下午 08:42:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "三多二路與民權二路口(褲子大王前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處先前一填補處又再次下陷，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019314",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 08:39:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 09:19:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018071",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 上午 09:12:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "正隆街22號與16號之間",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 09:15:14",
     "Close_Date_": ""
   }
 ]
