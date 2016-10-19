@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020011",
+    "FileNo_": "INS161020012",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 06:24:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎力路173號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020011",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 06:23:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營下路167號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路中央有一坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 06:24:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 10:44:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018128",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 上午 10:40:26",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順一路與民族一路、大順一路與聯興路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該兩路口西向東為綠燈時東向西號誌已變紅燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 10:41:50",
     "Close_Date_": ""
   }
 ]
