@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019302",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 下午 07:56:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街與吉林街交叉口，熱河一街上",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處路口號誌連鎖，有晚約20秒變燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019301",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 07:53:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 08:57:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018055",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 上午 08:46:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文恩路124巷1弄2號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址住戶將大量資源回收物堆置於1弄內道路上，已造成髒亂、惡臭，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 08:54:51",
     "Close_Date_": ""
   }
 ]
