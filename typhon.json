@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019185",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 下午 02:29:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新強公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019183",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 02:22:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 08:11:30",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017342",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/17 下午 08:04:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路與復興三路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有碎砂石，建請清除。",
-    "AfterDesc_": "【主管解除管制】10/17 21:04 前鎮區清潔隊莊素雲小姐回報，該處路口碎砂石已全數清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 08:11:29",
-    "Close_Date_": "2016/10/18 上午 07:58:07"
   }
 ]
