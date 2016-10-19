@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019116",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/19 上午 10:46:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "公館路118號與120號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有路燈電線垂落與周邊路燈不亮情事，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019115",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 上午 10:44:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 06:00:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017276",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/17 下午 05:59:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "豐田街與翠亨南路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處翠屏公園內有五盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 06:00:48",
     "Close_Date_": ""
   }
 ]
