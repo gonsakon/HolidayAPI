@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161019195",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/19 下午 03:13:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "竹門巷6號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障許久，望請修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/19 下午 03:14:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161019194",
     "Status_": "2",
     "Cre_Date_": "2016/10/19 下午 03:10:10",
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161019138",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/19 上午 11:40:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "新疆路57號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該址前路樹上有一已乾枯斷枝懸掛搖晃恐掉落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/17 下午 08:31:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161017352",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/17 下午 08:28:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "1.仕豐路158之33號前 2.仕豐路158之42號左側",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處各一盞路燈故障不亮，建請查處。(陳情人要求人員先與其聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/17 下午 08:31:49",
     "Close_Date_": ""
   }
 ]
