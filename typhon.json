@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020150",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 12:48:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文自路與大中二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中於早上10:00開始，就有一股瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020149",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 12:46:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 06:04:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018262",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 06:03:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路60號左右(往市區方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 06:04:35",
     "Close_Date_": ""
   }
 ]
