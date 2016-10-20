@@ -5356,20 +5356,20 @@
   },
   {
     "FileNo_": "INS161019118",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/19 上午 10:48:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大吉路615號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址以及周邊突然無預警停電，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/20 09：28經詢問台電1911林小姐表示，主線跳脫，已修復送電；並於\r\n10/20 09：40電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:52:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/20 上午 09:41:24"
   },
   {
     "FileNo_": "INS161019117",
