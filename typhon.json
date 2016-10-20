@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020036",
+    "FileNo_": "INS161020037",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 08:25:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "三民路182巷17號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020036",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 08:23:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "益群橋下，後勁溪",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有不明白色液體從類似出水閘口排出已一晚，至水面浮著一層白色液體，建請查處。",
+    "BeforeDesc_": "渠反映該處有不明白色液體從類似出水閘口排出已一晚，致水面浮著一層白色液體，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 08:25:05",
     "Close_Date_": ""
   },
   {
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161020031",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 08:19:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "中山路與久堂路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 08:26:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 上午 11:40:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018153",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 上午 11:36:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中山二路與青年二路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處小綠人號誌燈上有綁一個10/22路跑牌子，惟因鬆動導致亂飛，已影響行車人安全，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 上午 11:38:11",
     "Close_Date_": ""
   }
 ]
