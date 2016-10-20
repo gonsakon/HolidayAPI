@@ -4880,20 +4880,20 @@
   },
   {
     "FileNo_": "INS161020096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 10:22:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路北上(飛機路至大業北路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道上有一掃把，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/20 10:46 小港區清潔隊 吳華梅小姐回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:23:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 07:53:51"
   },
   {
     "FileNo_": "INS161020095",
@@ -4931,20 +4931,20 @@
   },
   {
     "FileNo_": "INS161020093",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 10:17:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德一路63巷7號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址後水溝現傳出惡臭且積水孳生蚊蟲，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/20 11：26 苓雅區清潔隊呂荻荻小姐回報，該處水溝已清疏完成。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:25:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 07:54:33"
   },
   {
     "FileNo_": "INS161020092",
