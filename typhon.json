@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020225",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 04:35:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "安石街7巷，近五福四路口處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處樹木上有斷枝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020224",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 04:35:09",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161020222",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 04:34:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳松路轉入鳳誠路(牛潮埔公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該處有民眾違規於內焚燒物品，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 04:36:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 09:56:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018336",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 09:53:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "松寮路橋上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該高架橋上路燈全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 09:54:21",
     "Close_Date_": ""
   }
 ]
