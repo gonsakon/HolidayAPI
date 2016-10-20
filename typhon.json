@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020126",
+    "FileNo_": "INS161020127",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 11:19:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德中路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "颱風天過後 ，有大片鐵皮屋掉落到河裡 ，我怕鐵皮屋會傷到橋墩 ，違害到興中橋的安全",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020126",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 11:18:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "大湖里民權路30巷6弄17號斜對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞LED路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 11:19:49",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 05:07:56",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018238",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/18 下午 05:05:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "寶興路112之16號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處堆積遭風災吹襲掉落枝葉及垃圾等，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於10/18 17:45 三民東區清潔隊王文全先生回報，該處皆已清除完畢；並於10/19 13：54\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 05:07:14",
-    "Close_Date_": "2016/10/19 下午 01:58:27"
   }
 ]
