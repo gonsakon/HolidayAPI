@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020250",
+    "FileNo_": "INS161020251",
     "Status_": "1",
-    "Cre_Date_": "2016/10/20 下午 05:56:30",
+    "Cre_Date_": "2016/10/20 下午 05:57:29",
     "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "永華路3之2號",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "豐田街66號與豐田街81巷口",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路口有一盞LED路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020250",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/20 下午 05:56:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "永華路3之2號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈(編號: 025)故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 05:57:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 01:06:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019004",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 上午 01:04:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔北巷37號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號：0236)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 01:06:46",
     "Close_Date_": ""
   }
 ]
