@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021013",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 06:53:47",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021012",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 上午 06:53:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 11:13:44",
     "Close_Date_": "2016/10/20 下午 12:27:20"
-  },
-  {
-    "FileNo_": "INS161019129",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 11:12:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "孔鳳路179巷72號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處前路面有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 11:14:43",
-    "Close_Date_": ""
   }
 ]
