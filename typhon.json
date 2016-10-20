@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161020060",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 09:13:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "東林路(靠近警察局靶場)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處有一刨除道路之大型機具占用人行道，疑似要做工程，因影響行人通行，望請移除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 09:15:16",
     "Close_Date_": ""
   },
   {
