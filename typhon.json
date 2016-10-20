@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161020197",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/20 下午 03:38:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路1357號(龍水化龍宮)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該寺廟目前有使用擴音器致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/20 下午 03:42:16",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020196",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 03:32:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 08:29:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018309",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 08:21:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大明路與瑞隆東路(大明夜市，亞太電信與OK超商)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一燒烤攤販目前有油煙濃厚致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 08:25:44",
     "Close_Date_": ""
   }
 ]
