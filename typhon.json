@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020182",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 02:47:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光復路一段162巷14號與16號之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處電桿旁遭棄置5、6包垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020181",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 02:39:21",
@@ -5152,20 +5169,20 @@
   },
   {
     "FileNo_": "INS161019234",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/19 下午 05:10:23",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "西溪路138之8號(伯特利幼兒園旁)",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有一台電圓形孔蓋有損壞情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/19 18:38 台電鳳山區處吳先生回報，該處經人員勘查為污水人孔蓋非台電孔蓋，需\r\n由水利局協助修復，故改派非網A-TB-2016-97288由水利局辦理；並於10/20 14：46電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 05:14:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/20 下午 02:46:10"
   },
   {
     "FileNo_": "INS161019233",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 08:02:20",
     "Close_Date_": "2016/10/19 下午 03:50:23"
-  },
-  {
-    "FileNo_": "INS161018293",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 07:40:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松信路上，近博學路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路上，第2、7盞路燈不亮，第1、5盞燈頭遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 07:41:50",
-    "Close_Date_": ""
   }
 ]
