@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020170",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 01:52:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "滾水路近觀水宮路口(大將爺廟)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處旁有3盞路燈(角宿37號、角宿38號、角宿39號)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020169",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 01:48:01",
@@ -1089,14 +1106,14 @@
   },
   {
     "FileNo_": "INS161020103",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/20 上午 10:36:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路969巷1弄2號12樓之2，第19棟",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有冷氣滴水情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 06:59:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018281",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 06:58:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "台鋁北巷內，近一德路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 07:00:39",
     "Close_Date_": ""
   }
 ]
