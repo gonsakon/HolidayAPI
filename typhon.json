@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 12:10:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路76號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "行人號誌燈箱",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020363",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 11:42:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:50:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019116",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 上午 10:46:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "公館路118號與120號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有路燈電線垂落與沿線路燈不亮情事，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:47:08",
     "Close_Date_": ""
   }
 ]
