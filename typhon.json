@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020352",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 10:31:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中芸路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020351",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 10:26:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:21:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019105",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 10:17:07",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路227號",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址旁有一號誌，其秒數數目字有歪斜情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:21:54",
     "Close_Date_": ""
   }
 ]
