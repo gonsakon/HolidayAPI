@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020223",
+    "FileNo_": "INS161020224",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 04:35:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳松路轉入鳳誠路(牛潮埔公園)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有民眾於內焚燒物品致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020223",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 04:34:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳仁路102號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 04:35:42",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 09:54:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018335",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 09:52:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "立大路上，於左營國中與左營圖書館交接處",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處晚間持續發出機具設備運轉產生嗡鳴聲響致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 09:53:11",
     "Close_Date_": ""
   }
 ]
