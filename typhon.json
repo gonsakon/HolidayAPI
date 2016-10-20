@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020165",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 01:36:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "新興街上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，且燈具垂掛(海山高分25、26、28、34)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020164",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 01:35:22",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020162",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/20 下午 01:33:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "雙園大橋",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處瀰漫化學異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/20 下午 01:37:33",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 06:51:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018277",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 06:50:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "立忠路與立志街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口一盞號誌故障全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 06:52:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018276",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/18 下午 06:44:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路與復興三路口(近斑馬線)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有一坑洞凹陷，請修復。",
-    "AfterDesc_": "【主管解除管制】本案於 10/19 08:10 養工處 四維養護工程隊 前鎮分隊 潘麗娥小姐回報，該處經查為過路溝\r\n 破損所致，已設警示措施，故改派：INS161019045 委由水利局賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 06:45:13",
-    "Close_Date_": "2016/10/20 上午 12:53:00"
   }
 ]
