@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021009",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 04:00:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "復興二路與四維三路口(寒軒飯店旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路燈(編號：01181)基座疑似鬆脫，以致燈桿搖晃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021008",
     "Status_": "2",
     "Cre_Date_": "2016/10/21 上午 02:16:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 11:05:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019125",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 11:03:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五成街與保南一路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 11:05:05",
     "Close_Date_": ""
   }
 ]
