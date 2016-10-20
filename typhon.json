@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021004",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 12:20:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "外環西路上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫臭酸異味，係為加工區排放廢氣所致，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021003",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 上午 12:14:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:53:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019119",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/19 上午 10:51:02",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路680巷68號前",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處於路中有一遭瀝青覆蓋長方形孔蓋鬆動，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/19 10：06 工務局工程企劃處第六課 郭雅婷小姐回報，該處經查係台電手孔鬆動，\r\n故轉派:INS161019164",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:55:13",
-    "Close_Date_": "2016/10/20 上午 09:51:11"
   }
 ]
