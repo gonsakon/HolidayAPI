@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020154",
+    "FileNo_": "INS161020155",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 01:06:17",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中洲里中南街67號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映現該址前路邊有十餘隻流浪狗會追逐攻擊路過民眾，建請查處。(※請人員到現場時先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020154",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 12:58:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "馬卡道路與中華一路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處鐵路旁人行道遭丟棄廢棄物，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 01:03:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 06:11:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018267",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 06:09:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段上(青年地下道便橋)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 06:12:26",
     "Close_Date_": ""
   }
 ]
