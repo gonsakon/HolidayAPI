@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020356",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 10:44:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德南路上，八德中路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020355",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 10:43:10",
@@ -1208,14 +1225,14 @@
   },
   {
     "FileNo_": "INS161020284",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/20 下午 07:32:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲二路722號(五甲協善心德堂)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該廟宇有用擴音器誦經噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:39:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019107",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 上午 10:23:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "佛公路200號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:37:55",
     "Close_Date_": ""
   }
 ]
