@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020203",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 03:49:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光明路與大東一路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有道路施工，惟因未灑水，導致揚塵產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020202",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 03:48:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 08:47:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018314",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 08:43:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "裕昌街上(中山西路與光復路二段間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處位於家樂福機車出入口處，有一長條形路面凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 08:49:14",
     "Close_Date_": ""
   }
 ]
