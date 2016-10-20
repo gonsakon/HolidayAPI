@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161021024",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 上午 07:45:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲二路722號 (五甲關帝廟  協善堂)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該宮廟誦經擴音器聲響噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 上午 07:46:55",
     "Close_Date_": ""
   },
   {
@@ -2398,20 +2398,20 @@
   },
   {
     "FileNo_": "INS161020245",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 下午 05:40:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "五福四路上靠近莒光街(往西方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處快車道有掉落壓克力，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/20 18:05 鹽埕區清潔隊陳世年先生回報，該處派兩名清潔隊員前往查看，東、\r\n西向皆沿線查詢，並無發現壓克力於快車道上，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 05:43:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 07:46:54"
   },
   {
     "FileNo_": "INS161020244",
