@@ -8280,20 +8280,20 @@
   },
   {
     "FileNo_": "INS161019055",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/19 上午 08:37:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄大學路與大學十六街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/19 11：35 交通局智慧運輸中心蔡淑君小姐回報，已修復完畢；並於10/20 15：11\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 08:40:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/20 下午 03:17:08"
   },
   {
     "FileNo_": "INS161019054",
