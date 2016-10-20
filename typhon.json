@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020050",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 09:02:11",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤里保生路57號與59號之間",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處有一高縣寬頻孔蓋有鬆動致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020049",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 08:59:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 01:16:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018165",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 01:10:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "文橫二路與永康街口(文橫二路上)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處慢車道上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 01:12:34",
     "Close_Date_": ""
   }
 ]
