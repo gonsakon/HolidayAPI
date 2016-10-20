@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161021007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 上午 12:51:29",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路510號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線停車 佔用機車位",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已通報警察局110葉警員辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 01:26:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 01:27:37"
   },
   {
     "FileNo_": "INS161021006",
