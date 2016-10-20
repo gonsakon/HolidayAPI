@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020268",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 06:54:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和路1號(小港國小)附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中大範圍飄散類似消毒水之惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020267",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 06:50:18",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161020230",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/20 下午 04:50:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "永福路30巷3號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處一空地旁住家，其燒水都是用燃燒木材的方式，導致煙霧瀰漫，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 06:48:24",
     "Close_Date_": "2016/10/20 上午 10:14:13"
-  },
-  {
-    "FileNo_": "INS161019021",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 06:29:39",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林四路(介於果協路與忠義路)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 06:30:52",
-    "Close_Date_": ""
   }
 ]
