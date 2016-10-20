@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020242",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 05:23:50",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "武廟路83之1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址前方污水管線阻塞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020241",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 05:23:23",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161020240",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 05:21:37",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福安路上，近河北路口(斑馬線前號誌燈旁)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處為過路溝破損所致之路面下陷，已設置安全錐，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 05:24:21",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 11:26:12",
     "Close_Date_": "2016/10/20 下午 12:46:18"
-  },
-  {
-    "FileNo_": "INS161018353",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 11:23:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "潭平路550巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處一工廠正在燃燒廢棄電纜線，致空污異味產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 11:28:02",
-    "Close_Date_": ""
   }
 ]
