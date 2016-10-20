@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020221",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 04:28:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路上，鳳山往仁武方向，未到仁心路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一犬屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020220",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 04:26:45",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161020199",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/20 下午 03:43:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "德興里興南街34之2號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處水溝內遭附近住戶丟棄鐵皮及石頭等，造成嚴重阻塞情況，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 09:42:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018332",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 09:39:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "竹寮里竹寮路24號後方產業道路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處第二盞路燈故障不亮，建請查處。(陳情人表示若找不到可帶人員前往)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 09:44:09",
     "Close_Date_": ""
   }
 ]
