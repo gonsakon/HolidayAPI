@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161020068",
+    "FileNo_": "INS161020069",
     "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 09:23:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "正隆街與永隆街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映電線桿旁水溝阻塞，目前水已滿未溢出，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161020068",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 09:22:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "武廟路218號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處路樹上有斷枝，且恐要掉落，造成危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 上午 09:23:55",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 02:19:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018185",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 02:15:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華橫路(中都橋下)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，已通報養工處多天未修復，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 02:18:29",
     "Close_Date_": ""
   }
 ]
