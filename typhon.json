@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021024",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 07:45:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路722號 (五甲關帝廟  協善堂)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該宮廟誦經擴音器聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021023",
     "Status_": "2",
     "Cre_Date_": "2016/10/21 上午 07:41:02",
@@ -715,37 +732,37 @@
   },
   {
     "FileNo_": "INS161020343",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 下午 10:13:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段與東方路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌均故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/21 01：45 交通局智慧運輸中心黃泰郎先生回報，因此處須與台電釐清權責，無\r\n法於期限內完成，現場仍無立即危險性，故轉派非網A-TB-2016-97857賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 10:14:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 07:44:56"
   },
   {
     "FileNo_": "INS161020342",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 下午 10:13:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "成功路153號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面有多處坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/20 23:10養工處旗美養護工程隊林晃吉先生回報，該處無危險性，惟經查現場坑\r\n洞為先前水利局進行汙水下水道工程施工所致，另致電與陳情人詢問其表示該處附近有一汙水孔蓋有\r\n鬆動致噪音情事，故改派非網A-TB-2016-97842賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 10:16:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 07:45:18"
   },
   {
     "FileNo_": "INS161020341",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 11:49:17",
     "Close_Date_": "2016/10/20 下午 12:26:07"
-  },
-  {
-    "FileNo_": "INS161019140",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 上午 11:44:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "民族路17之11號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 11:46:50",
-    "Close_Date_": ""
   }
 ]
