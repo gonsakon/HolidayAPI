@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021008",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 02:16:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "柳橋東路與阿公店路二段交叉口(寶雅旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路燈(設有4台監視)上電線短路並產生火花，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021007",
     "Status_": "5",
     "Cre_Date_": "2016/10/21 上午 12:51:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 11:05:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019124",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 10:57:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路1870巷57弄與德民路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:57:47",
     "Close_Date_": ""
   }
 ]
