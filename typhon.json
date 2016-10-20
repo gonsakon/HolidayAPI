@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020206",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 03:56:15",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "清風三路95巷17號前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前排水溝內有一隻小貓受困，建請查處。(要求人員先行聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020205",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 03:54:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 08:59:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018317",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 08:50:03",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路1872巷與德民路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 08:51:01",
     "Close_Date_": ""
   }
 ]
