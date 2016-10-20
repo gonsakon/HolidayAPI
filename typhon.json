@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020108",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/20 上午 10:42:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "三和里",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該里內共有15盞路燈故障不亮，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/20 上午 10:45:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020107",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 上午 10:42:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 04:24:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018222",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/18 下午 04:18:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路與明華路口(A+1前方)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 04:20:08",
     "Close_Date_": ""
   }
 ]
