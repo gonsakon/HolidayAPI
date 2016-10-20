@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020328",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 09:30:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "國軒路、登科街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "案件編號：INS161017341、\nINS161017348系統顯示管制狀況：處理完成，實際上仍未見派員處理，請確實派員處理不要作不實登載。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020327",
     "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 09:26:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 09:32:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019081",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 上午 09:28:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路與正義街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 09:31:57",
     "Close_Date_": ""
   }
 ]
