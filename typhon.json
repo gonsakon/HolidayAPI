@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020142",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 上午 11:54:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "經武路上與光遠路(國泰人壽大樓前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處人行道磚破損，恐致行人摔傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020141",
     "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 11:47:40",
@@ -239,20 +256,20 @@
   },
   {
     "FileNo_": "INS161020127",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 11:19:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德中路",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "颱風天過後 ，有大片鐵皮屋掉落到河裡 ，我怕鐵皮屋會傷到橋墩 ，違害到興中橋的安全",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161020120，研判應是重複成案，故併入該案一併\r\n委由水利局賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 11:52:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/20 上午 11:54:21"
   },
   {
     "FileNo_": "INS161020126",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/18 下午 05:57:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161018254",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/18 下午 05:52:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松和路1號(高雄餐旅大學門口)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈風災後燈罩掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/18 下午 05:53:06",
     "Close_Date_": ""
   }
 ]
