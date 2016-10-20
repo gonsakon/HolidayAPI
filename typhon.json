@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161020196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 03:32:20",
     "ReplyUnit_": "E01005",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "龍肚里茶頂街11號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處",
+    "BeforeDesc_": "渠反映該處電桶有爆響傳出，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 03:35:45",
     "Close_Date_": ""
   },
   {
