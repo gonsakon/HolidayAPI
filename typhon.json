@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161020350",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/20 下午 10:24:20",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文自路480號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一污水污水孔蓋工程，有警示燈亮度不足，遭民眾撞倒兩次且已有損壞2盞警示燈，需請單位加強安全措施，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161020349",
     "Status_": "1",
     "Cre_Date_": "2016/10/20 下午 10:22:54",
@@ -358,19 +375,19 @@
   },
   {
     "FileNo_": "INS161020328",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/20 下午 09:30:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路、登科街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "案件編號：INS161017341、INS161017348系統顯示管制狀況：處理完成，實際上仍未見派員處理，請確實派員處理不要作不實登載。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/20 下午 10:24:47",
     "Close_Date_": ""
   },
   {
@@ -7702,14 +7719,14 @@
   },
   {
     "FileNo_": "INS161019252",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/19 下午 05:56:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲一路上(介於凱旋路至南福街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處安全島上沿線皆故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 上午 10:18:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019103",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 上午 10:13:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文學路一段255號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈時亮時滅，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 上午 10:15:26",
     "Close_Date_": ""
   }
 ]
