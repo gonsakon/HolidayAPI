@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021262",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 06:21:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "瓊林里農路橋",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021260",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 06:19:09",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址處有一盞LED路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -2296,37 +2313,37 @@
   },
   {
     "FileNo_": "INS161021124",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 上午 11:09:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "覺民路514號與512號間",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈底基座掏空一半，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/21 14:41交通局智慧運輸中心蔡淑君小姐回報，因基座掏空已報修廠商，無法立即\r\n完成，故改派非網A-TB-2016-98154賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:10:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 下午 06:21:00"
   },
   {
     "FileNo_": "INS161021123",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 上午 11:06:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路109號，城逸大樓",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該大樓外牆之大型帆布50x50公尺，已一半鬆脫，惟恐掉落，致行車危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/21 11：58 通報前金區清潔隊曾詩庭小姐回報，旨揭帆布已由大樓廠商處理完畢；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:10:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 下午 06:21:24"
   },
   {
     "FileNo_": "INS161021122",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 07:55:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020017",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 上午 07:46:33",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路上(由三多四路往小港方向，高雄展覽館附近)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於10/20 10：38 交通局智慧運輸中心蔡淑君小姐回報，人員查看現場號誌係連鎖，無故障情\r\n況；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 07:49:06",
-    "Close_Date_": "2016/10/21 下午 03:19:45"
   }
 ]
