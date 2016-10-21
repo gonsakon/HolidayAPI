@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021192",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 02:49:28",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路374巷 (靠近籃球場)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "渠反映該處有一台電木製電桿，目前有裂開之情事，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021190",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 02:48:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 08:22:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019308",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 下午 08:15:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "捷西路上，近捷運站",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線多盞路燈自風災後即故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 08:16:58",
     "Close_Date_": ""
   }
 ]
