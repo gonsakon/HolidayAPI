@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021317",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 09:31:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "後興北路101巷7號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021316",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 09:19:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 09:48:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020075",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 上午 09:36:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重愛路與高鐵路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈傾斜，致民眾看錯燈號，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/20 11：25 交通局智慧運輸中心蔡淑君小姐回報，該處已修復完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 09:37:34",
-    "Close_Date_": "2016/10/21 下午 03:32:36"
   }
 ]
