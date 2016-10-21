@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161022016",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/22 上午 07:08:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "大東文化藝術中心旁鳳山溪",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處河面目前呈現黑色，疑似遭人排放汙水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/22 上午 07:11:48",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022015",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 07:08:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "後勁溪 ,近援中路沿線",
+    "address_": "後勁溪 ,由興中橋往援中路沿線",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處溪內有死魚浮起,恐有遭排放廢水污染,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 上午 07:09:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 11:02:09",
     "Close_Date_": "2016/10/21 上午 10:31:53"
-  },
-  {
-    "FileNo_": "INS161020114",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 上午 10:56:11",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "test",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "Test",
-    "AfterDesc_": "Test",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 11:08:18",
-    "Close_Date_": "2016/10/20 上午 11:14:48"
   }
 ]
