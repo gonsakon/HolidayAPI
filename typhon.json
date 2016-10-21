@@ -154,19 +154,19 @@
   },
   {
     "FileNo_": "INS161021316",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 09:19:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路與平和東路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "中山四路與平和東路口南往北車道，交通號誌黃燈已被颱風吹落好一段時間，均未見養護單位派人維修。此處是交通要道，市府單位這幾個星期都沒有人經過這裡嗎？",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 下午 09:57:44",
     "Close_Date_": ""
   },
   {
