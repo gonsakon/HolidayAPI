@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021156",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 12:26:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "8418855前鎮區草亞里天倫皆62號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021155",
     "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 12:19:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 06:47:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019274",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 下午 06:41:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "溪寮路22之2號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫餿水惡臭味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 06:42:36",
     "Close_Date_": ""
   }
 ]
