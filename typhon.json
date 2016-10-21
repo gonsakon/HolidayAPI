@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021329",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 10:23:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民族二路上，介於六合路至中東街間，南往北方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路段汽車外線車道上有一路面坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021328",
     "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 10:13:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:19:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020087",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 上午 10:11:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文天路153號隔壁，上新光大樓前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 10:13:07",
     "Close_Date_": ""
   }
 ]
