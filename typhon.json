@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021160",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 01:16:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "竹楠路與鳳仁路口前50公尺處",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021159",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 01:13:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 07:03:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019278",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 下午 06:59:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "玉庫里1之26號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號:嘉峰高幹47/左5)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 07:01:29",
     "Close_Date_": ""
   }
 ]
