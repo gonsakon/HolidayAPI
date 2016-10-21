@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022006",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 02:27:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022005",
     "Status_": "4",
     "Cre_Date_": "2016/10/22 上午 01:32:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:42:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020103",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 上午 10:36:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中華五路969巷1弄2號12樓之2，第19棟",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有冷氣滴水情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/20 13:47 環保局南區股康哲偉先生回報，稽查人員於11:30到達，人員於該址周界巡\r\n查，皆未發現冷氣滴水致汙染情事，故未發現上述情況；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 10:40:23",
-    "Close_Date_": "2016/10/21 下午 03:38:23"
   }
 ]
