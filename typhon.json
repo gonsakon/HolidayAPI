@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161021177",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 02:06:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "葆禎路與九如四路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈有故障閃黃燈情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 下午 02:06:56",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161021175",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 02:02:53",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
-    "address_": "東方路 台17縣 水溝旁",
+    "address_": "東方路靠近台17縣(湖內水溝旁)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一台電電線桿遭撞目前裸空，擔憂傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 下午 02:07:44",
     "Close_Date_": ""
   },
   {
