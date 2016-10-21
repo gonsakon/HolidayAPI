@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021187",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 02:29:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "07號公園，加宏路及加昌路間遊戲場步道凹陷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處步道破損凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021186",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 02:29:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 08:06:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019304",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 下午 08:04:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "環球路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附近路燈(編號：73區650號附近)均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 08:06:16",
     "Close_Date_": ""
   }
 ]
