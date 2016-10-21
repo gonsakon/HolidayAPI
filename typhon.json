@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021208",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 03:28:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "金鼎路154號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址左前方對面路面遭棄置保麗龍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021205",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 03:27:41",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161021207",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 03:27:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路236巷17號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址旁路燈閃爍故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 下午 03:28:16",
     "Close_Date_": ""
   },
   {
@@ -8722,20 +8739,20 @@
   },
   {
     "FileNo_": "INS161020051",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 09:02:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中正路；典寶溪(中圳溝)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處護欄鐵桿壞損傾倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/20 10：17 養工處鳳山養護工程隊韓莉梅小姐回報，該處經查係屬六米以下巷\r\n道，無危險性，10/20 10:24經通報大社區公所洪課長表示該處係屬水利局權責，故轉水利局: A-TB-2016-\r\n97496 ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 09:04:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 下午 03:28:47"
   },
   {
     "FileNo_": "INS161020050",
@@ -8756,20 +8773,20 @@
   },
   {
     "FileNo_": "INS161020049",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 08:59:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐路109號(萊爾富便利超商附近)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處沿線路燈白天未熄，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/20 13:37 養工處岡山養護工程隊李文義先生回報，該處請台電巡查，台電表示放電正\r\n常，且人員巡查未發現上述未熄情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 09:00:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 下午 03:27:06"
   },
   {
     "FileNo_": "INS161020048",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 09:38:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019325",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/19 下午 09:35:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "新庄巷117之12號(郁景實業公司)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前巷道有2盞路燈故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 09:38:23",
     "Close_Date_": ""
   }
 ]
