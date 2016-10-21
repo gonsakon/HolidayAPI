@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021084",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 上午 10:01:52",
+    "ReplyUnit_": "F01004",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路三段439巷上(靠近建國路三段)",
+    "UnitName_": "鳳山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處為六米以下道路，並有一路面掏空，現場有設置三角錐，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021083",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 上午 09:59:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 03:47:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019202",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 下午 03:44:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營下路153之4號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 03:45:05",
     "Close_Date_": ""
   }
 ]
