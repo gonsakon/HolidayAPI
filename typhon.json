@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021177",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 02:06:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "葆禎路與九如四路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈有故障閃黃燈情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021174",
     "Status_": "1",
     "Cre_Date_": "2016/10/21 下午 02:05:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/19 下午 07:37:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161019294",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/19 下午 07:27:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山三路25巷61弄內",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有廟宇在焚燒物品致空污擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/19 下午 07:30:02",
     "Close_Date_": ""
   }
 ]
