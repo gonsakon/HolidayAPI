@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022007",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 03:48:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "興中二路148號13樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022006",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 02:27:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:39:20",
     "Close_Date_": "2016/10/21 下午 03:39:12"
-  },
-  {
-    "FileNo_": "INS161020104",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 上午 10:37:36",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "1.沿海三路與沿海四路口、2.沿海四路上(地點1下個路口)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映兩處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 10:42:46",
-    "Close_Date_": ""
   }
 ]
