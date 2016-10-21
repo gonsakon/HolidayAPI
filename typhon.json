@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161021331",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/21 下午 10:43:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "大同里平安路16號至24號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線約9盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161021330",
     "Status_": "2",
     "Cre_Date_": "2016/10/21 下午 10:28:19",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161021304",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/21 下午 08:29:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "番田路接大埔巷(進去大埔巷200公尺處)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈倒塌，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 10:19:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020089",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 上午 10:14:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路與中正路路口(新高橋藥局門口前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 上午 10:16:17",
     "Close_Date_": ""
   }
 ]
