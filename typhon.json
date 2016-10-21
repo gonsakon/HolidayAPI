@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161021064",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/21 上午 09:31:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "海崎高幹35右分4號、6號、8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處共三盞路燈故障不亮,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/21 上午 09:33:26",
     "Close_Date_": ""
   },
   {
@@ -6410,20 +6410,20 @@
   },
   {
     "FileNo_": "INS161020044",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/20 上午 08:40:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重信路421號(往重惠街26巷)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊有遭棄置廢棄物與垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/20 09：29 左營清潔隊葉品玲小姐回報，旨揭廢棄物及垃圾包係民眾撿拾之回收\r\n物，當下未發現行為人，需另外查明，故轉派非網：A-TB-2016-97451；陳情人並於10/20 15：09來電詢問處理\r\n情形，故不再電覆解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/20 上午 08:48:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/21 上午 09:32:07"
   },
   {
     "FileNo_": "INS161020043",
