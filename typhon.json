@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161021338",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 下午 11:59:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄清路(正修科大前方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍，路面殘留大片油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/22 00:35溝渠隊莊斯宇先生回報，該處油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 12:01:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 上午 07:32:58"
   },
   {
     "FileNo_": "INS161021337",
@@ -324,20 +324,20 @@
   },
   {
     "FileNo_": "INS161021335",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 下午 10:53:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山路近民強街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣瀰漫酸臭異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/22 01:21環保局公害專線余泓陞先生回報，稽查人員於23:20到達，於上述地點\r\n查察，並未發現空氣中有瀰漫酸臭異味情況，故未發現空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 10:54:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 上午 07:33:13"
   },
   {
     "FileNo_": "INS161021334",
@@ -375,20 +375,20 @@
   },
   {
     "FileNo_": "INS161021332",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/21 下午 10:44:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松和路20號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處無預警停電，疑似係松和路16號前電線走火所致，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/21 23:34台電鳳山區處吳先生回報，該處已恢復供電。",
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 10:49:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 上午 07:33:24"
   },
   {
     "FileNo_": "INS161021331",
