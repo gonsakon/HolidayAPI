@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022173",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 06:15:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "凱旋二路與五權街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈皆不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022172",
     "Status_": "1",
     "Cre_Date_": "2016/10/22 下午 06:12:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 06:57:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020269",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 06:55:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "江山路73之52號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 06:56:48",
     "Close_Date_": ""
   }
 ]
