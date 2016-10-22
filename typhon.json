@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161022212",
+    "FileNo_": "INS161022213",
     "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 07:35:14",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "明誠二路396號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址前一大型污水人孔蓋整個下陷，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161022212",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:33:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "港後里港後路84號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處一盞路燈自颱風後便故障不亮至今，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 07:35:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 08:50:51",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020309",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 08:46:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大仁路248號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭棄置7包黑色垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/20 21:05鹽埕區清潔隊陳世年先生回報，該處垃圾包皆已清除完畢；並於\r\n10/22 12：26電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 08:48:50",
-    "Close_Date_": "2016/10/22 下午 12:26:46"
   }
 ]
