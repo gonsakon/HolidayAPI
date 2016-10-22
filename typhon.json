@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022223",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 08:03:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "吳鳳路與吳鳳路33巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022222",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:59:57",
@@ -1327,20 +1344,20 @@
   },
   {
     "FileNo_": "INS161022144",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 04:22:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六和一路與復興一路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/22 19:21 交通局 智慧運輸中心 張寬如小姐回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 04:23:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 下午 08:02:24"
   },
   {
     "FileNo_": "INS161022143",
@@ -1565,20 +1582,20 @@
   },
   {
     "FileNo_": "INS161022129",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 03:33:38",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中華路67之3號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址前有一大圳溝,有掉落兩隻流浪犬無法脫困,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/22 19:10 農業局 動物保護處 捕犬大隊 鄭坤山先生回報，現場會同陳情人，\r\n 已將兩犬隻救起且犬隻自行離去；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 03:35:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 下午 08:03:53"
   },
   {
     "FileNo_": "INS161022130",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 09:20:18",
     "Close_Date_": "2016/10/21 下午 11:03:21"
-  },
-  {
-    "FileNo_": "INS161020319",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 09:15:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路6號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 09:15:43",
-    "Close_Date_": ""
   }
 ]
