@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022208",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/22 下午 07:21:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "文橫一路90號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處右側斑馬線上有一凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/22 下午 07:22:10",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022207",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:17:50",
@@ -1072,14 +1089,14 @@
   },
   {
     "FileNo_": "INS161022144",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/10/22 下午 04:22:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六和一路與復興一路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 08:33:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020304",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 08:26:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "186甲縣道上(由觀音山風景區往義大方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處沿線多處路面坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 08:28:20",
     "Close_Date_": ""
   }
 ]
