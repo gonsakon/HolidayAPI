@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022138",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 03:59:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "鹽埕巷11之6號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址工廠旁空地有人在燃燒垃圾導致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022137",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 03:53:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 05:01:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020234",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 04:59:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路上，高架陸橋下往屏東大寮方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 05:01:11",
     "Close_Date_": ""
   }
 ]
