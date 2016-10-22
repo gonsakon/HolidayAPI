@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022220",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 07:57:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "忠言路193號6樓之1",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處住戶有冷氣滴水情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022219",
     "Status_": "1",
     "Cre_Date_": "2016/10/22 下午 07:56:39",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161022218",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:55:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "深興路26巷內，轉彎處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 07:57:34",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 09:20:11",
     "Close_Date_": "2016/10/21 下午 11:02:55"
-  },
-  {
-    "FileNo_": "INS161020316",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 09:13:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段(大智陸橋上)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處橋上有三盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 13：57養工處鳳山養護工程隊陳毓郡小姐回報，皆已修復完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 09:19:58",
-    "Close_Date_": "2016/10/21 下午 05:39:10"
   }
 ]
