@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022230",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 08:29:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022229",
     "Status_": "1",
     "Cre_Date_": "2016/10/22 下午 08:27:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 09:28:30",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020326",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 09:25:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路上(小港國小周界)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有瀰漫不明燃燒塑膠異味致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 00:04環保局公害專線楊竣安先生回報，稽查人員於22:00到達，於上述地點及附\r\n近周界路段巡查，未發現異味以致空污之情事；另以PID及四用氣體檢測器量測，數值為0；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 09:27:03",
-    "Close_Date_": "2016/10/21 下午 05:41:07"
   }
 ]
