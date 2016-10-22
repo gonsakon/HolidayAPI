@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022253",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 09:55:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐一路63號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址旁有一盞水銀路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022252",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 09:50:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 10:26:44",
     "Close_Date_": "2016/10/21 上午 07:10:39"
-  },
-  {
-    "FileNo_": "INS161020349",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 10:22:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路3巷(往鴻湖山莊入口處)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。(綁有藍色線作為記號 )",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 10:25:23",
-    "Close_Date_": ""
   }
 ]
