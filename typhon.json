@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161022223",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 08:03:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "吳鳳路與吳鳳路33巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處遭人丟棄2大堆雜物與垃圾，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 08:08:49",
     "Close_Date_": ""
   },
   {
@@ -2024,20 +2024,20 @@
   },
   {
     "FileNo_": "INS161022102",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 01:09:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路795號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處果菜市場旁空地上，在舉辦活動擴音器擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/22 16:02 環保局 公害專線 楊竣安先生回報，稽查人員於15:10到達，現場為原住民\r\n 聯合豐年祭，有使用擴音設備，惟現場車流量過大無法測量分貝，已請主辦單位調降音量，現場立即配合，另亦\r\n 促請主辦注意防範；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 01:10:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 下午 08:07:03"
   },
   {
     "FileNo_": "INS161022101",
