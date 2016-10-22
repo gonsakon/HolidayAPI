@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022131",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 03:33:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022129",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 03:33:38",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161022130",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 03:30:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "大同里",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處附掛於台電桿(桿號：大同高分80號至121號)路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 03:33:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 04:42:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020227",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 04:39:09",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓元街84號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一溝蓋塌陷，已先行使用磚頭圍起警示，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 04:40:58",
     "Close_Date_": ""
   }
 ]
