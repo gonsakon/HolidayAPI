@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 上午 12:24:58",
+    "ReplyUnit_": "",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "旗山區太平里仁義巷",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "旗山區太平里仁義巷自來水是黃色的泥水。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023001",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 上午 12:10:26",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161022238",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/22 下午 08:55:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "仁湖橋下橋右轉中山路二段",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處路段上有一間鋁製工廠，目前有排放廢氣白煙致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 04:04:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021008",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 02:16:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋東路與阿公店路二段交叉口(寶雅旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路燈(設有4台監視器)上電線短路並產生火花，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 17:31養工處岡山養護工程隊馬振邁先生回報，該處無危險性，惟經人員查看確\r\n認係為監視器線路短路，係屬警察局權責，故改派非網A-TB-2016-98287賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 02:19:08",
-    "Close_Date_": "2016/10/21 下午 09:20:10"
   }
 ]
