@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022069",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 10:31:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中崙里旁鳳山溪",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處河面目前呈現黑色，疑似遭人排放汙水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022068",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:31:08",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161022066",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:28:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "民昌街與裕昌街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處神明法會使用擴音器播放音樂聲音過大，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 上午 10:30:54",
     "Close_Date_": ""
   },
   {
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161022048",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/22 上午 09:43:11",
     "ReplyUnit_": "A01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "洲港路上(前洲橋往彌陀方向)",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一不明施工埋管工程疑似未申請，目前已破壞路面，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 01:49:37",
     "Close_Date_": "2016/10/21 上午 11:45:24"
-  },
-  {
-    "FileNo_": "INS161020168",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 01:43:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路586號至624號間",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有垃圾髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/20 14:10前鎮區清潔隊王蘭琪小姐回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 01:45:40",
-    "Close_Date_": "2016/10/21 上午 07:52:50"
   }
 ]
