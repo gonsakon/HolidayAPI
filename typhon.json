@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022103",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 01:11:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "成功路143號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該址後方有一路燈自颱風後未熄，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022102",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 01:09:13",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161022101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 01:04:21",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自由路59號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處巷內有一貓隻受困無法逃脫，建請查處。",
+    "BeforeDesc_": "渠反映該處巷內有一貓隻受困無法逃脫，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 01:10:45",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 03:49:51",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020201",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 03:45:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中華三路與民生二路(中央公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映中央公園外圍人行道磚，多處凹凸不平且晃動，建請全面查修。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 10:11養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處因為面積大，有危險\r\n性的部分已放安全錐，惟因需備料砂石與紅磚，故改派非網A-TB-2016-98005賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 03:47:26",
-    "Close_Date_": "2016/10/21 下午 03:52:55"
   }
 ]
