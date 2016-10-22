@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161022044",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 上午 09:31:46",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由二路與明華ㄧ路口",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "大貨車經常違停轉彎處，請加強取締，以維護居民行的安全",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161022041，研判應是重複成案，故併入該案一併\r\n委由警察局賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 10:01:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 上午 10:05:50"
   },
   {
     "FileNo_": "INS161022043",
