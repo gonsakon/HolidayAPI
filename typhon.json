@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022083",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 11:18:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由四路389號至391號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "一盞路燈基座破損 恐擔憂傾倒",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022082",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 11:15:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 02:51:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020182",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 02:47:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路一段162巷14號與16號之間",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處電桿旁遭棄置5、6包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 02:49:55",
     "Close_Date_": ""
   }
 ]
