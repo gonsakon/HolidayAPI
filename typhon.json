@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022089",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 11:50:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "1.劉厝路126之11號、2.劉厝路126之6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該兩處前各有一盞LED白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022088",
     "Status_": "1",
     "Cre_Date_": "2016/10/22 上午 11:49:36",
@@ -3962,14 +3979,14 @@
   },
   {
     "FileNo_": "INS161021192",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/10/21 下午 02:49:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路374巷 (靠近籃球場)",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一台電木製電桿，目前有裂開且上方有許多高壓電線，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 03:10:32",
     "Close_Date_": "2016/10/21 下午 03:52:31"
-  },
-  {
-    "FileNo_": "INS161020187",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 02:57:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "二甲里林森路379號；五甲里活動中心",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園內有3盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 02:58:58",
-    "Close_Date_": ""
   }
 ]
