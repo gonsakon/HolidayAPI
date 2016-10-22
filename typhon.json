@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022109",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 01:45:36",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "裕誠路與光興街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌有故障閃燈情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022107",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 01:34:26",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161022070",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/10/22 上午 10:34:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路158之3號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該工廠正燃燒不明物品致空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 04:04:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020207",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 03:57:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多一路與河南路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處前人行道磚有八塊破損，建請補竣。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 04:02:40",
     "Close_Date_": ""
   }
 ]
