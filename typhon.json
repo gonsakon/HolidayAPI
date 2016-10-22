@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022235",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/22 下午 08:37:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路360號對面(龍鳳門餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有使用卡拉OK擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/22 下午 08:41:22",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022233",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 08:34:30",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161022224",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/22 下午 08:09:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "哨船街(介於哨船街3巷到哨船街21巷間)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有放置許多垃圾包，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 09:42:36",
     "Close_Date_": "2016/10/22 上午 11:21:39"
-  },
-  {
-    "FileNo_": "INS161020330",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 09:35:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國三路499號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈故障閃爍逾一個月之久，且單位前往兩三次均未妥善修復，建請再次修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 09:36:48",
-    "Close_Date_": ""
   }
 ]
