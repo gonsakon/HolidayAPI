@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022145",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 04:25:36",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "德昌路與鎮國路",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處之前有不明開挖工程，現有一15公分下陷僅放三角錐已兩個禮拜至今未修復，且警示措施不足，已有民眾騎車摔倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022144",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 04:22:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 05:25:38",
     "Close_Date_": "2016/10/21 下午 04:25:27"
-  },
-  {
-    "FileNo_": "INS161020241",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 05:23:23",
-    "ReplyUnit_": "F01012",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "茄冬巷",
-    "UnitName_": "杉林區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該路有部分路段坍方已久，望局處盡速修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 05:26:11",
-    "Close_Date_": ""
   }
 ]
