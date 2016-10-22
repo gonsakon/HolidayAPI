@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161022215",
+    "FileNo_": "INS161022216",
     "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 07:47:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和南路上與小港路口(巧比屋餐廳前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161022215",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:45:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路604巷42號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有三盞路燈故障不量多日，建請查處。",
+    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 07:46:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 09:07:08",
     "Close_Date_": "2016/10/21 下午 04:10:16"
-  },
-  {
-    "FileNo_": "INS161020312",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 09:01:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "青年一路103號至民權一路(四維國小正門口)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈從颱風過後皆故障不亮至今，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 21:43養工處四維養護工程隊九如分隊陳戊昌先生回報，該處沿線路燈皆已修復\r\n完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 09:02:44",
-    "Close_Date_": "2016/10/21 下午 11:02:35"
   }
 ]
