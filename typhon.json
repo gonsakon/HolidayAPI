@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022122",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 02:34:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明鳳橋上(明鳳五街前)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該橋上橋頭以及橋尾的號誌不連鎖，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022117",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 02:24:46",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161022082",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/22 上午 11:15:41",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮東一街144號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處目前有汙水管阻塞情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 04:25:56",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020217",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 04:24:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福安路上，近河北路口(斑馬線前號誌燈旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面下陷(一)",
-    "BeforeDesc_": "渠反映該處路面有下陷情事，建請查處",
-    "AfterDesc_": "【主管解除管制】本案於10/20 17：13養工處四維養護工程隊苓雅養護分隊陳美熹小姐回報，該處已有設置安全\r\n錐，惟因屬過路溝破損所致之路面下陷，故改派INS161020240賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 04:29:22",
-    "Close_Date_": "2016/10/21 下午 03:55:45"
   }
 ]
