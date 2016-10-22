@@ -1735,20 +1735,20 @@
   },
   {
     "FileNo_": "INS161022122",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 02:34:38",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "明鳳橋上(明鳳五街前)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該橋上橋頭以及橋尾的號誌不連鎖，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/21 17:43 交通局 智慧運輸中心 張寬如小姐回報，該處號誌已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 02:36:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/22 下午 08:04:06"
   },
   {
     "FileNo_": "INS161022117",
