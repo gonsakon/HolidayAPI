@@ -646,23 +646,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161022235",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/22 下午 08:37:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "南屏路360號對面(龍鳳門餐廳)",
-    "UnitName_": "環保局",
-    "StatusName_": "待處理",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前有使用卡拉OK擴音器致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 08:41:22",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161022234",
     "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 08:37:22",
@@ -678,6 +661,23 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 08:42:58",
     "Close_Date_": "2016/10/22 下午 09:36:23"
+  },
+  {
+    "FileNo_": "INS161022235",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/22 下午 08:37:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路360號對面(龍鳳門餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有使用卡拉OK擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/22 下午 08:41:22",
+    "Close_Date_": ""
   },
   {
     "FileNo_": "INS161022233",
