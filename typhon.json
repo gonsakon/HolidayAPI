@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 上午 12:10:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "天祥二路與天祥二路111巷交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路牌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022272",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 11:45:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 02:19:08",
     "Close_Date_": "2016/10/21 下午 09:20:10"
-  },
-  {
-    "FileNo_": "INS161021007",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 12:51:29",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新庄仔路510號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線停車 佔用機車位",
-    "AfterDesc_": "感謝您的反映，此案件已通報警察局110葉警員辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 01:26:57",
-    "Close_Date_": "2016/10/21 上午 01:27:37"
   }
 ]
