@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022071",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 10:45:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "崇明街與同利路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022070",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:34:40",
@@ -7872,14 +7889,14 @@
   },
   {
     "FileNo_": "INS161020306",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/20 下午 08:34:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "永興巷10之4號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈，裝設完畢亮一日後又不亮，建請查處。(請人員務必與陳情人聯繫處理)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 02:40:54",
     "Close_Date_": "2016/10/21 下午 03:48:13"
-  },
-  {
-    "FileNo_": "INS161020170",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 01:52:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "滾水路近觀水宮路口(大將爺廟)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處旁有3盞路燈(角宿37號、角宿38號、角宿39號)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 01:53:56",
-    "Close_Date_": ""
   }
 ]
