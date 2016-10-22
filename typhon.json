@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022070",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/22 上午 10:34:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路158之3號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠正燃燒不明物品致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/22 上午 10:36:55",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022069",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:31:45",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161022067",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:27:36",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁溪，由興中橋往援中路沿線",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處溪內有魚屍，惟因缺氧，造成死亡，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 上午 10:36:48",
     "Close_Date_": ""
   },
   {
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161022047",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/22 上午 09:39:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重光路8號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有一部箱型車怠速，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 01:53:56",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020169",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 01:48:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "龍目國小",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該校附近目前有燃燒不明物致有塑膠異味傳出，造成空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 11：39電覆陳情人未果，故於10/21 11：42簡訊回覆：鍾先生您好，您10月20日\r\n所反映燃燒塑膠異味問題，經本府環保局前往稽查，該處係龍目路54號住戶因整地燃燒雜草，已當場要求屋主立\r\n即撲滅，已無燃燒致異味空污情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 01:49:37",
-    "Close_Date_": "2016/10/21 上午 11:45:24"
   }
 ]
