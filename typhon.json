@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161022179",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 06:31:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "加昌路與學專路口(加昌路往西)",
+    "address_": "加昌路與學專路口(加昌路往西方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路面柏油凹凸不停且高低落差過大，影響行車安全，建請查處。",
+    "BeforeDesc_": "渠反映該處路面柏油凹凸不平且高低落差過大，致影響行車安全，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 下午 06:33:01",
     "Close_Date_": ""
   },
   {
