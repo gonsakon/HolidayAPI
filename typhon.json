@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161022057",
+    "FileNo_": "INS161022058",
     "Status_": "1",
+    "Cre_Date_": "2016/10/22 上午 10:08:50",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山二路上(介於鐵路街與大公路之間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌沿線皆故障未亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161022057",
+    "Status_": "2",
     "Cre_Date_": "2016/10/22 上午 10:05:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "中山高速公路接岡山交流道下方",
+    "address_": "中山高速公路接岡山交流道下方；近安招路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處中央分隔島上有許多垃圾，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/22 上午 10:09:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 01:12:52",
     "Close_Date_": "2016/10/21 下午 03:46:39"
-  },
-  {
-    "FileNo_": "INS161020154",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/20 下午 12:58:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "馬卡道路與中華一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處鐵路旁人行道遭丟棄廢棄物，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/20 13:40 鼓山區清潔隊余承妍小姐回報，人員現場查看廢棄物數量過多，需派\r\n車輛清運，無法於時間內完成，已致電陳情人說明，現無危險性且不影響通行，故改派非網A-TB-\r\n2016-97601賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 01:03:19",
-    "Close_Date_": "2016/10/21 上午 07:53:36"
   }
 ]
