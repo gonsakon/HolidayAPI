@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022106",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 01:29:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "榮新街與榮昌街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近疑似燃燒塑膠物品異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022105",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 01:25:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 04:00:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020204",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 03:50:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏光街與宏裕街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處「宏光街」路牌掉落地上許久未見人員處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 03:51:43",
     "Close_Date_": ""
   }
 ]
