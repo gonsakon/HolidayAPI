@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022267",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 11:30:43",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "&#24269;後街與海萍路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處因車禍致電線桿電線掉落，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022266",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 11:19:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 12:23:43",
     "Close_Date_": "2016/10/21 上午 07:07:30"
-  },
-  {
-    "FileNo_": "INS161021001",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/21 上午 12:10:48",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路76號前",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一行人號誌燈箱掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 12:12:35",
-    "Close_Date_": ""
   }
 ]
