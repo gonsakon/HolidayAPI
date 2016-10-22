@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022214",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 07:41:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路上(靠近翠屏路，鄰近觀音山風景區)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022213",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 07:35:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 08:59:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161020310",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/20 下午 08:47:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "安樂四街與仁和街口(後安壘球場旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園籃球場照明設備，先前遭颱風吹歪後致目前無法照亮籃球場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 08:50:51",
     "Close_Date_": ""
   }
 ]
