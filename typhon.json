@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161022132",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/22 下午 03:40:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三鳳宮",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該公廟現燃放鞭炮煙霧瀰漫，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161022131",
     "Status_": "2",
     "Cre_Date_": "2016/10/22 下午 03:33:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/20 下午 04:49:14",
     "Close_Date_": "2016/10/21 下午 03:57:21"
-  },
-  {
-    "FileNo_": "INS161020228",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/20 下午 04:40:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "竹圍里大仁路175巷88弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內約3、4盞路燈故障不亮已約兩個月皆未見修復，並表示該處為死巷，夜晚視線不良相當危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/20 下午 04:42:48",
-    "Close_Date_": ""
   }
 ]
