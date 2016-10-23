@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161023104",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 01:24:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路上文武二街、市中一路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 01:25:46",
     "Close_Date_": ""
   },
   {
@@ -34,37 +34,20 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161023102",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/23 下午 01:20:44",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "自強二路與大同二路(前金國小旁)",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有一變電箱爆炸，造成周遭有停電情事，警員已於現場處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161023101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 01:20:36",
     "ReplyUnit_": "E01005",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "自強二路108號",
+    "address_": "自強二路108號對面；前金國小東側",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有電信箱爆炸導致停電，建請查處。",
+    "BeforeDesc_": "渠反映該處有2個電器箱爆炸導致停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 01:26:20",
     "Close_Date_": ""
   },
   {
@@ -4710,20 +4693,20 @@
   },
   {
     "FileNo_": "INS161022096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 12:44:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "誠體街,誠德公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該公園內落葉及垃圾未清掃,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/23 13:22電覆陳情人未果，故於2016/10/23 13:24簡訊回覆:蕭小姐您\r\n好，您10月22日所反映公園髒亂問題，本府工務局已派員前往清除完成，感謝您的熱心通報，倘您對\r\n本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 12:47:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/23 下午 01:25:15"
   },
   {
     "FileNo_": "INS161022095",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 10:53:28",
     "Close_Date_": "2016/10/21 下午 06:19:57"
+  },
+  {
+    "FileNo_": "INS161021109",
+    "Status_": "5",
+    "Cre_Date_": "2016/10/21 上午 10:49:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "五福二路73號",
+    "UnitName_": "環保局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處水溝阻塞，污水已滿出流至人行道上，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於10/21 12:16 新興區清潔隊郭辰睿先生回報，人員於11:05抵達，現場為一餐飲業者，\r\n經查有發現違規情事導致水溝阻塞，本隊依法開單告發，並請業者立即請理完畢；本案不需回電故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/10/21 上午 10:52:31",
+    "Close_Date_": "2016/10/21 下午 06:17:11"
   }
 ]
