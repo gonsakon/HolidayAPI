@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161023162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:43:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "和平路一段至澄觀路二段",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "沿線多盞路燈",
+    "BeforeDesc_": "渠反映該址沿線多盞路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 06:45:36",
     "Close_Date_": ""
   },
   {
