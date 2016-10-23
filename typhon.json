@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161023158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:27:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "永忠街6號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈，先前颱風時燈罩遭掀開，至今尚未修復，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 06:29:27",
     "Close_Date_": ""
   },
   {
@@ -27,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有冷氣滴水情事，建請會同查處。(請人員先行電覆陳情人)",
+    "BeforeDesc_": "渠反映該址4樓之1以上之住戶有冷氣滴水情事，建請會同查處。(請人員先行電覆陳情人)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 06:26:44",
