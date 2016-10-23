@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023175",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 07:34:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中華路(地景橋)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023174",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 07:30:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 02:15:36",
     "Close_Date_": "2016/10/22 下午 02:51:17"
-  },
-  {
-    "FileNo_": "INS161021179",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 02:09:44",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "正義路302巷3號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處後方污水管阻塞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 22:18水利局污水營運科許江永先生回報，該處已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 02:12:04",
-    "Close_Date_": "2016/10/21 下午 11:11:19"
   }
 ]
