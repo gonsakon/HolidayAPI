@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161023143",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 05:36:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "溝坪路31號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈故障不亮多日，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 05:38:50",
     "Close_Date_": ""
   },
   {
