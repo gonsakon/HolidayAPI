@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161024005",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 上午 01:59:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與后安路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，有員警於現場，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局溝渠清潔隊李文山先生於10/24 02:25回報：已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 02:01:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 02:26:15"
   },
   {
     "FileNo_": "INS161024004",
