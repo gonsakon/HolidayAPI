@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023044",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 上午 09:04:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海二路(介於世全路至嘉興街)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處分隔島底下有兩包垃圾包，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023043",
     "Status_": "1",
     "Cre_Date_": "2016/10/23 上午 09:03:12",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161023041",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/23 上午 09:01:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "北仁街與北昌三街(崑庭建設)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該工地機具施工導致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/23 上午 09:04:33",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 09:05:43",
     "Close_Date_": "2016/10/22 下午 05:08:12"
-  },
-  {
-    "FileNo_": "INS161021049",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 09:00:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "河南二路上,由中華三路至瑞源路之間",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上方有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 09:07 新興區清潔隊郭宸睿先生回報，經人員現場查看，該處為前金區權管，故\r\n改派INS161021056賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 09:06:21",
-    "Close_Date_": "2016/10/21 下午 05:54:07"
-  },
-  {
-    "FileNo_": "INS161021048",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 08:59:06",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山二路160巷23號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該址前有一台電人孔蓋傾斜鬆動噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/22 10:34 經詢問台電1911黃小姐表示，已用橡皮墊改善；並於10/22 \r\n11：25電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 09:01:46",
-    "Close_Date_": "2016/10/22 上午 11:25:54"
   }
 ]
