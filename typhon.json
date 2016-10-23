@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023159",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 06:36:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮榮街底往興仁橋街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處街口有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023158",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:27:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 01:35:25",
     "Close_Date_": "2016/10/21 下午 08:12:14"
-  },
-  {
-    "FileNo_": "INS161021162",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 下午 01:22:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "水安段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈(編號：維豐幹線35右2、協泰14號)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 01:23:23",
-    "Close_Date_": ""
   }
 ]
