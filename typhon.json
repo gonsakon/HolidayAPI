@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023137",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 05:09:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "赤崁北路64巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處巷道內有一空地有民眾在燃燒樹枝、樹葉，造成空氣汙染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023136",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 05:02:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:39:29",
     "Close_Date_": "2016/10/21 下午 02:52:42"
-  },
-  {
-    "FileNo_": "INS161021140",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 上午 11:36:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "恆山巷近忠義路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 11:38:10",
-    "Close_Date_": ""
   }
 ]
