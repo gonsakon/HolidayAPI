@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161023045",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/23 上午 09:22:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "阿公店路二段與公園西路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路口近安全島路面凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/23 上午 09:24:08",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023044",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 上午 09:04:16",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161023040",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/23 上午 08:59:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮州路與鎮東三街口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該轉角處路面堆積許多垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 09:13:55",
     "Close_Date_": "2016/10/22 下午 05:20:29"
-  },
-  {
-    "FileNo_": "INS161021052",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 09:07:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路37之2號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有犬屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 09:22 鳥松區清潔隊王顯琛先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 09:13:53",
-    "Close_Date_": "2016/10/21 下午 05:55:57"
   }
 ]
