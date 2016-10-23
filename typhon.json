@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023132",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/23 下午 04:07:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "大同二街78之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/23 下午 04:09:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023131",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 04:03:40",
@@ -61,7 +78,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有民眾在燃燒樹葉，導致空氣污染，建請查處。",
+    "BeforeDesc_": "渠反映該處有民眾在燃燒樹葉，導致空氣污染，大約會燒至5點，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 04:07:43",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161023093",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/23 下午 12:39:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "阿公店路二段與壽峰橋路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:33:05",
     "Close_Date_": "2016/10/21 下午 06:28:46"
-  },
-  {
-    "FileNo_": "INS161021135",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/21 上午 11:27:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "瑞竹街4巷14弄32號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址旁有一盞路燈日前風災傾倒，尚未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 11:29:56",
-    "Close_Date_": ""
   }
 ]
