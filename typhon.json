@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161023203",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/23 下午 08:58:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌路與秀昌街",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映後昌路上號誌燈故障閃紅燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/23 下午 09:04:16",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023202",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 08:56:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 03:40:48",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021208",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 03:28:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路154號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址左前方對面路旁遭棄置保麗龍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 15:59三民東區清潔隊葉淑莉小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 03:29:24",
-    "Close_Date_": "2016/10/21 下午 05:03:33"
   }
 ]
