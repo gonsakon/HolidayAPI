@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023159",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 06:30:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "開封路與復橫一路(信義國小)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處廟會活動與燃放鞭炮致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023158",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:27:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 01:35:25",
     "Close_Date_": "2016/10/21 下午 08:12:14"
-  },
-  {
-    "FileNo_": "INS161021162",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 下午 01:22:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "水安段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈(編號：維豐幹線35右2、協泰14號)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 01:23:23",
-    "Close_Date_": ""
   }
 ]
