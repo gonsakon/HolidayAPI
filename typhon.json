@@ -3401,20 +3401,20 @@
   },
   {
     "FileNo_": "INS161023020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 06:37:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫五路28巷9弄13號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有燃燒異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/23 09:35 環境稽查科 中區股 劉翹瑋先生回報，稽查人員於08:48到達，\r\n 稽查當時於上述地址巡查，未發現有燃燒異味致空污情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 06:39:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/23 下午 10:51:14"
   },
   {
     "FileNo_": "INS161023019",
@@ -3588,20 +3588,20 @@
   },
   {
     "FileNo_": "INS161023009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 02:51:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中山一路與六合一路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處道路施工噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/23 06:32 環保局 李政鴻先生回報：人員於06:28到場，道路鋪面工程已結束\r\n ，未發現噪音情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 02:53:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/23 下午 10:52:51"
   },
   {
     "FileNo_": "INS161023008",
@@ -5339,20 +5339,20 @@
   },
   {
     "FileNo_": "INS161022178",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/22 下午 06:28:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "民權一路84巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/22 22:00 四維養護工程隊 九如分隊 陳戊昌先生回報，上述路燈均已修復\r\n 完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 06:30:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/23 下午 10:53:19"
   },
   {
     "FileNo_": "INS161022177",
