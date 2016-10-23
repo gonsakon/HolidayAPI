@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024011",
+    "FileNo_": "INS161024012",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 06:00:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "崎漏里之產業道路(近情人碼頭)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024011",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 05:57:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "經建路5之1巷17號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈燈罩歪斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 上午 05:59:50",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 05:26:05",
     "Close_Date_": "2016/10/22 下午 03:31:15"
-  },
-  {
-    "FileNo_": "INS161021243",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 05:17:55",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路43巷與寶安街對面",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處公寓有一貓隻受困已一天一夜，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 17:48農業局動物保護處捕犬大隊史明德先生回報，該處經與陳情人聯繫確認，\r\n該貓隻受困於5樓處，惟該處屬空屋局處依規定無法進入空屋內恐觸法，已與陳情人說明情況，陳情人表示其會\r\n再另自行處理，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 05:19:21",
-    "Close_Date_": "2016/10/21 下午 06:45:42"
   }
 ]
