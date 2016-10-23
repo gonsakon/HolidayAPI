@@ -2364,20 +2364,20 @@
   },
   {
     "FileNo_": "INS161023106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 01:31:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路與中正四路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 14：54 交通局智慧運輸中心徐郁豐先生回報，現場查勘時，號誌已正常運\r\n作。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 01:32:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:55:13"
   },
   {
     "FileNo_": "INS161023105",
@@ -2398,20 +2398,20 @@
   },
   {
     "FileNo_": "INS161023104",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 01:24:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路上文武二街、市中一路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 14：54 交通局智慧運輸中心徐郁豐先生回報，現場查勘時，號誌已正常運\r\n作。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 01:25:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:55:23"
   },
   {
     "FileNo_": "INS161023101",
@@ -2432,20 +2432,20 @@
   },
   {
     "FileNo_": "INS161023100",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 01:18:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路與中正四路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 16:08 交通局智慧運輸中心張寬如小姐回報，已修復。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 01:20:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:55:46"
   },
   {
     "FileNo_": "INS161023099",
