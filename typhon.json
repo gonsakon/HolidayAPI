@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023158",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 06:27:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "永忠街6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈，先前颱風時燈罩遭掀開，至今尚未修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023157",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:23:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 01:23:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021161",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 01:20:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "竹楠路(介於南亞路與竹工二巷)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段快車道路面有碎石，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 14:19仁武區清潔隊柯辰璋先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 01:21:58",
-    "Close_Date_": "2016/10/21 下午 08:12:37"
   }
 ]
