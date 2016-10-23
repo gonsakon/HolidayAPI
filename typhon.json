@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023111",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 02:01:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大連街319巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "渠反映該處車輛581-XL怠速，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023110",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 02:00:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:01:50",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021114",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 10:56:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁怡二街26號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁遭棄置馬桶、床板、石塊、玻璃瓶等廢棄物，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於19/21 19:31仁武區清潔隊陳進忠先生回報，該處廢棄物皆已清除完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 10:58:42",
-    "Close_Date_": "2016/10/21 下午 09:03:53"
   }
 ]
