@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161023114",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/23 下午 02:12:20",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "靠近舊左營車站機車車道",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "靠近舊左營車站告示牌被遮，造成用路人困擾",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 03:17:09",
     "Close_Date_": ""
   },
   {
