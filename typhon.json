@@ -1888,20 +1888,20 @@
   },
   {
     "FileNo_": "INS161023134",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 04:27:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高鳳路上與中安路(北往南方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處綠燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 19:05交通局智慧運輸中心張寬如小姐回報，已修復。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 04:28:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:53:00"
   },
   {
     "FileNo_": "INS161023133",
@@ -2330,20 +2330,20 @@
   },
   {
     "FileNo_": "INS161023108",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 01:46:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路與時代大道",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈秒數故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 17:03 交通局智慧運輸中心張寬如小姐回報，該處已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 01:47:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:54:19"
   },
   {
     "FileNo_": "INS161023107",
