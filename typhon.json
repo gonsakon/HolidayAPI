@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161023134",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 04:27:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高鳳路上與中安路(北往南方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 04:28:22",
     "Close_Date_": ""
   },
   {
