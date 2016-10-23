@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023166",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 06:57:58",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "通港路通港巷1號(台灣中油)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一白色中型犬隻疑似遭撞受傷，建請會同救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023164",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:50:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 01:52:26",
     "Close_Date_": "2016/10/21 下午 08:10:49"
-  },
-  {
-    "FileNo_": "INS161021169",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/21 下午 01:49:51",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高鳳路與中安路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處中安路通過高鳳路行人號誌從28秒變成只剩13秒疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 01:51:39",
-    "Close_Date_": ""
   }
 ]
