@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023180",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 07:54:48",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路與鳳林路口，南一機車精品店",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該店家前路中央有一黃色犬隻遭撞受傷，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023179",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 07:52:49",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161023178",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 07:52:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "",
+    "address_": "崇實新村西八巷至崇實新村東五巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/23 下午 07:54:51",
     "Close_Date_": ""
   },
   {
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161023165",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/23 下午 06:57:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "通昌街與三山街口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，有員警於現場，建請查處。(請人員處理完成電覆陳情人)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 02:27:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021183",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 02:26:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "太平里德義街8巷1號對面天主教教堂",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前冷氣運轉噪音過大，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 17：03 環保局環境稽查科北區股曾欽鴻先生回報，稽查人員於15：38\r\n到達，稽查時會同陳情人於陳情人測量指定地點量測噪音值，其噪音源為空調壓縮機，因現場未啟\r\n動，僅能量測背景音，為31.1分貝，未超過本市日間噪音管制標準37分貝；並於10/22 14：58電覆陳\r\n情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 03:04:13",
-    "Close_Date_": "2016/10/22 下午 02:58:15"
   }
 ]
