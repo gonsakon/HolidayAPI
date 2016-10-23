@@ -3367,20 +3367,20 @@
   },
   {
     "FileNo_": "INS161023044",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 09:04:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海二路(介於世全路至嘉興街)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處分隔島底下有兩包垃圾包，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 10：53 小港區清潔隊李寶隆先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 09:08:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:50:43"
   },
   {
     "FileNo_": "INS161023043",
@@ -3741,20 +3741,20 @@
   },
   {
     "FileNo_": "INS161023022",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 07:11:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "復興路與復興路367巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處有售屋(帆布)廣告，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 09：18 路竹區隊黃美雲班長回報，旨揭帆布過大，廠商承諾上班日雇工拆\r\n除，故轉派非網：A-TB-2016-98738。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 07:25:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:51:12"
   },
   {
     "FileNo_": "INS161023021",
@@ -3877,20 +3877,20 @@
   },
   {
     "FileNo_": "INS161023014",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 06:03:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "文武一街與武強街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 07:35 前金區隊夏金益先生回報：該處已清理完成。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 06:06:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:50:53"
   },
   {
     "FileNo_": "INS161023013",
