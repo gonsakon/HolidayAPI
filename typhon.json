@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023114",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 02:12:20",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "靠近舊左營車站機車車道",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "靠近舊左營車站告示牌被遮，造成用路人困擾",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023113",
     "Status_": "1",
     "Cre_Date_": "2016/10/23 下午 02:10:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:04:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021118",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 上午 11:01:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南勝里尚和巷6號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 11:04:29",
     "Close_Date_": ""
   }
 ]
