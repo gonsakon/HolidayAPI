@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 03:18:11",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "中正東路256之8號旁",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "渠反映該處有一電桿於今年過年前後移置，如今該電桿基座填補處出現損壞坑洞，原電桿移置前之位置填補亦出現龜裂破損，建請查處。(要求該處負責人員與其聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023122",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 03:05:59",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS161023097",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/23 下午 01:04:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正言路54號(來來客家菜)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家有油煙空污情事，建請查處。(陳情人要求務必不可透漏姓氏)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:13:11",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021126",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 11:11:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "行義街50號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前方遭民眾丟棄廚餘，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 11:39 小港區清潔隊王雪娥小姐回報，已處理完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 11:13:19",
-    "Close_Date_": "2016/10/21 下午 06:22:26"
   }
 ]
