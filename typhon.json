@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161024006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 上午 03:06:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路一段259號(台灣菸酒)附近",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上路面有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/24 03:43 溝渠隊莊斯宇先生回報，經致電陳情人並依陳情人提供位置巡\r\n視，未發現有狗屍。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 03:08:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:46:08"
   },
   {
     "FileNo_": "INS161024005",
@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161024002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 上午 12:28:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "復興二路上與三多三路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處慢車道上有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/24 01:01 溝渠隊李文山先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 12:30:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:46:26"
   },
   {
     "FileNo_": "INS161024001",
@@ -2840,20 +2840,20 @@
   },
   {
     "FileNo_": "INS161023075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 11:20:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山路往小港方向；中山路橋處",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該陸橋上下坡處有一犬屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 11:58 前鎮區清潔隊莊素雲小姐回報，犬屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 11:25:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:46:50"
   },
   {
     "FileNo_": "INS161023074",
@@ -3078,20 +3078,20 @@
   },
   {
     "FileNo_": "INS161023061",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 10:32:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路上，新光銀行前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有狗便及廢棄椅子，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/23 11：24 左營區清潔隊保全陳立全先生回報，皆已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 10:33:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 07:46:00"
   },
   {
     "FileNo_": "INS161023060",
