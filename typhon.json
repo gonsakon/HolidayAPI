@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023178",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 07:52:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023177",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 07:38:42",
@@ -749,14 +766,14 @@
   },
   {
     "FileNo_": "INS161023133",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/23 下午 04:16:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "中正西路1巷7之4號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址附空地目前有民眾正在燃燒金紙致空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 02:26:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021182",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 02:22:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "巨輪路(空軍學校前)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處人行道有多處破損，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 15:19養工處岡山養護工程隊盧冠諭小姐回報，該處無危險性，惟因是風災路樹\r\n傾倒造成人行道翻起，當時鋸斷樹木現場仍留樹頭，需另以機具處理且因沿線數量多，無法短時間內完成，無\r\n法立即修復，故改派非網A-TB-2016-98180賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 02:23:34",
-    "Close_Date_": "2016/10/21 下午 07:42:32"
   }
 ]
