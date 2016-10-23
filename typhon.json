@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023130",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 04:02:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路80巷20巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一路面下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023129",
     "Status_": "1",
     "Cre_Date_": "2016/10/23 下午 04:01:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 上午 11:24:53",
     "Close_Date_": "2016/10/21 下午 06:26:45"
-  },
-  {
-    "FileNo_": "INS161021133",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 上午 11:16:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎強街與鼎仁街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處快車道有掉落一張網子，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 11:59 三民東區清潔隊許華玲小姐回報，該處網子已清除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 上午 11:18:36",
-    "Close_Date_": "2016/10/21 下午 06:26:02"
   }
 ]
