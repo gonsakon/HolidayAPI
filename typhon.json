@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023155",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 06:18:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路799之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈閃爍故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023154",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 06:11:42",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 06:14:07",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161023153",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/23 下午 06:10:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路至大順陸橋上(往南)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該陸橋上伸縮縫周邊柏油已大面積脫落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/23 下午 06:18:43",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 01:21:52",
     "Close_Date_": "2016/10/21 下午 07:55:53"
-  },
-  {
-    "FileNo_": "INS161021158",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/21 下午 01:04:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "油管路與中崙路口，往五甲一路方向",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處斑馬線旁路面上有細沙與小石子，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於10/21 14:19鳳山區清潔隊徐占魁先生回報，該處細沙、小石子皆已清除完畢；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 01:06:56",
-    "Close_Date_": "2016/10/21 下午 08:42:48"
-  },
-  {
-    "FileNo_": "INS161021157",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 下午 12:37:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄觀路一段152巷33弄口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該巷內路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 12:40:44",
-    "Close_Date_": ""
   }
 ]
