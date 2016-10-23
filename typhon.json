@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161023192",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/23 下午 08:32:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "福德一路110號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161023191",
     "Status_": "2",
     "Cre_Date_": "2016/10/23 下午 08:22:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 03:04:05",
     "Close_Date_": "2016/10/21 下午 07:37:26"
-  },
-  {
-    "FileNo_": "INS161021196",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 下午 02:59:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文自路651號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處因溝壁破損，導致路面塌陷，呈現高低落差，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 03:01:40",
-    "Close_Date_": ""
   }
 ]
