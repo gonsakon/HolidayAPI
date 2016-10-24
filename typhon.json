@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024121",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 12:00:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "新養女湖至烏山頂泥火山的山路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處道路因一側坍方掏空，導致路幅縮減，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024120",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 上午 11:59:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 06:55:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022012",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 06:48:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "政德路807號5樓之1",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處住戶有冷氣滴水情事，建請會同管理員查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 06:51:45",
     "Close_Date_": ""
   }
 ]
