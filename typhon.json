@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024327",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 10:30:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗津二路347號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024326",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 10:13:42",
@@ -7889,20 +7906,20 @@
   },
   {
     "FileNo_": "INS161023080",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 11:29:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "學專路與金田路口(公園)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處疑似水龍頭故障，現有漏水之情形，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/24 09：40 養工處 四維養護工程隊 九如分隊 余亭儀小姐回報，該處無立即\r\n 危險性，惟確認屬中油煉油廠所屬周邊綠地非養工處權管，另於 09：50 聯絡高雄煉油廠莊小姐，其表示\r\n 周五已接獲楠梓分局通報，稍早人員也已回報修復完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 11:30:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 10:30:39"
   },
   {
     "FileNo_": "INS161023079",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 07:55:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022216",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 07:47:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和南路上與小港路口(巧比屋餐廳前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 07:48:00",
     "Close_Date_": ""
   }
 ]
