@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024253",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:43:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "旗南一路202號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024252",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:40:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 04:28:47",
     "Close_Date_": "2016/10/22 下午 05:53:38"
-  },
-  {
-    "FileNo_": "INS161022145",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 04:25:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "德昌路與鎮國路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面塌陷(一)",
-    "BeforeDesc_": "渠反映該處現有一15公分下陷僅放三角錐已兩個禮拜至今未修復，且警示措施不足，已有民眾騎車摔倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 04:30:55",
-    "Close_Date_": ""
   }
 ]
