@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024288",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 07:55:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "憲政路111巷24號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈時亮時滅疑似故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024286",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 07:54:19",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161024283",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 07:50:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路201之5號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址住家周界無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 07:55:45",
     "Close_Date_": ""
   },
   {
@@ -239,20 +256,20 @@
   },
   {
     "FileNo_": "INS161024272",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 下午 07:27:59",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "芎蕉五街189號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址處有一流浪貓隻，跑入家中後陽台受困，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/24 19:49 農業局 動保處 蔡勝全先生回報，人員前往時致電陳情人，\r\n 然陳情人當下告知貓隻已自行脫困離去，故無需局處前往；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 07:30:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 07:54:46"
   },
   {
     "FileNo_": "INS161024271",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 06:37:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022179",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 06:31:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路與學專路口(加昌路往西方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面下陷(一)",
-    "BeforeDesc_": "渠反映該處路面柏油凹凸不平且高低落差過大，致影響行車安全，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:33:01",
     "Close_Date_": ""
   }
 ]
