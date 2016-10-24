@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161024205",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/24 下午 04:45:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞隆東路與保泰路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路口首支共桿路燈之路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/24 下午 04:51:35",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024204",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 04:41:38",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS161024191",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/24 下午 04:06:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正言路64巷與正言路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路口遭人丟棄大量廢棄家具，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 12:55:09",
     "Close_Date_": "2016/10/22 下午 08:33:24"
-  },
-  {
-    "FileNo_": "INS161022098",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 12:51:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋三路與三多二路口(凱旋三路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌目前垂落半空中，恐掉下砸傷民眾，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/22 15:11交通局智慧運輸中心張寬如小姐回報，該處為共桿燈上之號誌燈，屬養\r\n工權責，故改派派工:INS161022126賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 12:53:54",
-    "Close_Date_": "2016/10/24 上午 07:59:10"
   }
 ]
