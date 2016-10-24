@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024131",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 12:41:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大仁路841號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處為關閉汽車教練場,目前有砂石車出入作業,但未灑水,造成揚塵嚴重,請查處。",
+    "BeforeDesc_": "渠反映該處為關閉汽車教練場,目前有不明作業砂石車出入但未灑水,造成揚塵嚴重,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 12:43:29",
     "Close_Date_": ""
   },
   {
