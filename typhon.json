@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024261",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 07:04:17",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "台29線與台22線交叉口，里嶺大橋，台29線上",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌燈雙向會同時亮綠燈及黃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024260",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 07:04:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 05:19:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022153",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 05:12:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "東一街近經二路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 05:13:39",
     "Close_Date_": ""
   }
 ]
