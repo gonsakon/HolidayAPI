@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024123",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 12:11:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024122",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 12:05:08",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 07:09:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022014",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 上午 06:58:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗南二路與中寮一路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌設定故障，造成時而閃燈運作，時而正常運作，建請查修。",
-    "AfterDesc_": "【主管解除管制】10/22 11:44 交通局智慧運輸中心李宗哲先生回報，該處需報修廠商，現場無危險\r\n性，故改派非網：A-TB-2016-98488處理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 06:59:37",
-    "Close_Date_": "2016/10/24 上午 08:00:09"
   }
 ]
