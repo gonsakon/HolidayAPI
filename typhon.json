@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024249",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:34:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "延平一路634號(遠傳電信對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024248",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:30:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 04:19:56",
     "Close_Date_": "2016/10/23 下午 01:18:46"
-  },
-  {
-    "FileNo_": "INS161022141",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 04:18:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "灣中街341號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上遭人丟棄一張廢棄折疊式床墊，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/22 17：15 三民東區清潔隊 王文全先生回報，該處已清除完畢；本案不需回電\r\n 故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 04:21:28",
-    "Close_Date_": "2016/10/22 下午 05:27:32"
   }
 ]
