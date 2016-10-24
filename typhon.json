@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024301",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 08:16:36",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "永年街1巷37號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024300",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 08:15:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 07:01:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022193",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 06:56:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民新橋上(西往東方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 07:01:09",
     "Close_Date_": ""
   }
 ]
