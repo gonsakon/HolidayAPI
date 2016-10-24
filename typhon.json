@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024186",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 03:47:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "興達國小門口處",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌控制箱未關，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 03:48:57",
     "Close_Date_": ""
   },
   {
