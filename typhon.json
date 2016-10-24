@@ -3248,20 +3248,20 @@
   },
   {
     "FileNo_": "INS161024123",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 下午 12:11:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉新西路陸橋",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處橋面有貨車翻覆致有碎玻璃，警員已在場，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24 13：06 岡山區清潔隊 李偉彰先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 12:15:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 09:36:52"
   },
   {
     "FileNo_": "INS161024122",
