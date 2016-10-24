@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024272",
+    "FileNo_": "INS161024273",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 07:30:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林家路250號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024272",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 07:27:59",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "芎蕉五街189號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址處有一流浪貓隻，跑入家中後陽台受困，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 07:30:30",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 06:01:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022165",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 05:59:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "竹東里(英明一路、二聖一路、光華國中後方周界)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該里周界路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:04:28",
     "Close_Date_": ""
   }
 ]
