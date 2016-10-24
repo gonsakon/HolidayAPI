@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024178",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 03:39:26",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路128號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024176",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 03:34:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 10:30:54",
     "Close_Date_": "2016/10/22 下午 09:35:02"
-  },
-  {
-    "FileNo_": "INS161022067",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 10:27:36",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後勁溪，由興中橋往援中路沿線",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溪內有魚屍，惟因缺氧，造成死亡，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 10:36:48",
-    "Close_Date_": ""
   }
 ]
