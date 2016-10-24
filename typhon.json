@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024301",
+    "FileNo_": "INS161024302",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 08:20:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路與自由三路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024301",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 08:16:36",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "永年街1巷37號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有污水管阻塞，造成污水逆流，且管內皆飄散惡臭異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 08:20:56",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 07:01:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022194",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 06:57:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐二路360巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷內第一盞路燈不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 07:01:18",
     "Close_Date_": ""
   }
 ]
