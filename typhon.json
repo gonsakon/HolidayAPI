@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025011",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 06:49:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "民治路90巷至民治路140巷之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路段範圍目前有疑似燃燒不明物之惡臭異味，疑似從台南灣裡方向排放過來，建請查處。(陳情人要求人員處理完成與其回覆)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025012",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 06:46:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 09:00:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022238",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 08:55:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "仁湖橋下橋右轉中山路二段",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處路段上有一間鋁製工廠，目前有排放廢氣白煙致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 09:01:25",
     "Close_Date_": ""
   }
 ]
