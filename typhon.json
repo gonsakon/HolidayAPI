@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024257",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:51:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路(介於熱河一街至九如二路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處路段有六棵路樹傾倒移除後，樹穴未有補平，以致民眾跌倒受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024256",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:50:17",
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161024211",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 下午 05:00:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路與建興路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處原設置為三向時向路口，近期會有兩路口同時綠燈狀況疑似故障，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 04:43:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022149",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 04:38:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路674號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處紅磚人行道有下陷情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/22 19：35 四維養護工程隊 江明秀小姐回報，經人員到達現場查看，\r\n 原損壞之人行道皆已有修復完畢，並未發現有下陷之情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 04:41:06",
-    "Close_Date_": "2016/10/22 下午 08:02:43"
   }
 ]
