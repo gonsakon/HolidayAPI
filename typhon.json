@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024163",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 02:46:23",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "華中南路237號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前電線自電桿上掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024162",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 02:32:55",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161024161",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 下午 02:29:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "育成二街上，近琅環二街口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該處有一公園內遭對面建商堆置板模且已二周未清，請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 10:10:38",
     "Close_Date_": "2016/10/23 上午 10:54:01"
-  },
-  {
-    "FileNo_": "INS161022053",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 上午 09:59:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後勁溪，由興中橋往援中路沿線",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處溪內有魚屍，惟因缺氧，造成死亡，請查處。",
-    "AfterDesc_": "【主管解除管制】10/22 10:23 溝渠清疏隊林洺州先生回報，經詢問隊長表示，溝渠隊只負責愛河河\r\n面，後勁溪屬水利局權責，故轉派派工：INS161022067處理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 10:16:40",
-    "Close_Date_": "2016/10/24 上午 07:49:59"
   }
 ]
