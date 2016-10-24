@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024240",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:07:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "捷運凹子底站4號出口(往西方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處一排地燈故障不亮已久，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024239",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:04:47",
@@ -35,36 +52,36 @@
   },
   {
     "FileNo_": "INS161024237",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:04:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "民族路13之20號至13之28號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段共5盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 06:08:33",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161024236",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:03:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "萬金路18號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 06:08:21",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 03:44:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022132",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 03:40:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三鳳宮",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該公廟現燃放鞭炮煙霧瀰漫，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/22 16:29 環保局中區股洪天賜先生回報，稽查人員於16:02到達，人員表\r\n示現場鞭炮已結束，現場未發現有空污情形；10/23上午08:52 再次通報INS161023035賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 03:40:58",
-    "Close_Date_": "2016/10/23 上午 11:47:24"
   }
 ]
