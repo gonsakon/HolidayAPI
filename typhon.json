@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024337",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 11:26:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路556號3樓之1",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處大樓為20層樓，目前3樓以上其一住戶冷氣滴水，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024336",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 11:20:47",
@@ -27,7 +44,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處攤販仍有發電機機具運轉噪音，建請查處。",
+    "BeforeDesc_": "渠反映該處攤販有發電機機具運轉噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 11:25:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 08:34:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022226",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/22 下午 08:22:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "舊港橫路242號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 08:24:02",
     "Close_Date_": ""
   }
 ]
