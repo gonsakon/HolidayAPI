@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161024251",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:36:11",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路近福德二路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處人行道上有一台電變電箱傾斜，建請查處",
+    "BeforeDesc_": "渠反映該處人行道上有一台電變電箱傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 06:58:22",
     "Close_Date_": ""
   },
   {
