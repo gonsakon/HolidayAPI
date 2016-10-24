@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 12:21:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞竹里瑞南街56之1號 對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024337",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 11:26:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 08:34:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022227",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/22 下午 08:27:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "森美堡對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(花旗幹41)，建請會同查處。(要求會同時提前一小時聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 08:34:08",
     "Close_Date_": ""
   }
 ]
