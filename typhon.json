@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024081",
+    "FileNo_": "INS161024082",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 10:23:49",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大港街23號前",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該處有一方型台電孔蓋旁凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024081",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 10:23:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "四維路與台17縣路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 上午 10:24:08",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 09:08:55",
     "Close_Date_": "2016/10/21 下午 11:29:32"
-  },
-  {
-    "FileNo_": "INS161021312",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/21 下午 08:57:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "忠孝路一段18之6號對面(中壇國小前方)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，且會發出異聲，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 09:00:24",
-    "Close_Date_": ""
   }
 ]
