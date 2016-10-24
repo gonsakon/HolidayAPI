@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024161",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 02:29:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "琅環二街育成二街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "建商收木板 建築廢棄物堆在公園 公園對面",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024160",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 02:27:27",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161024149",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/24 下午 01:36:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路477巷口(丹丹漢堡店前)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄一包垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 09:59:05",
     "Close_Date_": "2016/10/23 上午 10:45:42"
-  },
-  {
-    "FileNo_": "INS161022051",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/22 上午 09:54:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "大坑路7號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一路燈故障不亮，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 10:02:56",
-    "Close_Date_": ""
   }
 ]
