@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024081",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 10:23:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "四維路與台17縣路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024080",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 10:14:44",
@@ -4693,20 +4710,20 @@
   },
   {
     "FileNo_": "INS161023027",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 08:05:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔北巷2之102號14樓",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24 10：20電覆陳情人未果，故於10/24 10：22簡訊回覆：蘇先生您好，您10月23日\r\n所反映冷氣滴水問題，經本府環保局前往稽查，稽查當時致電您，兩通未接聽，故會同管理員稽查，未發現14樓\r\n有冷氣滴水情形，另亦再聯絡14樓住戶予以勸導自行多加注意，感謝您的熱心通報，倘您對案件處理有疑問，歡\r\n迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 08:06:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 10:26:06"
   },
   {
     "FileNo_": "INS161023026",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 09:00:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161021311",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/21 下午 08:56:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "1.旗楠路88之1號、2.旗楠路103巷巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處地點各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 08:58:56",
     "Close_Date_": ""
   }
 ]
