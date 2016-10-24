@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024290",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 08:00:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "頂園街38號對面公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處有一盞園燈之燈具仍然破損不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024289",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 07:59:12",
@@ -31,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 07:56:24",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024287",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/24 下午 07:54:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "凱旋一路93巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該巷內路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/24 下午 08:00:22",
     "Close_Date_": ""
   },
   {
@@ -103,19 +137,19 @@
   },
   {
     "FileNo_": "INS161024282",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 07:50:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區鼎金二巷12號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "鼎金二巷12號前路燈歪頭且燈罩破損裂開",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 07:59:48",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 06:44:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022182",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 06:40:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與文自路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口行人號誌燈均故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/22 20：45 交通局智慧運輸中心張寬如小姐回報，該處號誌燈因線路故障，須報\r\n請廠商處理，現場仍無立即危險性，故轉派非網A-TB-2016-98649賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:43:13",
-    "Close_Date_": "2016/10/24 上午 07:58:54"
-  },
-  {
-    "FileNo_": "INS161022181",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 06:38:51",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋三路上與三多二路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處共桿燈上之號誌燈目前垂落半空中，恐掉下砸傷民眾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/22 19:13 水利局 防洪維護科 陳俊良先生回報，經人員現場查看，該處號誌燈四角\r\n 皆完好固定於共桿燈上，並無垂落半空中情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:41:21",
-    "Close_Date_": "2016/10/22 下午 08:01:11"
   }
 ]
