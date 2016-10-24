@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024278",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 07:45:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪三十七路56號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024277",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 07:39:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 06:19:07",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022170",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 06:09:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永富街沿線與民權一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處大範圍路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/22 22:00 四維養護工程隊 九如分隊 陳戊昌先生回報，上述路燈均已修復完畢\r\n ；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:16:54",
-    "Close_Date_": "2016/10/22 下午 10:08:16"
   }
 ]
