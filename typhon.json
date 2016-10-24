@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024115",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 11:38:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "協和里通校路與吉安街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮已數月，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024114",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 上午 11:36:12",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161024095",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 上午 10:51:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔北巷2之102號14樓",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶有冷氣滴水情事，建請會同查處。(陳情人要求先行聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 03:50:55",
     "Close_Date_": "2016/10/23 上午 10:15:04"
-  },
-  {
-    "FileNo_": "INS161022006",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 上午 02:27:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "民治路上過興達國小方向，往情人碼頭",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處位於下橋轉彎處有一犬屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】環保局溝渠清潔隊莊斯宇先生於10/22 04:05回報：人員到場巡查，現場有發現\r\n血漬，但未發現狗屍，疑似已遭人清除，故結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 02:30:08",
-    "Close_Date_": "2016/10/22 上午 04:06:45"
   }
 ]
