@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024245",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:21:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學二十一路，西往東方向，近大學西路口20公尺處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處地點有被丟棄垃圾包及雜物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024244",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 06:20:09",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161024243",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:19:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路上愛河河岸(近公共廁所)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處石頭柱鐵鍊式圍籬旁，有景觀燈故障線路外露情況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 06:21:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 04:03:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022137",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 03:53:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "軍校路上，近世運大道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處人行道上有一枯枝懸掛在樹上，擔憂風大會被吹落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 03:55:06",
     "Close_Date_": ""
   }
 ]
