@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024108",
+    "FileNo_": "INS161024109",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 11:19:27",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "臨海二路62號(港務分公司前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處一水溝蓋有凸出且溝蓋旁水泥破損，並可直視下方水溝,恐有整個塌陷危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024108",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 11:15:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "地政街27之5號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 上午 11:15:58",
     "Close_Date_": ""
   },
   {
@@ -4931,20 +4948,20 @@
   },
   {
     "FileNo_": "INS161023041",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 上午 09:01:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "北仁街與北昌三街(崑庭建設)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工地機具施工導致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/23 11:19 環保局中區股吳柏勳先生回報回報，稽查人員於10:07抵達，該工地先前\r\n有進行連續壁施工作業，當時有使用連續壁機具，惟稽查當時人員在現場並無發現噪音情事，仍有有促請廠商加\r\n強注意以維護安寧；並於10/24 10：58電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 09:04:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 上午 11:18:58"
   },
   {
     "FileNo_": "INS161023040",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 12:41:55",
     "Close_Date_": "2016/10/22 上午 05:26:24"
-  },
-  {
-    "FileNo_": "INS161022001",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 12:17:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路(嘉興街至中鋼路，北上快車道)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該路段沿線約4至5路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 12:19:11",
-    "Close_Date_": ""
   }
 ]
