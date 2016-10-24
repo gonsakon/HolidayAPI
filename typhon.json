@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024117",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 11:47:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "上竹圍16號(附近畜牧場對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "工地填土 挖砂石造成路面塵土飛楊",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024116",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 11:39:36",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161024087",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 上午 10:38:21",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路482號(劉志明耳鼻喉科)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處溝壁掏空凹陷破損，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 06:26:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022008",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 06:12:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路轉入中林路(往大林埔方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處機車道上多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 06:16:23",
     "Close_Date_": ""
   }
 ]
