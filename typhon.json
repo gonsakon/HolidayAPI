@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161023101",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 01:20:36",
     "ReplyUnit_": "E01005",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強二路108號對面；前金國小東側",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有2個電器箱爆炸導致停電，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/24 09：49 經詢問台電 1911 客服 鄭先生表示，已修復完成；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 01:26:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 10:07:08"
   },
   {
     "FileNo_": "INS161023100",
