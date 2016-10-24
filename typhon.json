@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024173",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 03:25:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "正興路126號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024172",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 03:14:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 10:18:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022062",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 10:16:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "青年一路四維國小",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該校進行吊掛作業，無設立安全措施及交維，有無申請，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 10:20:50",
     "Close_Date_": ""
   }
 ]
