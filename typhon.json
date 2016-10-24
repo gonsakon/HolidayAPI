@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 01:39:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山溪內,由大智陸橋至博愛路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該河水呈藍色且有異味,恐有排放廢水污染,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 01:40:58",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161024147",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 01:36:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中芸二路42號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址對面水溝蓋上有一包垃圾及廚餘，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 01:38:13",
     "Close_Date_": ""
   },
   {
@@ -4013,20 +4013,20 @@
   },
   {
     "FileNo_": "INS161023137",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 05:09:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "赤崁北路64巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處巷道內有一空地有民眾在燃燒樹枝、樹葉，造成空氣汙染，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/23 19:48環保局環境稽查科北區股劉政瑋先生回報，稽查人員於19:19到達，稽查當\r\n時現場有發現燃燒樹葉後之餘燼 ，惟現場未發現行為人；並於10/24 13：32電覆陳情人，故解除管制；惟陳情\r\n人反映該處長期燃燒空污問題，故另派非網A-TB-2016-99173追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 05:11:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 01:39:38"
   },
   {
     "FileNo_": "INS161023136",
