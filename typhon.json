@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024234",
+    "FileNo_": "INS161024235",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 06:03:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "角宿路2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024234",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 06:02:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓西巷47弄",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映巷內路燈都故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 06:03:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 03:40:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022127",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 03:17:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多一路與輔仁路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映「三多一路」路牌有搖搖欲墜情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 03:18:16",
     "Close_Date_": ""
   }
 ]
