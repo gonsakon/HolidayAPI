@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024122",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 12:05:08",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "明聖街311巷18號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該址前有一電線桿目前傾斜超過45度，憂恐倒塌，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 12:09:15",
     "Close_Date_": ""
   },
   {
