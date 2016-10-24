@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024034",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 09:00:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "公園二路與大義街口(公園二路上)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈頭目前朝上天空，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 上午 09:03:33",
     "Close_Date_": ""
   },
   {
