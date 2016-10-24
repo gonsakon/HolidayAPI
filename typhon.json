@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024071",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 上午 09:55:36",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路與至真路口，於澳盛銀行前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處轉角於斑馬線上有一路面坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024068",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 09:49:34",
@@ -2925,14 +2942,14 @@
   },
   {
     "FileNo_": "INS161023123",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/23 下午 03:18:11",
     "ReplyUnit_": "E01005",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "中正東路256之8號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處有一電桿於今年過年前後施工移置，如今該電桿基座填補處出現損壞坑洞，原電桿移置前之位置填補亦出現龜裂破損，建請查處。(要求該處負責人員與其聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/21 下午 08:13:39",
     "Close_Date_": "2016/10/22 下午 04:54:32"
-  },
-  {
-    "FileNo_": "INS161021300",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/21 下午 08:06:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路202巷149號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/21 下午 08:07:29",
-    "Close_Date_": ""
   }
 ]
