@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024138",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 01:01:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗港路16號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前有垃圾包及風災掉落之磚塊，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024137",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 12:51:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 09:01:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022029",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 08:52:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路90之14號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址前目前有工地正在施工，然施工機具運轉轉聲過大致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 08:54:33",
     "Close_Date_": ""
   }
 ]
