@@ -7753,20 +7753,20 @@
   },
   {
     "FileNo_": "INS161023088",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 12:06:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "台一線與南溝路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/23 14：37 交通局 智慧運輸中心 徐郁豐先生回報，已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 12:07:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/24 下午 10:18:58"
   },
   {
     "FileNo_": "INS161023087",
