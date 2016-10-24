@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024118",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/24 上午 11:51:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳甲路248號(資源回收場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有業者使用機具致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/24 上午 11:53:03",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024117",
     "Status_": "2",
     "Cre_Date_": "2016/10/24 上午 11:47:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 上午 06:40:30",
     "Close_Date_": "2016/10/22 下午 09:32:54"
-  },
-  {
-    "FileNo_": "INS161022009",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 上午 06:24:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "圖書館總館旁(新光路上)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處舉辦路跑活動使用擴音器致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 上午 06:26:53",
-    "Close_Date_": ""
   }
 ]
