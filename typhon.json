@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161024312",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 08:42:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉興東路(大莊里往岡山方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(編號:1009)故障不亮已半個月，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 08:45:34",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161024309",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 08:39:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "大莊里1.大莊路(全台倉儲) 2.大莊路267巷93之2",
+    "address_": "大莊里1.大莊路(全台倉儲) 2.大莊路267巷93之2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該2址前各一盞路燈故障不亮，建請查處。(並提供大莊路全台倉儲前電桿編號:大岡山高幹19-3右1Q1046ZD)",
+    "BeforeDesc_": "渠反映該2址前各一盞路燈故障不亮半個月，建請查處。(並提供大莊路全台倉儲前電桿編號:大岡山高幹19-3右1Q1046ZD)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 08:45:27",
     "Close_Date_": ""
   },
   {
