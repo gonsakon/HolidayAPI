@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161024318",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 09:14:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重立路138號(源一鑫)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有一洗車工廠，有使用高壓噴槍造噪音情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161024317",
     "Status_": "1",
     "Cre_Date_": "2016/10/24 下午 09:11:42",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161024257",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 下午 06:51:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路(介於熱河一街至九如二路)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處路段有六棵路樹傾倒移除後，樹穴未有補平，以致民眾跌倒受傷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 07:18:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022206",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 07:16:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "林南街10巷、林南街20巷、廣州一街155巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 07:17:29",
     "Close_Date_": ""
   }
 ]
