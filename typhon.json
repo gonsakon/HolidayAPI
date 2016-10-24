@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161024299",
+    "FileNo_": "INS161024300",
     "Status_": "1",
+    "Cre_Date_": "2016/10/24 下午 08:15:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路二段與三隆路交叉口，光明路段上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處地點沿線有多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161024299",
+    "Status_": "2",
     "Cre_Date_": "2016/10/24 下午 08:14:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生一路289號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道磚有下陷情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/24 下午 08:15:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 07:01:09",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022192",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/22 下午 06:55:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多二路與廣東一街口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段附近路燈皆是故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於 10/22 22:00 四維養護工程隊 九如分隊 陳戊昌先生回報，上述路燈均已修復完畢\r\n ；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 06:56:41",
-    "Close_Date_": "2016/10/22 下午 10:10:39"
   }
 ]
