@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025222",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/25 下午 06:08:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "育仁街上(大仁北路與後紅國小間)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈故障不亮逾三天，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/25 下午 06:09:10",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025221",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 06:07:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 07:54:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023177",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/23 下午 07:38:42",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "仁義街133號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電長方形孔蓋鬆動，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 07:45:07",
     "Close_Date_": ""
   }
 ]
