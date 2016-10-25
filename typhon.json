@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025160",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/25 下午 03:13:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳捷路與捷西路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線一半路燈故障不亮，時間超過三個月，建請儘速查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/25 下午 03:18:44",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025155",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 03:06:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 02:47:56",
     "Close_Date_": "2016/10/24 上午 12:57:59"
-  },
-  {
-    "FileNo_": "INS161023116",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/23 下午 02:40:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "南星路2800號附近(貨櫃碼頭公司)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈白天未熄(一)",
-    "BeforeDesc_": "渠反映該路段多盞路燈故障白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 02:42:00",
-    "Close_Date_": ""
   }
 ]
