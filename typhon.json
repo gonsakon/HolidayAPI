@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161026013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 上午 07:17:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "廣應街38巷55號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 上午 07:26:37",
     "Close_Date_": ""
   },
   {
