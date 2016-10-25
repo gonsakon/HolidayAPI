@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025132",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 01:55:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "立信街與立信街105巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025131",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 01:52:36",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161025128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 01:38:53",
-    "ReplyUnit_": "",
+    "ReplyUnit_": "E01003",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市和平一路二八八巷3號",
-    "UnitName_": "",
-    "StatusName_": "建立中",
-    "InformDesc_": "",
+    "UnitName_": "自來水公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "停水",
     "BeforeDesc_": "自來水流量接近中午時到現在忽然變很小,請協助處理",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 01:55:40",
     "Close_Date_": ""
   },
   {
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS161025097",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/25 上午 11:35:36",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中原街11號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處水溝溝框損壞，迄今尚未處裡，建請查處。(請聯繫陳情人)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 12:06:42",
     "Close_Date_": "2016/10/24 下午 10:21:34"
-  },
-  {
-    "FileNo_": "INS161023086",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/23 上午 11:56:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "信義路35巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷第一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 上午 11:58:07",
-    "Close_Date_": ""
   }
 ]
