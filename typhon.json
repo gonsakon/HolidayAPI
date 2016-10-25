@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161025200",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 05:37:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大社路401巷近大社路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映有燃燒廢棄物，造成產生大量濃煙，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 05:38:20",
     "Close_Date_": ""
   },
   {
