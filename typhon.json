@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025034",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 09:08:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中正四路253號(兆豐銀行)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該址前人行道上有兩處紅磚凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025032",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 上午 09:04:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 10:30:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022260",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 10:27:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路與明潭路口(檳榔攤前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 10:33:41",
     "Close_Date_": ""
   }
 ]
