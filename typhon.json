@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161025041",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 09:23:57",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "北昌五街37號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反應該址前一小貓受困於樹上約兩層樓高，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 上午 09:25:08",
     "Close_Date_": ""
   },
   {
@@ -7532,20 +7532,20 @@
   },
   {
     "FileNo_": "INS161023154",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/23 下午 06:11:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松竹街與忠義路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近目前飄散一股不明之化學異臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/23 19：50 環保局環境稽查科中區股楊竣安先生回報，稽查人員於19：48到達，稽\r\n查時於周界巡視未發現上述空污情事；並於10/25 09：20電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 06:14:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 上午 09:26:12"
   },
   {
     "FileNo_": "INS161023153",
