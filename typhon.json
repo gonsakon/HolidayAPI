@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161026007",
+    "FileNo_": "INS161026008",
     "Status_": "1",
+    "Cre_Date_": "2016/10/26 上午 01:15:23",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "大樹",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "1.“高46鄉道 玉清宮附近”   封路狀況到現在都還沒解除，替代道路碎石多易發生打滑危險，能儘快處理嗎？2.“大樹三和路”上坡路段旁路像是塌陷，那邊居住的人皆為高齡居多，能多注重市民基本交通安全嗎？",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161026007",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 上午 01:11:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "",
+    "address_": "加昌路(楠梓加工區7號出入口、愛光塑膠)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者目前正排放廢氣，造成周界皆是惡臭異味，建請查處。(請單位處理結果直接電覆陳情人)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 上午 01:15:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 09:14:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024043",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 上午 09:13:12",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路與復興三路(中鋼總部大樓前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路中央有一大型坑洞，係因過路溝破損所導致，恐致用路人危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 上午 09:17:10",
     "Close_Date_": ""
   }
 ]
