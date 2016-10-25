@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161025049",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 09:37:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞祥國小站公車亭",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "班超路上的瑞祥國小站候車亭損壞，即將掉落，恐傷及候車民眾，請交通局派人維修",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 上午 09:52:16",
     "Close_Date_": ""
   },
   {
