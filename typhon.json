@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025039",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 09:22:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞祥國小公車亭旁(班超路瑞隆派出所對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "瑞祥國小公車亭旁(班超路瑞隆派出所對面) 有一棵路樹即將傾倒，恐壓傷行人，並且造成樹穴損壞、地磚隆起，請市府派人處理",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025038",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 09:16:04",
@@ -1446,14 +1463,14 @@
   },
   {
     "FileNo_": "INS161024286",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 下午 07:54:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "凱旋一路93巷",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處該巷內全無預警停電，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 10:48:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022264",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 10:44:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路與光遠路口(靠近黃埔公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處梅花燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 10:48:11",
     "Close_Date_": ""
   }
 ]
