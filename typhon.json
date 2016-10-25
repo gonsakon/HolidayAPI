@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026010",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 上午 07:03:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026009",
     "Status_": "4",
     "Cre_Date_": "2016/10/26 上午 01:43:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 09:15:49",
     "Close_Date_": "2016/10/25 下午 06:25:25"
-  },
-  {
-    "FileNo_": "INS161024045",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 上午 09:13:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與葆禎路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 上午 09:14:56",
-    "Close_Date_": ""
   }
 ]
