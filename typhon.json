@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025030",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 08:56:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025029",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 上午 08:53:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/22 下午 10:09:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161022256",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/22 下午 10:05:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "展寶路永生巷340號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一直徑約20至30公分圓形路面塌陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/22 下午 10:06:37",
     "Close_Date_": ""
   }
 ]
