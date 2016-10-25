@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025244",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 07:08:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "橫山路(橫山國小前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有一方型孔蓋施工工程，警示設施不明顯，易生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025243",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 07:01:32",
@@ -511,19 +528,19 @@
   },
   {
     "FileNo_": "INS161025213",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 05:53:36",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建武路53巷5號對面",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "此處有一方型水溝蓋鬆動，車輛行經發出聲響，請派人維修，謝謝。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 07:08:22",
     "Close_Date_": ""
   },
   {
@@ -1021,14 +1038,14 @@
   },
   {
     "FileNo_": "INS161025184",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/25 下午 04:43:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大埤路上(介於忠孝路與中正路間)，長軒汽車隔壁",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有燃燒垃圾致空污情形，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 08:57:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023199",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/23 下午 08:55:41",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與民族一路543巷口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝壁破損坑洞，已修復過再次損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 08:58:46",
     "Close_Date_": ""
   }
 ]
