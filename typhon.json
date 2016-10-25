@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161025169",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/25 下午 03:53:02",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大仁北路390號前",
-    "UnitName_": "工務局",
-    "StatusName_": "建立中",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該址前有一寬頻孔蓋鬆動車行經過產生噪音,且孔蓋旁也有坑洞,建請一併處理。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161025170",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 03:53:02",
@@ -31,6 +14,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161025169",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/25 下午 03:53:02",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大仁北路390號前",
+    "UnitName_": "工務局",
+    "StatusName_": "待確認",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該址前有一寬頻孔蓋鬆動車行經過產生噪音,且孔蓋旁也有坑洞,建請一併處理。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/25 下午 03:54:27",
     "Close_Date_": ""
   },
   {
