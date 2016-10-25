@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025199",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 05:34:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中山路二路74號(全鎧鋁業)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025198",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 05:34:39",
@@ -1089,14 +1106,14 @@
   },
   {
     "FileNo_": "INS161025133",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/25 下午 01:58:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "紅毛港路上(與國慶十一街口)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址有一號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 06:21:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023154",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/23 下午 06:11:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松竹街與忠義路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近目前飄散一股不明之化學異臭味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/23 19：50 環保局環境稽查科中區股楊竣安先生回報，稽查人員於19：48到達，稽\r\n查時於周界巡視未發現上述空污情事；並於10/25 09：20電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 06:14:07",
-    "Close_Date_": "2016/10/25 上午 09:26:12"
   }
 ]
