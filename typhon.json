@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025250",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/25 下午 07:33:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "崗山里83號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址對面附近目前有飄散一股豬隻排泄物之惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/25 下午 07:37:45",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025249",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 07:30:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 09:07:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023205",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/23 下午 09:03:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "高楠公路與霞海路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路口前後100公尺，中央分隔島約有5、6盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 09:04:52",
     "Close_Date_": ""
   }
 ]
