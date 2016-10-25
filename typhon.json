@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025262",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 08:20:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "環球路與大智路口，西往東方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路口路面不平整，疑似有坑洞，造成車輛行駛顛簸，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025261",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 08:17:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 10:24:06",
     "Close_Date_": "2016/10/24 上午 12:00:14"
-  },
-  {
-    "FileNo_": "INS161023217",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/23 下午 09:59:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "文聖路90巷6弄17號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈之燈頭已遺失至今仍未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 10:00:50",
-    "Close_Date_": ""
   }
 ]
