@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161025128",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 01:38:53",
     "ReplyUnit_": "E01003",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市和平一路二八八巷3號",
     "UnitName_": "自來水公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停水",
     "BeforeDesc_": "自來水流量接近中午時到現在忽然變很小,請協助處理",
-    "AfterDesc_": "",
+    "AfterDesc_": "10/25 13：51代通報1910自來水客服周小姐(#161)，受理編號：20160649210",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 01:55:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 下午 02:04:47"
   },
   {
     "FileNo_": "INS161025127",
