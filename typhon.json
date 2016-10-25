@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025198",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 05:34:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "仁美里高碼二路6巷97號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(編號E038)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025197",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 05:28:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 06:14:07",
     "Close_Date_": "2016/10/25 上午 09:26:12"
-  },
-  {
-    "FileNo_": "INS161023153",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/23 下午 06:10:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路至大順陸橋上(往南)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該陸橋上伸縮縫周邊柏油已大面積脫落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 06:18:43",
-    "Close_Date_": ""
   }
 ]
