@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025050",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 09:41:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路二段與大寮路口(7-11旁內車道)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有低落水泥，部分尚未乾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025049",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 上午 09:37:25",
@@ -4013,14 +4030,14 @@
   },
   {
     "FileNo_": "INS161024146",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/24 下午 01:26:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄平街93號到95號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電電線垂落，請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 12:40:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023003",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/23 上午 12:24:58",
-    "ReplyUnit_": "E01003",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗山區太平里仁義巷",
-    "UnitName_": "自來水公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "檢修管線",
-    "BeforeDesc_": "旗山區太平里仁義巷自來水是黃色的泥水。",
-    "AfterDesc_": "本案已於10/23 02:43代反映至自來水公司1910林小姐(#153)成功。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 上午 02:48:07",
-    "Close_Date_": "2016/10/23 上午 09:08:37"
   }
 ]
