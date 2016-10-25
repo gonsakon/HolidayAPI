@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161025123",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 01:15:56",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文育路237號與239號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋鐵框遺失，反映多次尚未修復，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 01:18:50",
     "Close_Date_": ""
   },
   {
@@ -5237,20 +5237,20 @@
   },
   {
     "FileNo_": "INS161024148",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 下午 01:39:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山溪內,由大智陸橋至博愛路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該河水呈藍色且有異味,恐有排放廢水污染,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24 16：02 環保局稽查科中區股陳信豪先生回報，稽查人員於14:01到達，稽查時發\r\n現藍色廢水，沿線巡查發現一家公司違規排放，依法查處；並於10/25 13：17電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 01:40:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 下午 01:21:09"
   },
   {
     "FileNo_": "INS161024149",
