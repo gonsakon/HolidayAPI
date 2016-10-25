@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161025074",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 10:23:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中華四路65號斜前方近斜坡道",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "長條狀人行道紅磚破損",
+    "BeforeDesc_": "渠反映該處有一長條狀人行道紅磚破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 上午 10:28:39",
     "Close_Date_": ""
   },
   {
@@ -5985,20 +5985,20 @@
   },
   {
     "FileNo_": "INS161024052",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 上午 09:23:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路102號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址後方水溝內有垃圾阻塞，使污水冒出，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24 10:07前金區清潔隊陳姵嘉小姐回報，經會同陳情人到場，已當面告知因為屋後\r\n溝需為兩側住戶自行清理；並於10/25 10：25電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 09:26:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 上午 10:31:20"
   },
   {
     "FileNo_": "INS161024051",
