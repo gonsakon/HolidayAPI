@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025072",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 上午 10:22:06",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路與平等路口(麥當勞前)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一隻貓遭撞受傷,無法動彈,已移至路旁,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025068",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 上午 10:17:21",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161025069",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 上午 10:14:57",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路72巷(18號、20號、 28號、 34號、12號 )",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該處有六處方形水溝蓋鬆動致噪音，建請持查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 上午 10:19:01",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 上午 07:37:09",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023024",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/23 上午 07:20:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "環潭路與洲仔溼地入口處",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈自颱風後至今尚未修復，目前仍全不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/23 10:51 交通局智慧運輸中心徐郁豐先生回報，已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 上午 07:22:54",
-    "Close_Date_": "2016/10/24 上午 07:56:11"
   }
 ]
