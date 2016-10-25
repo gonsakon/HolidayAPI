@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161025124",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 01:19:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄清路821號大華派出所旁，人源試驗所前方",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路燈桿上路燈電線垂落，部分已掉落地面，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 01:24:43",
     "Close_Date_": ""
   },
   {
@@ -4931,20 +4931,20 @@
   },
   {
     "FileNo_": "INS161024165",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 下午 02:50:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路(青年夜市旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映現該處鳳山溪疑似受汙染沿線溪水皆為綠色，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24 16：02 環保局稽查科中區股陳信豪先生回報，稽查人員於14:01到達，稽查時發\r\n現藍色廢水，沿線巡查發現一家公司違規排放，依法查處；並於10/25 13：20電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 02:56:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 下午 01:24:41"
   },
   {
     "FileNo_": "INS161024168",
