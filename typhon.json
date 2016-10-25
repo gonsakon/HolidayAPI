@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025137",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 02:15:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "錦州街15號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025135",
     "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 02:11:23",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161025136",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 02:08:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路26巷9號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈電源線有斷掉脫落情形，造成路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 02:15:03",
     "Close_Date_": ""
   },
   {
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS161025088",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/25 上午 11:09:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮洋路63號後方前鎮運河旁綠地",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處遭人從高處丟棄多包廢棄土，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 12:40:13",
     "Close_Date_": "2016/10/24 下午 12:54:02"
-  },
-  {
-    "FileNo_": "INS161023091",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/23 下午 12:38:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞隆路323號(達美樂)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處業者進行懸掛招牌作使用機具產生噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/23 13:52 環保局環境稽查科南區股戴宏霖先生回報，稽查人員於13:43到達，稽查\r\n當時業者進行收拾作業，未發現吊掛招牌使用機具致噪音情事；並於10/24 18：56電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 12:43:40",
-    "Close_Date_": "2016/10/24 下午 07:03:56"
   }
 ]
