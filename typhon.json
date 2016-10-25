@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161025190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/25 下午 04:54:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "裕誠路與博愛二路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口裕誠路左轉專用號誌綠燈時，行人號誌也是綠燈造成車輛無法左轉恐故障，建請查處。",
+    "BeforeDesc_": "渠反映該路口裕誠路左轉專用號誌綠燈時，行人號誌也是綠燈造成車輛無法順利左轉已故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/25 下午 04:56:44",
     "Close_Date_": ""
   },
   {
