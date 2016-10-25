@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161025215",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 05:59:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "台鋁南巷10號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址住戶燃燒不明物體，造成空污情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025214",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 05:54:52",
@@ -4642,20 +4659,20 @@
   },
   {
     "FileNo_": "INS161024273",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/24 下午 07:30:03",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "林家路250號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處電線桿因颱風後，致傾斜且基座不穩，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/24  20:15 台電鳳山營業處朱先生回報，該處目前無危險性，已有與陳情人會同並\r\n說明，會再將該處電線桿處理扶正，故改派非網A-TB-2016-99421賡續辦理；並於10/25 17：59電覆陳情人，故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 07:35:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/25 下午 05:59:41"
   },
   {
     "FileNo_": "INS161024272",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/23 下午 07:28:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161023170",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/23 下午 07:25:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "永達路近永安路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:永安075)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/23 下午 07:28:45",
     "Close_Date_": ""
   }
 ]
