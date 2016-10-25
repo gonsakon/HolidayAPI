@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161025273",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/25 下午 08:43:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161025272",
     "Status_": "1",
     "Cre_Date_": "2016/10/25 下午 08:43:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "中四巷44號",
+    "address_": "崇實新村中四巷44號附近",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 12:30:23",
     "Close_Date_": "2016/10/24 上午 07:46:26"
-  },
-  {
-    "FileNo_": "INS161024001",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/24 上午 12:22:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "義昌路80號4樓之6以上樓層",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處4樓以上住戶有冷氣滴水情事，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】環保局李政鴻先生於10/24 02:35 回報：稽查人員於01:12到場，稽查當時會同\r\n陳情人勘查，經查為義昌路80號6樓之6住戶有冷氣滴水情事，現場已錄影蒐證，且於該住戶門前留置\r\n改善通知單，限期七日內改善屆期複查，故轉派非網A-TB-2016-98928賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 上午 12:27:25",
-    "Close_Date_": "2016/10/24 上午 02:42:34"
   }
 ]
