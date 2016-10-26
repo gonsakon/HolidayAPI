@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026126",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 01:26:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路與覺民路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍致路面油漬,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026125",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 01:19:42",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161026119",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/26 下午 12:25:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路88號旁",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄兩個損壞疑似三角錐物品，建請清除。",
     "AfterDesc_": "",
@@ -2993,20 +3010,20 @@
   },
   {
     "FileNo_": "INS161025254",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 07:54:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "大明路與瑞隆東路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有一攤販進行燒烤作業致油煙空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 13：18電覆陳情人未果，故於10/26 13：22簡訊回覆：陳小姐您好，您10月25日\r\n所反映油煙空污問題，經本府環保局前往稽查，稽查時該業這營業中，於通報地點並未發現有明顯油煙逸散情\r\n況，故未發現空污情事，業者表示於11/01油煙過濾設備會裝設完成，仍請業者注意防範，感謝您的熱心通報，\r\n倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 07:56:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 01:26:13"
   },
   {
     "FileNo_": "INS161025253",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 02:49:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024162",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 02:32:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "三協里環湖路16號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮已多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 02:35:59",
     "Close_Date_": ""
   }
 ]
