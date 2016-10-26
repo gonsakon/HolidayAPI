@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027012",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 06:38:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路371之2號21樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處冷氣滴水，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027011",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 05:08:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 06:48:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025010",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 上午 06:21:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文慈路253號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面遭人丟棄垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/25 07:09左營區清潔隊保全呂清發先生回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 06:23:20",
-    "Close_Date_": "2016/10/25 上午 07:57:37"
   }
 ]
