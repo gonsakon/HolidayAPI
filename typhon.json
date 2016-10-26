@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027005",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 12:54:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高鐵路近大中二路()",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027004",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 12:34:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 12:51:48",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025003",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 上午 12:31:40",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山區成功路平交道",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "成功路平交道附近，有一隻咖啡色的流浪犬會追車及咬人，已造成人員受傷，請協助處理。",
-    "AfterDesc_": "感謝您的反映，此案件已於人民陳情案件A-TB-2016-99452由農業局動保處辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 03:25:51",
-    "Close_Date_": "2016/10/25 上午 03:29:15"
   }
 ]
