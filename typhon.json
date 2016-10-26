@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026292",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/26 下午 11:20:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "光武路152巷1號5樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處住戶有冷氣滴水之情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/26 下午 11:26:32",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026291",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 11:12:47",
@@ -367,7 +384,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待處理",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址9樓或10樓有冷氣滴水致噪音情事，建請查處。",
+    "BeforeDesc_": "渠反映該址9樓或10樓有冷氣滴水情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 09:38:22",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161026264",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/26 下午 09:09:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "文信路327之1號(肉燥飯店後方)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者目前作業中，有油煙直接排向後方大樓內中庭致空汙情事，建請查處。(大樓地址備註別叮嚀)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 11:09:41",
     "Close_Date_": "2016/10/26 下午 05:04:13"
-  },
-  {
-    "FileNo_": "INS161024330",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 下午 11:03:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂和街51號旁邊",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，陳情人要求備註該盞燈上有附掛路牌，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 11:09:28",
-    "Close_Date_": ""
   }
 ]
