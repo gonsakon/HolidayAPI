@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161026229",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 07:11:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "和光街109巷72弄",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有3盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 下午 07:12:47",
     "Close_Date_": ""
   },
   {
@@ -2041,20 +2041,20 @@
   },
   {
     "FileNo_": "INS161026109",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 上午 11:38:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路347號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前方安全島上有颱風吹落雜物致髒亂未清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 13:35仁武區清潔隊柯辰璋先生回報，已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 11:43:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 07:12:30"
   },
   {
     "FileNo_": "INS161026108",
