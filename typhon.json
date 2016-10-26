@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026121",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 12:39:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "佛德街與新生路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映新生路上號誌燈不亮，佛德街上紅燈持閃，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026120",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 12:34:16",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 02:12:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024157",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 下午 01:58:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "安泰街182巷1號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址大樓門口有擺放垃圾桶，四周掉落垃圾與擺放廢棄家具導致髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 02:00:28",
     "Close_Date_": ""
   }
 ]
