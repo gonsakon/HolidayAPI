@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026144",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/26 下午 02:47:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路739之3",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹傾倒於電線及電筒上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/26 下午 02:48:54",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026143",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 02:43:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 03:46:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024180",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 下午 03:42:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34之10號(廢鐵回收廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處正作業中，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 03:47:52",
     "Close_Date_": ""
   }
 ]
