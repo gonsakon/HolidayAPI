@@ -210,7 +210,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "自由三路上過孟子路，往北於希望髮型店前",
+    "address_": "自由三路上過孟子路，往北於希望髮型店(自由三路308號)前",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
@@ -715,20 +715,20 @@
   },
   {
     "FileNo_": "INS161026156",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 下午 03:54:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路385巷與385巷18弄",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有堆放沙發、床墊、木櫃，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 16:48三民西區清潔隊許美玲小姐回報，該處已清除完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 03:58:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 05:57:48"
   },
   {
     "FileNo_": "INS161026155",
