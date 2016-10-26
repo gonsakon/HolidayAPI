@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026067",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 上午 10:15:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026065",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 上午 10:11:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 11:10:03",
     "Close_Date_": "2016/10/25 上午 11:40:49"
-  },
-  {
-    "FileNo_": "INS161024101",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 上午 11:01:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路526號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前人行道有一破損損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 上午 11:08:31",
-    "Close_Date_": ""
   }
 ]
