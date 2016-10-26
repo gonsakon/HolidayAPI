@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161026067",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 上午 10:15:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "阿公店路二段上沿阿公店溪經中華橋再往北300公尺壽峰橋旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路旁有一大榕樹因風災仍有斷枝於樹上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 上午 10:21:26",
     "Close_Date_": ""
   },
   {
@@ -3622,20 +3622,20 @@
   },
   {
     "FileNo_": "INS161025155",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 03:06:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新強路345巷30號後方工廠",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處工廠目前機具運轉聲音過大，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/25 16:16 環保局南區股吳明一先生回報，稽查人員於16:05到達，該工廠已經關門\r\n無作業，未發現有機具噪音情事；並於10/26 10：17電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 03:10:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 上午 10:23:52"
   },
   {
     "FileNo_": "INS161025159",
