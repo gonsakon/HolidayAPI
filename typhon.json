@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026134",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/26 下午 01:52:25",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "通山路14號",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址上方有一台電電線目前垂落屋頂，恐有危險，建請會同勘查。(陳情人要求會同)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/26 下午 01:58:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026133",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 01:46:31",
@@ -851,14 +868,14 @@
   },
   {
     "FileNo_": "INS161026082",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/26 上午 10:36:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "久昌里啟昌街141號、149號屋後海軍軍區圍牆旁",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該兩處路面堆置風災斷枝及落葉仍未清理，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 03:15:43",
     "Close_Date_": "2016/10/25 下午 01:37:55"
-  },
-  {
-    "FileNo_": "INS161024171",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 下午 03:05:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路356巷75弄旁(公園第一樓社區後方後勁溪步道)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處步道燈均故障不亮且已有數日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 03:08:52",
-    "Close_Date_": ""
   }
 ]
