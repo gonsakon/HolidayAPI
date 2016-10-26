@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161026241",
+    "FileNo_": "INS161026242",
     "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 07:42:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪七十八街75號(近高坪三十五街)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161026241",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 07:41:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招路(介於瓊興路與山隆加油站之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段與周界巷道路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 下午 07:43:22",
     "Close_Date_": ""
   },
   {
@@ -3265,20 +3282,20 @@
   },
   {
     "FileNo_": "INS161026047",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 上午 09:22:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "台鋁南巷10號1樓",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前燃燒不明物品，導致空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 11：28環保局公害專線楊立文先生回報，稽查人員於10：17到達，稽查當\r\n時於該址及附近路段巡查未發現燃燒不明物致空汙情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 09:24:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 07:41:08"
   },
   {
     "FileNo_": "INS161026046",
@@ -3316,20 +3333,20 @@
   },
   {
     "FileNo_": "INS161026044",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 上午 09:14:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "士良街138號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前方有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 17：09養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處已修\r\n復；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 09:16:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 07:43:14"
   },
   {
     "FileNo_": "INS161026043",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 07:51:26",
     "Close_Date_": "2016/10/25 上午 08:01:14"
-  },
-  {
-    "FileNo_": "INS161024278",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 07:45:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪三十七路56號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處址前有一盞路燈(編號:018226)故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 07:47:38",
-    "Close_Date_": ""
   }
 ]
