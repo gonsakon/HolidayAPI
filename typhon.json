@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161026210",
+    "FileNo_": "INS161026211",
     "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 06:13:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由三路306號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址人行道上樹穴周圍有散落玻璃及垃圾致環境髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161026210",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 06:11:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大漢路近鳳屏一路、鳳屏一路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 下午 06:13:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 06:30:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024247",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/24 下午 06:23:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德北路北往南方向，過八德一路約200公尺稻田處",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "該處地點有被丟棄垃圾包及雜物，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/24 19:41 仁武區清潔隊 陳進忠先生回報，該處垃圾及雜物皆已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 06:32:33",
-    "Close_Date_": "2016/10/24 下午 09:48:24"
   }
 ]
