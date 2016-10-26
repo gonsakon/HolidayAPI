@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161026030",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/26 上午 08:47:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路上鳳山溪(近青年夜市)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處鳳山溪水色目前呈現黑色，疑似遭人排放汙染物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/26 上午 08:50:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026032",
     "Status_": "1",
     "Cre_Date_": "2016/10/26 上午 08:45:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 上午 09:49:23",
     "Close_Date_": "2016/10/24 上午 11:15:25"
-  },
-  {
-    "FileNo_": "INS161024067",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 上午 09:45:25",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "臥龍路與有光路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 上午 09:46:34",
-    "Close_Date_": ""
   }
 ]
