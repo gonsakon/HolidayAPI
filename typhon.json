@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026122",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 12:43:32",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三民街28號旁",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處水溝蓋已腐蝕及下陷,恐造成危險,建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026121",
     "Status_": "1",
     "Cre_Date_": "2016/10/26 下午 12:39:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 02:14:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024158",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 02:10:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "考潭里埤內巷142號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁近山坡處，有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 02:12:42",
     "Close_Date_": ""
   }
 ]
