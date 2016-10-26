@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161026113",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/26 上午 11:47:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中華二路上與九如二路口(南向內側車道，靠近紅綠燈處)",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處內側車道有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161026111",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 上午 11:43:18",
@@ -9436,14 +9419,14 @@
   },
   {
     "FileNo_": "INS161024194",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/24 下午 04:14:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大智路191巷內",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該巷內第三盞與第四盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 01:40:58",
     "Close_Date_": "2016/10/25 下午 01:21:09"
+  },
+  {
+    "FileNo_": "INS161024149",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/24 下午 01:36:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路477巷口(丹丹漢堡店前)",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭丟棄一包垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/24 下午 01:38:59",
+    "Close_Date_": ""
   }
 ]
