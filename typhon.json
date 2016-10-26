@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026138",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 02:06:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路與漁港路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有一高架工程，因附近路燈不亮警示措施不足希望單位加設照明設備及警示措施，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026137",
     "Status_": "1",
     "Cre_Date_": "2016/10/26 下午 02:04:45",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161026115",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/26 下午 12:02:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路北上方向近與崇德路交叉",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處汽車道上有一坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 03:40:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024174",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 03:32:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "建盛街52號前與中華五路770巷口轉角",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處一溝壁破損下陷，有危險性，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 03:35:10",
     "Close_Date_": ""
   }
 ]
