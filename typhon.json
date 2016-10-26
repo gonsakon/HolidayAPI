@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 01:59:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "廣州三街與二聖一路口(往光華二路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處慢車道上有兩處龜裂坑洞凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026135",
     "Status_": "1",
     "Cre_Date_": "2016/10/26 下午 01:59:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 03:34:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024173",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/24 下午 03:25:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正興路126號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前有路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 03:26:57",
     "Close_Date_": ""
   }
 ]
