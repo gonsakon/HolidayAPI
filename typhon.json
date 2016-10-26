@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161026196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 05:52:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "和光街55號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前一盞路燈閃爍故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/26 下午 05:55:06",
     "Close_Date_": ""
   },
   {
@@ -613,20 +613,20 @@
   },
   {
     "FileNo_": "INS161026162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 下午 04:28:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族陸橋上",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映於快車道上，路橋上的伸縮縫有鐵片翹起，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於10/26 17:21養工處四維養護工程隊苓雅分隊陳美熹小姐回報，經人員現場查看，\r\n該處並非鐵片翹起，而是伸縮縫之海綿條，此屬於正常現象，並無危險性，故結案；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 04:31:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 05:54:51"
   },
   {
     "FileNo_": "INS161026161",
@@ -664,20 +664,20 @@
   },
   {
     "FileNo_": "INS161026160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 下午 04:12:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "新厝路101號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前一砂石車經過散落砂石綿延約200公尺，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 17:51大寮區清潔隊林永祥先生回報，已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 04:13:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/26 下午 05:55:32"
   },
   {
     "FileNo_": "INS161026159",
