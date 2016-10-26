@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161027003",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 上午 12:12:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山三路(勞工公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該目前有民眾於公園內騎車，恐致危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】養工處四維養護工程隊陳錦茸小姐於10/27 02:45 回報：人員到場巡查，未發\r\n現有違規車輛駛入公園。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 12:13:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 上午 02:52:19"
   },
   {
     "FileNo_": "INS161027002",
