@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 07:54:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山火車站",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映行人地下道的樓梯處有髒亂(珍奶)，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027018",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 07:51:50",
@@ -147,7 +164,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有燃燒臭味(從早上11點多開始)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/27 03:33 環保局潘政&#23791;先生回報：人員於03:25到場，周界巡查未發現燃燒異味\r\n空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 03:34:19",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 08:16:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025017",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 08:02:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興楠路26巷與興楠路口(芒果園旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面遭棄置2至3包垃圾，並有落葉，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 08:04:01",
     "Close_Date_": ""
   }
 ]
