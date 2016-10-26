@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026142",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 02:27:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新庄仔路與翠華路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口號誌於新庄仔路不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026141",
     "Status_": "1",
     "Cre_Date_": "2016/10/26 下午 02:24:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 03:47:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024179",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 03:40:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "光武路與九如一路口(小北百貨前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該路口機車待轉區，因箱涵破損致路面掏空，已擺放三角錐警示，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 03:46:32",
     "Close_Date_": ""
   }
 ]
