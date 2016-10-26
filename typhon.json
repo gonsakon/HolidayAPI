@@ -136,6 +136,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161026191",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 05:45:44",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金二巷12號",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區設備損壞有立即危險者",
+    "BeforeDesc_": "渠反映該處路燈歪頭且燈罩破損裂開，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026190",
     "Status_": "5",
     "Cre_Date_": "2016/10/26 下午 05:45:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 06:08:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024235",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 06:03:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "角宿路2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 06:05:22",
     "Close_Date_": ""
   }
 ]
