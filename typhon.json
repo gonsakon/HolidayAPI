@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161026162",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/26 下午 04:28:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民族陸橋上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映於快車道上，路橋上的伸縮縫有鐵片翹起，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161026158",
     "Status_": "2",
     "Cre_Date_": "2016/10/26 下午 04:12:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/24 下午 04:28:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161024197",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/24 下午 04:20:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路，中華陸橋(高雄往左營方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處陸橋上有一盞路燈，燈罩鬆脫快掉落，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/24 下午 04:21:21",
     "Close_Date_": ""
   }
 ]
