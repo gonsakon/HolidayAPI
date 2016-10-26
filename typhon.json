@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161027002",
+    "FileNo_": "INS161027003",
     "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 12:12:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山三路(勞工公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該目前有民眾於公園內騎車，恐致危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161027002",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 12:10:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營新路232之1號後方空地",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾在燒廢棄物造成空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 上午 12:12:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 12:25:25",
     "Close_Date_": "2016/10/26 上午 06:17:07"
-  },
-  {
-    "FileNo_": "INS161025001",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 12:21:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞竹里瑞南街56之1號 ，對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 12:24:06",
-    "Close_Date_": ""
   }
 ]
