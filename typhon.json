@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027100",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 10:55:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "七賢二路280號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027099",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 上午 10:54:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 11:44:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025099",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 11:39:25",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河堤路與明哲路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處河堤邊沿線景觀燈(WI1-14)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 11:41:21",
     "Close_Date_": ""
   }
 ]
