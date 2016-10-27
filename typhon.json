@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027166",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 03:58:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安東街125號(三發機車行對面)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處一台電方形人孔蓋周邊凹凸不平，且鬆動致車輛行經產生晃動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027165",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 03:52:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 03:43:57",
     "Close_Date_": "2016/10/27 下午 02:25:38"
-  },
-  {
-    "FileNo_": "INS161025166",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 03:40:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武昌路與武義街口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路面有一雨水溝蓋破損致路面掏空坑洞，已設立安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 03:44:18",
-    "Close_Date_": ""
   }
 ]
