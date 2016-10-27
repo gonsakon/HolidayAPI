@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027059",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 09:30:04",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海一路363之7號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址開始以北無預警停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027058",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 上午 09:29:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 10:01:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025058",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 09:59:07",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路253號旁",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址旁有一捆電線垂落路面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 10:03:29",
     "Close_Date_": ""
   }
 ]
