@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027115",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 11:39:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光華路(介於華一街與華六街間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027114",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 11:35:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 12:31:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025114",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 下午 12:27:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與金福路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路口沿線路面多處坑洞，恐致危險，建請查處。(陳情人要求聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 12:29:40",
     "Close_Date_": ""
   }
 ]
