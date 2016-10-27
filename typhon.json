@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027140",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/27 下午 02:08:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂園路68號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈基座有搖晃嚴重情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/27 下午 02:09:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027139",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 02:00:11",
@@ -562,14 +579,14 @@
   },
   {
     "FileNo_": "INS161027106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/27 上午 11:14:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "姑山里",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該里內約有20盞路燈故障不亮，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 02:31:01",
     "Close_Date_": "2016/10/26 上午 10:33:04"
-  },
-  {
-    "FileNo_": "INS161025139",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 02:27:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路二段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路段昨日養工處前往修剪安全島雜草，但人員均沒有整理收回修剪雜草現到處飛散，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 02:31:11",
-    "Close_Date_": ""
   }
 ]
