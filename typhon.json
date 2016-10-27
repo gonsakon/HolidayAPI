@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 12:40:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "燃燒電線致塑膠異味空屋",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027118",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 12:22:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 01:12:18",
     "Close_Date_": "2016/10/25 下午 01:14:23"
-  },
-  {
-    "FileNo_": "INS161025118",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 下午 12:42:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路654號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處車禍路面油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 12:44:11",
-    "Close_Date_": ""
   }
 ]
