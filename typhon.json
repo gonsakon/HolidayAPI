@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161027119",
+    "FileNo_": "INS161027120",
     "Status_": "1",
-    "Cre_Date_": "2016/10/27 下午 12:40:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "",
-    "UnitName_": "環保局",
+    "Cre_Date_": "2016/10/27 下午 12:42:13",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "鳳楠路與楠陽路口",
+    "UnitName_": "交通局",
     "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "燃燒電線致塑膠異味空屋",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈之剩餘秒數燈號故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161027119",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/27 下午 12:40:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中正國小廚房側門旁",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一鐵皮屋，惟有民眾於屋內燃燒電線致塑膠異味空汙，建請稽查。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/27 下午 12:42:36",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 12:54:06",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025119",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 下午 12:46:17",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重上街",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "重上街，靠近安麗體驗中心一側，汽車經常性違停，請加強取締以維持交通安全",
-    "AfterDesc_": "感謝您的反映，此案件已於10/25 13：10通報110羅警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 01:12:18",
-    "Close_Date_": "2016/10/25 下午 01:14:23"
   }
 ]
