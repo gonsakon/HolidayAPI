@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161027130",
+    "FileNo_": "INS161027131",
     "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 01:51:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路997號之6",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址對面人行道上有棄置十餘包垃圾包在此，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161027130",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 01:42:59",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "新民路110巷38號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電孔蓋周邊水泥脫落致鬆動噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 下午 01:47:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 01:54:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025130",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 下午 01:40:10",
-    "ReplyUnit_": "E01003",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "高雄市和平一路二八八巷3號",
-    "UnitName_": "自來水公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停水",
-    "BeforeDesc_": "自來水流量接近中午時到現在忽然變很小,請協助處理",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161025128，研判應是重複成案，故併入\r\n該案一併委由自來水賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 01:49:58",
-    "Close_Date_": "2016/10/25 下午 01:50:44"
   }
 ]
