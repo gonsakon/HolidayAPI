@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027266",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 10:09:03",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "河南一路與仁愛一街(幸福川橋墩下)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一貓隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027265",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 下午 10:07:10",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161027250",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/27 下午 08:38:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟二路上(客家文物館旁餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者目前有駐唱使用擴音設備，造成噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 08:33:11",
     "Close_Date_": "2016/10/27 下午 04:44:20"
-  },
-  {
-    "FileNo_": "INS161025265",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 08:29:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路與啟昌街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路口一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 08:31:04",
-    "Close_Date_": ""
   }
 ]
