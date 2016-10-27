@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161027115",
+    "FileNo_": "INS161027116",
     "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 11:40:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "846",
+    "ZipName_": "杉林區",
+    "address_": "高129縣道4K路段",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段毀損無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161027115",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 11:39:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光華路(介於華一街與華六街間)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 上午 11:40:01",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 12:35:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025115",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 12:30:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳南路上(介於善志街至善和街之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處路樹上有懸掛已乾枯之斷枝，恐掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 12:31:12",
     "Close_Date_": ""
   }
 ]
