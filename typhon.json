@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027171",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 04:26:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "民生一路280號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該址前人行道上有一「行人優先」告示牌倒塌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027170",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 下午 04:25:34",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處綠帶公園目前有民眾將騎車騎入園內，且餵食鳥類造成髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS161027118",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/27 下午 12:22:26",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "鳳楠路248號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處溝蓋鏽蝕，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 04:06:47",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025171",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 下午 03:57:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大仁路584之20號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線桿上有一電線遭扯斷，目前垂落於路面，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 09：36 經詢問台電1911陳小姐表示，該處已修復完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 04:01:25",
-    "Close_Date_": "2016/10/27 下午 02:33:03"
   }
 ]
