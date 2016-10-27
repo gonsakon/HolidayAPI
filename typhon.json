@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027020",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/27 上午 07:58:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗津一路；出旗津過港隧道約100、200公尺處",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一黃色狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/27 上午 08:00:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027019",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 上午 07:54:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 08:28:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025018",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 08:12:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "澄清路821號大華派出所旁，人源試驗所前方",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線桿上電線垂落，部分已掉落地面，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 08:16:18",
     "Close_Date_": ""
   }
 ]
