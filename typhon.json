@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027184",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 05:21:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學西路接通典路(位於學生宿舍後方產業道路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027183",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 05:16:53",
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161027138",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/27 下午 01:58:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路與前金二街",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌與成功一路其他路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 04:48:31",
     "Close_Date_": "2016/10/26 上午 11:45:43"
-  },
-  {
-    "FileNo_": "INS161025185",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 04:45:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "力行路與占岸路(漁港公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處有一園燈之燈桿歪斜，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 04:46:49",
-    "Close_Date_": ""
   }
 ]
