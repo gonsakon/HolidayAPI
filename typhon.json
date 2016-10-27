@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027246",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 08:34:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "孝順街與同盟一路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，與有一盞路燈故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027245",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 08:29:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 07:24:34",
     "Close_Date_": "2016/10/27 下午 05:08:00"
-  },
-  {
-    "FileNo_": "INS161025246",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 下午 07:09:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋二路上與三多二路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口因共桿路燈之路牌掉落，致三多路之路牌已被遮蔽，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 07:11:36",
-    "Close_Date_": ""
   }
 ]
