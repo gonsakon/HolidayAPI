@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161027060",
+    "FileNo_": "INS161027061",
     "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 09:37:03",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽路與大義二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161027060",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 09:32:19",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "紹興街33號附近",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處現無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 上午 09:36:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 10:08:06",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025060",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 上午 10:00:40",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁林路與林森巷(烏林國小旁)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電桿上有電線垂落情事，惟稍早有混泥土車輛行經時致勾到電線，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 09：36 經詢問台電1911陳小姐表示，該處已修復完畢；並於10/26 \r\n09：42電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 10:09:59",
-    "Close_Date_": "2016/10/26 上午 09:43:40"
   }
 ]
