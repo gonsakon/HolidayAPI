@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161027187",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 05:28:41",
     "ReplyUnit_": "E01001",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路116號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一攻擊性流浪犬，建請捕捉。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 下午 05:31:10",
     "Close_Date_": ""
   },
   {
@@ -2500,20 +2500,20 @@
   },
   {
     "FileNo_": "INS161027040",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 上午 08:52:46",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "林森二路與永樂街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/27 11:14 智慧運輸中心蔡淑君小姐回報，該號誌為線路故障，無法立即修復，故改\r\n派非網A-TB-2016-100412賡續辦理；並於10/27 17：27電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 08:53:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 下午 05:32:12"
   },
   {
     "FileNo_": "INS161027039",
