@@ -9623,20 +9623,20 @@
   },
   {
     "FileNo_": "INS161025221",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 06:07:43",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "勝利路150號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有一汙水孔冒水滿溢，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 16:13 水利局污水營運科林卉霓小姐回報，該處阻塞已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 06:09:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 下午 05:32:37"
   },
   {
     "FileNo_": "INS161025220",
@@ -9742,20 +9742,20 @@
   },
   {
     "FileNo_": "INS161025214",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 05:54:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "鹽埕中路西三巷6號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前電桿(編號:204)上之路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/27 15:06 養工處岡山養護工程隊康友淇先生回報，該處已修復完成；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 06:00:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 下午 05:32:28"
   },
   {
     "FileNo_": "INS161025213",
