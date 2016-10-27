@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027230",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 下午 07:17:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "大業北路340號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處共2盞路燈故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027229",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 07:12:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 06:35:20",
     "Close_Date_": "2016/10/27 下午 02:31:03"
-  },
-  {
-    "FileNo_": "INS161025230",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 下午 06:31:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐二路360巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 下午 09:22:03",
-    "Close_Date_": ""
   }
 ]
