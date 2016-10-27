@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161027177",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 04:45:14",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "寶國里義明街2號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址右後方車道出入口旁污水孔蓋遺失，恐夜間有安全疑慮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 下午 04:47:40",
     "Close_Date_": ""
   },
   {
@@ -3095,20 +3095,20 @@
   },
   {
     "FileNo_": "INS161026290",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/26 下午 11:09:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "旗下里文正巷5號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/27 12:27 養工處四維養護工程隊九如分隊梁連盛先生回報，該處已修復；並於\r\n10/27 16：45電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 11:10:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 下午 04:50:50"
   },
   {
     "FileNo_": "INS161026289",
@@ -8110,20 +8110,20 @@
   },
   {
     "FileNo_": "INS161025298",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/25 下午 10:46:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁孝路與赤永路交叉叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/26 00:26 交通局智慧運輸中心李品鋒先生回報，該處路口號誌因線路故障需報請廠\r\n商修繕，暫無危險性，故改派非網A-TB-2016-99838賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 10:47:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 下午 04:46:44"
   },
   {
     "FileNo_": "INS161025297",
