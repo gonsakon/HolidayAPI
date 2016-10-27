@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161027231",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/27 下午 07:19:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海二路與世全路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處號誌快慢車道之號誌無運作同步，有故障情事，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 下午 07:20:13",
     "Close_Date_": ""
   },
   {
