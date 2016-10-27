@@ -307,20 +307,20 @@
   },
   {
     "FileNo_": "INS161027002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 上午 12:10:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營新路232之1號後方空地",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾在燒廢棄物造成空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/27 03:33 環保局潘政&#23791;先生回報：人員於02:45到場，未發現燃燒空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 12:12:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/27 上午 08:03:01"
   },
   {
     "FileNo_": "INS161027001",
