@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027103",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 11:09:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "通港路(台17線至中正路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027101",
     "Status_": "2",
     "Cre_Date_": "2016/10/27 上午 11:06:20",
@@ -545,19 +562,19 @@
   },
   {
     "FileNo_": "INS161027070",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/10/27 上午 10:00:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天祥一路至天祥二路（起自鼎金後路迄至河堤路口）",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "路面坑洞補丁不完全\n此路段雙向道包含機車道都很爛麻煩請你們趕快處理這個路段已經反應多次了拜託一下\n不要再拖拖拉拉了",
+    "BeforeDesc_": "路面坑洞補丁不完全此路段雙向道包含機車道都很爛麻煩請你們趕快處理這個路段已經反應多次了拜託一下不要再拖拖拉拉了",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/27 上午 11:12:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 下午 12:20:43",
     "Close_Date_": "2016/10/26 下午 04:33:00"
-  },
-  {
-    "FileNo_": "INS161025102",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/25 上午 11:46:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路299號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前路燈有10秒至20秒間格的閃爍故障狀況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 11:54:56",
-    "Close_Date_": ""
   }
 ]
