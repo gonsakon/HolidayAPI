@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027035",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 08:43:32",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路上(往市區方向、未過天后街)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027034",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 上午 08:43:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 09:10:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161025032",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/25 上午 09:04:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "中泰街119巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/25 23：52養工處四維養護工程隊值班人員江明秀小姐回報，該處路燈已\r\n修復；並於10/26 16：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 09:48:16",
-    "Close_Date_": "2016/10/26 下午 04:01:50"
   }
 ]
