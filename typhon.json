@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161027066",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/27 上午 09:49:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "圓山街47號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161027065",
     "Status_": "1",
     "Cre_Date_": "2016/10/27 上午 09:49:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/25 上午 10:11:19",
     "Close_Date_": "2016/10/26 下午 03:15:56"
-  },
-  {
-    "FileNo_": "INS161025066",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/25 上午 10:09:11",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路259巷10號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址污水管線阻塞，建請會同查處。(請局處先與陳情人聯繫前往時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/25 上午 10:10:57",
-    "Close_Date_": ""
   }
 ]
