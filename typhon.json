@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029020",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 07:24:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029019",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 上午 07:20:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 07:51:09",
     "Close_Date_": "2016/10/29 上午 12:08:16"
-  },
-  {
-    "FileNo_": "INS161027015",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 07:39:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山火車站",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映行人地下道的樓梯處有髒亂(珍奶)，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 07:44:15",
-    "Close_Date_": ""
   }
 ]
