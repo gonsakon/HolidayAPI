@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028247",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 07:11:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "竹安街上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈(0614)不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028246",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 07:01:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 06:52:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026223",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/26 下午 06:50:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中正路二段397巷112號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(外寮高分36號)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 06:53:11",
     "Close_Date_": ""
   }
 ]
