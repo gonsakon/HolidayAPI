@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028306",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 11:09:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路與文自路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前路面刨除施工，機具噪音產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028304",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 11:04:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 10:57:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026282",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 10:43:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "山東街上往南，近熱河一街口(快車道上)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處仍有一路面坑洞且龜裂嚴重，其另表示局處已於10/13回覆修復，渠表不滿，需請局處確實查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 10:47:53",
     "Close_Date_": ""
   }
 ]
