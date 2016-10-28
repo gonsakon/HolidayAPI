@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161028278",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 09:01:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路三段(福田汽車前至琉球路口)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處汽機車線道之白線處路面隆起，建請查處。",
+    "BeforeDesc_": "渠反映該處汽機車線道間之白線處路面隆起，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 09:03:59",
     "Close_Date_": ""
   },
   {
