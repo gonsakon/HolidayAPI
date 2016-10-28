@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028130",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 01:01:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "鳳林路2巷，近沿海四路出口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028129",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 12:57:47",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161028073",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/28 上午 09:56:04",
     "ReplyUnit_": "E01001",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路70巷12之5號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址後方大排內有一貓隻受困，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 11:27:07",
     "Close_Date_": "2016/10/26 下午 07:12:56"
-  },
-  {
-    "FileNo_": "INS161026106",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/26 上午 11:24:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "軍校路553號(海軍總醫院)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有散落泥土，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 12:31左營區清潔隊黃淨昭小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 上午 11:26:11",
-    "Close_Date_": "2016/10/26 下午 07:13:28"
   }
 ]
