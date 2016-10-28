@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029019",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 07:20:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029018",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 07:05:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 07:44:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027014",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 07:32:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路與明華路口(明華路上往美術館方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處轉角水溝邊，路面髒亂未清掃，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 07:35:29",
     "Close_Date_": ""
   }
 ]
