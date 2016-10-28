@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028070",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 上午 09:44:11",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民壽街35號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明工程，惟路口未設施工指示，造成車輛進入後，還要回迴轉退出，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028069",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 上午 09:39:32",
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS161028020",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/28 上午 07:22:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "立文路42號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址道路邊遭丟棄多包垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 09:35:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026045",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/26 上午 09:15:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "和平路二段121巷19之8號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈燈泡已不見，望請修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 上午 09:16:26",
     "Close_Date_": ""
   }
 ]
