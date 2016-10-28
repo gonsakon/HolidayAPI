@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161028124",
+    "FileNo_": "INS161028126",
     "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 12:46:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "江埤路78號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址旁有一盞路燈(E088) 故障不亮，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161028124",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 12:40:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "澄清巷30號之3左側第兩支",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該第兩支電線桿路基掏空，恐倒塌，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 12:47:18",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 11:18:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026101",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/26 上午 11:09:22",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正技擊館(游泳池前、高速公路旁)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映往中正路方向，該處水溝旁有一凹陷坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 上午 11:13:35",
     "Close_Date_": ""
   }
 ]
