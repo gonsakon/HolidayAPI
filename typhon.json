@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028157",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 02:48:57",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山二路166巷86號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028156",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 02:45:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 01:58:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026133",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 01:46:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "文昌路57巷4號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址屋後汙水管阻塞不通，檢請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 01:47:39",
     "Close_Date_": ""
   }
 ]
