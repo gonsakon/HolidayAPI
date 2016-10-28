@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029023",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 07:54:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂陽路桂林國小後方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處瀰漫燃燒塑膠異味空污，且疑似由公園傳出，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029022",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 07:50:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 08:02:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027018",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 07:51:50",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "華夏路與曾子路(7-11旁)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一行人秒數燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 07:53:22",
     "Close_Date_": ""
   }
 ]
