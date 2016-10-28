@@ -6,7 +6,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "大中一路386號附近",
+    "address_": "大中一路386號(榮民總醫院)附近",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
@@ -6971,20 +6971,20 @@
   },
   {
     "FileNo_": "INS161027186",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 下午 05:27:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華一路與林德街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路口車禍留有路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/27 17:55 苓雅區清潔隊 施長興先生回報，該處油漬已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 05:29:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/29 上午 12:05:26"
   },
   {
     "FileNo_": "INS161027185",
@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161027155",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 下午 03:10:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與漁港路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處目前有車禍路面油漬及散落物，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/27 16:59 前鎮區清潔隊 張昭和先生回報，皆已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 03:12:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/29 上午 12:05:07"
   },
   {
     "FileNo_": "INS161027154",
