@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028199",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 05:01:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "美德街152號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前有一路面下陷致坑洞，建請修補。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028198",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 04:57:35",
@@ -652,7 +669,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "愛路與文學路(重愛公園)",
+    "address_": "重愛路與文學路(重愛公園)",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "公園、綠地設施損毀(一)",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 05:20:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026176",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 05:17:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "河西路上228公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園北側廁所門板壞掉，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 05:24:24",
     "Close_Date_": ""
   }
 ]
