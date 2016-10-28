@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161028315",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 11:56:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "後昌路677巷32號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/29 00：25 溝渠隊 莊斯宇先生回報，該處貓屍已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 11:59:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/29 上午 12:30:16"
   },
   {
     "FileNo_": "INS161028314",
