@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161028080",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 上午 10:15:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
-    "address_": "三德路8之7號前   8之5號對面",
+    "address_": "三德路8之7號前及8之5號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該兩處各有一路燈白天未熄已兩個月，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 上午 10:18:41",
     "Close_Date_": ""
   },
   {
@@ -3401,20 +3401,20 @@
   },
   {
     "FileNo_": "INS161027161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/27 下午 03:41:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大仁路583號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址對面空地有民眾燃燒樹枝、塑膠致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/27 17:10 環保局環境稽查科北股蔡良宏先生回報，稽查人員於17:05到達，現場已\r\n無露天燃燒情事，僅存灰燼且周界並無發現行為人；並於10/28 10：12電覆陳情人，故解除管制；惟陳情人反映\r\n該處不定時燃燒空污問題，故另成非網A-TB-2016-100783追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 03:43:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/28 上午 10:20:43"
   },
   {
     "FileNo_": "INS161027160",
