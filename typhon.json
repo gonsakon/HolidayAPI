@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161028072",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 上午 09:53:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路(左新圖書館前)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一台電變電箱有發出聲響，疑似有故障情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 上午 09:59:01",
     "Close_Date_": ""
   },
   {
