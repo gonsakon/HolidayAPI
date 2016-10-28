@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029015",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 06:44:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路上(文川路與文水路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面沿線滴落汙水致惡臭髒污，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029014",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 06:44:23",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161029010",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/29 上午 03:14:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者有飄散油煙空污至三樓住家處，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 05:11:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027010",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 上午 01:47:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路之三民高中附近",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有燃燒臭味(從早上11點多開始)，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/27 03:33 環保局潘政&#23791;先生回報：人員於03:25到場，周界巡查未發現燃燒異味\r\n空汙情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 03:34:19",
-    "Close_Date_": "2016/10/27 上午 07:58:10"
   }
 ]
