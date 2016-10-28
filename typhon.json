@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029017",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 06:52:07",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路與安林路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌與前後號誌故障不連鎖，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029016",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 06:46:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 07:18:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027012",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 06:38:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路371之2號21樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處冷氣滴水，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 06:41:38",
     "Close_Date_": ""
   }
 ]
