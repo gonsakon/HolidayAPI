@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028297",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 10:29:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中一路，榮總醫院停車場，近鼎中路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處左側第二盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028296",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 10:22:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 10:14:16",
     "Close_Date_": "2016/10/27 上午 11:01:43"
-  },
-  {
-    "FileNo_": "INS161026273",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 09:51:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與孟子路口(東往西方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞行人號誌燈紅綠燈同時放時亮，與一盞行人號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 09:53:56",
-    "Close_Date_": ""
   }
 ]
