@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161028312",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 11:50:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "文慈路99號",
+    "address_": "文慈路99號(新莊高中)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周圍有疑似工廠排放類似燒塑膠異味致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 11:51:48",
     "Close_Date_": ""
   },
   {
@@ -111,7 +111,7 @@
     "address_": "博愛三路與文自路口",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
-    "InformDesc_": "空氣污染",
+    "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前路面刨除施工，機具噪音產生，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
