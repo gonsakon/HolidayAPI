@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029013",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 04:57:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路與日昌街口(於全家超商旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路口處車道上有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029012",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 04:28:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 01:23:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027008",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 01:20:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "1.大業北路北上(介於福隆街至中山四路)、2.大業北路(空大前面)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映1.該處北上機車道有6、7盞路燈故障不亮、2.空大前中央分隔島一盞共桿燈，其中一顆燈泡不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 02:53:07",
     "Close_Date_": ""
   }
 ]
