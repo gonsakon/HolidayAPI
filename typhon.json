@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161028212",
+    "FileNo_": "INS161028213",
     "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 05:40:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "文橫二路84號(毒家口味)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處業者有使用喇叭撥放音樂致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161028212",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 05:37:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路760號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處電線桿上有一用細繩綁起之售屋廣告，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 05:40:23",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 06:03:47",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026190",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/26 下午 05:45:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓中路172號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處舊衣回收箱周邊，遭丟棄許多垃圾，造成髒亂不堪，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 17:51苓雅區清潔隊施長興先生回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 05:47:33",
-    "Close_Date_": "2016/10/26 下午 05:57:21"
   }
 ]
