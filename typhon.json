@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028309",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 11:21:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文南街66號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028308",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 11:13:24",
@@ -1344,20 +1361,20 @@
   },
   {
     "FileNo_": "INS161028229",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 06:16:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大寮區鳳林四路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "梅姬颱風過後，鳳林四路沿線好幾個號誌燈不連鎖",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/28 18：51 交通局 智慧運輸中心 李品鋒先生回報，該處號誌目前無危險性\r\n ，惟因GPS線路故障需報修廠商，無法立即修復，故轉非網：A-TB-2016-101047 賡續辦理，待處理完成\r\n 將由承辦單位再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 06:32:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/28 下午 11:19:42"
   },
   {
     "FileNo_": "INS161028228",
@@ -2347,20 +2364,20 @@
   },
   {
     "FileNo_": "INS161028169",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 03:39:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "仁愛一街與復橫一路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一車禍路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/28 16：16 新興區清潔隊 蔡佩華小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:41:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/28 下午 11:20:09"
   },
   {
     "FileNo_": "INS161028168",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 10:58:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026286",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/26 下午 10:51:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維四路157之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 10:58:04",
     "Close_Date_": ""
   }
 ]
