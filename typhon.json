@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028145",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 下午 02:10:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路182號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有快車道上一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028144",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 02:05:11",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161028143",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 02:03:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "獅子頭圳、中華電信桿(編號：中興幹40之15號)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有路面塌陷，請查處。",
+    "BeforeDesc_": "渠反映該桿前有路面塌陷，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 02:09:27",
     "Close_Date_": ""
   },
   {
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161028099",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/28 上午 11:00:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "建基路1號到5號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路段路面有許多大小坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 12:48:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026121",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/26 下午 12:39:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "佛德街與新生路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映新生路上號誌燈不亮，佛德街上紅燈持閃，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 13:43交通局智慧運輸中心蔡淑君小姐回報，與INS161025175同地點，該處\r\n目前無危險性，因需要報請廠商維修，故改派非網A-TB-2016-100040賡續辦理；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 12:47:59",
-    "Close_Date_": "2016/10/26 下午 06:59:02"
   }
 ]
