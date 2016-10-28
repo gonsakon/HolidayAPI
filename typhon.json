@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028112",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/28 上午 11:41:06",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "漢慶街138巷41號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028111",
     "Status_": "1",
     "Cre_Date_": "2016/10/28 上午 11:40:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 上午 10:50:59",
     "Close_Date_": "2016/10/27 上午 09:43:11"
-  },
-  {
-    "FileNo_": "INS161026088",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/26 上午 10:49:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "軍校路上(介於世運大道至海軍官校側門之間，往北方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段快車道上掉落許多混凝土，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/26 12:31左營區清潔隊黃淨昭小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 上午 10:51:56",
-    "Close_Date_": "2016/10/26 下午 07:29:48"
   }
 ]
