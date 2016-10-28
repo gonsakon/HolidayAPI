@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028292",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/28 下午 10:08:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處店家目前使用機具洗車致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 下午 10:11:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028291",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 10:07:49",
@@ -800,14 +817,14 @@
   },
   {
     "FileNo_": "INS161028243",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/10/28 下午 06:57:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "九曲路與九大路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有廟會用擴音器撥放重低音音量，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 09:21:01",
     "Close_Date_": "2016/10/27 上午 10:51:10"
-  },
-  {
-    "FileNo_": "INS161026268",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 09:17:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十二路65號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處地點約有10多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 09:19:58",
-    "Close_Date_": ""
   }
 ]
