@@ -1,36 +1,19 @@
 [
   {
     "FileNo_": "INS161028302",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 10:50:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "瓦厝街180號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(九江幹112之1)不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028300",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/28 下午 10:50:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "美山路與美庄路口，於成旺金紙店後方",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處路口目前逸散腐敗魚屍腥臭味，致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/28 下午 10:52:00",
     "Close_Date_": ""
   },
   {
@@ -48,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161028300",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/28 下午 10:50:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "美山路與美庄路口，於成旺金紙店後方",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處路口目前逸散腐敗魚屍腥臭味，致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 下午 10:51:24",
     "Close_Date_": ""
   },
   {
