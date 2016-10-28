@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161029005",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 12:26:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金後路與鼎貴路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處飄散不明塑膠異味致空污，疑似由仁武焚化爐所飄散，致渠深感不適，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 上午 12:28:00",
     "Close_Date_": ""
   },
   {
@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161028304",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 11:04:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路281巷與永忠街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有遺留車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/29 00：25 溝渠隊 莊斯宇先生回報，該處油漬已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 11:06:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/29 上午 12:28:18"
   },
   {
     "FileNo_": "INS161028303",
