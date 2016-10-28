@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161028261",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/28 下午 07:42:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳南路上，從鳳南路82巷至南榮路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段分隔道上有3盞路燈遭建商設置大型廣告看板，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 下午 07:44:31",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028260",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 07:41:17",
@@ -86,20 +103,20 @@
   },
   {
     "FileNo_": "INS161028255",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 07:27:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806台灣高雄市前鎮區瑞興街十八巷",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "瑞興街十八巷靠近二聖路   路口有違停車輛",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/28 19:44 依據警政業務權責回歸，代為通報110 勤務指揮中心 謝警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/10/28 下午 07:44:34",
+    "Close_Date_": "2016/10/28 下午 07:45:47"
   },
   {
     "FileNo_": "INS161028254",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 07:32:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161026236",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/26 下午 07:27:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "光輝里",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該里內路燈全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 07:28:51",
     "Close_Date_": ""
   }
 ]
