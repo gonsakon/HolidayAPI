@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161028257",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/28 下午 07:35:15",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多三路78號2樓",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161028256",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 07:29:46",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 07:19:53",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161026232",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/26 下午 07:16:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "隆昌里",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該里路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/26 下午 07:18:07",
     "Close_Date_": ""
   }
 ]
