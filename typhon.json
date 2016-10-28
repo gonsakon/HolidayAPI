@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161028286",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/28 下午 09:22:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中華路上，近路科(德奇鋼鐵)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者目前有排放廢水至水溝，且有飄散惡臭致空污，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 下午 09:26:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161028285",
     "Status_": "2",
     "Cre_Date_": "2016/10/28 下午 09:15:37",
@@ -1225,14 +1242,14 @@
   },
   {
     "FileNo_": "INS161028212",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/28 下午 05:37:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路760號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處電線桿上有一用細繩綁起之售屋廣告，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/26 下午 09:16:06",
     "Close_Date_": "2016/10/27 上午 10:49:05"
-  },
-  {
-    "FileNo_": "INS161026263",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/26 下午 09:07:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "忠義路上(東照山關帝廟與龍目國小間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路段上約有五盞路燈故障不亮逾二禮拜，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/26 下午 09:08:26",
-    "Close_Date_": ""
   }
 ]
