@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161029214",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 08:28:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "滾水路69之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有一盞路燈從颱風過後便故障不亮，建請儘速查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 下午 08:29:47",
     "Close_Date_": ""
   },
   {
