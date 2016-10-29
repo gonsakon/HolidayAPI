@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029139",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 04:28:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳林路三段上(往鳳山方向，未過林內路45巷)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處接近內側車道有一黃色中型狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029138",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 04:26:07",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161029134",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/10/29 下午 04:08:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林路三段上(往鳳山方向，未過林內路45巷)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處接近內側車道有一黃色中型狗屍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 01:55:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027134",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 01:53:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "林西街與光華二路路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌閃黃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 01:55:36",
     "Close_Date_": ""
   }
 ]
