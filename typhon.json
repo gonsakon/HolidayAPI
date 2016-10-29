@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029056",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 10:03:43",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "成功二路與擴建路、凱旋四路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口稍早交通局維修車前往調整後現號誌大亂(如綠燈不亮)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029055",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 09:56:50",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161029038",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/29 上午 09:22:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "八德二路與南台路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口轉角遭人丟棄許多廢棄物，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:12:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027051",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/27 上午 09:05:33",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "馬卡道路北上靠近翠華陸橋(靠近美術館)",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "反映該處路面有一台電挖掘工程，雖有放置警示燈，但警示燈故障不亮，現場無設立告示牌及交管，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:15:23",
     "Close_Date_": ""
   }
 ]
