@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029081",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 11:33:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳林路三段與清水岩路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "除草",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029080",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 11:29:47",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161029052",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/29 上午 09:49:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路(介於自強二路與文武二街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面下陷(一)",
     "BeforeDesc_": "渠反映該處機車道旁有一路面下陷，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 10:17:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027075",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 10:11:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "華昌路與復華路93巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈有電纜線垂落，恐不慎勾到過路人，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 10:12:43",
     "Close_Date_": ""
   }
 ]
