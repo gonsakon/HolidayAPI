@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029235",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 10:10:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029234",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 09:48:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 07:18:06",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027229",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 下午 07:12:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武昌路與武義街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路中有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/27 19：53 苓雅區清潔隊施長興班長回報，該處貓屍人員到場無發現，且詢問附\r\n近修車廠人員表示亦無見到。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 07:14:58",
-    "Close_Date_": "2016/10/28 上午 07:59:09"
   }
 ]
