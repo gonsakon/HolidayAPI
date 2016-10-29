@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029209",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 08:15:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "軍校路880巷31弄33號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址住家後方有一白色貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029207",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 08:11:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 05:56:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027202",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 05:53:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路近沿海一路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路段南北向路面有多處路面隆起，望單位先行設立安全措施及警示燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 05:56:58",
     "Close_Date_": ""
   }
 ]
