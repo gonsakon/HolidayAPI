@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029134",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 04:08:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林路三段",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029133",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 04:00:07",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161029106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/29 下午 01:45:33",
     "ReplyUnit_": "A01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "右昌街79巷78號",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人孔蓋鬆動",
     "BeforeDesc_": "渠反映該址前有一方型孔蓋鬆動噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 01:44:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027128",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 01:39:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山三路與復興三路(勞工公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映許多民眾於園內騎乘機車，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 01:41:19",
     "Close_Date_": ""
   }
 ]
