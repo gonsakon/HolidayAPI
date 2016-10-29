@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029063",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/29 上午 10:21:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路145巷13號6樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址目前有整修地板之機具噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/29 上午 10:23:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029061",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 上午 10:19:19",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161029041",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/29 上午 09:25:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "觀亭里上鼎訓練班旁",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一豬舍目前散發惡臭情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:32:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027057",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 09:29:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自重街100號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:31:11",
     "Close_Date_": ""
   }
 ]
