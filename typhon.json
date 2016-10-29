@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029184",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 06:50:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "和平路二段199巷81號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處前有二盞路燈(一盞故障不亮、一盞燈泡遺失)，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029183",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 06:46:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 05:08:34",
     "Close_Date_": "2016/10/27 下午 05:10:06"
-  },
-  {
-    "FileNo_": "INS161027178",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/27 下午 04:53:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄觀路1575號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址住戶在路燈桿上裝設黃色警示燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 04:57:22",
-    "Close_Date_": ""
   }
 ]
