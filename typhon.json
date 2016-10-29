@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029121",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 02:59:42",
+    "ReplyUnit_": "F01016",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "慈隆街66號旁",
+    "UnitName_": "大寮區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處六米以下道路有道路施工工程，未放置警示牌，也無交管人員指揮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029120",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 02:59:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 11:42:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027115",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 11:39:26",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光華路(介於華一街與華六街間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 11:40:01",
     "Close_Date_": ""
   }
 ]
