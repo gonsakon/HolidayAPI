@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029153",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 05:32:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "宏平路678號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該址前有一路樹上有吹落的帆布，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029152",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 05:29:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 02:39:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027147",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 02:33:44",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永定街201號前",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該址前有一高市寬頻孔蓋鬆動產生噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 02:38:20",
     "Close_Date_": ""
   }
 ]
