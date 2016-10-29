@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029211",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 08:22:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "厚德路10號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處汽車道路面上有沙石，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029210",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 08:21:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 06:19:19",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027205",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 下午 06:13:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "馬卡道路與中華一路交叉口人行道上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上有一片玻璃，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/27 18:39鼓山區清潔隊黃啟國先生回報，人員致上述路口查看，並未發現有任何\r\n玻璃。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 06:16:53",
-    "Close_Date_": "2016/10/28 上午 08:00:39"
   }
 ]
