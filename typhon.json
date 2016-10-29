@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 04:24:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山區鼓山一路53巷對面(近鐵道博物館)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路邊及人行道堆放許多廢棄物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029135",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 04:13:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 02:00:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027130",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/27 下午 01:42:59",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "新民路110巷38號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋周邊水泥脫落致鬆動噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 01:47:12",
     "Close_Date_": ""
   }
 ]
