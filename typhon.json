@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029055",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 09:56:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "民治路與廠西路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有飄散類似柏油異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029054",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 09:53:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:15:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027050",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 09:04:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學南路與高雄大學路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路口號誌與其他號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:05:41",
     "Close_Date_": ""
   }
 ]
