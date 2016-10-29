@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029228",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 09:16:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路與福建街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍遺留油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029227",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 09:13:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 06:58:42",
     "Close_Date_": "2016/10/28 上午 07:59:02"
-  },
-  {
-    "FileNo_": "INS161027222",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 06:55:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "1.松興路18巷 2.松泰街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該2址沿線路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 06:56:13",
-    "Close_Date_": ""
   }
 ]
