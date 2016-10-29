@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029216",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 08:32:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "臨海新路上(鐵道園區旁)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該路段上目前有不明單位施工，未有設置安全措施與派員交管，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029215",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 08:32:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 06:34:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027210",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 06:30:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "惠民路177號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 06:31:56",
     "Close_Date_": ""
   }
 ]
