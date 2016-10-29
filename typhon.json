@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029065",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 10:35:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路322號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處因日前施做路面刨除作業，導致路樹大樹枝掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029064",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 10:30:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:36:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027059",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 09:30:04",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海一路363之7號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址開始以北無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:33:36",
     "Close_Date_": ""
   }
 ]
