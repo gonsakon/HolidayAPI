@@ -18,19 +18,36 @@
   },
   {
     "FileNo_": "INS161029060",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 10:17:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路上近美庄路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近有逸散腐敗魚屍腥臭味，至今已第三天，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 上午 10:23:39",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161029062",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/29 上午 10:16:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高松路近餐飲學校",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有工業區排放之粉塵空汙使民眾眼睛及鼻腔不舒服，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/29 上午 10:21:17",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:31:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027056",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 09:27:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "建榮路51巷34號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該住戶將許多損壞傢俱堆置於門口多天，已影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:31:23",
     "Close_Date_": ""
   }
 ]
