@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030010",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 上午 01:19:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "鳳德街96號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "照明路燈 已故障數日",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030009",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 上午 12:48:08",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 09:26:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027257",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 下午 09:19:53",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中華三路與大同一路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路中有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/27 22:01 農業局動物保護處捕犬大隊陳三元先生回報，現場巡視未發現受\r\n傷犬隻。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 09:21:28",
-    "Close_Date_": "2016/10/28 上午 07:57:17"
   }
 ]
