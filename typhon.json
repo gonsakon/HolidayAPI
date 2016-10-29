@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030014",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 上午 02:10:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "應昇路23號(再相逢)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該卡拉OK店家擴音器聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030013",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 上午 01:58:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 10:26:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027261",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 09:38:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "1.中山三路往北與時代大道交叉口、2.時代大道(介於成功二路至中華五路)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映1.該處路口路燈、路牌燈箱故障不亮，2.夢時代沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 09:40:35",
     "Close_Date_": ""
   }
 ]
