@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029066",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 10:36:11",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文川路與重信路口(西北角、早餐店前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該路口路面因過路溝破損，致下陷50*30寬度，深度約1公尺，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029065",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 上午 10:35:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 09:38:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027060",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 09:32:19",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "紹興街33號附近",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處現無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 09:36:57",
     "Close_Date_": ""
   }
 ]
