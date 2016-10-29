@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029030",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 08:45:27",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中華路63號旁河堤",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該河堤排水溝，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029029",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 上午 08:43:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 08:27:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027025",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 08:14:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大業北路(北往南方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該路段路面上有車輛漏油之油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 08:17:40",
     "Close_Date_": ""
   }
 ]
