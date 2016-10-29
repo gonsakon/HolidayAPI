@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029127",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 03:29:23",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "店仔頂路63巷41弄2之2號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前遭民眾惡意棄養三隻大型犬隻，具攻擊性，建請查處。(煩請局處收案後先與其聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029124",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 03:19:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 12:44:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027119",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 12:40:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中正國小廚房側門旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一鐵皮屋，惟有民眾於屋內燃燒電線致塑膠異味空汙，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 12:42:36",
     "Close_Date_": ""
   }
 ]
