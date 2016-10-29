@@ -5577,20 +5577,20 @@
   },
   {
     "FileNo_": "INS161028041",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 上午 08:21:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "新興街233號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/28 08:47 鹽埕區清潔隊黃顯欽先生回報，已清除完畢；並於10/29 09：59電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 08:23:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/29 上午 10:03:41"
   },
   {
     "FileNo_": "INS161028039",
