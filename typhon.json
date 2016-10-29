@@ -766,20 +766,20 @@
   },
   {
     "FileNo_": "INS161029228",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 09:16:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "五福一路與福建街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍遺留油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/29 21:44苓雅區清潔隊施長興先生回報，該處車禍油漬皆已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 09:18:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:23:36"
   },
   {
     "FileNo_": "INS161029227",
@@ -800,20 +800,20 @@
   },
   {
     "FileNo_": "INS161029226",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 09:12:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大順一路與新順路口(義大建設)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工地使用機具施工致噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/30 00:05環保局公害專線中區楊竣安先生回報，稽查人員於23:39到達，稽查時\r\n該址大門深鎖，於周界巡查未發現使用機具以致噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 09:17:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:23:05"
   },
   {
     "FileNo_": "INS161029225",
@@ -834,20 +834,20 @@
   },
   {
     "FileNo_": "INS161029224",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 09:10:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路(青年夜市)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該夜市內攤販叫賣使用擴音設備致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/30 00:05環保局公害專線中區楊竣安先生回報，稽查人員於22:20到達，稽查時\r\n於上述位置巡查，現場人聲吵雜，未發現使用擴音器叫賣以致噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 09:11:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:24:23"
   },
   {
     "FileNo_": "INS161029223",
