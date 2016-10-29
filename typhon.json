@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161029187",
+    "FileNo_": "INS161029188",
     "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 06:56:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "站前路(東南水泥公司高雄二廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有燃燒塑膠異味致空污，疑似為該業者所排放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161029187",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 06:55:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "文府路401號(文甫國中周界)",
+    "address_": "文府路401號(文府國中周界)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前瀰漫不明燃燒塑膠異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 下午 06:57:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 05:19:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027182",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 下午 05:15:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "七賢二路290號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住家進行房屋整建，有施工機具運轉聲響過大致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 05:19:25",
     "Close_Date_": ""
   }
 ]
