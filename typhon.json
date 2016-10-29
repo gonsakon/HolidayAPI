@@ -1548,20 +1548,20 @@
   },
   {
     "FileNo_": "INS161029182",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 06:45:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路與凱旋二路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有遺留車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/29 19:35苓雅區清潔隊施長興先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:48:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:28:31"
   },
   {
     "FileNo_": "INS161029181",
@@ -1616,20 +1616,20 @@
   },
   {
     "FileNo_": "INS161029178",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 06:35:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路與復興三路口，往北方向",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道上有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/29 20：01養工處四維養護工程隊值班人員江明秀小姐回報，該處為水利局之過\r\n路溝破損造成之坑洞，雖已先行協助設置安全措施，但現場仍有危險性故改派INS161029207賡續辦\r\n理。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:37:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:28:12"
   },
   {
     "FileNo_": "INS161029177",
