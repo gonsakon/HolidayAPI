@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161030021",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 上午 06:57:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "環湖路；澄清湖",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有澄清湖內的清淤船,該船作業時機具噪音過大,請查處。",
+    "BeforeDesc_": "渠反映該處有澄清湖內的清淤船，有馬達機具噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 上午 06:59:24",
     "Close_Date_": ""
   },
   {
