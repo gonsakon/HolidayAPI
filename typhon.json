@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161029090",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 12:14:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段447巷",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該巷號誌(綠燈故障)，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 下午 12:17:59",
     "Close_Date_": ""
   },
   {
