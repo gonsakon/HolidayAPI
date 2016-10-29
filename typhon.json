@@ -1667,20 +1667,20 @@
   },
   {
     "FileNo_": "INS161029177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 06:34:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "金門街與惠安街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路口有一車禍致路面油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】10/29 19:35苓雅區清潔隊施長興先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:35:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 上午 07:35:39"
   },
   {
     "FileNo_": "INS161029176",
