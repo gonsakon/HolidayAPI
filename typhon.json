@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161029037",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 09:18:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路10之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈有漏電之情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 上午 09:20:08",
     "Close_Date_": ""
   },
   {
