@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161029250",
+    "FileNo_": "INS161029251",
     "Status_": "1",
-    "Cre_Date_": "2016/10/29 下午 11:29:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "有光路122號",
-    "UnitName_": "環保局",
+    "Cre_Date_": "2016/10/29 下午 11:30:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路",
+    "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161029250",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/29 下午 11:29:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "有光路122號15樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處由北邊有飄散不明化學惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/29 下午 11:30:43",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 08:35:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027245",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 下午 08:29:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "信中街129號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路中央有一路面坑洞，建請查修。",
-    "AfterDesc_": "【主管解除管制】10/27 21：45 養工處岡山養護工程隊馬振邁先生回報，該處人員到場經查無發現坑\r\n洞情事，現場僅有些許龜裂情事並已另拍照存證，然此龜裂程度尚未到達需修補情事，故結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 08:30:14",
-    "Close_Date_": "2016/10/28 上午 07:58:46"
   }
 ]
