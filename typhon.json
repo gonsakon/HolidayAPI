@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029122",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 03:16:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "壽豐路350巷口對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一舊衣回收箱，惟回收箱周邊有許多舊衣與垃圾，造成髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029121",
     "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 02:59:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 12:23:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027116",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/27 上午 11:40:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "高129縣道4K路段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段毀損無法通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 11:42:08",
     "Close_Date_": ""
   }
 ]
