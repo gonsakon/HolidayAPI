@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161029097",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/29 下午 12:47:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路三段337號(黑騎兵牛排館)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該店家裝修堆置裝潢廢棄物於人行道,已近一個月仍未清,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161029096",
     "Status_": "1",
     "Cre_Date_": "2016/10/29 下午 12:40:05",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161029072",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/29 上午 10:52:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "實業路與新生路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處紅綠號誌燈紅黃燈故障不亮，建請修復。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 10:49:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027092",
-    "Status_": "2",
-    "Cre_Date_": "2016/10/27 上午 10:41:36",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路239巷29弄口",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處有三個台電變電箱，其中最右邊一個地基破洞嚴重許久，建請查處並一併檢查另外兩個。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 10:47:24",
     "Close_Date_": ""
   }
 ]
