@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161029038",
+    "FileNo_": "INS161029039",
     "Status_": "1",
+    "Cre_Date_": "2016/10/29 上午 09:24:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中正路與保舍甲路口轉彎處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有一灘路面油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161029038",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 上午 09:22:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "八德二路與南台路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口轉角遭人丟棄許多廢棄物，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 上午 09:24:15",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/27 上午 08:45:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161027034",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/27 上午 08:43:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "1.保興宮旁 2.保興宮旁產業道路內",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處各有一盞路燈故障不亮，建請查處。   (陳情人要求局處人員與其聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 上午 08:44:49",
     "Close_Date_": ""
   }
 ]
