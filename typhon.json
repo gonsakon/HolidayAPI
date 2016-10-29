@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161029200",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/29 下午 07:45:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路746號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處圓形汙水孔蓋正冒出汙水，建請查處。",
+    "BeforeDesc_": "渠反映該處有一污水孔蓋正冒出污水，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/29 下午 07:47:15",
     "Close_Date_": ""
   },
   {
