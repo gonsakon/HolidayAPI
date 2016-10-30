@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031014",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 07:58:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "為隨西路10之3號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前路旁有一貓屍,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031013",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 07:51:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 04:18:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028179",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 04:04:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路12號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 04:08:20",
     "Close_Date_": ""
   }
 ]
