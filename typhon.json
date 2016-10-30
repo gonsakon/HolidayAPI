@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030144",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 06:12:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎泰街115巷與鼎泰街角落",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030143",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 06:07:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 11:38:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028108",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 11:34:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "仕豐路142號前路中",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有3至4個坑洞，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 11:39:08",
     "Close_Date_": ""
   }
 ]
