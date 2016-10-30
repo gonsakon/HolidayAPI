@@ -7702,20 +7702,20 @@
   },
   {
     "FileNo_": "INS161028311",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/28 下午 11:38:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青峰街80巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該巷內有2盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/30 21:07 養工處 四維養護工程隊 九如分隊 胡建州先生回報，該處路燈皆已修復完畢\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 11:40:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 下午 11:17:32"
   },
   {
     "FileNo_": "INS161028310",
