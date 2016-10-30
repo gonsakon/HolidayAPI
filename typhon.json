@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161030173",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 08:41:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "高雄市鳳山區文聖街與華泰街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "路燈不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 09:01:37",
     "Close_Date_": ""
   },
   {
