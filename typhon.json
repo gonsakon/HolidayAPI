@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030115",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 03:20:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "五福二路與民權一路口(高雄高商)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處籃球場正舉辦活動，擴音噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030114",
     "Status_": "1",
     "Cre_Date_": "2016/10/30 下午 03:14:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 10:30:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028080",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 上午 10:15:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "三德路8之7號前及8之5號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該兩處各有一路燈白天未熄已兩個月，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 10:18:41",
     "Close_Date_": ""
   }
 ]
