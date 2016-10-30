@@ -4573,23 +4573,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161029087",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 上午 11:52:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮海六街32巷6號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 11:55:25",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161029086",
     "Status_": "4",
     "Cre_Date_": "2016/10/29 上午 11:52:14",
@@ -4604,6 +4587,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 11:53:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161029087",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/29 上午 11:52:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮海六街32巷6號前",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/29 上午 11:55:25",
     "Close_Date_": ""
   },
   {
