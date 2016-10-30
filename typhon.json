@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030099",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 01:44:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "華夏路746號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處道路旁有一高污水孔蓋冒水，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030098",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 01:42:15",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161030056",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/30 上午 10:00:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維四路與永平路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一施工，使用機具致噪音情事，建請查處。",
     "AfterDesc_": "",
@@ -2959,20 +2976,20 @@
   },
   {
     "FileNo_": "INS161029176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 06:29:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "頂厝里椰樹南巷(龍鳳宮)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處廟會施放大量鞭炮致空污情事，建請查處。(要求人員先行去電)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/29 21:08 環保局 稽查科 南區股 蔡元堯先生回報，稽查人員於 20:57 \r\n致電陳情人，然陳情人當下即表示廟會活動已結束，現場無爆竹所致空污情事，故無需局處派員前\r\n往；並於10/30 13：45電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:31:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 下午 01:45:30"
   },
   {
     "FileNo_": "INS161029175",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 09:37:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028064",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 09:26:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "崗山里97之7號後方",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一路燈(桿號:新埤高分9左2)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 09:28:36",
     "Close_Date_": ""
   }
 ]
