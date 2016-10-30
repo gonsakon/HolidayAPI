@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161030036",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 上午 08:45:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新庄仔路上與富國路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處一號誌/紅燈/綠燈/小綠人故障不亮/不連鎖，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌與其他路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 上午 08:46:12",
     "Close_Date_": ""
   },
   {
