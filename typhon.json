@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031008",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 06:48:44",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "保成一路與五成街口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電桿線路疑似車輛拉扯斷裂於路旁，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031007",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 06:38:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:55:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028173",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 03:47:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "山區的產業道路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈不亮(編號：74區F001-02)，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 03:56:29",
     "Close_Date_": ""
   }
 ]
