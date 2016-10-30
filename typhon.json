@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030033",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 上午 08:34:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "福德二路與建國一路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處前因車禍造成路面油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030032",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 上午 08:23:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/27 下午 11:50:26",
     "Close_Date_": "2016/10/28 上午 07:55:56"
-  },
-  {
-    "FileNo_": "INS161027280",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/27 下午 11:45:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "鳳澄路7號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/28 00：24 溝渠清潔隊杜金華先生回報，已清除。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/27 下午 11:47:08",
-    "Close_Date_": "2016/10/28 上午 07:56:06"
   }
 ]
