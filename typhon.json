@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161030153",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 06:43:32",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路(介於重愛路與重信路間)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處人行道上水溝溝壁破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 06:45:39",
     "Close_Date_": ""
   },
   {
@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161030150",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 06:38:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "文明路上(介於金龍路與三民路62巷)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈(編號:17007600)故障不亮，且另有一線路垂落，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 06:46:35",
     "Close_Date_": ""
   },
   {
