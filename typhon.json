@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030106",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 02:16:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "必忠街38號變電箱後方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030105",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 02:12:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 09:59:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028071",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 09:49:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "忠孝一路與七賢一路(公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該公園內椅子上遭人丟棄雜物、垃圾，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 09:51:25",
     "Close_Date_": ""
   }
 ]
