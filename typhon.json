@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031002",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/31 上午 12:50:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "光華二路440巷4號(柏格卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家營業中使用擴音設備聲響過大，導致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 上午 12:54:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031001",
     "Status_": "4",
     "Cre_Date_": "2016/10/31 上午 12:15:05",
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS161030131",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/30 下午 05:09:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "旗津三路上(旗津海岸公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處公園內有多部機車及汽車違規駛入，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:42:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028167",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 03:38:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路57巷27號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前方遭31號住戶放置丟棄的廢木板，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 03:40:50",
     "Close_Date_": ""
   }
 ]
