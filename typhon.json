@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030171",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 08:20:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "光華三路與一心一路，夢時代蝴蝶公園(近鄭和南路美語幼稚園處)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處有三盞園燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030170",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 08:10:31",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS161030116",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/30 下午 03:21:24",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中華路，旗山橋下停車場旁大排溝內",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有二隻黑色流浪犬掉落溝內，建請救援。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 01:21:12",
     "Close_Date_": "2016/10/29 下午 12:27:21"
-  },
-  {
-    "FileNo_": "INS161028135",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 01:17:32",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山區大莊路77號後方大排溝內",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處大排溝內目前有一流浪犬受困，恐犬隻有生命危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 01:21:13",
-    "Close_Date_": ""
   }
 ]
