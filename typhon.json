@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030090",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 01:04:55",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "保安一街167號旁",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一黑色中型攻擊性流浪犬隻，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030089",
     "Status_": "1",
     "Cre_Date_": "2016/10/30 下午 01:02:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 09:19:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028056",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 09:06:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "菜公一路上轉大中二路口，圍牆旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處一大型房屋廣告物(附輪子)以繩子綑綁於圓形標誌鐵桿上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 09:12:24",
     "Close_Date_": ""
   }
 ]
