@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161030113",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 03:01:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路119巷8號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "該處疑似電線桿之電纜線垂落，且快垂落到地上",
+    "BeforeDesc_": "渠反映該處有台電電纜線垂落，且快垂落到地上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 03:04:12",
     "Close_Date_": ""
   },
   {
