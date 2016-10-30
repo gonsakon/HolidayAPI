@@ -17,23 +17,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161030134",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/30 下午 05:33:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鎮南街109號7樓",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址住戶有犬隻便溺臭味逸散致空污，建請會同查處。(請局處收案後先與陳情人聯繫前往時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161030133",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 05:28:11",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 11:18:12",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161028101",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/28 上午 11:03:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文化路15之3號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 上午 11:05:41",
     "Close_Date_": ""
   }
 ]
