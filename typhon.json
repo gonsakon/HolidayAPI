@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030163",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 07:47:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "忠義里商協路50之16號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030162",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 07:45:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 12:53:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028127",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 12:51:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "文橫二路25號前慢車道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一坑洞並凹陷，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 12:52:49",
     "Close_Date_": ""
   }
 ]
