@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030152",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 06:40:51",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文明路與金龍路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電桿(編號:金龍高分3)上，多條線路船垂落纏繞，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030151",
     "Status_": "1",
     "Cre_Date_": "2016/10/30 下午 06:39:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 12:14:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028116",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 12:06:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "和平十路與鋼瓶街口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口有鼠屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 12:13:10",
     "Close_Date_": ""
   }
 ]
