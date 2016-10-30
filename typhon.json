@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030120",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 03:58:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "博愛一路上，未過龍德路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處號誌燈下有鳥屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030119",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 03:46:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 10:42:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028085",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 10:34:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "天津街17之1號(正前方)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處柏油路上有一坑洞，導致高低落差，造成行人易跌倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 10:35:11",
     "Close_Date_": ""
   }
 ]
