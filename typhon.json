@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030186",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 09:36:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山一路161巷50弄底(停車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030185",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 09:32:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 02:30:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028150",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 02:29:15",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內豐里內埔55號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反該址對面有一黑色中大型流浪犬會追逐經過之國小學生及機車十分危險，恐犬隻咬傷民眾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 02:31:34",
     "Close_Date_": ""
   }
 ]
