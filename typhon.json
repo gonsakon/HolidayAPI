@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031001",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 12:15:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路旁(鄧麗君紀念文物館旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030201",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 12:00:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:40:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028166",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 03:35:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路與天興街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌與其他路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 03:37:08",
     "Close_Date_": ""
   }
 ]
