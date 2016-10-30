@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030136",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 05:42:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "皓東路349號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前方有一盞LED燈故障不亮，建起查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030135",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 05:37:55",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161030109",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/30 下午 02:41:44",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳芸路89之3號對面(鳳芸社區發展委員會對面)",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電電線桿電線垂落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 11:18:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028101",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 上午 11:03:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "文化路15之3號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 11:05:41",
     "Close_Date_": ""
   }
 ]
