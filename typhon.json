@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030109",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 02:41:44",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳芸路89之3號對面(鳳云社區發展委員會對面)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有台電電線桿電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030108",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 02:36:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 10:07:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028074",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 上午 10:01:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大漢路412號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址左右兩旁約200至250公尺路燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 10:03:18",
     "Close_Date_": ""
   }
 ]
