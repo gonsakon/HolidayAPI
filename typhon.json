@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161030141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 05:55:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
-    "address_": "自立二路與民生二路(東側)",
+    "address_": "自立二路與民生二路(東側)，民生二路上",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處分隔島上有一交通號誌燈桿已傾倒約一個月，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 05:57:09",
     "Close_Date_": ""
   },
   {
@@ -5118,20 +5118,20 @@
   },
   {
     "FileNo_": "INS161029090",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 12:14:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段447巷",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該巷號誌(綠燈故障)，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 10/29 14：25 交通局 智慧運輸中心 張秉勳先生回報，該處已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 12:17:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/30 下午 05:57:31"
   },
   {
     "FileNo_": "INS161029091",
