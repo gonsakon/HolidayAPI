@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030068",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 上午 10:47:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "華榮路與文忠路口號誌控制箱",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "三大包",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030067",
     "Status_": "1",
     "Cre_Date_": "2016/10/30 上午 10:44:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 08:08:53",
     "Close_Date_": "2016/10/28 下午 04:02:40"
-  },
-  {
-    "FileNo_": "INS161028033",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 08:03:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "樂仁路125巷8號三樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址住戶將垃圾堆置於騎樓，造成環境髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 08:11:04",
-    "Close_Date_": ""
   }
 ]
