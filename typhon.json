@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031003",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 01:03:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031002",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 12:50:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:41:13",
     "Close_Date_": "2016/10/28 下午 11:20:09"
-  },
-  {
-    "FileNo_": "INS161028168",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 03:39:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "文武里復興巷37之15號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人棄置五至六個廢棄輪胎，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 03:42:14",
-    "Close_Date_": ""
   }
 ]
