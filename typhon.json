@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030119",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 下午 03:46:50",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北一路276號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前有流浪貓隻受困貨車(YC-0677)引擎兩天，建請救援。(請局處收案後先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030118",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 03:23:30",
@@ -6580,14 +6597,14 @@
   },
   {
     "FileNo_": "INS161028297",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/28 下午 10:29:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大中一路上，榮總醫院停車場出入口前，近鼎中路",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處左側第二盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 10:35:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028084",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 10:30:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國一路402巷9弄3號1樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處房屋整修，然廢棄物丟棄在門口，造成髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 10:36:54",
     "Close_Date_": ""
   }
 ]
