@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161030082",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 12:09:03",
     "ReplyUnit_": "A01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "臨海新路與蓬萊路",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有一不明挖掘施工，惟無放置相關告示牌，且單位關掉相關水源管線，建請查處。",
+    "BeforeDesc_": "渠反映該處有一不明挖掘施工，惟無放置相關告示牌，且單位關掉水源管線，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/30 下午 12:12:19",
     "Close_Date_": ""
   },
   {
