@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030063",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/30 上午 10:17:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠公路與常德路路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈目前故障閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030062",
     "Status_": "1",
     "Cre_Date_": "2016/10/30 上午 10:15:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 07:57:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028026",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 上午 07:32:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "站前北路22號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路樹傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 07:34:29",
     "Close_Date_": ""
   }
 ]
