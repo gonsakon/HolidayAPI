@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161030088",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/30 下午 12:40:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中崙五路與中崙四路口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處疑似有菜園內在燃燒不明物，造成空污白煙，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/30 下午 12:50:52",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161030087",
     "Status_": "2",
     "Cre_Date_": "2016/10/30 下午 12:37:15",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161030067",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/30 上午 10:44:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "中華路166號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址投幣式洗衣店目前飄散不明惡臭味致空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 上午 09:04:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028053",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/28 上午 09:03:00",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "807台灣高雄市三民區平等路121號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "整台車，開上行人道平等路117巷口",
-    "AfterDesc_": "感謝您的反映，此案件已10/28 09：16通報110饒警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 上午 09:20:02",
-    "Close_Date_": "2016/10/28 上午 09:24:07"
   }
 ]
