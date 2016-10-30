@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031007",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 06:38:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "察哈爾二街116號(美芝城早餐)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家油煙四散造成空污,要求人員稽查時要求店家開啟排油煙設備檢測,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031006",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 06:30:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 03:56:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028172",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 03:46:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "峰北67號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址對面有一中華電信的路燈桿(編號：東幹右之2中正51)，目前未熄，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 03:55:10",
     "Close_Date_": ""
   }
 ]
