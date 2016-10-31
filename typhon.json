@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031146",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 03:14:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後勁溪(德賢路220巷往海洋科技大學方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處河面有泡沫，疑遭偷排廢水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031145",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 03:13:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 11:54:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028312",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 11:50:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文慈路99號(新莊高中)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處周圍有疑似工廠排放類似燒塑膠異味致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 11:51:48",
     "Close_Date_": ""
   }
 ]
