@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031273",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 10:21:24",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "英明路204巷",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明工程於夜間施工，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031272",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 10:16:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 03:37:39",
     "Close_Date_": "2016/10/30 上午 07:55:39"
-  },
-  {
-    "FileNo_": "INS161029125",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 03:27:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文武街145號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路邊有一塊廢棄鐵皮，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 15：59 鳳山區清潔隊楊孟珍小姐回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 03:46:57",
-    "Close_Date_": "2016/10/30 上午 07:55:00"
   }
 ]
