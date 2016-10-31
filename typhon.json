@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161101007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 12:59:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "民權二路與一心一路(加油站)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處業者排放廢氣致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/1 上午 01:02:04",
     "Close_Date_": ""
   },
   {
