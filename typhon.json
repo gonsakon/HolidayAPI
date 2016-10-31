@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161031124",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 01:42:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "新庄巷內(電桿號:344)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電纜線低垂,恐車輛行經勾斷造成事故,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 下午 01:46:51",
     "Close_Date_": ""
   },
   {
