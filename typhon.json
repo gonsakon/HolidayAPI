@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031280",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 10:58:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "環球路(國一下路竹交流道往阿蓮方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031279",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 10:49:10",
@@ -494,19 +511,19 @@
   },
   {
     "FileNo_": "INS161031250",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 08:26:53",
-    "ReplyUnit_": "A04000",
+    "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "林家路，清水岩路，陸戰隊林園靶場，駱駝山觀測所，隆洋遊艇工業股份有限公司",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "垃圾清運",
     "BeforeDesc_": "那裡道路很多樹枝、樹木倒下去、電線桿傾斜，開車和騎機車會影響道路安全，請麻煩處理！謝謝！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 下午 10:57:40",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 04:00:50",
     "Close_Date_": "2016/10/30 下午 01:25:14"
-  },
-  {
-    "FileNo_": "INS161029131",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 03:48:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "台1線350公里至355公里",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該路段中央分隔道上路樹、路燈遭張貼違規廣告，亦有以鉛線綁上大型廣告看板，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 17:15路竹區清潔隊洪秀菊小姐回報，該處沿線廣告物已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 03:56:41",
-    "Close_Date_": "2016/10/30 上午 07:52:17"
   }
 ]
