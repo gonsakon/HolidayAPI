@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031258",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 09:05:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "卓越路(高雄第一科技大學門口)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，且空氣皆霧濛濛，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031257",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 08:58:05",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161031251",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 08:34:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中華路14巷沿線",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段兩旁有散落許多垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 01:57:08",
     "Close_Date_": "2016/10/30 上午 07:59:13"
-  },
-  {
-    "FileNo_": "INS161029111",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 01:53:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學二街62巷22號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址現有民眾燃燒金紙造成空污，請人員到場時可告知空汙影響附近民眾，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 15:52環保局公害專線中股顏錦雀小姐回報，稽查人員於15:40到達，稽查當\r\n時於上址附近巡查，未發現燃燒金紙致空污情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 01:54:59",
-    "Close_Date_": "2016/10/30 上午 07:59:28"
   }
 ]
