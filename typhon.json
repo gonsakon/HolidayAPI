@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031164",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 04:18:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮里竹寮路24之1號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031163",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 04:18:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 06:48:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029015",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 06:44:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "曾子路上(文川路與文水路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面沿線滴落汙水致惡臭髒污，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 06:47:52",
     "Close_Date_": ""
   }
 ]
