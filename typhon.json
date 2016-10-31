@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031193",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 05:34:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五塊厝公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "於反映該處公園內靠近網球場處走道上有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031192",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 05:34:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 09:30:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029044",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 09:28:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "金福路近新生路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一動物屍體疑似貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 09:30:51",
     "Close_Date_": ""
   }
 ]
