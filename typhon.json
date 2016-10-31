@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031266",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 09:47:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "華德街133號(好彩頭)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031265",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 09:45:23",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161031257",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 08:58:05",
     "ReplyUnit_": "E01001",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "蓮海路(國立中山大學)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處足球場內約有8隻犬隻追咬民眾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 02:42:54",
     "Close_Date_": "2016/10/30 上午 07:57:28"
-  },
-  {
-    "FileNo_": "INS161029118",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 02:38:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎華路173號4樓以上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有冷氣滴水情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/29 18:03 環保局公害專線先生陳彥州先生回報，稽查人員於15:07到達，\r\n於鼎華路173號4樓以上巡查，未發現有冷氣滴水之情事；並於10/30 13：50電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 02:41:13",
-    "Close_Date_": "2016/10/30 下午 01:50:19"
   }
 ]
