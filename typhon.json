@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031250",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 08:26:53",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林家路，清水岩路，陸戰隊林園靶場，駱駝山觀測所，隆洋遊艇工業股份有限公司",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "那裡道路很多樹枝、樹木倒下去、電線桿傾斜，開車和騎機車會影響道路安全，請麻煩處理！謝謝！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031249",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 08:22:00",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161031211",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 06:21:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊一路199號正後方",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一工地施工使用機具致噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 01:51:24",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029102",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 01:42:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎信街35號旁邊停車場",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一個疑似未合法設置藍色舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 01:51:08",
     "Close_Date_": ""
   }
 ]
