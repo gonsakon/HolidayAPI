@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101012",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 06:13:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "大鵬路119號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈經常會故障閃爍時好時壞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101011",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 05:04:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 05:14:51",
     "Close_Date_": "2016/10/31 下午 04:36:36"
-  },
-  {
-    "FileNo_": "INS161029147",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 下午 05:10:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "清水里忠孝路二段32巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈(編號：忠孝幹56之3號)故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 05:16:13",
-    "Close_Date_": ""
   }
 ]
