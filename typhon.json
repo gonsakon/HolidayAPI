@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161031184",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 04:59:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "大學五十六街123號對面空地",
+    "address_": "大學五十六街123號對面空地旁",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一黃色犬屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 下午 05:03:46",
     "Close_Date_": ""
   },
   {
@@ -9980,20 +9980,20 @@
   },
   {
     "FileNo_": "INS161029050",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 上午 09:44:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "擴建路(友聯貨櫃前)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 17：00電覆陳情人未果，故於10/31 17：03簡訊回覆：王先生您好，您10月29日\r\n所反映路面坑洞問題，經查為水溝蓋旁有破損坑洞，已交由本府水利局賡續辦理，案件編號：INS161029082，待\r\n處理完成再向您回覆，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 09:46:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/31 下午 05:06:36"
   },
   {
     "FileNo_": "INS161029049",
