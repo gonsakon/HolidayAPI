@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031140",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 02:39:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "環球路至高鐵台南站下方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈約20盞皆故障不亮數月，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031139",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 02:32:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 11:14:06",
     "Close_Date_": "2016/10/29 上午 11:27:55"
-  },
-  {
-    "FileNo_": "INS161028306",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 11:09:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與文自路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前路面刨除施工，機具噪音產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 11:10:29",
-    "Close_Date_": ""
   }
 ]
