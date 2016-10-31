@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161031043",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 09:11:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "球庭路24之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "雜物廢棄家具 造成環境髒亂",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031041",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 上午 09:09:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 05:35:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028208",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 05:31:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山北路196號後方(灣裡路15巷46弄內第一間公司)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處大同公司倉庫人員正在燃燒廢棄物，造成空氣污染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 05:35:59",
     "Close_Date_": ""
   }
 ]
