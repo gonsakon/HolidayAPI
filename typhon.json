@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031166",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 04:23:20",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民孝路上近民孝路45號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋周邊水泥破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031165",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 04:21:02",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161031146",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 03:14:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁溪(德賢路220巷往海洋科技大學方向)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處水面有泡沫，疑遭偷排廢水，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 07:06:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029017",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 06:52:07",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "安招路與安林路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌與前後號誌故障不連鎖，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 06:52:48",
     "Close_Date_": ""
   }
 ]
