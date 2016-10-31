@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031233",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 07:18:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "和平路一段159巷12號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031232",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 07:14:48",
@@ -724,7 +741,7 @@
     "UnitName_": "工務局",
     "StatusName_": "待處理",
     "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映",
+    "BeforeDesc_": "渠反映該處有一寬頻孔蓋鬆動致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 05:16:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 11:55:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029085",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 上午 11:48:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路(介於高鐵路至華夏路、由北往南)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映單位人員於該處人行道使用除草機作業，惟因進行中飛落碎石及垃圾致慢車道上，造成行經民眾打傷，恐致危險，建請改善。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 11:52:48",
     "Close_Date_": ""
   }
 ]
