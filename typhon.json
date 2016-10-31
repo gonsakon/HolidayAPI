@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031113",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 12:31:14",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大漢路上(介於民族路與民智街間，大寮往鳳山方向靠近加油站)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映現該處分隔島旁有一犬隻疑似受傷趴臥在此，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031112",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 12:26:56",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS161031059",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/31 上午 10:04:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫二路172巷5號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處住戶燃燒金紙致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 09:39:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028279",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 09:07:57",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠亨北路上，近鎮海路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一停車格旁(編號:404662)有一溝蓋塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 09:11:12",
     "Close_Date_": ""
   }
 ]
