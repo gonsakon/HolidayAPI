@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031262",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 09:22:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "孟子路300號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031260",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 09:19:12",
@@ -2296,14 +2313,14 @@
   },
   {
     "FileNo_": "INS161031124",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 01:42:35",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "新庄巷內(電桿號:344)",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電纜線低垂,恐車輛行經勾斷造成事故,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 02:05:11",
     "Close_Date_": "2016/10/30 上午 07:58:53"
-  },
-  {
-    "FileNo_": "INS161029113",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 下午 01:58:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高雄大學前(樹木銀行內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該園內颱風過後園樹傾倒至今未扶正，有的仍為活樹恐浪費經費，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 01:59:34",
-    "Close_Date_": ""
   }
 ]
