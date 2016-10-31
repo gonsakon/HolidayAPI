@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031239",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/31 下午 07:50:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "廟前路70號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 下午 07:51:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031238",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 07:49:57",
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS161031168",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/31 下午 04:30:37",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路，世運大道至海福紀念館間路段",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路段號誌不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 12:22:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029090",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 12:14:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中山路一段447巷",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該巷號誌(綠燈故障)，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於 10/29 14：25 交通局 智慧運輸中心 張秉勳先生回報，該處已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 12:17:59",
-    "Close_Date_": "2016/10/30 下午 05:57:31"
   }
 ]
