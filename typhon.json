@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031016",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 08:04:40",
+    "ReplyUnit_": "F01019",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "舊鐵橋濕地公園",
+    "UnitName_": "大樹區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處公廁內無水，致廁所有糞便未沖掉；另自天空步道至公廁之木地板有破洞並斷裂，建請一併查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031015",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 08:01:50",
@@ -1599,14 +1616,14 @@
   },
   {
     "FileNo_": "INS161030121",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/30 下午 04:06:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "竹寮路，舊鐵橋溼地公園",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該處公園內公廁髒亂，糞便、衛生紙散落，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 04:11:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028181",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 04:07:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大裕路256號斜對面人行道上",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一藍色舊衣回收箱，疑似未合法設立，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 04:18:17",
     "Close_Date_": ""
   }
 ]
