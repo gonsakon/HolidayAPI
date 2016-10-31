@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101004",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 12:22:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "應昇路18號(醇)、20號(愛華)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點各為一間卡拉OK，目前有唱歌擴音機聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101003",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 12:08:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 04:40:45",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029140",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 04:31:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "鳳林路三段850巷9號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/29 17:24 林園區清潔隊張簡錚班長回報，已清除完畢；並於10/30 14:58\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 04:35:41",
-    "Close_Date_": "2016/10/30 下午 02:58:46"
   }
 ]
