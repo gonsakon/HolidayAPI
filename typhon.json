@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031167",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 04:24:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路與博愛三路口(近博愛三路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一犬屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031166",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 04:23:20",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161031158",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/10/31 下午 03:56:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁溪(加昌路至德民路之間)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處溪水內有許多死魚，疑似上游偷排廢水，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 07:26:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029018",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 07:05:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "大同一路與民生二路46巷(近大同國小，於大同一路上)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處計次停車格近路邊處，有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 07:06:21",
     "Close_Date_": ""
   }
 ]
