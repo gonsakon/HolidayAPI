@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031160",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 04:06:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路2014巷與翠華路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處遭堆置許多廢棄傢俱(如床及桌子等)及垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031159",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 04:03:21",
@@ -1021,14 +1038,14 @@
   },
   {
     "FileNo_": "INS161031099",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/31 上午 11:32:11",
     "ReplyUnit_": "E01001",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路37號旁",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址旁大排水溝內有一黑色犬隻受困，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 04:32:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029011",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 03:28:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高松路上(高松派出所往大坪頂方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處路段瀰漫疑似燃燒物品致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 03:29:28",
     "Close_Date_": ""
   }
 ]
