@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031103",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 11:43:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山二路246巷6號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址住戶於該址前棄置廢棄家具，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031102",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 11:38:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 08:11:13",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028269",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/28 下午 08:08:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明誠三路上，明華國中校門前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處因車禍有遺留大量玻璃碎片，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 10/28 20：56 鼓山區清潔隊 黃啟國先生回報，該處車禍碎玻璃皆已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 08:11:02",
-    "Close_Date_": "2016/10/28 下午 10:43:10"
   }
 ]
