@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031231",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 07:13:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "憲政路340號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031229",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 07:11:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 11:36:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029082",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 上午 11:35:37",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "擴建路(友聯貨櫃對面)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝旁有破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 11:36:33",
     "Close_Date_": ""
   }
 ]
