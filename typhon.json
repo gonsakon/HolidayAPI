@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031267",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 09:53:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "西溪里後厝路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處瀰漫一股化學一位致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031266",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 09:47:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 03:01:50",
     "Close_Date_": "2016/10/30 上午 11:57:04"
-  },
-  {
-    "FileNo_": "INS161029119",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 02:39:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和東路上近翠亨南路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段人行道及路邊有許多落葉均未清，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 16:01 小港區清潔隊曹人傑先生回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 02:42:54",
-    "Close_Date_": "2016/10/30 上午 07:57:28"
   }
 ]
