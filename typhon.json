@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031115",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 12:47:22",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "海平路與部後街路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一台電高壓電線桿傾斜且電線垂落到路燈桿上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031114",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 12:46:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 09:18:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028281",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 09:12:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高雄大學路與大學二十六街交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口有一盞路燈故障不亮，已於上方張貼「路燈待修」字樣之紙張，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 09:14:35",
     "Close_Date_": ""
   }
 ]
