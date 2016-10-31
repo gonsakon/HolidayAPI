@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161031193",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 05:34:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "五塊厝公園",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "於反映該處公園內靠近網球場處走道上有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 下午 05:36:16",
     "Close_Date_": ""
   },
   {
@@ -9351,20 +9351,20 @@
   },
   {
     "FileNo_": "INS161029095",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 12:39:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路二巷47號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前路燈故障不亮，惟回報燈泡備料已近一個月,仍未修復,建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/30 01:11養工處四維養護工程隊九如分隊林泉先生回報，該處係為新設LED路燈，屬\r\n路燈科權責，惟須備料(燈泡)，故轉派非網A-TB-2016-101385賡續辦理；並於10/31 17：28電覆陳情人，故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 12:41:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/31 下午 05:37:28"
   },
   {
     "FileNo_": "INS161029094",
