@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031150",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 03:20:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "公園西路三段87號",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該址前號誌近日突然於晚上八點進入閃燈狀態，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031149",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 03:20:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 12:08:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029001",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 12:01:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大中一路386號(榮民總醫院)附近",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處周圍空氣中瀰漫著疑似二氧化硫異味致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 12:02:28",
     "Close_Date_": ""
   }
 ]
