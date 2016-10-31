@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161031261",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/31 下午 09:22:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "本館路24之3號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 下午 09:26:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031260",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 09:19:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 02:24:31",
     "Close_Date_": "2016/10/29 下午 09:11:37"
-  },
-  {
-    "FileNo_": "INS161029114",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 02:03:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋四路與前鎮街",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 16:46交通局智慧運輸中心李品鋒先生回報，該處號誌已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 02:05:11",
-    "Close_Date_": "2016/10/30 上午 07:58:53"
   }
 ]
