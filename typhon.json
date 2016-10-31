@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031218",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 06:38:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031217",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 06:32:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 10:49:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029070",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 10:48:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路381號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋鬆動致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 10:52:12",
     "Close_Date_": ""
   }
 ]
