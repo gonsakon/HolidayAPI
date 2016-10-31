@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161031119",
-    "Status_": "1",
-    "Cre_Date_": "2016/10/31 下午 01:14:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路(八卦休閒公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園內人行步道多處皆有損壞翹起，且貴單位移除傾倒樹木仍有許多樹頭未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161031118",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 01:07:50",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 09:26:23",
     "Close_Date_": "2016/10/29 上午 11:17:24"
+  },
+  {
+    "FileNo_": "INS161028285",
+    "Status_": "4",
+    "Cre_Date_": "2016/10/28 下午 09:15:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國三路497號",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前一盞LED路燈故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/28 下午 09:18:41",
+    "Close_Date_": ""
   }
 ]
