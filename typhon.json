@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161031203",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 06:03:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "濱海二路12號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 下午 06:04:24",
     "Close_Date_": ""
   },
   {
@@ -8161,20 +8161,20 @@
   },
   {
     "FileNo_": "INS161029175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/29 下午 06:29:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "龍肚街73之1號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面凹陷致易積水情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/29 18:42 養工處旗美養護工程隊饒騰龍先生回報，該處經查為6米下巷，屬區公所\r\n權責，現場無立即危險性，需轉派工INS161029183賡續辦理；並於10/31 18：01電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:32:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/10/31 下午 06:08:26"
   },
   {
     "FileNo_": "INS161029174",
