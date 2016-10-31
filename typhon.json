@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161031099",
+    "FileNo_": "INS161031100",
     "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 11:34:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "龍潭路，靶場高分17號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161031099",
+    "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 11:32:11",
     "ReplyUnit_": "E01001",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路37號旁",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/10/31 上午 11:34:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 08:05:09",
     "Close_Date_": "2016/10/29 上午 11:09:46"
-  },
-  {
-    "FileNo_": "INS161028266",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 08:02:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中山二路上，於大遠百前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段雙向約有4至5盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 08:03:30",
-    "Close_Date_": ""
   }
 ]
