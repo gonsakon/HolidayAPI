@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031224",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 07:02:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街803號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031223",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 06:59:41",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 12:21:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029076",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 11:24:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路2002號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處民宅施工，機具噪音擾民，建請查處。(再次反映時，要求人員先行致電聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 11:26:10",
     "Close_Date_": ""
   }
 ]
