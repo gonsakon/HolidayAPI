@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031158",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 03:56:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後勁溪(加昌路至德民路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處溪水內有許多死魚，疑似上游偷排廢水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031157",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 03:42:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 03:17:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029009",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 02:54:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "應昇路23號(再相逢卡拉OK)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該店家目前有唱歌音樂噪音，且店家冷氣之室外機運行嗡嗡作響，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 02:58:55",
     "Close_Date_": ""
   }
 ]
