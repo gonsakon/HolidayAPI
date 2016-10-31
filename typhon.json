@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031179",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 04:48:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永定街上(與民權街口)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處圍牆旁路面有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031178",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 04:44:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 08:57:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029030",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 08:45:27",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "中華路63號旁河堤",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該河堤排水溝內有兩隻幼犬受困，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 08:47:54",
     "Close_Date_": ""
   }
 ]
