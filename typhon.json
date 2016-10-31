@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031106",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/31 上午 11:50:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林三路與力行路口附近，靠三隆里",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處現正燃燒廢棄物，造成空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 上午 11:52:44",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031105",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 11:46:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 08:15:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028272",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/28 下午 08:10:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "赤德街旁(與勇全路有交叉，八德南路北邊)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該處一養工處權管之綠地內因積水已久，致孳生蚊蟲，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 08:13:49",
     "Close_Date_": ""
   }
 ]
