@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031283",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 11:27:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園北路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫油漆化學異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031282",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 11:07:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 04:26:54",
     "Close_Date_": "2016/10/30 上午 07:49:59"
-  },
-  {
-    "FileNo_": "INS161029135",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 04:13:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "和平路二段199巷(從和平路二段201號轉入)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該巷道內有多個坑洞，望請派員修補，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 04:14:16",
-    "Close_Date_": ""
   }
 ]
