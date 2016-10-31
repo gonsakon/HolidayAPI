@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031207",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 06:13:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路55號與57號中間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031206",
     "Status_": "1",
     "Cre_Date_": "2016/10/31 下午 06:11:22",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161031205",
+    "Status_": "2",
+    "Cre_Date_": "2016/10/31 下午 06:09:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "福美路486號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址隔壁有民眾在燃燒垃圾致空氣飄散著塑膠異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 下午 06:12:35",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 10:21:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029059",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 上午 10:14:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山溪，由鳳山區光華東路100號 (鳳西國小)往溪裡查看",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有許多黑色漂浮物，疑似汙染，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/29 14：06 環保局環境稽查科中區股陳彥州先生回報，稽查人員於12：40\r\n到達，稽查當時人員於上址巡視該處黑色漂浮物係藻類死亡，人員於上游查看未發現有工廠排放廢水\r\n情事；並於10/30 11：13電覆陳情人，惟陳情人反映此為長期問題，故另派非網A-TB-2016-101473追\r\n蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 10:16:04",
-    "Close_Date_": "2016/10/30 上午 11:17:30"
-  },
-  {
-    "FileNo_": "INS161029058",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 10:14:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "頂潭北路59號；劉嘉修護理之家",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址有發電機運轉噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 10:16:36",
     "Close_Date_": ""
   }
 ]
