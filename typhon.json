@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031111",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 12:18:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "松仁街上(中鋼)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處由中鋼，持續排出不明廢氣致惡臭異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031110",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 12:00:14",
@@ -1599,14 +1616,14 @@
   },
   {
     "FileNo_": "INS161031016",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/31 上午 08:04:40",
     "ReplyUnit_": "F01019",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "舊鐵橋濕地公園",
     "UnitName_": "大樹區公所",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處公廁內無水，致廁所有糞便未沖掉；另自天空步道至公廁之木地板有破洞並斷裂，建請一併查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 09:03:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161028277",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 08:42:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "頂潭路167號旁巷道(台19甲線上)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有5盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 08:44:10",
     "Close_Date_": ""
   }
 ]
