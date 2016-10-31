@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101027",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 07:57:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大寮區力行路北上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "力行路 北上路燈 早上還是亮著。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101026",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 07:49:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 06:15:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029163",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 06:11:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "和平一路與五福一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞共桿路燈故障不亮已有1個多月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 06:15:13",
     "Close_Date_": ""
   }
 ]
