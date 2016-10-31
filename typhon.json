@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031062",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 上午 10:14:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中芸國小後方停車場前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行紅磚道上因日前風災遺留許多落葉、樹枝未清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031061",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 上午 10:10:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/28 下午 06:32:10",
     "Close_Date_": "2016/10/28 下午 11:19:42"
-  },
-  {
-    "FileNo_": "INS161028228",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/28 下午 06:14:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路532巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處疑似由八德西路線路斷裂致該巷沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/28 下午 06:15:28",
-    "Close_Date_": ""
   }
 ]
