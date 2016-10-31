@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161031206",
+    "Status_": "1",
+    "Cre_Date_": "2016/10/31 下午 06:11:22",
+    "ReplyUnit_": "F01006",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山北路193巷195號旁",
+    "UnitName_": "岡山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處六米以下巷道有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161031204",
     "Status_": "2",
     "Cre_Date_": "2016/10/31 下午 06:07:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 上午 10:16:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029056",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 上午 10:03:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路與擴建路、凱旋四路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口稍早交通局維修車前往調整後現號誌大亂(如綠燈不亮)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 上午 10:06:47",
     "Close_Date_": ""
   }
 ]
