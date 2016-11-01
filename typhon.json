@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161101063",
+    "FileNo_": "INS161101059",
     "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 09:43:07",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "軍校路712巷口(靠近蔚藍海岸大樓)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161101063",
+    "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 09:41:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松藝路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處人員進行除草作業使用旋轉式機器除草導致碎石及雜草噴向路中，已打到機車騎士，建請查處",
+    "BeforeDesc_": "渠反映該處人員進行除草作業，使用旋轉式機器除草導致雜草等噴向路中，已打到機車騎士，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/1 上午 09:43:15",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 07:47:15",
     "Close_Date_": "2016/10/31 上午 10:00:50"
-  },
-  {
-    "FileNo_": "INS161029199",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 07:37:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "龍肚街的涼亭旁",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有1盞路燈故障不亮，因旁邊即為很深的稻田，恐生危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/30 19:50養工處旗美養護工程隊饒騰龍先生回報，該處路燈已修復；並於10/31 \r\n18：51電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 07:41:10",
-    "Close_Date_": "2016/10/31 下午 06:55:00"
   }
 ]
