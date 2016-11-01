@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101081",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/1 上午 10:42:09",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路854巷1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址前一圓形高汙水孔蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/1 上午 10:44:28",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101080",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 10:40:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 08:52:42",
     "Close_Date_": "2016/10/30 上午 07:25:23"
-  },
-  {
-    "FileNo_": "INS161029217",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 08:49:31",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "西子夕照碑周界",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區髒亂",
-    "BeforeDesc_": "渠反映該處木棧上有散落許多垃圾致環境髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 08:54:16",
-    "Close_Date_": ""
   }
 ]
