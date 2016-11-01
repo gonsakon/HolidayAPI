@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101189",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 05:50:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學南路1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址側邊竹林內有人在燃燒廢棄物導致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101188",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 05:44:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 11:21:15",
     "Close_Date_": "2016/11/1 下午 03:00:43"
-  },
-  {
-    "FileNo_": "INS161030071",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 上午 11:03:23",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山區漁村街92巷巷口",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "廢棄棧板長期佔用道路",
-    "AfterDesc_": "感謝您的反映，此案件已於10/30 11:21通報110陳警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 上午 11:22:31",
-    "Close_Date_": "2016/10/30 上午 11:23:12"
   }
 ]
