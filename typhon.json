@@ -4710,20 +4710,20 @@
   },
   {
     "FileNo_": "INS161031184",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 04:59:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學五十六街123號對面空地旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一黃色犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 20:48楠梓區清潔隊王麒源先生回報，該處狗屍已清除完畢；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 05:03:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 05:17:57"
   },
   {
     "FileNo_": "INS161031183",
@@ -4778,20 +4778,20 @@
   },
   {
     "FileNo_": "INS161031180",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 04:53:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路565巷1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前反光鏡下遭民眾丟置兩箱廢棄物，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 17:54 三民東區清潔隊王文全先生回報，已清除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:55:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 05:17:36"
   },
   {
     "FileNo_": "INS161031179",
