@@ -9606,20 +9606,20 @@
   },
   {
     "FileNo_": "INS161030066",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/30 上午 10:26:06",
     "ReplyUnit_": "F01023",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "中埔里中埔派出所(中埔路往衙門口方向)",
     "UnitName_": "內門區公所",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有一六米下巷道內，路面有破損坑洞，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 12:34 內門區公所林鴻位先生回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 10:30:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 02:58:18"
   },
   {
     "FileNo_": "INS161030065",
@@ -9657,20 +9657,20 @@
   },
   {
     "FileNo_": "INS161030063",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/30 上午 10:17:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠公路與常德路路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈目前故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/30 13:27交通局智慧運輸中心蔡淑君小姐回報，已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 10:18:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 02:57:49"
   },
   {
     "FileNo_": "INS161030062",
