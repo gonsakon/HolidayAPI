@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101073",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 10:09:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101072",
     "Status_": "1",
     "Cre_Date_": "2016/11/1 上午 10:09:12",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS161101056",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/1 上午 09:33:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官路425巷12號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有1盞燈燈罩轉向照天空，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 08:22:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029209",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 08:15:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路880巷31弄33號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址住家後方有一白色貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 21:37 楠梓區清潔隊彭永明先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 08:17:39",
-    "Close_Date_": "2016/10/30 上午 07:27:12"
   }
 ]
