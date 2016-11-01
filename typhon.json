@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101055",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 09:25:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "龍文街69號(麗緻新都大樓) 京城建設",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "大樓 地下室設備  發出低頻噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101054",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 09:18:42",
@@ -2840,14 +2857,14 @@
   },
   {
     "FileNo_": "INS161031171",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/10/31 下午 04:34:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與曾子路口",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處有路面重鋪工程，北上車道與全部斑馬線皆封閉，行人無法行走，附近巷弄擁塞，望請盡速改善，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 07:18:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161029191",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/29 下午 07:11:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "民權路6號正對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，且該盞路燈經常有故障情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 07:13:35",
     "Close_Date_": ""
   }
 ]
