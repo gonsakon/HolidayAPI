@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102002",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 上午 01:21:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "七賢二路87號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前飄散一股類似排泄物之惡臭異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102001",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 上午 01:19:20",
@@ -10,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者油炸食物致油煙空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 下午 06:34:29",
     "Close_Date_": "2016/10/31 下午 03:31:30"
-  },
-  {
-    "FileNo_": "INS161030148",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 下午 06:27:04",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路與信義二路口，南下方向",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋鬆動致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/30 20:31台電鳳山區處吳先生回報，人員查察現場並無台電孔蓋，為寬頻孔蓋鬆\r\n動，故改派INS161030172賡續辦理；待該案處理完成再行回覆陳情人，故先行將本案解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 下午 06:34:38",
-    "Close_Date_": "2016/11/1 下午 05:10:38"
   }
 ]
