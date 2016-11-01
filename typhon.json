@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101087",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 11:00:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建德路163號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101086",
     "Status_": "1",
     "Cre_Date_": "2016/11/1 上午 10:59:31",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161101085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 10:57:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生二路36號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前有一破帆布覆蓋大量樹枝雜草及垃圾，已發出惡臭味，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/1 上午 10:59:57",
     "Close_Date_": ""
   },
   {
@@ -3299,20 +3316,20 @@
   },
   {
     "FileNo_": "INS161031177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 04:40:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "微笑公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該園內現有多位民眾邊騎機車邊玩手機，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/1 02:31 四維養護工程隊陳錦茸小姐回報：機車已駛離；並於11/01 \r\n10:56電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:41:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 上午 11:00:53"
   },
   {
     "FileNo_": "INS161031176",
@@ -4540,20 +4557,20 @@
   },
   {
     "FileNo_": "INS161031103",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 上午 11:43:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山二路246巷6號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址住戶於該址前棄置廢棄家具，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 11:52 鼓山區清潔隊朱芃俐小姐回報，此案於早上9時許已接獲民眾通報清潔\r\n隊，稽查人員表示該處須查明行為人，且現場無髒亂情事，故改派非網A-TB-2016-101839 辦理；並於11/01 \r\n11：00電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:56:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 上午 11:03:25"
   },
   {
     "FileNo_": "INS161031102",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 09:11:48",
     "Close_Date_": "2016/10/30 上午 07:24:23"
-  },
-  {
-    "FileNo_": "INS161029223",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 09:10:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "地埔路34巷內，產業道路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有6盞路燈故障不亮，已有紅線做記號，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 09:11:51",
-    "Close_Date_": ""
   }
 ]
