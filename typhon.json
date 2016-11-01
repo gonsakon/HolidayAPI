@@ -4982,20 +4982,20 @@
   },
   {
     "FileNo_": "INS161031167",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 04:24:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大中二路與博愛三路口(近博愛三路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 16:55 左營區清潔隊蔡旻秀小姐回報，現場巡視未發現有犬屍；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:25:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 05:09:04"
   },
   {
     "FileNo_": "INS161031166",
