@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101053",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/1 上午 09:11:30",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中山二路上(北上)與三多三路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口號誌燈與前後路口未連鎖,自星期五至今,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/1 上午 09:12:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101052",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 09:01:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 07:07:47",
     "Close_Date_": "2016/10/30 下午 02:43:53"
-  },
-  {
-    "FileNo_": "INS161029189",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 07:01:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正義路310巷內，過鐵路平交道右轉",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處巷道由正義路進入約一百公尺有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 07:03:00",
-    "Close_Date_": ""
   }
 ]
