@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101118",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 01:14:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正言路64巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101117",
     "Status_": "1",
     "Cre_Date_": "2016/11/1 下午 01:09:51",
@@ -1599,20 +1616,20 @@
   },
   {
     "FileNo_": "INS161101023",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 上午 07:49:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由二路與忠言路，龍華國中大門北側",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行紅磚道上近斑馬線50公分處，有犬隻排泄物，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/01 08：36 左營區清潔隊祝立庭小姐回報，該處已清除完畢；並於11/01 13：11電\r\n覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 上午 07:55:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 01:14:02"
   },
   {
     "FileNo_": "INS161101022",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 12:17:08",
     "Close_Date_": "2016/10/30 上午 07:16:54"
-  },
-  {
-    "FileNo_": "INS161030002",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/30 上午 12:04:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "高楠七街26號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 上午 12:05:28",
-    "Close_Date_": ""
   }
 ]
