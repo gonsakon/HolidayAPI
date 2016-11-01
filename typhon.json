@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101229",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 08:29:51",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "自由路198號前",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有不明挖掘工程，當民眾騎車經過時，其所鋪設之鐵板會翹起，現場僅一個三角錐，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101228",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 08:20:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 下午 02:52:53",
     "Close_Date_": "2016/11/1 下午 03:19:38"
-  },
-  {
-    "FileNo_": "INS161030110",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/30 下午 02:45:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "右昌一巷一號前（右昌元帥廟旁）",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "路邊有個大洞，反映多次都沒有補",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 下午 04:42:39",
-    "Close_Date_": ""
   }
 ]
