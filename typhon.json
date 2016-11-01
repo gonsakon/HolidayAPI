@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101233",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 08:47:49",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自強二路86號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101232",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 08:39:43",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161101229",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/1 下午 08:29:51",
     "ReplyUnit_": "A01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "自由路198號前",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有不明挖掘工程，當民眾騎腳踏車經過時，其所鋪設之鐵板會翹起10公分，現場僅一個三角錐，望請加強安全措施，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 下午 03:21:08",
     "Close_Date_": "2016/11/1 下午 03:20:00"
-  },
-  {
-    "FileNo_": "INS161030114",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/30 下午 03:14:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "820台灣高雄市岡山區壽華路155號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "岡山區壽華路155號前路燈故障",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 下午 04:45:12",
-    "Close_Date_": ""
   }
 ]
