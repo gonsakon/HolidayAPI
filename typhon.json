@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161101067",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/1 上午 09:52:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "得勝巷49之3號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/1 上午 09:56:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101066",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 09:49:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 08:10:15",
     "Close_Date_": "2016/10/31 下午 06:59:08"
-  },
-  {
-    "FileNo_": "INS161029204",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/29 下午 08:02:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "1.港平路132巷5弄24號旁；2.港平路132巷5弄口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該兩處各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 08:07:35",
-    "Close_Date_": ""
   }
 ]
