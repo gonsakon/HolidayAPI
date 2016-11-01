@@ -9776,20 +9776,20 @@
   },
   {
     "FileNo_": "INS161030054",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/30 上午 09:53:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "河南路268號；土魠魚店",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/30 10：31 苓雅區清潔隊陳冠宏先生回報，該處已清除完畢；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 09:56:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 02:54:08"
   },
   {
     "FileNo_": "INS161030053",
@@ -9827,20 +9827,20 @@
   },
   {
     "FileNo_": "INS161030051",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/30 上午 09:30:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華二路與林西街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈閃紅黃燈狀況，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/30 10:51 交通局智慧運輸中心蔡淑君小姐回報，該處號誌已修復；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 09:31:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 02:53:44"
   },
   {
     "FileNo_": "INS161030050",
