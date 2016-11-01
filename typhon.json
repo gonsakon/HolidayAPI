@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161101128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 01:51:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
-    "address_": "海峰路15號之6",
+    "address_": "海峰路15號之6(菜瓜布工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址工廠飄散不明惡臭異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/1 下午 01:53:53",
     "Close_Date_": ""
   },
   {
@@ -4268,20 +4268,20 @@
   },
   {
     "FileNo_": "INS161031161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 04:14:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "苓雅二路166號(便當店)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址後門(苓雅二路160巷)有抽風機運轉噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 17:03 環保局環境稽查科中區股沈俊男先生回報，稽查人員於16:55到達，經與\r\n業者確認為抽油煙機之馬達損壞產生噪音，現場因已停止使用未有噪音情事，另業者已請廠商維修且承諾未修妥\r\n前不再使用；並於11/01 13：52電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:17:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 01:56:33"
   },
   {
     "FileNo_": "INS161031160",
