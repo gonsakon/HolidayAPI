@@ -5509,20 +5509,20 @@
   },
   {
     "FileNo_": "INS161031125",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/10/31 下午 01:40:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路與楠陽路(健仁醫院前方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段上有廚餘油汙，造成許多騎車騎士滑倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於10/31 14:12 楠梓區清潔隊黃碧鳳小姐回報，已清除完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 01:43:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/1 下午 04:21:51"
   },
   {
     "FileNo_": "INS161031122",
