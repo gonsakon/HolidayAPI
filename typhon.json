@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101131",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 02:10:05",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇德路上(與立大路)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該址該路段有台電工程圍路施作，未進行交通管制，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101130",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 02:00:10",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161101103",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/1 上午 11:40:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路477巷口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該巷口路牌指示方向錯誤，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 06:03:03",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161030015",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 上午 02:46:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "博愛一路上與北平一街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路口號誌與前後不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】交通局智慧運輸中心張寬如小姐於10/30 05:02 回報：該處號誌已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 上午 02:47:36",
-    "Close_Date_": "2016/10/30 上午 05:06:17"
   }
 ]
