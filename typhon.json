@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101209",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 06:42:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "大鵬路119號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障，會不定時閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101208",
     "Status_": "1",
     "Cre_Date_": "2016/11/1 下午 06:42:07",
@@ -31,23 +48,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 06:40:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101206",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/1 下午 06:35:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "介壽東路岡山南路",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
