@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101137",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 02:42:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "皓東路349號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前方有一盞LED燈故障不亮，建起查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101136",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 02:35:55",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161101134",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 02:28:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲三路157巷1號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映157巷內右邊水溝髒亂區致異味，建請查處。",
+    "BeforeDesc_": "渠反映157巷內右邊水溝需清疏，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/1 下午 02:42:05",
     "Close_Date_": ""
   },
   {
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161101130",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/1 下午 02:00:10",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌路與加昌路口(飛揚運動用品附近)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處高污水孔蓋旁破損坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 07:29:35",
     "Close_Date_": "2016/11/1 下午 02:37:48"
-  },
-  {
-    "FileNo_": "INS161030021",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 上午 06:57:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "環湖路；澄清湖",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有澄清湖內的清淤船，有馬達機具噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/30 08:01 環保局公害專線楊竣安先生回報，稽查人員於07:45到達，稽查\r\n時於上述地點沿線巡查，確實有清淤船於湖中作業，未發現明顯馬達運轉噪音情事，並請自來水廠廠\r\n房督促注意防範；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 上午 06:59:24",
-    "Close_Date_": "2016/11/1 下午 02:36:33"
   }
 ]
