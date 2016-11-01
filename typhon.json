@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101092",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 上午 11:13:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路上近立文路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101089",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 上午 11:11:14",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161101078",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/1 上午 10:19:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "允文街61號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前路面有一坑洞，請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/29 下午 10:06:55",
     "Close_Date_": "2016/10/29 下午 10:13:36"
-  },
-  {
-    "FileNo_": "INS161029228",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/29 下午 09:16:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福一路與福建街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍遺留油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/29 21:44苓雅區清潔隊施長興先生回報，該處車禍油漬皆已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/29 下午 09:18:25",
-    "Close_Date_": "2016/10/30 上午 07:23:36"
   }
 ]
