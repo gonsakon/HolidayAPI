@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161101134",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/1 下午 02:28:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲三路157巷1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映157巷內右邊水溝髒亂區致異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161101131",
     "Status_": "2",
     "Cre_Date_": "2016/11/1 下午 02:10:05",
@@ -783,14 +800,14 @@
   },
   {
     "FileNo_": "INS161101087",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/1 上午 11:00:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建德路163號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處市場攤販油炸油煙致空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/30 上午 06:46:39",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161030018",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 上午 06:31:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三鳳宮",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處廟會活動擴音器聲響噪音，建請查處。(陳情人要求人員到場與其聯絡)",
-    "AfterDesc_": "【主管解除管制】本案於10/30 08:01 環保局公害專線楊竣安先生回報，稽查人員於07:17到達，並致電陳情\r\n人，陳情人表示已無聲音，經詢問現場民眾表示稍早有敲鑼打鼓所致，於周界巡查未發現使用擴音器致噪音情\r\n事；並於11/01 09：20電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 上午 06:33:06",
-    "Close_Date_": "2016/11/1 上午 09:25:14"
   }
 ]
