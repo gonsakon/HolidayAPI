@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102159",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 02:20:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重和路與文天路",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋水泥有下陷情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102158",
     "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 02:16:17",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 02:18:42",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161102157",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/2 下午 02:12:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "深水里深興路26巷底",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址多盞路燈線路斷掉故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/2 下午 02:20:53",
     "Close_Date_": ""
   },
   {
@@ -834,14 +868,14 @@
   },
   {
     "FileNo_": "INS161102107",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/2 上午 11:06:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與金福路口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路段有多處路面坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:43:27",
     "Close_Date_": "2016/11/1 上午 10:59:51"
-  },
-  {
-    "FileNo_": "INS161031101",
-    "Status_": "4",
-    "Cre_Date_": "2016/10/31 上午 11:35:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重立路138號 (源一鑫洗車場)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址店家使用空氣噴槍致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:41:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161031100",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 上午 11:34:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "龍潭路，靶場高分17號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:35:23",
-    "Close_Date_": ""
   }
 ]
