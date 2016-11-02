@@ -460,19 +460,19 @@
   },
   {
     "FileNo_": "INS161102218",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 05:44:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北向中山四路機場入口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "北上中山四路機場入口，右轉道根本都無法右轉都被直行車擋住，已經無數次了，乾卻取消紅燈右轉燈算了。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 06:59:31",
     "Close_Date_": ""
   },
   {
