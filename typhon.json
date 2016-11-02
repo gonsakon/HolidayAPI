@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161102066",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 上午 09:42:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "龍江街189號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋柏油高低落差，希望填平，建請查處。",
+    "BeforeDesc_": "渠反映該處有一台電孔蓋周邊柏油有高低落差，希望填平，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 上午 09:46:28",
     "Close_Date_": ""
   },
   {
