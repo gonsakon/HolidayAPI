@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161102144",
+    "FileNo_": "INS161102145",
     "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 01:30:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路15之76號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建起查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161102144",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 01:28:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義華路297號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近飄散一股惡臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 01:30:54",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:14:18",
     "Close_Date_": "2016/11/1 下午 04:54:04"
-  },
-  {
-    "FileNo_": "INS161031088",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 上午 11:01:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "立安路61號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁的電箱處遭置一綠色舊衣回箱，疑似未合法設立，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 13：48 楠梓區清潔隊蔡怡如小姐回報，該處經人員勘查確實屬未合法申\r\n請，人員亦拍照存證，通知業者限期七日內移除，若超過七日期限內未移除，將依法視同廢棄物清除，目\r\n前放置地點無影響交通，故改派非網A-TB-2016-101885賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:14:41",
-    "Close_Date_": "2016/11/1 下午 04:54:32"
   }
 ]
