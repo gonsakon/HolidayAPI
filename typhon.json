@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161102053",
+    "FileNo_": "INS161102054",
     "Status_": "1",
+    "Cre_Date_": "2016/11/2 上午 09:24:50",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "興中一路219巷23號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址前方污水管線阻塞，其要求彎角處管線一併徹底疏通，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161102053",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 上午 09:22:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "生日公園",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該園週邊行道樹樹穴旁人行道多有破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 上午 09:25:08",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 12:01:58",
     "Close_Date_": "2016/11/1 下午 04:12:59"
-  },
-  {
-    "FileNo_": "INS161030200",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/30 下午 11:48:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術館路上，近龍水路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處公車站牌旁人行道上有一犬屍，建請查處。(另請人員抵達時與陳情人聯繫)",
-    "AfterDesc_": "【主管解除管制】本案於10/31 00：04 溝渠隊林漢宗先生回報，人員到達時陳情人正在現場等候，現\r\n已將狗屍清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/30 下午 11:50:44",
-    "Close_Date_": "2016/11/1 下午 04:02:31"
   }
 ]
