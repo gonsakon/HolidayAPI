@@ -4676,20 +4676,20 @@
   },
   {
     "FileNo_": "INS161101158",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 下午 03:35:00",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "裕誠路163號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "污水阻塞，積水進屋內了",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/2 15：17 水利局污水營運科林卉霓小姐回報，該處為室內管線阻塞問題，已告知住\r\n戶須自行處理；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 04:36:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 下午 03:27:26"
   },
   {
     "FileNo_": "INS161101155",
