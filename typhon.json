@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102297",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 11:51:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路397號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道上有一路面坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102296",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 11:50:35",
@@ -4982,20 +4999,20 @@
   },
   {
     "FileNo_": "INS161101262",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 下午 11:50:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路與新庄仔路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有道路刨除工程使用機具致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/02 02:19環保局稽查科中區股吳政翰先生回報，稽查人員於00:55到場，現場\r\n為道路柏油鋪設工程，工地主任亦有出示夜間施工許可，另礙於現場車流量過大，周界尋無合適地點量測\r\n均能音量，故予以勸導業者加強注意防範；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 11:51:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 下午 11:50:33"
   },
   {
     "FileNo_": "INS161101261",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 07:51:48",
     "Close_Date_": "2016/11/1 下午 05:41:24"
-  },
-  {
-    "FileNo_": "INS161031237",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 07:37:50",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "惠民路48號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處位於車道出入口處有一溝蓋塌陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 07:40:04",
-    "Close_Date_": ""
   }
 ]
