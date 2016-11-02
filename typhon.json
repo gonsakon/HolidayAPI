@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102225",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 05:57:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路565巷1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭棄置一箱垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102224",
     "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 05:53:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:25:37",
     "Close_Date_": "2016/11/1 下午 05:09:04"
-  },
-  {
-    "FileNo_": "INS161031166",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 04:23:20",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民孝路上近民孝路45號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋周邊水泥破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 04:25:53",
-    "Close_Date_": ""
   }
 ]
