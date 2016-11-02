@@ -6053,20 +6053,20 @@
   },
   {
     "FileNo_": "INS161101059",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 上午 09:43:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路712巷口(靠近蔚藍海岸大樓)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/1 12：29 智慧運輸中心蔡淑君小姐回報，該處已修復完畢；並於11/02 14：25電覆\r\n陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 上午 09:46:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 下午 02:35:46"
   },
   {
     "FileNo_": "INS161101063",
