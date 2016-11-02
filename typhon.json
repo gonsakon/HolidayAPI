@@ -30,7 +30,7 @@
     "BeforeDesc_": "渠反映該處有號誌燈不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 12:44:31",
+    "Save_Date_": "2016/11/2 下午 12:48:45",
     "Close_Date_": ""
   },
   {
@@ -1055,14 +1055,14 @@
   },
   {
     "FileNo_": "INS161102072",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/2 上午 09:56:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路，近青年夜市",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映鳳山溪溪水呈黑色，請查處。",
     "AfterDesc_": "",
