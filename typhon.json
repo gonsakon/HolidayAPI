@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102165",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 02:40:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "朝明路與鳳楠路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處小綠人號誌故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102164",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 02:40:00",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161102162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 02:39:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "台29線91公里處",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處沿線路面有泥土，導致塵土飛揚，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 02:40:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:55:33",
     "Close_Date_": "2016/11/1 下午 04:56:59"
-  },
-  {
-    "FileNo_": "INS161031106",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 上午 11:50:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路與力行路口附近，靠三隆里",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處現正燃燒廢棄物，造成空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 14:56環保局環境稽查科南區股陳秋娥小姐回報，稽查人員於12:24到達，於交叉\r\n路口附近巡查，稽查當時未發現明顯燃燒廢棄物致空污情事；並於11/01 11：40電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:52:44",
-    "Close_Date_": "2016/11/1 上午 11:47:27"
   }
 ]
