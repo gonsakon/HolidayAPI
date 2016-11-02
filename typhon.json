@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102155",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 02:05:11",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "0910733779三民區鼎力路172號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102154",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 01:51:27",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161102131",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/2 下午 12:26:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路與軍校路712巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該巷口有二處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:31:15",
     "Close_Date_": "2016/11/1 上午 10:21:55"
-  },
-  {
-    "FileNo_": "INS161031097",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 上午 11:28:26",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路與河南路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有水溝蓋下陷情形，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 10:13水利局污水營運科鄭婷云小姐回報，於11/01早上有聯繫到陳情\r\n人，陳情人表示係為該處的住戶向其通報，然目前該住戶表示要自行修復；並於11/01 12：48電覆陳\r\n情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:30:29",
-    "Close_Date_": "2016/11/1 下午 12:48:52"
   }
 ]
