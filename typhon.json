@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161102139",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 01:02:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路95號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有台電施工維修後產生坑洞，導致陳情人牽機車時不慎摔傷，已向警方備案，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 01:23:04",
     "Close_Date_": ""
   },
   {
