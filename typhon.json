@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103008",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 上午 06:06:11",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中華路267號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處無預警停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103007",
     "Status_": "4",
     "Cre_Date_": "2016/11/3 上午 05:05:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 08:16:19",
     "Close_Date_": "2016/11/1 下午 05:41:40"
-  },
-  {
-    "FileNo_": "INS161031245",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 08:06:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "五和路97號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 08:06:58",
-    "Close_Date_": ""
   }
 ]
