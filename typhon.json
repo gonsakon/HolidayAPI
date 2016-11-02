@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161102155",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 02:05:11",
     "ReplyUnit_": "A01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "鼎力路172號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "0910733779三民區鼎力路172號",
+    "BeforeDesc_": "渠反映該址前汽機車道間有路面凹陷，而凹陷處為該處一興建大樓建商開挖路面埋設汙水管處，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 02:12:34",
     "Close_Date_": ""
   },
   {
