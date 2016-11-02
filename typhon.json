@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161103013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 07:38:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自強二路160號前與五常街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 07:39:33",
     "Close_Date_": ""
   },
   {
