@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161102079",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 上午 10:05:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "興業街12號(鋼聯)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處工廠正排放廢氣，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 上午 10:07:22",
     "Close_Date_": ""
   },
   {
