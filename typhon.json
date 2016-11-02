@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102170",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 02:50:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "中正路二段(第一公墓大門)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處大門附近有惡臭味逸散致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102169",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 02:48:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 12:35:44",
     "Close_Date_": "2016/11/1 上午 11:54:40"
-  },
-  {
-    "FileNo_": "INS161031112",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 12:26:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中山路一段852號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 14:33湖內區清潔隊李玉淩小姐回報，人員巡查兩次皆未發現；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 12:29:34",
-    "Close_Date_": "2016/11/1 下午 04:57:17"
   }
 ]
