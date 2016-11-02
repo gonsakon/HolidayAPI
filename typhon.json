@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161102150",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 01:42:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
-    "address_": "銀川街(介於翠華路到銀川街30號間)",
+    "address_": "銀川街上(介於翠華路到銀川街30號間)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段許久未清掃，導致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 01:44:32",
     "Close_Date_": ""
   },
   {
@@ -65,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 01:43:14",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161102146",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 01:33:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義華路上(介於義利街至義和路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路段目前空氣中與排水溝皆飄散化學惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:19:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161031093",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 上午 11:17:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中山公園(岡山壽天宮前)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該園內有一雙人慢步機，已損壞致螺絲突出，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:20:32",
     "Close_Date_": ""
   }
 ]
