@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102278",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 09:07:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "文學路一段256號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前1盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102277",
     "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 09:03:21",
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS161102254",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/2 下午 07:33:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大業北路310號與312號轉角處",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處於消防栓旁遭人棄置兩包廢棄物(地磚)，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 06:41:15",
     "Close_Date_": "2016/11/1 下午 05:32:47"
-  },
-  {
-    "FileNo_": "INS161031218",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 06:38:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中庸街106巷2之3號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映目前該處有火災需要台電人員前往斷線，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 10：22經詢問台電1911陳小姐表示，已處理完成；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 06:43:31",
-    "Close_Date_": "2016/11/1 下午 05:32:15"
   }
 ]
