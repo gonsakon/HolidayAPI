@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161102203",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 04:38:52",
     "ReplyUnit_": "A01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "介壽路往東(上勤洗車場對面)",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處快車道上有不明管挖回填不實導致路面凹陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 04:42:59",
     "Close_Date_": ""
   },
   {
@@ -3724,20 +3724,20 @@
   },
   {
     "FileNo_": "INS161101244",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 下午 09:48:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "和平一路(介於林德街與四維二路)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處靠近商家人行道上沿線多處凹凸不平，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/01 23:19  養工處四維養護工程隊值班人員顏小晶小姐回報，該處無危險性，經查\r\n為樹穴，已納入災後復建工作處理，故轉派非網A-TB-2016-102430賡續辦理；並於11/02 16：40電覆陳情人，故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 09:50:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 下午 04:41:29"
   },
   {
     "FileNo_": "INS161101243",
