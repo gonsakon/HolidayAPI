@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102247",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 07:00:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文龍路69號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址私人神壇燃燒大量檀香造成異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102246",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 06:59:12",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161102223",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/2 下午 05:52:20",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中安路和紅毛港路交界",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址車庫內有遭捕獸夾夾傷之流浪犬隻入侵，請人員先行聯繫，建請查處。",
     "AfterDesc_": "",
@@ -460,20 +477,20 @@
   },
   {
     "FileNo_": "INS161102218",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 05:44:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北向中山四路機場入口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "北上中山四路機場入口，右轉道根本都無法右轉都被直行車擋住，已經無數次了，乾卻取消紅燈右轉燈算了。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-102797由交通局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 06:59:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 下午 07:01:29"
   },
   {
     "FileNo_": "INS161102217",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 05:15:59",
     "Close_Date_": "2016/11/1 下午 02:03:31"
-  },
-  {
-    "FileNo_": "INS161031187",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 05:09:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "東燕里中民路61巷3之20號(興盛宮)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處1盞路燈故障不亮(編號:120)，建請儘速修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 05:11:08",
-    "Close_Date_": ""
   }
 ]
