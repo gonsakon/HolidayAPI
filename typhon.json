@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161102070",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 上午 09:49:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "橋南路(楠梓路至橋頭市場之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿路有部分路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 上午 09:50:34",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 09:47:38",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161102067",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/2 上午 09:46:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "觀亭里中正路229巷50號左右(觀亭國小前200公尺農牧場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處牧場業者未使用帆布進行覆蓋，傳出糞便異味造成空污，要求稽查員請該農戶現場執行覆蓋帆布之動作並確認，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/2 上午 09:51:03",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 08:04:59",
     "Close_Date_": "2016/11/1 下午 04:21:32"
-  },
-  {
-    "FileNo_": "INS161031014",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 上午 07:58:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "為隨西路10之3號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前路旁有一貓屍,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 08:22 岡山區清潔隊李偉彰先生回報，該處貓屍已清除完畢；並於11/01 09：40\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 08:00:33",
-    "Close_Date_": "2016/11/1 上午 09:43:17"
   }
 ]
