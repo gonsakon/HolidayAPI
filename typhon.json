@@ -341,19 +341,19 @@
   },
   {
     "FileNo_": "INS161102088",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 上午 10:14:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學29路76巷對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有廢棄家具、垃圾堆置，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 上午 11:17:43",
     "Close_Date_": ""
   },
   {
@@ -388,23 +388,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 10:14:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102086",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/2 上午 10:12:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學29路76巷對面",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有廢棄家具、垃圾堆置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -4625,20 +4608,20 @@
   },
   {
     "FileNo_": "INS161101097",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 上午 11:23:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "信義路23巷18號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址門前遭民眾丟棄廢棄物垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/01 13:49 大寮區清潔隊蔡祥音小姐回報，已清除完畢；並於11/02 11：08電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 上午 11:25:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/2 上午 11:17:34"
   },
   {
     "FileNo_": "INS161101095",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 09:53:33",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161031052",
+    "Status_": "3",
+    "Cre_Date_": "2016/10/31 上午 09:40:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "民壽街40號對面",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待處理",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處汙水孔蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/10/31 上午 09:42:49",
     "Close_Date_": ""
   }
 ]
