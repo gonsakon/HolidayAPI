@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161102232",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 06:18:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "前鎮加工區大門口前，新生路上，左轉方向",
+    "address_": "由前鎮加工區大門口前，左轉方向，在新生路上，近漁港北三路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一交通號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 06:21:06",
     "Close_Date_": ""
   },
   {
