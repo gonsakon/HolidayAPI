@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103007",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 上午 05:05:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "中正四路上近自立二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103006",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 02:38:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 08:06:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161031244",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 08:05:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "民族路阿蓮國小對面，位於哈佛補習班前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈會有忽亮忽滅情況，若路燈放亮後，光線也有不足，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 08:06:50",
     "Close_Date_": ""
   }
 ]
