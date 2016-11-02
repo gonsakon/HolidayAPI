@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS161103007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 上午 05:05:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路上近自立二路口(往愛河方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/03 05:49溝渠隊莊斯宇先生回報，該貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 05:08:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 上午 07:41:37"
   },
   {
     "FileNo_": "INS161103006",
