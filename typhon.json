@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161102222",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/2 下午 05:50:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "玉庫里1之26號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:嘉峰高幹47/左5)故障不亮從颱風期間至今已一個多月，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/2 下午 05:54:56",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102220",
     "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 05:46:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 04:52:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161031164",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 04:18:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "竹寮里竹寮路24之1號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 04:20:10",
     "Close_Date_": ""
   }
 ]
