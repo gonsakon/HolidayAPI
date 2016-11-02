@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102187",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 04:05:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維四路177號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102186",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 04:01:26",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS161102178",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 03:50:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "阿蓮區民族路536號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路燈白天未熄(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "路燈白天亮著，阿蓮區民族路536號前",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 04:05:07",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 01:53:00",
     "Close_Date_": "2016/11/2 下午 01:34:23"
-  },
-  {
-    "FileNo_": "INS161031128",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 01:46:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "井腳路71號前沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處沿線有4盞路燈白天未熄、1盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 01:51:26",
-    "Close_Date_": ""
   }
 ]
