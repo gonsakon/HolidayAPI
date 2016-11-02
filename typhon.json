@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102260",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 07:51:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102259",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 07:45:21",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161102227",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/2 下午 06:08:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐南路大同巷39號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址左側約30公尺處， 一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 05:59:19",
     "Close_Date_": "2016/11/1 下午 05:26:30"
-  },
-  {
-    "FileNo_": "INS161031200",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 05:57:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "文化二街靠近30號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈有傾斜情況，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 10:09養工處岡山養護工程隊李文義先生回報，該處經查無文化二街30\r\n號，人員於文化二街28號與文化二街30巷附近巡查，皆未發現路燈傾斜情事，因陳情人未留電無法確\r\n認，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 05:58:53",
-    "Close_Date_": "2016/11/1 下午 05:25:12"
   }
 ]
