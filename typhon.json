@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102166",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 02:45:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "朝明路223巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處「朝明路223巷」路牌底座鏽蝕損壞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102165",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 02:40:48",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161102164",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 02:40:00",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路939巷68號(第五船渠)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處水利局權管之河道與道路間的人行走道沿線均有垃圾及瓶罐，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/2 下午 02:45:38",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 上午 11:56:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161031107",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 上午 11:54:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路46號(萊爾富旁邊小巷路口)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一廣告布簾遮擋紅綠號誌燈情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 14:19 交通局智慧運輸中心蔡淑君小姐回報，該處經人員勘查，現場號誌\r\n正常沒有被遮擋情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 上午 11:55:33",
-    "Close_Date_": "2016/11/1 下午 04:56:59"
   }
 ]
