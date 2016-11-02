@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161102199",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 04:33:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大莊里大莊路326巷76號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102198",
     "Status_": "2",
     "Cre_Date_": "2016/11/2 下午 04:26:06",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161102188",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/2 下午 04:12:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎安路58號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址對面變電箱兩側皆有遭棄置垃圾包與廚餘桶在此造成髒亂惡臭，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 02:58:14",
     "Close_Date_": "2016/11/1 下午 04:23:36"
-  },
-  {
-    "FileNo_": "INS161031140",
-    "Status_": "3",
-    "Cre_Date_": "2016/10/31 下午 02:39:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "環球路至高鐵台南站下方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈約20盞皆故障不亮數月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 02:44:04",
-    "Close_Date_": ""
   }
 ]
