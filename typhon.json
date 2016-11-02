@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161102201",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/2 下午 04:34:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重文街55號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161102199",
     "Status_": "1",
     "Cre_Date_": "2016/11/2 下午 04:33:04",
@@ -800,14 +817,14 @@
   },
   {
     "FileNo_": "INS161102152",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/2 下午 01:49:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "介壽路往東(上勤洗車場對面)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處快車道上有一路面凹陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 03:04:23",
     "Close_Date_": "2016/11/1 下午 05:45:46"
-  },
-  {
-    "FileNo_": "INS161031142",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 02:58:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "崗山中街103巷1號(滷味)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址有疑似抽油煙機馬達運轉噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於10/31 16：27 環保局公害專線楊立文先生回報，稽查人員於16：10到達，稽查時該店\r\n未營業，於周界巡查未發現抽油煙機運轉導致噪音情事；並於11/01 12：08電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 03:01:52",
-    "Close_Date_": "2016/11/1 下午 12:14:49"
   }
 ]
