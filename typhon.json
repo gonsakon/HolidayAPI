@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103205",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 05:57:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞隆路與永豐路口(近八仙藥局)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路口附近飄散一股油煙異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103204",
     "Status_": "1",
     "Cre_Date_": "2016/11/3 下午 05:56:23",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161103203",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 05:55:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路28巷(大東公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該園內現有許多機車違規行駛進入，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 05:57:05",
     "Close_Date_": ""
   },
   {
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161103147",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/3 下午 02:35:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "台39線15K處",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有兩個十字路口號誌故障，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 03:35:40",
     "Close_Date_": "2016/11/2 下午 02:46:11"
-  },
-  {
-    "FileNo_": "INS161101156",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 03:30:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "忠孝二路93號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址屋後污水管阻塞，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/02 16:30水利局污水營運科鄭婷云小姐回報，該處已修復；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 03:33:09",
-    "Close_Date_": "2016/11/2 下午 07:17:27"
   }
 ]
