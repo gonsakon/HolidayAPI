@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161103105",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 12:14:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "海邊路與三多四路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處施工機具噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 12:15:11",
     "Close_Date_": ""
   },
   {
@@ -4387,20 +4387,20 @@
   },
   {
     "FileNo_": "INS161102141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 01:03:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "溫江街43號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址前空地，有住戶曬豆渣產生臭酸異味空汙，建請稽查。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/03 12：08電覆陳情人未果，故於11/03 12：14簡訊回覆：黃小姐您好，您11月2日\r\n所反映臭酸異味問題，經本府環保局前往稽查，該住家前曬豆渣，惟該址與周圍皆無臭酸異味，感謝您的熱心通\r\n報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 01:08:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 12:18:17"
   },
   {
     "FileNo_": "INS161102140",
