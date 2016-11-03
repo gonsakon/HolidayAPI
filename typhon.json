@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161103175",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 04:22:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "鳳林二路453巷37號，坤祥",
+    "address_": "鳳林二路453巷37號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址旁工廠作業，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 04:25:42",
     "Close_Date_": ""
   },
   {
@@ -9521,20 +9521,20 @@
   },
   {
     "FileNo_": "INS161101166",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/1 下午 04:28:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營下路61號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有三盞路燈故障不亮(編號:013417、013406、013416)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/02 19:42 養工處四維養護工程隊九如分隊李權融先生回報，該處已修\r\n復；並於11/03 16：26電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 04:30:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 04:26:13"
   },
   {
     "FileNo_": "INS161101165",
