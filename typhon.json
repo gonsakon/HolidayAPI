@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161103148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 02:39:08",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路上與正勤路口(往南方向)；燦坤3C前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有一綠色不明電箱遭撞毀損，電線已裸露，恐有危險，建請查處。",
+    "BeforeDesc_": "渠反映該處有一台電電箱遭撞毀損致傾倒，目前電線有裸露情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 02:44:32",
     "Close_Date_": ""
   },
   {
