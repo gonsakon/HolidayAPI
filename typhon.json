@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103263",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 09:14:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義華路(清華街至澄清路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路段沿線水溝內飄出濃重之化學異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103262",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 09:10:55",
@@ -1004,14 +1021,14 @@
   },
   {
     "FileNo_": "INS161103203",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/3 下午 05:55:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路28巷(大東公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該園內現有許多機車違規行駛進入，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 07:13:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101216",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 07:08:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "翠屏路28號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫濃厚瓦斯異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 20:01環保局公害專線李政鴻先生回報，稽查人員於19:23接到消防局通\r\n報，消防局使用五用氣體警報器測量數值為0，狀況解除，請環保局人員不需前往；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 07:10:12",
-    "Close_Date_": "2016/11/2 下午 08:02:34"
   }
 ]
