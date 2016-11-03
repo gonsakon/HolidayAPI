@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103256",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 08:40:47",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中山四路與平和東路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口四向號誌均故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103255",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 08:35:33",
@@ -341,19 +358,19 @@
   },
   {
     "FileNo_": "INS161103235",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 07:29:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區草衙二路339巷40號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "高雄市前鎮區草衙二路339巷40號旁的路燈已經快三個月都沒有亮燈，請市府盡快派人來修理",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 08:40:32",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 06:49:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101209",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/1 下午 06:42:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大鵬路119號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障，會不定時閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 06:43:47",
     "Close_Date_": ""
   }
 ]
