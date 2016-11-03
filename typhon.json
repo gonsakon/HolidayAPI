@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161104010",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 03:56:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路、重立路、曾子路",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣瀰漫化學異味，疑似工廠排放廢氣所致，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局王奕翔先生於11/04 06:30 回報：稽查人員於05:50到場，稽查時於上述\r\n路段周界巡查，未發現有化學異味空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 04:00:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 上午 06:34:09"
   },
   {
     "FileNo_": "INS161104008",
