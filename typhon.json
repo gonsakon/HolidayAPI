@@ -646,6 +646,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161103208",
+    "Status_": "4",
+    "Cre_Date_": "2016/11/3 下午 06:01:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "民生路100號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址附近目前飄散一股濃重的化學異味，疑似仁大工業區排放廢氣所致，聞後身體會產生不適，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/3 下午 06:05:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103207",
     "Status_": "4",
     "Cre_Date_": "2016/11/3 下午 06:01:11",
@@ -660,23 +677,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 06:06:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103208",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 下午 06:01:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "民生路100號附近",
-    "UnitName_": "環保局",
-    "StatusName_": "待處理",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址附近目前飄散一股濃重的化學異味，疑似仁大工業區排放廢氣所致，聞後身體會產生不適，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 06:05:51",
     "Close_Date_": ""
   },
   {
