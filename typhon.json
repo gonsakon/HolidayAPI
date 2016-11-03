@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 06:53:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路702之19號7樓",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有飄散一股疑似戴奧辛的化學異味空污,請查處。",
+    "BeforeDesc_": "渠反映該處有飄散一股疑似戴奧辛的化學異味空污,請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 上午 06:55:00",
     "Close_Date_": ""
   },
   {
