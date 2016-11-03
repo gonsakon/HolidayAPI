@@ -4404,20 +4404,20 @@
   },
   {
     "FileNo_": "INS161102284",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 09:50:01",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路上與臥龍路口(往東方向)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處有一圓形人孔蓋周邊柏油已破損，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 09：46 水利局 污水營運科 林卉霓小姐回報，該處已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 09:56:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 08:16:41"
   },
   {
     "FileNo_": "INS161102283",
@@ -5747,20 +5747,20 @@
   },
   {
     "FileNo_": "INS161102204",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 04:45:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣興街102號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處前道路有一坑洞，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 11:13 養工處 四維養護工程隊 三民分隊 趙廣慶先生回報，\r\n 該處坑洞已修復；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 04:46:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 08:17:21"
   },
   {
     "FileNo_": "INS161102203",
@@ -6240,20 +6240,20 @@
   },
   {
     "FileNo_": "INS161102175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 03:13:16",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平治街66號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該址前汙水孔蓋鬆動，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/02 16:25 水利局 污水一科 陳軍豪先生回報，該處已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 03:22:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 08:16:57"
   },
   {
     "FileNo_": "INS161102174",
