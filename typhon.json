@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103039",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 上午 08:58:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "燕巢上交流道，國道10號往南下方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處上去斜坡處路中間有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103038",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 08:49:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 10:47:58",
     "Close_Date_": "2016/11/1 上午 07:57:14"
-  },
-  {
-    "FileNo_": "INS161031276",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 10:41:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功北路5號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍致路面有油漬、碎玻璃，建請查處。",
-    "AfterDesc_": "【主管解除管制】10/31  23:51  溝渠隊杜金華先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 10:43:38",
-    "Close_Date_": "2016/11/1 上午 07:57:27"
   }
 ]
