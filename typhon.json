@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103285",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 10:29:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎安路58號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處對面變電箱旁有一藍色塑膠，裡面疑似裝有餿水致環境髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103284",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 10:24:17",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161103275",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/3 下午 09:51:16",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復橫一路192號前",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前有一高市寬頻孔蓋鬆動以致有聲響，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 09:29:04",
     "Close_Date_": "2016/11/2 上午 12:34:01"
-  },
-  {
-    "FileNo_": "INS161101238",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 09:21:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "永仁街249號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 15:27 養工處 鳳山養護工程隊 陳毓郡小姐回報，該處路燈已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 09:22:56",
-    "Close_Date_": "2016/11/3 下午 07:48:43"
   }
 ]
