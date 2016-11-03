@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103226",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 06:51:51",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新富路206號附近",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處整排店家無預警停電，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103225",
     "Status_": "1",
     "Cre_Date_": "2016/11/3 下午 06:50:56",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161103193",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/3 下午 05:35:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路與武營路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 04:58:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101174",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/1 下午 04:44:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "湖中路與中華街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈，原有三顆燈泡放亮，惟現僅剩一顆放亮過於昏暗，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 04:45:25",
     "Close_Date_": ""
   }
 ]
