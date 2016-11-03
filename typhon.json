@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161103192",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/3 下午 05:34:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢三路與大公路",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/3 下午 05:37:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103191",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 05:34:36",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161103175",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/3 下午 04:22:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路453巷37號，坤祥",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址旁工廠作業，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -1616,20 +1633,20 @@
   },
   {
     "FileNo_": "INS161103096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 上午 11:33:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔路1之66號前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電桿嚴重傾斜且快要傾倒，擔憂其危險性，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/03 17：50經詢問台電1911李小姐表示，電桿已傾斜嚴重，已填改修表移線路課處\r\n理，故轉派非網：A-TB-2016-103115賡續辦理；並於11/03 17：36電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 11:37:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 05:36:56"
   },
   {
     "FileNo_": "INS161103095",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 02:56:07",
     "Close_Date_": "2016/11/1 下午 11:59:40"
-  },
-  {
-    "FileNo_": "INS161101144",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 02:49:23",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中正路與中山路交叉",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌完全不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 18:17智慧運輸中心黃泰郎先生回報，因稍早停電，目前已復電號誌正常運\r\n作；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 02:50:41",
-    "Close_Date_": "2016/11/1 下午 11:58:44"
   }
 ]
