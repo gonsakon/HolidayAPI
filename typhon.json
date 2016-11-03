@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161103024",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 08:26:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路與興楠路26巷口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "該路口號誌綠燈時亮時滅",
+    "BeforeDesc_": "渠反映該路口號誌綠燈時亮時滅，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 08:30:18",
     "Close_Date_": ""
   },
   {
