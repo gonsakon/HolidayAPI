@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161103019",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/3 上午 08:19:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全二路與自立一路口",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161103018",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 08:12:56",
@@ -48,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 08:16:26",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161103016",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/3 上午 08:11:48",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路800號之1前",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有台電電線垂落，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/3 上午 08:20:55",
     "Close_Date_": ""
   },
   {
