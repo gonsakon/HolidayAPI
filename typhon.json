@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103274",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 09:48:33",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "成功二路上近復興三路口(中鋼大樓前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有水利局工程設置安全措施，然未有加裝警示燈，導致稍早有民眾撞上安全設備，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103273",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 09:44:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 08:22:45",
     "Close_Date_": "2016/11/2 下午 11:22:09"
-  },
-  {
-    "FileNo_": "INS161101227",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/1 下午 08:17:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路287號(允成工業區)前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 08:20:19",
-    "Close_Date_": ""
   }
 ]
