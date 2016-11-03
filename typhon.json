@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161103101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 11:53:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清安街2號(乖寶貝幼兒園)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該幼兒園使用擴音器及麥克風產生噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 11:56:01",
     "Close_Date_": ""
   },
   {
@@ -4744,20 +4744,20 @@
   },
   {
     "FileNo_": "INS161102116",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 上午 11:36:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "三誠路85號至99號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處水溝阻塞有異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/03 11：31電覆陳情人未果，故於11/03 11：55簡訊回覆：蔡先生您好，您11月2日\r\n所反映水溝阻塞問題，需擇期派員處理，已交由本府環保局賡續辦理，案件編號：A-TB-2016-102718，待處理完\r\n成再向您回覆，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 11:38:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 上午 11:59:06"
   },
   {
     "FileNo_": "INS161102115",
