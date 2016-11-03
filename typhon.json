@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103068",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 上午 10:02:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路116號至122號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道磚破損、凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103067",
     "Status_": "1",
     "Cre_Date_": "2016/11/3 上午 10:01:14",
@@ -35,36 +52,36 @@
   },
   {
     "FileNo_": "INS161103065",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 09:55:13",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "千富街261號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址對面巷口轉角處有一溝蓋破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 10:05:01",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161103063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 09:53:20",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "千富街與興化街口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該街口轉角處有一溝蓋破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 10:04:49",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 上午 07:34:37",
     "Close_Date_": "2016/11/1 下午 08:09:10"
-  },
-  {
-    "FileNo_": "INS161101020",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 上午 07:18:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "瀨南街12號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址對面騎樓變電箱後方有多包垃圾堆已多日，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 08:30鹽埕區清潔隊李建宏先生回報，現場未影響交通，經查為廢棄物因量\r\n較多，無法於11月1日清除完畢，故改派非網A-TB-2016-102095賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 上午 07:26:40",
-    "Close_Date_": "2016/11/1 下午 08:08:40"
   }
 ]
