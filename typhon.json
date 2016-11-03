@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103223",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 06:48:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路與重安路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處共2盞路燈自颱風過後故障不亮至今，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103222",
     "Status_": "1",
     "Cre_Date_": "2016/11/3 下午 06:48:21",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161103221",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 06:47:17",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "子華路74號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處汙水管線堵塞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 06:49:13",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 04:39:44",
     "Close_Date_": "2016/11/2 下午 07:20:11"
-  },
-  {
-    "FileNo_": "INS161101170",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 04:34:35",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林二路轉光華路約20公尺處",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有一台電方形孔蓋下陷，旁邊柏油破損坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 20:25台電鳳山區處陳先生回報，該處已修復；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 04:40:34",
-    "Close_Date_": "2016/11/2 下午 07:19:37"
   }
 ]
