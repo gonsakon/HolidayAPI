@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103225",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 06:50:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中都街上(近中庸街141巷)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103224",
     "Status_": "1",
     "Cre_Date_": "2016/11/3 下午 06:50:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 04:45:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101172",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 04:42:04",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重和路32號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該處有一高市寬頻孔蓋鬆動致噪音，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 20:53工務局工程企劃處第二課張陳昭宏回報，該處已修復完畢；本案不需\r\n回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 04:50:39",
-    "Close_Date_": "2016/11/2 下午 07:23:33"
   }
 ]
