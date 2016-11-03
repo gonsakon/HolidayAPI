@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161103251",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 08:33:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心二路與台鋁南巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人丟棄廢棄傢俱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 21：34 前鎮區清潔隊 莊素雲小姐回報，該處廢棄傢俱已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 08:35:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 11:32:52"
   },
   {
     "FileNo_": "INS161103250",
