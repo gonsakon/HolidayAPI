@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161103045",
+    "FileNo_": "INS161103046",
     "Status_": "1",
+    "Cre_Date_": "2016/11/3 上午 09:21:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "衙慶三街57巷與二街19巷間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161103045",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 上午 09:21:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "民族一路975號前，中央分隔島上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一共桿路燈上二盞燈泡故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 上午 09:22:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/10/31 下午 11:45:55",
     "Close_Date_": "2016/11/1 下午 05:46:24"
-  },
-  {
-    "FileNo_": "INS161031283",
-    "Status_": "5",
-    "Cre_Date_": "2016/10/31 下午 11:27:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園北路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有瀰漫油漆化學異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/01 00:44環保局南稽查盧應成先生回報，稽查人員於00:20到達，於上述地點路\r\n段巡視，並未發現空氣中有瀰漫任何異味，故未發現空污情況。",
-    "Memo_": "",
-    "Save_Date_": "2016/10/31 下午 11:28:44",
-    "Close_Date_": "2016/11/1 上午 07:54:11"
   }
 ]
