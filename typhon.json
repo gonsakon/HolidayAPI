@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103232",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 07:10:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮川三巷137號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103231",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 06:58:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 05:34:38",
     "Close_Date_": "2016/11/2 下午 12:04:50"
-  },
-  {
-    "FileNo_": "INS161101184",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 05:31:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路92號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/02 21:34養工處四維養護工程隊九如養護分隊林泉先生回報，該處已修復；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 05:32:21",
-    "Close_Date_": "2016/11/2 下午 10:43:40"
   }
 ]
