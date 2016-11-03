@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104008",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 03:42:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "孔鳳路與高鳳路口(宏聲卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家唱歌擴音器噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104007",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 03:02:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 10:44:30",
     "Close_Date_": "2016/11/2 下午 02:16:14"
-  },
-  {
-    "FileNo_": "INS161101255",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/1 下午 10:39:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "中正路88巷口對面巷道(洗衣店旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段路邊有一貓屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/01 23：15溝渠清潔隊李文山先生回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 10:41:01",
-    "Close_Date_": "2016/11/2 上午 12:03:57"
   }
 ]
