@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 07:50:23",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "信守街與尚信街口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一圓形高汙水孔蓋又再次鬆動，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 上午 07:53:30",
     "Close_Date_": ""
   },
   {
@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161104009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 03:40:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "正修路 與公園路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場仍有員警)",
     "AfterDesc_": "【主管解除管制】11/04 04:07溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 03:41:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 上午 07:56:27"
   },
   {
     "FileNo_": "INS161104007",
@@ -239,37 +239,37 @@
   },
   {
     "FileNo_": "INS161104006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 02:06:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "保德街沿線",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫化學異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/04 04:14環保局公害專線南區股潘星宇先生回報，稽查人員於03:49到達，稽查\r\n時於上述路段沿線巡查，未發現明顯化學異味以致空污之情事，另以PID量測數值為0。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 02:07:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 上午 07:56:47"
   },
   {
     "FileNo_": "INS161104005",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 01:49:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港路與和誠街口(上豪小吃部)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用擴音器唱卡拉OK，致噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/04 04:14環保局公害專線南區股 潘星宇先生回報，稽查人員於03:36到達，稽查\r\n時該址店家未營業，於周界巡查未發現擴音器聲響，以致噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 01:52:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 上午 07:56:16"
   },
   {
     "FileNo_": "INS161104004",
