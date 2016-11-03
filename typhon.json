@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161103188",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/3 下午 05:18:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "援中路過興中橋(往蚵子寮方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "橋上第二、三盞路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161103187",
     "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 05:07:45",
@@ -1667,20 +1684,20 @@
   },
   {
     "FileNo_": "INS161103087",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 上午 11:17:12",
     "ReplyUnit_": "A01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "公園路上與成功路口",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人手孔破損",
     "BeforeDesc_": "渠反映該處有一圓形不明人孔蓋旁破損坑洞,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/03 14：48 工務局工程企劃處第六課張瓊元小姐回報，經查察係屬交通部\r\n公路總局第三區之權責，已通報承辦人蔡先生，故此案轉府外案件。11/03 14：58通報交通部公路總\r\n局第三區蔡先生成功(7527820)；並於11/03 17：18電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 11:24:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 05:18:48"
   },
   {
     "FileNo_": "INS161103088",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/1 下午 02:53:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161101139",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/1 下午 02:44:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路292號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/1 下午 02:52:58",
     "Close_Date_": ""
   }
 ]
