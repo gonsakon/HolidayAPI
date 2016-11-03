@@ -3367,20 +3367,20 @@
   },
   {
     "FileNo_": "INS161103094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 上午 11:31:14",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路與山明路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障，綠燈閃一秒即轉紅燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 13:55 交通局 智慧運輸中心 蔡淑君小姐回報，已修復\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 11:33:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 11:24:51"
   },
   {
     "FileNo_": "INS161103093",
