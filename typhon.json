@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161103196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/3 下午 05:45:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路(中安路至中山地下道)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路段南北向燈沿線多盞故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/3 下午 05:48:09",
     "Close_Date_": ""
   },
   {
@@ -800,20 +800,20 @@
   },
   {
     "FileNo_": "INS161103148",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 02:39:08",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路上與正勤路口(往南方向)；燦坤3C前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處有一台電電箱遭撞毀損致傾倒，目前電線有裸露情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/03 17：50經詢問台電1911李小姐表示，經查為地面路燈開關箱傾倒，已暫時安全固\r\n定，另外移改修，故轉派非網：A-TB-2016-103122賡續辦理；並於11/03 17：47電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 02:44:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/3 下午 05:47:59"
   },
   {
     "FileNo_": "INS161103147",
