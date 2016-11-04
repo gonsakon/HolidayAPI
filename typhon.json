@@ -2619,20 +2619,20 @@
   },
   {
     "FileNo_": "INS161104119",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 12:49:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路149巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷口與巷內皆有垃圾、瓶罐，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 14:20 三民東區清潔隊黃玉嬌小姐回報，人員至現場未發現髒亂情事；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 12:51:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 10:56:25"
   },
   {
     "FileNo_": "INS161104118",
