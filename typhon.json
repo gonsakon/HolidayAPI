@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104134",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 02:18:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中興路315號之1",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址住家前有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104133",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 02:13:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 11:56:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102119",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 上午 11:52:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "創新路78號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前的行道樹下，遭丟棄許多垃圾和一台廢棄腳踏車等物，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 12:05:29",
     "Close_Date_": ""
   }
 ]
