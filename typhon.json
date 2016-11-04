@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104126",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 01:48:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "後興北路維新東街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104125",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 01:45:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 11:35:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102111",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 上午 11:21:30",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "1.擴建路1號、2.擴建路1號附近",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映1.該址前有一水溝蓋破損坑洞，2.附近有一友聯貨運業者前也有一水溝蓋破損坑洞，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 11:26:15",
     "Close_Date_": ""
   }
 ]
