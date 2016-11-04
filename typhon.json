@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161104066",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 10:29:26",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "衙竹三街與鎮中路99巷口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處進行污水下水道工程後，路面有高低落差致積水產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104064",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 10:26:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 09:19:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102050",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 上午 09:05:40",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建民路28號(恆心齋前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處近素食店前圓型孔蓋旁路面滲水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 09:17:29",
     "Close_Date_": ""
   }
 ]
