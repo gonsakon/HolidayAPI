@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104205",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 06:28:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "茄萣路二段468號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該址前有一不明方形孔蓋，施工後未鋪平整，導致孔蓋與路面有落差，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104204",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 06:21:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 04:22:23",
     "Close_Date_": "2016/11/3 下午 02:11:29"
-  },
-  {
-    "FileNo_": "INS161102192",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 下午 04:14:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "847",
-    "ZipName_": "甲仙區",
-    "address_": "中興路(廟宇旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 04:17:53",
-    "Close_Date_": ""
   }
 ]
