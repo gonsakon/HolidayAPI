@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104279",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 11:49:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "南屏路與文忠路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該址有一不明工程在施工，惟現場未設置告示牌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104278",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 11:48:14",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161104277",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 11:45:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "",
+    "address_": "旗楠路887號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處地蝦場有附設KTV，目前有卡拉O唱歌噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 11:49:13",
     "Close_Date_": ""
   },
   {
@@ -43,7 +60,7 @@
     "address_": "岡山區嘉興路37-35號前",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
+    "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "路燈不亮，轉灣崎嶇路口危險",
     "AfterDesc_": "",
     "Memo_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 08:22:20",
     "Close_Date_": "2016/11/3 下午 02:40:55"
-  },
-  {
-    "FileNo_": "INS161102267",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 08:11:00",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋新三路與橋新八路口(往東及往北方向)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映下述號誌有部分燈號故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/02 21:57交通局智慧運輸中心黃泰郎先生回報，該處號誌皆已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 08:12:23",
-    "Close_Date_": "2016/11/3 上午 08:00:48"
   }
 ]
