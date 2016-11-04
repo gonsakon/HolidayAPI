@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104103",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 11:41:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "青年一路160號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊有兩張帆布未清除，擔心下方會有積水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104102",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 11:36:10",
@@ -1344,14 +1361,14 @@
   },
   {
     "FileNo_": "INS161104023",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/4 上午 08:01:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大慶街21號後方",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有施工機具噪音及震動擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 10:28:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102088",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 上午 10:14:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學29路76巷對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有廢棄家具、垃圾堆置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 11:17:43",
     "Close_Date_": ""
   }
 ]
