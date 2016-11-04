@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104174",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 04:40:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "後鄉里順安路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中彌漫瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104173",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 04:39:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 02:47:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102160",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 下午 02:21:33",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂陽路255號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該址旁巷口處，該處水溝旁塌陷坑洞(寬80至90公分、深30公分)，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 02:28:50",
     "Close_Date_": ""
   }
 ]
