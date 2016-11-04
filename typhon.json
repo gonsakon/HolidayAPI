@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104257",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 09:18:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中華路(德奇鋼鐵至路科宿舍)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有飄散化學惡臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 09:19:57",
     "Close_Date_": ""
   },
   {
@@ -1718,20 +1718,20 @@
   },
   {
     "FileNo_": "INS161104157",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 03:24:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與重立路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈系統故障不正常，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 16：33 交通局 智慧運輸中心 李品鋒先生回報，經查該處號誌正常運作，\r\n 現場並無號誌燈系統故障情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 03:25:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:18:12"
   },
   {
     "FileNo_": "INS161104155",
