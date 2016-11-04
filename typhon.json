@@ -2823,20 +2823,20 @@
   },
   {
     "FileNo_": "INS161104107",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 11:53:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路161巷內二側",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處堆放風災後吹落的雜物未清，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 13:58鼓山區清潔隊陳麗琴小姐回報，該處已協助清除完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:54:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 11:16:09"
   },
   {
     "FileNo_": "INS161104106",
