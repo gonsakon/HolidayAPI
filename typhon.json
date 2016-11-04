@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS161104273",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 10:46:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁南路114巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路口有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 23:29 環保局 溝渠隊 李文山先生回報，人員抵達時有致電陳情人，\r\n 現場僅有其提到三角錐，惟未見有貓屍，疑似已由其他民眾代為清除；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 10:48:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 11:57:34"
   },
   {
     "FileNo_": "INS161104272",
@@ -6444,20 +6444,20 @@
   },
   {
     "FileNo_": "INS161103193",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 05:35:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路與武營路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 18:50 苓雅區清潔隊 施長興先生回報，該處皆已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 05:40:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 11:58:11"
   },
   {
     "FileNo_": "INS161103192",
