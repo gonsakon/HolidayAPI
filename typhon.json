@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161104028",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 08:18:29",
     "ReplyUnit_": "E01005",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路508號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該址前有一電桿旁路面有掏空坑洞恐電桿傾倒",
+    "BeforeDesc_": "渠反映該址前有一電桿旁基座處有掏空坑洞恐電桿傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 上午 08:30:45",
     "Close_Date_": ""
   },
   {
