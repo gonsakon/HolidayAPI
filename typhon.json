@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104253",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 08:44:10",
     "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
     "address_": "後昌路147號門前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前人行道與柏油路面斜坡處處，有高低落差情況，以致民眾容易絆倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 08:45:27",
     "Close_Date_": ""
   },
   {
@@ -10048,20 +10048,20 @@
   },
   {
     "FileNo_": "INS161102250",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 07:15:42",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙一路與油管路口",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處電線桿上有電線在冒火花，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 10：00 經詢問台電 1911 客服 梁小姐表示，經查為熔絲鏈開關不良，欲更換\r\n 新品，惟現場住戶趕工不接受斷電，先行暫時處置，另轉派非網：A-TB-2016-102911 賡續辦理；本案不需\r\n 回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 07:18:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 08:45:13"
   },
   {
     "FileNo_": "INS161102249",
