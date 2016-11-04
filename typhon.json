@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104075",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 10:40:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104074",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 上午 10:40:01",
@@ -120,19 +137,19 @@
   },
   {
     "FileNo_": "INS161104065",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 10:29:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "建國三路(皆於中華三路與自立路間，三信銀行前)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "0938555133三民區建國三路 中華 致力  三信銀行",
+    "BeforeDesc_": "渠反映現該銀行前有一糖炒栗子攤販有使用過音器產生噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 上午 10:44:03",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 09:38:11",
     "Close_Date_": "2016/11/3 下午 03:23:10"
-  },
-  {
-    "FileNo_": "INS161102057",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 上午 09:32:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "鎮中路廣場",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有颱風後有民眾丟棄之損壞廢棄物，以飼料袋裝起，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/02 10:15前鎮區清潔隊張昭和先生回報，該處廣場屬養工處權責，故改派 \r\nINS161102095賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 09:35:35",
-    "Close_Date_": "2016/11/2 下午 05:21:51"
   }
 ]
