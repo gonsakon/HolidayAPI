@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105012",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 上午 06:52:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "南星路上與鳳北路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面遭人放置樹枝及交通錐，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105010",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 06:40:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 09:18:51",
     "Close_Date_": "2016/11/4 下午 06:02:48"
-  },
-  {
-    "FileNo_": "INS161102278",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 下午 09:07:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文學路一段256號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前1盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 09:09:24",
-    "Close_Date_": ""
   }
 ]
