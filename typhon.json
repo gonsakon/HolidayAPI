@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104079",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/4 上午 10:45:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路268號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該住戶有糞水流入水溝，導致異味產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/4 上午 10:49:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104078",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 10:42:55",
@@ -123,8 +140,8 @@
     "Status_": "1",
     "Cre_Date_": "2016/11/4 上午 10:38:31",
     "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
     "address_": "新生路與金福路口",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161104050",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/4 上午 09:21:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳林路三段847巷4號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址對面路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 09:58:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102063",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 上午 09:39:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中山路739之3號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒於電線及電箱上，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/02 17：14 鳳山養護工程隊劉緯婕小姐回報，該處路樹傾倒已處理完畢；並於\r\n11/02 18：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 09:41:55",
-    "Close_Date_": "2016/11/2 下午 06:01:23"
   }
 ]
