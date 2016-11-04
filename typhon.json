@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104227",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 07:26:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路上，過中都橋南下下坡位置",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路邊有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104226",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 07:25:43",
@@ -35,36 +52,36 @@
   },
   {
     "FileNo_": "INS161104224",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 07:25:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟三路近中都濕地公園遊客服務中心旁(老新台菜餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家有使用機具致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 07:27:19",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161104223",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 07:25:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟三路近中都濕地公園遊客服務中心旁(老新台菜餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處店家排放類似柴油異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 07:27:03",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 05:35:11",
     "Close_Date_": "2016/11/3 下午 02:39:48"
-  },
-  {
-    "FileNo_": "INS161102214",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 05:16:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "仁愛路46巷11弄內",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址巷內不知何住戶於陽台燃燒雜草導致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 05:17:54",
-    "Close_Date_": ""
   }
 ]
