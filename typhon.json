@@ -171,20 +171,20 @@
   },
   {
     "FileNo_": "INS161104277",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 11:45:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠路887號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處釣蝦場有附設KTV，目前有卡拉OK唱歌噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局陳彥州先生於11/05 03:27 回報：稽查人員於02:15到場，稽查時該址為\r\n一複合式遊藝場，人員於周界巡查未發現有明顯卡拉OK噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 11:49:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 03:43:59"
   },
   {
     "FileNo_": "INS161104276",
