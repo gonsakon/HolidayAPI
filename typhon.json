@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104142",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 02:41:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "訓風砲台旁(中山路轉入)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處目前在進行路樹修剪作業，惟未將安全措施及施工告示牌放置於前方路口，造成民眾進入後才知道施工而無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104140",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 02:40:47",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161104141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 02:39:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "七賢一路民族二路口(西北角)",
+    "address_": "七賢一路與民族二路口(西北角)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口有鐵皮及木板散落路邊，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 02:42:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 12:19:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102127",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 12:09:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路729巷90弄78號、80號對面公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處人行道有兩堆樹枝堆置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 12:16:16",
     "Close_Date_": ""
   }
 ]
