@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161104195",
+    "FileNo_": "INS161104196",
     "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 06:06:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "和光街173巷巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處巷口有一路燈總開關，有冒煙情況，後續里民先關閉，目前該巷道內路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161104195",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 06:02:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路4巷13弄",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷弄內有3展養工處所設置路燈故障不亮，建請查修。",
+    "BeforeDesc_": "渠反映該處巷弄內有3盞養工處所設置路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 06:06:54",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 04:00:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102183",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 下午 03:56:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "本興路43號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮且底座有螺絲鬆動情事，建請查處。(桿號：2751)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 03:57:24",
     "Close_Date_": ""
   }
 ]
