@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104160",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 03:48:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "凱旋一路與泰順街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "傾斜45度角",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104159",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 03:32:11",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161104137",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/4 下午 02:32:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路(東往西 、靠近慶雲街)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處內側車道路面有一凹陷，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 01:49:34",
     "Close_Date_": "2016/11/3 下午 12:32:27"
-  },
-  {
-    "FileNo_": "INS161102145",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 01:30:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁雄路15之76號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建起查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 01:32:22",
-    "Close_Date_": ""
   }
 ]
