@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104107",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 11:53:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路161巷內二側",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處堆放風災後吹落的雜物未清，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104106",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 11:50:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 10:24:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102092",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 上午 10:15:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "合和里合和路45巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址巷內有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 10:21:42",
     "Close_Date_": ""
   }
 ]
