@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104256",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 09:12:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "自強街76巷13號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104255",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 09:09:57",
@@ -4982,20 +4999,20 @@
   },
   {
     "FileNo_": "INS161103256",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 08:40:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路與平和東路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口四向號誌均故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 23:33 交通局 智慧運輸中心 張寬如小姐回報：該處號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 08:43:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:13:16"
   },
   {
     "FileNo_": "INS161103255",
@@ -5016,20 +5033,20 @@
   },
   {
     "FileNo_": "INS161103254",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 08:35:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲二路與鳳南路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處共有2盞號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/03 23：33 交通局 智慧運輸中心 張寬如小姐回報，該處僅剩一紅燈尚未修復，\r\n 需通報廠商處理，故改派非網：A-TB-2016-103200 追蹤管制；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 08:36:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:12:56"
   },
   {
     "FileNo_": "INS161103253",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 06:57:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102244",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 06:52:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "河西一路上，往南方向，過中都橋",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處第二盞路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/02 21：51 四維養護工程隊 九如分隊 胡建州先生回報，該處路燈已修復\r\n 完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 06:55:49",
-    "Close_Date_": "2016/11/3 下午 08:19:15"
   }
 ]
