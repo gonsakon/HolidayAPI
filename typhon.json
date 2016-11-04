@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104254",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 09:06:14",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復橫一路192號前",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該址前有一高市寬頻孔蓋鬆動噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104253",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 08:44:10",
@@ -3996,20 +4013,20 @@
   },
   {
     "FileNo_": "INS161104017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 07:36:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路與延慶街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈疑似故障,無規則亂跳變換燈號,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 11：23　交通局　智慧運輸中心　黃泰郎先生回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 07:37:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:05:50"
   },
   {
     "FileNo_": "INS161104018",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 06:53:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102242",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 06:50:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "立信路與富國路口(彩卷行)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該店家使用擴音器叫賣致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 06:53:02",
     "Close_Date_": ""
   }
 ]
