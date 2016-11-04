@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105002",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 上午 01:09:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海三路國鉅環保",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "惡臭煙霧瀰漫",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105001",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 12:43:31",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161104276",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/4 下午 11:38:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山區嘉興路37-35號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "路燈不亮，轉灣崎嶇路口危險",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 08:25:08",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102269",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 08:15:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和七路79號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 13：08 養工處四維養護工程隊九如分隊林泉先生回報，該處已修復；並於\r\n11/03 14：40電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 08:22:27",
-    "Close_Date_": "2016/11/3 下午 02:41:25"
   }
 ]
