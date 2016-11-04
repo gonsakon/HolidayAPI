@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161104119",
+    "FileNo_": "INS161104120",
     "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 12:52:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永定街7號後面巷子",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有犬隻排泄物，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161104119",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 12:49:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路149巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷口與巷內皆有垃圾、瓶罐，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 12:51:31",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 11:03:59",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102105",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 上午 11:02:05",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "柴山大道上(介於慈惠宮至軍營之間)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該路段上有兩支台電電線桿倒塌(編號：高幹53、高幹56)，且該路段未供電致路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/02 12:59台電高雄區處葉先生回報，該處電桿為梅姬颱風時傾倒，現場電桿皆已斷\r\n電處理，此部分已請維護部門設計更換電桿，無法立即修復，故改派非網A-TB-2016-102639賡續辦理；並於\r\n11/02 15：34電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 11:10:25",
-    "Close_Date_": "2016/11/2 下午 03:40:55"
   }
 ]
