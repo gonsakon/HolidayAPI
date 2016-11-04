@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104154",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 03:16:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐二路338號、407號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前各一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104151",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 03:16:09",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161104148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 03:14:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "頂厝路130巷上(從下厝路89巷口起，西往東約莫100公尺範圍)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該區段沿線有多處路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 03:20:00",
     "Close_Date_": ""
   },
   {
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161104150",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 03:12:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清豐里常德路240巷47號、49號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處人行道上一盞路燈有時光線極微弱有時極亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 03:17:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 01:04:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102139",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 01:02:17",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎力路95號旁",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處11/01有台電施工工程維修後產生坑洞，導致陳情人牽機車時不慎摔傷，已向警方備案，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 10：00經詢問台電1911梁小姐表示，已修復完成；並於11/03 10：11\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 01:23:04",
-    "Close_Date_": "2016/11/3 上午 10:14:23"
   }
 ]
