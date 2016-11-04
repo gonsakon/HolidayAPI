@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104274",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 11:17:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路74號旁公園",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處有丟棄數十包的黑色垃圾包，另須請單位查明行為人開罰，建請查處",
+    "BeforeDesc_": "渠反映該處有丟棄數十包的黑色垃圾包，其另表示需請單位查明行為人後開罰，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 11:19:14",
     "Close_Date_": ""
   },
   {
@@ -2857,20 +2857,20 @@
   },
   {
     "FileNo_": "INS161104106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 11:50:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路100號至166號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線路燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 20:00養工處四維養護工程隊九如養護分隊余俊雄先生回報，該處皆已修復；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:51:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 11:18:51"
   },
   {
     "FileNo_": "INS161104105",
