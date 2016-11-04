@@ -1854,20 +1854,20 @@
   },
   {
     "FileNo_": "INS161104141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 02:39:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢一路與民族二路口(西北角)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口有鐵皮及木板散落路邊，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 14：58 新興區清潔隊 蔡佩華小姐回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 02:42:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 08:39:38"
   },
   {
     "FileNo_": "INS161104139",
@@ -2619,20 +2619,20 @@
   },
   {
     "FileNo_": "INS161104095",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 11:18:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "旗楠公路與鳳旗路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口散落大量保麗龍物，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 11:37 大社區清潔隊 蕭福欽先生回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:24:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 08:39:57"
   },
   {
     "FileNo_": "INS161104094",
