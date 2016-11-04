@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161104237",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 07:57:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路2014巷與翠華路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭堆置廢棄傢俱，建請查處。",
+    "BeforeDesc_": "渠反映該處遭棄置廢棄傢俱，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 08:00:40",
     "Close_Date_": ""
   },
   {
@@ -9997,20 +9997,20 @@
   },
   {
     "FileNo_": "INS161102237",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/2 下午 06:30:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文府國小",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有不明燃燒異味空污，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於 11/02 22：12 環保局 環境稽查科 中區股 王奕翔先生回報，稽查人員於22:05到達\r\n ，人員於上述地點周界巡視，未發現空氣中有飄散不明燃燒異味之情事；並於 11/04 19：53 電覆陳情人，\r\n 然陳情人表示此為長期狀況，故另派非網：A-TB-2016-103602 管制在案。",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 06:32:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 08:00:28"
   },
   {
     "FileNo_": "INS161102236",
