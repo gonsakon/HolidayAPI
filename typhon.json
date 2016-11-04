@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104254",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 09:06:14",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復橫一路192號前",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前有一高市寬頻孔蓋鬆動噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 09:08:53",
     "Close_Date_": ""
   },
   {
@@ -2737,6 +2737,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161104093",
+    "Status_": "5",
+    "Cre_Date_": "2016/11/4 上午 11:16:12",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "環潭路與新庄仔路",
+    "UnitName_": "交通局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處路口號誌秒數燈，疑似故障只有一秒時間，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 14：25 交通局 智慧運輸中心 黃泰郎先生回報，該處號誌正常運作無故障；\r\n 本案不需回電故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/11/4 上午 11:19:00",
+    "Close_Date_": "2016/11/4 下午 09:08:14"
+  },
+  {
     "FileNo_": "INS161104092",
     "Status_": "4",
     "Cre_Date_": "2016/11/4 上午 11:16:12",
@@ -2751,23 +2768,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:19:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104093",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 上午 11:16:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "環潭路與新庄仔路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處路口號誌秒數燈，疑似故障只有一秒時間，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 11:19:00",
     "Close_Date_": ""
   },
   {
