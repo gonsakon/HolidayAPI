@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104087",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 上午 11:01:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文建街與文學街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭丟棄許多廢棄傢俱，上方有註明已通知環保局惟多日未清，致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104086",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 上午 11:00:21",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161104082",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 上午 10:58:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路與中山二路口(中油加油站前方)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路有一貓屍，陳情人使用加油站之三角錐作為警示，建請查處。(陳情人請局處人員清除完成將三角錐返回加油站)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 上午 11:04:03",
     "Close_Date_": ""
   },
   {
@@ -1157,14 +1174,14 @@
   },
   {
     "FileNo_": "INS161104018",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/4 上午 07:35:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "霞海南三街(榮總後方)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路面遭堆置垃圾及馬桶，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 09:50:34",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102069",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 上午 09:46:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "復興一路上與河北一路口(近復興橋)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道上有一坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 11:13 養工處 四維養護工程隊 三民分隊 趙廣慶先生回報，該處坑洞\r\n 已修復；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 09:47:38",
-    "Close_Date_": "2016/11/3 下午 07:40:41"
   }
 ]
