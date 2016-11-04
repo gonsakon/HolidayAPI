@@ -902,20 +902,20 @@
   },
   {
     "FileNo_": "INS161104208",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 06:41:19",
     "ReplyUnit_": "E01001",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路上(捷運技擊館一號出口)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一流浪犬緊跟於陳情人，無法驅離且有欲攻擊情事，建請盡速捕捉。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 21:20農業局動物保護處捕犬大隊史明義先生回報，人員到場時已未見犬隻；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:44:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:34:26"
   },
   {
     "FileNo_": "INS161104207",
@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS161104206",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 06:29:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術館路159號(大門口)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 21:10養工處四維養護工程隊九如分隊吳明德先生回報，該處路燈已修復；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:30:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:34:56"
   },
   {
     "FileNo_": "INS161104205",
@@ -1344,20 +1344,20 @@
   },
   {
     "FileNo_": "INS161104182",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 04:49:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文康街26號正對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處空地前遭民眾丟棄床墊，酒瓶、垃圾，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 17:26鳳山區清潔楊孟珍回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:52:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:35:22"
   },
   {
     "FileNo_": "INS161104181",
