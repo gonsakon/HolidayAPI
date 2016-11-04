@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161104118",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 12:44:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大享路41巷5號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址整排都停電,疑似前方自來水公司挖管時所致,建請儘速派員處理。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/4 下午 12:48:40",
     "Close_Date_": ""
   },
   {
