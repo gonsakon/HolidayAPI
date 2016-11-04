@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104217",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 07:08:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎強街461巷弄1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處周圍空氣瀰漫不明化學異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104216",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 07:05:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 04:46:31",
     "Close_Date_": "2016/11/3 下午 08:17:21"
-  },
-  {
-    "FileNo_": "INS161102203",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 04:38:52",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "介壽路往東(上勤洗車場對面)",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處快車道上有不明管挖回填不實導致路面凹陷，無危險性，已設立交通錐，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 04:42:59",
-    "Close_Date_": ""
   }
 ]
