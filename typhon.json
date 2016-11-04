@@ -1395,20 +1395,20 @@
   },
   {
     "FileNo_": "INS161104175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 04:42:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路與永年街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "反映該址號誌燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 18：54 交通局 智慧運輸中心 李品鋒先生回報，該處已修復完畢，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:57:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:20:54"
   },
   {
     "FileNo_": "INS161104174",
@@ -1633,20 +1633,20 @@
   },
   {
     "FileNo_": "INS161104161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 03:49:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明誠三路上明華國中",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈系統故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/04 18：54 交通局 智慧運輸中心 李品鋒先生回報，該處已修復完畢，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:56:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/4 下午 09:20:38"
   },
   {
     "FileNo_": "INS161104160",
