@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104239",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 08:02:10",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "平等路近碧瑞禪寺",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104238",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 07:59:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 06:12:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102226",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/2 下午 06:08:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "仕豐南路278號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址右側第二盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 06:12:54",
     "Close_Date_": ""
   }
 ]
