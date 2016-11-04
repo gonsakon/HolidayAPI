@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 上午 06:40:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "公園路，近南安國小50公尺處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一犬屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105009",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 05:29:37",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161105007",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/5 上午 03:05:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海平路220號(金典卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家卡拉OK音樂聲響過大，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 09:09:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161102277",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 09:03:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "南華橫一路47號(眾悅洗車場)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處店家七點過後仍使用噴槍洗車機具致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 00：26 環保局環境稽查科中區股王奕翔先生回報，稽查人員於23:45到達，稽查\r\n當時，該址業者已打烊，人員於該址周界巡查，未發現有使用噴槍洗車機具致噪音情事；並於11/03 15：24電覆\r\n陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 09:04:26",
-    "Close_Date_": "2016/11/3 下午 03:40:07"
   }
 ]
