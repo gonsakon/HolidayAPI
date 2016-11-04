@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104235",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 07:54:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "寧安街39巷與智仁街51巷交接路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "寧安街39巷與智仁街51巷交接路口，路燈已二天沒亮，請派工修復!",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104234",
     "Status_": "1",
     "Cre_Date_": "2016/11/4 下午 07:51:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 下午 05:58:51",
     "Close_Date_": "2016/11/4 下午 12:36:00"
-  },
-  {
-    "FileNo_": "INS161102222",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 下午 05:50:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "玉庫里1之26號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號:嘉峰高幹47/左5)故障不亮從颱風期間至今已一個多月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 下午 05:54:56",
-    "Close_Date_": ""
   }
 ]
