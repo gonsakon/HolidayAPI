@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161104119",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/4 下午 12:49:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路149巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷口與巷內皆有垃圾、瓶罐，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161104118",
     "Status_": "2",
     "Cre_Date_": "2016/11/4 下午 12:44:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/2 上午 11:10:25",
     "Close_Date_": "2016/11/2 下午 03:40:55"
-  },
-  {
-    "FileNo_": "INS161102104",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/2 上午 10:54:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "滾水路與通燕路口(中崎有機農場)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈藍色電線垂落至該農場通道口且橫跨路面，因不確定有無電，望盡速處理，建請查處。(先與陳情人聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/2 上午 10:58:26",
-    "Close_Date_": ""
   }
 ]
