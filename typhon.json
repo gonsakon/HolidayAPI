@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105211",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 11:51:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "吉林街察哈爾一街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105210",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 11:46:12",
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161105205",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 10:54:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "愛河 七賢橋 北側",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "愛河七賢橋北側的路燈全部故障沒亮，還有部分路燈被颱風吹壞，請市政府派員處理",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 11:51:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 04:57:08",
     "Close_Date_": "2016/11/5 下午 06:20:37"
-  },
-  {
-    "FileNo_": "INS161103182",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 04:55:42",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄平街2巷60號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址污水管阻塞，希望會同處理(請午後聯絡)，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 19:00水利局污水一科謝采縈小姐回報，有與陳情人會同，經查該處為住戶本身\r\n化糞池問題，住戶表示會自行處理，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 04:59:53",
-    "Close_Date_": "2016/11/5 下午 06:19:52"
   }
 ]
