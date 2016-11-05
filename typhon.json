@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105107",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 02:19:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "裕誠路與富民路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該處號誌桿與行人燈桿貼滿違規廣告，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105106",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 02:14:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 10:43:49",
     "Close_Date_": "2016/11/4 下午 09:26:08"
-  },
-  {
-    "FileNo_": "INS161103078",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 上午 10:38:10",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "漢口街與十全二路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口十全二路上號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/3 13:55 交通局 智慧運輸中心 蔡淑君小姐回報，已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 10:38:57",
-    "Close_Date_": "2016/11/3 下午 11:19:05"
   }
 ]
