@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161105092",
+    "FileNo_": "INS161105093",
     "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 12:58:03",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "五福三路59號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "可以麻煩加強取締五福路上大立百貨前的公車停靠區，都有汽車長時間佔用，造成公車都無法靠站，讓乘客下車都要閃機車，超危險的。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161105092",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 12:56:37",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮興路48巷16號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處目前污水管阻塞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 12:58:16",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 10:04:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103064",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 上午 09:51:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中崙五路(中崙圖書館對面公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園內有多塊地磚翹起，導致許多民眾跌倒受傷，望請改善，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 09:52:09",
     "Close_Date_": ""
   }
 ]
