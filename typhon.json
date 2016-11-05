@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161105149",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 06:38:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "北平路98之70號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址旁產業道路上有2盞路燈(編號:6634、6398)故障不亮，且已先繫上紅線，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 06:40:49",
     "Close_Date_": ""
   },
   {
@@ -7753,20 +7753,20 @@
   },
   {
     "FileNo_": "INS161103265",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 09:16:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "七賢二路(七賢橋)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該橋上路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 22:29養工處四維養護工程隊九如分隊李來益先生回報，該處無危險性，為地\r\n下管線故障，故改派非網A-TB-2016-103633賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 09:18:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 06:40:09"
   },
   {
     "FileNo_": "INS161103264",
