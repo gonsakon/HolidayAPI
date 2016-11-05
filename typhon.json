@@ -6155,20 +6155,20 @@
   },
   {
     "FileNo_": "INS161104072",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 10:39:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "明義里金福路137號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處於快車道路面有一凹洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 11:37養工處四維養護工程隊前鎮養護分隊潘麗娥小姐回報，該處坑洞已修復；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:44:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:14:46"
   },
   {
     "FileNo_": "INS161104071",
