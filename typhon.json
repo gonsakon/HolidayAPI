@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105082",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/5 下午 12:07:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華二路與十全二路",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處交通號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/5 下午 12:09:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105081",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 12:00:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 09:37:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103053",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 上午 09:35:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "佛佑路5號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處空地有一大型拖車，使用空壓機換輪胎致噪音擾民，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 09:40:00",
     "Close_Date_": ""
   }
 ]
