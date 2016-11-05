@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105094",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 01:04:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "通校路與後協路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105093",
     "Status_": "1",
     "Cre_Date_": "2016/11/5 下午 12:58:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 10:05:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103063",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 上午 09:53:20",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "千富街與興化街口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該街口轉角處有一溝蓋破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 10:04:49",
     "Close_Date_": ""
   }
 ]
