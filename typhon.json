@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161105158",
+    "FileNo_": "INS161105159",
     "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 07:18:33",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區北忠街301巷",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "轉角違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161105158",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 07:18:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "海邊路(永泰路至青年二路之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段多盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 07:19:00",
     "Close_Date_": ""
   },
   {
@@ -5985,20 +6002,20 @@
   },
   {
     "FileNo_": "INS161104082",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 10:58:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路與中山二路口(中油加油站前方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路有一貓屍，陳情人使用加油站之三角錐作為警示，建請查處。(陳情人請局處人員清除完成將三角錐返還加油站)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 13:09苓雅區清潔隊楊雨霖先生回報，前往現場未發現貓屍，據加油站員工表示\r\n已有人先行清除完畢，三角錐加油站已收回；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:04:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:18:38"
   },
   {
     "FileNo_": "INS161104083",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 01:45:26",
     "Close_Date_": "2016/11/5 下午 02:32:47"
-  },
-  {
-    "FileNo_": "INS161103128",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 01:42:29",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全二路319號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處疑似有汙水管阻塞情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/3 16：36 水利局污水營運科林卉霓小姐回報，該處已修復完畢；並於\r\n11/03 17：49電覆陳情人；惟陳情人另反映淤泥問題，另派非網A-TB-2016-103127追蹤並解除管制",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 01:44:32",
-    "Close_Date_": "2016/11/3 下午 05:53:53"
   }
 ]
