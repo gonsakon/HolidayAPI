@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161105128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 04:25:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟二路與博愛一路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處目前有一不明工程圍起，無法通行，望請派員了解，建請查處。",
+    "BeforeDesc_": "渠反映該處目前有一不明工程將道路圍起，無法通行，疑似未申請，望請派員了解，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 04:26:48",
     "Close_Date_": ""
   },
   {
