@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105031",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 上午 08:55:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "鹽埕巷3號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有民眾正在燃燒垃圾，導致空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105030",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 08:47:15",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161105021",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/5 上午 08:19:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "重慶街與察哈爾二街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路面有車禍油漬，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 12:06:47",
     "Close_Date_": "2016/11/3 上午 07:54:57"
-  },
-  {
-    "FileNo_": "INS161102298",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/2 下午 11:59:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松埔路1之66號(同順鋼品)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該工廠有機具運轉噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 03:40環保局公害專線王奕翔先生回報，稽查人員於01:50到達，稽查當下人員於\r\n周界巡查，未發現機具運轉以致噪音之情事；並於11/03 11：16電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 12:02:04",
-    "Close_Date_": "2016/11/3 上午 11:25:02"
   }
 ]
