@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161105117",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 03:30:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路180號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該址目前有三部吊車進行吊掛作業，惟疑似未申請路權，且現場未設置施工告示牌亦未派員進行交通疏導，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 03:34:32",
     "Close_Date_": ""
   },
   {
