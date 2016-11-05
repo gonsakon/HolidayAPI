@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106011",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 01:29:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五福一路5巷1號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106010",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 01:21:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 05:48:09",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103195",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 05:38:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "光興街151號對面",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "殘障車位指示牌損壞",
-    "AfterDesc_": "【主管解除管制】本案針對身障停車格標誌牌傾斜損壞乙案，已轉呈人民陳情案件：A-TB-2016-103120 委由\r\n 交通局賡續辦理，待處理完成，將由承辦單位再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 05:43:13",
-    "Close_Date_": "2016/11/3 下午 05:45:30"
   }
 ]
