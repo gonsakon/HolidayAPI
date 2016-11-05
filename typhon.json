@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105145",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 06:18:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "美山路105號(近國公路附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105144",
     "Status_": "1",
     "Cre_Date_": "2016/11/5 下午 06:17:16",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161105135",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/5 下午 05:27:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "三誠路186巷內中段",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷內近一大樓圍牆邊有一黑色貓屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 01:05:01",
     "Close_Date_": "2016/11/4 上午 11:21:40"
-  },
-  {
-    "FileNo_": "INS161103115",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 01:01:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中門路上(台17線).南星路至下厝路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段中央分隔島上有多盞路燈不亮,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/03 14:14 養工處鳳山養護工程隊陳毓郡小姐回報，該處屬交通部公路總局權責，已\r\n於11/03 14:13 通報該單位陳小姐(電話：7277549)，故改派非本府案件；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 01:05:26",
-    "Close_Date_": "2016/11/5 下午 05:12:20"
   }
 ]
