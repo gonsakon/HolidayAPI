@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 01:21:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路約13幾號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處攤販營業使用發電機致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106009",
     "Status_": "1",
     "Cre_Date_": "2016/11/6 上午 01:18:47",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161105190",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/5 下午 10:08:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路與重義路口(嵩豐建設)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工地使用機具施工，致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 05:43:13",
     "Close_Date_": "2016/11/3 下午 05:45:30"
-  },
-  {
-    "FileNo_": "INS161103193",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 05:35:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多一路與武營路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 18:50 苓雅區清潔隊 施長興先生回報，該處皆已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 05:40:08",
-    "Close_Date_": "2016/11/4 下午 11:58:11"
   }
 ]
