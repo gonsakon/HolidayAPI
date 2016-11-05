@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105164",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/5 下午 07:47:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟一路與自由一路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處路口瀰漫燃燒廢棄物致惡臭空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/5 下午 07:48:24",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105161",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 07:32:44",
@@ -1038,20 +1055,20 @@
   },
   {
     "FileNo_": "INS161105100",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 01:49:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路69巷1號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處汙水管阻塞，建請查處。(陳情人要求會同處理)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 14:14水利局汙水營運科許江永先生回報，該處會同陳情人確認未有用戶接管，\r\n故需住戶自行處理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 01:50:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:47:05"
   },
   {
     "FileNo_": "INS161105099",
@@ -1072,20 +1089,20 @@
   },
   {
     "FileNo_": "INS161105098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 01:20:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "仁義街25號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有道路施工其使用機具致噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 15：24環保局環境稽查科中區股陳彥州先生回報，稽查人員於15：10到達，稽\r\n查當時人員於仁義街25號周界巡查，未發現道路施工機具噪音情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 01:22:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:47:29"
   },
   {
     "FileNo_": "INS161105097",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 02:03:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103132",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 01:55:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎強街461巷12弄3號、23號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該二址前各有1盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 02:27:34",
     "Close_Date_": ""
   }
 ]
