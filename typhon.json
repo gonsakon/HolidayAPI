@@ -8042,20 +8042,20 @@
   },
   {
     "FileNo_": "INS161103247",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/3 下午 08:03:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "中正路(介於必勝路與介壽路間)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟置一堆垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/3 20:36左營區清潔隊申華國先生回報，該處垃圾包已清除完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 08:05:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 06:36:05"
   },
   {
     "FileNo_": "INS161103246",
