@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105034",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 上午 09:13:18",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "民生二路與中華三路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處快車道往北綠燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105033",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 09:06:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 01:12:20",
     "Close_Date_": "2016/11/3 上午 07:54:33"
-  },
-  {
-    "FileNo_": "INS161103004",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 上午 12:49:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路356巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處東向西快車道上因車禍致路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/03 01:42溝渠隊杜金華先生回報，人員到場時，油漬已乾，不影響用路人安全。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 12:50:35",
-    "Close_Date_": "2016/11/3 上午 07:54:44"
   }
 ]
