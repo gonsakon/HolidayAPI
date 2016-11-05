@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105091",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 12:54:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "前庄路11號之9",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105090",
     "Status_": "1",
     "Cre_Date_": "2016/11/5 下午 12:52:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 09:47:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103061",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 上午 09:45:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎新路上未過金鼎路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處斑馬線上有一路面坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 11:13 養工處 四維養護工程隊 三民分隊 趙廣慶先生回報，該處坑洞\r\n 已修復；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 09:46:59",
-    "Close_Date_": "2016/11/3 下午 09:27:19"
   }
 ]
