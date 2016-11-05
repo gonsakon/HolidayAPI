@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS161105010",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 06:40:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "公園路，近南安國小50公尺處",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一犬屍，建請查處。",
     "AfterDesc_": "【主管解除管制】11/05 07：01 彌陀區清潔隊陳水土班長回報，該處已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 06:46:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 08:07:34"
   },
   {
     "FileNo_": "INS161105009",
@@ -154,37 +154,37 @@
   },
   {
     "FileNo_": "INS161105007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 03:05:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海平路220號(金典卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家卡拉OK音樂聲響過大，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/05 06:38 環保局環境稽查科中區股陳彥州先生回報，稽查人員於05:48到\r\n達並於05:48、05:49致電陳情人兩通均響鈴未接聽，稽查時該店家大門深鎖，未發現使用卡拉OK致噪\r\n音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 03:08:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 08:07:50"
   },
   {
     "FileNo_": "INS161105006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 02:37:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲一路與凱旋路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/05 03:20 溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 02:38:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 08:07:00"
   },
   {
     "FileNo_": "INS161105005",
@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161105004",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 01:19:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "應昇路20號(愛華卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用擴音設備唱歌，音量過大擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/05 04:57 環保局環境稽查科中區股陳彥州先生回報，稽查人員於03:40到\r\n達，於上址周界巡查未發現業者使用卡拉OK擴音器致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 01:23:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 08:08:14"
   },
   {
     "FileNo_": "INS161105003",
@@ -232,7 +232,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用擴音設備唱歌，音量過大擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/05 04:57 環保局環境稽查科中區股陳彥州先生回報，稽查人員於03:36到\r\n達，於上址周界巡查未發現業者使用卡拉OK擴音器致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 01:23:43",
     "Close_Date_": ""
