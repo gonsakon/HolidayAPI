@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161105166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 07:54:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳南路與善志街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處約1至2盞路燈自颱風過後故障不亮至今，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 07:55:39",
     "Close_Date_": ""
   },
   {
@@ -783,20 +783,20 @@
   },
   {
     "FileNo_": "INS161105121",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 03:52:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大業南路與沿海四路(靠近大業南路4號)",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一水泥電線桿有傾斜情事，恐生危險，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於11/5 16:22台電鳳山區處吳先生回報，經查正確地點位於大業南路與中亨街口，係一\r\n中華電信水泥電桿向道路傾斜，車輛行經恐有危險性，故改派非網A-TB-2016-103797賡續辦理；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 03:56:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:55:20"
   },
   {
     "FileNo_": "INS161105120",
