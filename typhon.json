@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105100",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 01:49:02",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路69巷1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處汙水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105099",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 01:22:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 10:07:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103070",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 上午 10:03:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路105巷2之45號新建案圍牆旁，大排溝旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處空地積污水孳生蚊蟲髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 10:11:44",
     "Close_Date_": ""
   }
 ]
