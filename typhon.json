@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106009",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 01:18:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106008",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 01:14:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 05:40:08",
     "Close_Date_": "2016/11/4 下午 11:58:11"
-  },
-  {
-    "FileNo_": "INS161103192",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 05:34:48",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "七賢三路與大公路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 20：28 交通局 智慧運輸中心 徐郁豐先生回報，該處號誌燈已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 05:37:21",
-    "Close_Date_": "2016/11/4 下午 08:56:28"
   }
 ]
