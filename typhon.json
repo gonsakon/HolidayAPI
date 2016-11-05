@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105081",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 12:00:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中山南路89號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍路面油漬，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105080",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 上午 11:37:58",
@@ -5322,20 +5339,20 @@
   },
   {
     "FileNo_": "INS161104046",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 09:05:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "裕誠路與華榮路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處現有瀰漫化學異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 11:29環保局公害專線中股胡清明先生回報，稽查人員於09:30到達，\r\n有致電跟陳情人告知，該處味道已散去無異味產生；並於11/05 11：59電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 09:06:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 上午 11:59:30"
   },
   {
     "FileNo_": "INS161104045",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 09:40:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103051",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 上午 09:35:30",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "富國路與新下街口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處過路溝損壞致路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 09:42:38",
     "Close_Date_": ""
   }
 ]
