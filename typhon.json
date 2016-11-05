@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105156",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 07:11:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "援港路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105155",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 07:06:11",
@@ -6342,20 +6359,20 @@
   },
   {
     "FileNo_": "INS161104059",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 10:12:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "馬卡道路與青海陸橋交叉口(青海陸橋下方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "怠速",
     "BeforeDesc_": "渠反映該處有一計程車(車牌號碼：818-J8)怠速，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/4 10：32環保局怠速專線章家豪先生回報，稽查人員於10：18抵達，有發現怠速車\r\n輛，經勸導後已熄火；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:17:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:10:50"
   },
   {
     "FileNo_": "INS161104060",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 01:40:33",
     "Close_Date_": "2016/11/3 下午 01:42:36"
-  },
-  {
-    "FileNo_": "INS161103126",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 下午 01:37:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "仁愛路一段與崎漏路口旁小路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 01:46:31",
-    "Close_Date_": ""
   }
 ]
