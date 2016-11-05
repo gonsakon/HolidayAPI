@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161105106",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 02:14:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中華地下道，往北",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該-地下道中段處有施工網子垂落，恐大車行經會勾落，建請查處。",
+    "BeforeDesc_": "渠反映該地下道中段處有施工網子垂落，恐大車行經會勾落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 02:18:32",
     "Close_Date_": ""
   },
   {
