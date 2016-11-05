@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161105088",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 12:38:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "竹南里新民路14號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 12:42:48",
     "Close_Date_": ""
   },
   {
@@ -6070,20 +6070,20 @@
   },
   {
     "FileNo_": "INS161104008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 上午 03:42:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "孔鳳路與高鳳路口(宏聲卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家唱歌擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 05:40環保局公害專線南區股 潘星宇先生回報，稽查人員於05:10到\r\n達，稽查時該址店家未營業，於周界巡查未發現卡拉OK擴音器致噪音情事；並於11/05 12：39電覆陳\r\n情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 03:44:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 12:39:34"
   },
   {
     "FileNo_": "INS161104009",
