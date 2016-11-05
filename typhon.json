@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105172",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 08:45:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "金龍路轉入力行巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處巷口及圍籬旁棄置多包垃圾包致髒亂，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105171",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 08:29:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 02:21:27",
     "Close_Date_": "2016/11/5 下午 05:08:47"
-  },
-  {
-    "FileNo_": "INS161103143",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 02:18:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎安路58號對面路燈下",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有被棄置2包垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/3 15：08 三民東區清潔隊 曾美華小姐回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 02:22:02",
-    "Close_Date_": "2016/11/5 上午 12:19:50"
   }
 ]
