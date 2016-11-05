@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106022",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 07:12:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族巷與建中路(美芝城旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有貓屍(報紙蓋著)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106021",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 06:42:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 06:06:04",
     "Close_Date_": "2016/11/5 下午 06:24:40"
-  },
-  {
-    "FileNo_": "INS161103206",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 06:00:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路71號(楠梓區監理站)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前號誌燈旁有一路燈經常不亮，望徹底查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 06:02:48",
-    "Close_Date_": ""
   }
 ]
