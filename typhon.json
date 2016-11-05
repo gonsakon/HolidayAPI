@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106005",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 12:27:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者營業中產生油煙空污，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106004",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 12:12:16",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161105199",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/5 下午 10:29:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新光路(圖書總館)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處頂樓目前有舉辦演唱活動，因使用擴音設備音量過大，造成噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 05:29:48",
     "Close_Date_": "2016/11/4 下午 12:32:11"
-  },
-  {
-    "FileNo_": "INS161103188",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 05:18:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "援中路過興中橋(往蚵子寮方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處橋上第二、三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 05:19:48",
-    "Close_Date_": ""
   }
 ]
