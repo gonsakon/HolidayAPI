@@ -2364,20 +2364,20 @@
   },
   {
     "FileNo_": "INS161105020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 08:11:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄明街與黃興路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌上遭綁一層樓高售屋廣告，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 10：06智慧運輸中心陳金木先生回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 08:12:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:27:14"
   },
   {
     "FileNo_": "INS161105019",
