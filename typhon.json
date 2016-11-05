@@ -1395,20 +1395,20 @@
   },
   {
     "FileNo_": "INS161105078",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 11:27:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋四路與中山三路口(中山凱旋陸橋；南往北方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處橋上有掉落一太空包，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 12：29前鎮區清潔隊李丁富先生回報，該處已清除完成；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 11:30:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:41:48"
   },
   {
     "FileNo_": "INS161105077",
