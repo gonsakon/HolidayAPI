@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105090",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 12:52:45",
+    "ReplyUnit_": "B01001",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "和平公園內停車場",
+    "UnitName_": "養工處2",
+    "StatusName_": "建立中",
+    "InformDesc_": "公所-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處區公所管理之水塔有漏水情事，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105089",
     "Status_": "1",
     "Cre_Date_": "2016/11/5 下午 12:40:53",
@@ -817,14 +834,14 @@
   },
   {
     "FileNo_": "INS161105040",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/5 上午 09:28:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "通昌街與惠昌街",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有工地(城揚建設)在使用擴音器與重機器致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 09:46:59",
     "Close_Date_": "2016/11/3 下午 09:27:19"
-  },
-  {
-    "FileNo_": "INS161103059",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 上午 09:43:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段，鐵路周邊路段",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映鐵路改建工程機具噪音擾民，季請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 09:44:26",
-    "Close_Date_": ""
   }
 ]
