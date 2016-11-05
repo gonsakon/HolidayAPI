@@ -13,7 +13,7 @@
     "BeforeDesc_": "渠反映該處小山坡上有地主燃燒樹葉，產生白色煙霧，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 02:53:05",
+    "Save_Date_": "2016/11/5 下午 02:53:52",
     "Close_Date_": ""
   },
   {
@@ -324,19 +324,19 @@
   },
   {
     "FileNo_": "INS161105093",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 12:58:03",
     "ReplyUnit_": "A02000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "五福三路59號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "可以麻煩加強取締五福路上大立百貨前的公車停靠區，都有汽車長時間佔用，造成公車都無法靠站，讓乘客下車都要閃機車，超危險的。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 02:54:21",
     "Close_Date_": ""
   },
   {
@@ -911,7 +911,7 @@
     "UnitName_": "環保局",
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該宮廟目前正在燃放煙火，導致空汙，建請查處。",
+    "BeforeDesc_": "渠反映該宮廟目前正在燃放鞭炮，導致空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:25:18",
