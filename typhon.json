@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161106021",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 06:42:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大華路200號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處瀰漫濃厚燒焦異味，造成民眾呼吸道不適，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/6 上午 06:43:22",
     "Close_Date_": ""
   },
   {
