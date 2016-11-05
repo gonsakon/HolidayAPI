@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105165",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/5 下午 07:48:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中華路與順安路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處飄散不明化學異味致空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/5 下午 07:51:22",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105164",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 07:47:46",
@@ -834,37 +851,37 @@
   },
   {
     "FileNo_": "INS161105115",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 03:10:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路382號與384號之間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處前方機車停車格內有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 15：57三民西區清潔隊王永豐先生回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 03:17:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:51:46"
   },
   {
     "FileNo_": "INS161105114",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 03:03:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "三誠路186巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路邊有兩隻幼貓屍體，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 15:28鳳山區清潔隊林家彤小姐回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 03:18:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/5 下午 07:51:23"
   },
   {
     "FileNo_": "INS161105113",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 02:02:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103135",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 下午 02:00:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "和盛西街12巷4號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路樹傾倒(二)",
-    "BeforeDesc_": "渠反映該處一路樹因風災傾倒僅派員砍除樹幹，目前仍遺留樹頭未移除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 02:02:57",
     "Close_Date_": ""
   }
 ]
