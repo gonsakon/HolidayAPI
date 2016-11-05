@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105175",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 08:55:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "潮安路上往工業區方向近華中街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處飄散戴奧辛及廢五金惡臭異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105174",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 08:48:40",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 02:23:09",
     "Close_Date_": "2016/11/5 下午 05:08:09"
-  },
-  {
-    "FileNo_": "INS161103141",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 02:20:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣東二街1號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面下陷(一)",
-    "BeforeDesc_": "渠反映該處路中的路面不明原因有下陷,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 02:21:58",
-    "Close_Date_": ""
   }
 ]
