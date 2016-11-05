@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161105111",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/5 下午 02:47:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "清豐路51號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處水溝阻塞致惡臭，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161105110",
     "Status_": "2",
     "Cre_Date_": "2016/11/5 下午 02:37:04",
@@ -358,19 +375,19 @@
   },
   {
     "FileNo_": "INS161105089",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/11/5 下午 12:40:53",
     "ReplyUnit_": "B02000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "833台灣高雄市鳥松區中正路311號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "地下道、路面積水(一)",
     "BeforeDesc_": "中正路神農路口附近速邁樂加油站旁建璋汽車門口圓孔蓋冒水",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/5 下午 02:47:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 上午 10:59:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103081",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 上午 10:54:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林三路587號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處前電線桿上方有電線垂落半空中，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 11：23 台電 鳳山區處 朱先生回報，該處屬於第四台線路，已暫時固定，\r\n 故改派非網：A-TB-2016-102951 委由新聞局賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 上午 10:57:16",
-    "Close_Date_": "2016/11/4 下午 09:25:10"
   }
 ]
