@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 07:57:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "安寧街與瀋陽街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞LED路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107014",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 07:46:50",
@@ -783,20 +800,20 @@
   },
   {
     "FileNo_": "INS161106142",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 下午 08:10:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "北斗街與北瑞街交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處自行車道行人通行號誌鈕故障，按下無反應，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/06 22:07 交通局智慧運輸中心張寬如小姐回報，正確地點應為北斗街與北端街\r\n交叉口，惟人員前往現場巡查，並未發現自行車道行人通行號誌鈕，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 08:11:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 上午 07:57:35"
   },
   {
     "FileNo_": "INS161106140",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:49:53",
     "Close_Date_": "2016/11/5 下午 07:16:37"
-  },
-  {
-    "FileNo_": "INS161104078",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 10:42:55",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正二路70號與泰豐街口三角窗",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋往下沉約10公分，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 10:45:00",
-    "Close_Date_": ""
   }
 ]
