@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106082",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 01:04:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高雄大學西路833巷內魚塭",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處魚塭內有部分魚群往生，惟魚屍曝曬產生腐爛惡臭氣味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106081",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 12:51:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 09:29:04",
     "Close_Date_": "2016/11/4 上午 08:04:30"
-  },
-  {
-    "FileNo_": "INS161103266",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 下午 09:18:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "和平路100巷79號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 09:19:34",
-    "Close_Date_": ""
   }
 ]
