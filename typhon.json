@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161106084",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 01:27:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "凱旋三路與三多二路路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一盞號誌燈下垂，欲要掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/6 下午 01:28:25",
     "Close_Date_": ""
   },
   {
