@@ -6070,20 +6070,20 @@
   },
   {
     "FileNo_": "INS161104199",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 06:09:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "國昌路71巷6弄口",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映台電於該處6米以下巷道進行管挖工程，然回填不實導致巷弄口有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/06 10：44 經詢問台電1911黃小姐表示，現場坑洞已修補。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:18:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/6 上午 10:47:04"
   },
   {
     "FileNo_": "INS161104198",
