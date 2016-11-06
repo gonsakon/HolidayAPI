@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106161",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 09:50:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞和街與瑞祥街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映於瑞祥街號誌燈下有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106160",
     "Status_": "1",
     "Cre_Date_": "2016/11/6 下午 09:44:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 09:31:15",
     "Close_Date_": "2016/11/5 下午 04:10:34"
-  },
-  {
-    "FileNo_": "INS161104050",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 09:21:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "鳳林路三段847巷4號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址對面路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 09:23:55",
-    "Close_Date_": ""
   }
 ]
