@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106164",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 10:03:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路221號(楠梓特殊學校對面車道)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處因車輛自撞安全島致路面遺留油漬及車輛散落物，有員警於現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106163",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 09:57:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 09:49:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104053",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 上午 09:32:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "1.大順二路上與民族一路、2.大順二路上與合順街口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映此兩路口號誌秒差之前為2秒現在為20秒，造成車輛會阻塞至地點1.，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 09:33:56",
     "Close_Date_": ""
   }
 ]
