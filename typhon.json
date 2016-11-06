@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106168",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 11:00:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "萬金路上(由旗楠公路轉進約10公尺處)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中濃厚香精異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106167",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 10:49:49",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161106154",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/6 下午 09:08:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "衙慶三街57巷61號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址後方旁有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:13:19",
     "Close_Date_": "2016/11/5 下午 07:09:10"
-  },
-  {
-    "FileNo_": "INS161104057",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 上午 09:59:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "新厝路(新厝公墓附近，往大寮方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有排水溝阻塞，致水滿溢出淹到公墓，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/04 10:06小港區清潔隊廖美玲小姐回報，致電陳情人確認正確地點應在大寮區，故\r\n改派INS161104058後續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 10:01:20",
-    "Close_Date_": "2016/11/5 下午 07:09:38"
   }
 ]
