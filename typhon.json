@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106092",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/6 下午 02:47:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "林園南路275號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址旁有民眾燃燒不明物產生大量白煙，造成空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/6 下午 02:48:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106091",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 02:18:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 10:09:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103276",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/3 下午 09:51:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁信巷203之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 09:54:53",
     "Close_Date_": ""
   }
 ]
