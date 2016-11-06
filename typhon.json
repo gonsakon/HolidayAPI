@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106120",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 06:08:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢二路上(七賢橋)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106119",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 06:05:10",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161106098",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/6 下午 03:57:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林四路與中興路之間(忠義派出所對面)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有疑似燃燒稻草之空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 05:07:35",
     "Close_Date_": "2016/11/5 上午 11:52:34"
-  },
-  {
-    "FileNo_": "INS161104010",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 上午 03:56:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文自路、重立路、曾子路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣瀰漫化學異味，疑似工廠排放廢氣所致，建請查處。",
-    "AfterDesc_": "【主管解除管制】環保局王奕翔先生於11/04 06:30 回報：稽查人員於05:50到場，稽查時於上述\r\n路段周界巡查，未發現有化學異味空汙情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 04:00:17",
-    "Close_Date_": "2016/11/4 上午 06:34:09"
   }
 ]
