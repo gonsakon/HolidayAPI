@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161107013",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/7 上午 07:43:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "安康路上，與憲政路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處路口有一路牌將快掉落，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/7 上午 07:51:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107012",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 07:35:17",
@@ -630,37 +647,37 @@
   },
   {
     "FileNo_": "INS161106150",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 下午 08:51:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由三路與孟子路口(自由黃昏店附近)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近目前飄散一股不明刺鼻異臭味，聞後致身體不適，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/06 23：58 環保局環境稽查科中區股潘政&#23791;先生回報，稽查人員於21:10到達，\r\n人員於上述地點周界巡查，未發現有飄散不明刺鼻異味之情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 08:52:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 上午 07:54:28"
   },
   {
     "FileNo_": "INS161106149",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 下午 08:39:25",
     "ReplyUnit_": "E01001",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "橋中街上，於橋頭國中對面街道",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處街上公園內有4隻剛出生幼貓，望請協助收容，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/06 21:59 農業局動物保護處捕犬大隊楊志強先生回報，其表示人員至現場查看\r\n未見母貓，如將4隻幼貓帶回，擔心因為未有母貓哺乳會造成幼貓死亡，會再請明日早班人員前往處\r\n理，已致電陳情人說明，陳情人表示接受，故改派非網A-TB-2016-104122賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 08:41:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 上午 07:55:09"
   },
   {
     "FileNo_": "INS161106148",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:45:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104077",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 10:42:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "光明一巷(由本洲路轉進)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址第二、第三支路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 10:44:53",
     "Close_Date_": ""
   }
 ]
