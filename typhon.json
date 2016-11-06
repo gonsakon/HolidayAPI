@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106115",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 05:58:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "華美路182號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106114",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 05:55:28",
@@ -6563,14 +6580,14 @@
   },
   {
     "FileNo_": "INS161104218",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/4 下午 07:15:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "蓮潭路130號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前2盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 02:07:15",
     "Close_Date_": "2016/11/4 上午 07:56:47"
-  },
-  {
-    "FileNo_": "INS161104005",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 上午 01:49:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "漁港路與和誠街口(上豪小吃部)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者使用擴音器唱卡拉OK，致噪音擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/04 04:14環保局公害專線南區股 潘星宇先生回報，稽查人員於03:36到達，稽查\r\n時該址店家未營業，於周界巡查未發現擴音器聲響，以致噪音之情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 01:52:42",
-    "Close_Date_": "2016/11/4 上午 07:56:16"
   }
 ]
