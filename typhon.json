@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 05:54:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "永榮二街426號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處前人行道磚皆遭樹根突出致多處翹起情事，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107009",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 上午 05:52:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:44:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104073",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 10:39:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "光明一巷(由本洲路轉進)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址首支路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 10:44:50",
     "Close_Date_": ""
   }
 ]
