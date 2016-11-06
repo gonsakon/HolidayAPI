@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106167",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/6 下午 10:49:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路358號對面(如意小吃部)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處業者使用卡拉OK設備聲響過大致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/6 下午 10:53:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106166",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 10:38:08",
@@ -8892,14 +8909,14 @@
   },
   {
     "FileNo_": "INS161104132",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/4 下午 02:09:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "哈爾濱街35巷16號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:01:20",
     "Close_Date_": "2016/11/5 下午 07:09:38"
-  },
-  {
-    "FileNo_": "INS161104055",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 上午 09:54:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "英明路5巷42號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一盞路燈底座恐有鬆脫及位移,恐有傾倒危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 09:55:38",
-    "Close_Date_": ""
   }
 ]
