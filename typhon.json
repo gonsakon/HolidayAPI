@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161106128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 06:30:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "華仁街與華山路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路口有一盞掛設「華仁街」路牌路燈照射角度朝上，建請修繕。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/6 下午 06:31:33",
     "Close_Date_": ""
   },
   {
@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161104177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/4 下午 04:45:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "南屏路293巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷內有私人工程施工，造成道路有許多砂土、揚塵，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/04 17:17左營區清潔隊蔡元純先生回報，該處稽查人員已前往現場勘查，勸導業者協\r\n助進行灑水清潔作業改善，上述情況已與陳情人說明完成，陳情人表示接受，此結案；並於11/06 18:27覆陳情人，\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:49:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/6 下午 06:30:24"
   },
   {
     "FileNo_": "INS161104176",
