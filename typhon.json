@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106072",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 11:33:29",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多三路轉入修文街上約10公尺處",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人手孔凹陷",
+    "BeforeDesc_": "渠反映該處有一不明人孔蓋旁凹陷致坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106071",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 11:24:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 08:44:03",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103256",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 08:40:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路與平和東路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口四向號誌均故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 23:33 交通局 智慧運輸中心 張寬如小姐回報：該處號誌已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 08:43:42",
-    "Close_Date_": "2016/11/4 下午 09:13:16"
   }
 ]
