@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106031",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 07:59:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平二路與廣西路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映圍籬旁有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106030",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 07:52:55",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161106017",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/6 上午 05:30:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路與重立路",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有化學異味造成空污，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 06:59:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103215",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 06:37:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "復安里大岡山215之9號(竹村庭園茶藝)，往下坡福全佛堂方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處第一盞、第二盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 06:59:24",
     "Close_Date_": ""
   }
 ]
