@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106165",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/6 下午 10:05:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路上(欲往國道1號前200公尺處)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面沿線多處凹凸不平，建請查處。(陳情人要求處理情形由局處人員與其電覆)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/6 下午 10:10:52",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106164",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 10:03:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 09:53:58",
     "Close_Date_": "2016/11/5 下午 07:08:49"
-  },
-  {
-    "FileNo_": "INS161104054",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 09:48:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "楠屏路與神農路口(近大樓旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口有一LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 09:49:50",
-    "Close_Date_": ""
   }
 ]
