@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106084",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 01:27:33",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "凱旋三路與三多二路路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處一盞號誌燈下垂，欲要掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106083",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 01:07:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 09:44:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161103268",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/3 下午 09:37:19",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路543巷25號(弘揚大樓前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝壁有一直經約15公分破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 09:42:22",
     "Close_Date_": ""
   }
 ]
