@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107002",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 12:34:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山路與大東二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107001",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 12:23:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 10:44:03",
     "Close_Date_": "2016/11/5 下午 07:12:00"
-  },
-  {
-    "FileNo_": "INS161104066",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 上午 10:29:26",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "衙竹三街與鎮中路99巷口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處進行污水下水道工程後，路面有高低落差致積水產生，建請查處。(人員前往時先行聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 10:33:07",
-    "Close_Date_": ""
   }
 ]
