@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106055",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 上午 10:10:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "修文街146巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該巷內路燈沿線白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106054",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 上午 10:02:56",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/3 下午 07:41:29",
     "Close_Date_": "2016/11/5 下午 06:34:29"
-  },
-  {
-    "FileNo_": "INS161103239",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/3 下午 07:39:48",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋新六路與橋新七路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該交叉口一盞號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/03 21：27 交通局 智慧運輸中心 徐郁豐先生回報，該處號誌燈已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/3 下午 07:42:03",
-    "Close_Date_": "2016/11/4 下午 09:11:51"
   }
 ]
