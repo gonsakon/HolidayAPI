@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161106109",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 05:19:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄和路與清華街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路口號誌燈皆故障閃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/6 下午 05:20:29",
     "Close_Date_": ""
   },
   {
