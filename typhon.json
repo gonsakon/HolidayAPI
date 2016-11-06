@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161106134",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/6 下午 06:55:41",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "竹圍里富貴路上",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一白色狐狸犬疑似遭遺棄，目前於馬路上亂竄對民眾有警戒心，擔憂因此受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161106133",
     "Status_": "2",
     "Cre_Date_": "2016/11/6 下午 06:52:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 08:10:34",
     "Close_Date_": "2016/11/5 下午 02:36:56"
-  },
-  {
-    "FileNo_": "INS161104024",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 上午 08:06:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "七成街與保華一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處七成街之路牌歪斜，望請扶正，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 08:07:05",
-    "Close_Date_": ""
   }
 ]
