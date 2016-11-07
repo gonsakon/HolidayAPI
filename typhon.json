@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107122",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 02:06:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招里新厝巷9之10號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈燈罩歪斜(編號:高幹山燕86分3)；一只路燈白天未熄，建請查處。",
+    "BeforeDesc_": "渠反映該址有一盞路燈燈罩歪斜(編號:高幹山燕86分3)；一盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 02:08:47",
     "Close_Date_": ""
   },
   {
