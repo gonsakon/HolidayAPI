@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107195",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 05:46:48",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "凱旋三路21號至41號周邊騎樓人行道",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "該路段全線騎樓人行道違規停車嚴重",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107194",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 05:45:13",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161107193",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 05:44:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路675巷24弄6號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前一盞路燈從颱風至今故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 05:46:22",
     "Close_Date_": ""
   },
   {
@@ -9164,14 +9181,14 @@
   },
   {
     "FileNo_": "INS161105037",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/5 上午 09:18:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "前庄路3號之2",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞LED燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 09:19:57",
     "Close_Date_": "2016/11/5 上午 11:40:33"
-  },
-  {
-    "FileNo_": "INS161104256",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/4 下午 09:12:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "自強街76巷13號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 09:15:41",
-    "Close_Date_": ""
   }
 ]
