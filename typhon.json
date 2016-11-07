@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107209",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 06:45:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路190巷192號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 06:45:46",
     "Close_Date_": ""
   },
   {
@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161107205",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 06:36:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "844",
     "ZipName_": "六龜區",
     "address_": "六龜大橋旁無名路(河邊巷對面)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處無名路為紅磚、磁磚鋪成，現已多處翻起，造成行人及機車行經時皆會有摔倒及滑倒危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 06:45:39",
     "Close_Date_": ""
   },
   {
@@ -239,20 +239,20 @@
   },
   {
     "FileNo_": "INS161107195",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 下午 05:46:48",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋三路21號至41號周邊騎樓人行道",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "該路段全線騎樓人行道違規停車嚴重",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案已於11/07 18:37代通報至110勤務指揮中心陳警員成功並提供陳情人聯電。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 06:38:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 06:46:10"
   },
   {
     "FileNo_": "INS161107194",
