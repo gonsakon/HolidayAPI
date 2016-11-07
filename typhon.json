@@ -9657,20 +9657,20 @@
   },
   {
     "FileNo_": "INS161105088",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 下午 12:38:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "竹南里新民路14號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/7 11：45養工處岡山養護工程隊林欣怡小姐回報，該處無立即危險性，須備料安定器，\r\n故轉派非網A-TB-2016-104323；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 12:42:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 11:21:13"
   },
   {
     "FileNo_": "INS161105087",
@@ -9861,20 +9861,20 @@
   },
   {
     "FileNo_": "INS161105075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 11:02:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "長興街2號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該處路燈故障白天未熄，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/07 14:04養工處四維養護工程隊九如分隊楊誠先生回報，該處已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 11:03:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 11:21:40"
   },
   {
     "FileNo_": "INS161105074",
