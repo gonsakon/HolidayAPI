@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107182",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 04:59:54",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "林森一路與民生一路口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該路口靠近快車道附近因雨水箱涵工程導致有兩尺凹陷坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 05:06:39",
     "Close_Date_": ""
   },
   {
@@ -8535,20 +8535,20 @@
   },
   {
     "FileNo_": "INS161105064",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/5 上午 10:38:09",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路904巷35弄2之1號對面",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處一溝蓋凹陷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/05 11:51 水利局防洪維護科郭明政先生回報，該處無危險性，惟因該處為六米以下\r\n道路，需由區公所辦理，故改派非網A-TB-2016-103726 辦理；並於11/07 17：00電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:40:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 05:05:52"
   },
   {
     "FileNo_": "INS161105063",
