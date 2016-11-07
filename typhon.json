@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107135",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 02:41:27",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁勇路96號斜對面",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "渠反映該處剛有新設一支電線桿，惟電線桿有歪斜情事，望請改善，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107134",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 02:31:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:18:06",
     "Close_Date_": "2016/11/6 上午 10:47:04"
-  },
-  {
-    "FileNo_": "INS161104198",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 06:08:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路136巷7號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 06:09:51",
-    "Close_Date_": ""
   }
 ]
