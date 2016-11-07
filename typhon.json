@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107245",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 09:15:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路1024號至1030之3號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有飄散酸臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107244",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 09:14:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 08:48:08",
     "Close_Date_": "2016/11/6 下午 02:07:58"
-  },
-  {
-    "FileNo_": "INS161105028",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 上午 08:39:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "東方路370號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前內側車道有一黑色狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 10：13湖內區清潔隊蔡明亮先生回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 08:42:47",
-    "Close_Date_": "2016/11/5 下午 07:31:20"
   }
 ]
