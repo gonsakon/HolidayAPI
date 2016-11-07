@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107185",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/7 下午 05:07:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫路148之2號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有一路面坑洞，且擺放三角錐已兩星期尚未處理，影響店家營業，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/7 下午 05:11:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107184",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 05:04:45",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161107163",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 下午 04:12:20",
     "ReplyUnit_": "A01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路與光華路",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "渠反映該處有一不明長方形孔蓋有下陷情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 08:59:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104247",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 08:32:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段(青年公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該處園內有多輛機車、腳踏車騎乘於步道上，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/04 23:01養工處鳳山養護工程隊韓莉梅小姐回報，該處車輛經勸阻後已離開；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 08:33:31",
-    "Close_Date_": "2016/11/4 下午 11:13:18"
   }
 ]
