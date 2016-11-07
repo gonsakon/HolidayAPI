@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107177",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 04:40:43",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區三多二路369號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "商家將待銷售及維修機車佔用人行道上已久，妨礙行人通行",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107176",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 04:39:41",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161107174",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 04:38:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路與林森四路口(林森四路上，HONDA旁邊)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道樹穴僅放置水泥塊於其中，陳情人希望局處將水泥塊清除，並將樹穴填平，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 04:41:02",
     "Close_Date_": ""
   },
   {
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS161107152",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 下午 03:22:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "角宿路2號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前一路燈故障不亮許久，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 08:04:56",
     "Close_Date_": "2016/11/5 下午 04:26:23"
-  },
-  {
-    "FileNo_": "INS161104239",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 08:02:10",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "平等路近碧瑞禪寺",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/04  21：05  農業局 動物保護處 陳家勝先生回報，人員到達該處時未見貓隻，\r\n 另與陳情人確認，陳情人亦表示稍早去看時，也未見貓隻，推測貓隻已自行離開；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 08:04:55",
-    "Close_Date_": "2016/11/4 下午 09:21:57"
   }
 ]
