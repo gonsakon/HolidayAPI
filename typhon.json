@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107097",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 11:56:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路路356巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處分隔島一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107096",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 11:45:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:56:42",
     "Close_Date_": "2016/11/4 下午 09:20:38"
-  },
-  {
-    "FileNo_": "INS161104160",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 03:48:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋一路與泰順街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處轉角有一路樹傾斜45度角，造成民眾行經恐撞到，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 03:50:38",
-    "Close_Date_": ""
   }
 ]
