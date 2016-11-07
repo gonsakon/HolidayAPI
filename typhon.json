@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107242",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 09:05:35",
+    "ReplyUnit_": "",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "新興街210號前",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "新興街先前開挖馬路回填不實導致下陷，照片圈起來的地方就是下陷處，請市府派員處理",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107241",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 09:03:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 08:39:28",
     "Close_Date_": "2016/11/5 下午 07:29:59"
-  },
-  {
-    "FileNo_": "INS161105026",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 上午 08:36:07",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "哈爾濱街與察哈爾二街",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有4個號誌故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 09:35交通局智慧運輸中心陳金木先生回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 08:37:29",
-    "Close_Date_": "2016/11/5 下午 07:29:28"
   }
 ]
