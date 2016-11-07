@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108005",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 06:10:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路與山東街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場仍有員警)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108004",
     "Status_": "4",
     "Cre_Date_": "2016/11/8 上午 04:32:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:40:14",
     "Close_Date_": "2016/11/7 下午 05:05:52"
-  },
-  {
-    "FileNo_": "INS161105063",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 上午 10:37:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "保生路350號(歌德文具前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/5 11：02湖內區清潔隊蔡明亮先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 10:42:58",
-    "Close_Date_": "2016/11/5 下午 07:37:49"
   }
 ]
