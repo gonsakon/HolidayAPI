@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161107132",
+    "FileNo_": "INS161107133",
     "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 02:28:57",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中興路一段(往六龜新威方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路段上沿線號誌桿遭綁過期廣告旗幟，影響市容，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161107132",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 02:25:00",
     "ReplyUnit_": "A01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "文橫三路與一心二路",
+    "address_": "文橫三路與一心二路口",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映11/4該處有不明開挖工程施工後，回填不實現凹凸不平且碎石不斷脫落，請致行車危險，建請查處。",
+    "BeforeDesc_": "渠反映11/4該處有不明開挖工程施工後，回填不實，現路面凹凸不平且碎石不斷脫落，請致行車危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 02:29:14",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:09:25",
     "Close_Date_": "2016/11/5 下午 03:23:09"
-  },
-  {
-    "FileNo_": "INS161104196",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 06:06:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "和光街173巷巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷口有一路燈總開關，有冒煙情況，後續里民先關閉，目前該巷道內路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 06:08:15",
-    "Close_Date_": ""
   }
 ]
