@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161107019",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 07:59:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "聖得路上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路段共有四盞路燈故障不亮，分別編號為:(141441-08、141441-11、141441-12及141441-13 ，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 上午 08:06:13",
     "Close_Date_": ""
   },
   {
