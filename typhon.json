@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108003",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 03:58:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "武慶二路56巷(7-11前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108002",
     "Status_": "4",
     "Cre_Date_": "2016/11/8 上午 02:53:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:41:58",
     "Close_Date_": "2016/11/7 下午 11:21:18"
-  },
-  {
-    "FileNo_": "INS161105061",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 上午 10:33:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三鳳宮",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前舉辦活動擴音器噪音，建請查處。(陳情人要求人員到場務必聯繫)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 10:35:12",
-    "Close_Date_": ""
   }
 ]
