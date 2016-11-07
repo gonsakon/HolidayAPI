@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161108009",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 07:33:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路與新民路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路口號誌紅燈，疑似故障不變燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 07:34:49",
     "Close_Date_": ""
   },
   {
@@ -409,20 +409,20 @@
   },
   {
     "FileNo_": "INS161107260",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 下午 10:16:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一德路上(民權二路轉進一德路右邊第七攤)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處業者使用擴音器叫賣致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/08 01:32環保局南區股侯尊仁先生回報，稽查人員於01:19到達，稽查時夜市攤\r\n販已經打烊，於上述地點未發現有相關噪音產生，故未發現噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 10:17:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 上午 07:37:46"
   },
   {
     "FileNo_": "INS161107259",
@@ -511,20 +511,20 @@
   },
   {
     "FileNo_": "INS161107254",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 下午 09:43:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路上，介於銘傳路與逢甲路間，近全聯福利中心",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處路段沿線瀰漫一股不明化學刺鼻異味，致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/07 23:44 環保局環境稽查科中區股楊昌翰先生回報，稽查人員於23:15到達，稽\r\n查當時於所述路段巡查，未發現明化學刺鼻異味致空污情事，現場使用PID量測可燃性氣體數值為\r\n0PPM，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 09:48:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 上午 07:37:09"
   },
   {
     "FileNo_": "INS161107253",
