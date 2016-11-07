@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107275",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 11:39:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和路1號至漢民路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣瀰漫不知名氣體，致呼吸不順，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107274",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 11:29:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:33:34",
     "Close_Date_": "2016/11/6 下午 02:52:58"
-  },
-  {
-    "FileNo_": "INS161105058",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 上午 10:24:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "三鳳宮",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該宮廟目前正在燃放鞭炮，導致空汙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 10:25:18",
-    "Close_Date_": ""
   }
 ]
