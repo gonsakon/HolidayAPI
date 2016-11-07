@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107039",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 09:10:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中正三路(介於中山一路至南華路)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107038",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 09:07:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 上午 11:45:09",
     "Close_Date_": "2016/11/5 下午 04:21:22"
-  },
-  {
-    "FileNo_": "INS161104102",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 上午 11:36:10",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段與經武路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈不會變換燈號，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/04 14：25 交通局 智慧運輸中心 黃泰郎先生回報，該處號誌正常運作無故障；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 上午 11:36:57",
-    "Close_Date_": "2016/11/4 下午 09:10:19"
   }
 ]
