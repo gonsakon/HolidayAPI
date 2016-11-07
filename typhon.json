@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107109",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 12:41:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "和平路100巷79號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107108",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 12:34:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:41:45",
     "Close_Date_": "2016/11/4 下午 09:38:35"
-  },
-  {
-    "FileNo_": "INS161104172",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 04:38:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路287號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前人行道磚翹起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 04:40:11",
-    "Close_Date_": ""
   }
 ]
