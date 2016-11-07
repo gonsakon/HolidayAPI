@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161107094",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 11:42:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉興路37之35號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前路燈不亮。煩請派修，謝謝您。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 12:06:58",
     "Close_Date_": ""
   },
   {
