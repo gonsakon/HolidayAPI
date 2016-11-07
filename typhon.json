@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107228",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 08:13:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路438號左前方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址左前方快車道有有一修補過痕跡，目前仍有凹陷情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107227",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 08:10:54",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161107219",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 下午 07:30:10",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "1.輜汽路輜與輜汽北二路口 2.武義街與輜汽路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該兩路口號誌燈故障未有連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 07:11:18",
     "Close_Date_": "2016/11/5 下午 07:25:19"
-  },
-  {
-    "FileNo_": "INS161105011",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/5 上午 06:52:25",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "裕誠路270巷內，近裕誠路，優福加水站旁邊",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝蓋旁水泥破損，恐有危險，現場無放置安全錐，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 06:57:39",
-    "Close_Date_": ""
   }
 ]
