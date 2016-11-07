@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107119",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 01:35:54",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路356巷30號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址店家騎樓的裝潢包柱內,疑似有貓受困在該包柱內,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107118",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 01:25:41",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161107105",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 下午 12:22:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自由路99之4號(公寓)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處樓下有住戶在進行裝潢，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 04:53:23",
     "Close_Date_": "2016/11/4 下午 09:23:28"
-  },
-  {
-    "FileNo_": "INS161104182",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 04:49:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文康街26號正對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處空地前遭民眾丟棄床墊，酒瓶、垃圾，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/04 17:26鳳山區清潔楊孟珍回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 04:52:45",
-    "Close_Date_": "2016/11/4 下午 09:35:22"
   }
 ]
