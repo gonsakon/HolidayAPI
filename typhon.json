@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161107083",
+    "FileNo_": "INS161107084",
     "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 11:21:31",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自立一路與十全二路(高雄客運對面)(加油站前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反意該處有一水溝蓋工程已完工但三角錐未收惟已影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161107083",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 11:18:07",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港南一路19之1號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前有一排水溝溝壁破損致路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 上午 11:21:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 03:13:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104147",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 03:09:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加宏路與秀群路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中彌漫瓦斯異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/04 16:06 環保局中區股 施金民先生回報，稽查人員於15:39到達，稽查\r\n當時人員會同消防局以及楠梓分局人員一同勘查，經檢測TID值為0ppm且現場無瓦斯異味，對此有發現\r\n現場水溝有臭味飄散，經沖洗後水溝已無明顯臭味飄散；並於11/05 14：04電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 03:15:54",
-    "Close_Date_": "2016/11/5 下午 02:08:55"
   }
 ]
