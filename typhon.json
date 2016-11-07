@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161108007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 06:41:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "萬金路399巷內 之芒果樹下",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修繕。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 06:42:53",
     "Close_Date_": ""
   },
   {
@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161108005",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 上午 06:10:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路與山東街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場仍有員警)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】三民西區清潔隊王進發先生於11/08 06:42回報：已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 06:11:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 上午 06:46:14"
   },
   {
     "FileNo_": "INS161108004",
