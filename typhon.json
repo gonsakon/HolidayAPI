@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161107147",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 03:05:23",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎安路9巷1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址左前方有一方形孔蓋鬆動產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107142",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 03:04:46",
@@ -61,7 +78,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有2盞公園園燈造型路燈燈罩遺失且有一盞故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處有2盞公園園燈造型路燈燈罩遺失且有1盞故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 03:03:03",
@@ -98,7 +115,7 @@
     "BeforeDesc_": "渠反映該處遭堆積傢俱，致遭民眾棄置垃圾共約大貨車量，已影響通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 03:04:07",
+    "Save_Date_": "2016/11/7 下午 03:05:08",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 06:55:39",
     "Close_Date_": "2016/11/5 下午 03:25:58"
-  },
-  {
-    "FileNo_": "INS161104209",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 06:48:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "金龍路轉力行巷巷口處",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處巷口處有被丟棄數包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 06:52:16",
-    "Close_Date_": ""
   }
 ]
