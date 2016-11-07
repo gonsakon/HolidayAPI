@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107121",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 01:54:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中正路三段919號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 01:57:44",
     "Close_Date_": ""
   },
   {
@@ -4863,20 +4863,20 @@
   },
   {
     "FileNo_": "INS161106008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 上午 01:14:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路與重立路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有不明異味造成空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/6 04:32 環保局劉政瑋先生回報：人員於01:29到場，周界巡查未發現不明異味空污\r\n情事；並於11/07 13：49電覆陳情人，故解除管制；惟陳情人反映不定時夜間空污問題，故另成非網A-TB-2016-\r\n104370追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 01:16:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 01:59:37"
   },
   {
     "FileNo_": "INS161106007",
