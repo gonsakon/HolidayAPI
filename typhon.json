@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161108002",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 02:53:58",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "中山北路上(大德一路至岡山農工前)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 02:58:50",
     "Close_Date_": ""
   },
   {
