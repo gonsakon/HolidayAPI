@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107059",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/7 上午 09:55:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學六街與大學二十七街(兒童公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該該園內散落許多垃圾致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/7 上午 10:00:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107058",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 09:53:45",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161107039",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 上午 09:10:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路(介於中山一路至南華路)",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處今日稍早號誌燈與前後路段不連鎖，疑似故障，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 01:49:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104121",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 01:01:46",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "六合一路180巷",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處一車庫有一流浪貓受困，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/04 16：05農業局動物保護處蔡勝全先生回報，經會同陳情人現場勘查，貓隻受困地\r\n點係於隔壁空屋，私人土地無法進入救援；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 01:05:20",
-    "Close_Date_": "2016/11/4 下午 10:45:57"
   }
 ]
