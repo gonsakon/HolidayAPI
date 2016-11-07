@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107134",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 02:31:36",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "龍目路160號(第一納骨塔附近的產業道路)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一電桿(無水支)傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 02:35:39",
     "Close_Date_": ""
   },
   {
@@ -3741,20 +3741,20 @@
   },
   {
     "FileNo_": "INS161106087",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 下午 01:58:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "美德街115巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有燃燒廢棄物致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/06 16:04 環保局公害專線余泓陞先生回報，稽查人員於14:40到達，稽查時於上述\r\n巷弄沿線巡查，未發現燃燒廢棄物致空污情事；並於11/07 14：25電覆陳情人，故解除管制；惟陳情人反映不定\r\n時燃燒空污問題，故另成非網A-TB-2016-104390追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 01:59:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 02:37:33"
   },
   {
     "FileNo_": "INS161106085",
