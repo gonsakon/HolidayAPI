@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107238",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 08:49:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路上近漁港南三路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該工地目前施工機具聲音過大，建請查處。7點停",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107237",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 08:44:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 08:31:11",
     "Close_Date_": "2016/11/5 下午 07:27:06"
-  },
-  {
-    "FileNo_": "INS161105021",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 上午 08:19:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "重慶街與察哈爾二街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 08：50三民西區清潔隊高冬香小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 08:22:38",
-    "Close_Date_": "2016/11/5 下午 07:27:35"
   }
 ]
