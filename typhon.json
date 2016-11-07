@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161107232",
+    "FileNo_": "INS161107233",
     "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 08:25:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "文慈路(從仁勇路路往南方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段沿線多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161107232",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 08:24:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松崗路138之3號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。(請人員前往處理時先行聯絡陳情人)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 08:25:39",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 08:12:45",
     "Close_Date_": "2016/11/6 下午 03:33:22"
-  },
-  {
-    "FileNo_": "INS161105016",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 上午 07:47:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福德三路與明德街(林靖公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處公園出入口之路障，於先前風災時因人員搬運路樹將路障拆除，至今尚未恢復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 07:50:59",
-    "Close_Date_": ""
   }
 ]
