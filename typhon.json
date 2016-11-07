@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107193",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 05:44:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "漢民路675巷24弄6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前一盞路燈從颱風至今故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107191",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 05:43:33",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161107189",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 05:31:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪二十街上",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該道路某處路邊現仍有許多樹枝與樹頭堆置未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 下午 05:43:45",
     "Close_Date_": ""
   },
   {
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161107181",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/7 下午 04:50:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "南台路154之2號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄垃圾包，並表示裡面有個資，望請局處派員稽查，建請查處。(人員到達前先與其聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 09:11:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161104254",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/4 下午 09:06:14",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "復橫一路192號前",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該址前有一高市寬頻孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 09：39 工務局工程企劃處二課陳昭宏先生回報，已修復完成；並於11/07 17:27\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 09:08:53",
-    "Close_Date_": "2016/11/7 下午 05:27:11"
   }
 ]
