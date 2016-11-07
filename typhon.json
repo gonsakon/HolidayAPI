@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161107080",
+    "FileNo_": "INS161107081",
     "Status_": "1",
+    "Cre_Date_": "2016/11/7 上午 11:06:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正二路與凱旋一路(往中正一路方向)(中正地下道旁平面道路路段)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路段有多處坑洞及道路凹凸不平狀況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161107080",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 11:04:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "建國四路42號之1",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有房子正在整修，導致揚塵空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 上午 11:06:01",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 02:56:34",
     "Close_Date_": "2016/11/4 下午 10:05:23"
-  },
-  {
-    "FileNo_": "INS161104144",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 02:51:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路二段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈(茄萣168號)斗笠型燈罩及燈泡因風災皆遭吹走，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 02:56:13",
-    "Close_Date_": ""
   }
 ]
