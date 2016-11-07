@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107214",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/7 下午 06:53:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "高雄市橋新環路677號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "橋新環路總裁Villa社區路段之路燈多盞編號1255，1257,1261,1262,1404,1403,1402.麻煩協助派修。謝謝。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107213",
     "Status_": "1",
     "Cre_Date_": "2016/11/7 下午 06:51:52",
@@ -5594,20 +5611,20 @@
   },
   {
     "FileNo_": "INS161106056",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 上午 10:13:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "河南路與明德街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/06 13:04 交通局智慧運輸中心謝滿威先生回報，該處經人員勘查為線路\r\n電壓不足所致，需另報修廠商修復，現場對向有其他號誌可查看無危險性，故改派非網A-TB-2016-\r\n103988賡續辦理；並於11/07 18：00電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 10:14:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/7 下午 06:51:22"
   },
   {
     "FileNo_": "INS161106055",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/4 下午 11:49:13",
     "Close_Date_": "2016/11/5 上午 03:43:59"
-  },
-  {
-    "FileNo_": "INS161104276",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/4 下午 11:38:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山區嘉興路37-35號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "路燈不亮，轉灣崎嶇路口危險",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/4 下午 11:51:13",
-    "Close_Date_": ""
   }
 ]
