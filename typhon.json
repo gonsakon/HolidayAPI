@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107095",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 11:43:11",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳翔公園",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該公園內有10隻流浪犬有攻擊人情事，陳請人已遭咬傷，建請捕捉。",
+    "BeforeDesc_": "渠反映該公園內有10隻流浪犬，且有追咬民眾情事，陳請人已遭咬傷，建請捕捉。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 上午 11:44:47",
     "Close_Date_": ""
   },
   {
