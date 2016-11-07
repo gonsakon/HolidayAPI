@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161107039",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/7 上午 09:10:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路(介於中山一路至南華路)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處今日稍早號誌燈與前後路段不連鎖，疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/7 上午 09:12:48",
     "Close_Date_": ""
   },
   {
