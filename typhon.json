@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161107272",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/7 下午 11:16:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路288號(機車行)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址業者使用機具施工，致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/7 下午 11:19:39",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161107271",
     "Status_": "2",
     "Cre_Date_": "2016/11/7 下午 11:13:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 上午 10:17:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105055",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/5 上午 10:15:55",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自強一路254號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處污水人孔蓋有破損情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 上午 10:17:16",
     "Close_Date_": ""
   }
 ]
