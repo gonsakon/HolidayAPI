@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108109",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 11:58:32",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "旗楠公路與保舍甲路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有兩條電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108108",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 上午 11:56:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 08:21:30",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105168",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 08:00:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路與中華一路口(圓環)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈目前綠燈轉為紅燈後，便會在馬上轉回綠燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 22：45 交通局智慧運輸中心李品鋒先生回報，該處號誌燈已修復完畢；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 08:01:46",
-    "Close_Date_": "2016/11/6 下午 03:34:11"
   }
 ]
