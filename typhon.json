@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108122",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 下午 12:58:51",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路與重愛路口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處倒數秒數完已變綠燈 但紅燈持亮 ，護查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 下午 01:11:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108121",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 12:56:49",
@@ -681,14 +698,14 @@
   },
   {
     "FileNo_": "INS161108083",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/8 上午 11:01:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路上與前金二街口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 09:48:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105183",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 09:47:35",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "立志街34號(白龍庵宮廟前)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一受傷貓隻倒臥路面，建請救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 09:50:14",
     "Close_Date_": ""
   }
 ]
