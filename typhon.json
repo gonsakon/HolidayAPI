@@ -68,6 +68,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108078",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 上午 10:43:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠盛街與玉田街口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該街口遭設一藍色舊衣回收箱，疑似未合法設立，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 上午 10:58:50",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108077",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 10:42:54",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161108059",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/8 上午 10:10:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "凱旋路336巷18號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該址旁五甲國宅綠地上遭凱旋路336巷23之3號4樓住戶任意堆置回收物造成髒亂，對此陳情人要求環保局開罰勿僅是勸導，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 06:16:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105141",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 06:01:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "六合二路105號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處前遭人丟棄5包黑色垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 18:54前金區清潔隊潘孝敬先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 06:04:02",
-    "Close_Date_": "2016/11/5 下午 08:03:16"
   }
 ]
