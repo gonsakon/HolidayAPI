@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108110",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 12:11:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫二路22號6樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住戶進行裝潢使用機具致噪音，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108109",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 11:58:32",
@@ -3401,20 +3418,20 @@
   },
   {
     "FileNo_": "INS161107184",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 下午 05:04:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟三路與同盟三路370巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有一空地現正燃燒金紙造成空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/07 20:41 環保局環境稽查科中區股陳彥州先生回報，稽查人員於20:25到達，空地\r\n上確實有放置一方型鐵籠燃燒庫錢，稽查時已完全燃燒，於周界巡查未發現明顯粒狀污染物致空污情事，且無行\r\n為人在場；並於11/08 11：41電覆陳情人，故解除管制；惟陳情人反映該不定時空污問題，故另成非網A-TB-\r\n2016-104709追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 05:07:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 下午 12:09:36"
   },
   {
     "FileNo_": "INS161107182",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 08:31:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105169",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 08:17:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路322號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者營業中產生油煙空污，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 08:21:30",
     "Close_Date_": ""
   }
 ]
