@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108101",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 上午 11:29:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富民路與太華街口，京城建設",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該營建工地機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 上午 11:32:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108100",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 11:29:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 07:33:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105160",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/5 下午 07:22:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "澄清路與光復路二段",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處「鳳山行政中心」指示牌故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 07:23:13",
     "Close_Date_": ""
   }
 ]
