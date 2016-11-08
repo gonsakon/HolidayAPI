@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108069",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 10:18:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維二路與學源街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映號誌",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108067",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 10:15:44",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161108063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 10:13:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔北路2號附近空地",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處目前有一黑色流浪犬右前腳斷掉，建請查處。",
+    "BeforeDesc_": "渠反映該處目前有一黑色流浪犬右前腳斷掉受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 10:21:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 04:36:35",
     "Close_Date_": "2016/11/5 下午 07:58:01"
-  },
-  {
-    "FileNo_": "INS161105128",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 04:25:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "同盟二路與博愛一路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處目前有一不明工程將道路圍起，無法通行，疑似未申請，望請派員了解，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 19:26養工處四維養護工程隊值班室人員江明秀小姐回報，人員到現場時已未見\r\n任何工程且未見圍起，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 04:26:48",
-    "Close_Date_": "2016/11/5 下午 07:58:29"
   }
 ]
