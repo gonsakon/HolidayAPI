@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108256",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 07:16:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路與翠屏路108巷口(公園-翠屏岩)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園內有一盞園燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108255",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 下午 07:14:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 04:02:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106099",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 下午 04:01:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路441號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前方人行道上有一樹木移除後留下之樹穴形成大坑洞，現場雖有放置安全錐，今日仍有民眾行經跌倒受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 04:19:36",
     "Close_Date_": ""
   }
 ]
