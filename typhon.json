@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108038",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 09:12:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "銀川街(從翠華路進入)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108037",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 09:08:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 01:22:42",
     "Close_Date_": "2016/11/5 下午 07:47:29"
-  },
-  {
-    "FileNo_": "INS161105097",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 01:18:06",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "哈瑪星臨海新路",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "急迫危害立即排除",
-    "BeforeDesc_": "代轉區畫的太出來，容易跟直行車相撞， 假日車多很危險",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-103770由交通局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 02:57:08",
-    "Close_Date_": "2016/11/5 下午 02:58:34"
   }
 ]
