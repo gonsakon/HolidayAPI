@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108248",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 06:44:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山南路與介壽路口(東南方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一包大包垃圾掉落，已移至路邊，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108247",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 06:40:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 02:53:26",
     "Close_Date_": "2016/11/7 下午 02:42:05"
-  },
-  {
-    "FileNo_": "INS161106092",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 下午 02:47:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "林園南路275號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址旁有民眾燃燒不明物產生大量白煙，造成空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 02:48:20",
-    "Close_Date_": ""
   }
 ]
