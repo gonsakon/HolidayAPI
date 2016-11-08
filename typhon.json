@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108233",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 下午 05:50:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北一路170號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處便橋入口處兩旁地磚，白鐵部分已繡蝕坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 下午 05:53:45",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108232",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 05:48:28",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161108189",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/8 下午 03:38:47",
     "ReplyUnit_": "E01001",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路2133巷14之2號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址廟後方之樹林內有7、8隻具攻擊性流浪犬，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 11:48:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106077",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 上午 11:43:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路794巷6弄10號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址目前有使用機具致噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 上午 11:44:25",
     "Close_Date_": ""
   }
 ]
