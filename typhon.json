@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161108110",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 12:11:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫二路22號6樓",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶進行裝潢使用機具致噪音，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 下午 12:13:34",
     "Close_Date_": ""
   },
   {
@@ -3316,20 +3316,20 @@
   },
   {
     "FileNo_": "INS161107190",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 下午 05:42:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路與明誠三路交叉口，四海豆漿轉角處",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路口轉角有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/07 18:11鼓山區清潔隊黃啟國先生回報，該處貓屍已清除完畢；並於11/08 12：08\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 05:45:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 下午 12:12:56"
   },
   {
     "FileNo_": "INS161107189",
