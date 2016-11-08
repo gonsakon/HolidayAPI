@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108220",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 下午 05:06:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓元街120巷5弄之2號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址有不明發酵異味產生，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 下午 05:09:16",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108219",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 下午 05:06:49",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161108202",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/8 下午 04:01:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富國路474巷26號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "路燈太暗請換白光",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 10:56:17",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106066",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/6 上午 10:43:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東六街6號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址對面工地目前有使用機具致噪音情形，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/06 12:52 環保局公害專線郭進堯先生回報，稽查人員於12:50到達，稽查當時該工\r\n地無任何人員以及車輛，也無使用機具致噪音情事；並於11/07 14：15電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 上午 10:44:11",
-    "Close_Date_": "2016/11/7 下午 02:20:21"
   }
 ]
