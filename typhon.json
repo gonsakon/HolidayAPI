@@ -137,19 +137,19 @@
   },
   {
     "FileNo_": "INS161108064",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 10:11:49",
     "ReplyUnit_": "B02000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "五福四路107號(派出所前)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處水溝蓋周邊之水泥破損致易翹起，目前已放置三角錐，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 10:22:51",
     "Close_Date_": ""
   },
   {
