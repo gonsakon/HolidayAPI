@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108221",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 05:08:10",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路120號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該址前高市寬頻孔蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108219",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 下午 05:06:49",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161108191",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/8 下午 03:39:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "埤仔頭街89號左右兩側路燈",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該兩處各有一個藍色舊衣回收箱未合法設置，建請一併查處。",
     "AfterDesc_": "",
@@ -3180,20 +3197,20 @@
   },
   {
     "FileNo_": "INS161108032",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 上午 08:45:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路715號到801巷間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路段目前有聞到從工廠飄出之不明異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08  09：58 環保局環境稽查科中區股施金民先生回報，稽查人員於09：50 到達，\r\n於該址巡查未發現有明顯化學異味造成空氣汙染情事；並於11/08 16：51電覆陳情人，故解除管制；惟陳情人反\r\n映該處近日空污問題，故另成非網A-TB-2016-104872追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 08:46:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 下午 05:09:31"
   },
   {
     "FileNo_": "INS161108028",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 10:44:11",
     "Close_Date_": "2016/11/7 下午 02:20:21"
-  },
-  {
-    "FileNo_": "INS161106062",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/6 上午 10:32:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "一心二路與一心二路84巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈白天未熄(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 上午 10:35:03",
-    "Close_Date_": ""
   }
 ]
