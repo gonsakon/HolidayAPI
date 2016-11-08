@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109008",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 上午 07:49:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富國路與忠言路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該路口近機車道處有一路面坑洞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109006",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 07:30:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 09:11:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106154",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/6 下午 09:08:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "衙慶三街57巷61號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址後方旁有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 12:59養工處四維養護工程隊九如分隊梁連盛先生回報，該處已修復；\r\n並於11/08 13：52電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 09:11:14",
-    "Close_Date_": "2016/11/8 下午 01:52:13"
   }
 ]
