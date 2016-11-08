@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108191",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 03:39:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "埤仔頭街89號左右兩側路燈",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該兩處各有一個藍色舊衣回收箱未合法設置，建請一併查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108190",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 下午 03:39:01",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161108189",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 03:38:47",
     "ReplyUnit_": "E01001",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路2133巷14之2號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址廟後方之樹林內有7、8隻具攻擊性流浪犬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 下午 03:40:25",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 08:41:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106036",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 上午 08:35:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大智路221號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處電桿上有建商廣告布條，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 上午 08:41:25",
     "Close_Date_": ""
   }
 ]
