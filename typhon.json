@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108097",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 上午 11:21:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路1303號對面(靠近華安街)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處公車站牌旁有一水溝蓋下陷，已先放置椅子警示，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 上午 11:24:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108096",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 11:21:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 07:19:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105157",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 07:16:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大德一路上與大仁北路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處快車道上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 07:21:07",
     "Close_Date_": ""
   }
 ]
