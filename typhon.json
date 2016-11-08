@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108125",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 01:13:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路521之3號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面龜裂且下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108124",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 01:00:31",
@@ -868,14 +885,14 @@
   },
   {
     "FileNo_": "INS161108071",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/8 上午 10:27:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天祥一路上與民族一路口(馬可先生麵包店前)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈向下,無法看清號誌,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 09:50:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105184",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 09:47:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "新疆路70號與新疆路72號間",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮許久，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 09:48:57",
     "Close_Date_": ""
   }
 ]
