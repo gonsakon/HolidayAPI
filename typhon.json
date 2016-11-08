@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108124",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 01:00:31",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路903號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一貓隻受困於福特車輛(車牌:7329-K2)之引擎蓋內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108121",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 12:56:49",
@@ -8569,20 +8586,20 @@
   },
   {
     "FileNo_": "INS161106065",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/6 上午 10:32:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "榮新街37號對面公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該園內搖擺椅故障，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/07 10：36 養工處四維養護工程隊左楠養護分隊周佳錚小姐回報，人員至\r\n現場查看搖擺椅皆為老舊生鏽但可以使用，無故障情形；並於11/08 12：54電覆陳情人，惟陳情人表\r\n示未改善，故另派非網A-TB-2016-104739追蹤並解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 10:34:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 下午 01:00:43"
   },
   {
     "FileNo_": "INS161106064",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 09:45:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105181",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/5 下午 09:39:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "統嶺路88號後(往山上方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有五盞LED路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 09:42:45",
     "Close_Date_": ""
   }
 ]
