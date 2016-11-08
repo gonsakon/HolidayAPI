@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108108",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 11:56:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森二路135巷16號隔壁(僕鰻魚飯)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108107",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 11:45:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 08:01:46",
     "Close_Date_": "2016/11/6 下午 03:34:11"
-  },
-  {
-    "FileNo_": "INS161105167",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 07:54:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "河北路157號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有一車禍油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 07:57:55",
-    "Close_Date_": ""
   }
 ]
