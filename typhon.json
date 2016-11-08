@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 上午 07:55:11",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿路近義大醫院",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109008",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 07:49:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 09:40:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106157",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/6 下午 09:27:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營區重清路248巷1號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "路燈閃爍",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 10:17:16",
     "Close_Date_": ""
   }
 ]
