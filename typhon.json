@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161108048",
+    "FileNo_": "INS161108049",
     "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 09:51:47",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "長庚路與公園路口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明路面開挖工程未設交管及告示牌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161108048",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 09:49:51",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫路148之2號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處有一高汙水人孔蓋凹陷坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 上午 09:52:03",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 02:24:57",
     "Close_Date_": "2016/11/6 下午 03:35:52"
-  },
-  {
-    "FileNo_": "INS161105108",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 02:23:32",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中山路1275號對面；南北方向",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處十字路口號誌燈黃燈皆故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/05 17：35 交通局智慧運輸中心李品鋒先生回報，該處無危險性，經查係燈面故\r\n障，須報請廠商修繕無法立即修復，改派非網A-TB-2016-103819賡續辦理；並於11/07 17：25電覆陳情人，故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 02:24:09",
-    "Close_Date_": "2016/11/7 下午 05:33:20"
   }
 ]
