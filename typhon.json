@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108067",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 10:15:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "聖森路全線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108063",
     "Status_": "1",
     "Cre_Date_": "2016/11/8 上午 10:13:56",
@@ -4574,14 +4591,14 @@
   },
   {
     "FileNo_": "INS161107071",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/7 上午 10:28:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路28號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處前有台電電線保護套兩節垂落，現場並無危險，惟恐造成民眾誤會，建請拆除。",
     "AfterDesc_": "",
@@ -5594,20 +5611,20 @@
   },
   {
     "FileNo_": "INS161107011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/7 上午 06:00:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "旗楠路99巷口",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有一台電方形孔蓋塌陷，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於11/08 10：06經詢問台電1911洪先生表示，已用瀝美土填平；並於11/08 \r\n10：14電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/7 上午 06:06:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/8 上午 10:15:28"
   },
   {
     "FileNo_": "INS161107010",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 04:24:53",
     "Close_Date_": "2016/11/7 下午 11:42:11"
-  },
-  {
-    "FileNo_": "INS161105126",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 04:22:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "嘉興路與嘉華路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍所遺留之路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/5 17：38岡山區清潔隊陳榮東先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 04:24:51",
-    "Close_Date_": "2016/11/5 下午 07:57:54"
   }
 ]
