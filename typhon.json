@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108263",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 07:49:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳東路545號6樓之3，A棟",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住戶有冷氣滴水情事，建請查處。(要求與陳情人聯繫告知處理狀況)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108261",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 07:44:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 05:04:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106106",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 下午 04:53:23",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "明潭路與環潭路(三角公園內)",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該公園溜滑梯之滑道有損壞，造成危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 05:04:35",
     "Close_Date_": ""
   }
 ]
