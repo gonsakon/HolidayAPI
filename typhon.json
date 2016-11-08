@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161108231",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 下午 05:47:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "京中二街55巷13號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 下午 05:49:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108230",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 05:47:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "有光路80號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 下午 05:49:08",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161108227",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 05:45:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
-    "address_": "旗楠二路51號",
+    "address_": "旗楠二路51號(溪洲國小附近)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮已久，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/8 下午 05:48:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/6 上午 11:44:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106076",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/6 上午 11:42:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "高雄市前鎮區翠亨北路原住民主題公園",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "前後區翠亨北路原住民主題公園經上次颱風屋頂毀損至今未修復",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工INS161106075：，研判應是重複成案，故併入該案一併委\r\n由原住民事務委員會賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 12:10:38",
-    "Close_Date_": "2016/11/6 下午 12:12:21"
   }
 ]
