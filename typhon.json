@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108138",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 下午 01:55:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "有光路105號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前路面有一坑洞，先前已補逤再度塌陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108137",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 01:50:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 10:30:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161105196",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/5 下午 10:27:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "瑞興路420巷口(廣場內)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有民眾使用擴音器唱歌致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 10:28:48",
     "Close_Date_": ""
   }
 ]
