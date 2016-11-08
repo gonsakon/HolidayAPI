@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108037",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/8 上午 09:08:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿路668號；燕巢果菜市場右轉往楠梓方向",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處有一路標指示牌欲掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108036",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 上午 09:01:40",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161108027",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/8 上午 08:37:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "崇德路801號(翠華路南往北方向，過平交道)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有垃圾包破損，垃圾散落路面，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/5 下午 02:57:08",
     "Close_Date_": "2016/11/5 下午 02:58:34"
-  },
-  {
-    "FileNo_": "INS161105096",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/5 下午 01:15:05",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "鹽埕區 噴水公園前",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "急迫危害立即排除",
-    "BeforeDesc_": "路樹樹枝太低需修剪  以免打到騎士",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-103765由工務局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/5 下午 02:48:44",
-    "Close_Date_": "2016/11/5 下午 02:52:33"
   }
 ]
