@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161108271",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/8 下午 08:19:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大仁南路，大仁橋上(阿公店溪周界)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有瀰漫阿摩尼亞藥水異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/8 下午 08:24:24",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161108270",
     "Status_": "2",
     "Cre_Date_": "2016/11/8 下午 08:15:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 06:01:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106115",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/6 下午 05:58:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "華美路182號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 05:59:34",
     "Close_Date_": ""
   }
 ]
