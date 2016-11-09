@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109091",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 01:49:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "曾子路59巷2弄",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109090",
     "Status_": "1",
     "Cre_Date_": "2016/11/9 下午 01:40:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 上午 10:14:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107064",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/7 上午 10:08:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "澄清路上(鳳山行政中心旁公共腳踏車附近)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處公共腳踏車租借沿線，有人行道磚有破損且凹凸不平，建請查楚。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 上午 10:09:49",
     "Close_Date_": ""
   }
 ]
