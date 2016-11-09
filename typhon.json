@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161109143",
+    "FileNo_": "INS161109144",
     "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 05:55:42",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "典昌路99巷60號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161109143",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 05:52:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "自治街29巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處巷內有兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 下午 05:55:38",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 01:23:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107115",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 01:21:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "白砂崙產業道路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處魚塭產業道路上，有兩盞路燈不亮(電桿編號:崎漏高幹173左10、左12)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 01:23:52",
     "Close_Date_": ""
   }
 ]
