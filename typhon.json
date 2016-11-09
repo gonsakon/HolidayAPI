@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109195",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 08:31:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者有油煙空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109194",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 08:28:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 04:25:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107166",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 04:16:44",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "莒光路三段，茄萣運動公園東邊水溝",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映水溝內有犬隻受困，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 04:18:21",
     "Close_Date_": ""
   }
 ]
