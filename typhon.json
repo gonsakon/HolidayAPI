@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109183",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 07:36:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠華路與重德路(翠華景觀橋)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該處遭業者綑綁4幅廣告帆布，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109182",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 07:34:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 03:40:33",
     "Close_Date_": "2016/11/8 上午 11:21:08"
-  },
-  {
-    "FileNo_": "INS161107153",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/7 下午 03:34:08",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "壽民路185號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前排水溝旁凹陷有淘空情形,造成住戶出入有危險性,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 03:35:56",
-    "Close_Date_": ""
   }
 ]
