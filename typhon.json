@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109145",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 05:58:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "澄新一街銜接育英街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處區域現瀰漫一股燒焦及化學異味致空污情事，疑似由仁武焚化爐傳出，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109144",
     "Status_": "1",
     "Cre_Date_": "2016/11/9 下午 05:55:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 01:29:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107117",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 01:21:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如二路312號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處快車道雙黃線處有路面下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 01:23:21",
     "Close_Date_": ""
   }
 ]
