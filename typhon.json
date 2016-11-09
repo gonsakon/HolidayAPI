@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161109135",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 05:20:10",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區中正一路286號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "數十輛機車人行道違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/9 17:19 通報110王警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 05:20:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/9 下午 05:22:34"
   },
   {
     "FileNo_": "INS161109134",
@@ -426,14 +426,14 @@
   },
   {
     "FileNo_": "INS161109110",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/9 下午 03:38:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海一路443號(貝特立洗車場)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者使用之洗車溶劑飄散惡臭異味，建請查處。",
     "AfterDesc_": "",
