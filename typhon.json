@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161109191",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 08:10:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山三路與民權二路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處瀰漫一股瓦斯異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 下午 08:11:28",
     "Close_Date_": ""
   },
   {
@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161109179",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 07:15:24",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "807高雄市三民區九如一路533號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上十來輛機車違規停車，紅線也有違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/09 19:27 依據警政業務權責回歸，代為通報 110 勤務指揮中心 楊警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/11/9 下午 08:11:02",
+    "Close_Date_": "2016/11/9 下午 08:11:21"
   },
   {
     "FileNo_": "INS161109178",
