@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109131",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 04:54:25",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802苓雅區和平一路266號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "紅線汽車違規停車，人行道機車違規停車。隔壁鷹輪汽車行佔用紅線違規停車作營業修車場所。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109130",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 04:45:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 12:24:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107102",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/7 下午 12:07:47",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路428號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處人行道上有一溝蓋凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 12:10:20",
     "Close_Date_": ""
   }
 ]
