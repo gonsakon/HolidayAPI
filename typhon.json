@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161110002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 上午 02:18:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "恆豐街(漢口街至哈爾濱街)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有鐵路施工機具噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 05:56 環保局陳彥州先生回報：人員於05:09到場，周界巡查未發現施工噪音\r\n情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 02:20:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 07:50:08"
   },
   {
     "FileNo_": "INS161110001",
