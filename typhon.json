@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161109066",
+    "FileNo_": "INS161109067",
     "Status_": "1",
+    "Cre_Date_": "2016/11/9 上午 11:33:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多二路33號(三商巧福)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161109066",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 11:32:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪十八路與高坪二十三路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈一邊故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處號誌燈一邊正常一邊故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 上午 11:33:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 上午 09:16:39",
     "Close_Date_": "2016/11/8 上午 09:52:17"
-  },
-  {
-    "FileNo_": "INS161107039",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/7 上午 09:10:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中正三路(介於中山一路至南華路)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處今日稍早號誌燈與前後路段不連鎖，疑似故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 10:54電覆陳情人未果，故於2016/11/08 11:00簡訊回覆:黃先生您\r\n好，您11月7日所反映號誌問題，本府交通局已派員前往設定為同紅不同綠，現場連鎖正常無故障，感\r\n謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 上午 09:12:48",
-    "Close_Date_": "2016/11/8 上午 11:01:59"
   }
 ]
