@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161109072",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 12:10:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大順ㄧ路自行車道旁(賣車後面)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "新上國小後門空地髒亂(大順路賣車場後面)",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-105121由環保局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 12:39:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/9 下午 12:40:40"
   },
   {
     "FileNo_": "INS161109071",
@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161109068",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 11:39:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由二路150號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "路樹要修剪",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 下午 12:41:22",
     "Close_Date_": ""
   },
   {
