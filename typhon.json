@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161109145",
+    "FileNo_": "INS161109146",
     "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 05:59:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "新庄巷與新莊路口(新庄巷內)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有三盞路燈(其中一盞編號:立達幹44Q1622F24)均故障不亮數周，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161109145",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 05:58:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄新一街銜接育英街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處區域現瀰漫一股燒焦及化學異味致空污情事，疑似由仁武焚化爐傳出，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 下午 05:59:29",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 01:33:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107116",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 01:24:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎富路3號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址對面小圓環上與小圓環旁皆有遭棄置垃圾、瓶罐等，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 01:29:51",
     "Close_Date_": ""
   }
 ]
