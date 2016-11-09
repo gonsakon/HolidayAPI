@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109025",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 上午 09:08:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "0981399032左營區忠言路富民路",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109024",
     "Status_": "1",
     "Cre_Date_": "2016/11/9 上午 09:04:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/6 下午 11:52:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161106172",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/6 下午 11:50:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "沿海路二段與文賢南路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/6 下午 11:52:45",
     "Close_Date_": ""
   }
 ]
