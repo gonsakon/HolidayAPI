@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109125",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 04:24:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "新民路與莊敬路口(新民自助餐)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處業者將殺魚過後沖洗之廢水排入排水溝中致產生惡臭，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109124",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 04:18:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 12:00:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107096",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 上午 11:45:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清安街2號(乖寶貝幼兒園)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處正使用擴音設備及麥克風，噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 上午 11:47:10",
     "Close_Date_": ""
   }
 ]
