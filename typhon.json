@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109217",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 11:14:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "後安里順安路沿線(近路科宿舍)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處化學水溝  ，建請盡速查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109216",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 11:00:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 05:45:00",
     "Close_Date_": "2016/11/8 下午 12:12:56"
-  },
-  {
-    "FileNo_": "INS161107189",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 05:31:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪二十街上",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該道路某處路邊現仍有許多樹枝與樹頭堆置未清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 05:43:45",
-    "Close_Date_": ""
   }
 ]
