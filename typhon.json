@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109074",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/9 下午 12:14:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "開封路93號(襪子店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址有業者之擴音器噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/9 下午 12:17:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109073",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 12:10:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 上午 09:25:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107047",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 上午 09:21:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "文橫二路101號(生日公園)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該園(近苓雅國小)之廁所處，堆置桌椅垃圾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 上午 09:25:06",
     "Close_Date_": ""
   }
 ]
