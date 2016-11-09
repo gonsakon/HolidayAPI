@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161110007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 上午 06:34:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "環球路與大智路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路口有車禍油漬，警員已於現場交管，建請清除。",
     "AfterDesc_": "【主管解除管制】11/10 07:49路竹區清潔隊班長黃美雲小姐回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 06:40:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 07:55:25"
   },
   {
     "FileNo_": "INS161110006",
@@ -749,20 +749,20 @@
   },
   {
     "FileNo_": "INS161109190",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 08:03:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路二段355巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處巷道內瀰漫一股疑似燃燒塑膠物產生刺鼻異味致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/09 21：52 環保局環境稽查科中區股陳彥州先生回報，稽查人員於20：52到達，\r\n稽查當時於周界巡視未發現上述燃燒異味致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 08:04:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 07:55:00"
   },
   {
     "FileNo_": "INS161109189",
@@ -783,20 +783,20 @@
   },
   {
     "FileNo_": "INS161109188",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 07:52:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢一路與開封路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路口有 貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/09 20:14 溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 07:54:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 07:56:11"
   },
   {
     "FileNo_": "INS161109187",
