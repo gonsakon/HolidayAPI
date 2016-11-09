@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109177",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 07:01:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "旗津二路上(近旗津醫院處)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處共有五盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109176",
     "Status_": "1",
     "Cre_Date_": "2016/11/9 下午 07:01:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 03:17:30",
     "Close_Date_": "2016/11/8 下午 03:17:44"
-  },
-  {
-    "FileNo_": "INS161107148",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 03:12:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林四路353號(忠義派出所對面)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處休耕農田有民眾燃燒不明物品導致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 03:16:17",
-    "Close_Date_": ""
   }
 ]
