@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161109025",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 09:08:59",
     "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "忠言路與富民路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "0981399032左營區忠言路富民路",
+    "BeforeDesc_": "渠反映現該處興建大樓工程有施工機具產生噪音，建請查處。(※請人員到場時與陳情人聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 上午 09:16:08",
     "Close_Date_": ""
   },
   {
