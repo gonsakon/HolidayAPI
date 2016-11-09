@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110003",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 02:33:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路一段394之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處肉製品加工廠有機械作業噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110002",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 02:18:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 05:51:32",
     "Close_Date_": "2016/11/8 下午 04:06:40"
-  },
-  {
-    "FileNo_": "INS161107195",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/7 下午 05:46:48",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "凱旋三路21號至41號周邊騎樓人行道",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "該路段全線騎樓人行道違規停車嚴重",
-    "AfterDesc_": "本案已於11/07 18:37代通報至110勤務指揮中心陳警員成功並提供陳情人聯電。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 06:38:33",
-    "Close_Date_": "2016/11/7 下午 06:46:10"
   }
 ]
