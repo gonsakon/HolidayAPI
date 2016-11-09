@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110007",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 06:34:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "環球路與大智路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110006",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 06:22:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 06:08:45",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107199",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/7 下午 06:06:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中華四路206號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有2盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 13:06 養工處四維養護工程隊九如分隊李來益先生回報，該處無危險\r\n性，惟屬於路燈工程科保固燈，故改派非網A-TB-2016-104748賡續辦理；並於11/08 16：08電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 06:10:11",
-    "Close_Date_": "2016/11/8 下午 04:09:04"
   }
 ]
