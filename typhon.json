@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109127",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 04:29:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "廣福街(聖化宮)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一民眾私自將路樹砍倒，現樹木倒在路中準備切成小塊狀，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109126",
     "Status_": "1",
     "Cre_Date_": "2016/11/9 下午 04:28:17",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161109125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 04:24:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "新民路與莊敬路口(新民自助餐)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處業者將殺魚過後沖洗之廢水排入排水溝中致產生惡臭，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/9 下午 04:28:41",
     "Close_Date_": ""
   },
   {
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161109120",
-    "Status_": "4",
+    "Status_": "3",
     "Cre_Date_": "2016/11/9 下午 04:08:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路與中華二路(西向東)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路面有碎玻璃，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 12:01:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107098",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 上午 11:56:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路618號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處分隔島一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 12:00:52",
     "Close_Date_": ""
   }
 ]
