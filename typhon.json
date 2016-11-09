@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS161109103",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 02:42:17",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區意誠路27號附近",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/09 15:04 通報110饒警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 03:06:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/9 下午 03:06:46"
   },
   {
     "FileNo_": "INS161109102",
@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161109092",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 01:57:25",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區三多二路367號沿線人行道",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "機車行佔用人行道作為展示場，請警方協助取締",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/09 15:04 通報110饒警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 03:05:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/9 下午 03:06:56"
   },
   {
     "FileNo_": "INS161109091",
