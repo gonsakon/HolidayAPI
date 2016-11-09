@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109139",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/9 下午 05:41:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路77號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處洗車業者有機具噪音產生，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109138",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 下午 05:36:17",
@@ -5101,20 +5118,20 @@
   },
   {
     "FileNo_": "INS161108135",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 01:44:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路上(介於雄工與高應大之間)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該路段人行道上有多處紅磚隆起與破損坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 15：01 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，人員已\r\n至現場查勘，並與陳情人聯繫，該處屬於高應大學校退縮地行人步道，無危險性，需轉學校處理，以\r\n非屬本府權責之案件反映至高應大，並記錄討論區；並於11/09 17：40電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:59:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/9 下午 05:40:53"
   },
   {
     "FileNo_": "INS161108134",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 01:15:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107110",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 01:10:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "和平一路147之5號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址前人行道的路樹風災傾倒後,路樹移除後,人行道磚皆未填補,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 01:11:33",
     "Close_Date_": ""
   }
 ]
