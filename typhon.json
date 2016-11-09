@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161109063",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/9 上午 11:02:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "請海路與馬卡道路口，廢五金工廠",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者怪手作業機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/9 上午 11:05:56",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161109062",
     "Status_": "2",
     "Cre_Date_": "2016/11/9 上午 10:53:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 上午 09:01:34",
     "Close_Date_": "2016/11/8 下午 03:46:37"
-  },
-  {
-    "FileNo_": "INS161107034",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 上午 08:58:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永靖街與學源街口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍產生之路面油漬，現場已有警方，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 上午 09:01:26",
-    "Close_Date_": ""
   }
 ]
