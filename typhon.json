@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110044",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 09:29:31",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "天山路9巷口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處巷口有一污水四方形鐵片生鏽破損，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 上午 09:30:59",
     "Close_Date_": ""
   },
   {
@@ -2177,20 +2177,20 @@
   },
   {
     "FileNo_": "INS161109136",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 下午 05:23:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "中華路80號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址正在燃燒大量木炭致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/10 09：27電覆陳情人未果，故於11/10 09：30簡訊回覆：謝先生您好，您11月9日\r\n所反映燃燒木炭空污問題，經本府環保局前往稽查，稽查當時於周界巡視未發現上述空污情事，感謝您的熱心通\r\n報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 05:25:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 09:34:17"
   },
   {
     "FileNo_": "INS161109135",
