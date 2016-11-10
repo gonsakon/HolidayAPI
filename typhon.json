@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161110196",
+    "FileNo_": "INS161110197",
     "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 08:55:17",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮港路63號碼頭旁邊(接近63號港區管制站)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一黃色犬隻腳受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161110196",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 08:51:14",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "高松路上，往大寮方向",
+    "address_": "高松路上，過高松派出所往大寮方向",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處靜思堂前分隔島大排溝內，有一白色流浪犬受困，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 08:54:52",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 12:31:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108113",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 12:30:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路46巷25號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前編號0719號路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 12:31:34",
     "Close_Date_": ""
   }
 ]
