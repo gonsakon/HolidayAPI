@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110043",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/10 上午 09:10:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓陸橋北向車道",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址內側快車道有樹木掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/10 上午 09:14:15",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110042",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 09:08:40",
@@ -176,7 +193,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
-    "address_": "福安里福義街(枝仔冰城工廠附近)",
+    "address_": "福安里福義街(枝仔冰城工廠後方)",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 08:46:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107235",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/7 下午 08:43:14",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "凱旋二路與四維一路交叉口(琉璃光診所前)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌紅燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/07 22：51交通局智慧運輸中心張寬如小姐回報，該處號誌已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 08:57:10",
-    "Close_Date_": "2016/11/8 上午 07:48:09"
   }
 ]
