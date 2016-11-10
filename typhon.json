@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110142",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 05:13:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山西路(澄清路口、府前路口)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處兩路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 05:14:40",
     "Close_Date_": ""
   },
   {
@@ -8654,20 +8654,20 @@
   },
   {
     "FileNo_": "INS161108150",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 02:52:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋四路近中山三路；南往北方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處汽車道轉彎處有一個木頭，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 16:01 前鎮區清潔隊張昭和先生回報，經人員現場勘查，並與陳情人確認，未發\r\n現該木頭；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:00:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 05:14:42"
   },
   {
     "FileNo_": "INS161108149",
