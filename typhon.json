@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110135",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 04:48:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東二路與美術北三街口(統一便利商店)附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有不明柴油引擎的廢氣異味空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110134",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 04:23:04",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161110124",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/10 下午 03:59:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "崇德路與文萊路口，保養廠前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路口轉角處有一路面坑洞，請查處。",
     "AfterDesc_": "",
@@ -7736,37 +7753,37 @@
   },
   {
     "FileNo_": "INS161108195",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 03:53:42",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大智路221號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址旁一台電電線桿遭人以螺絲鎖上廣告看板，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 18:24 台電鳳山區處許先生回報，該處為廣告旗幟，已拆除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 04:06:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 04:48:34"
   },
   {
     "FileNo_": "INS161108199",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 03:52:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "北汕巷100之376號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/9 12:46 養工處四維養護工程隊九如分隊梁連盛先生回報,已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:54:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 04:49:20"
   },
   {
     "FileNo_": "INS161108198",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 10:01:23",
     "Close_Date_": "2016/11/10 下午 03:54:47"
-  },
-  {
-    "FileNo_": "INS161108050",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 09:55:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "與中山三路平行之寶島一號線自行車道(介於金福路至平和東路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段自行車道沿線有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 12:59養工處四維養護工程隊九如分隊梁連盛先生回，該處無危險性，\r\n該處路燈為路燈工程科新設置，故改派非網A-TB-2016-104741賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 09:59:21",
-    "Close_Date_": "2016/11/10 下午 03:52:17"
   }
 ]
