@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110154",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/10 下午 05:56:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁林路與水管路三段口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處3盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/10 下午 05:57:16",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110153",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 05:53:48",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS161110121",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/10 下午 03:50:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "立志街28號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址對面公園旁人行道遭民眾傾倒垃圾，建請查處。",
     "AfterDesc_": "",
@@ -9164,20 +9181,20 @@
   },
   {
     "FileNo_": "INS161108131",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 01:29:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德惠路66號,7-11超商前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道磚有凹陷,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 15:09養工處四維養護工程隊左楠分隊林玉娟小姐回報，該處為溝壁破損導致凹\r\n陷，已設安全措施，故改派派工:INS161108165賡續辦理；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:30:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 05:57:17"
   },
   {
     "FileNo_": "INS161108129",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 10:31:02",
     "Close_Date_": "2016/11/8 下午 05:25:27"
-  },
-  {
-    "FileNo_": "INS161108072",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 10:24:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高雄市楠梓區楠梓路269巷",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "位置(楠梓國小對面，愛吉兒進來直走到底，靠鐵軌旁)麻煩將髒亂清除",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-104667由環保局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 10:31:04",
-    "Close_Date_": "2016/11/8 上午 10:32:31"
   }
 ]
