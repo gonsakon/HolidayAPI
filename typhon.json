@@ -6,7 +6,7 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "鳳山溪(光遠路一帶)",
+    "address_": "光遠路之鳳山溪",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
@@ -562,20 +562,20 @@
   },
   {
     "FileNo_": "INS161110207",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 09:22:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高雄市小港區中亨街",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 22：55 台電鳳山區處朱先生回報，該處人員到場查看，係為陳情人公司所屬\r\n自備線脫落，已先行協助做安全處理，並與陳情人說明完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 10:08:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:26:48"
   },
   {
     "FileNo_": "INS161110206",
@@ -681,20 +681,20 @@
   },
   {
     "FileNo_": "INS161110200",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 08:59:01",
     "ReplyUnit_": "E01001",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁武里中華路129巷60號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一有項圈之流浪米格魯犬隻，有遭撞受傷流血情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 22：40農業局動物保護處捕犬大隊史明德先生回報，人員已將上述受傷犬隻\r\n帶上車，並已將犬隻送往動物醫院醫治。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 09:02:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:27:38"
   },
   {
     "FileNo_": "INS161110199",
