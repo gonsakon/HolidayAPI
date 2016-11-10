@@ -1412,20 +1412,20 @@
   },
   {
     "FileNo_": "INS161110160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 06:27:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延慶街與民族一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 21:58交通局智慧運輸中心黃泰郎先生回報，經查現場號誌正常，未發現有上\r\n述號誌故障情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 06:28:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:48:55"
   },
   {
     "FileNo_": "INS161110159",
@@ -1548,20 +1548,20 @@
   },
   {
     "FileNo_": "INS161110152",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 05:52:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "大同一路與新盛二街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍油漬，已有警察現場指揮交通，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10  18:17 前金區清潔隊潘孝敬先生回覆，已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 05:55:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:49:08"
   },
   {
     "FileNo_": "INS161110151",
@@ -1701,20 +1701,20 @@
   },
   {
     "FileNo_": "INS161110143",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 05:19:13",
     "ReplyUnit_": "E01005",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生一路與林森一路口",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該路口中央分隔島上有一電箱(高壓危險)，因風災後傾倒至今，建請查楚。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 20:57 台電高雄營業處鍾先生回報，該處經人員查看後並非台電設置變電箱\r\n傾斜，現場為養工處自備路燈開關箱門未關閉，該處無危險性，係屬養工處權責，故改派\r\nINS161110202賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 05:25:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:49:32"
   },
   {
     "FileNo_": "INS161110142",
