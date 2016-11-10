@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110210",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 09:37:34",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興楠路203巷與興楠路151巷66弄口",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "多部機車轉角處紅線違停,如果巷內有事發生消防車無法進入,請警方加強取締違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110209",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 09:30:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:16:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108126",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 下午 01:13:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路746號7-11前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面龜裂且下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 01:16:20",
     "Close_Date_": ""
   }
 ]
