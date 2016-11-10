@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161110015",
+    "FileNo_": "INS161110017",
     "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 07:58:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "高雄市三民區河堤路230巷路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "該處有一空地，旁有一置放多年鎖與燈杆不具名攤車，與有民眾丟棄木材及垃圾，路面亦有民眾車輛漏油之髒汙，長久未清理，請協助清理市容。感謝!",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161110015",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 07:55:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路755號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處工廠正進行油炸作業，產生油煙空污情事，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 上午 07:58:35",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 06:45:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107208",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 06:43:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "朝明路167巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 06:45:09",
     "Close_Date_": ""
   }
 ]
