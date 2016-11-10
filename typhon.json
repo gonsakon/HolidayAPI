@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110044",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 09:29:31",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "天山路9巷口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處巷口有一污水四方形鐵片生鏽破損，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110043",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 09:10:08",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 08:50:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107236",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/7 下午 08:44:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路上往東方向，(介於平和東路與大業北路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段機車道旁，有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 08:46:46",
     "Close_Date_": ""
   }
 ]
