@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 07:38:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111009",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 07:31:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:24:25",
     "Close_Date_": "2016/11/10 下午 05:10:50"
-  },
-  {
-    "FileNo_": "INS161108160",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 下午 03:12:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "復安里復安路119號(復安國小對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 03:14:39",
-    "Close_Date_": ""
   }
 ]
