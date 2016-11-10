@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161110187",
+    "FileNo_": "INS161110188",
     "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 08:19:29",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂林里桂林國小後門桂林大公園；近桂陽路",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "渠反映該處路樹傾倒使紅磚人行道翻起現有一坑洞，且水泥護欄及健身器材皆有損壞，因該處近國小擔憂有危險，見請查處。(情與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161110187",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 08:18:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "大埔巷198號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(高分57號208)不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 08:20:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 11:43:45",
     "Close_Date_": "2016/11/9 下午 05:15:37"
-  },
-  {
-    "FileNo_": "INS161108104",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 11:39:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍田里大學三十二街、大學十九街、大學五街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "該處三個區域無預警停電，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 14：43經詢問台電1911王小姐表示，該處因電纜被挖損已修復恢復供電；並於\r\n11/08 15：17電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 11:47:01",
-    "Close_Date_": "2016/11/8 下午 03:22:35"
   }
 ]
