@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 04:17:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "建國四路141號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址住戶在整修使用機具產生噪音，建請查楚。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 04:17:59",
     "Close_Date_": ""
   },
   {
