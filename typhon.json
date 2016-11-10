@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110217",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 10:08:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中厝里三官路61號之6",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110216",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 09:59:55",
@@ -154,19 +171,19 @@
   },
   {
     "FileNo_": "INS161110207",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 09:22:28",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高雄市小港區中亨街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 10:08:39",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:49:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108133",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 下午 01:32:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中正一路8號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 01:32:47",
     "Close_Date_": ""
   }
 ]
