@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161111007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 07:23:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路之鳳山溪",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處鳳山溪水色墨黑，疑遭偷排汙染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 07:25:37",
     "Close_Date_": ""
   },
   {
@@ -732,37 +732,37 @@
   },
   {
     "FileNo_": "INS161110197",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 08:55:17",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮港路63號碼頭旁邊(近63號港區管制站)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一黃色犬隻腳受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 21:52 農業局動物保護處捕犬大隊史明德先生回覆：已將該處受傷之黃色犬\r\n隻救上車並送往醫院。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 08:59:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:27:55"
   },
   {
     "FileNo_": "INS161110196",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 08:51:14",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高松路上，過高松派出所往大寮方向",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處靜思堂前分隔島大排溝內，有一白色流浪犬受困，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 21:52 農業局動物保護處捕犬大隊史明德先生回覆：於該處尋找未發現受困\r\n犬隻，且陳情人亦不願到現場，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 08:54:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:28:16"
   },
   {
     "FileNo_": "INS161110195",
