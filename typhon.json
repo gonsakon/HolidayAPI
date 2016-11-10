@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161110093",
+    "FileNo_": "INS161110094",
     "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 01:03:53",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "中泰街與新泰街",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該路口綠色號誌控制箱傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161110093",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 01:01:04",
     "ReplyUnit_": "E01001",
     "zipcode_": "843",
     "ZipName_": "美濃區",
-    "address_": "成功路218號(萊爾富)",
+    "address_": "成功路218號(萊爾富便利商店)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處現有一隻貓",
+    "BeforeDesc_": "渠反映該處現有一隻貓逗留並抓傷客人，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 01:04:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 07:39:45",
     "Close_Date_": "2016/11/9 下午 04:20:56"
-  },
-  {
-    "FileNo_": "INS161108011",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 上午 07:36:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "翠屏路118巷2號之2",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址斜對面有一盞路燈故障不亮，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 07:43:53",
-    "Close_Date_": ""
   }
 ]
