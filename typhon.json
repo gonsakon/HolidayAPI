@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161110094",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 01:03:53",
     "ReplyUnit_": "A01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "中泰街與新泰街",
+    "address_": "中泰街與新泰街口",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該路口有一不明綠色控制箱傾倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 01:14:52",
     "Close_Date_": ""
   },
   {
