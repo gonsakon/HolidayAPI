@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110167",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 06:40:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林一路474巷7之2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 06:42:13",
     "Close_Date_": ""
   },
   {
@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161108246",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 06:37:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "環湖三街與環湖路口，環湖三街12號附近",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有3盞路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/10 18:04 養工處旗美養護工程隊林晃吉先生回報，該處路燈皆已修復完\r\n成；並於11/10 18：41電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 06:40:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 06:41:48"
   },
   {
     "FileNo_": "INS161108245",
