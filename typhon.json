@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110085",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 12:06:17",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "高雄市苓雅區凱旋二路43-37號騎樓",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "佔用騎樓違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110084",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 11:46:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 04:00:16",
     "Close_Date_": "2016/11/8 上午 07:36:10"
-  },
-  {
-    "FileNo_": "INS161108002",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 上午 02:53:58",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中山北路上(大德一路至岡山農工前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 02:58:50",
-    "Close_Date_": ""
   }
 ]
