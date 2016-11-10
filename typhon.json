@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161110076",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/10 上午 11:04:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "復安里福全佛堂過水泥牌樓往上坡走",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處.第二個路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/10 上午 11:06:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110074",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 10:58:55",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161110040",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/10 上午 09:05:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳松路180巷(武松公園旁)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有大型垃圾堆置髒亂，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 11:02:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107268",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/7 下午 10:50:21",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路與復興三路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路口有水利局相關工程施作，夜間警示有不足情況，導致車禍發生，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/08 01:02水利局市區排水一科林敬邦先生回報，該處警示燈已增強。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 10:51:41",
-    "Close_Date_": "2016/11/8 上午 07:36:57"
   }
 ]
