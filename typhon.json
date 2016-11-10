@@ -1769,20 +1769,20 @@
   },
   {
     "FileNo_": "INS161110139",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 04:50:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路與重愛路路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈的讀秒計時器歪斜，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 20:22交通局智慧運輸中心黃泰郎先生回報，經查現場號誌正常，未發現有上\r\n述號誌燈的讀秒計時器歪斜情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 04:52:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:51:36"
   },
   {
     "FileNo_": "INS161110138",
