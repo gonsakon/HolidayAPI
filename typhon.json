@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110130",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 04:13:40",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "十全一路與孝順街口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映其車輛引擎蓋內有貓隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110129",
     "Status_": "1",
     "Cre_Date_": "2016/11/10 下午 04:11:25",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161110117",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/10 下午 03:29:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "中和里藍田路1203號路底(海軍圍籬邊)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊遭棄置傢俱、垃圾包，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 09:52:03",
     "Close_Date_": "2016/11/10 下午 03:08:05"
-  },
-  {
-    "FileNo_": "INS161108047",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 09:48:04",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路與美術館路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻遭撞傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 10:09農業局動物保護處捕犬大隊安百中先生回報，人員到現場有民眾\r\n告知，已有民眾將犬隻帶往醫院。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 09:48:42",
-    "Close_Date_": "2016/11/10 下午 03:49:29"
   }
 ]
