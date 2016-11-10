@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110207",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 09:22:28",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高雄市小港區中亨街",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110206",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 09:19:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:11:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108122",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 12:58:51",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路與重愛路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處倒數秒數完已變綠燈 但紅燈持亮 ，護查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 01:11:43",
     "Close_Date_": ""
   }
 ]
