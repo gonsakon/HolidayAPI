@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110096",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 01:06:56",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "哈爾濱街與察哈爾二街口(超商斑馬線旁)",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋鬆動",
+    "BeforeDesc_": "晃動  建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110095",
     "Status_": "1",
     "Cre_Date_": "2016/11/10 下午 01:05:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 07:43:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108013",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 上午 07:37:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "龍水里21鄰美術東五路178號(人文觀邸大樓)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處大樓前有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 07:39:36",
     "Close_Date_": ""
   }
 ]
