@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110160",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 06:27:05",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "延慶街與民族一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110159",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 06:15:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 10:58:50",
     "Close_Date_": "2016/11/10 下午 02:31:07"
-  },
-  {
-    "FileNo_": "INS161108077",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 10:42:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠盛街133號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該址斜對面遭設一藍色舊衣回收箱，疑似未合法設立，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/8 13：34 通報楠梓區清潔隊李郁慧小姐回報，該處回收箱係合法設置。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 10:55:46",
-    "Close_Date_": "2016/11/10 下午 02:30:54"
   }
 ]
