@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161111011",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 07:43:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德祥路1號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址中央廚房油煙空汙嚴重，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 07:45:16",
     "Close_Date_": ""
   },
   {
@@ -1395,20 +1395,20 @@
   },
   {
     "FileNo_": "INS161110161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 06:27:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "壽天路110巷內",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有瀰漫不明燃燒異味致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/10 21:26環保局北區股余泓陞先生回報，稽查人員於19:25到達，稽查時上述地\r\n點風勢強烈，周界道路巡視及巷道內查察，並未發現有異味情況，故未發現空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 06:29:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 07:47:39"
   },
   {
     "FileNo_": "INS161110160",
