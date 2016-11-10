@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161110122",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 03:50:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "立志街28號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該址對面公園內有許多地方垃圾散落十分髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 03:55:13",
     "Close_Date_": ""
   },
   {
@@ -9980,20 +9980,20 @@
   },
   {
     "FileNo_": "INS161108053",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 上午 10:00:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路229號左前方",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址前人行道磚凸起，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/10 11:14 養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處現場無\r\n危險性，經人員勘查為水利局溝面破損所致，需由水利局派員協助修復，故改派:INS161110082水利局\r\n辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 10:01:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 03:54:47"
   },
   {
     "FileNo_": "INS161108050",
