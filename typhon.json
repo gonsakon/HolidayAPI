@@ -9198,20 +9198,20 @@
   },
   {
     "FileNo_": "INS161108129",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 01:25:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如三路與中峰街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一灰色號誌燈箱遭打開且有線路外露,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/8 16：42 交通局智慧運輸中心張寬如小姐回報，該號誌燈箱已修復處理完畢；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:26:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 05:57:47"
   },
   {
     "FileNo_": "INS161108130",
