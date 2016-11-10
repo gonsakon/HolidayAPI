@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110148",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 05:45:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "林森路與錦富街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路口有路面坑",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110147",
     "Status_": "1",
     "Cre_Date_": "2016/11/10 下午 05:45:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 10:21:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108066",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 上午 10:13:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "裕誠路與河堤路口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處河堤路路牌掉落，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/8 14:13養工處四維養護工程隊三民分隊趙廣慶先生回報，該路牌已派員\r\n收回無法修復，後續需轉由道路工程科重新製作，故改派非網A-TB-2016-104776賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 10:14:36",
-    "Close_Date_": "2016/11/10 下午 05:00:49"
   }
 ]
