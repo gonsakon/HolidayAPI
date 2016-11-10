@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110057",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 10:04:09",
     "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九大路495號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "派先生0986615981大樹區九大陸495 旁 興點七徹修復",
+    "BeforeDesc_": "渠反映該址旁興點汽車修護廠現有汽油異味飄散空汙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 上午 10:13:17",
     "Close_Date_": ""
   },
   {
