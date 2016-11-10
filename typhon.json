@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110106",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 02:41:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "雄峰路與鼓山三路(中山國小)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處國小因雄女正在演練校慶活動，使用擴音設備產生巨大噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 02:42:21",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161110104",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 02:34:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "延平路(靠近菜門果菜批發市場)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一高壓電桿(延平高桿35號QO257FD67)碎裂欲傾倒，建請查處。(陳情人表示有危險性)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 02:41:33",
     "Close_Date_": ""
   },
   {
@@ -6869,20 +6869,20 @@
   },
   {
     "FileNo_": "INS161108222",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 05:09:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "公園西路(壽峰橋)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處橋上目前有一台貨車持續排放廢油至溪內，造成汙染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 18:52環保局北區股潘政&#23791;先生回報，稽查人員於17:55到達，稽查時並未發現有\r\n輛貨車，朝橋下河面查察並未發現有汙染源，沿線一路往下游方向巡視至河華橋，也未發現河面有汙染情況，故\r\n未發現汙染情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 05:11:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 02:41:48"
   },
   {
     "FileNo_": "INS161108221",
