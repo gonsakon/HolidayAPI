@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110106",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 02:41:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "雄峰路與鼓山三路(中山國小)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處國小因雄女正在演練校慶活動，使用擴音設備產生巨大噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110105",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 02:34:49",
@@ -5832,14 +5849,14 @@
   },
   {
     "FileNo_": "INS161108282",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/8 下午 09:08:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "光明路72巷2號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈燈具遺失，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 08:24:55",
     "Close_Date_": "2016/11/9 下午 02:17:02"
-  },
-  {
-    "FileNo_": "INS161108023",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 上午 08:20:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "旅順街與民族一路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口一盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 08:23:13",
-    "Close_Date_": ""
   }
 ]
