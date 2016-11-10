@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 01:51:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明潭路76號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處人行道有號誌燈電箱蓋子損壞，造成電線外露，現有用一木板蓋住，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 下午 01:53:16",
     "Close_Date_": ""
   },
   {
