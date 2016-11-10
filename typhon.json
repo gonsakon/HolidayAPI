@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110169",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 07:11:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南光街上，近南光街43巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110168",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 06:49:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 11:07:52",
     "Close_Date_": "2016/11/10 下午 03:24:37"
-  },
-  {
-    "FileNo_": "INS161108086",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 上午 11:05:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "育樂路20號(20樓之1)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處施工機械噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 11:06:31",
-    "Close_Date_": ""
   }
 ]
