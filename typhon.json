@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110041",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 09:08:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "五福四路與莒光街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處近騎樓處有垃圾和寶特瓶及飯盒致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110040",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 09:05:03",
@@ -392,20 +409,20 @@
   },
   {
     "FileNo_": "INS161110017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 上午 07:58:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "高雄市三民區河堤路230巷路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "該處有一空地，旁有一置放多年鎖與燈杆不具名攤車，與有民眾丟棄木材及垃圾，路面亦有民眾車輛漏油之髒汙，長久未清理，請協助清理市容。感謝!",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-105354由環保局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 09:06:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 09:10:46"
   },
   {
     "FileNo_": "INS161110016",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 08:31:28",
     "Close_Date_": "2016/11/8 上午 07:48:19"
-  },
-  {
-    "FileNo_": "INS161107233",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/7 下午 08:25:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文慈路(從仁勇路往南方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段沿線多處坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 08:27:39",
-    "Close_Date_": ""
   }
 ]
