@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110081",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 上午 11:18:44",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "裕誠路1569之1號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址公寓大門前方人行道污水孔阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110080",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 11:15:26",
@@ -4081,14 +4098,14 @@
   },
   {
     "FileNo_": "INS161109058",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/9 上午 10:48:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳頂路上(南下)過了過埤路近全家超商",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該處有兩根疑似民眾私設固定於人行道上的鐵管已斷裂,因造成民眾行走絆倒危險,請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/7 下午 11:31:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161107273",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/7 下午 11:29:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路751巷31號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該園內一盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/7 下午 11:31:17",
     "Close_Date_": ""
   }
 ]
