@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161110124",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/10 下午 03:59:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇德路文萊路，保養廠前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該路口轉角處有一路面垃洞，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110123",
     "Status_": "1",
     "Cre_Date_": "2016/11/10 下午 03:52:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 上午 09:26:27",
     "Close_Date_": "2016/11/10 下午 03:48:31"
-  },
-  {
-    "FileNo_": "INS161108041",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 上午 09:24:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "成功路138號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段有多處路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 上午 09:25:36",
-    "Close_Date_": ""
   }
 ]
