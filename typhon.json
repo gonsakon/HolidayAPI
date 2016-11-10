@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161110083",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/10 上午 11:44:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "建國四路與大仁路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處工地施工揚塵逸散導致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/10 上午 11:45:01",
     "Close_Date_": ""
   },
   {
@@ -4795,20 +4795,20 @@
   },
   {
     "FileNo_": "INS161109021",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/9 上午 08:47:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "新盛二街(大同國小一側)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道磚遭樹枝損壞，因路樹樹根之故有凸起狀況，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/10 11:14 養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處無危險性已設立安\r\n全措施，惟經查屬學校退縮地，需由校方協助修復，故改派非網A-TB-2016-105428賡續辦理；並於11/10 11：41\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/9 上午 08:49:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 上午 11:47:15"
   },
   {
     "FileNo_": "INS161109018",
