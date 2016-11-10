@@ -7634,20 +7634,20 @@
   },
   {
     "FileNo_": "INS161108204",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 04:06:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉新東路上(距離嘉新西路陸橋約20至30公尺)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道有玻璃碎片，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 16：46 岡山區清潔隊李偉彰先生回報，該處非玻璃碎片，而是扁平型螺絲墊\r\n片，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 04:11:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 04:47:45"
   },
   {
     "FileNo_": "INS161108203",
@@ -7719,20 +7719,20 @@
   },
   {
     "FileNo_": "INS161108196",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/8 下午 03:54:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大仁北路23號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址旁一台電電線桿遭人以螺絲鎖上廣告看板，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/08 18:24 台電鳳山區處許先生回報，該處為廣告旗幟，已拆除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 04:14:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/10 下午 04:48:13"
   },
   {
     "FileNo_": "INS161108195",
