@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161110205",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/10 下午 09:19:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "後鄉里順安路與中華路口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路口水溝內飄散出一股濃重之化學異味，疑似附近工廠排放廢水所致，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/10 下午 09:27:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161110204",
     "Status_": "2",
     "Cre_Date_": "2016/11/10 下午 09:14:08",
@@ -749,14 +766,14 @@
   },
   {
     "FileNo_": "INS161110161",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/10 下午 06:27:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "壽天路110巷內",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有瀰漫不明燃燒異味致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 01:01:56",
     "Close_Date_": "2016/11/10 下午 02:32:29"
-  },
-  {
-    "FileNo_": "INS161108123",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 12:59:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大順一路上，與富國路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處倒數秒數完已變綠燈 但紅燈持亮 ，護查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 01:11:01",
-    "Close_Date_": ""
   }
 ]
