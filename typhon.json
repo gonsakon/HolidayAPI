@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161111140",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 04:00:26",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "本洲路403號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "巷子裡的路燈因2個月前颱風侵襲導致毀損，請服務維修員來查看",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 下午 04:23:57",
     "Close_Date_": ""
   },
   {
