@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161111116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 01:49:55",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "營前街31號與33號之間",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "變壓器有聲音",
+    "StatusName_": "待確認",
+    "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該址前的台電電桿上方有一變電箱,惟皆有滴油至下方,恐發生危險,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 下午 01:53:38",
     "Close_Date_": ""
   },
   {
