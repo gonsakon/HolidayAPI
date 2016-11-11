@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161111136",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 下午 03:47:23",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新光路26號前",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車違規停放人行道",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/11 15:49 依據警政業務權責回歸，代為通報 110 勤務指揮中心 鄭警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 03:51:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 下午 03:52:29"
   },
   {
     "FileNo_": "INS161111135",
