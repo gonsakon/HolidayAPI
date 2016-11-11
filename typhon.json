@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111084",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 11:22:04",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟二路與中華二路",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有兩隻貓隻卡在陳情人車輛底盤，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111083",
     "Status_": "1",
     "Cre_Date_": "2016/11/11 上午 11:21:01",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161111081",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 11:18:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "楠梓區後勁南路與後昌路口",
+    "address_": "楠梓區後勁南路與後昌路口(檳榔攤上方)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈整座燈罩遺失，燈桿編號:019377，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 11:22:01",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 06:03:37",
     "Close_Date_": "2016/11/10 下午 02:33:51"
-  },
-  {
-    "FileNo_": "INS161108235",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 05:59:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "安民街48號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈(編號:015627)故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/10 11:57 養工處四維養護工程隊九如分隊呂茂盛先生回報，該處已協助修復完成；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 06:00:53",
-    "Close_Date_": "2016/11/10 下午 02:34:27"
   }
 ]
