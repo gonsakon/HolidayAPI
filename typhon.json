@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111238",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 下午 11:54:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "846",
+    "ZipName_": "杉林區",
+    "address_": "台29線，月眉橋(東西兩側道路各兩百公尺)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該兩處有路面刨除工程，惟路面刨除後未鋪設柏油，僅有三角錐警示且未設置施工告示牌，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 上午 12:01:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111237",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 11:53:52",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161111218",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/11 下午 09:19:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路上，中央公園網球場外，人行道上，黃色公共電話亭旁",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處確實有斷枝懸掛於路樹上，陳情人已於樹下放置三角錐作為警示，望請局處派員處理，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 01:40:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161109087",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 01:20:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺明路上(往澄清路方向，國道1號下方涵洞)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一圓形孔蓋凸起，與路面產生落差，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 01:23:15",
     "Close_Date_": ""
   }
 ]
