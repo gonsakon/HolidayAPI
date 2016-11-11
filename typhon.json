@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111053",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 09:50:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路與和平一路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有一廣告車使用擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111052",
     "Status_": "1",
     "Cre_Date_": "2016/11/11 上午 09:49:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 04:11:15",
     "Close_Date_": "2016/11/10 下午 04:47:45"
-  },
-  {
-    "FileNo_": "INS161108203",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 04:03:46",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "小港路與港信路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水利局涵管破損，導致南鎮瓦斯氣閥下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 04:10:50",
-    "Close_Date_": ""
   }
 ]
