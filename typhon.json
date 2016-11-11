@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161111078",
+    "FileNo_": "INS161111079",
     "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 11:13:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161111078",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 11:10:35",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合二路25之3號、27號；葡京娛樂城前方",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處有一不明長方形孔蓋有漏電及燒焦味產生，建請查處。",
+    "BeforeDesc_": "渠反映該處有一不明長方形孔蓋(NCIC電信)有漏電及燒焦味產生，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 11:13:29",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 05:49:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108230",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 05:47:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "有光路80號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/10 15：14 養工處四維養護工程隊九如分隊 鄒廣雄先生回報，已修復；\r\n並於11/10 15：21電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 05:49:08",
-    "Close_Date_": "2016/11/10 下午 03:21:08"
   }
 ]
