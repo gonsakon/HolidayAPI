@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111186",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 下午 06:39:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "平海路106巷10號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111185",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 06:33:00",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161111178",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/11 下午 06:17:44",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山路南下(與河堤路二段、阿公店路二段、介壽東路)",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映上述三個路口之號誌原本為連鎖設定，目前疑似故障不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/9 上午 09:48:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161109035",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/9 上午 09:42:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄明街117號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處路燈上與路牌同高處遭鐵絲綑綁木板建商廣告，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 上午 09:48:07",
     "Close_Date_": ""
   }
 ]
