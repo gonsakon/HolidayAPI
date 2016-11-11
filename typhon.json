@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS161111055",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 上午 09:55:48",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "測試",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "App測試",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/11/11 上午 10:03:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/11 上午 10:01:56"
   },
   {
     "FileNo_": "INS161111054",
