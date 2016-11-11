@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS161111039",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 09:20:46",
+    "ReplyUnit_": "F01010",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "拷潭里成功路125巷17號",
+    "UnitName_": "仁武區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該址前六米下道路中有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111037",
     "Status_": "3",
     "Cre_Date_": "2016/11/11 上午 09:15:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "拷潭里成功路125巷17號",
+    "address_": "成功路125巷17號",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:40:25",
     "Close_Date_": "2016/11/8 下午 06:16:03"
-  },
-  {
-    "FileNo_": "INS161108188",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 03:38:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營下路28號斜對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有兩個藍色舊衣回收箱未合法設置，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 16：56 左營區清潔隊葉品玲小姐回報，該處未影響通行，將派車清\r\n運，今日無法處理，故改派非網A-TB-2016-104870賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 03:53:23",
-    "Close_Date_": "2016/11/10 下午 02:30:17"
   }
 ]
