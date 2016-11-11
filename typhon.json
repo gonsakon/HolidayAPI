@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111235",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 下午 11:31:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路638號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111232",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 10:54:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 01:16:42",
     "Close_Date_": "2016/11/11 下午 01:25:55"
-  },
-  {
-    "FileNo_": "INS161109083",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 01:10:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路上(與水管路交叉、加油站斜對面、往大寮方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處快慢車道間有一路面下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 01:14:18",
-    "Close_Date_": ""
   }
 ]
