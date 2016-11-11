@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111221",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 下午 09:40:35",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "自由路196號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明工程施工，現場未設告示牌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111220",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 09:39:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 12:39:56",
     "Close_Date_": "2016/11/9 下午 12:40:40"
-  },
-  {
-    "FileNo_": "INS161109071",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 12:09:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "育成一街86號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該空地為公園預定地，先有一園樹傾倒、一園樹被鉅到餘100公分未移除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 12:10:53",
-    "Close_Date_": ""
   }
 ]
