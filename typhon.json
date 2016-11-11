@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161111200",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 07:35:26",
     "ReplyUnit_": "A01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊仔路跟博愛路交界。（巨蛋旁）",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔蓋鬆動",
     "BeforeDesc_": "第一個人孔蓋機車經行時會翻動",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 下午 07:52:25",
     "Close_Date_": ""
   },
   {
