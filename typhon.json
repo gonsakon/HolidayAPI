@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161111202",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 下午 07:47:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "神農路與南屏路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處京城建設舉辦晚會，使用擴音設備產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/11 下午 07:55:53",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111201",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 07:46:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 上午 10:37:00",
     "Close_Date_": "2016/11/9 下午 02:40:07"
-  },
-  {
-    "FileNo_": "INS161109053",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/9 上午 10:30:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "武慶一路上近武慶一路194巷口(陳金鐘地政士隔壁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該透天厝進行增建施工，惟現場未設置防塵網，致屋後(武慶一路194巷)揚塵四起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 上午 10:41:02",
-    "Close_Date_": ""
   }
 ]
