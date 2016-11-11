@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161111137",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/11/11 下午 03:47:31",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新光路26號前",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車違規停放人行道",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 下午 03:50:08",
     "Close_Date_": ""
   },
   {
@@ -48,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 03:46:48",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161111134",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 下午 03:44:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武慶一路194巷近武慶一路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有一工地現有鑽牆、挖地之機具噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/11 下午 03:49:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 09:58:21",
     "Close_Date_": "2016/11/8 下午 10:05:07"
-  },
-  {
-    "FileNo_": "INS161108288",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 09:12:55",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區三多一路140號附近人行道上",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "數十輛機車佔用人行道違規停車",
-    "AfterDesc_": "【主管解除管制】本案於 11/08 21:57 依據警政業務權責回歸，代為通報 110 勤務中心 陳警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 09:58:15",
-    "Close_Date_": "2016/11/8 下午 10:04:37"
   }
 ]
