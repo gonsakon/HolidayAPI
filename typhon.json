@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161111016",
+    "FileNo_": "INS161111017",
     "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 08:28:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161111016",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 08:21:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路730號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 08:24:39",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:24:03",
     "Close_Date_": "2016/11/10 下午 05:02:07"
-  },
-  {
-    "FileNo_": "INS161108169",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 03:19:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "&#22356;埔路4巷33號對面空地",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有民眾在燃燒落葉致空汙，建請查處。(請人員到達時先與陳情人聯繫)",
-    "AfterDesc_": "【主管解除管制】本案於11/8 16：44 環保局公害專線郭進堯先生回報，稽查人員於16：30到達，現場係果農焚\r\n燒清出之落葉，稽查當時行為人立即撲滅火勢，已予以勸導勿再焚燒落葉，再犯將依法開罰，已向陳情人說明；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 03:20:47",
-    "Close_Date_": "2016/11/10 下午 05:03:18"
   }
 ]
