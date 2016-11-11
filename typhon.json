@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161112017",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 07:23:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "白樹路117號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112016",
     "Status_": "1",
     "Cre_Date_": "2016/11/12 上午 07:22:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "建國路一段過了鳳山TOYOTA營業所接大智陸橋，大智陸橋下方鳳山溪",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處鳳山溪河面呈現黑色，恐上游遭排放廢水，望稽查人員巡查至上游，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 03:12:28",
     "Close_Date_": "2016/11/11 下午 09:30:45"
-  },
-  {
-    "FileNo_": "INS161109105",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/9 下午 03:07:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永泰路與苓安路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處交通號誌燈閃紅燈及閃黃燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/09 16:43 交通局智慧運輸中心張寬如小姐回報，已修復；並於11/09 \r\n17：28電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 03:09:35",
-    "Close_Date_": "2016/11/9 下午 05:28:36"
   }
 ]
