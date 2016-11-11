@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111144",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 下午 04:19:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "勝利路上 (海風公園之涼亭旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有民眾正在燃燒垃圾致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/11 下午 04:21:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111143",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 04:11:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 09:57:14",
     "Close_Date_": "2016/11/10 下午 02:20:04"
-  },
-  {
-    "FileNo_": "INS161108295",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 09:50:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "1.仁德路112巷2號前 2.仁德路95號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處各一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 09:52:41",
-    "Close_Date_": ""
   }
 ]
