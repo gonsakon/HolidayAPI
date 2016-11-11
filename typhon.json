@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111051",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 上午 09:46:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路與林森四路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處現有瀰漫類似油漆之有機溶劑之空污異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111048",
     "Status_": "1",
     "Cre_Date_": "2016/11/11 上午 09:40:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 03:59:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108196",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/8 下午 03:54:10",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大仁北路23號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址旁一台電電線桿遭人以螺絲鎖上廣告看板，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/08 18:24 台電鳳山區處許先生回報，該處為廣告旗幟，已拆除完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 04:14:27",
-    "Close_Date_": "2016/11/10 下午 04:48:13"
   }
 ]
