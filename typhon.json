@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111224",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/11 下午 10:15:22",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德南路 松藝路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障全閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111223",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 10:00:16",
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS161111189",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/11 下午 06:53:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "武昌街132號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處大排溝內飄散油污，且瀰漫濃厚油味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 12:33:17",
     "Close_Date_": "2016/11/11 下午 01:18:53"
-  },
-  {
-    "FileNo_": "INS161109074",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/9 下午 12:14:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "開封路93號(襪子店)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址有業者之擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/09 14:28 環保局環境稽查科中區股劉邦根先生回報，稽查人員於13:20到\r\n達，該處為市場攤商，播放舞曲音樂，稽查當時未播放音樂，已督促業者日後小心控管音量；並於\r\n11/09 16：35電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 12:17:20",
-    "Close_Date_": "2016/11/9 下午 04:35:29"
   }
 ]
