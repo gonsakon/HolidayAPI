@@ -1,17 +1,17 @@
 [
   {
     "FileNo_": "INS161111137",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/11 下午 03:47:31",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新光路26號前",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車違規停放人行道",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案通報人及陳情地點、事由均同派工：INS161111136，研判為重複成案，故併入該案\r\n 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 03:50:08",
     "Close_Date_": ""
