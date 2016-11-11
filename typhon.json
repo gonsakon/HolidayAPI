@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161111068",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 10:26:44",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "新莊里橋新五路與橋新八路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "交通號誌故障不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 10:39:20",
     "Close_Date_": ""
   },
   {
