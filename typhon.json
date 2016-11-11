@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161111124",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 下午 02:32:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "雄峰路與九如四路圓環附近",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映附近有學校借用場地舉辦校慶，擴音器聲量過大已吵整天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/11 下午 02:35:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161111123",
     "Status_": "2",
     "Cre_Date_": "2016/11/11 下午 02:22:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 08:40:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161108275",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/8 下午 08:37:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "京中四街111號斜對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 08:40:05",
     "Close_Date_": ""
   }
 ]
