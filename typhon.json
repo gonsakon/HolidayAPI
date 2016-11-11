@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS161112010",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 上午 03:50:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋三路與育樂路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口車道上有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局溝渠隊莊斯宇先生於11/12 05:15回報：人員到場巡查均未發現有所述之\r\n貓屍，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 03:52:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/12 上午 05:23:34"
   },
   {
     "FileNo_": "INS161112009",
