@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161111051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/11 上午 09:46:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路與林森四路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處現有瀰漫類似油漆之有機溶劑之空污異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/11 上午 09:47:57",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161111049",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/11 上午 09:45:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "公園路(長庚醫院後門)",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該址有號誌燈綠燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/11 上午 09:47:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/8 下午 04:03:41",
     "Close_Date_": "2016/11/9 下午 09:06:57"
-  },
-  {
-    "FileNo_": "INS161108200",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/8 下午 03:57:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路502巷2號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮多時，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/8 下午 03:59:32",
-    "Close_Date_": ""
   }
 ]
