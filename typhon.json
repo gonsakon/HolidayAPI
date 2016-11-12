@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113014",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 上午 07:10:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓區興西路121巷6號(勤田交通有限公司)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者目前有燃燒木材及廢棄物造成空污,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113013",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 上午 06:54:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 02:50:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110109",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 02:48:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "瓊林路1005號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(路燈編號:64507910)故障不亮近一個月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 02:53:34",
     "Close_Date_": ""
   }
 ]
