@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112061",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 10:31:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁勇路152號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "渠反映該處工地施工,惟約有三至四輛砂石車停放路旁怠速,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112058",
     "Status_": "1",
     "Cre_Date_": "2016/11/12 上午 10:18:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 06:08:02",
     "Close_Date_": "2016/11/11 上午 11:41:45"
-  },
-  {
-    "FileNo_": "INS161109147",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 06:06:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "1.柳橋西路22之2號  2.柳橋西路30號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩處各有一盞路燈故障不亮，其表示已反映許久仍未見修復，需請單位確實查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 06:09:18",
-    "Close_Date_": ""
   }
 ]
