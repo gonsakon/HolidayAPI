@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112159",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/12 下午 06:08:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "頂厝路153號前方",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處農田有民眾在燃燒不明物品，產生白煙，導致空氣污染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 下午 06:12:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112158",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 06:08:07",
@@ -171,19 +188,19 @@
   },
   {
     "FileNo_": "INS161112148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 06:01:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "鳥松區仁美里美山路77巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "目前77巷全部停電",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 下午 06:13:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 08:14:29",
     "Close_Date_": "2016/11/11 下午 09:44:32"
-  },
-  {
-    "FileNo_": "INS161110024",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 上午 08:13:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋東路及校前路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 上午 08:14:18",
-    "Close_Date_": ""
   }
 ]
