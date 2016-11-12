@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161112047",
+    "FileNo_": "INS161112048",
     "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 09:52:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "菜公路120巷67號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "菜公路120巷67號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161112047",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 上午 09:51:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢二路與自立二路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有工程施工，惟未灑水致揚塵空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 上午 09:52:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 05:25:42",
     "Close_Date_": "2016/11/10 上午 09:34:17"
-  },
-  {
-    "FileNo_": "INS161109135",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/9 下午 05:20:10",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區中正一路286號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "數十輛機車人行道違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/9 17:19 通報110王警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 05:20:38",
-    "Close_Date_": "2016/11/9 下午 05:22:34"
   }
 ]
