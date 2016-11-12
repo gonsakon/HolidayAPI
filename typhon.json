@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161112155",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 06:05:40",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路77巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處現無預警停電逾半小時，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 下午 06:09:50",
     "Close_Date_": ""
   },
   {
