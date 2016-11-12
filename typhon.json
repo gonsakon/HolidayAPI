@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112227",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 下午 11:40:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松竹西街與松竹街24巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112226",
     "Status_": "1",
     "Cre_Date_": "2016/11/12 下午 11:36:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 01:04:16",
     "Close_Date_": "2016/11/10 下午 02:08:51"
-  },
-  {
-    "FileNo_": "INS161110092",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 12:48:54",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "德昌路417號對面",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一圓形孔蓋周邊放置三角錐已十天以上，惟位於馬路中央且未建置警示燈，造成用路人閃避恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 12:55:54",
-    "Close_Date_": ""
   }
 ]
