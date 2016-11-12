@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161112101",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 01:16:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三中路與大新路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該兩處沿線路段上，遭用鐵絲綁上木製及塑膠廣告刊版，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 下午 02:08:17",
     "Close_Date_": ""
   },
   {
@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161112095",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 下午 12:44:28",
     "ReplyUnit_": "E01004",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "高雄市路竹區竹東里中山路1037巷",
     "UnitName_": "中華電信公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "中華-孔蓋鬆動",
     "BeforeDesc_": "高雄市路竹區竹東里中山路1037巷31號旁私人停車場前方道路電信人孔蓋，間隙過大，導致車輛壓過發出巨大聲響，影響周遭住戶生活品質。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-106116由中華電信賡續辦理，倘您對本案處理有疑問，歡\r\n迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 02:05:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/12 下午 02:07:00"
   },
   {
     "FileNo_": "INS161112094",
