@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112110",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 下午 02:35:50",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路與明誠二路口，愛河自行車步道西側",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌與前後路口號誌燈不連鎖，建請修繕。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112109",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 02:14:24",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161112106",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/12 下午 01:45:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "民權二路188巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人丟棄廢棄傢俱，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 08:34:24",
     "Close_Date_": "2016/11/10 上午 07:54:14"
-  },
-  {
-    "FileNo_": "INS161109195",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/9 下午 08:31:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路322號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者有油煙空汙，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/09 22:10 環保局環境稽查科中區股洪天賜先生回報，稽查人員於22:05到達，該\r\n業者已打烊，附近巡視未發現上述空污情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 08:32:28",
-    "Close_Date_": "2016/11/10 上午 07:54:32"
   }
 ]
