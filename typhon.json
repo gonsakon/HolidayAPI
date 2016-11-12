@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112212",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 下午 10:07:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重立路212巷，新民國小後門處",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路面有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112211",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 09:49:53",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161112176",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/12 下午 07:08:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明仁路與明愛街口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處一空地目前有怪手施工致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 11:11:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110077",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 上午 11:07:30",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "武慶一路上近武慶一路194巷口(陳金鐘地政士隔壁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該透天厝進行增建施工，惟後方未設置防塵網，致屋後(武慶一路194巷)揚塵四起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 上午 11:09:29",
     "Close_Date_": ""
   }
 ]
