@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112059",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 10:17:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "嘉興路37之35號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112056",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 上午 10:11:43",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161112040",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/12 上午 09:31:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東二路與美術南三路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍產生路面油漬，現場有警方，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 05:59:29",
     "Close_Date_": "2016/11/11 上午 11:41:33"
-  },
-  {
-    "FileNo_": "INS161109144",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 05:55:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "典昌路99巷60號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 05:59:12",
-    "Close_Date_": ""
   }
 ]
