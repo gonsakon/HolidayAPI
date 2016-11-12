@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161113010",
+    "FileNo_": "INS161113012",
     "Status_": "1",
+    "Cre_Date_": "2016/11/13 上午 06:39:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三鳳宮",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該宮廟目前有燃放鞭炮致有空污情事，建請查處。(陳情人請稽查人員到達現場先與其聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161113010",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 上午 06:38:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號(外籍餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者目前有產生油煙異味情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 上午 06:42:14",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 02:46:48",
     "Close_Date_": "2016/11/13 上午 06:27:00"
-  },
-  {
-    "FileNo_": "INS161110107",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/10 下午 02:43:13",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路611巷6號對面",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "白色小自客放置超過二個月未移動--6k-9650",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-105515由警察局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 02:53:06",
-    "Close_Date_": "2016/11/10 下午 02:57:31"
   }
 ]
