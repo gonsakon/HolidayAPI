@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112179",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/12 下午 07:10:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大竹路62號(觀音禪寺)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處1盞路燈(路燈編號:8040)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 下午 07:17:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112178",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 07:09:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 上午 09:33:45",
     "Close_Date_": "2016/11/11 上午 09:44:19"
-  },
-  {
-    "FileNo_": "INS161110044",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 上午 09:29:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "天山路9巷口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處巷口有一污水四方形鐵片生鏽破損，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 上午 09:30:59",
-    "Close_Date_": ""
   }
 ]
