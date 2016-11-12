@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161112222",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/12 下午 11:29:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文龍路與文安街口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處停車格(編號：計次766131)之路面及對面道路路面均有嚴重凹陷、疑似掏空，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 下午 11:34:56",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112221",
     "Status_": "1",
     "Cre_Date_": "2016/11/12 下午 11:28:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 12:46:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110089",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 12:37:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大智路與大仁路(近光榮國小)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌紅燈閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 12:39:39",
     "Close_Date_": ""
   }
 ]
