@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112220",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 下午 11:13:01",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "王生明路107號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前有一犬隻遭撞受傷，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112218",
     "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 10:54:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 12:43:23",
     "Close_Date_": "2016/11/10 下午 12:45:50"
-  },
-  {
-    "FileNo_": "INS161110084",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 上午 11:46:39",
-    "ReplyUnit_": "F01007",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "球場路(馬術學校旁)",
-    "UnitName_": "橋頭區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該路段沿線路面有許多坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 上午 11:53:27",
-    "Close_Date_": ""
   }
 ]
