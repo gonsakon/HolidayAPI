@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161113018",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 上午 07:44:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "萬金路184之13號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處建商施工噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 上午 07:46:10",
     "Close_Date_": ""
   },
   {
@@ -9589,20 +9589,20 @@
   },
   {
     "FileNo_": "INS161110149",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/10 下午 05:48:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "錦富街與林森路口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處快車道處有路面下陷，現場已放置三角錐，擔憂機車騎至此處會摔車，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/11 10:40養工處鳳山養護工程隊陳毓郡小姐回報，本案同INS161110148，該處\r\n己設立安全錐，現場有淘空情形，因近台電孔蓋旁且下方有管線及台電警示帶，應為台電下線管線淘空情\r\n形，故改派INS161111070賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 05:50:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 上午 07:45:32"
   },
   {
     "FileNo_": "INS161110148",
