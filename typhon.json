@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161112052",
+    "FileNo_": "INS161112054",
     "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 10:05:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "神農路與博愛二路口(舊龍華國小)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有學校舉辦運動會活動，使用擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161112052",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 上午 10:05:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路與雄峰路口(舊中山國小，現在高雄女中借用校舍)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處辦理活動之擴音器與麥克風聲音過大，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 上午 10:08:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 05:44:47",
     "Close_Date_": "2016/11/11 上午 11:41:13"
-  },
-  {
-    "FileNo_": "INS161109140",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/9 下午 05:41:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "樂群路與加宏路口(超商對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有一不明工程施工，現場未設告示牌及交管，且已有影響交通，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/09 20：49 四維養護工程隊江明秀小姐回報，該處係為水利局污水工程施工，仍有\r\n協助轉達設置告示牌及交管，故轉派工INS161109201賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 05:44:22",
-    "Close_Date_": "2016/11/11 上午 11:40:56"
   }
 ]
