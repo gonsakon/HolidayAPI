@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161112074",
+    "FileNo_": "INS161112075",
     "Status_": "1",
+    "Cre_Date_": "2016/11/12 上午 10:56:53",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞豐市場1巷9弄8號後面(瑞興國小後方)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一流浪貓卡在水溝蓋上無法脫困,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161112074",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 上午 10:50:17",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南京路387巷2號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一流浪犬受傷躲在車子底下不出來，致其車輛無法移動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 上午 10:53:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/9 下午 06:49:27",
     "Close_Date_": "2016/11/9 下午 06:50:29"
-  },
-  {
-    "FileNo_": "INS161109161",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/9 下午 06:29:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路17巷與水管路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路口有一路燈(編號:6609)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/9 下午 06:31:09",
-    "Close_Date_": ""
   }
 ]
