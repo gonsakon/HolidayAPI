@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161113015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 上午 07:10:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113013",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 上午 06:54:24",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 03:04:18",
     "Close_Date_": "2016/11/11 上午 07:57:08"
-  },
-  {
-    "FileNo_": "INS161110110",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 02:49:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "富新路與國慶十二街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址一盞路燈基座僅剩一顆螺絲，建請查處，並會同陳情人。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 02:50:16",
-    "Close_Date_": ""
   }
 ]
