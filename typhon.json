@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161112224",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/12 下午 11:31:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高楠公路，北上往橋頭、台南方向機車地下道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161112223",
     "Status_": "1",
     "Cre_Date_": "2016/11/12 下午 11:30:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 12:39:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110088",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 12:12:50",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津海水浴場救生員站",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處救生員站屋頂鐵皮風吹會出現晃動，擔憂危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 12:18:47",
     "Close_Date_": ""
   }
 ]
