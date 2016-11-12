@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161112122",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/12 下午 03:24:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "民族一路1189之2號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有兩盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/12 下午 03:25:26",
     "Close_Date_": ""
   },
   {
