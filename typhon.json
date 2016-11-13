@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113127",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 08:01:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路，青年夜市，",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點靠近公廁的攤販，有擴音機噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113125",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 07:47:02",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161113101",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/13 下午 05:34:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "永順街93巷口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 10:55:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110222",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 10:54:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "1.新庄仔路742號 2.新庄仔路766巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該2處各有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 10:55:42",
     "Close_Date_": ""
   }
 ]
