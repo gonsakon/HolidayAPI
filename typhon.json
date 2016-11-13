@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161113138",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 09:23:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "白米路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一盞LED路燈(米林高幹19號)故障閃爍，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 09:30:52",
     "Close_Date_": ""
   },
   {
