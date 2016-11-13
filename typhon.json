@@ -4540,20 +4540,20 @@
   },
   {
     "FileNo_": "INS161112022",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 上午 08:11:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "世運大道，海軍陸戰隊前路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/12 12:34 交通局智慧運輸中心潘毅華先生回報，已修復；並於11/13 11：59電覆陳\r\n情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 08:13:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 12:59:16"
   },
   {
     "FileNo_": "INS161112021",
