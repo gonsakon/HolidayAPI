@@ -171,20 +171,20 @@
   },
   {
     "FileNo_": "INS161113154",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 下午 11:23:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路383號(紅燕卡拉OK店)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址業者目前仍使用卡拉OK設備聲響過大致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局楊竣安先生於11/14 02:39 回報：稽查人員於01:22到場，人員於上址巡\r\n查，該店家未營業，現場未發現有卡拉OK設備噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 11:27:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/14 上午 02:48:48"
   },
   {
     "FileNo_": "INS161113153",
