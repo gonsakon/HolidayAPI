@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161113154",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/13 下午 11:23:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加昌路383號(紅燕卡拉OK店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址業者目前仍使用卡拉OK設備聲響過大致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 11:27:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113153",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 11:20:02",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161113138",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/13 下午 09:23:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "白米路",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞LED路燈(米林高幹19號)故障閃爍，建請查修。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 上午 08:45:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111019",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 上午 08:30:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路136巷7號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 上午 08:38:44",
     "Close_Date_": ""
   }
 ]
