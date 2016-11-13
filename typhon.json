@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161113128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 08:16:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲二路318號前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 08:20:45",
     "Close_Date_": ""
   },
   {
@@ -4846,20 +4846,20 @@
   },
   {
     "FileNo_": "INS161112070",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 上午 10:50:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "七賢二路58號對面工地",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工地目前施工機具聲音過大，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11//12 13:29 環保局 稽查科 中區股 潘星宇先生回報，稽查人員於 12:50 到達，\r\n 該處有一大樓新建工程，稽查時人員於上址巡查未發現有機具致噪音情事，仍促請業者注意防範；本案不需\r\n 回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 10:55:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:20:14"
   },
   {
     "FileNo_": "INS161112073",
