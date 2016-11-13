@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161113103",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 05:49:03",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
-    "address_": "中泰街76巷  1號",
+    "address_": "中泰街76巷1號對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一台電電桿電筒，致風災後段段續續會有火花與異聲產生，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 05:52:18",
     "Close_Date_": ""
   },
   {
