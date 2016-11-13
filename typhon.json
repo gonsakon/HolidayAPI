@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114011",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 上午 07:28:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高楠公路939號，黑貓宅急便",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該址旁的巷子內有不明路面漬，造成機車摔車，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114007",
     "Status_": "1",
     "Cre_Date_": "2016/11/14 上午 07:14:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 上午 09:15:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111033",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 上午 09:12:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "嘉新東路59號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞路燈(燈號64區0566-06)修復不久又故障不亮，需再檢查內部零件，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 上午 09:16:00",
     "Close_Date_": ""
   }
 ]
