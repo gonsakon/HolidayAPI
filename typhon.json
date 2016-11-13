@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113111",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 06:37:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和義街 和運街 口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113110",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 06:28:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 09:32:34",
     "Close_Date_": "2016/11/11 上午 07:26:24"
-  },
-  {
-    "FileNo_": "INS161110207",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/10 下午 09:22:28",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高雄市小港區中亨街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "電線脫落，有滋滋滋的聲音",
-    "AfterDesc_": "【主管解除管制】11/10 22：55 台電鳳山區處朱先生回報，該處人員到場查看，係為陳情人公司所屬\r\n自備線脫落，已先行協助做安全處理，並與陳情人說明完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 10:08:39",
-    "Close_Date_": "2016/11/11 上午 07:26:48"
   }
 ]
