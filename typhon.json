@@ -970,20 +970,20 @@
   },
   {
     "FileNo_": "INS161113075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 下午 03:20:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中鋼路與大業北路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處交通號誌燈之紅燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/13 17:14 交通局 智慧運輸中心 張寬如小姐回報，該處號誌已修復完畢\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 03:21:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:36:27"
   },
   {
     "FileNo_": "INS161113073",
