@@ -4234,20 +4234,20 @@
   },
   {
     "FileNo_": "INS161112113",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 下午 03:00:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國二路與民族一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請修復。",
     "AfterDesc_": "【主管解除管制】本案於 11/12 17：02 交通局 智慧運輸中心 張寬如小姐回報，該處號誌已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 03:02:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:43:24"
   },
   {
     "FileNo_": "INS161112112",
@@ -5339,20 +5339,20 @@
   },
   {
     "FileNo_": "INS161112046",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 上午 09:46:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路與京富路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/12 11:47 交通局 智慧運輸中心 潘毅華先生回報，現場號誌已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 09:48:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:43:48"
   },
   {
     "FileNo_": "INS161112045",
