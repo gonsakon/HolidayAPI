@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113063",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 01:10:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣東一街104巷18號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址房屋翻修施工機具噪音(磨砂機)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113062",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 12:57:05",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161113034",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/13 上午 09:45:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "河西路與建國四路交叉；有時鐘的三角處",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處原有12支車阻，目前全都損壞僅剩基座，望局處盡速修復，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 06:16:53",
     "Close_Date_": "2016/11/11 上午 11:53:47"
-  },
-  {
-    "FileNo_": "INS161110158",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 06:14:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大智街15巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 06:15:14",
-    "Close_Date_": ""
   }
 ]
