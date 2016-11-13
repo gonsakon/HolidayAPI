@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113041",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 上午 10:29:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山溪(中山路凱旋橋至鳳西國小一帶)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處溪水中有大量黑色塊狀漂流物，大小形狀不一，恐為上游偷排廢水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113040",
     "Status_": "1",
     "Cre_Date_": "2016/11/13 上午 10:29:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 04:53:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110136",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 04:48:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路與東豐巷",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌因遭撞，導致歪斜，無法辨識燈號，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 04:50:43",
     "Close_Date_": ""
   }
 ]
