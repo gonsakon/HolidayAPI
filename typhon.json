@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161113139",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/13 下午 09:23:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "順安路與長興路口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有不明塑膠異味惡臭致空污，疑似為附近工廠排放所致，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 09:28:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113138",
     "Status_": "1",
     "Cre_Date_": "2016/11/13 下午 09:23:48",
@@ -7158,20 +7175,20 @@
   },
   {
     "FileNo_": "INS161111184",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 下午 06:29:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路1003巷8號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/12 23:56 養工處 四維養護工程隊 江明秀小姐回報，該處路燈已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 06:31:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 09:23:27"
   },
   {
     "FileNo_": "INS161111183",
@@ -7379,20 +7396,20 @@
   },
   {
     "FileNo_": "INS161111171",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 下午 05:46:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖一路7號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/12 22:48 養工處 四維養護工程隊 江明秀小姐回報，該處路燈已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 05:47:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 09:28:50"
   },
   {
     "FileNo_": "INS161111170",
@@ -7532,20 +7549,20 @@
   },
   {
     "FileNo_": "INS161111162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 下午 05:03:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義華路272號旁單行道(陽明派出所旁邊)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處巷道有五盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/12 01：49 四維養護工程隊 陳錦茸小姐回報，該處路燈皆已修復完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 05:04:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 09:28:09"
   },
   {
     "FileNo_": "INS161111161",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 上午 07:04:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111005",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 上午 06:47:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "保安路往南，維仁橋上橋處",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處外車道有狗屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 上午 06:53:23",
     "Close_Date_": ""
   }
 ]
