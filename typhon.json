@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161113127",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 08:01:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路，青年夜市，",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處地點靠近公廁的攤販，有擴音機噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 08:02:29",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161113126",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/13 下午 07:59:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和義街與和運街",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮且底座燈蓋掉落許久，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 08:03:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 11:50:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110223",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/10 下午 10:54:26",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲一路451之17號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處前斑馬線上有一凹陷，造成陳情人緊急煞車導致打滑摔車，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 10:55:53",
     "Close_Date_": ""
   }
 ]
