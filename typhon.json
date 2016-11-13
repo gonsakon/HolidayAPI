@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113132",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 08:42:33",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "維新國小側門",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有電線垂落(電線桿號:高分維灌16 Q0245 EE24、高氛維灌17 Q0245 EE71)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113131",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 08:33:42",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161113113",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/13 下午 06:50:44",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "成功一路上與苓雅二路口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處雙向斑馬線上皆有龜裂坑洞，建請查處。",
     "AfterDesc_": "",
@@ -1565,20 +1582,20 @@
   },
   {
     "FileNo_": "INS161113039",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 上午 10:21:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "八德一路與開封路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一桿號誌燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/13 12:24 交通局 智慧運輸中心 劉志信先生回報，上述號誌已修復\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 10:22:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:42:54"
   },
   {
     "FileNo_": "INS161113038",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 11:33:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110228",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 11:27:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "南科園區中山高聯絡道路下方平面道路，與復興路交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 11:28:56",
     "Close_Date_": ""
   }
 ]
