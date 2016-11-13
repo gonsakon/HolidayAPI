@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113035",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 上午 09:54:16",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "鳥松區仁美里美山路77巷",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "目前77巷全部停電",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113034",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 上午 09:45:12",
@@ -732,14 +749,14 @@
   },
   {
     "FileNo_": "INS161112221",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/12 下午 11:28:24",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "1.大福街127巷口；2.大福街177號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映1.該處巷口有一台電方形孔蓋周邊柏油破損，2.該址前有一台電圓形孔蓋周邊柏油破損，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 04:16:14",
     "Close_Date_": "2016/11/11 上午 11:11:08"
-  },
-  {
-    "FileNo_": "INS161110130",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/10 下午 04:13:40",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全一路與孝順街口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映其車輛引擎蓋內有貓隻受困，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/10 16：42 農業局動物保護處史明德先生回報，該處先行致電陳情人時，其表示\r\n已自行處理，故人員毋須前往。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 04:15:22",
-    "Close_Date_": "2016/11/11 上午 07:53:59"
   }
 ]
