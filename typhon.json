@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161113087",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 04:25:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路二段526號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處路面/路燈/路樹，建請查處。",
+    "BeforeDesc_": "渠反映該處有2至3家店家皆使用擴音器持續播放，建請一併查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 04:29:10",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161113086",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/13 下午 04:22:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "褒揚東街與文平街口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處公園內有颱風過後整理之樹塊堆置已多日，且根部尖端部分均翹起恐割傷小朋友，建請查處。(請人員聯絡說明為何如此長時間未處理)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 04:28:30",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 08:05:51",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110183",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/10 下午 08:00:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "漁港北三路40號之3",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/12 22：40養工處四維養護工程隊值班人員江明秀小姐回報：該處已修復完\r\n畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 08:02:07",
-    "Close_Date_": "2016/11/13 上午 07:55:31"
   }
 ]
