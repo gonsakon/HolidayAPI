@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161113062",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 12:57:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "忠義路上，忠烈祠前道路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處沿線散布大量碎石，建請查處。",
+    "BeforeDesc_": "渠反映該處沿線斜坡處散布大量碎石，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/13 下午 12:59:59",
     "Close_Date_": ""
   },
   {
@@ -3486,20 +3486,20 @@
   },
   {
     "FileNo_": "INS161112087",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 下午 12:12:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海平路與實踐路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路口，因車禍造成路面油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/12 12：27 左營區清潔隊蘇耿弘先生回報，該處已清除完畢；並於11/13 11：59電\r\n覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 12:16:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 12:59:36"
   },
   {
     "FileNo_": "INS161112086",
