@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113068",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 02:04:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "裕誠路181號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道磚有凸起，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113067",
     "Status_": "1",
     "Cre_Date_": "2016/11/13 下午 02:02:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 06:32:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110163",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 06:28:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "鹽保路往永達路方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮許久，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 06:29:22",
     "Close_Date_": ""
   }
 ]
