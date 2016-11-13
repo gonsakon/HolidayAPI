@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113119",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 07:23:24",
+    "ReplyUnit_": "",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "捷運凱旋站",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "高捷凱旋站空調是否故障，已多日搭乘捷運在地下侯車處，空調都無開啟，整個地下空間空氣品質很差且悶熱，已向高捷反應多次，都得不到回應。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113118",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 07:13:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 10:02:26",
     "Close_Date_": "2016/11/11 下午 12:24:34"
-  },
-  {
-    "FileNo_": "INS161110215",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 09:58:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋西路，於柳橋上",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處橋上有2盞路燈(編號:002231、002229)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 10:04:38",
-    "Close_Date_": ""
   }
 ]
