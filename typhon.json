@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113072",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/13 下午 03:11:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重和路與文川路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處新建鐵皮屋工地，其施工機具致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 03:14:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113071",
     "Status_": "2",
     "Cre_Date_": "2016/11/13 下午 03:07:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 06:50:22",
     "Close_Date_": "2016/11/13 上午 07:50:58"
-  },
-  {
-    "FileNo_": "INS161110167",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/10 下午 06:40:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳林一路474巷7之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 06:42:13",
-    "Close_Date_": ""
   }
 ]
