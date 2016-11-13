@@ -7090,20 +7090,20 @@
   },
   {
     "FileNo_": "INS161111179",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/11 下午 06:18:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延慶街與民族一路口(延慶街上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於 11/11 21:41 交通局 智慧運輸中心 黃泰郎先生回報，該處已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 06:28:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:46:19"
   },
   {
     "FileNo_": "INS161111178",
