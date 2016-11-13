@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161113076",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/13 下午 03:24:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "愛國路與順昌街交叉口,空地圍籬前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有十多包垃圾及樹枝、玻璃等,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161113074",
     "Status_": "1",
     "Cre_Date_": "2016/11/13 下午 03:23:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/10 下午 07:16:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161110170",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/10 下午 07:11:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大成街33號與大成街31號間",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處近日遭民眾丟棄數包垃圾袋及飲料桶致環境髒亂，建請清除。",
-    "AfterDesc_": "【主管解除管制】11/10 19:50 鹽埕區清潔隊陳世年先生回報，垃圾袋及飲料桶皆已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/10 下午 07:14:17",
-    "Close_Date_": "2016/11/11 上午 07:46:41"
   }
 ]
