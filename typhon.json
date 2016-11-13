@@ -1514,20 +1514,20 @@
   },
   {
     "FileNo_": "INS161113084",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 下午 04:20:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中央公園內魚池，近中華三路一側",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處目前有民眾在釣魚，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/14 01：35 四維養護工程隊陳錦茸小姐回報，經再次巡查現場已未有發現釣魚民\r\n眾。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 04:22:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/14 上午 07:50:05"
   },
   {
     "FileNo_": "INS161113083",
