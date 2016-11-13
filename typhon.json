@@ -2160,20 +2160,20 @@
   },
   {
     "FileNo_": "INS161113002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 上午 12:05:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路與林森一路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於 11//13 01:21 環保局 溝渠隊 李文山先生回報：上述情事已清理完成；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 12:10:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:19:26"
   },
   {
     "FileNo_": "INS161113001",
@@ -2653,20 +2653,20 @@
   },
   {
     "FileNo_": "INS161112203",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 下午 09:11:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "衛武營公園(三連棟)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該處有多部機車違規停放，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11//13 02:33 養工處 四維養護工程隊 陳錦茸小姐回覆：人員再次巡查時，\r\n 已未見機車駛入；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 09:12:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:19:53"
   },
   {
     "FileNo_": "INS161112202",
@@ -4472,20 +4472,20 @@
   },
   {
     "FileNo_": "INS161112096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/12 下午 12:46:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路與建工路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍遺留路面油漬，警方仍在現場處理，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11//12 13:11 三民東區清潔隊 曾愛玲小姐回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 12:47:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/13 下午 08:20:16"
   },
   {
     "FileNo_": "INS161112095",
