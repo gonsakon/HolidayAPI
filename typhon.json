@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114113",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 01:40:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路409號(越南餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家內民眾唱卡拉OK聲音過大，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114114",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 01:39:42",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161114057",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/14 上午 10:05:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "大東公園旁鳳山溪(介於博愛路與光遠路間)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處鳳山溪河面呈現黑色，恐遭人偷排放廢水，其表示上游地方的水是土色，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 04:02:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111138",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 03:51:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山一路上公園(已過臨海三路)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該公園內公廁對面有一盞園燈燈罩遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 04:00:34",
     "Close_Date_": ""
   }
 ]
