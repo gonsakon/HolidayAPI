@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161114230",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 10:17:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔路1之66號(同順鋼品)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者作業中，",
+    "BeforeDesc_": "渠反映該業者作業中，機具運作噪音擾鄰，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/14 下午 10:18:59",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161114229",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/14 下午 10:15:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "一德路上(民權二路轉進一德路右邊第七攤)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處業者使用擴音器叫賣致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/14 下午 10:19:15",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 07:26:45",
     "Close_Date_": "2016/11/14 上午 08:02:17"
-  },
-  {
-    "FileNo_": "INS161112016",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 上午 07:22:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路一段過了鳳山TOYOTA營業所接大智陸橋，大智陸橋下方鳳山溪",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鳳山溪河面呈現黑色，恐上游遭排放廢水，望稽查人員巡查至上游，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 07:26:51",
-    "Close_Date_": ""
   }
 ]
