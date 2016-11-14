@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114184",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 06:13:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114183",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 06:04:40",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 08:25:46",
     "Close_Date_": "2016/11/12 下午 06:49:09"
-  },
-  {
-    "FileNo_": "INS161111207",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/11 下午 08:17:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "市中一路232號(36美境)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭民眾丟棄一包垃圾至環境髒亂，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/11 20:56 前金區清潔隊潘孝敬先生回覆，該處垃圾包已清除完畢；並於\r\n11/13 10：07電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 08:18:15",
-    "Close_Date_": "2016/11/13 上午 10:07:30"
   }
 ]
