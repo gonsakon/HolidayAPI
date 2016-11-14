@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114027",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 上午 09:09:51",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路三段與光明路三亂395巷口(花鄉汽車旅館",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114026",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 上午 09:06:16",
@@ -7906,14 +7923,14 @@
   },
   {
     "FileNo_": "INS161111186",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/11 下午 06:39:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "平海路106巷10號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 上午 09:52:41",
     "Close_Date_": "2016/11/12 下午 02:46:41"
-  },
-  {
-    "FileNo_": "INS161111052",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 上午 09:49:59",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武營路651號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處一方型台電孔蓋之前修復仍於夜深有鬆動噪音，望請派員進行填充孔蓋四角落改善，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 上午 09:54:51",
-    "Close_Date_": ""
   }
 ]
