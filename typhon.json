@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114159",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 04:43:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "莊敬路161號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該黃網線處有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114158",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 04:36:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 06:28:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111182",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 06:24:11",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "東林路6號前",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 06:28:45",
     "Close_Date_": ""
   }
 ]
