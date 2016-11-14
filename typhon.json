@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161114175",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/14 下午 05:48:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "英德街英德橫巷57號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一路燈桿基座損壞，致燈桿鬆動搖晃，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/14 下午 05:51:44",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114174",
     "Status_": "1",
     "Cre_Date_": "2016/11/14 下午 05:40:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 07:49:20",
     "Close_Date_": "2016/11/11 下午 08:48:01"
-  },
-  {
-    "FileNo_": "INS161111200",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 07:35:26",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新莊仔路跟博愛路交界。（巨蛋旁）",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋鬆動",
-    "BeforeDesc_": "第一個人孔蓋機車經行時會翻動",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 07:52:25",
-    "Close_Date_": ""
   }
 ]
