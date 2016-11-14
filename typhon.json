@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161114196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 07:03:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路與神農路150巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處有一台電電桿上線路發出異聲，且出現冒火花情事，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/14 下午 07:07:12",
     "Close_Date_": ""
   },
   {
