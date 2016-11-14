@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114191",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 06:49:38",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "南屏路與文信路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口小綠人倒數秒數計時器故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114190",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 06:46:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 09:09:30",
     "Close_Date_": "2016/11/14 下午 05:49:23"
-  },
-  {
-    "FileNo_": "INS161111214",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 09:04:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "鳳陽街、鳳福路附近一帶",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫化學惡臭味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 09:05:18",
-    "Close_Date_": ""
   }
 ]
