@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115020",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 07:56:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "潭底路237巷8之1號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(編號:63區046719)故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115019",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 07:51:12",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 10:10:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112052",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 上午 10:05:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與雄峰路口(舊中山國小，現在高雄女中借用校舍)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處辦理活動之擴音器與麥克風聲音過大，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 10:08:33",
     "Close_Date_": ""
   }
 ]
