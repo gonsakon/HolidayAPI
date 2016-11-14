@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161114091",
+    "FileNo_": "INS161114092",
     "Status_": "1",
+    "Cre_Date_": "2016/11/14 上午 11:34:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "民族一路靠近大中二路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處瀝青廠外人行道落葉遍佈，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161114091",
+    "Status_": "2",
     "Cre_Date_": "2016/11/14 上午 11:30:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "介壽東路(岡山交流道往岡山方向)(未至介壽路橋)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處內車道有一犬屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/14 上午 11:34:22",
     "Close_Date_": ""
   },
   {
@@ -741,7 +758,7 @@
     "UnitName_": "工務局",
     "StatusName_": "待處理",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處前汽車道目前柏油塌陷，惟塌陷次數過多疑似下方有管線所致，先由公企巡路人員查察，目前民眾先行用安全錐圍起，建請查處。",
+    "BeforeDesc_": "渠反映該處前汽車道目前柏油塌陷，惟塌陷次數過多疑似下方有管線所致，先由工企巡路人員查察，目前民眾先行用安全錐圍起，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 09:55:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 02:01:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111116",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/11 下午 01:49:55",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "營前街31號與33號之間",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映該址前的台電電桿上方有一變電箱,惟皆有滴油至下方,恐發生危險,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/12 11:10 台電鳳山區處朱先生回報，現場變電箱已修復完畢；並於11/13 14：36電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 01:53:38",
-    "Close_Date_": "2016/11/13 下午 02:40:31"
   }
 ]
