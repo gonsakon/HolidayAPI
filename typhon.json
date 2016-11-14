@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 07:44:26",
+    "ReplyUnit_": "F01017",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "復安里大崗山如意公園",
+    "UnitName_": "阿蓮區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處公園內男、女公廁內電燈皆故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115014",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 07:29:15",
@@ -4435,6 +4452,23 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 11:38:46",
     "Close_Date_": "2016/11/14 下午 04:22:01"
+  },
+  {
+    "FileNo_": "INS161113157",
+    "Status_": "3",
+    "Cre_Date_": "2016/11/13 下午 11:30:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇德路平交道上(往高雄物產館方向，於物產館對面)",
+    "UnitName_": "養工處",
+    "StatusName_": "待處理",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一路面坑洞，恐致危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/13 下午 11:31:35",
+    "Close_Date_": ""
   },
   {
     "FileNo_": "INS161113156",
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 09:57:36",
     "Close_Date_": "2016/11/13 下午 02:12:34"
-  },
-  {
-    "FileNo_": "INS161112047",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 上午 09:51:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢二路與自立二路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有工程施工，惟未灑水致揚塵空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 09:52:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112046",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 上午 09:46:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路與京富路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/12 11:47 交通局 智慧運輸中心 潘毅華先生回報，現場號誌已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 09:48:02",
-    "Close_Date_": "2016/11/13 下午 08:43:48"
   }
 ]
