@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114125",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 02:32:33",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "北汕尾8巷25號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前有一電桿，其固定的鐵線垂落，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114124",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 02:22:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 04:47:05",
     "Close_Date_": "2016/11/14 下午 01:33:30"
-  },
-  {
-    "FileNo_": "INS161111150",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 04:41:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "本洲路403號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址隔壁巷子內，一盞路燈桿下方路基塌陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 04:50:53",
-    "Close_Date_": ""
   }
 ]
