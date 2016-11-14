@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161114227",
+    "FileNo_": "INS161114228",
     "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 10:12:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "武慶一路上近瑞隆路口(往南方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有局部路面凹凸不平，導致陳情人騎乘機車打滑受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161114227",
+    "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 10:10:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
-    "address_": "角宿里四林路106號",
+    "address_": "角宿里四林路106號(富立公司)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處業者使用沖床機具致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/14 下午 10:12:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 07:22:20",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112014",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 上午 07:17:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山溪,由陸軍官校至大東公園",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處溪水呈黑色,恐遭排放廢水污染,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/13 10:59電覆陳情人未果，故於2016/11/13 11:06簡訊回覆:陳小姐您\r\n好，您11月12日反映汙染問題，本府環保局派員前往，稽查當時人員於通報地址周界巡查，水面略呈\r\n黑色，未發現有污染物排入，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 07:20:11",
-    "Close_Date_": "2016/11/13 上午 11:08:38"
   }
 ]
