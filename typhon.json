@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114227",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 10:10:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿里四林路106號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114226",
     "Status_": "1",
     "Cre_Date_": "2016/11/14 下午 10:09:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 07:20:11",
     "Close_Date_": "2016/11/13 上午 11:08:38"
-  },
-  {
-    "FileNo_": "INS161112013",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 上午 07:00:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維四路22號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前方分隔島遭人丟棄傢俱、垃圾，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 07:03:29",
-    "Close_Date_": ""
   }
 ]
