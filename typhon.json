@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114107",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 01:21:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114106",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 12:27:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 03:29:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111131",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/11 下午 03:25:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "台28線上(過田寮交流道，往旗山方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該有兩相差約10至20公尺路燈(74區F001-02、崇德幹34-右支5左分1斜對面遭樹木遮蔽那盞)白天未熄，建請一併查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 03:31:37",
     "Close_Date_": ""
   }
 ]
