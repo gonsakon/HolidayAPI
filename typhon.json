@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114223",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 09:50:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "忠義路上(忠烈祠前往中山大學方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面散落碎石，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114222",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 09:49:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 03:52:21",
     "Close_Date_": "2016/11/12 上午 05:23:34"
-  },
-  {
-    "FileNo_": "INS161112009",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 上午 03:35:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路與七賢一路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車禍，路面有散落物，建請清除。",
-    "AfterDesc_": "【主管解除管制】環保局溝渠隊莊斯宇先生於11/12 04:12回報：已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 03:37:18",
-    "Close_Date_": "2016/11/12 上午 04:16:22"
   }
 ]
