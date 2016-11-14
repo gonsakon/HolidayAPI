@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161114174",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/14 下午 05:40:59",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "802台灣高雄市前鎮區三多二路429號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線停車 停機車停等區",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/14 17:53 通報110國警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 05:54:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/14 下午 05:57:36"
   },
   {
     "FileNo_": "INS161114173",
