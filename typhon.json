@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161115013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 07:06:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "明鳳七街與明鳳八街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反一該處有道路施工未灑水，導致空污，建請查處。",
+    "BeforeDesc_": "渠反一該處有道路施工未灑水，導致揚塵空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 07:07:41",
     "Close_Date_": ""
   },
   {
