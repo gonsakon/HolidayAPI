@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114084",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 上午 11:14:50",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "哨船街75號之1，近勝田西子灣大廈",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前方有一白色汽車(車牌:9487WQ)，下方有一受傷黑色犬隻，奄奄一息，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114083",
     "Status_": "1",
     "Cre_Date_": "2016/11/14 上午 11:13:49",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161114066",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/14 上午 10:22:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海功路，雙數門牌號碼方向",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路沿線路面髒亂，有非常多落葉，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 01:20:19",
     "Close_Date_": "2016/11/11 下午 08:20:52"
-  },
-  {
-    "FileNo_": "INS161111108",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 01:16:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路三段18號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前快車道上有一、二十公尺路面龜裂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 01:19:57",
-    "Close_Date_": ""
   }
 ]
