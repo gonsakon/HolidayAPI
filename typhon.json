@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114080",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 上午 11:01:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "立志街28號對面(人行道旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處路面有多袋麻布袋、床頭矮櫃及抽屜，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114079",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 上午 10:57:25",
@@ -3809,20 +3826,20 @@
   },
   {
     "FileNo_": "INS161113014",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/13 上午 07:10:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興西路121巷6號(勤田交通有限公司)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者目前有燃燒木材及廢棄物造成空污,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/13 08:16環保局環境稽查科中區股劉翹瑋先生回報，稽查人員於08:05到達，稽查當\r\n時該址大門深鎖，於附近巡查未發現有燃燒木柴之情事；並於11/14 10：54電覆陳情人，故解除管制；惟陳情人\r\n反映該處長期空污問題，故另成非網A-TB-2016-106604追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 07:11:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/14 上午 11:03:08"
   },
   {
     "FileNo_": "INS161113015",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 01:18:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111104",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 01:03:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路95之10號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前方有路面下陷情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 01:08:36",
     "Close_Date_": ""
   }
 ]
