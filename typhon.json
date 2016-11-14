@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114119",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 02:05:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁武高中",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該校周邊有燃燒塑膠異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114118",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 02:01:43",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS161114064",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/14 上午 10:16:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "東寧路與楠泰街",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處有一公園在公園廣場內有一園樹，目前快要傾倒，致民眾經過都要繞道，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 04:21:23",
     "Close_Date_": "2016/11/12 下午 04:40:20"
-  },
-  {
-    "FileNo_": "INS161111143",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 04:11:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐一路上，近建功路口(萊爾富前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處機車道上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 04:13:09",
-    "Close_Date_": ""
   }
 ]
