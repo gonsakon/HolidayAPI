@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161114215",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 08:33:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大豐一路與昌裕街",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌黃燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/14 下午 08:34:17",
     "Close_Date_": ""
   },
   {
