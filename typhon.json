@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161114190",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/14 下午 06:46:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路上仁和公園旁(健康水果行)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該有一業者目前有使用擴音器設備致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161114189",
     "Status_": "2",
     "Cre_Date_": "2016/11/14 下午 06:41:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/11 下午 09:05:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161111213",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/11 下午 09:04:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "民族街345號(瓦斯行)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處往南方向第2盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/11 下午 09:06:10",
     "Close_Date_": ""
   }
 ]
