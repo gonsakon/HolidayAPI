@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115255",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 09:51:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路上(近義勇路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該路段國軍正進行挖管工程，因機具聲響過大，產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115254",
     "Status_": "1",
     "Cre_Date_": "2016/11/15 下午 09:46:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 12:18:21",
     "Close_Date_": "2016/11/14 上午 10:46:45"
-  },
-  {
-    "FileNo_": "INS161113055",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 下午 12:06:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路1020號6樓之1",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶冷氣滴水,建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 12:07:45",
-    "Close_Date_": ""
   }
 ]
