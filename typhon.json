@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115081",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/15 上午 10:49:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復興一路121號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有化學異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/15 上午 10:52:06",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115078",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 10:49:10",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 上午 10:52:30",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115079",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/15 上午 10:48:28",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "興仁路172巷10弄18號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/15 上午 10:51:50",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 03:09:53",
     "Close_Date_": "2016/11/14 下午 06:40:30"
-  },
-  {
-    "FileNo_": "INS161112113",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 下午 03:00:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國二路與民族一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於 11/12 17：02 交通局 智慧運輸中心 張寬如小姐回報，該處號誌已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 03:02:00",
-    "Close_Date_": "2016/11/13 下午 08:43:24"
-  },
-  {
-    "FileNo_": "INS161112112",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 02:50:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民業路13巷11弄12號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有電鑽機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 02:53:19",
-    "Close_Date_": ""
   }
 ]
