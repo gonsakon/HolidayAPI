@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115055",
+    "FileNo_": "INS161115056",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 09:28:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "明愛街與明仁路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115055",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:26:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "富新路與鳳南一路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路口號誌均閃燈運作，疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 09:28:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 12:35:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112089",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 12:27:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34號之10",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址廢鐵回收廠有粉塵產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 12:30:58",
     "Close_Date_": ""
   }
 ]
