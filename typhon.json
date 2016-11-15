@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161115050",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 09:21:52",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣州一街與林德街口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處有一不明管線開挖工程施工，惟現場未設置告示牌疑似不合法，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115053",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:20:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 12:30:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112088",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 12:26:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34號之10",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址廢鐵回收廠有機具噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 12:30:40",
     "Close_Date_": ""
   }
 ]
