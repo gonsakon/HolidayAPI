@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115113",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 01:26:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115111",
     "Status_": "1",
     "Cre_Date_": "2016/11/15 下午 01:22:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:02:08",
     "Close_Date_": "2016/11/14 上午 08:00:39"
-  },
-  {
-    "FileNo_": "INS161112146",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 05:59:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正一路(技擊館捷運站3號出口)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處今日舉辦苓雅街頭藝術節，日前已申請路燈提早放亮，惟至今仍未放亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 06:04:15",
-    "Close_Date_": ""
   }
 ]
