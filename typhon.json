@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115234",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 08:44:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國富路34號6樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處住戶有使用電鑽機具致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115233",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 08:38:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 09:58:09",
     "Close_Date_": "2016/11/15 下午 05:55:53"
-  },
-  {
-    "FileNo_": "INS161113035",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/13 上午 09:54:16",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "鳥松區仁美里美山路77巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "目前77巷全部停電",
-    "AfterDesc_": "【主管解除管制】本案於11/14 10：28經詢問台電1911陳小姐表示，該處因線路燒損已修復恢復供電；故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 10:01:35",
-    "Close_Date_": "2016/11/14 下午 05:30:39"
   }
 ]
