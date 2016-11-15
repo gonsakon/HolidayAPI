@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115123",
+    "FileNo_": "INS161115125",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 02:23:39",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路61之4號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人手孔凹陷",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115123",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 02:23:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "角宿里角宿路1之8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前方有一盞路燈(編號：286號)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 02:26:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:12:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112158",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 下午 06:08:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路要北上國道一號前之平面道路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處汽車道上有掉落一圓撬，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/12 19:34前鎮區清潔隊莊素雲小姐回報，該處物品已經清除完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 06:11:11",
-    "Close_Date_": "2016/11/14 上午 08:00:25"
   }
 ]
