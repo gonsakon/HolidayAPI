@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115244",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 09:09:32",
+    "ReplyUnit_": "",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路與勝安街口",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "中安路與勝安街口附近紅7車牌被颱風吹倒後，公車經過此路段都不停靠，造成坐車人的麻煩，請儘速派員來重新立牌 謝謝！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115243",
     "Status_": "1",
     "Cre_Date_": "2016/11/15 下午 09:08:59",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 10:42:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161113044",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 上午 10:35:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞春街69巷6號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址有房屋裝潢工程打牆機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 10:38:34",
     "Close_Date_": ""
   }
 ]
