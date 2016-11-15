@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161115191",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/15 下午 06:35:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "盛昌里啟昌街642巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處社區有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/15 下午 06:39:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115190",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 06:35:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 11:32:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112223",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/12 下午 11:30:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路，金屬研究中心對面，南往北方向",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段沿線多盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 11:33:18",
     "Close_Date_": ""
   }
 ]
