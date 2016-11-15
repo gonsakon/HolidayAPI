@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115042",
+    "FileNo_": "INS161115045",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 09:10:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "文明路33號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "路燈故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115042",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:08:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路上(新庄仔路至大中二路之間)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路段號誌燈不連鎖，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 09:09:18",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 10:57:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112076",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 上午 10:55:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "芋寮路80號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址空氣中有一燃燒塑膠異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/13 11:45電覆陳情人未果，故於2016/11/13 11:49簡訊回覆:傅先生您\r\n好，您11月12日反映空汙問題，本府環保局派員前往，周界巡查未發現燃燒塑膠異味，感謝您的熱心\r\n通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 10:56:42",
-    "Close_Date_": "2016/11/13 上午 11:49:46"
   }
 ]
