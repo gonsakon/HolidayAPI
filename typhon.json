@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115075",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 10:27:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "福德三路與武漢街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115072",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 10:18:13",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161115050",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 上午 09:21:52",
     "ReplyUnit_": "A01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣州一街與林德街口(金礦咖啡與古道店家前方)",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處有一不明管線開挖埋管工程施工，惟現場未設置告示牌疑似不合法，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 02:17:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112107",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 01:46:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路152巷128號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有裝潢機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 01:48:33",
     "Close_Date_": ""
   }
 ]
