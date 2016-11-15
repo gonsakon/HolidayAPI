@@ -86,14 +86,14 @@
   },
   {
     "FileNo_": "INS161115120",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 下午 02:11:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "仁愛公園",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該公園內園樹有傾斜與枯枝，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -1051,23 +1051,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 上午 09:59:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115063",
-    "Status_": "9",
-    "Cre_Date_": "2016/11/15 上午 09:55:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路銜接民族一路(楠梓區往南方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該路段一早起天空呈現白色且有異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:12:38",
     "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161112158",
+    "Status_": "5",
+    "Cre_Date_": "2016/11/12 下午 06:08:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路要北上國道一號前之平面道路",
+    "UnitName_": "環保局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處汽車道上有掉落一圓撬，建請查處。",
+    "AfterDesc_": "【主管解除管制】11/12 19:34前鎮區清潔隊莊素雲小姐回報，該處物品已經清除完成。",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 下午 06:11:11",
+    "Close_Date_": "2016/11/14 上午 08:00:25"
   }
 ]
