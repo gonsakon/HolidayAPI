@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161115054",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:22:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海三路與山邊路口，南下方向",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處安全島上的號誌燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 09:23:10",
     "Close_Date_": ""
   },
   {
