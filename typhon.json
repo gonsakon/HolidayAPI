@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115078",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 10:49:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光榮街15巷17號旁",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處一台電方型孔蓋鬆動，致車輛行經產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115077",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 10:38:02",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161115064",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 上午 09:57:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山溪(從大東文化藝術中心至國泰橋)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處溪水呈現黑色且有刺鼻異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 02:53:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112111",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 02:40:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路(介於中平路至金福路、南下方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處內側車道上有廢棄輪胎皮，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 02:43:36",
     "Close_Date_": ""
   }
 ]
