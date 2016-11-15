@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115188",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 06:28:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "創新路93號(台糖高雄花卉農園中心)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處店家有燃燒不明物致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115187",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 06:20:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 11:19:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112219",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/12 下午 11:12:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武嶺街89號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前一方型水溝蓋周邊水泥均已破損、快塌陷，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 11:16:38",
     "Close_Date_": ""
   }
 ]
