@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115213",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 07:40:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "橫山里興龍路200之10號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址附近整排路燈均故障不亮數日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115212",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 07:33:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 07:11:32",
     "Close_Date_": "2016/11/14 上午 11:03:08"
-  },
-  {
-    "FileNo_": "INS161113015",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 上午 07:10:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園旁鳳山溪",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鳳山溪河面呈現黑色，恐上游遭排放廢水，望稽查人員巡查至上游，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 07:13:20",
-    "Close_Date_": ""
   }
 ]
