@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115144",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 03:39:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "班超路92之2號(玄德殿)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有燃燒廢棄物致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115143",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 03:34:45",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS161115132",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/15 下午 02:45:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興一路上(近八德一路)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處疑似排水溝有刺鼻具有化學藥品之惡臭異味傳出，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 07:16:54",
     "Close_Date_": "2016/11/15 下午 01:31:24"
-  },
-  {
-    "FileNo_": "INS161112176",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 07:08:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明仁路與明愛街口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處一空地目前有怪手施工致噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 07:12:53",
-    "Close_Date_": ""
   }
 ]
