@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161115211",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 07:27:48",
     "ReplyUnit_": "E01005",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "田中路11之9號旁邊",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處水溝旁有一台電電線桿傾斜，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 07:31:38",
     "Close_Date_": ""
   },
   {
