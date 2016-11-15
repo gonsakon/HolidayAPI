@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115138",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 03:07:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "公園路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115137",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 03:06:11",
@@ -27,7 +44,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈(有一燈桿編號：橫山222)未熄，建請查處。",
+    "BeforeDesc_": "渠反映該處有兩盞路燈(有一燈桿編號：橫山222)白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:05:27",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161115129",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 下午 02:33:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路189號(T字路口)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前有一國軒路路牌已掉落顛倒懸掛，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:53:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112170",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 下午 06:49:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "正心街85號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處水溝遭排放廢水，致散發惡臭味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/12 22：06 環保局環境稽查科中區股劉翹瑋先生回報，稽查人員於20：32\r\n到達，稽查當時會同大樓管理員稽查，於周界附近巡視未發現上述排放廢水致空污情事；並於11/13 \r\n13：23電覆陳情人；惟陳情人另反映清疏問題，另派非網A-TB-2016-106350追蹤並解除管制",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 06:51:49",
-    "Close_Date_": "2016/11/13 下午 01:26:14"
   }
 ]
