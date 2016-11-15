@@ -256,19 +256,19 @@
   },
   {
     "FileNo_": "INS161116007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 上午 04:17:10",
     "ReplyUnit_": "A02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東五路66號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "K6U-051 於11月15號16:54 違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 上午 07:44:05",
     "Close_Date_": ""
   },
   {
