@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115199",
+    "FileNo_": "INS161115200",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 07:00:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由四路125號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處附近有3棵路樹範圍之人行道地磚被樹根掘起，望請改善，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115199",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 06:59:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉華路80巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該處「嘉華路80巷」路牌掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 07:00:38",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 12:10:08",
     "Close_Date_": "2016/11/13 下午 08:19:26"
-  },
-  {
-    "FileNo_": "INS161113001",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/13 上午 12:04:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路322號(外籍餐廳)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者雖為打烊情事，仍產生油煙異味情事，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/13 02:19 環保局環稽科中區股李政鴻先生回覆：人員於01:24到達，稽查當時有會\r\n同陳情人，惟該店已結束營業，人員於上址周界未發現有油煙異味情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 12:06:51",
-    "Close_Date_": "2016/11/14 上午 09:39:00"
   }
 ]
