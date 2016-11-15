@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115055",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 09:26:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "富新路與鳳南一路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115054",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:22:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 12:16:22",
     "Close_Date_": "2016/11/13 下午 12:59:36"
-  },
-  {
-    "FileNo_": "INS161112086",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/12 下午 12:00:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "梓官路582之2號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天仍放亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 12:01:41",
-    "Close_Date_": ""
   }
 ]
