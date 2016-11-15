@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161115076",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 10:28:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "自強三路52號(大樓旁)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈基座損壞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 10:29:41",
     "Close_Date_": ""
   },
   {
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115074",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/15 上午 10:25:56",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "漁港路52號(高雄銀行旁檳榔攤)",
+    "UnitName_": "工務局",
+    "StatusName_": "待確認",
+    "InformDesc_": "人手孔凹陷",
+    "BeforeDesc_": "渠反映該址前人行道有兩個不明方形孔蓋凹陷、破損，導致有異聲，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/15 上午 10:30:07",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 02:37:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112109",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 下午 02:14:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大寮路與大智街(新福市場後方)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一空地，目前有民眾正燃燒草堆及垃圾致空汙，建請稽查。",
-    "AfterDesc_": "【主管解除管制】本案於11/12 15:56 環保局稽查科南區股戴宏霖先生回報，稽查人員於15：28到\r\n達，現場稽查未發現有露天燃燒致空污情事；並於11/13 13：50電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 02:17:05",
-    "Close_Date_": "2016/11/13 下午 01:05:09"
   }
 ]
