@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115164",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 05:23:08",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "榮新街161號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址大樓前整條水溝溝面下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115162",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 05:17:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 08:14:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112194",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 08:12:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路178號(小北百貨前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處快車道路面下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 08:14:58",
     "Close_Date_": ""
   }
 ]
