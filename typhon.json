@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115189",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 06:31:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "山霸煙路(近阿公店溪)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫豬排泄物之惡臭味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115188",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 06:28:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 11:36:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112220",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 11:13:01",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "王生明路107號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址前有一犬隻遭撞受傷，建請救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 11:19:58",
     "Close_Date_": ""
   }
 ]
