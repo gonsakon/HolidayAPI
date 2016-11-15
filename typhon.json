@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115151",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 04:38:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟一路上(民族一路往自由一路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處沿線路面凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115149",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 04:13:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 07:31:35",
     "Close_Date_": "2016/11/13 下午 08:59:22"
-  },
-  {
-    "FileNo_": "INS161112182",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 07:27:13",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路與孟子路交叉口(自由路上，靠近黃昏市場)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓之遭到車輛撞傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 07:30:04",
-    "Close_Date_": ""
   }
 ]
