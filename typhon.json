@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115252",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 09:41:16",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "龍勝路",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "11月15號 16:49\n這機車違規停車於龍勝路（接近明誠三路）",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115251",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 09:34:24",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161115242",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 下午 09:08:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路534巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有民眾亂丟一垃圾包，望請派稽查人員前往，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 11:10:53",
     "Close_Date_": "2016/11/13 下午 08:17:30"
-  },
-  {
-    "FileNo_": "INS161113052",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 上午 11:01:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "實踐路上，左營國小",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該校目前在做施工，惟帆布未蓋確實，現場亦無灑水，故塵土飛揚致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 11:02:50",
-    "Close_Date_": ""
   }
 ]
