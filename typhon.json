@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115041",
+    "FileNo_": "INS161115042",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 09:08:16",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路上(新庄仔路至大中二路之間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路段號誌燈不連鎖，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115041",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 09:06:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路536號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 上午 09:08:00",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 10:56:42",
     "Close_Date_": "2016/11/13 上午 11:49:46"
-  },
-  {
-    "FileNo_": "INS161112074",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 上午 10:50:17",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南京路387巷2號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一流浪犬受傷躲在車子底下不出來，致其車輛無法移動，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 上午 10:53:25",
-    "Close_Date_": ""
   }
 ]
