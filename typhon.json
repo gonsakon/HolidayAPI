@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115077",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 上午 10:38:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安西路671巷26號開始沿線往南約100、200公尺",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處沿線路面嚴重凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115076",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 10:28:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 02:43:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112110",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/12 下午 02:35:50",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河堤路與明誠二路口，愛河自行車步道西側",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌與前後路口號誌燈不連鎖，建請修繕。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 02:37:04",
     "Close_Date_": ""
   }
 ]
