@@ -85,23 +85,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161115015",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/15 上午 07:44:26",
-    "ReplyUnit_": "F01017",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "復安里大崗山如意公園",
-    "UnitName_": "阿蓮區公所",
-    "StatusName_": "建立中",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處公園內男、女公廁內電燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161115014",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 上午 07:29:15",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/12 上午 10:10:43",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161112052",
+    "Status_": "4",
+    "Cre_Date_": "2016/11/12 上午 10:05:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路與雄峰路口(舊中山國小，現在高雄女中借用校舍)",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處辦理活動之擴音器與麥克風聲音過大，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/12 上午 10:08:33",
     "Close_Date_": ""
   }
 ]
