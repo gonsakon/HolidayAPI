@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161115265",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 10:42:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "博愛一路391號前(北向南機車道上)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前有一車禍，導致路面有大量碎玻璃，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 10:44:07",
     "Close_Date_": ""
   },
   {
@@ -843,7 +843,7 @@
     "UnitName_": "養工處",
     "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該三處大範圍路燈皆故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該兩處大範圍路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 07:52:44",
