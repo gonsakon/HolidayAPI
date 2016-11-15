@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115136",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 03:02:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "大占巷(深水派出所再往裡面行駛)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈(其中一盞編號：橫山2222)未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115135",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 02:52:25",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161115132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 02:45:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興一路上(近八德一路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處疑似排水溝有刺鼻具有化學藥品之惡臭異味傳出，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 03:05:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:44:55",
     "Close_Date_": "2016/11/13 下午 01:19:32"
-  },
-  {
-    "FileNo_": "INS161112168",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/12 下午 06:39:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "崙頂70之15號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障閃爍，建請查處。( 路燈編號：1631)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 06:41:28",
-    "Close_Date_": ""
   }
 ]
