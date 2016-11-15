@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161115112",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 01:20:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "和平一路201巷旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷口遭堆放建築廢棄物已一個禮拜未清，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115110",
     "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 01:15:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/12 下午 06:04:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161112145",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/12 下午 05:53:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路與美山路口",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處目前變電箱爆炸，造成臨時停電，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/13 09：29 經詢問台電1911 洪先生表示，上述情事係因變壓器故障所致，已修復\r\n 完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/12 下午 06:00:33",
-    "Close_Date_": "2016/11/13 下午 08:50:28"
   }
 ]
