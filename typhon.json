@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161115275",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 11:19:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "樹興街15號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處附近有不明機具運轉噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161115274",
     "Status_": "1",
     "Cre_Date_": "2016/11/15 下午 11:17:01",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 03:49:13",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161113076",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/13 下午 03:24:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "愛國路與順昌街交叉口,空地圍籬前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有十多包垃圾及樹枝、玻璃等,請查處。",
-    "AfterDesc_": "【主管解除管制】11/13 16：05 三民東區清潔隊郭康尉小姐回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 03:27:04",
-    "Close_Date_": "2016/11/14 上午 07:58:18"
   }
 ]
