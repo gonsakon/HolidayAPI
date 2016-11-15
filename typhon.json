@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161115202",
+    "FileNo_": "INS161115203",
     "Status_": "1",
+    "Cre_Date_": "2016/11/15 下午 07:04:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "美濃區中壇橋下方(南邊堤防往德興方向16盞燈壞掉3分之2)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161115202",
+    "Status_": "2",
     "Cre_Date_": "2016/11/15 下午 07:04:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路325巷2號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/15 下午 07:05:27",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 上午 01:01:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161113004",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/13 上午 12:51:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中鋼路上(中鋼北門前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處汽車道路面有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/13 01:17 溝渠隊林漢宗先生回報：該處已清理完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 上午 12:54:34",
-    "Close_Date_": "2016/11/14 上午 07:59:19"
   }
 ]
