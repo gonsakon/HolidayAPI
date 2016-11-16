@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161116159",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 06:38:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲樹路8號至14號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段有5盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 06:39:39",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 06:37:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳東五街25號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址住家周界目前有瀰漫一股化學塑膠異味致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 06:39:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 11:15:14",
     "Close_Date_": "2016/11/14 上午 11:16:48"
-  },
-  {
-    "FileNo_": "INS161114077",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 上午 10:56:28",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "安吉街150號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "房客養的狗，晚上無人照顧，半夜發出吠聲，困擾週邊居民",
-    "AfterDesc_": "此案以派工INS161114078相同，屬妨礙安寧，權責為警方，已轉呈人民陳情案件A-TB-2016-106608由警察局賡續\r\n辦理",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:12:00",
-    "Close_Date_": "2016/11/14 上午 11:18:18"
   }
 ]
