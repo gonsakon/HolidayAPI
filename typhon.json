@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116055",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 上午 10:17:06",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森一路43巷，約7號位置",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一貓隻受困陽台兩天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116053",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 上午 10:13:11",
@@ -18,36 +35,36 @@
   },
   {
     "FileNo_": "INS161116052",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 上午 10:12:23",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港東三路與漁港中二路",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋下陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 上午 10:16:28",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161116051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 上午 10:12:08",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "興漁二路",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該路段沿線有4個水溝蓋破洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 上午 10:16:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 09:21:36",
     "Close_Date_": "2016/11/14 下午 03:20:07"
-  },
-  {
-    "FileNo_": "INS161113134",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 下午 08:53:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "至真路6巷(補習班後方)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷巷尾有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 08:54:56",
-    "Close_Date_": ""
   }
 ]
