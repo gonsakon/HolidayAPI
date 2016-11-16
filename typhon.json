@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161116137",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:43:24",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合路164號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該址前一高汙水圓形人孔蓋鬆動致車輛行經產生噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 05:46:28",
     "Close_Date_": ""
   },
   {
@@ -1242,20 +1242,20 @@
   },
   {
     "FileNo_": "INS161116065",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 11:03:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山火車站前站至後站地下道及後站出口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄許多飲料罐及有液體灑出，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/16 13:54鳳山區清潔隊黃素芬小姐回報，皆已清除完畢；並於11/16 17：44電覆陳\r\n情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:09:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/16 下午 05:49:01"
   },
   {
     "FileNo_": "INS161116064",
