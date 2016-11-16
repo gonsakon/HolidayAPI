@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116145",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 05:57:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "萬丹路630號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前路燈損毀，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116144",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:54:19",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161116143",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:53:00",
     "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "衛武營公園",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "衛武營公園(靠近鳳甲國中)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "",
+    "StatusName_": "待確認",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該園內園燈多盞不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 05:57:24",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:19:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114064",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 10:16:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "東寧路與楠泰街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處有一公園在公園廣場內有一園樹，目前快要傾倒，致民眾經過都要繞道，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:18:11",
     "Close_Date_": ""
   }
 ]
