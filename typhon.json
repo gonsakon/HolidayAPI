@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116093",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 01:59:17",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路與漁港路路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈號故障，表示新生路綠燈時，漁港路也亮右轉燈，恐造成行車擦撞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116092",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 01:49:26",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161116065",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 上午 11:03:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山火車站前站至後站地下道及後站出口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄許多飲料罐及有液體灑出，建請清除。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 07:45:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114011",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 07:28:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路939號，黑貓宅急便",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址旁的巷子內有不明路面漬，造成機車摔車，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 07:33:58",
     "Close_Date_": ""
   }
 ]
