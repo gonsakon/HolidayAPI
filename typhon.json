@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161116111",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 03:55:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪三十五街與高坪六十街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處道路遭民眾丟棄黑色垃圾包，造成環境髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 03:59:08",
     "Close_Date_": ""
   },
   {
@@ -7192,20 +7192,20 @@
   },
   {
     "FileNo_": "INS161114209",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/14 下午 08:21:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學二十一路與大學三十三街交叉口(公園6號、公園7號)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該路口有兩個公園，目前兩公園內之園燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/16 08：53 養工處四維養護工隊值班人員陳錦茸小姐回報，已修復完畢；\r\n並於11/16 15：50電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 08:23:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/16 下午 03:58:22"
   },
   {
     "FileNo_": "INS161114208",
