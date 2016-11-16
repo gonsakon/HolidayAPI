@@ -205,19 +205,19 @@
   },
   {
     "FileNo_": "INS161116123",
-    "Status_": "1",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 下午 04:55:44",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區自由路426號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "處理完成",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "多輛機車違規停車佔用人行道",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 05:38:08",
     "Close_Date_": ""
   },
   {
