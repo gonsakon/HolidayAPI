@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 07:07:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "南屏路與文信路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路口號誌燈閃燈，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 07:10:56",
     "Close_Date_": ""
   },
   {
