@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116166",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 07:32:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中正路二段169巷9號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈燈光過於昏暗，似有故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116165",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 07:23:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 11:20:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114084",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 11:14:50",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "哨船街75號之1，近勝田西子灣大廈",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址前方有一白色汽車(車牌:9487WQ)，下方有一受傷黑色犬隻，奄奄一息，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:18:08",
     "Close_Date_": ""
   }
 ]
