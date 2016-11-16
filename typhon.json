@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116136",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 05:40:00",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路532號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "11月16號14:47 ，ARB-1237 違規臨停於兆豐銀行外面馬路上",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116135",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:31:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:03:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114054",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 10:00:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "山隙路85巷25號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，望請會同查處。 (請於晚上7點過後會同)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:03:11",
     "Close_Date_": ""
   }
 ]
