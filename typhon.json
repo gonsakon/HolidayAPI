@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116137",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 05:43:24",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合路164號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址前一高汙水圓形人孔蓋鬆動致車輛行經產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116136",
     "Status_": "1",
     "Cre_Date_": "2016/11/16 下午 05:40:00",
@@ -2415,20 +2432,20 @@
   },
   {
     "FileNo_": "INS161115272",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 10:59:50",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "林森一路12號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處水溝蓋旁水泥破損脫落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/16 10:43水利局市排一科陳頤萱小姐回報，該處水溝面皆未有損壞情事，經查看係\r\n為路面AC破損，屬養工處權責，故改派INS161116059 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 11:01:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/16 下午 05:42:13"
   },
   {
     "FileNo_": "INS161115271",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:10:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114055",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 10:02:59",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明賢街58號",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該處有一寬頻孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:03:45",
     "Close_Date_": ""
   }
 ]
