@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117016",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 07:58:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "成功二路上，新光路到時代大道",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處沿線號誌燈不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117015",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 07:49:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 03:19:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114136",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 03:17:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "自強三路203巷2號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址空屋皆有野貓進入造成髒亂惡臭且孳生蚊蟲，對此唯恐產生登革熱疫情，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 03:24:57",
     "Close_Date_": ""
   }
 ]
