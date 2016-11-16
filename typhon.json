@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117006",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 01:40:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117005",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 01:17:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 02:52:03",
     "Close_Date_": "2016/11/15 下午 02:15:25"
-  },
-  {
-    "FileNo_": "INS161114128",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 02:48:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "復興街3巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該巷路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 02:52:17",
-    "Close_Date_": ""
   }
 ]
