@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161116132",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 05:17:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "博愛一路158號與160號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址業者目前有使用擴音器設備致噪音情事，建請會同查處。(前往之前需先與陳情人聯繫，另有提供測點)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 05:22:54",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116131",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:14:15",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161116093",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 下午 01:59:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路與漁港路路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈號故障，表示新生路綠燈時，漁港路也亮右轉燈，恐造成行車擦撞，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:02:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114051",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 09:59:05",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "立莊路35巷25弄轉角",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處有一污水孔蓋周邊柏油剝落破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:39:57",
     "Close_Date_": ""
   }
 ]
