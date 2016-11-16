@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116063",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 上午 10:59:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "文橫一路與民生一路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面塌陷(一)",
+    "BeforeDesc_": "渠反映該處待轉區有一路面塌陷，一個月前才修補過又再次塌陷，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116061",
     "Status_": "1",
     "Cre_Date_": "2016/11/16 上午 10:59:32",
@@ -1344,14 +1361,14 @@
   },
   {
     "FileNo_": "INS161115261",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/15 下午 10:30:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "義大路上",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 09:47:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161113142",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/13 下午 09:26:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明衙路115號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址右側位置有一盞LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 09:27:37",
     "Close_Date_": ""
   }
 ]
