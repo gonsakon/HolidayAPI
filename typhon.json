@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116160",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 07:02:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿路與中興路口(角宿路沿線)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段沿線凹凸不平，且有許多坑洞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 07:03:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116159",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 06:38:31",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161116156",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 下午 06:24:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路與熱河一街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路口有發生車禍，路面有大量油漬，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:58:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114078",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 上午 10:57:09",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "安吉街150號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "妨害安寧",
-    "BeforeDesc_": "房客養的狗，晚上無人照顧，半夜發出吠聲，困擾週邊居民",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-106608由警察局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:15:14",
-    "Close_Date_": "2016/11/14 上午 11:16:48"
   }
 ]
