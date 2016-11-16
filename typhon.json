@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 07:49:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "竹圍西街81號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該址一盞路燈已多日白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117014",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 上午 07:43:52",
@@ -2908,20 +2925,20 @@
   },
   {
     "FileNo_": "INS161116044",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 09:47:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "美興街全線",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段道路兩旁路面髒亂，尤以月光山隧道口更為嚴重，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 11:45美濃區清潔隊羅凱明先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 09:52:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:51:36"
   },
   {
     "FileNo_": "INS161116043",
@@ -2976,20 +2993,20 @@
   },
   {
     "FileNo_": "INS161116040",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 09:21:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正四路49號至53號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道有狗便，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 09:29 新興區清潔隊許瓊方小姐回報，其權責僅到中正路43號，其餘係屬於\r\n前金區清潔隊權責，人員表示已協助清理完成，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 09:23:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:51:49"
   },
   {
     "FileNo_": "INS161116039",
@@ -3180,20 +3197,20 @@
   },
   {
     "FileNo_": "INS161116028",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 08:27:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "經建路1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址有流浪幼貓屍體，已先行裝箱，建請清除。(請人員到達後聯繫)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 09:03 大社區清潔隊薛佳芬小姐成功回報，人員於08:55抵達，09:00聯繫陳\r\n情人後已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 08:29:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:51:06"
   },
   {
     "FileNo_": "INS161116027",
@@ -3401,20 +3418,20 @@
   },
   {
     "FileNo_": "INS161116017",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 06:52:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎成街27號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有狗便，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 07:58三民東區清潔隊翁舜華小姐回報，已清除完畢",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 06:53:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:52:17"
   },
   {
     "FileNo_": "INS161116014",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 03:24:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114138",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 03:17:10",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金山路140號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前柏油鋪設完成但水溝目前沒有水溝蓋，望局處前往補蓋，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/14 15:57 水利局市排一科張珞婕小姐回報，該處並非水溝，正確為私設斜坡道，陳\r\n情人誤以為要加蓋之處為斜坡道凹槽，需由住家自行處理，已連繫陳情人說明完成；並於11/15 14：19電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 03:19:33",
-    "Close_Date_": "2016/11/15 下午 02:23:39"
   }
 ]
