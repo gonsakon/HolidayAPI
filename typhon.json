@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161116034",
+    "FileNo_": "INS161116035",
     "Status_": "1",
-    "Cre_Date_": "2016/11/16 上午 08:56:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "",
-    "UnitName_": "環保局",
+    "Cre_Date_": "2016/11/16 上午 09:00:34",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山田路82號",
+    "UnitName_": "工務局",
     "StatusName_": "建立中",
-    "InformDesc_": "噪音",
+    "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161116034",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 上午 08:56:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣東一街72號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住宅進行整修工程，惟電鑽機具致噪音擾民，建請稽查。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 上午 08:59:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 07:13:25",
     "Close_Date_": "2016/11/15 下午 01:54:21"
-  },
-  {
-    "FileNo_": "INS161113116",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/13 下午 07:10:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "鞍平巷1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 07:13:41",
-    "Close_Date_": ""
   }
 ]
