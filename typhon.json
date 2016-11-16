@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116152",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 06:15:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "灣內里八德東路515號旁邊(灣北公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處公園內有多盞園燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116151",
     "Status_": "1",
     "Cre_Date_": "2016/11/16 下午 06:12:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:46:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114070",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/14 上午 10:41:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八卦里京富路與京文街",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處京文街側路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:42:48",
     "Close_Date_": ""
   }
 ]
