@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116049",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 上午 10:02:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116048",
     "Status_": "1",
     "Cre_Date_": "2016/11/16 上午 10:01:38",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161116035",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 上午 09:00:34",
     "ReplyUnit_": "A01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山田路82號(空地旁轉角處)",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "渠反映該轉角處路面有一方型孔蓋凹陷，致與路面落差10公分高，造成長者不慎摔傷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 08:35:20",
     "Close_Date_": "2016/11/14 下午 02:53:19"
-  },
-  {
-    "FileNo_": "INS161113130",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/13 下午 08:29:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "充龍街17巷與充龍街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路邊有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/13 22:37溝渠隊李文山先生回報，該處貓屍已清除完畢；並於11/14 14：46電覆陳\r\n情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 08:32:19",
-    "Close_Date_": "2016/11/14 下午 02:50:41"
   }
 ]
