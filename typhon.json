@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116129",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 05:07:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路與澄觀路一段(國道10號附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空地有民眾圍起在燃燒稻草，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 05:10:28",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116128",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:06:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 09:55:52",
     "Close_Date_": "2016/11/14 下午 06:45:05"
-  },
-  {
-    "FileNo_": "INS161114047",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 09:43:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大中一路，榮總醫院後方；愛河",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處愛河河堤兩長圓柱體，遭車輛撞斷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 09:45:35",
-    "Close_Date_": ""
   }
 ]
