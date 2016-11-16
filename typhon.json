@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116163",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 07:14:00",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "苓雅區文橫二路111號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "多輛汽機車違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116161",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 07:09:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 11:04:33",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114080",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 11:01:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "立志街28號對面(人行道旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路面有多袋麻布袋、床頭矮櫃及抽屜，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:03:46",
     "Close_Date_": ""
   }
 ]
