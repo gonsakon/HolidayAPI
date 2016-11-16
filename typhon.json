@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116146",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 06:02:15",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "裕興路37巷30弄口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該路口有一高市寬頻孔蓋鬆動產生噪音，已用白色XX標記，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116145",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 05:57:25",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:20:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114065",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/14 上午 10:17:57",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "鼎盛街44號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一圓形污水孔蓋破損，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:19:58",
     "Close_Date_": ""
   }
 ]
