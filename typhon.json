@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116141",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 05:48:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "德松里樹德路213號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮已兩個月，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116140",
     "Status_": "1",
     "Cre_Date_": "2016/11/16 下午 05:47:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 10:08:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114059",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 10:06:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明賢街88號對面(明堤公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處四周行道磚突起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 10:11:08",
     "Close_Date_": ""
   }
 ]
