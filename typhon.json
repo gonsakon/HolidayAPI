@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 06:46:17",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復興二路與五福二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌不變燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117009",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 06:42:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 03:03:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114132",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 03:00:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "創新路580號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處人員剪除人行道雜草後，將雜草堆放，導致雜草隨風飄散至髒亂情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 03:02:06",
     "Close_Date_": ""
   }
 ]
