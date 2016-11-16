@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116192",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 09:51:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路2之58號(親親小吃部)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者使用擴音器唱卡拉OK，致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 09:56:02",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116191",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 09:45:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 01:29:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114109",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 01:27:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "文賢北路53號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈桿已傾斜，即將要傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 01:28:40",
     "Close_Date_": ""
   }
 ]
