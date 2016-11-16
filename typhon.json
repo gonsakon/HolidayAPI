@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116193",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 10:07:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "河西路167號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前1盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116192",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 09:51:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 01:36:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114110",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/14 下午 01:27:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "永華路上(路燈編號:高分營後41、62、71)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有三盞路燈故障不亮，其表示已經一個月未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 01:29:49",
     "Close_Date_": ""
   }
 ]
