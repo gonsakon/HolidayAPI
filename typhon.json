@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161116165",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 07:23:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大勇路與大仁路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有流動卡拉OK攤販，有唱歌擴音機噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 07:25:00",
     "Close_Date_": ""
   },
   {
@@ -48,6 +48,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:21:48",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161116162",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 07:12:31",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "文信路218號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處路中央一高污水圓形孔蓋鬆動，致車輛行經有聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 07:24:46",
     "Close_Date_": ""
   },
   {
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161116140",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 下午 05:47:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "澄觀路與鳳仁路口，澄觀路上往左營方向",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 11:18:08",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114083",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 上午 11:13:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路98號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處風災時人行道路樹傾倒造成周邊地磚隆起下陷，雖樹木已移除卻留有一坑洞，行道磚破損至今仍未修繕處理，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/14 14：20 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已設置警示，並\r\n納入災後復建工程，故轉非網:A-TB-2016-106686後續辦理；並於11/15 13：57電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:15:53",
-    "Close_Date_": "2016/11/15 下午 02:01:31"
   }
 ]
