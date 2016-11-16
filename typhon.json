@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116172",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 08:01:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡燕路上與岡燕路485巷口(台亞加油站旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該車道雙黃線上有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116171",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 07:48:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 11:34:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114090",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 上午 11:27:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "本工六路與本洲六街口，本工六路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一線路由路燈桿上垂落，可能會勾到騎士，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 11:29:13",
     "Close_Date_": ""
   }
 ]
