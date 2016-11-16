@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116057",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/16 上午 10:27:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合一路49之14號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "該處遭人堆置傢俱",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116056",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 上午 10:19:24",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161116053",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/16 上午 10:13:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海一路81號前，檳榔攤前變電箱旁",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，已先行以布袋裝起，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/13 下午 09:30:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161113137",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/13 下午 09:19:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "三民路，郵局門口前面",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "省道破損",
-    "BeforeDesc_": "渠反映該處路面有一地磚破損翹起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/13 下午 09:20:59",
     "Close_Date_": ""
   }
 ]
