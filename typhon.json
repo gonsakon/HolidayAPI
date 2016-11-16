@@ -2262,20 +2262,20 @@
   },
   {
     "FileNo_": "INS161116082",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 下午 12:19:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "1.崇安街與港壽街到金福路  2.金福路與翠亨南路，往大魯閣方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該兩址路段路面有許多垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 14：23 前鎮區清潔隊邱健治先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 12:25:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:45:51"
   },
   {
     "FileNo_": "INS161116081",
@@ -2415,20 +2415,20 @@
   },
   {
     "FileNo_": "INS161116073",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 11:32:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "自由路131號(松順噴射器行)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該業者在維修大型車輛，其滴落的油漬在路面上，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 14:41 大寮區清潔隊唐莉娜小姐回報，路面沒有油漬，現場店家老闆也在，\r\n故轉告業者如有油漬要立即清除。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:34:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:45:09"
   },
   {
     "FileNo_": "INS161116071",
