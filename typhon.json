@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161117014",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 07:43:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "裕誠路70與78號",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處大樓前號誌燈略有下垂，恐造成用路人辨識困難，希望調整改善，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 07:54:17",
     "Close_Date_": ""
   },
   {
@@ -3656,20 +3656,20 @@
   },
   {
     "FileNo_": "INS161116001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 上午 12:38:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自治街與自治街65巷交叉口(自治公園外面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映道路上有許多使用過後之塑膠袋，造成環境髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 01：19 溝渠隊杜金華先生回報，現場數量甚多，須請區清潔隊稽查進行查\r\n察，目前暫無立即危險性及妨礙交通情事，故轉派非網A-TB-2016-107258賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 12:42:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:57:22"
   },
   {
     "FileNo_": "INS161115280",
@@ -3690,20 +3690,20 @@
   },
   {
     "FileNo_": "INS161115279",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 11:49:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大仁路(近228紀念公園)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/16 00:45 溝渠隊李文山先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 11:51:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:57:32"
   },
   {
     "FileNo_": "INS161115278",
