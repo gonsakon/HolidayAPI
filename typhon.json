@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117002",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 12:32:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路120號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前方左斜角有一盞路燈故障時亮時滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 12:33:26",
     "Close_Date_": ""
   },
   {
