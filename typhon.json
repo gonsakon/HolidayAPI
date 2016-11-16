@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161116083",
+    "FileNo_": "INS161116084",
     "Status_": "1",
+    "Cre_Date_": "2016/11/16 下午 12:32:56",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽東路與岡燕路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映現該路口右轉號誌皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161116083",
+    "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 12:27:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文化路文華兒童公園旁人行道上(鞋子大王正對面)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處變電箱旁遭堆置許多廢棄物，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/16 下午 12:29:14",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 上午 02:19:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114002",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 上午 12:30:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "興工路上(中石化)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該工廠煙囪正在排放黑煙空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/15 09：06電覆陳情人未果，故於11/15 09：14簡訊回覆：陳先生您好，您11月14日\r\n所反映黑煙空污問題，經本府環保局前往稽查，稽查時於通報路段沿線巡查，未發現有黑煙導致空汙情事，感謝\r\n您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 上午 12:34:49",
-    "Close_Date_": "2016/11/15 上午 09:18:12"
   }
 ]
