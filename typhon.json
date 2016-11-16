@@ -3741,20 +3741,20 @@
   },
   {
     "FileNo_": "INS161115276",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 11:21:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山凱旋陸橋上(往小港方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該橋樑上橋處中間車道有一不明掉落物，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/15 23:56 溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 11:24:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:57:43"
   },
   {
     "FileNo_": "INS161115275",
@@ -3928,20 +3928,20 @@
   },
   {
     "FileNo_": "INS161115265",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 10:42:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "博愛一路391號前(北向南機車道上)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前有一車禍，導致路面有大量碎玻璃，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/15 23:16溝渠隊杜金華先生回報，該處玻璃碎片已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 10:44:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:57:53"
   },
   {
     "FileNo_": "INS161115264",
@@ -4132,20 +4132,20 @@
   },
   {
     "FileNo_": "INS161115253",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 09:44:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "垃圾山(停車場內)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處停車場內有一貓屍已發臭，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/15  22:22  鳳山區清潔隊謝振隆先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 09:47:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 07:57:03"
   },
   {
     "FileNo_": "INS161115252",
