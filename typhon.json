@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161116199",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/16 下午 10:43:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路39號(逐鹿炭烤)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有傳出不明低頻噪音，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/16 下午 10:47:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161116198",
     "Status_": "2",
     "Cre_Date_": "2016/11/16 下午 10:35:34",
@@ -9640,14 +9657,14 @@
   },
   {
     "FileNo_": "INS161114149",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/14 下午 03:53:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路804號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處機車道旁一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 01:56:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114115",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 01:52:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "新盛二街99號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址有一貓屍，建請會同勘查。(陳情人要求會同)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 01:57:56",
     "Close_Date_": ""
   }
 ]
