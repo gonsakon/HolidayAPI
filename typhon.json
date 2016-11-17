@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117172",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 05:59:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南進五街12號對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 05:59:33",
     "Close_Date_": ""
   },
   {
