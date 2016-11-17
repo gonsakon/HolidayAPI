@@ -4659,20 +4659,20 @@
   },
   {
     "FileNo_": "INS161115252",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 09:41:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "龍勝路",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "11月15號 16:49這機車違規停車於龍勝路（接近明誠三路）",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於人民陳情案件A-TB-2016-107236由警察局辦理，倘您對本案處理有疑問，歡迎您再電\r\n洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 10:11:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 09:13:27"
   },
   {
     "FileNo_": "INS161115251",
