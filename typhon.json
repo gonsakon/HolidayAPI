@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161117249",
+    "FileNo_": "INS161117250",
     "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 10:29:35",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "英德街與廣州三街口(二聖公園那側，公共電話亭旁)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一隻白色疑似生病、走不動之流浪犬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117249",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 10:28:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由三路176號旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈時亮時滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 10:29:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:44:32",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115130",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/15 下午 02:40:22",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中正三路與開封路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口行人號誌燈倒數秒器故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/15 16:25 交通局智慧運輸中心張寬如小姐回報，該處已修復；並於\r\n11/16 16：20電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:41:09",
-    "Close_Date_": "2016/11/16 下午 04:21:02"
   }
 ]
