@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117241",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 08:48:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路170號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有一老鼠屍體，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117240",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 下午 08:48:38",
@@ -1361,14 +1378,14 @@
   },
   {
     "FileNo_": "INS161117160",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/17 下午 05:31:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路二段205號附近，玫瑰小吃部",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者有擴音器撥放音樂噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:17:48",
     "Close_Date_": "2016/11/16 下午 04:27:45"
-  },
-  {
-    "FileNo_": "INS161115121",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:15:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "忠誠街205巷與成功路3巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有兩盞以上路燈白天未熄，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:16:47",
-    "Close_Date_": ""
   }
 ]
