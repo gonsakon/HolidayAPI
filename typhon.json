@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117254",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 11:01:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路588號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前路燈沿線多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117253",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 10:43:44",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161117252",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/17 下午 10:38:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉興路255號斜對面(郵局斜對面)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映有不明道路工程，惟未設置施工告示牌，且改道標示不清，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:56:23",
     "Close_Date_": "2016/11/17 上午 07:58:58"
-  },
-  {
-    "FileNo_": "INS161115134",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:51:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路450號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:53:29",
-    "Close_Date_": ""
   }
 ]
