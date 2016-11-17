@@ -51,6 +51,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161117022",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 上午 08:19:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山溪",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處溪水呈現黑色，疑似遭到工廠偷排廢水汙染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 上午 08:24:00",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117020",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 08:09:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 03:53:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114146",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 03:45:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "典昌路陸橋上方(由北往南，未到復興西路前方50公尺 )",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處機車道上有一包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 03:51:41",
     "Close_Date_": ""
   }
 ]
