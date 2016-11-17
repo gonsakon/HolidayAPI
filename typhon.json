@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117098",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 12:35:50",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫二路與土庫一路(豐花園)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處地下室白色休旅車(車牌:3058H5)內有一貓咪受傷且受困在引擎內，建起查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117097",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 12:25:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 09:46:18",
     "Close_Date_": "2016/11/16 下午 03:54:04"
-  },
-  {
-    "FileNo_": "INS161114220",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 09:34:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路373巷25號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(路燈編號:000557)故障不亮",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 09:36:56",
-    "Close_Date_": ""
   }
 ]
