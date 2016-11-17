@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117257",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 11:08:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁林路與水管路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117256",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 11:05:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:15:33",
     "Close_Date_": "2016/11/17 下午 01:59:26"
-  },
-  {
-    "FileNo_": "INS161115137",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 03:06:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "南星路與鳳北路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該路口疑似附近台電工廠排放大量黑煙致空污情事，建請派員儘速查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 03:07:05",
-    "Close_Date_": ""
   }
 ]
