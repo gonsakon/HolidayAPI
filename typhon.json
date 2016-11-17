@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117187",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 06:25:07",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路與大昌二路477巷口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈，綠紅燈皆會一閃一閃，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 06:26:12",
     "Close_Date_": ""
   },
   {
