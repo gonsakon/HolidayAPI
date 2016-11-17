@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161117051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 09:31:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
-    "address_": "大湖里民族街110巷內，約200處香蕉園內",
+    "address_": "大湖里民族街110巷內，約200公尺處香蕉園內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一流浪狗屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 09:33:00",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117050",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 上午 09:30:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "達仁街63號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 上午 09:32:30",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 05:54:11",
     "Close_Date_": "2016/11/14 下午 05:57:36"
-  },
-  {
-    "FileNo_": "INS161114173",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 05:40:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "龍水二路17號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 05:42:19",
-    "Close_Date_": ""
   }
 ]
