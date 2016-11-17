@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117238",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 08:35:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓加工區7號出口(愛光塑膠工廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117237",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 08:32:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:13:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115118",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:07:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路與八德一路(八德拖吊場對面)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處汽車停車格內，遭堆置大量廢棄磚頭，恐致用路人危險，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:12:11",
     "Close_Date_": ""
   }
 ]
