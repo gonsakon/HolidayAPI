@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118012",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 06:50:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118011",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 06:44:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 05:06:39",
     "Close_Date_": "2016/11/17 下午 04:40:39"
-  },
-  {
-    "FileNo_": "INS161115156",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 04:56:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "吉林街(三民國中對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路樹旁路面有坑洞與裂痕，望請改善，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 04:57:31",
-    "Close_Date_": ""
   }
 ]
