@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117124",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 03:22:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "翠華路270號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前即路口遭人丟棄廢棄花盆、磚塊及垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117123",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 03:09:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 上午 12:30:18",
     "Close_Date_": "2016/11/15 下午 04:28:15"
-  },
-  {
-    "FileNo_": "INS161115002",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 上午 12:26:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "崇德路與博愛三路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處路段因路面刨除施工機具聲響過大致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 上午 12:29:09",
-    "Close_Date_": ""
   }
 ]
