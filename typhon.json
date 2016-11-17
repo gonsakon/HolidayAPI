@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117045",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 09:10:49",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路與188縣道交叉處(男子監獄東往西)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌燈方向朝下偏移，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117044",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 上午 09:10:01",
@@ -48,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 09:08:57",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117041",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 上午 09:02:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "高鳳一路30號與42號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前人行道處各有一樹穴坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 上午 09:10:36",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 05:35:01",
     "Close_Date_": "2016/11/15 上午 11:17:11"
-  },
-  {
-    "FileNo_": "INS161114167",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 05:30:43",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "802台灣高雄市苓雅區三多二路386-388號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線停車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/14 17:53 通報110國警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 05:53:59",
-    "Close_Date_": "2016/11/14 下午 05:57:18"
-  },
-  {
-    "FileNo_": "INS161114166",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 05:28:18",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "802台灣高雄市前鎮區三多二路429號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線停車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/14 17:53 通報110國警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 05:53:48",
-    "Close_Date_": "2016/11/14 下午 05:57:09"
   }
 ]
