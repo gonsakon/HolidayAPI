@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118020",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 07:55:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118017",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 07:45:03",
@@ -1259,20 +1276,20 @@
   },
   {
     "FileNo_": "INS161117205",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 07:16:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "河東路2號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭棄置多包建築廢棄物，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/17 20:04前金區清潔隊潘孝敬先生回報，經查惟上述地點2號11樓之5住戶，因住\r\n家漏水進行裝潢整修放置的廢棄物，已有先清運一部分，現場有請大樓人員先用警示帶圍起，暫不影\r\n響交通，並有告知請管理人員轉達住戶，明日務必清除完成，後續會再前往查察，故改派非網A-TB-\r\n2016-107914 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 07:18:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 上午 07:57:51"
   },
   {
     "FileNo_": "INS161117204",
@@ -1633,20 +1650,20 @@
   },
   {
     "FileNo_": "INS161117183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 06:10:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自強路橋上(往澄清湖方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該陸橋機車道上有紙箱掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/17 18:29 鳳山區清潔隊楊孟珍小姐回報，該處已清除。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 06:14:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 上午 07:58:22"
   },
   {
     "FileNo_": "INS161117182",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 05:19:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115161",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 05:14:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "昇平街52號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址住戶噴灑不明氣體致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 05:18:52",
     "Close_Date_": ""
   }
 ]
