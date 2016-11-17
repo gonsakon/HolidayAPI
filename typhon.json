@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117045",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 09:10:49",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路與188縣道交叉處(男子監獄東往西)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈方向朝下偏移，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 09:11:41",
     "Close_Date_": ""
   },
   {
@@ -1031,7 +1031,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案已於11/16 21:41代通報至110勤務指揮中心陳警員成功並提供陳情人聯電。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 09:43:20",
     "Close_Date_": ""
