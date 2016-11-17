@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 07:13:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪二十九路高坪五十六街(大坪頂)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118014",
     "Status_": "1",
     "Cre_Date_": "2016/11/18 上午 06:59:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 05:07:36",
     "Close_Date_": "2016/11/16 下午 04:26:50"
-  },
-  {
-    "FileNo_": "INS161115158",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 05:02:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "保福路(與八八快速道路交叉)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處大排溝目前有化學異味傳出，疑似遭汙染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 05:03:39",
-    "Close_Date_": ""
   }
 ]
