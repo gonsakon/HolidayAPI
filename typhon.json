@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161117116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 02:10:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "仁愛路95號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電線纜垂落，且線頭一併掉落，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 02:13:06",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117115",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 下午 02:08:17",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "樂群路107巷6號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映家犬從四樓陽台掉落至三樓屋頂，因無法救援，希望局處派員協助，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 下午 02:13:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 11:44:59",
     "Close_Date_": "2016/11/17 上午 11:16:21"
-  },
-  {
-    "FileNo_": "INS161114238",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 11:17:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "市中一路25巷33號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處防火巷內遭丟棄3包垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/14 23:42 溝渠隊莊斯宇先生回報，該處經人員查看不影響交通，故改派非網A-TB-\r\n2016-106857賡續辦理；並於11/15 12：10電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 11:20:41",
-    "Close_Date_": "2016/11/15 下午 12:18:00"
   }
 ]
