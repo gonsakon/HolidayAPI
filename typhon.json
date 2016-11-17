@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118009",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 06:16:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲三路577巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷內中間有一 貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118008",
     "Status_": "4",
     "Cre_Date_": "2016/11/18 上午 04:29:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 04:59:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115152",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 04:41:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "興北巷70弄",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處工廠將廢油排放到工廠北側的水溝內，建請派員稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 04:44:18",
     "Close_Date_": ""
   }
 ]
