@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117251",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 10:32:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "民權街12號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117250",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 下午 10:29:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:05:09",
     "Close_Date_": "2016/11/17 上午 07:59:26"
-  },
-  {
-    "FileNo_": "INS161115131",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:41:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路202巷107號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前中華電信變電箱周圍遭人堆置垃圾，造成環境髒亂，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:44:32",
-    "Close_Date_": ""
   }
 ]
