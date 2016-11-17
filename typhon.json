@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117246",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 下午 10:10:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號(外勞店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家有油煙異味致空污情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 下午 10:15:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117245",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 09:24:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:38:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115126",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:33:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "建國四路141號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶在整修使用機具產生噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:33:59",
     "Close_Date_": ""
   }
 ]
