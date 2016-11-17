@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117046",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 09:19:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路與大榮街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道上變電箱後方有遭棄置垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117045",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 09:10:49",
@@ -1446,20 +1463,20 @@
   },
   {
     "FileNo_": "INS161116163",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 下午 07:14:00",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "苓雅區文橫二路111號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案已於11/16 19:19代通報至110勤務指揮中心鍾警員成功並提供陳情人聯電。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:21:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 09:15:39"
   },
   {
     "FileNo_": "INS161116162",
@@ -2126,20 +2143,20 @@
   },
   {
     "FileNo_": "INS161116123",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/16 下午 04:55:44",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區自由路426號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "多輛機車違規停車佔用人行道",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案已於11/16 17:36代通報至110勤務指揮中心鍾警員成功並提供陳情人聯電。",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 05:38:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 09:15:56"
   },
   {
     "FileNo_": "INS161116122",
@@ -5203,20 +5220,20 @@
   },
   {
     "FileNo_": "INS161115220",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 08:04:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "南蓮村仁愛路173巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "南蓮村仁愛路173巷有一路燈不亮",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/16 15:25 養工處岡山養護工程隊康友淇先生回報，該處已修復；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 08:33:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 09:15:24"
   },
   {
     "FileNo_": "INS161115219",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 05:37:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114168",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 05:31:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "瑞智街69號旁(社區內)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該社區內空地有住戶在燃燒金紙致空污情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/15 11：08電覆陳情人未果，故於11/15 11：13簡訊回覆：王小姐您好，您11月14日\r\n所反映燃燒金紙空污問題，經本府環保局前往稽查，稽查時人員於該址周界巡查，並未發現有燃燒金紙造成空污\r\n情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 05:35:01",
-    "Close_Date_": "2016/11/15 上午 11:17:11"
   }
 ]
