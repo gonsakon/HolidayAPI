@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118006",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 03:14:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中正三路與錦田路，財稅大樓前花圃",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118005",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 02:34:54",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 04:18:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115148",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 04:11:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "高雄巨蛋旁的公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映現該公園內許多木製座椅皆已腐爛損壞傾倒，因此民眾至公園休憩皆無椅子能休息，望請盡速修復並增設座椅，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 04:22:34",
     "Close_Date_": ""
   }
 ]
