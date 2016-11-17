@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117220",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 07:53:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "金福路北上方向，近中山四路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路口北上南下車道有多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117219",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 下午 07:52:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 上午 11:56:36",
     "Close_Date_": "2016/11/15 下午 05:32:14"
-  },
-  {
-    "FileNo_": "INS161115100",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/15 上午 11:50:52",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路45號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前因溝壁破損使路面下陷坑洞，致其車輪卡入爆胎，現場已放置安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 上午 11:56:52",
-    "Close_Date_": ""
   }
 ]
