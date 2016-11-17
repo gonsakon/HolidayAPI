@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117262",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 下午 11:47:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫路95號(店名:牛頭寬宵夜店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家營業中油煙逸散，導致空氣污染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 下午 11:52:05",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117261",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 下午 11:30:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:35:47",
     "Close_Date_": "2016/11/16 下午 05:18:00"
-  },
-  {
-    "FileNo_": "INS161115142",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/15 下午 03:33:30",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "漁港南三路15號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一溝蓋下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 03:34:55",
-    "Close_Date_": ""
   }
 ]
