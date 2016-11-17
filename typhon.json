@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117248",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 下午 10:26:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路二段與仁春街、文安三街口附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處路口附近有民眾在燃燒東西，以致空氣污汙染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117247",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 10:17:32",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS161117217",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/17 下午 07:46:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路，青年夜市靠近公廁攤販",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處攤販有擴音機叫賣聲響，建請查處。(請單位到場後聯繫陳情人)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 02:38:08",
     "Close_Date_": "2016/11/16 下午 04:50:19"
-  },
-  {
-    "FileNo_": "INS161115129",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 02:33:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "國軒路189號(T字路口)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一國軒路路牌已掉落顛倒懸掛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 02:35:54",
-    "Close_Date_": ""
   }
 ]
