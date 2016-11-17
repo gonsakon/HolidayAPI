@@ -375,19 +375,19 @@
   },
   {
     "FileNo_": "INS161117219",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 07:52:16",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營區政德路753號至重立路815號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "左營區政德路753號至重立路815號  路燈2天不亮",
+    "BeforeDesc_": "左營區政德路753號至重立路815號  周便停電、路燈也2天不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 09:14:47",
     "Close_Date_": ""
   },
   {
