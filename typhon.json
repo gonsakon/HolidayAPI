@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118003",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 01:42:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "八德路二段145號14樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址樓上住戶冷氣滴水，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118002",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 01:21:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:57:25",
     "Close_Date_": "2016/11/16 下午 06:50:58"
-  },
-  {
-    "FileNo_": "INS161115145",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 03:42:06",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "漁港路與新生路路口(西向)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障只亮綠燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 03:46:25",
-    "Close_Date_": ""
   }
 ]
