@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117112",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 下午 02:03:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
-    "address_": "和平路一段 99巷88之6號附近，台電桿旁(編號:蜈蜞潭50右#22之1右3Q1833AA85)",
+    "address_": "和平路一段99巷88之6號附近，台電桿旁(編號:蜈蜞潭50右#22之1右3Q1833AA85)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 下午 02:04:41",
     "Close_Date_": ""
   },
   {
