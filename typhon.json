@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161117043",
+    "FileNo_": "INS161117044",
     "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 09:10:01",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路與中正四路口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該路口有一不明工程，惟無告示且無故 路口封道，疑似未經申請，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117043",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 09:09:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德民路與德惠路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處綠燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 09:09:58",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 05:53:48",
     "Close_Date_": "2016/11/14 下午 05:57:09"
-  },
-  {
-    "FileNo_": "INS161114165",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/14 下午 05:07:54",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "林西路與岡山南路(台1線)口對面，近捷運圍牆邊",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有一台電電桿鋼索有垂落情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/15 10：14經詢問台電1911楊小姐表示，已安全處理妥。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 05:12:38",
-    "Close_Date_": "2016/11/15 上午 10:21:30"
   }
 ]
