@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117037",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 08:48:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山二路上,由鼓山二路69巷口至鼓山二路83巷口之間",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路段的二路口號誌燈未連鎖,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 08:49:46",
     "Close_Date_": ""
   },
   {
