@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161117046",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 09:19:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路與大榮街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上變電箱後方有遭棄置垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/17 上午 09:21:36",
     "Close_Date_": ""
   },
   {
@@ -4829,20 +4829,20 @@
   },
   {
     "FileNo_": "INS161115244",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/15 下午 09:09:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中安路與勝安街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "中安路與勝安街口附近紅7車牌被颱風吹倒後，公車經過此路段都不停靠，造成坐車人的麻煩，請儘速派員來重新立牌 謝謝！",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於人民陳情案件A-TB-2016-107225由交通局辦理，倘您對本案處理有疑問，歡迎您再電\r\n洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 09:30:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/17 上午 09:19:08"
   },
   {
     "FileNo_": "INS161115243",
