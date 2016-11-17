@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118008",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 04:29:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "南下路竹交流道下來平面道路，往湖內方向100公尺",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處內車道有動物屍體，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118007",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 04:27:29",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161118006",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/18 上午 03:14:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路與錦田路，財稅大樓前花圃",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 04:44:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115151",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/15 下午 04:38:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "同盟一路上(民族一路往自由一路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處沿線路面凹陷坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 04:40:12",
     "Close_Date_": ""
   }
 ]
