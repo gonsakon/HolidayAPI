@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161117072",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 上午 10:31:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍昌路475號與477號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道因樹根隆起導致行道磚不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 上午 10:33:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117069",
     "Status_": "1",
     "Cre_Date_": "2016/11/17 上午 10:30:40",
@@ -48,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161117070",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/17 上午 10:29:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學二十五路222號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面有許多生鏽鐵絲網，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/17 上午 10:33:13",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 07:07:12",
     "Close_Date_": "2016/11/15 上午 10:33:21"
-  },
-  {
-    "FileNo_": "INS161114195",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/14 下午 07:02:25",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山二路上，鄰近復興三路口，中山首府大樓",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處大樓旁停車場出入口前路邊停車格前有一方型水溝蓋及周邊水泥有塌陷，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 07:04:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161114194",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/14 下午 07:02:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "井腳路48號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前路面上有一大坑洞，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 07:02:26",
-    "Close_Date_": ""
   }
 ]
