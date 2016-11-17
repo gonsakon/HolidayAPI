@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161118017",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 07:45:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
-    "address_": "",
+    "address_": "仁孝路(介於仁雄路至赤富路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒垃圾致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 上午 07:46:42",
     "Close_Date_": ""
   },
   {
@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161118001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 上午 12:35:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "賢明路上(往東方向)，近英明一路前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中有一隻貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/18 00：59 溝渠清潔隊林漢宗先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 12:37:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 上午 07:46:36"
   },
   {
     "FileNo_": "INS161117262",
@@ -375,20 +375,20 @@
   },
   {
     "FileNo_": "INS161117257",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 11:08:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁林路與水管路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。(警員仍在場)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/17 23:59 溝渠清潔隊李文山先生回報，該處車禍油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 11:09:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 上午 07:46:53"
   },
   {
     "FileNo_": "INS161117256",
