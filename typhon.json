@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161117065",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/17 上午 10:18:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "擴建一路47號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該址前擴建一路45巷牌牌掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161117064",
     "Status_": "2",
     "Cre_Date_": "2016/11/17 上午 10:07:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/14 下午 06:42:32",
     "Close_Date_": "2016/11/15 下午 02:33:19"
-  },
-  {
-    "FileNo_": "INS161114187",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/14 下午 06:32:59",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路24巷18號前",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一不明方形孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/14 下午 06:33:46",
-    "Close_Date_": ""
   }
 ]
