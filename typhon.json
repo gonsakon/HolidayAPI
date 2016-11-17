@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118002",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 01:21:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "天祥一路與民族一路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該路口飄散化學異味致空污情事，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118001",
     "Status_": "4",
     "Cre_Date_": "2016/11/18 上午 12:35:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 03:46:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115144",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 03:39:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "班超路92之2號(玄德殿)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處宮廟有燃燒廢棄物致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 03:41:10",
     "Close_Date_": ""
   }
 ]
