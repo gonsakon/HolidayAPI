@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161119014",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 02:06:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "神農巷尾半夜抽水機聲擾人清夢",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "神農巷尾半夜抽水機聲擾人清夢",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案與INS161119018為重複案件，故結案以該案辦理。",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/11/19 上午 03:51:03",
+    "Close_Date_": "2016/11/19 上午 03:51:23"
   },
   {
     "FileNo_": "INS161119013",
