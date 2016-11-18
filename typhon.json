@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118033",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/18 上午 08:34:25",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "延平一路與旗文路口，永和機車行前",
+    "UnitName_": "工務局",
+    "StatusName_": "待確認",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處路口進行不明挖掘工程，柏油路面重鋪後與原有路面產生約15公分高低落差，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/18 上午 08:35:17",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118032",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 08:27:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 05:54:59",
     "Close_Date_": "2016/11/17 下午 03:07:43"
-  },
-  {
-    "FileNo_": "INS161115176",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 05:48:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建興路與建德路口(麵包店)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者現有擴音器撥放音樂噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 05:51:36",
-    "Close_Date_": ""
   }
 ]
