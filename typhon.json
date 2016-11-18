@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118225",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 08:27:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國富路34號6樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118224",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 08:11:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 01:20:36",
     "Close_Date_": "2016/11/17 上午 09:50:30"
-  },
-  {
-    "FileNo_": "INS161116088",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 01:15:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路844號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前發生車禍，導致路面有油漬，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 01:17:48",
-    "Close_Date_": ""
   }
 ]
