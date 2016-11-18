@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118239",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 10:27:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山二路與新光路(星光園道，近大遠百側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處於停車場出入口對面公園內，有一休憩椅底下有一支架斷裂，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118238",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 10:08:09",
@@ -358,19 +375,19 @@
   },
   {
     "FileNo_": "INS161118217",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/11/18 下午 07:37:10",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "漁村街92巷巷口",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "巷口塑膠棧板長期佔用道路，距離上次反應(INS161030071)已逾三週仍未改善，請相關單位會同環保局同仁將儘早路邊廢棄物處理掉！謝謝！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 10:26:45",
     "Close_Date_": ""
   },
   {
@@ -4132,20 +4149,20 @@
   },
   {
     "FileNo_": "INS161117256",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 11:05:44",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟三路246巷16號、38號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該兩址前各有一污水孔蓋旁柏油破損，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 16：10水利局污水營運科林卉霓小姐回報，該處無立即危險性，惟因柏油需備料，\r\n無法立即修復，故改派非網A-TB-2016-108173賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 11:06:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 10:26:02"
   },
   {
     "FileNo_": "INS161117255",
@@ -4217,14 +4234,14 @@
   },
   {
     "FileNo_": "INS161117251",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/17 下午 10:32:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "民權街12號，於高雄高商後方街道",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址周界沿線路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 03:00:43",
     "Close_Date_": "2016/11/17 下午 02:36:44"
-  },
-  {
-    "FileNo_": "INS161116102",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 02:56:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "名山六街72號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮已久，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 02:57:32",
-    "Close_Date_": ""
   }
 ]
