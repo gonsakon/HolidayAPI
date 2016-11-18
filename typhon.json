@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118206",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 07:14:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "盛昌街215巷3弄旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址旁有一空地燃燒樹枝，產生大量濃煙致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118205",
     "Status_": "1",
     "Cre_Date_": "2016/11/18 下午 07:13:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:47:35",
     "Close_Date_": "2016/11/16 上午 11:49:41"
-  },
-  {
-    "FileNo_": "INS161116069",
-    "Status_": "2",
-    "Cre_Date_": "2016/11/16 上午 11:15:09",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "本松街11號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該址大門正前方路面有一方型台電孔蓋鬆動，致車輛行經皆會發出噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 11:19:11",
-    "Close_Date_": ""
   }
 ]
