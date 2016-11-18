@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161118155",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/11/18 下午 03:57:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大豐二路120號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有環保局清掃道路人員,惟於道路上作業,卻未放置安全錐警示,易造成危險,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 04:06:57",
     "Close_Date_": ""
   },
   {
@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161118114",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 12:38:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "英雄路上與海邊路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈罩位移向上,造成無法看清號誌,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 15:22交通局智慧運輸中心李品鋒先生回報，該號誌燈罩已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 12:39:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 04:06:42"
   },
   {
     "FileNo_": "INS161118115",
@@ -766,20 +766,20 @@
   },
   {
     "FileNo_": "INS161118113",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 12:33:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "南北路上，與芋寮路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌綠燈已向上翻，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 14:45交通局智慧運輸中心張寬如小姐回報，該處已協助修復完成；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 12:41:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 04:07:10"
   },
   {
     "FileNo_": "INS161118112",
