@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118141",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 03:09:05",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "0937336063苓雅區廣東一街3巷5號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118140",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 02:43:43",
@@ -2364,20 +2381,20 @@
   },
   {
     "FileNo_": "INS161117262",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 11:47:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫路95號(店名:牛頭寬宵夜店)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家營業中油煙逸散，導致空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 01：25 環保局環境稽查科中區股楊竣安先生回報，稽查人員於00:27到達，該業\r\n者正常營業中，其有設置簡易式油煙處理設備，人員於周界巡視未發現有油煙逸散之情事，仍促請業者加強防\r\n範；並於11/18 14：52電覆陳情人，故解除管制；惟陳情人反映該處長期夜間油煙空污問題，故另成非網A-TB-\r\n2016-108124追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 11:52:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 03:08:20"
   },
   {
     "FileNo_": "INS161117261",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 12:56:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116003",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 上午 12:42:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛四路與大中二路口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映路段正進行道路工程，使用機具運轉聲響過大，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 12:43:11",
     "Close_Date_": ""
   }
 ]
