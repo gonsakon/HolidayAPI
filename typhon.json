@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118235",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 09:44:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "順安路與中華路(德奇工廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處業者",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118234",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 09:27:09",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 02:30:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116098",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 02:20:40",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "六合一路與忠孝一路路口(電信總局後方)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有兩個小綠人行人號誌燈自風災過後故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 02:21:34",
     "Close_Date_": ""
   }
 ]
