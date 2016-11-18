@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161118158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 04:05:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路與雄峰路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈故障，請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 04:06:30",
     "Close_Date_": ""
   },
   {
