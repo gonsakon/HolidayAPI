@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118093",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 11:21:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠公路土庫橋轉入、典寶溪旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處8米道路上有多個坑洞，建請盡速會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118091",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 11:19:01",
@@ -61,7 +78,7 @@
     "UnitName_": "水利局防洪維護科",
     "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該店家前方人行道上有兩處因溝壁破損致地磚下陷， 一處已放安全錐，建請查處。",
+    "BeforeDesc_": "渠反映該店家前方人行道上有兩處因溝壁破損致地磚下陷， 已放安全錐，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 11:18:14",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 08:59:41",
     "Close_Date_": "2016/11/16 下午 04:09:08"
-  },
-  {
-    "FileNo_": "INS161115236",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 08:55:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明誠一路與鼎新路12巷13弄",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈皆故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 08:57:34",
-    "Close_Date_": ""
   }
 ]
