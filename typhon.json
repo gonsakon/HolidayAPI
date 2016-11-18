@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119019",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/19 上午 02:40:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "應昇路23號(再相會卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家有卡拉O唱歌噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/19 上午 02:41:40",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119018",
     "Status_": "1",
     "Cre_Date_": "2016/11/19 上午 02:09:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 05:22:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116132",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 05:17:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "博愛一路158號與160號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址業者目前有使用擴音器設備致噪音情事，建請會同查處。(前往之前需先與陳情人聯繫，另有提供測點)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 05:22:54",
     "Close_Date_": ""
   }
 ]
