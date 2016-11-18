@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118058",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 09:25:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中正路3號旁(近泰安路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有9個遭機車輾過的犬隻糞便，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118057",
     "Status_": "1",
     "Cre_Date_": "2016/11/18 上午 09:24:52",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161118052",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/18 上午 09:12:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多二路與凱旋二路",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處平交道北邊的柵欄旁有一廢棄輪胎，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 07:05:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115201",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/15 下午 07:01:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "大發路(興達港觀光漁市)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/16 14:14養工處岡山養護工程隊林欣怡小姐回報，經查該處位於於是，屬\r\n海洋局權責，故改派非網A-TB-2016-107459賡續辦理；並於11/16 15：48電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 07:04:00",
-    "Close_Date_": "2016/11/16 下午 03:48:24"
   }
 ]
