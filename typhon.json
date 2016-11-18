@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118211",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 07:29:31",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "和平路201巷口",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋坑洞",
+    "BeforeDesc_": "和平路與和平路201巷交叉口有個孔 請儘速蓋上孔蓋或密封",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118210",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 07:26:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:33:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116074",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 上午 11:32:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "南寮巷芭娜娜BANANA樂園",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該園區辦活動，使用擴音器導致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 11:35:09",
     "Close_Date_": ""
   }
 ]
