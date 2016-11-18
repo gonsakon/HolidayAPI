@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118212",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 07:31:13",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "濱海路一段722巷",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該巷口有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118211",
     "Status_": "1",
     "Cre_Date_": "2016/11/18 下午 07:29:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:42:12",
     "Close_Date_": "2016/11/16 下午 05:53:17"
-  },
-  {
-    "FileNo_": "INS161116075",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 上午 11:33:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "正言路64巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭棄置廢棄傢俱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 11:33:52",
-    "Close_Date_": ""
   }
 ]
