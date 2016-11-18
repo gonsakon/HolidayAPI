@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161118159",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 04:13:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "榮總路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處沿線路面兩旁有菸蒂和垃圾及飲料杯致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 04:16:16",
     "Close_Date_": ""
   },
   {
@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161118155",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 03:57:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大豐二路120號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有環保局清掃道路人員,惟於道路上作業,卻未放置安全錐警示,易造成危險,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 16:04三民東區清潔隊曾美華小姐回報，已派員前往現場了解，該處清掃作業已清掃\r\n完畢，其表示為新進之清掃人員，日後會加強管理改善，故結案；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 04:06:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 04:16:23"
   },
   {
     "FileNo_": "INS161118156",
