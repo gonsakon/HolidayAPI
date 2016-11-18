@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118234",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 09:27:09",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中華四路上(介於青年二路與四維四路間，往南向)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118233",
     "Status_": "1",
     "Cre_Date_": "2016/11/18 下午 09:26:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 02:21:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116097",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 02:13:14",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路，高鐵這一側，觀光蓮池潭管理站公廁",
-    "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "渠反映該處公廁內二個小便斗嚴重漏水，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 02:15:02",
     "Close_Date_": ""
   }
 ]
