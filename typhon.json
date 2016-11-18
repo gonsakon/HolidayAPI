@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161118234",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 09:27:09",
     "ReplyUnit_": "E01001",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中華四路上(介於青年二路與四維四路間，往南向)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處機車道上有一貓隻遭撞受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 09:34:20",
     "Close_Date_": ""
   },
   {
@@ -375,20 +375,20 @@
   },
   {
     "FileNo_": "INS161118212",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 07:31:13",
     "ReplyUnit_": "E01001",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "濱海路一段722巷",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該巷口有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 19:58茄萣區清潔隊郭岳曉先生回報，該處貓屍已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 07:34:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 09:33:50"
   },
   {
     "FileNo_": "INS161118211",
@@ -477,20 +477,20 @@
   },
   {
     "FileNo_": "INS161118206",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 07:14:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "盛昌街215巷3弄旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址旁有一空地燃燒樹枝，產生大量濃煙致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 21：19環保局環境稽查科中區股陳彥州先生回報，稽查人員於20：40到達，於上述\r\n私人土地內周界巡查，並未發現露天燃燒樹枝造成大量濃煙逸散致空污情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 07:15:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 09:34:22"
   },
   {
     "FileNo_": "INS161118205",
