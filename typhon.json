@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119020",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 06:14:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中山路550號前",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該址前電桿上有電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119019",
     "Status_": "4",
     "Cre_Date_": "2016/11/19 上午 02:40:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 05:34:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116133",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 05:21:41",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路546巷與後昌路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口綠燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 05:22:26",
     "Close_Date_": ""
   }
 ]
