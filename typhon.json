@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118149",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 03:34:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "援中路(介於大學十一街與十七街間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處下後勁溪的木梯上有民眾在燃燒物品致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118148",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 03:21:27",
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS161118115",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/18 下午 12:38:20",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路華安街口",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋塌陷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 05:55:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116013",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 上午 05:46:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "1.中正路(仁武國小門口)2.中正路上(往東50公尺托兒所前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映上述兩處地點各有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 05:51:01",
     "Close_Date_": ""
   }
 ]
