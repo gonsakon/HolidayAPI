@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119021",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 07:19:36",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119020",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 06:14:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 05:32:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116134",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 05:29:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路86號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一空地內有民眾燃燒稻草致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 05:34:00",
     "Close_Date_": ""
   }
 ]
