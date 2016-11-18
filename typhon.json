@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118230",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 08:56:01",
+    "ReplyUnit_": "F01004",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "華山街與文建街口",
+    "UnitName_": "鳳山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118229",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 08:39:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 02:10:50",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116093",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 01:59:17",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與漁港路路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈號故障，表示新生路綠燈時，漁港路也亮右轉燈，恐造成行車擦撞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 02:00:21",
     "Close_Date_": ""
   }
 ]
