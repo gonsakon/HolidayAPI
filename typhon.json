@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118080",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 10:32:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德惠路66號(7-11 雙德門市)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "7-11 雙德門市",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118077",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 10:22:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 08:09:33",
     "Close_Date_": "2016/11/16 下午 12:36:58"
-  },
-  {
-    "FileNo_": "INS161115222",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 08:05:24",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海一路與宏平路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌倒數秒數燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 08:06:22",
-    "Close_Date_": ""
   }
 ]
