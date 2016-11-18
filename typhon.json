@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118248",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 11:36:01",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "立群路136號對面",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "渠反映該處有一台電電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118247",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 11:32:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 04:05:09",
     "Close_Date_": "2016/11/17 下午 02:41:26"
-  },
-  {
-    "FileNo_": "INS161116111",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 03:55:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪三十五街與高坪六十街",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處道路遭民眾丟棄黑色垃圾包，造成環境髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 03:59:08",
-    "Close_Date_": ""
   }
 ]
