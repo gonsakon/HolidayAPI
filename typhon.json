@@ -1225,20 +1225,20 @@
   },
   {
     "FileNo_": "INS161118094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 上午 11:27:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興二路與五福二路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌不變燈號，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 12:28智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 11:31:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/18 下午 04:40:16"
   },
   {
     "FileNo_": "INS161118093",
