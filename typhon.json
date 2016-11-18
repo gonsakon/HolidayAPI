@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118070",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 上午 10:03:15",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華一路102號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址有汙水管阻塞情事，建請查處。(煩請先與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118069",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 上午 09:55:26",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/15 下午 08:34:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161115213",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/15 下午 07:40:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "橫山里興龍路200之10號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址附近整排路燈均故障不亮數日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/15 下午 07:43:04",
     "Close_Date_": ""
   }
 ]
