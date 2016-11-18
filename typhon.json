@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161118222",
+    "FileNo_": "INS161118223",
     "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 08:08:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路139巷43號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161118222",
+    "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 08:07:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "南屏路與文信路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/18 下午 08:08:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 01:04:30",
     "Close_Date_": "2016/11/17 上午 07:45:32"
-  },
-  {
-    "FileNo_": "INS161116086",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/16 下午 12:41:27",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "柴山大路(近媽祖慈德堂)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有堆放台電電桿廢棄電線，望請單位清除， 建請會同查處。(請局處會同陳情人前往)",
-    "AfterDesc_": "【主管解除管制】本案於11/17 15：11經與台電1911客服梁小姐(值機代號8046)確認；該處為軍用通訊線路，非\r\n台電所有，已向陳情人說明；並於11/17 15：18電覆陳情人，惟陳情人表示，台電已協助處理完成，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 12:49:20",
-    "Close_Date_": "2016/11/17 下午 03:34:34"
   }
 ]
