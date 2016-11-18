@@ -1531,20 +1531,20 @@
   },
   {
     "FileNo_": "INS161118180",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 05:34:52",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區自由路426號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上多輛機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，本案已於11/18 18:14代通報至110勤務指揮中心吳警員辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:16:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 上午 07:49:46"
   },
   {
     "FileNo_": "INS161118179",
