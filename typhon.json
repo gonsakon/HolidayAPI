@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161118205",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/18 下午 07:13:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東四路562號(碳佐麻里)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者有嚴重油煙空汙，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161118204",
     "Status_": "2",
     "Cre_Date_": "2016/11/18 下午 06:54:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 上午 11:19:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116068",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 上午 11:08:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "創新路657號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍留有路面油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 上午 11:10:44",
     "Close_Date_": ""
   }
 ]
