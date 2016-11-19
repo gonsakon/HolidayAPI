@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119102",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 02:21:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "軍校路與世運大道",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍後油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119101",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 01:48:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 07:37:20",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117012",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 上午 07:07:25",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "南屏路與文信路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈閃燈，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 10：15 交通局智慧運輸中心蔡淑君小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 07:10:56",
-    "Close_Date_": "2016/11/19 下午 01:52:52"
   }
 ]
