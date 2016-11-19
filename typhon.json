@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119129",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 05:27:47",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林四路與山頂路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一流浪貓困於排水溝內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119128",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 05:12:45",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161119115",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/19 下午 03:31:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林二路與光明路一段；往小港大坪頂方向",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有台電道路施工工程，路面有一坑洞下陷很深，恐有危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 09:03:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117039",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 09:02:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "中正路16巷3之89號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 09:08:52",
     "Close_Date_": ""
   }
 ]
