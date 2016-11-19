@@ -9521,20 +9521,20 @@
   },
   {
     "FileNo_": "INS161117134",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 04:20:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路17之1號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈白天未熄，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 19:10養工處鳳山養護工程隊韓莉梅小姐回報，該處已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 04:21:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 下午 08:24:09"
   },
   {
     "FileNo_": "INS161117133",
@@ -9589,20 +9589,20 @@
   },
   {
     "FileNo_": "INS161117130",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 04:04:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "學府路與新豐街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌綠燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/17 19:23交通局智慧運輸中心李品鋒先生回報，該處號誌綠燈已修復完成；本案不\r\n需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 04:06:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 下午 08:23:37"
   },
   {
     "FileNo_": "INS161117129",
