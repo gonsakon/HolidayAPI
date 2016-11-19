@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120012",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 01:49:25",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由三路157號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "佔用道路",
+    "BeforeDesc_": "4108-WB 佔用人行道，迫使行人得走到馬路上。11月19日21:44",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120011",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 上午 01:49:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 04:39:17",
     "Close_Date_": "2016/11/18 上午 08:00:43"
-  },
-  {
-    "FileNo_": "INS161117139",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 04:32:26",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "中山南路與民有路口，岡山火車站前，北向外車道",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處台電孔蓋凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 04:41:21",
-    "Close_Date_": ""
   }
 ]
