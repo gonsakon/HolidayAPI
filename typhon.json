@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119057",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/19 上午 10:16:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興西路121巷6號；勤田交通有限公司",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者正在燃燒落葉致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/19 上午 10:20:02",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119056",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 10:14:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:49:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116170",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/16 下午 07:47:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "三和巷36之15號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 07:48:36",
     "Close_Date_": ""
   }
 ]
