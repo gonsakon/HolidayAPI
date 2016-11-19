@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120018",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 02:14:22",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路422號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "4163-FB 於11月19號22:03",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120017",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 上午 02:10:53",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 04:54:26",
     "Close_Date_": "2016/11/19 下午 08:26:31"
-  },
-  {
-    "FileNo_": "INS161117145",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 04:51:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "林森一路296號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處工地將沙石與紅磚堆放於路上，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/17 17：19 三民西區清潔隊陳哲宏先生回報，旨揭沙石、紅磚放置於騎樓，且以\r\n帆布覆蓋，查無髒亂情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 04:56:29",
-    "Close_Date_": "2016/11/18 上午 08:00:27"
   }
 ]
