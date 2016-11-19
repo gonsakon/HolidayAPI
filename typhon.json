@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119096",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 01:14:57",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文上路與至真路口(金弘笙汽修廠前)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處路中有一水溝蓋斷裂翹起，造成行車危險,建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119095",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 12:57:17",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161119088",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/19 下午 12:41:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "工業一路148巷內(工業一路150號旁)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處近竹林路旁有一貓屍並已發臭,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 03:54:47",
     "Close_Date_": "2016/11/17 上午 04:57:58"
-  },
-  {
-    "FileNo_": "INS161117006",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 01:40:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "曾子路(介於文川路至曾子路274巷之間)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該路段有一大樓目前使用發電機具運轉聲響過大，造成噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 01:42:34",
-    "Close_Date_": ""
   }
 ]
