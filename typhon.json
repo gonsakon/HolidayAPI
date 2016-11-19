@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161119157",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/19 下午 06:17:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文萊路172號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處公廟搭建之舞台有使用擴音器致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/19 下午 06:19:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119156",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 06:13:20",
@@ -579,14 +596,14 @@
   },
   {
     "FileNo_": "INS161119122",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/19 下午 04:12:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "莒光路三段(茄萣運動公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映該處公園內新建廁所之對面被堆置大量垃圾，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 10:27:23",
     "Close_Date_": "2016/11/18 上午 08:03:34"
-  },
-  {
-    "FileNo_": "INS161117067",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 10:25:29",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "自強一路83巷23號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處有一污水人孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 10:28:26",
-    "Close_Date_": ""
   }
 ]
