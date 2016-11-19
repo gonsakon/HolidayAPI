@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119208",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 10:06:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119207",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 09:49:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 02:13:06",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117115",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 02:08:17",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "樂群路107巷6號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映家犬從四樓陽台掉落至三樓屋頂，因無法救援，希望局處派員協助，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 14：54 農業局動物保護處安百中先生回報，經致電陳情人，其表示已自行處\r\n理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 02:13:09",
-    "Close_Date_": "2016/11/18 下午 12:39:06"
   }
 ]
