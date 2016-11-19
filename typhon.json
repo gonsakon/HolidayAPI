@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119145",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 05:55:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞福路196巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119144",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 05:54:51",
@@ -40,7 +57,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
-    "address_": "福美路86巷底與圓山路口",
+    "address_": "福美路86巷底與圓山街T字型路口",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 09:48:02",
     "Close_Date_": "2016/11/19 下午 01:47:03"
-  },
-  {
-    "FileNo_": "INS161117054",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 上午 09:40:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過勇路，過埤國小旁路段",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路慢車道段沿線有落葉、垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/17 11:28 鳳山區清潔隊徐占魁先生回報，該處有多條路段，清潔隊今日無法清\r\n掃完成，無危險性，故改派非網A-TB-2016-107723賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 09:42:38",
-    "Close_Date_": "2016/11/18 上午 08:04:36"
   }
 ]
