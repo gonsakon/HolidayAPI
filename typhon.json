@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161119210",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 10:09:21",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山三路上近五甲三路",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處機車道有一台電方形孔蓋有低於路面之情形，導致用路人行車顛頗，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 10:14:59",
     "Close_Date_": ""
   },
   {
