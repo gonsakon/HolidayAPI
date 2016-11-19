@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161119067",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 11:18:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "柳橋東路沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處沿線路面有施工單位完工後，路面每隔一段距離挖兩個小洞未回填，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119066",
     "Status_": "1",
     "Cre_Date_": "2016/11/19 上午 11:17:10",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161119065",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 11:16:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路497號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 上午 11:18:11",
     "Close_Date_": ""
   },
   {
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161119024",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/19 上午 08:01:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪十七街與大平路(坪頂國小附近)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近目前空氣中瀰漫著燃燒垃圾之異味空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 08:56:39",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116180",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/16 下午 08:48:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲三路295巷59號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前路面有2大包紅色垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/16 21:42 渠隊莊斯宇先生回報，人員至現場與陳情人聯繫，陳情人希望局處能將垃\r\n圾包帶回並請人員稽查裡面是否有丟棄者資訊，無法立即完成，故改派非網A-TB-2016-107601賡續辦理；並於\r\n11/17 11：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 08:52:56",
-    "Close_Date_": "2016/11/17 上午 11:05:58"
   }
 ]
