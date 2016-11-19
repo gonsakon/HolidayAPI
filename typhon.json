@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161119102",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 02:21:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路與世運大道",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍後油漬，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 02:24:05",
     "Close_Date_": ""
   },
   {
@@ -1973,20 +1973,20 @@
   },
   {
     "FileNo_": "INS161118235",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 下午 09:44:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "順安路與中華路(德奇工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處業者排放化學異味致空污情事，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 14:20電覆陳情人未果，故於2016/11/19 14:23簡訊回覆:王小姐您\r\n好，您11月18日反映空汙問題，本府環保局派員前往，會同前往所述地點，並未發現有偷排放化學異\r\n味，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 09:47:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 下午 02:23:00"
   },
   {
     "FileNo_": "INS161118234",
