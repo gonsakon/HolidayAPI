@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161119038",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 09:10:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "高雄市左營區新莊仔路",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違規設攤",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 上午 09:24:01",
     "Close_Date_": ""
   },
   {
