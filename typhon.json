@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161119088",
+    "FileNo_": "INS161119089",
     "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 12:45:20",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "五福二路與復興二路口(五福二路上)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161119088",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 12:41:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "工業一路148巷內(工業一路150號旁)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處近竹林路旁有一貓屍並已發臭,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 12:45:13",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 12:01:00",
     "Close_Date_": "2016/11/17 上午 11:17:10"
-  },
-  {
-    "FileNo_": "INS161116203",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 11:09:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明誠一路與鼎山街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈上方小藍燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 11:11:39",
-    "Close_Date_": ""
   }
 ]
