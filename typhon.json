@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119048",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 09:52:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多二路與學源街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍致路面油漬,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119047",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 09:44:53",
@@ -13,7 +30,7 @@
     "BeforeDesc_": "渠反映該處建築工地，機具怪手施工噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 09:48:00",
+    "Save_Date_": "2016/11/19 上午 09:48:41",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:24:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116161",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 07:09:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路700巷22號5樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址樓上住戶冷氣滴水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 07:11:28",
     "Close_Date_": ""
   }
 ]
