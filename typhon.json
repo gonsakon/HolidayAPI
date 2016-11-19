@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120019",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 02:16:24",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路484號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "366-Z6",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120018",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 上午 02:14:22",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161120013",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/20 上午 01:50:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路 ( 重仁路與重如街之間，新光三越停車場正對面)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處慢車道有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 05:05:59",
     "Close_Date_": "2016/11/18 下午 12:28:58"
-  },
-  {
-    "FileNo_": "INS161117146",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 04:52:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "永豐路123號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處中央分隔島上有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 22：53養工處四維養護工程隊九如養護分隊林泉先生回報：該處已修復完畢；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 04:54:26",
-    "Close_Date_": "2016/11/19 下午 08:26:31"
   }
 ]
