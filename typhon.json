@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161119205",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 09:40:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路329巷及楠梓路363巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該兩巷道路燈沿線故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 09:40:54",
     "Close_Date_": ""
   },
   {
