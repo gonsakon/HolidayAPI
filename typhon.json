@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161119195",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 09:12:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路上與裕誠路口(往北方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處分隔島共兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119194",
     "Status_": "1",
     "Cre_Date_": "2016/11/19 下午 09:05:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
-    "address_": "中華路(路科宿舍)",
+    "address_": "中華路與順安路口，近路科宿舍",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段排水溝目前飄散刺鼻惡臭味，疑似遭污染，建請會同查處。",
+    "BeforeDesc_": "渠反映該路段排水溝目前飄散刺鼻惡臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 01:04:21",
     "Close_Date_": "2016/11/19 下午 07:49:53"
-  },
-  {
-    "FileNo_": "INS161117104",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 12:59:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄清巷30之1號與30之3號間",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線桿路基掏空，反映至今未見修復，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 11：07經詢問台電1911楊小姐表示，已填補妥當；並於11/19 11：35\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 01:05:35",
-    "Close_Date_": "2016/11/19 上午 11:37:01"
   }
 ]
