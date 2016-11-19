@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161119087",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 12:25:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址小吃店家產生油煙空污，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 12:28:30",
     "Close_Date_": ""
   },
   {
@@ -5169,20 +5169,20 @@
   },
   {
     "FileNo_": "INS161118030",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/18 上午 08:21:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "夢裡路31之4號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有飄散一股化學空污異味,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 10:43 環保局環境稽查科中區股郭進堯先生回報，稽查人員於09:20到\r\n達，稽查當時現場未發現有化學異味致空污情事；並於11/19 12：28電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 08:22:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 下午 12:28:07"
   },
   {
     "FileNo_": "INS161118031",
