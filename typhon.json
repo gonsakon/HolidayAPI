@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161119048",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 09:52:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多二路與學源街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍致路面油漬,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 上午 09:55:03",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161119049",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/19 上午 09:50:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "青年一路4巷12號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前裝潢之施工機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/19 上午 09:52:18",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:21:48",
     "Close_Date_": "2016/11/17 上午 09:15:39"
-  },
-  {
-    "FileNo_": "INS161116162",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 07:12:31",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "文信路218號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處路中央一高污水圓形孔蓋鬆動，致車輛行經有聲響，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 07:24:46",
-    "Close_Date_": ""
   }
 ]
