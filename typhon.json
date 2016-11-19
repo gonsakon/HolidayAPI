@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119042",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 09:29:36",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復興二路與五福二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌不變燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119041",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 09:19:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 06:26:07",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116155",
-    "Status_": "2",
-    "Cre_Date_": "2016/11/16 下午 06:21:47",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁勇路87號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處台電線路垂落，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 06:25:33",
     "Close_Date_": ""
   }
 ]
