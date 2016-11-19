@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119213",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 10:29:48",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119211",
     "Status_": "1",
     "Cre_Date_": "2016/11/19 下午 10:27:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 02:26:15",
     "Close_Date_": "2016/11/19 下午 07:55:40"
-  },
-  {
-    "FileNo_": "INS161117119",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 02:24:01",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎力路37號",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈紅燈故障不亮、對面黃燈故障閃燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 17:40 交通局智慧運輸中心李品鋒先生回報，該處號誌燈均已修復；並於11/19 \r\n17：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 02:24:57",
-    "Close_Date_": "2016/11/19 下午 05:01:48"
   }
 ]
