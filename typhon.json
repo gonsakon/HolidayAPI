@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161120020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 上午 02:20:04",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊仔路 新莊國小門口",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "8010-WG 佔用於新莊國小門口。11月19號22:16",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 上午 04:10:27",
     "Close_Date_": ""
   },
   {
