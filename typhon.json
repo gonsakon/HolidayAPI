@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161119124",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 04:46:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路與南華路口(近美麗島站3號出口)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處人行道造型燈均故障不亮，其另表示該處路燈經常不亮，須請單位確實查修，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 04:47:24",
     "Close_Date_": ""
   },
   {
@@ -7226,20 +7226,20 @@
   },
   {
     "FileNo_": "INS161117209",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/17 下午 07:24:48",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "桂仁街11號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址前污水管有冒水情況，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/18 11:02 水利局污水營運科林卉霓小姐回報，該處已修復完成；並於\r\n11/19 16：47電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 07:26:36",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 下午 04:47:13"
   },
   {
     "FileNo_": "INS161117208",
