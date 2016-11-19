@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119131",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 05:32:49",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "大舍北路63號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映自身車輛有一貓隻受困於引擎內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119130",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 05:29:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 09:08:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117041",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/17 上午 09:02:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "高鳳一路30號與42號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前人行道處各有一樹穴坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 09:10:36",
     "Close_Date_": ""
   }
 ]
