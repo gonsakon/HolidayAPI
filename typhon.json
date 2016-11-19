@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161119051",
+    "FileNo_": "INS161119052",
     "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 10:05:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "濱山街80號(正修曙色)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161119051",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 10:02:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "鎮港路7號，建銨國際有限公司第二貨櫃中心",
+    "address_": "鎮港路7號，建銨國際有限公司",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處公司疑似清洗化學槽，空氣中瀰漫化學異味，",
+    "BeforeDesc_": "渠反映該公司疑似清洗化學槽，空氣中瀰漫化學異味飄散至第二貨櫃中心，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 上午 10:05:44",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 07:34:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161116165",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/16 下午 07:23:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大勇路與大仁路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有流動卡拉OK攤販，有唱歌擴音機噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 10：01電覆陳情人未果，故於11/17 10：05簡訊回覆：莊先生您好，您11月16日\r\n所反映卡拉OK擴音噪音問題，經本府環保局前往稽查，稽查時於通報地點巡查，未發現流動卡拉OK攤販及唱歌擴\r\n音機致噪音情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 07:25:00",
-    "Close_Date_": "2016/11/17 上午 10:09:07"
   }
 ]
