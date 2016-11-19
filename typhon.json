@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161120021",
+    "FileNo_": "INS161120022",
     "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 02:24:32",
+    "ReplyUnit_": "",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛路",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "715-BAY 11月19號晚上22:50騎乘於博愛路上，未攜帶安全帽",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161120021",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 上午 02:22:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路130號左右",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有一貓屍，建請查處。(先用樹葉覆蓋)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 上午 02:25:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 05:10:39",
     "Close_Date_": "2016/11/19 下午 08:26:18"
-  },
-  {
-    "FileNo_": "INS161117149",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 05:03:32",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅區新光路26號人行道上",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "急迫危害立即排除",
-    "BeforeDesc_": "超商前疑似發現贓車或即將作案的機車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/17 17：13通報110王警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 05:19:16",
-    "Close_Date_": "2016/11/17 下午 05:24:26"
   }
 ]
