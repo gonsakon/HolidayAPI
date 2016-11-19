@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119103",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 02:29:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "立德棒球場",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "擴音器噪音情事",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119102",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 02:21:36",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161119076",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/19 上午 11:45:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "豐田街66號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址人行道有1黑色垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 07:54:17",
     "Close_Date_": "2016/11/18 下午 03:34:27"
-  },
-  {
-    "FileNo_": "INS161117013",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 07:35:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "孔宅五街與孔宅六街交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈其中一黃燈有鳥築巢,致無法看到黃燈,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 07:37:20",
-    "Close_Date_": ""
   }
 ]
