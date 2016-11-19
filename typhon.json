@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120015",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 01:57:01",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路531號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "ZJ-5517 停車太外面。佔用車道與影響用路人權益。11月19號21:50",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120014",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 上午 01:53:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 04:44:07",
     "Close_Date_": "2016/11/18 上午 11:15:39"
-  },
-  {
-    "FileNo_": "INS161117142",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 04:35:07",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅區新光路26號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上機車違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/17 17：13通報110王警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 05:18:57",
-    "Close_Date_": "2016/11/17 下午 05:23:22"
   }
 ]
