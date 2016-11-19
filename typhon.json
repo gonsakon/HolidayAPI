@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161119120",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 04:03:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊一路與新勝街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處路口有一電桿遭到車輛撞擊，桿身有碎裂破損，且呈現傾斜致搖晃情事，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/19 下午 04:09:22",
     "Close_Date_": ""
   },
   {
