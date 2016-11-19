@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161119073",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/19 上午 11:40:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "永義街92巷2弄16號隔壁",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址房屋整修未設防塵網，導致揚塵空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/19 上午 11:43:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119072",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 11:35:23",
@@ -3792,14 +3809,14 @@
   },
   {
     "FileNo_": "INS161118098",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/18 上午 11:40:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "大公路；與路竹區交界處",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有台電電線桿的一條大電線掉落地面，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 09:43:20",
     "Close_Date_": "2016/11/17 上午 09:12:20"
-  },
-  {
-    "FileNo_": "INS161116188",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/16 下午 09:13:46",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅區文橫二路111號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多輛汽車及機車在文橫二路跟中興街交叉口違規停車",
-    "AfterDesc_": "本案已於11/16 21:14代通報至110勤務指揮中心鄭警員成功並提供陳情人聯電。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 09:16:05",
-    "Close_Date_": "2016/11/17 上午 09:12:34"
   }
 ]
