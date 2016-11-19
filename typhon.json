@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161119038",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 09:10:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "高雄市左營區新莊仔路",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違規設攤",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，因通報地點僅有左營區新庄仔路且檔案上無法查看出詳細地點，故無法協助通報110警員查處，\r\n望提供鄰近的標的物或相近之路口，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 09:24:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/19 上午 09:28:11"
   },
   {
     "FileNo_": "INS161119037",
