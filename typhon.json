@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119132",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 05:34:03",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中華路67之8號前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119131",
     "Status_": "1",
     "Cre_Date_": "2016/11/19 下午 05:32:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 09:09:58",
     "Close_Date_": "2016/11/19 下午 04:57:53"
-  },
-  {
-    "FileNo_": "INS161117042",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 09:03:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "中正路16巷3之89號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號74899890)白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 09:08:57",
-    "Close_Date_": ""
   }
 ]
