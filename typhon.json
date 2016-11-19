@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119162",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 06:26:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北一路與錦田路(錦田橋旁，幸福川)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "一盞雙層路燈 下方故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119161",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 06:25:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 上午 10:40:26",
     "Close_Date_": "2016/11/17 上午 10:42:15"
-  },
-  {
-    "FileNo_": "INS161117072",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 上午 10:31:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路475號與477號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道因樹根隆起導致行道磚不平，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 上午 10:33:12",
-    "Close_Date_": ""
   }
 ]
