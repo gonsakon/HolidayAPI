@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119087",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 下午 12:25:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119086",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 下午 12:19:20",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161119051",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/19 上午 10:02:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮港路7號，建銨國際有限公司",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該公司疑似清洗化學槽，空氣中瀰漫化學異味飄散至第二貨櫃中心，建請稽查。",
     "AfterDesc_": "",
@@ -860,7 +877,7 @@
     "UnitName_": "環保局",
     "StatusName_": "處理完成",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有住宅以整修以電鑽作業噪音過大,請查處。",
+    "BeforeDesc_": "渠反映該處目前有住宅整修,以電鑽作業噪音過大,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 09:04:06",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 11:00:54",
     "Close_Date_": "2016/11/19 上午 11:02:48"
-  },
-  {
-    "FileNo_": "INS161116201",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/16 下午 10:48:19",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大興街5號、30號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該兩址前各有一台電孔蓋旁柏油破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 10:52:49",
-    "Close_Date_": ""
   }
 ]
