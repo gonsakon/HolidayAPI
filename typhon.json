@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161119061",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/19 上午 10:52:19",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "利昌街與沿海二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈被撞毀，目前兩個燈號垂掛，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161119060",
     "Status_": "2",
     "Cre_Date_": "2016/11/19 上午 10:45:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/16 下午 08:30:57",
     "Close_Date_": "2016/11/17 上午 10:54:20"
-  },
-  {
-    "FileNo_": "INS161116174",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/16 下午 08:22:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "高楠公路上(楠陽高架橋上及下方機車道)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處附近路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/16 下午 08:23:49",
-    "Close_Date_": ""
   }
 ]
