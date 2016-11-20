@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120085",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 12:44:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "新光路；星光園道",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該址有機車違規進入停放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120084",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 下午 12:26:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 07:32:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117212",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 07:31:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "民族路18號旁巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁巷口進入約第3盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 07:35:37",
     "Close_Date_": ""
   }
 ]
