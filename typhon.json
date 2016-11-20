@@ -664,20 +664,20 @@
   },
   {
     "FileNo_": "INS161120163",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 08:49:16",
     "ReplyUnit_": "E01001",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "旗津二路399號前",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻受傷，建請救援。(陳情人在現場望局處收案後先行聯絡)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 21:40 農業局動物保護處捕犬大隊史明德先生回報，該犬隻已帶上車，並送\r\n往動物醫院。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 08:51:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:59:30"
   },
   {
     "FileNo_": "INS161120162",
