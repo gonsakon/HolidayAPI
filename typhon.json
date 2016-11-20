@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120136",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 06:36:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "1.中正四路陸橋上(河東路往河西路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映介於第一盞與第六盞路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120135",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 下午 06:33:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 01:26:28",
     "Close_Date_": "2016/11/19 下午 12:05:41"
-  },
-  {
-    "FileNo_": "INS161118001",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 12:35:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "賢明路上(往東方向)，近英明一路前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中有一隻貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/18 00：59 溝渠清潔隊林漢宗先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 12:37:28",
-    "Close_Date_": "2016/11/18 上午 07:46:36"
   }
 ]
