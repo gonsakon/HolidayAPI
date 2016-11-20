@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120108",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/20 下午 04:18:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家有卡拉OK噪音，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/20 下午 04:21:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120107",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 04:15:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:31:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117235",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 08:26:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "東山路63之1號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(東山幹8右1)不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:28:30",
     "Close_Date_": ""
   }
 ]
