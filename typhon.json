@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161120061",
+    "FileNo_": "INS161120060",
     "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 10:08:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明德路與青泉街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處疑似進行污水接管工程，惟施工造成嚴重揚塵，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161120061",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 上午 10:06:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路彎進光遠路121巷內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映巷內第一天鐵皮屋，該處有人在唱卡拉OK，噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 上午 10:07:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 06:30:31",
     "Close_Date_": "2016/11/19 下午 01:50:53"
-  },
-  {
-    "FileNo_": "INS161117188",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 06:27:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路三段140巷3號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 22:10養工處鳳山養護工程隊劉緯婕小姐回報，該處路燈已修復完成；本案不需\r\n回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 06:30:38",
-    "Close_Date_": "2016/11/19 下午 01:50:44"
   }
 ]
