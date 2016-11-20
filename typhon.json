@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120092",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 01:35:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "漁村街158號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120091",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 01:19:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 07:55:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117219",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 07:52:16",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營區政德路753號至重立路815號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "左營區政德路753號至重立路815號  周便停電、路燈也2天不亮",
-    "AfterDesc_": "【主管解除管制】本案於11/17 21：45 台電高雄區處郭先生回報，經人員到達現場室內用電皆正常，且路燈皆\r\n有放亮，然致電陳情人確認皆轉至語音信箱；故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 09:14:47",
-    "Close_Date_": "2016/11/18 下午 05:59:02"
   }
 ]
