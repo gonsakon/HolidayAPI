@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120109",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 04:30:52",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "前鋒路212號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址處有一隻犬隻遭鐵門夾住，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120108",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 04:18:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:33:27",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117236",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 08:30:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福德二路264巷2號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:31:00",
     "Close_Date_": ""
   }
 ]
