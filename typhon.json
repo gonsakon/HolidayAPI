@@ -579,20 +579,20 @@
   },
   {
     "FileNo_": "INS161120168",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 09:20:07",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區林森三路146號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道及紅線多輛汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，本案已於11/20 21:21代通報至110勤務指揮中心曹警員辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 09:22:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:56:49"
   },
   {
     "FileNo_": "INS161120167",
