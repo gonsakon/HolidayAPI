@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120124",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 06:08:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "華榮路388號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該址前有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120123",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 05:59:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 10:39:30",
     "Close_Date_": "2016/11/18 下午 12:32:46"
-  },
-  {
-    "FileNo_": "INS161117251",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 10:32:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "民權街12號，於高雄高商後方街道",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址周界沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 10:34:28",
-    "Close_Date_": ""
   }
 ]
