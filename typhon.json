@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120113",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/20 下午 04:51:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "前鎮高中2號出口往福誠高中旁(人行陸橋)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處陸橋上有多處破損，望請修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/20 下午 04:55:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120112",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 04:51:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:50:39",
     "Close_Date_": "2016/11/18 上午 07:56:46"
-  },
-  {
-    "FileNo_": "INS161117240",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/17 下午 08:48:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "成功南路禮義巷38號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:50:30",
-    "Close_Date_": ""
   }
 ]
