@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120122",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/20 下午 05:54:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "壽民路30巷1弄2號3樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址現有房屋整修工程電鑽機具噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/20 下午 05:57:20",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120121",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 05:42:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 10:39:07",
     "Close_Date_": "2016/11/18 下午 01:54:41"
-  },
-  {
-    "FileNo_": "INS161117249",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 10:28:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路176號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈時亮時滅，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 10:29:22",
-    "Close_Date_": ""
   }
 ]
