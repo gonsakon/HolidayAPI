@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161120111",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 04:34:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "831",
     "ZipName_": "大寮區",
-    "address_": "中庄里八德街43號",
+    "address_": "中庄里八德路43號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處住家無預警停電，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 下午 04:38:36",
     "Close_Date_": ""
   },
   {
