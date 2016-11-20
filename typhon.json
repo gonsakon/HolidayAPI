@@ -2381,20 +2381,20 @@
   },
   {
     "FileNo_": "INS161120062",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 10:12:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "壽天路43號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該址前有車禍路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 12:23 岡山區清潔隊陳榮東先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 10:15:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:52:40"
   },
   {
     "FileNo_": "INS161120060",
@@ -3265,20 +3265,20 @@
   },
   {
     "FileNo_": "INS161120010",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 01:23:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "十全二路與哈爾濱街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 02:54溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 01:25:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:52:50"
   },
   {
     "FileNo_": "INS161120009",
@@ -3656,20 +3656,20 @@
   },
   {
     "FileNo_": "INS161119207",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 下午 09:49:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中二路與中山二路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍致路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/19 22:25 苓雅區清潔隊施長興先生回報，該處油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 09:52:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:52:00"
   },
   {
     "FileNo_": "INS161119206",
