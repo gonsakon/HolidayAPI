@@ -1021,20 +1021,20 @@
   },
   {
     "FileNo_": "INS161120142",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 07:05:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "光明路三段與八德路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈均故障閃燈，需交管，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 21:51交通局智慧運輸中心蔡淑君小姐回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 07:07:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:49:36"
   },
   {
     "FileNo_": "INS161120141",
@@ -1531,20 +1531,20 @@
   },
   {
     "FileNo_": "INS161120112",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 04:51:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大中二路與文川路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障，秒數一直重複倒數，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 20:46 交通局智慧運輸中心蔡淑君小姐回報，該處無危險性，惟因線路故\r\n障，已報修廠商處理，無法立即修復，故改派非網A-TB-2016-108721賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 04:52:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:49:48"
   },
   {
     "FileNo_": "INS161120111",
@@ -1803,20 +1803,20 @@
   },
   {
     "FileNo_": "INS161120096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 02:01:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗屏路與國道10號口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌秒數故障，綠燈只有10多秒，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 14:09 交通局智慧運輸中心余晨璿小姐回報，該處號誌未故障，當初設定即\r\n是如此。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 02:02:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:49:01"
   },
   {
     "FileNo_": "INS161120095",
@@ -1888,20 +1888,20 @@
   },
   {
     "FileNo_": "INS161120091",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 01:19:39",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路與重義路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一行人號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 16:13 交通局智慧運輸中心蔡淑君小姐回報，該處號誌已修復完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 01:21:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:50:12"
   },
   {
     "FileNo_": "INS161120090",
@@ -2959,20 +2959,20 @@
   },
   {
     "FileNo_": "INS161120028",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 07:45:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞隆路與公正路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障，呈現黃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 08:54 交通局智慧運輸中心余晨璿小姐回報，已修復完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 07:46:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:50:21"
   },
   {
     "FileNo_": "INS161120027",
