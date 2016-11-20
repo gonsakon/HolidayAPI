@@ -5934,20 +5934,20 @@
   },
   {
     "FileNo_": "INS161119020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 06:14:03",
     "ReplyUnit_": "E01005",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山路550號前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址前電桿上有電線垂落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/20 10：54經詢問台電1911黃小姐表示，經查現場台電電線並無垂落；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 06:19:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 下午 07:55:51"
   },
   {
     "FileNo_": "INS161119019",
