@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120156",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 08:03:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "天祥二路與民族一路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有瀰漫不明燃燒異味致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120153",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 07:57:51",
@@ -5577,20 +5594,20 @@
   },
   {
     "FileNo_": "INS161119042",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 09:29:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興二路與五福二路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌不變燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 10:29交通局智慧運輸中心王銘瑋先生回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 09:30:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 下午 08:03:19"
   },
   {
     "FileNo_": "INS161119041",
@@ -5611,20 +5628,20 @@
   },
   {
     "FileNo_": "INS161119040",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 09:17:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "文橫二路143巷內",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該巷內有一店面裝潢，噴漆造成空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 10:53環保局公害專線中區股陶源誠先生回報，稽查人員於10:05到達，稽查當時\r\n上址是一般裝潢，經查已完成工程，未發現有噴漆致空污情事，仍促請業者加強防範以維護空氣品質；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 09:20:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 下午 08:02:00"
   },
   {
     "FileNo_": "INS161119039",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 07:56:54",
     "Close_Date_": "2016/11/18 下午 07:55:32"
-  },
-  {
-    "FileNo_": "INS161118019",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 上午 07:54:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "龍目里內產業道路(往久堂里方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈電線桿目前傾斜45度，恐生危險，建請會同勘查。(陳情人要求會同)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 08:01:29",
-    "Close_Date_": ""
   }
 ]
