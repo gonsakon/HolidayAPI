@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121017",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 07:45:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121015",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 上午 07:45:01",
@@ -1208,20 +1225,20 @@
   },
   {
     "FileNo_": "INS161120130",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 06:22:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大勇路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處愛河綠地上有一根木頭，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 22:10 溝渠清潔隊杜金華先生回報，該物品疑似小偷欲偷取之防土牆木板，\r\n人員已將其歸回原位，無妨礙交通，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 06:25:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:47:51"
   },
   {
     "FileNo_": "INS161120129",
@@ -1837,20 +1854,20 @@
   },
   {
     "FileNo_": "INS161120094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 01:41:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪七路與高坪六十六路(大坪頂曲棍球場對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處山坡地有人使用怪手進行挖掘，將土與樹木丟清出至路面，其表示尚未清除，建請查處。(陳情人要求聯繫)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 14:53小港區清潔隊林敏碩先生回報，已與陳情人聯繫，向其表示該處屬私人\r\n區域，人員無法進入，請其自行向該戶反映，人員到達時該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 01:47:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:48:10"
   },
   {
     "FileNo_": "INS161120092",
@@ -2891,20 +2908,20 @@
   },
   {
     "FileNo_": "INS161120031",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 08:01:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族巷32號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處騎樓有一貓屍，望請清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 08:17 三民東區清潔隊葉淑莉小姐回報，已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 08:04:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:48:22"
   },
   {
     "FileNo_": "INS161120030",
@@ -3401,20 +3418,20 @@
   },
   {
     "FileNo_": "INS161120001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 12:01:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "遼寧二街與哈爾濱街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有散落車禍玻璃，已有交管中，建請查處。",
     "AfterDesc_": "【主管解除管制】11/20 00：37 環保局溝渠隊杜金華先生回報，該處車禍玻璃碎片已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 12:04:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:47:29"
   },
   {
     "FileNo_": "INS161119220",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 09:57:26",
     "Close_Date_": "2016/11/18 下午 04:56:55"
-  },
-  {
-    "FileNo_": "INS161118065",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 09:47:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "康寧街(瑞豐國中東側門)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有1盞路燈照射角度朝上未照射路面，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 14:30養工處四維養護工程隊九如養護分隊林泉先生回報，該處已修復；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 10:02:36",
-    "Close_Date_": "2016/11/20 下午 07:49:39"
   }
 ]
