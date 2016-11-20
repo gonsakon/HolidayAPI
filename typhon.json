@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161120043",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 上午 08:47:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "智立一路 智立一路85巷",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌故障",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "智立路不連鎖",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 上午 09:00:00",
     "Close_Date_": ""
   },
   {
