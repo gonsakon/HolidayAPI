@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120139",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 06:42:42",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "德昌街16號2樓",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一黑色貓隻受困於屋簷上，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120138",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 下午 06:39:24",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS161120108",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/20 下午 04:18:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家有卡拉OK噪音，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 02:38:16",
     "Close_Date_": "2016/11/19 下午 12:06:35"
-  },
-  {
-    "FileNo_": "INS161118004",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 01:50:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重愛路與文川路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有化學異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/18 03:55 環保局楊竣安先生回報：人員於02:32到場，周界巡查未發現異味空污\r\n情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 01:52:10",
-    "Close_Date_": "2016/11/18 上午 07:46:18"
   }
 ]
