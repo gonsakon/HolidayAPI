@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161120069",
+    "FileNo_": "INS161120070",
     "Status_": "1",
+    "Cre_Date_": "2016/11/20 上午 11:32:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映因吹北風，故該處目前有不明異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161120069",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 上午 11:31:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山北路1號(岡山鋼鐵舊址)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有4盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 上午 11:32:14",
     "Close_Date_": ""
   },
   {
@@ -4319,20 +4336,20 @@
   },
   {
     "FileNo_": "INS161119030",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 上午 08:53:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "忠誠路158巷1號旁空地",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾燃燒垃圾,造成空污嚴重,請儘速派員查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 10:43環保局公害專線北區股潘政&#23791;先生回報，稽查人員於09:35到\r\n達，人員到場發現先前是在燃燒樹葉、樹枝，到場已熄滅；並於11/20 11：30電覆陳情人，故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 08:55:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 上午 11:30:32"
   },
   {
     "FileNo_": "INS161119032",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 06:54:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117197",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 06:51:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重和路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線路燈均故障不亮，建起查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 23：45四維養護工程隊江明秀小姐回報，該處路燈皆已由台電公司修復完畢；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 06:52:16",
-    "Close_Date_": "2016/11/18 下午 11:12:23"
   }
 ]
