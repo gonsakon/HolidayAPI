@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161121003",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 12:24:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "利昌街與沿海二路(南下方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌角度歪斜，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 12:28:28",
     "Close_Date_": ""
   },
   {
