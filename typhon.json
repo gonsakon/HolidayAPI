@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161120096",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 02:01:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗屏路與國道10號口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌秒數故障，綠燈只有10多秒，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 下午 02:02:47",
     "Close_Date_": ""
   },
   {
