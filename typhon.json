@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120145",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 07:18:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "八德路193號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "一盞路燈故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120144",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 07:07:36",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161120137",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/20 下午 06:39:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路與後昌路837巷",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍後油漬，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 06:48:25",
     "Close_Date_": "2016/11/18 上午 07:30:57"
-  },
-  {
-    "FileNo_": "INS161118010",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 06:37:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段421號全聯附近",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有一黃色動物屍體血流滿地，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/18 07:34 鳳山區清潔隊張簡嘉慧小姐回報，該動物屍體已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 06:44:51",
-    "Close_Date_": "2016/11/18 上午 07:45:18"
   }
 ]
