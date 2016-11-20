@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120112",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 04:51:15",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路 文川路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120111",
     "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 04:34:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:50:30",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161117239",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 08:37:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路331號(復興國小前)，往南方向",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處快車道上有一包大黑色垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/17 21:17前鎮區清潔隊莊素雲小姐回報，該處垃圾包已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:39:46",
-    "Close_Date_": "2016/11/18 上午 07:56:58"
   }
 ]
