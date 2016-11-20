@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161120050",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 09:09:54",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自立一路 自立一路85巷",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "自立路上不連鎖",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工:INS161120043，研判應是重複成案，故併入\r\n該案一併委由交通局賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 09:50:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 上午 09:51:32"
   },
   {
     "FileNo_": "INS161120049",
