@@ -290,20 +290,20 @@
   },
   {
     "FileNo_": "INS161120185",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 11:58:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路與迪化街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該址前有車禍油漬，已有警員交管中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/21 00:26 溝渠隊杜金華先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 11:59:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:51:52"
   },
   {
     "FileNo_": "INS161120184",
@@ -1106,20 +1106,20 @@
   },
   {
     "FileNo_": "INS161120137",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 06:39:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路與後昌路837巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍後油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 19:18溝渠隊李文山先生回報，該處油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 06:39:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:51:03"
   },
   {
     "FileNo_": "INS161120136",
@@ -1327,20 +1327,20 @@
   },
   {
     "FileNo_": "INS161120124",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 06:08:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路388號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該址前有車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 18:52 環保局溝渠隊林漢宗先生回報，經查正確位置於鼓山區華榮路323號\r\n前，現場路面油漬已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 06:10:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:52:18"
   },
   {
     "FileNo_": "INS161120123",
@@ -1769,20 +1769,20 @@
   },
   {
     "FileNo_": "INS161120098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 02:37:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國三路往西近中華三路(三信銀行斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有疑似車輛漏油之路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 15:37 三民西區清潔隊王進發先生回報，該處路面油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 02:40:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:52:29"
   },
   {
     "FileNo_": "INS161120097",
