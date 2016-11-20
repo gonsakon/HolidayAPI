@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161120099",
+    "FileNo_": "INS161120100",
     "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 02:43:26",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍田路上",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161120099",
+    "Status_": "2",
     "Cre_Date_": "2016/11/20 下午 02:42:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路與光明街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有施工機具噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/20 下午 02:44:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:15:29",
     "Close_Date_": "2016/11/18 下午 10:53:50"
-  },
-  {
-    "FileNo_": "INS161117226",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/17 下午 08:05:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌一路302巷內，近鼎愛街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有不明擴音器播放聲致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/17 22:12環保局環境稽查科中區股楊竣安先生回報，稽查人員於20:37到達，稽查時人\r\n員於上址巷內查察，經查為大昌一路302巷31號天聖老母宮，因天母娘娘生日請樂團演奏，稽查當下該處演奏已結\r\n束，並未發現有使用擴音器設備致噪音情事，仍促請廟方注意防範；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:06:32",
-    "Close_Date_": "2016/11/18 下午 10:54:43"
   }
 ]
