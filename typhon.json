@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161120110",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/20 下午 04:31:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多三路94號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前快車道有一動物屍體，疑似鳥屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161120109",
     "Status_": "1",
     "Cre_Date_": "2016/11/20 下午 04:30:52",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161120090",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/20 下午 01:12:33",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "永年街46號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前有一路面坑洞，已有民眾跌傷，望儘速處理。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/17 下午 08:41:38",
     "Close_Date_": "2016/11/18 下午 03:10:00"
-  },
-  {
-    "FileNo_": "INS161117237",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/17 下午 08:32:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "昌裕街51巷巷底",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一水銀燈燈罩遺失，惟後更換黃光燈泡無裝設燈罩，致光線刺眼，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/17 下午 08:33:27",
-    "Close_Date_": ""
   }
 ]
