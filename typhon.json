@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121013",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/21 上午 07:17:10",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞隆路197巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈會不斷跳換燈號，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/21 上午 07:19:18",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121011",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 07:15:25",
@@ -1480,20 +1497,20 @@
   },
   {
     "FileNo_": "INS161120110",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 04:31:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路94號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前快車道有一動物屍體，疑似鳥屍，建請查處。",
     "AfterDesc_": "【主管解除管制】11/20 16：59 苓雅區清潔隊陳冠宏先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 04:35:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:22:31"
   },
   {
     "FileNo_": "INS161120109",
@@ -1633,20 +1650,20 @@
   },
   {
     "FileNo_": "INS161120101",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 02:59:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠陽高架橋上近楠陽路；往健仁醫院方向",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處對向車道處約150公尺處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 15：26 楠梓區清潔隊王麒源先生回報，該處貓屍已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 03:04:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:22:44"
   },
   {
     "FileNo_": "INS161120100",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 09:47:09",
     "Close_Date_": "2016/11/18 下午 04:57:45"
-  },
-  {
-    "FileNo_": "INS161118064",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/18 上午 09:44:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文學路一段250號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前路燈故障不亮，且該路燈修復完不久又立即故障，請徹底檢查或更換路燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 09:47:26",
-    "Close_Date_": ""
   }
 ]
