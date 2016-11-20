@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161121016",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 07:43:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德三路與明德街口(林靖公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該公園內僅剩三支椅腳水泥基座旁有一樹木移除之樹穴形成一坑洞，現場未見安全措施，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 07:44:13",
     "Close_Date_": ""
   },
   {
@@ -2925,20 +2925,20 @@
   },
   {
     "FileNo_": "INS161120029",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 07:53:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文龍東路57巷17號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一鳥屍體，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 08：41 鳳山區清潔隊陳瑞明先生回報，該處已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 07:55:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:46:41"
   },
   {
     "FileNo_": "INS161120028",
@@ -2959,20 +2959,20 @@
   },
   {
     "FileNo_": "INS161120027",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 07:42:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路三段229巷2之2號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 08:09 鳳山區清潔隊陳瑞明先生回報，該處貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 07:45:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:46:52"
   },
   {
     "FileNo_": "INS161120026",
@@ -3010,20 +3010,20 @@
   },
   {
     "FileNo_": "INS161120024",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 上午 06:15:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國富路29號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 08：24 南鳳山區清潔隊陳鳳品小姐回報，人員現場來回查看皆未發現該貓\r\n屍，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 06:17:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:46:12"
   },
   {
     "FileNo_": "INS161120023",
@@ -3411,7 +3411,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有散落車禍玻璃，已有交管中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 00：37 環保局溝渠隊杜金華先生回報，該處車禍玻璃碎片已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 12:04:26",
     "Close_Date_": ""
