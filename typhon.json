@@ -4421,20 +4421,20 @@
   },
   {
     "FileNo_": "INS161119125",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 下午 04:52:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自立一路340號之1前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊有一貓屍，建請清除。",
     "AfterDesc_": "【主管解除管制】本案於11/19 17：12三民西區清潔隊王永豐先生回報，該處貓屍已清除完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 04:54:42",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/20 下午 09:33:19"
   },
   {
     "FileNo_": "INS161119124",
