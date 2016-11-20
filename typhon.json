@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161121006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 上午 02:33:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路13之1號前(面對鳳山區中山西路上)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中央有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/21 02：53 溝渠清潔隊林漢宗先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 02:34:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:00:33"
   },
   {
     "FileNo_": "INS161121005",
@@ -392,20 +392,20 @@
   },
   {
     "FileNo_": "INS161120172",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 09:52:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東二路85號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前遭民眾放置兩包垃圾逾兩個月，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 22:41 溝渠清潔隊杜金華先生回報，上述垃圾包位於私人空地圍籬內，且鄰\r\n近該址，故無法進入清除，現場未有影響交通與無危險性，需請區隊稽查處理，故轉非網A-TB-2016-\r\n108743賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 09:53:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:00:06"
   },
   {
     "FileNo_": "INS161120171",
@@ -494,20 +494,20 @@
   },
   {
     "FileNo_": "INS161120166",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 09:06:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維二路與凱旋二路(近鐵軌，往東方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處目前疑似民眾掉落物品致路面油漬，恐致危險，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/20 21:37 環保局溝渠隊林漢宗先生回報，該處路面油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 09:10:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 07:01:22"
   },
   {
     "FileNo_": "INS161120165",
