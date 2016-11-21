@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121142",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 04:04:09",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路624巷與文科街；陽光大樓前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處紅磚人行道因溝壁破損，有下陷情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121140",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 03:53:34",
@@ -9861,14 +9878,14 @@
   },
   {
     "FileNo_": "INS161118210",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/18 下午 07:26:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "過港路1號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈已經故障不亮多日，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:08:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118191",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 06:07:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "青年一路上(介於民權一路與復興二路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈沿線故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 22:24養工處四維養護工程隊九如養護分隊李來益先生回報，該處路燈皆已修復完\r\n成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:08:51",
-    "Close_Date_": "2016/11/18 下午 10:49:28"
   }
 ]
