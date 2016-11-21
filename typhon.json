@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121266",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 11:41:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九曲路531巷31號右前方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121265",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 11:38:15",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161121262",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 11:31:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大享路119號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處一台電圓形孔蓋周邊柏油破損，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 11:41:48",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 11:24:16",
     "Close_Date_": "2016/11/20 上午 11:55:05"
-  },
-  {
-    "FileNo_": "INS161119067",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/19 上午 11:18:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋東路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處沿線路面有施工單位刨鋪完工後，路面每隔一段距離挖二個約馬克杯大小坑洞未回填，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 11:21:00",
-    "Close_Date_": ""
   }
 ]
