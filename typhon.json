@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161121067",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 11:07:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "興仁路上，近興旺路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌於燈號轉換時燈號會消失不亮，而於轉換後燈號才未有顯示疑似故障，",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 11:09:31",
     "Close_Date_": ""
   },
   {
