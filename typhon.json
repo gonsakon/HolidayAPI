@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121212",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 07:39:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路186號與186號之1前方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121211",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 07:36:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 03:51:03",
     "Close_Date_": "2016/11/19 上午 03:51:23"
-  },
-  {
-    "FileNo_": "INS161119013",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 上午 02:06:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "神農巷尾半夜抽水機聲擾人清夢",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "神農巷尾半夜抽水機聲擾人清夢",
-    "AfterDesc_": "本案與INS161119018為重複案件，故結案以該案辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 03:43:32",
-    "Close_Date_": "2016/11/19 上午 03:53:26"
   }
 ]
