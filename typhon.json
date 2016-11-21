@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121087",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 12:28:47",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多一路與福壽街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌桿已傾倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121086",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 12:18:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 02:29:38",
     "Close_Date_": "2016/11/19 下午 02:46:37"
-  },
-  {
-    "FileNo_": "INS161118137",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 02:26:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路上往東方向，(介於平和東路與大業北路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段慢車道右側有三盞藝術造型路燈故障不亮，左側有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 02:30:49",
-    "Close_Date_": ""
   }
 ]
