@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161121261",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 11:30:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大享路99號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處一台電方形孔蓋周邊柏油破損導致有凹凸不平情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 11:36:58",
     "Close_Date_": ""
   },
   {
