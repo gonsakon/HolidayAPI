@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161121190",
+    "FileNo_": "INS161121191",
     "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 06:20:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "至真路文萊路交叉口，龍騰建設",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該建設公司目前仍在施工，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121190",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 06:18:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中平路上(背對紅仕釣具行左前方，往翠亨南路方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處路旁有一長方形坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 06:21:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 10:51:19",
     "Close_Date_": "2016/11/20 下午 07:55:18"
-  },
-  {
-    "FileNo_": "INS161118241",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 10:34:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松崗路上(近高鳳工家，斜坡旁草叢)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/18 23:19 環保局溝渠隊莊斯宇先生於回報：該處貓屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 10:36:20",
-    "Close_Date_": "2016/11/19 上午 07:41:57"
   }
 ]
