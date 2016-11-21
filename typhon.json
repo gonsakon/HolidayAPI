@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161121068",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 11:07:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "崑山路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有三盞路燈白天未熄(路燈編號：E173、E179、E197 )，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 11:09:17",
     "Close_Date_": ""
   },
   {
