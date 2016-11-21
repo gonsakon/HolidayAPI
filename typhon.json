@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161121071",
+    "FileNo_": "INS161121072",
     "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 11:16:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "中路里9之26號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址旁現有民眾將雞屎等汙水隨意傾倒造成惡臭，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121071",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 11:16:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "信義路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：海崎高幹8號P9767-GC25)，自颱風後不亮至今，建請查處。",
+    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：海崎高幹8號P9767GC25)，自颱風後不亮至今，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 11:17:14",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 01:34:45",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118121",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 01:30:50",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路與大同一路口(近詩肯柚木)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處店家前行人號誌燈，倒數秒數燈故障不亮許久，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 17:06交通局智慧運輸中心李品鋒先生回報，已修復；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 01:31:54",
-    "Close_Date_": "2016/11/18 下午 06:05:14"
   }
 ]
