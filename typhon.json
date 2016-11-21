@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121213",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 07:41:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大仁路與大勇路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有流動卡拉OK攤販，有唱歌擴音機聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121212",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 07:39:10",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161121210",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 07:35:03",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "南寧街153號(大樓地下室)",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一咖啡色流浪犬，且有攻擊性行為",
+    "BeforeDesc_": "渠反映該處有一咖啡色流浪犬入侵，且有攻擊性行為，建請會同查處。(另需請人員與管理員會同)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 07:41:05",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 03:51:32",
     "Close_Date_": "2016/11/19 上午 03:51:47"
-  },
-  {
-    "FileNo_": "INS161119014",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 上午 02:06:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "神農巷尾半夜抽水機聲擾人清夢",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "神農巷尾半夜抽水機聲擾人清夢",
-    "AfterDesc_": "本案與INS161119018為重複案件，故結案以該案辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 03:51:03",
-    "Close_Date_": "2016/11/19 上午 03:51:23"
   }
 ]
