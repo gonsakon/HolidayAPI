@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161121204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 07:22:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大德路上，往國1方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有一不明工程有封路，未有設置告示牌與替代道路情事，建請查處。",
+    "BeforeDesc_": "渠反映該處有一不明工程有封路，未有設置告示牌與替代道路供通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 07:24:39",
     "Close_Date_": ""
   },
   {
