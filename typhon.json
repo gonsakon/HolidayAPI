@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121265",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 11:38:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121264",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 11:33:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 11:24:16",
     "Close_Date_": "2016/11/20 上午 11:55:05"
-  },
-  {
-    "FileNo_": "INS161119067",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/19 上午 11:18:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋東路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處沿線路面有施工單位刨鋪完工後，路面每隔一段距離挖二個約馬克杯大小坑洞未回填，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 11:21:00",
-    "Close_Date_": ""
   }
 ]
