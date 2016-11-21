@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161121043",
+    "FileNo_": "INS161121044",
     "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 09:45:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路100號靠近國道10號(往北方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠繁穎該路段砂石車及預拌混凝土車行經，揚塵嚴重，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121043",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 09:44:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖一路與光華一路口(二聖公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映園內身障廁所內扶手嚴重搖晃，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 09:46:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 11:35:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118094",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 11:27:53",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "復興二路與五福二路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌不變燈號，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 12:28智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 11:31:24",
-    "Close_Date_": "2016/11/18 下午 04:40:16"
   }
 ]
