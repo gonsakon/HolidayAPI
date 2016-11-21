@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122024",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 07:02:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122023",
     "Status_": "1",
     "Cre_Date_": "2016/11/22 上午 07:00:08",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 12:10:23",
     "Close_Date_": "2016/11/20 下午 01:53:11"
-  },
-  {
-    "FileNo_": "INS161119080",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 上午 11:57:07",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "武慶二路與二聖路口(武慶二路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 13:29交通局智慧運輸中心王銘瑋先生回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 11:59:52",
-    "Close_Date_": "2016/11/20 下午 08:44:48"
   }
 ]
