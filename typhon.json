@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121027",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 08:45:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文慈路150號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路旁遭人惡意棄置垃圾包，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121026",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 08:41:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 10:27:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118078",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 上午 10:19:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "草衙二路上與佛宗路、后安路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該兩路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 12：28智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 10:20:50",
-    "Close_Date_": "2016/11/18 下午 04:55:10"
   }
 ]
