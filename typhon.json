@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121042",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 09:42:08",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "自強三路與三多四路近85大樓",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈燈桿目前傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121041",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 09:37:26",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161121033",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/21 上午 09:17:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文守路(往文育路方向)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映文守路的大彎道，該處路面有玻璃、雜草與木材等垃圾，建請清除。",
     "AfterDesc_": "",
@@ -5628,20 +5645,20 @@
   },
   {
     "FileNo_": "INS161119112",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 下午 03:24:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "中路里3之66號(農春鎮生態教育農場)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址附近農田，目前有業者將廢水到在農田裡致空氣中瀰漫惡臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/19 21:40 環保局環境稽查科北區股洪天賜先生回報，稽查人員於16:28到達，有會\r\n同陳情人查勘，經勘查係為石安牧場人員載運液態有機質肥料，在農田施肥所產生之異味，已促請業者注意防\r\n範，並已當場向陳情人說明；並於11/21 09：40電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 03:28:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 上午 09:44:22"
   },
   {
     "FileNo_": "INS161119111",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 上午 11:23:50",
     "Close_Date_": "2016/11/18 下午 04:45:24"
-  },
-  {
-    "FileNo_": "INS161118091",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/18 上午 11:19:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "王公路上王公廟後方，穿過川興木業公司之產業道路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 上午 11:24:21",
-    "Close_Date_": ""
   }
 ]
