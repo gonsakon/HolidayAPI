@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121154",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 04:33:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路近和平一路186巷(五福一路至江都街路段)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路樹傾倒(一)",
+    "BeforeDesc_": "渠反映該處分隔島有一路樹樹枝疑似斷裂懸掛現會影響車輛行車視線，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121153",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 04:32:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 07:15:58",
     "Close_Date_": "2016/11/18 下午 10:54:23"
-  },
-  {
-    "FileNo_": "INS161118204",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 06:54:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁雄路15之75號對面，仁和公園內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該園內溜冰場有一盞園燈故障不亮多日，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:57:08",
-    "Close_Date_": ""
   }
 ]
