@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121118",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 02:59:39",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中崙路與中崙路53巷",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌燈綠燈不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121117",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 02:59:11",
@@ -834,14 +851,14 @@
   },
   {
     "FileNo_": "INS161121067",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/21 上午 11:07:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "興仁路上，近興旺路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌於燈號轉換時燈號會消失不亮，而於轉換後燈號才未有顯示疑似故障，",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 05:01:00",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118168",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 04:51:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "復興二路與青年一路口(東南角處，近通訊行)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處電桿上有遭張貼捐血廣告看板，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 17:33苓雅區清潔隊孔啟胡先生回報，該處已請捐血中心移除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 05:04:31",
-    "Close_Date_": "2016/11/18 下午 05:36:51"
   }
 ]
