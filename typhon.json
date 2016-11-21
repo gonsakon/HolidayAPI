@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121089",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 12:40:48",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121088",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 12:34:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 02:45:04",
     "Close_Date_": "2016/11/18 下午 06:00:10"
-  },
-  {
-    "FileNo_": "INS161118139",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 02:27:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光榮街15巷15號與13號間",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈下方箱涵二鐵管有漏電情事，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 02:29:24",
-    "Close_Date_": ""
   }
 ]
