@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121232",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 08:19:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "後庄巷150號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121231",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 08:18:55",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161121200",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/21 下午 07:11:12",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清平街28號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處因施作污水下水道工程，惟現場有鋪設鐵板，因鐵板未設完善導致車輛行經有聲響，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 09:02:52",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161119034",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 上午 08:58:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁心路與成功路口(仁心路上、鳳仁路方向過來未到7-11)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路邊有一貓屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 11:23仁武區清潔隊值班人員柯辰璋先生回報，該處派了兩台車去找都找無貓\r\n屍，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 09:03:32",
-    "Close_Date_": "2016/11/20 下午 08:00:06"
   }
 ]
