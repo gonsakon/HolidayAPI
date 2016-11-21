@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161121243",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 09:27:22",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞誠街41巷",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處巷口有一台電工程施作(施工廠商:一功營造)，將怪手阻擋住巷口導致無法通行，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 09:34:05",
     "Close_Date_": ""
   },
   {
