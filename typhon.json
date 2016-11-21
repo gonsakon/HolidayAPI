@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121143",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/21 下午 04:05:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞祥街66號5樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/21 下午 04:08:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121142",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:04:09",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161121086",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/21 下午 12:18:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "金福路1號(東哥企業遊艇公司)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者於場外進行噴漆研磨作業，惟未有設立防護網，造成空氣中有粉塵汙染，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:15:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118193",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 06:09:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維二路與學源街口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口有一路燈故障閃爍，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 22:24養工處四維養護工程隊九如養護分隊李來益先生回報，該處路燈已修復完成；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:10:20",
-    "Close_Date_": "2016/11/18 下午 10:28:33"
   }
 ]
