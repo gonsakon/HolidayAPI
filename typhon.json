@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121144",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 04:18:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "新庄路與澄觀路一段，新庄路上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一路面凹陷，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121143",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:05:53",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS161121111",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/21 下午 02:37:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "廣和路2之2號、廣清路2號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面破損，已致民眾摔倒，請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:21:43",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118194",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 06:13:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族二路與河北一路口(幸福川旁)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該轉角處有兩盞景觀燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:15:26",
     "Close_Date_": ""
   }
 ]
