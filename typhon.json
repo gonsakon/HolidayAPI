@@ -443,20 +443,20 @@
   },
   {
     "FileNo_": "INS161121259",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 下午 11:29:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大順一路與自由一路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍造成大量油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/22 03:42 溝渠隊莊斯宇先生回報：該處已清理完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 11:30:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 上午 07:53:39"
   },
   {
     "FileNo_": "INS161121258",
@@ -596,20 +596,20 @@
   },
   {
     "FileNo_": "INS161121250",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 下午 09:45:47",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "寶安街9號(307室)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址2樓屋簷有貓受困，建請會同救援。(望局處先行聯絡)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/21 22:36 農業局動物保護處捕犬大隊史明德先生回報，已會同陳情人將貓隻救\r\n出並帶回關愛園區安置。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 09:49:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 上午 07:54:09"
   },
   {
     "FileNo_": "INS161121249",
