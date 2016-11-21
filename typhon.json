@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161121151",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/21 下午 04:27:09",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "民安街48號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址住家突然跑進一隻攻擊性犬隻，驅趕不走，建請捕捉。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/21 下午 04:30:38",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121150",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:25:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正義里建軍路81巷(23號公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處園內之電氣箱有傾斜、電氣箱門無法開起與關閉之情事，建請查處。",
+    "BeforeDesc_": "渠反映該處園內有一電氣箱有傾斜、電氣箱門無法開起與關閉之情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 04:30:39",
     "Close_Date_": ""
   },
   {
@@ -6019,20 +6036,20 @@
   },
   {
     "FileNo_": "INS161119200",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/19 下午 09:16:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學十街與大學七街口(近公園一側轉角)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道有破損致空洞情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/21 11：00養工處四維養護工程隊左楠分隊周佳錚小姐回報：該處無危險\r\n性，因需備料水泥，故轉非網:A-TB-2016-108863；並於11/21 16：28電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 09:22:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 下午 04:30:34"
   },
   {
     "FileNo_": "INS161119199",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:50:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118201",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 06:48:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "上竹巷37之5號斜前方",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈燈頭歪斜，造成照射角度偏移，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:49:26",
     "Close_Date_": ""
   }
 ]
