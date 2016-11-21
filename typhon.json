@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161121238",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 08:45:54",
     "ReplyUnit_": "E01005",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路69之9旁",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電手孔蓋有鬆動聲響，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 08:50:24",
     "Close_Date_": ""
   },
   {
