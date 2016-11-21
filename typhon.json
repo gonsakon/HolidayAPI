@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121207",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 07:28:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路一段與建國路一段81巷口(7-11對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121206",
     "Status_": "1",
     "Cre_Date_": "2016/11/21 下午 07:28:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 03:34:08",
     "Close_Date_": "2016/11/19 上午 03:38:23"
-  },
-  {
-    "FileNo_": "INS161119008",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 上午 12:50:19",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "喜峰街126號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "XW7-125 於11月18號晚上七點二十分",
-    "AfterDesc_": "本案依據警政業務權責回歸，已代為通報警察局110勤務指揮中心商警員辦理，感謝您的熱心通報，倘\r\n您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 01:34:14",
-    "Close_Date_": "2016/11/19 上午 01:36:57"
   }
 ]
