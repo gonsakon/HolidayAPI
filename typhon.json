@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161121068",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 11:07:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "崑山路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有三盞路燈白天未熄(路燈編號：E173、E179、E197 )，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121066",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 10:46:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 01:09:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118118",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/18 下午 12:53:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "中華路14巷162之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有路面裂痕，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 01:03:53",
     "Close_Date_": ""
   }
 ]
