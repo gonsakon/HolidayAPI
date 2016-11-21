@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122021",
+    "FileNo_": "INS161122022",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 06:40:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "南屏路與文信路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122021",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 06:40:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中山橫路112號(早餐店)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家未設油煙處理設備,造成油煙空污嚴重,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 06:43:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 上午 11:57:04",
     "Close_Date_": "2016/11/20 下午 08:44:11"
-  },
-  {
-    "FileNo_": "INS161119078",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/19 上午 11:52:41",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "港安街與豐田街",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處轉角處水溝蓋旁，目前有鋼筋外露和坑洞情形，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 上午 11:54:19",
-    "Close_Date_": ""
   }
 ]
