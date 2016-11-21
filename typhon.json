@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161121149",
+    "FileNo_": "INS161121150",
     "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 04:25:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義里建軍路81巷(23號公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該處園內之電氣箱有傾斜、電氣箱門無法開起與關閉之情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121149",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:24:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙二路553號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處快車道上有長條型路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 04:26:17",
     "Close_Date_": ""
   },
   {
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161121148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:22:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
-    "address_": "永華路，編號：永華201號、永華193號路燈",
+    "address_": "永華路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路兩盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處編號：永華201號路燈故障不亮、編號：永華193號路燈燈具遺失，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 04:25:31",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:49:09",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118199",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 06:42:39",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路一段354巷750號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，無法行動，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 19:59農業局動物保護處捕犬大隊楊志強先生回報，人員到達現場後未發現貓隻，詢\r\n問現場民眾表示該貓隻已死亡，且已被清潔隊清除，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 07:02:03",
-    "Close_Date_": "2016/11/18 下午 09:35:59"
   }
 ]
