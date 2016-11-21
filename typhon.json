@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161121105",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 01:58:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "三多二路197號(全國加油站)",
+    "address_": "三多二路與和平二路口(全國加油站轉角處)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前人行道轉角處紅磚凹陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 02:02:49",
     "Close_Date_": ""
   },
   {
@@ -2313,20 +2313,20 @@
   },
   {
     "FileNo_": "INS161120153",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 07:57:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "影七路與鳳林四路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有瀰漫刺鼻燃燒異味致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/21 13：58電覆陳情人未果，故於11/21 14：02簡訊回覆：孫小姐您好，您11月20日\r\n所反映燃燒異味空污問題，經本府環保局前往稽查，於該路口巡查，未發現刺鼻燃燒異味致空污情事，感謝您的\r\n熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 07:59:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/21 下午 02:06:26"
   },
   {
     "FileNo_": "INS161120152",
