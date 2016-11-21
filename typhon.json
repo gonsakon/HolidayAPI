@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161121065",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 上午 10:45:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自強三路285巷與自強三路交叉口(轉角大樓門口)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路面有一凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161121064",
     "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 10:42:54",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161121063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 上午 10:41:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族陸橋上，八德路往九如路方向",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處內側車道路面上有石板和塑膠繩子，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 上午 10:45:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 12:46:11",
     "Close_Date_": "2016/11/19 下午 02:44:02"
-  },
-  {
-    "FileNo_": "INS161118114",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 12:38:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "英雄路上與海邊路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈罩位移向上,造成無法看清號誌,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 15:22交通局智慧運輸中心李品鋒先生回報，該號誌燈罩已修復；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 12:39:16",
-    "Close_Date_": "2016/11/18 下午 04:06:42"
   }
 ]
