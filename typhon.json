@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS161121145",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 04:23:55",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "廠西路上與宏平路交叉",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋周邊破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/21 下午 04:26:14",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121148",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 04:22:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "永華路，編號：永華201號、永華193號路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 06:25:40",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161118197",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 06:20:01",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大順一路與自由一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈紅燈秒數過短，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 19:05交通局智慧運輸中心李品鋒先生回報，該處號誌經人員現場查看，號誌為正常\r\n運作，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 06:21:31",
-    "Close_Date_": "2016/11/18 下午 07:47:42"
   }
 ]
