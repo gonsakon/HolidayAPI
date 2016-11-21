@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161121183",
+    "FileNo_": "INS161121184",
     "Status_": "1",
+    "Cre_Date_": "2016/11/21 下午 06:03:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮港路7號(建銨國際有限公司) 關務署高雄關二中心儀檢站",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161121183",
+    "Status_": "2",
     "Cre_Date_": "2016/11/21 下午 06:02:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "台22線，社會局仁愛之家往楠梓方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線故燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/21 下午 06:03:58",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/18 下午 09:47:39",
     "Close_Date_": "2016/11/19 下午 02:23:00"
-  },
-  {
-    "FileNo_": "INS161118234",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/18 下午 09:27:09",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中華四路上(介於青年二路與四維四路間，往南向)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處機車道上有一貓隻遭撞受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/18 22:08農業局動物保護處捕犬大隊史明德先生回報，於該址沿線巡查，並致電陳情人\r\n詢問，皆未見受傷貓隻，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/18 下午 09:34:20",
-    "Close_Date_": "2016/11/18 下午 10:21:23"
   }
 ]
