@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122152",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 03:59:07",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營區富民路435號後靠近車道",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人手孔破損",
+    "BeforeDesc_": "渠反映該處有長方形重劃大隊人手孔蓋掉落一半，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122151",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 03:54:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 10:33:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161119210",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/19 下午 10:09:21",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路上近五甲三路",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處機車道有一台電方形孔蓋有低於路面之情形，導致用路人行車顛頗，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 10:14:59",
     "Close_Date_": ""
   }
 ]
