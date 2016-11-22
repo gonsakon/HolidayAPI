@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122176",
+    "FileNo_": "INS161122178",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 05:17:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "埤頂街37號後方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址住戶在對面空地露天燃燒木材，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122176",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 05:14:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "民族一路901巷1號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "反映該址前遭棄置廢棄家具，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 05:18:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 04:09:27",
     "Close_Date_": "2016/11/20 上午 04:19:50"
-  },
-  {
-    "FileNo_": "INS161120014",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 上午 01:53:26",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由二路484號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "ARD-2931 臨停於馬路轉角，非常危險。11月19號 21:49",
-    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，轉呈人民陳情案件：A-TB-2016-108548 委由警察局賡續辦理，\r\n 待處理完成將由承辦單位再向您回覆，感謝您的熱心通報，歡迎您再次來電1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 04:09:23",
-    "Close_Date_": "2016/11/20 上午 04:19:28"
   }
 ]
