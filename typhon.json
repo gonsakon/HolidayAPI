@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122066",
+    "FileNo_": "INS161122067",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 09:47:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路二段145號8樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處從昨日23時左右，空氣中就飄散著瓦斯異味，目前仍有此情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122066",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:45:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河華路與岡山路口(三皇三家斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處分隔島有一貓屍(用麻布袋裝)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 09:47:02",
     "Close_Date_": ""
   },
   {
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS161122058",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:32:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
-    "address_": "文學路與重義路口公園路邊",
+    "address_": "文學路與重義路口公園外",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處道路邊有一疑似非法之藍色舊衣回收箱，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 09:50:26",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 04:47:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161119123",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 04:36:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "常德路與常盛街(清豐公園)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該公園現有民眾使用擴音設備唱歌，已嚴重擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 19:54環保局環境稽查科中區股劉翹瑋先生回報，稽查人員於18:15到達，稽查當\r\n時人員於上述地址未發現有使用擴音設備致噪音情事，故結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 04:45:00",
-    "Close_Date_": "2016/11/20 下午 09:32:37"
   }
 ]
