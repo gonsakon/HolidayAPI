@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122052",
+    "FileNo_": "INS161122053",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 09:21:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "中正路188之8號(7-11前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一用塑膠袋蓋住之貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122052",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:17:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "博愛路橋旁(鳳山溪)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處河面嚴重反黑，疑似遭排放廢水致汙染，要求單位測量水質檢查，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 09:21:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 03:21:30",
     "Close_Date_": "2016/11/20 下午 09:25:09"
-  },
-  {
-    "FileNo_": "INS161119109",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 03:15:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "和山路198號(華一休閒農場)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該農場旁有一工廠現有排放不明臭味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/20 13:20電覆陳情人未果，故於2016/11/20 13:25簡訊回覆:黃小姐您好，您11月19\r\n日反映空汙問題，本府環保局派員前往，於所述地點周界巡視，未發現有飄散不明惡臭異味，感謝您的熱心通\r\n報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 03:16:50",
-    "Close_Date_": "2016/11/20 下午 01:26:09"
   }
 ]
