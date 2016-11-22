@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122216",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 09:40:34",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "興南街34號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有流浪貓誤食老鼠藥中毒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122215",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 09:35:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 09:47:00",
     "Close_Date_": "2016/11/21 上午 11:15:45"
-  },
-  {
-    "FileNo_": "INS161120053",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 上午 09:28:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢志街26號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁路中有一犬屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/20 10:15 小港區清潔隊郭界宏先生回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 09:31:04",
-    "Close_Date_": "2016/11/21 上午 07:45:59"
   }
 ]
