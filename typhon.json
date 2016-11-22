@@ -324,20 +324,20 @@
   },
   {
     "FileNo_": "INS161122141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/22 下午 03:26:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "和平路2號旁(廢棄加油站斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處鐵門夾住一黑色狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/22 16:05 湖內區清潔隊杜秋貴小姐回報，已清除完畢；並於11/22 16:13\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 03:32:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 下午 04:13:16"
   },
   {
     "FileNo_": "INS161122140",
