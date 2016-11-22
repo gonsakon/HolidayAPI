@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122225",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 11:28:35",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "1.重慶街230號；2.重慶街326號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映1.該址前有一方型台電孔蓋凹凸不平；2.該址前有一圓形台電孔蓋凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122224",
     "Status_": "1",
     "Cre_Date_": "2016/11/22 下午 11:25:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 10:36:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120062",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 上午 10:12:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "壽天路43號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前有車禍路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/20 12:23 岡山區清潔隊陳榮東先生回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 10:15:12",
-    "Close_Date_": "2016/11/21 上午 07:52:40"
   }
 ]
