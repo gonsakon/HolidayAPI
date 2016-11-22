@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122203",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 07:30:30",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "崗山南街429巷34號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處住戶汙水管線阻塞，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122202",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 07:21:07",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 08:42:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120041",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 08:25:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園一側；鳳山溪",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映鳳山溪內水質目前呈現黑色，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 08:28:18",
     "Close_Date_": ""
   }
 ]
