@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122173",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 04:53:47",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大裕路上與金鼎路口(三民高中對面公園)",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區設備損壞有立即危險者",
+    "BeforeDesc_": "渠反映該公園內健身器材及部分椅子基座不穩會搖晃，恐民眾使用受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122172",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 04:47:06",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 03:40:56",
     "Close_Date_": "2016/11/20 上午 03:42:22"
-  },
-  {
-    "FileNo_": "INS161120011",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 01:49:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中崙二路581巷21之1號3樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映住家以上有住戶冷氣滴水，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 01:51:03",
-    "Close_Date_": ""
   }
 ]
