@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122218",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 09:54:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路214巷3號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處地點有一共桿燈(15802)，其中一顆燈泡故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122217",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 09:52:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 10:02:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120055",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 09:57:05",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓路1號(天后宮)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映於該廟旁私人廢墟房屋內有一犬隻腳遭綁，而該犬隻疑似遭棄養因聽聞未見飼主前往餵食，且犬隻喝的水皆是髒水，建請查處。(※請人員處理情況向民眾說明)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 10:19:34",
     "Close_Date_": ""
   }
 ]
