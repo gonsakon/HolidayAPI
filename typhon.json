@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161122210",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 08:49:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "正義路309巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有鐵路地下化施工，使用機具運轉傳出尖銳刺耳聲，造成噪音，建請查處。",
+    "BeforeDesc_": "渠反映該處有鐵路地下化施工，使用機具運轉致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 08:50:40",
     "Close_Date_": ""
   },
   {
