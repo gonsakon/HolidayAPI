@@ -5900,20 +5900,20 @@
   },
   {
     "FileNo_": "INS161121036",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 上午 09:23:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中厝里明聖街120巷口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/21 13:04交通局智慧運輸中心余晨璿小姐回報，已修復；並於11/22 \r\n14:36電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 09:26:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 下午 02:36:00"
   },
   {
     "FileNo_": "INS161121035",
