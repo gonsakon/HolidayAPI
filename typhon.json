@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123014",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 07:33:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "華中南路8號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123013",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 07:11:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 12:29:41",
     "Close_Date_": "2016/11/21 上午 07:48:39"
-  },
-  {
-    "FileNo_": "INS161120077",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 11:57:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "民權二路與一心一路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處內車道最外線，有個一個小坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 11:59:29",
-    "Close_Date_": ""
   }
 ]
