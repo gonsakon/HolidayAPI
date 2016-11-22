@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161122121",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 01:55:39",
     "ReplyUnit_": "E01005",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢三路220號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處前有一台電孔蓋有鬆動噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 01:59:11",
     "Close_Date_": ""
   },
   {
