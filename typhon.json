@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122115",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/22 下午 01:37:15",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "市中一路與旺盛街(南往北車道)(近前金國中)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一圓形汙水人孔蓋傾斜與路面間有一凹陷，且現有鬆動噪音狀況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/22 下午 01:38:45",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122114",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 01:28:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 07:08:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161119173",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/19 下午 07:06:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與大中二路口(可利亞前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 07:08:14",
     "Close_Date_": ""
   }
 ]
