@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122226",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 11:30:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "復興二路23號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122225",
     "Status_": "1",
     "Cre_Date_": "2016/11/22 下午 11:28:35",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161122224",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 11:25:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "",
+    "address_": "博愛路511號，對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址對面有多家小吃部使用擴音器唱卡拉OK，致噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 11:30:14",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 10:47:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120063",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 10:35:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "憲政路(凱旋國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該校目前有使用機具整修牆面之噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 10:36:35",
     "Close_Date_": ""
   }
 ]
