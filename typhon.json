@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161122051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:13:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "小坪村友隆21號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有台電電線垂落至住家院子，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 09:19:53",
     "Close_Date_": ""
   },
   {
