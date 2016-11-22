@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122033",
+    "FileNo_": "INS161122034",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 08:15:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "保安路20號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮已達三週，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122033",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 08:12:22",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "永平路46巷與苓中路",
+    "address_": "永平路46巷與苓中路；鼎洲大廈",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有污水管阻塞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 上午 08:14:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 12:47:58",
     "Close_Date_": "2016/11/20 下午 08:58:36"
-  },
-  {
-    "FileNo_": "INS161119091",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 12:42:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "華崗路上，三寶宮與吉園靈骨塔前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路上有一隻狗屍，民眾以飼料袋裝起，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 14:27岡山區清潔隊鄭婷小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 12:47:18",
-    "Close_Date_": "2016/11/20 下午 08:59:27"
   }
 ]
