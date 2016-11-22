@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122097",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 11:52:27",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路543號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122096",
     "Status_": "1",
     "Cre_Date_": "2016/11/22 上午 11:47:02",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161122082",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/22 上午 11:15:09",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "台糖路11號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處前有一塊水溝蓋下陷掉入溝內，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 06:12:03",
     "Close_Date_": "2016/11/21 下午 04:24:47"
-  },
-  {
-    "FileNo_": "INS161119153",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 06:09:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山二路(台電旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 22：38養工處四維養護工程隊值班人員江明秀小姐回報：該處屬台電供電問題，\r\n現已復電運作；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 06:10:44",
-    "Close_Date_": "2016/11/20 下午 09:40:08"
   }
 ]
