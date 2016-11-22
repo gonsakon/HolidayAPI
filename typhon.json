@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122220",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 10:23:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路南下尚未到光復二街口前約100公尺處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道上有一凹陷，致車輛行經會產生晃動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122219",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 09:56:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 10:03:57",
     "Close_Date_": "2016/11/21 上午 11:17:46"
-  },
-  {
-    "FileNo_": "INS161120057",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 10:00:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "苓洲國小或成功國小",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映因學校正舉辦運動會，使用擴音器致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 10:02:08",
-    "Close_Date_": ""
   }
 ]
