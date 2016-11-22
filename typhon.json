@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161122197",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/22 下午 07:00:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "濱海路一段65之12號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前及左手邊各有一盞路燈(其中一盞編號:176)故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/22 下午 07:01:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122195",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 06:58:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "大榮街31巷1弄口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 06:59:48",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 08:17:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120033",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 上午 08:09:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "翁園路123號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/20 08:40大寮區清潔隊林景生先生回報，已清除完畢；並於11/21 10：29電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 08:12:57",
-    "Close_Date_": "2016/11/21 上午 10:33:59"
   }
 ]
