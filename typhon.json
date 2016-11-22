@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123010",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 05:06:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "褒揚東街83號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123009",
     "Status_": "4",
     "Cre_Date_": "2016/11/23 上午 03:09:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 11:52:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120073",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 11:36:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武慶三路79巷4號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址現有鑽牆機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 11:38:44",
     "Close_Date_": ""
   }
 ]
