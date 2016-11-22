@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161122227",
+    "FileNo_": "INS161122228",
     "Status_": "1",
+    "Cre_Date_": "2016/11/22 下午 11:38:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "光華三路155號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒重油異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161122227",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 11:37:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路二段與文安三街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處目前有民眾焚燒稻草致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 11:39:08",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 上午 11:21:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120065",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 上午 11:07:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "海邊路上(靠近五福三路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處輕軌施工，噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 上午 11:08:03",
     "Close_Date_": ""
   }
 ]
