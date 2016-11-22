@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122051",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 09:13:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "小坪村友隆21號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122050",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:11:08",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161122027",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/22 上午 07:37:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟三路往北與建國三路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌(綠燈)故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 03:16:06",
     "Close_Date_": "2016/11/20 下午 09:25:20"
-  },
-  {
-    "FileNo_": "INS161119107",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/19 下午 03:07:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "民生二路與市中一路(咖啡廳前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道磚有翹起情事，造成危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 03:08:38",
-    "Close_Date_": ""
   }
 ]
