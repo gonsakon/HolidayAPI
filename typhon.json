@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161122185",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 05:47:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "三和里，中坑，中坑橋的西側",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "省道破損",
     "BeforeDesc_": "渠反映該處路面有多處坑洞未修補，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 05:51:01",
     "Close_Date_": ""
   },
   {
@@ -2687,20 +2687,20 @@
   },
   {
     "FileNo_": "INS161122024",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/22 上午 07:02:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "學府路與新豐街口(丹丹漢堡)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/22 08:19 小港區清潔隊張少驊先生回報，已清除完畢；並於11/22 17:50\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 07:06:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 下午 05:50:48"
   },
   {
     "FileNo_": "INS161122023",
