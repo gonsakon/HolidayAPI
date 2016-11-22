@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161122183",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/22 下午 05:35:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "大同里平安路24號後方",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(編號:右20Q1954DC48)故障不亮多日，至今仍尚未修繕，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/22 下午 05:36:25",
     "Close_Date_": ""
   },
   {
@@ -579,14 +579,14 @@
   },
   {
     "FileNo_": "INS161122148",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/22 下午 03:49:58",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松福街82巷與松華路",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映處電線桿有一電纜線垂落，建請查處。",
     "AfterDesc_": "",
@@ -596,20 +596,20 @@
   },
   {
     "FileNo_": "INS161122147",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/22 下午 03:49:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "竹南里中山路上(郵局與路竹國小之間)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈紅燈故障不亮，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於11/22 16:50 交通局智慧運輸中心謝滿威先生回報，已修復；並於11/22 \r\n17：34電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 03:53:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/22 下午 05:34:25"
   },
   {
     "FileNo_": "INS161122146",
