@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161122063",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 09:35:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路與重政路口路邊",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122062",
     "Status_": "1",
     "Cre_Date_": "2016/11/22 上午 09:35:19",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161122046",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/22 上午 09:04:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "樂群路127巷口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭丟棄一廢棄床墊及一張桌子,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 04:06:21",
     "Close_Date_": "2016/11/20 下午 09:31:20"
-  },
-  {
-    "FileNo_": "INS161119120",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 04:03:01",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新莊一路與新勝街",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處路口有一電桿遭到車輛撞擊，桿身有碎裂破損，且呈現傾斜致搖晃情事，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/19 17:38 台電高雄區處郭先生回報，該處目前無危險性，惟因該處係為養工處路燈\r\n桿遭撞呈現稍微凹陷情事，係屬養工處權責，故改派工INS161119135賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 04:09:22",
-    "Close_Date_": "2016/11/20 下午 02:52:23"
   }
 ]
