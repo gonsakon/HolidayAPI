@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161123016",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 07:46:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美德二街95號附近,神農社區",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處飄散一股疑似工廠排放廢氣的化學異味,請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 上午 07:50:53",
     "Close_Date_": ""
   },
   {
