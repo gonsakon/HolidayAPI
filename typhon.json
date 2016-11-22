@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161122050",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/22 上午 09:11:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "光華三路與一心一路口，往北，裕隆汽車公司前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道設施損壞(一)",
+    "BeforeDesc_": "渠反映該路口第三棵路樹旁人行道磚凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161122049",
     "Status_": "2",
     "Cre_Date_": "2016/11/22 上午 09:05:56",
@@ -10,7 +27,7 @@
     "UnitName_": "水利局防洪維護科",
     "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址人行道上有溝蓋下陷，建請查處。",
+    "BeforeDesc_": "渠反映該址人行道上有排水溝溝蓋下陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 09:10:07",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161122022",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/22 上午 06:40:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "南屏路與文信路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/19 下午 03:08:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161119106",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/19 下午 02:53:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新庄仔路與博愛二路，巨蛋對面，雄獅旅遊前面",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道上有一粗鐵條從地上立起，致民眾經過絆倒，恐生危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/21 10:33 養工處四維養護工程隊左楠養護分隊 林玉娟小姐回報，該處已\r\n處理完成；並於11/21 17：32電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/19 下午 02:54:23",
-    "Close_Date_": "2016/11/21 下午 05:32:33"
   }
 ]
