@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123224",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 11:22:27",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過勇路261號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處有一寬頻孔蓋鬆動噪音 ，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123223",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 11:04:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 01:41:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121101",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 01:35:08",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫路與清豐六路",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人手孔凹陷",
-    "BeforeDesc_": "渠反映該處有一不明長方形人孔蓋與路面有高低落差，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 01:42:39",
     "Close_Date_": ""
   }
 ]
