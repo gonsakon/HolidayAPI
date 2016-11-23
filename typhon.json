@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123212",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 09:36:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "角宿里中興路922號(元良實業工廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處工廠排放廢氣產生塑膠異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123211",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 09:22:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 12:43:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121088",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 12:34:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "安寧街與松江街交叉口(天橋下方)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有一排水孔蓋遭人開啟，並倒入紅色不明溶劑，且有化學異味空污飄散，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 12:37:18",
     "Close_Date_": ""
   }
 ]
