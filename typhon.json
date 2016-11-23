@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161123183",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 06:28:15",
-    "ReplyUnit_": "A01000",
+    "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "四維二路與學源街",
-    "UnitName_": "工務局",
-    "StatusName_": "建立中",
-    "InformDesc_": "寬頻孔蓋坑洞",
-    "BeforeDesc_": "",
+    "address_": "四維二路與學源街口(西向)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址有一盞路燈閃爍故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 06:30:28",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161123182",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/23 下午 06:26:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址業者目前油煙逸散致空污情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/23 下午 06:30:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 10:34:55",
     "Close_Date_": "2016/11/23 下午 02:15:53"
-  },
-  {
-    "FileNo_": "INS161121059",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 上午 10:31:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "復安里福全佛堂(水泥牌樓前)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(燈號：2317)，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 16：04 養工處岡山養護工程隊康友淇先生回報，該處已修復完畢；並於11/23 \r\n16：06電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 上午 10:54:18",
-    "Close_Date_": "2016/11/23 下午 04:09:19"
   }
 ]
