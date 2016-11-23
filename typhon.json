@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161123204",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 08:29:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "甲樹路與甲樹路龍泉巷口(公園一側)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處一盞號誌燈之綠燈故障不亮，建起查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 08:30:32",
     "Close_Date_": ""
   },
   {
