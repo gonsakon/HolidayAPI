@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161123158",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 05:39:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "建樹路建國巷29弄1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：60區1265-13)故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：60區1265之13)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 05:40:58",
     "Close_Date_": ""
   },
   {
