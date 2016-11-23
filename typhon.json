@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161123083",
+    "FileNo_": "INS161123084",
     "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 12:18:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠華路與明潭路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍導致路面油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161123083",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 12:16:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌路838號肯德基斜對面",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處路面/路燈/路樹，建請查處。",
+    "BeforeDesc_": "渠反映該處一路樹之大型樹幹斷落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 12:18:55",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 07:30:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120147",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 下午 07:27:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "立志街上近立忠路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 07:28:51",
     "Close_Date_": ""
   }
 ]
