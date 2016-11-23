@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161123209",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 09:03:13",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區文橫二路111號",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛汽機車紅線違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 高警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 09:48:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 09:51:01"
   },
   {
     "FileNo_": "INS161123208",
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161123207",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 09:01:03",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區中山二路274號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上多輛汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 高警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 09:48:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 09:49:35"
   },
   {
     "FileNo_": "INS161123206",
