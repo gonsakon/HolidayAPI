@@ -3214,20 +3214,20 @@
   },
   {
     "FileNo_": "INS161123038",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 09:24:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "恆山巷與長青街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍路面油漬及血漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/23 10:10 鳥松區清潔隊 吳蕙菁小姐回報，上述情事已清除；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 09:26:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 12:24:00"
   },
   {
     "FileNo_": "INS161123035",
