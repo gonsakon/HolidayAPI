@@ -3146,20 +3146,20 @@
   },
   {
     "FileNo_": "INS161123029",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 08:51:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖一路107巷內(由二聖一路進入)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處巷內路邊遭人丟棄垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/23 09：07 前鎮區清潔隊 張昭和先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 08:52:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 10:20:42"
   },
   {
     "FileNo_": "INS161123026",
@@ -8773,20 +8773,20 @@
   },
   {
     "FileNo_": "INS161121175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 下午 05:43:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正四路64號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前人行道路樹旁有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/21 18:39 新興區清潔隊 林希宸班長回報，該處貓屍已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:46:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 10:20:57"
   },
   {
     "FileNo_": "INS161121174",
