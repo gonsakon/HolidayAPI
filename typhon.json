@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123219",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 10:34:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔北巷2之102號10樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點住戶有冷氣滴水，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123218",
     "Status_": "1",
     "Cre_Date_": "2016/11/23 下午 10:29:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 01:19:24",
     "Close_Date_": "2016/11/23 下午 10:21:54"
-  },
-  {
-    "FileNo_": "INS161121096",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 01:15:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "海平路120號(資源回收)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該廠使用機具作業導致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 01:18:21",
-    "Close_Date_": ""
   }
 ]
