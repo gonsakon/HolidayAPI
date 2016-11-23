@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161123038",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 09:24:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "恆山巷與長青街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍路面油漬及血漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 上午 09:26:29",
     "Close_Date_": ""
   },
   {
@@ -3333,20 +3333,20 @@
   },
   {
     "FileNo_": "INS161122066",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/22 上午 09:45:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河華路與岡山路口(三皇三家斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處分隔島有一貓屍(用麻布袋裝)，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 09：21電覆陳情人未果，故於11/23 09：26簡訊回覆：葉先生您好，您11月22日\r\n所反映貓屍問題，本府環保局已派員前往清除完畢，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 09:47:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 上午 09:30:02"
   },
   {
     "FileNo_": "INS161122065",
