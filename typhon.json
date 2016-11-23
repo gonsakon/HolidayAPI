@@ -443,20 +443,20 @@
   },
   {
     "FileNo_": "INS161123214",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 10:01:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大德一路與永樂路2巷口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口雙向號誌同時紅燈秒數過長，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/23 23:55交通局智慧運輸中心黃泰郎先生回報，經人員查看後號誌燈秒數都正\r\n常，並無上述所述情況。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 10:02:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 07:55:31"
   },
   {
     "FileNo_": "INS161123213",
@@ -664,20 +664,20 @@
   },
   {
     "FileNo_": "INS161123201",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 08:10:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路上，與立大路口，左新圖書館前",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌與前後不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/23 21：11 交通局智慧運輸中心簡世豪先生回報，經人員到達現場查看，皆有正\r\n常連鎖情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 08:12:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 07:55:49"
   },
   {
     "FileNo_": "INS161123200",
