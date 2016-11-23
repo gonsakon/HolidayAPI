@@ -1922,20 +1922,20 @@
   },
   {
     "FileNo_": "INS161123023",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 08:34:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過勇路左轉田中央路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上散落豆腐渣，造成路面打滑，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 09:52 鳳山區清潔隊陳玫秀小姐回報，已清除完畢；並於11/23 16:39\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 08:36:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 04:40:12"
   },
   {
     "FileNo_": "INS161123022",
