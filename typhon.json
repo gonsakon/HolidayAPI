@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161123120",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 03:25:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "洲港路168巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "兩支路燈不亮",
+    "BeforeDesc_": "渠反映該巷內有兩支路燈自風災後即故障不亮至今，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 03:27:43",
     "Close_Date_": ""
   },
   {
