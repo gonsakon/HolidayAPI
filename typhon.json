@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161123061",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 11:02:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "德昌路166號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有路面凹陷不平下雨會積水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123059",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 10:54:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 06:15:49",
     "Close_Date_": "2016/11/21 上午 03:13:38"
-  },
-  {
-    "FileNo_": "INS161120124",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 下午 06:08:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華榮路388號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/20 18:52 環保局溝渠隊林漢宗先生回報，經查正確位置於鼓山區華榮路323號\r\n前，現場路面油漬已清除完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 06:10:40",
-    "Close_Date_": "2016/11/21 上午 07:52:18"
   }
 ]
