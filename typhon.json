@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123207",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 09:01:03",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區中山二路274號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上多輛汽機車違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123206",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 08:50:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 12:08:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121083",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 上午 11:58:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "吳鳳路與吳鳳路33巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路邊遭堆置許多廢棄物(如浴缸、家具，垃圾等)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 12:02:40",
     "Close_Date_": ""
   }
 ]
