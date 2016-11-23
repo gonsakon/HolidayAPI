@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124007",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 03:27:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "民生二路77號1樓(GAGA)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該酒吧卡拉OK擴音器聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124006",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 03:19:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 02:40:38",
     "Close_Date_": "2016/11/23 下午 03:21:44"
-  },
-  {
-    "FileNo_": "INS161121110",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 02:23:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內東里136鄉道，自182縣道進入約1公里處",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 02:25:39",
-    "Close_Date_": ""
   }
 ]
