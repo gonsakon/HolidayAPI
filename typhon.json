@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161124003",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 01:13:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "大仁路與嘉新東路口(萊爾富超商)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈之燈罩鬆脫，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/24 上午 01:14:46",
     "Close_Date_": ""
   },
   {
