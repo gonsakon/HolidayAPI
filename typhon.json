@@ -9742,20 +9742,20 @@
   },
   {
     "FileNo_": "INS161121001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 上午 12:02:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河華路與阿公店路二段(近阿公店溪側)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈故故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 08：56 養工處岡山養護工程隊李文義先生回報，現場路燈已修復完畢；本\r\n案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 12:03:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 01:44:21"
   },
   {
     "FileNo_": "INS161120185",
@@ -9793,20 +9793,20 @@
   },
   {
     "FileNo_": "INS161120183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 11:34:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "大中一路與榮富街口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處街口大中一路上一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/21 23:28 養工處四維養護工程隊值班室江明秀小姐回報，該處路燈已修復完\r\n畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 11:35:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 01:43:00"
   },
   {
     "FileNo_": "INS161120182",
@@ -9827,20 +9827,20 @@
   },
   {
     "FileNo_": "INS161120181",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/20 下午 10:33:34",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文英里文南街66號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/21 13:44 養工處鳳山養護工程隊韓莉梅小姐回報，該處路燈已修復完畢；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 10:34:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 01:43:36"
   },
   {
     "FileNo_": "INS161120180",
