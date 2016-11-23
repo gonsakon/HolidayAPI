@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161123029",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 08:51:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "二聖一路107巷內(由二聖一路進入)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處巷內路邊遭人丟棄垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123026",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 08:43:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 01:47:50",
     "Close_Date_": "2016/11/21 上午 07:48:10"
-  },
-  {
-    "FileNo_": "INS161120092",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/20 下午 01:35:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "漁村街158號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址滷味(燻雞、燻鴨)製作有異味產生，作業到3點，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 01:39:01",
-    "Close_Date_": ""
   }
 ]
