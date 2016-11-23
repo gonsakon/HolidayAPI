@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124011",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 07:35:14",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "軍校路上(介於海軍總醫院至海軍官校之間)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處有一號誌與前、後方不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124010",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 07:25:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 02:51:52",
     "Close_Date_": "2016/11/22 下午 04:38:13"
-  },
-  {
-    "FileNo_": "INS161121114",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/21 下午 02:43:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大埤路與濱湖路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處人行道有凹陷不平情事，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 02:46:59",
-    "Close_Date_": ""
   }
 ]
