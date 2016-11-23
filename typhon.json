@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161124015",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/24 上午 07:55:35",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "軍校路上，海軍官校到郵局",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌燈不連鎖，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/24 上午 07:58:51",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124013",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 07:38:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 03:03:41",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121118",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 02:59:39",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中崙路與中崙路53巷",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈綠燈不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/21 17：20 智慧運輸中心蔡淑君小姐回報，該處已修復完畢；並於11/22 16：42電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 03:03:53",
-    "Close_Date_": "2016/11/22 下午 04:46:03"
   }
 ]
