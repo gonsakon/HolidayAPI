@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161123087",
+    "FileNo_": "INS161123088",
     "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 12:53:17",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光遠路上，近中山路口(停車場對面，剛開幕的日式餐飲業者)",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映現該處店家私自開挖道路埋設管線，且現場並無任何告示疑似非法開挖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161123087",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 12:48:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建興路349巷靠近建和街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 12:50:03",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 07:51:08",
     "Close_Date_": "2016/11/22 下午 02:31:20"
-  },
-  {
-    "FileNo_": "INS161120151",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/20 下午 07:45:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "樂安路2號(彌陀區農會南安分部大門左斜對面)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 07:50:26",
-    "Close_Date_": ""
   }
 ]
