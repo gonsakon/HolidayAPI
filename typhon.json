@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161123146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 05:07:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明誠一路與鼎山街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "不變燈號",
+    "BeforeDesc_": "渠反映該路口號誌燈不變換燈號，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 05:14:23",
     "Close_Date_": ""
   },
   {
@@ -2296,20 +2296,20 @@
   },
   {
     "FileNo_": "INS161123011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 07:07:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔北巷9之39號(觀湖山莊社區)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫一股化學異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 17:11電覆陳情人未果，故於2016/11/23 17:13簡訊回覆:陳先生您\r\n好，您11月23日反映空汙問題，本府環保局派員前往，周界巡查未發現化學異味，感謝您的熱心通\r\n報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 07:13:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 05:14:16"
   },
   {
     "FileNo_": "INS161123010",
