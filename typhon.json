@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123021",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 08:21:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路685巷43號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址紅磚人行道有一黑色垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123020",
     "Status_": "1",
     "Cre_Date_": "2016/11/23 上午 08:20:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 12:45:58",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161120084",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 下午 12:26:30",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區三多二路371號人行道上",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上多輛機車違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於11/20 14:16通報110陳警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 02:16:51",
-    "Close_Date_": "2016/11/20 下午 02:17:59"
   }
 ]
