@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123191",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 07:10:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路46號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "中央分隔島",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123190",
     "Status_": "1",
     "Cre_Date_": "2016/11/23 下午 07:08:49",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 11:09:31",
     "Close_Date_": "2016/11/22 下午 02:39:08"
-  },
-  {
-    "FileNo_": "INS161121068",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 上午 11:07:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "崑山路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有三盞路燈白天未熄(路燈編號：E173、E179、E197 )，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 上午 11:09:17",
-    "Close_Date_": ""
   }
 ]
