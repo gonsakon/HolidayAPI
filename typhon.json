@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123196",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 07:39:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "八德路193號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前一盞路燈修復之後又故障不亮，陳情人表示屬經常性故障是否人員可確實查修問題，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123195",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 07:21:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 11:39:55",
     "Close_Date_": "2016/11/22 下午 04:44:59"
-  },
-  {
-    "FileNo_": "INS161121070",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 上午 11:18:54",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "啟昌街365號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址住戶目前毆打飼養犬隻致不斷哀嚎，恐有犬隻受虐情形，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 上午 11:24:04",
-    "Close_Date_": ""
   }
 ]
