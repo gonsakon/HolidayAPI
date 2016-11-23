@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124014",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 07:56:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路上台塑仁武廠(近竹楠路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠內圓形儲存槽旁目前冒出黑煙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124013",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 07:38:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 03:03:53",
     "Close_Date_": "2016/11/22 下午 04:46:03"
-  },
-  {
-    "FileNo_": "INS161121117",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 02:59:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍田路與高雄大學路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該園內園燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 03:02:00",
-    "Close_Date_": ""
   }
 ]
