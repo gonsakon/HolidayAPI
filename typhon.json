@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161123169",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 下午 06:00:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大理街10號之2至之3前沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處有自行車道遭人擺攤及停放車輛，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123165",
     "Status_": "1",
     "Cre_Date_": "2016/11/23 下午 05:59:49",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161123166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/23 下午 05:57:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "澄清路460號(十一燒肉)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者擴音器噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/23 下午 06:00:20",
     "Close_Date_": ""
   },
   {
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161123130",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/23 下午 04:05:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮港路7號(建銨國際有限公司)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該廠作業中飄散化學異味導致空污，建請查處。",
     "AfterDesc_": "",
@@ -1650,20 +1667,20 @@
   },
   {
     "FileNo_": "INS161123068",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 11:18:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如二路227號(老新台菜)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前排水溝堵塞需清疏，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 12:09三民西區清潔隊許美玲小姐回報，已會同陳情人勘查，部分需由\r\n陳情人自行處理，部分由清溝班處理，故改派非網A-TB-2016-109598賡續辦理；並於11/23 18：00電\r\n覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 11:22:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/23 下午 06:00:22"
   },
   {
     "FileNo_": "INS161123067",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 上午 09:49:24",
     "Close_Date_": "2016/11/22 上午 10:47:57"
-  },
-  {
-    "FileNo_": "INS161121044",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 上午 09:45:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路100號靠近國道10號(往北方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該路段砂石車及預拌混凝土車行經，揚塵嚴重，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/21 12：02 環保局公害專線張愛群先生回報，稽查人員於10：40到達，業者已\r\n派人至現場灑水，稽查當時未發現揚塵空汙情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 上午 09:47:22",
-    "Close_Date_": "2016/11/23 下午 02:16:45"
   }
 ]
