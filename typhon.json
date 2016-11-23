@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161124009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 上午 07:24:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大裕路94號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有狗屎，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/24 07：47 三民東區清潔隊翁舜華小姐回報，該處已清理完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 07:26:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 07:51:29"
   },
   {
     "FileNo_": "INS161124008",
@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161124006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 上午 03:19:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山二路55巷18號後方",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處抽水馬達運轉噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/24 06:25環保局公害專線南區侯尊仁先生回報，稽查人員於06:15到達，稽\r\n查當時於上址後方巡查，未發現抽水馬達運轉致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 03:21:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 07:51:53"
   },
   {
     "FileNo_": "INS161124005",
