@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161123023",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/23 上午 08:34:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過勇路左轉田中央路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道上散落豆腐渣，造成路面打滑，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161123022",
     "Status_": "2",
     "Cre_Date_": "2016/11/23 上午 08:22:42",
@@ -2738,14 +2755,14 @@
   },
   {
     "FileNo_": "INS161122085",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/22 上午 11:19:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國光路110號旁",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一路燈桿上方線路垂落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/20 下午 01:06:41",
     "Close_Date_": "2016/11/21 下午 01:15:37"
-  },
-  {
-    "FileNo_": "INS161120086",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/20 下午 12:53:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "富林路上(往泰山營區方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有泥土掉落，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/20 13:38 旗山區清潔隊林東逸先生回報，人員四周巡查未發現有上述情形，故\r\n結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/20 下午 12:57:43",
-    "Close_Date_": "2016/11/21 上午 07:39:14"
   }
 ]
