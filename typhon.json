@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124074",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 12:43:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "東福街14巷口，對面電線桿",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有大型廢棄傢俱，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124073",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 下午 12:32:23",
@@ -5484,7 +5501,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處第3盞路燈故障不亮，通報多次仍未改善，建請查處。",
+    "BeforeDesc_": "渠反映該處第3盞路燈故障不亮，通報多次仍未改善，建請查處。(陳情人要求聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 07:25:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:53:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121177",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/21 下午 05:47:48",
-    "ReplyUnit_": "F01019",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九曲里,九曲取水站附近",
-    "UnitName_": "大樹區公所",
-    "StatusName_": "待處理",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處的公共腳踏車道沿線多處坑洞，該處屬於六米以下道路，需由區公所處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:52:38",
     "Close_Date_": ""
   }
 ]
