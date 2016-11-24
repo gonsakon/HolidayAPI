@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124055",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 10:53:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124054",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 10:48:39",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161124033",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/24 上午 09:41:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路70巷97之1號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處工廠使用機具作業，致噪音產生，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 04:46:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121158",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 04:41:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "仁德路(派出所前)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/22  22：00 養工處鳳山養護工程隊劉緯婕小姐回報，該處無危險性，惟經查該處屬\r\n於私人停車場燈，養工處無權處理；並於11/23 14：11電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 04:44:46",
-    "Close_Date_": "2016/11/23 下午 02:11:15"
   }
 ]
