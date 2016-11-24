@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125012",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 上午 06:15:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明華路27號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該住戶抽水馬達運轉噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125011",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 06:04:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 09:21:19",
     "Close_Date_": "2016/11/23 上午 09:21:24"
-  },
-  {
-    "FileNo_": "INS161122051",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 09:13:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "小坪村友隆21號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處有台電電線垂落至住家院子，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 09:19:53",
-    "Close_Date_": ""
   }
 ]
