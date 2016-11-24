@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124166",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 09:02:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124165",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 08:42:08",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161124123",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/24 下午 05:16:28",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路上(高雄展覽館旁停車場對面)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一幼貓受困於樹上多時，建請查處。(陳情人在場等候，請人員先與其聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 03:03:54",
     "Close_Date_": "2016/11/22 上午 07:52:35"
-  },
-  {
-    "FileNo_": "INS161122014",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 12:51:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "高鳳一路178號對面瑧富程工程公司前三個中華電信花盆旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路邊樹下有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 12:53:25",
-    "Close_Date_": ""
   }
 ]
