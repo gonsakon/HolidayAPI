@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124042",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 10:15:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民生二路與中華三路口，高雄牛乳大王前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處慢車道有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124041",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 10:07:48",
@@ -2551,20 +2568,20 @@
   },
   {
     "FileNo_": "INS161123118",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 03:08:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "秀群路與秀群路499巷口(中華電信後方)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映現該處人行道上有遭棄置2包垃圾包，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於11/23 16:05楠梓區清潔隊王心柔小姐回報，已清除完畢；並於11/24 10：15\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 03:14:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 10:15:26"
   },
   {
     "FileNo_": "INS161123117",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 04:26:56",
     "Close_Date_": "2016/11/22 上午 11:49:06"
-  },
-  {
-    "FileNo_": "INS161121146",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 04:20:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "7號公園與陸橋交接處",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處自行車車道下坡處也一路燈(編號:2535)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 04:21:47",
-    "Close_Date_": ""
   }
 ]
