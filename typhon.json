@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124108",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 04:09:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124107",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 下午 04:08:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 07:43:46",
     "Close_Date_": "2016/11/24 下午 03:37:20"
-  },
-  {
-    "FileNo_": "INS161121211",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 07:36:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光明路三段1270之1號再往前約100公尺",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處汽車道與機車道之間路面有坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/21 21:36 養工處鳳山養護工程隊劉緯婕小姐回報，該處已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 07:43:40",
-    "Close_Date_": "2016/11/22 上午 07:58:07"
   }
 ]
