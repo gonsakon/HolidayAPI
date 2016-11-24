@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161124044",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/24 上午 10:17:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "後庄里民成街48號(皮革工廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該皮革工廠作業飄散皮革染劑空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/24 上午 10:21:26",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124043",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 10:17:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 04:26:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121145",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/21 下午 04:23:55",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "廠西路上與宏平路交叉",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋周邊破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 04:26:14",
     "Close_Date_": ""
   }
 ]
