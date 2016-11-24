@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS161124068",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 11:53:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路與寧夏街口，轉角處",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一溝蓋破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124067",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 11:49:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "興中二路152之3號",
+    "address_": "興中二路152之3號(汽車美容)",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
@@ -8722,20 +8739,20 @@
   },
   {
     "FileNo_": "INS161121257",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/21 下午 10:54:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫路95號(牛頭寬宵夜)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者作業中有油煙逸散致空污且身體不適情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/22 02:28 環保局陳彥州先生回報：人員於01:38到場，該宵夜吐司店營業\r\n中，因目前尚在改善期內(30天，11/23後複查)，仍促請業者注意防範，改派非網A-TB-2016-109134；\r\n本案聯繫逾三日未果，待陳情人進線查詢處理結果，再予以線上說明，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 10:59:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 上午 11:53:04"
   },
   {
     "FileNo_": "INS161121256",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:38:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121171",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 05:32:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "海邊路(介於永泰路與苓南前路間)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有水泥，已影響通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:35:23",
     "Close_Date_": ""
   }
 ]
