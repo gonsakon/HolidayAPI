@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124101",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 03:32:02",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "草衙二路   中平路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124099",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 03:27:22",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 07:28:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121204",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 07:22:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大德路上，往國1方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有一不明工程有封路，未有設置告示牌與替代道路供通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 07:24:39",
     "Close_Date_": ""
   }
 ]
