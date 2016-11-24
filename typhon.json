@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161124109",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 04:15:21",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "廠邊一路37號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前水溝蓋破損坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/24 下午 04:17:15",
     "Close_Date_": ""
   },
   {
@@ -2143,20 +2143,20 @@
   },
   {
     "FileNo_": "INS161123210",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 09:04:55",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞興街208之8號2樓",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址疑似汙水管阻塞，致無法將汙水排出，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/24 11：54 水利局污水營運科鄭婷云小姐回報，該處已修復完成；並於\r\n11/24 16：17電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 09:06:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 下午 04:17:15"
   },
   {
     "FileNo_": "INS161123209",
