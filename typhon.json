@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124065",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 11:35:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "三民路161號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處前一盞LED路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124064",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 11:26:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:31:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121168",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 05:28:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "樹興街與鼓山二路218巷交叉",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口堆滿垃圾包，民眾無法會車，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:30:41",
     "Close_Date_": ""
   }
 ]
