@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124064",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 11:26:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "翠亨北路540號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124063",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 上午 11:21:28",
@@ -8688,14 +8705,14 @@
   },
   {
     "FileNo_": "INS161121255",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/21 下午 10:29:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "四維路98巷內",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈(編號:漯底295、273 )故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:30:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121167",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 05:23:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "六和二路75巷4號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁住戶係在撿拾回收物，目前空氣散發出類似食物腐壞的惡臭味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:28:55",
     "Close_Date_": ""
   }
 ]
