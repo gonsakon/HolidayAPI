@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124168",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 09:16:09",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路1833號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "違規紅線停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124167",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 09:08:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 06:25:56",
     "Close_Date_": "2016/11/22 下午 05:52:49"
-  },
-  {
-    "FileNo_": "INS161122016",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 上午 03:39:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐一路234號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處轉角機車道有貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/22 04:20 溝渠隊莊斯宇先生回報：該處已清理完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 03:42:17",
-    "Close_Date_": "2016/11/22 上午 07:52:14"
   }
 ]
