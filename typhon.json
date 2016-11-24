@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124162",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 08:20:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路上，永德街111號對面(前鋒社區公園旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處遭人丟棄舊衣及垃圾致髒亂情事，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124161",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 08:11:36",
@@ -3486,14 +3503,14 @@
   },
   {
     "FileNo_": "INS161123183",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/23 下午 06:28:15",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維二路與學源街口(西向)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址有一盞路燈閃爍故障，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 11:53:29",
     "Close_Date_": "2016/11/22 上午 07:52:57"
-  },
-  {
-    "FileNo_": "INS161121266",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 11:41:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九曲里九曲路531巷31號右前方",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞水銀路燈(編號:九曲幹49右4Q2413FA50)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 11:44:02",
-    "Close_Date_": ""
   }
 ]
