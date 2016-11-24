@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124179",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 10:47:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中興路500號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因發生車禍，路面殘留大片油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124178",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 10:41:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 07:46:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122027",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 07:37:16",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "同盟三路往北與建國三路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌(綠燈)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 07:38:32",
     "Close_Date_": ""
   }
 ]
