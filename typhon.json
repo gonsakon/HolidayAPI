@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161124166",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 下午 09:02:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁雄路98號前(大灣國中前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍產生油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/24 21:45仁武區清潔隊許進利先生回報，該處車禍油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 09:04:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 上午 07:56:52"
   },
   {
     "FileNo_": "INS161124165",
@@ -800,20 +800,20 @@
   },
   {
     "FileNo_": "INS161124162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 下午 08:20:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "九如四路上，永德街111號對面(前鋒社區公園旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人丟棄舊衣及垃圾致髒亂情事，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/24 20:45 鼓山區清潔隊黃啟國先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 08:23:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 上午 07:56:02"
   },
   {
     "FileNo_": "INS161124161",
@@ -834,20 +834,20 @@
   },
   {
     "FileNo_": "INS161124160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 下午 08:11:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁雄路38之1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍產生油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/24 20:54仁武區清潔隊劉世鴻先生回報，人員於20：35已將該處車禍油漬清除完\r\n畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 08:14:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 上午 07:57:14"
   },
   {
     "FileNo_": "INS161124159",
