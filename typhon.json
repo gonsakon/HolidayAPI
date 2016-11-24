@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124129",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 05:35:26",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "樹人路82號附近(近旗美高中)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電線垂落，已影響用路人通行，建請查處。(電桿號碼：美壇幹33Q3463BC66)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124128",
     "Status_": "3",
     "Cre_Date_": "2016/11/24 下午 05:21:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 08:32:22",
     "Close_Date_": "2016/11/22 上午 07:55:12"
-  },
-  {
-    "FileNo_": "INS161121232",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 08:19:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "後庄巷150號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 08:22:19",
-    "Close_Date_": ""
   }
 ]
