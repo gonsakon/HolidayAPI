@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124102",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 03:41:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路302號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前路邊有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124101",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 03:32:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 07:30:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121205",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 07:27:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞誠街41巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處目前進行不明道路工程，惟施工單位卻將怪手阻擋住巷口導致無法通行，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 07:28:18",
     "Close_Date_": ""
   }
 ]
