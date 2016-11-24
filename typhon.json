@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124113",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 04:43:44",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合路 和平路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口紅燈讀秒結束為馬上轉換綠燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124112",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 下午 04:41:43",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 07:50:56",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121216",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 07:49:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路178巷內，由民族一路轉入往覺民路方向",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路段遭民眾遺棄數包垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】11/21 21:11 三民東區清潔隊王文全先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 07:51:49",
-    "Close_Date_": "2016/11/22 上午 07:57:51"
   }
 ]
