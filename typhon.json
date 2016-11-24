@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161124107",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 04:08:44",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙二路與佛德街",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路口紅燈持續閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/24 下午 04:10:29",
     "Close_Date_": ""
   },
   {
@@ -3588,20 +3588,20 @@
   },
   {
     "FileNo_": "INS161123124",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 03:45:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路與港興街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障閃燈,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/11/24 16:10簡訊回覆:詹太太您好，您11月23日所反映號誌問題，本府\r\n交通局已派員前往修復完成，感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 03:46:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/24 下午 04:10:09"
   },
   {
     "FileNo_": "INS161123123",
