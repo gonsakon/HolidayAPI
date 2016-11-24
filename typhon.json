@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124067",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/24 上午 11:49:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "興中二路152之3號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址現有洗車產生之似化學異味造成空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/24 上午 11:52:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124066",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 上午 11:46:42",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:35:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121170",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 05:31:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "大舍西路50號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈明滅不定，通報已久卻無處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:37:54",
     "Close_Date_": ""
   }
 ]
