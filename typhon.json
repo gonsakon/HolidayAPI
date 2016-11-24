@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124077",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 01:08:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金中街10號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面下陷(一)",
+    "BeforeDesc_": "渠反映該址前路面有下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124076",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 12:52:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 05:58:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121180",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 05:54:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正忠路451巷9弄14號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一水銀路燈燈泡故障，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 05:57:28",
     "Close_Date_": ""
   }
 ]
