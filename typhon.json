@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124172",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 09:59:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎力陸橋",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有重機具漏油油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124171",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 09:45:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 06:43:59",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122020",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 上午 06:29:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "懷德路58巷21號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處1路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/24 10:50養工處岡山養護工程隊李文義先生回報，該處已修復完成；並於11/24 \r\n12：39電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 06:35:13",
-    "Close_Date_": "2016/11/24 下午 12:40:05"
   }
 ]
