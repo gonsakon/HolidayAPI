@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124150",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 06:57:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "六成街82號，對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處光線昏暗，然該路燈未開啟，望盡速開啟，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124149",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 06:40:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 10:18:14",
     "Close_Date_": "2016/11/24 下午 05:17:48"
-  },
-  {
-    "FileNo_": "INS161121253",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/21 下午 09:58:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "安樂一街255之1號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，且有經常性閃爍情事，需請局處確實查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 09:59:02",
-    "Close_Date_": ""
   }
 ]
