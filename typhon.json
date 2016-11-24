@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124040",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 上午 09:53:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南台路20號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前有動物排泄物，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124039",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 上午 09:52:44",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161124021",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/24 上午 08:32:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河堤路一段近聖森路",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處木柴堆旁有一黑色小狗屍體，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 04:21:00",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161121143",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 04:05:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞祥街66號5樓",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶目前有冷氣滴水情形，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/22 11：03電覆陳情人未果，故於11/22 11：25簡訊回覆：洪先生您好，您11月21日\r\n所反映冷氣滴水問題，經本府環保局回覆：已聯該址房東告知冷氣機滴水情事，其房東允諾將於近期修繕，感謝\r\n您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 04:08:33",
-    "Close_Date_": "2016/11/22 上午 11:26:14"
   }
 ]
