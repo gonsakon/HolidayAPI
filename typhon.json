@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124140",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 06:00:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "中厝路41號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124139",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 下午 05:58:46",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161124138",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 05:56:14",
     "ReplyUnit_": "E01001",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
-    "address_": "五福四路63巷內",
+    "address_": "五福四路63巷",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一小貓受困於防火巷內，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/24 下午 05:59:50",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/21 下午 09:37:36",
     "Close_Date_": "2016/11/22 下午 12:43:25"
-  },
-  {
-    "FileNo_": "INS161121243",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/21 下午 09:27:22",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞誠街41巷",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處巷口有一台電工程施作(施工廠商:一功營造)，將怪手阻擋住巷口導致無法通行，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/22 10：32經詢問台電1911林小姐表示，此案目前轉至工務一課處理中，故轉派非\r\n網：A-TB-2016-109221賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/21 下午 09:34:05",
-    "Close_Date_": "2016/11/24 下午 03:40:54"
   }
 ]
