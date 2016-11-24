@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124177",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 10:37:04",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "大順一路與裕誠路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處路邊有一隻遭撞傷之犬隻，建請查處。(請先行致電與陳情人聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124176",
     "Status_": "2",
     "Cre_Date_": "2016/11/24 下午 10:09:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 07:39:55",
     "Close_Date_": "2016/11/22 下午 05:54:09"
-  },
-  {
-    "FileNo_": "INS161122025",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 07:18:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園旁(鳳山溪)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處水面呈現黑色，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 07:19:55",
-    "Close_Date_": ""
   }
 ]
