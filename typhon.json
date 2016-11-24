@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161124173",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/24 下午 10:00:40",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "南屏路與至聖路(南屏路上)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161124172",
     "Status_": "1",
     "Cre_Date_": "2016/11/24 下午 09:59:30",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161124152",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/24 下午 07:01:57",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "洲仔東街上，從洲仔北街轉進來左手邊第二根電線桿處",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有三個水溝蓋遺失，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 06:42:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122021",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 06:40:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中山橫路112號(早餐店)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家未設油煙處理設備,造成油煙空污嚴重,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 06:43:59",
     "Close_Date_": ""
   }
 ]
