@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161125100",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 12:57:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重光路13號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "怠速",
     "BeforeDesc_": "渠反映該址前有一輛大貨車怠速多時,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 12:58:39",
     "Close_Date_": ""
   },
   {
