@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125049",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 上午 09:42:00",
+    "ReplyUnit_": "B01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "頂豐街與過雄一街附近",
+    "UnitName_": "養工處2",
+    "StatusName_": "建立中",
+    "InformDesc_": "公所-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該處有許多園樹傾倒或傾斜未處理，望請盡速扶正，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125048",
     "Status_": "1",
     "Cre_Date_": "2016/11/25 上午 09:40:22",
@@ -8875,14 +8892,14 @@
   },
   {
     "FileNo_": "INS161122166",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/22 下午 04:29:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "保社里光華路11巷與保社甲路",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有一路面凹陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 11:32:46",
     "Close_Date_": "2016/11/24 上午 09:24:34"
-  },
-  {
-    "FileNo_": "INS161122088",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 上午 11:31:26",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路369號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處人行道上台電電桿旁有多塊紅磚下陷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 10：06 經詢問台電1911林小姐表示，已填平處理完成；並於11/23 \r\n10：20電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 11:36:18",
-    "Close_Date_": "2016/11/23 上午 10:22:49"
   }
 ]
