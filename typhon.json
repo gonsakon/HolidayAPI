@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125174",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 06:54:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興楠路281號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125173",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 06:49:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 09:04:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122211",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 08:51:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與天祥一路口(非常機車、96清粥小菜附近路口)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口路面散落許多透明碎片(疑似壓克力或玻璃)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 08:57:46",
     "Close_Date_": ""
   }
 ]
