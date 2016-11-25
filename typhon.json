@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125117",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 03:10:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山區 本洲里 本洲三街 公廁前道路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "公廁前的這段路有許多坑洞，已經造成用路人的安全堪憂，也加上之前已有許多次修補，整條馬路已經是補丁狀態，別在讓我們騎碰碰車道路了。\n望請改善。謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125116",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 03:01:19",
@@ -9657,14 +9674,14 @@
   },
   {
     "FileNo_": "INS161122187",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/22 下午 05:58:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "福美路86巷上(近圓山街)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處路段有多盞舊式路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 04:06:08",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122155",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 04:02:00",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "公園路大勇路交叉口",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "違規設攤告發很多次了 怎麼一直都在",
-    "AfterDesc_": "感謝您的反映，此案件已於11/22 16：03通報110盧警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 04:05:04",
-    "Close_Date_": "2016/11/22 下午 04:11:12"
   }
 ]
