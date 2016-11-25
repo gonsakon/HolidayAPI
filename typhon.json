@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161125159",
+    "FileNo_": "INS161125160",
     "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 06:02:15",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三民區義安街18巷10號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該址住家後方有污水管堵塞情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161125159",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 05:59:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "聖雲街72號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處店家有燒烤油煙異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 06:01:33",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 07:06:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122197",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 07:00:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "濱海路一段65之12號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前及左手邊各有一盞路燈(其中一盞編號:176)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 07:01:12",
     "Close_Date_": ""
   }
 ]
