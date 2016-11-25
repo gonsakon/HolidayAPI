@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161125096",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 12:22:55",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路31號前人行道",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 01:49:05",
     "Close_Date_": ""
   },
   {
