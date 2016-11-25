@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161125096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/25 下午 12:22:55",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路31號前人行道",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/25 13：45通報110劉警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/25 下午 01:49:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 下午 01:50:58"
   },
   {
     "FileNo_": "INS161125095",
