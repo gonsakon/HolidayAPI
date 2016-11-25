@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161125072",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 10:42:30",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "松埔北巷33號對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址有高壓電線垂落，恐造成危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 上午 10:47:34",
     "Close_Date_": ""
   },
   {
