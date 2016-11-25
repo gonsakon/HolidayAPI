@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161126013",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/26 上午 05:21:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "明華路27號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161126012",
     "Status_": "2",
     "Cre_Date_": "2016/11/26 上午 04:09:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 09:14:58",
     "Close_Date_": "2016/11/24 上午 11:12:11"
-  },
-  {
-    "FileNo_": "INS161123037",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/23 上午 09:11:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "林森三路83巷27號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處店家正進行裝潢整修，惟噴漆作業致空汙情事，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 上午 09:13:31",
-    "Close_Date_": ""
   }
 ]
