@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125194",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 08:58:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "柳橋東路20號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有民眾亂丟垃圾，有錄影到，望請派員前往，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125193",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 08:50:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 02:03:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161123005",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/23 上午 12:51:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路與和順街口(往民族一路方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處快車道上路面有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 上午 12:54:07",
     "Close_Date_": ""
   }
 ]
