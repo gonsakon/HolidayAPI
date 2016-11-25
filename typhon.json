@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125111",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 02:27:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路364之1號，香香雞",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125110",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 02:22:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 03:54:52",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122149",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 03:52:09",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "林森一路285號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "Ins161122145案件併排停車,第二張像片舉證。",
-    "AfterDesc_": "感謝您的反映，此案件已於11/22 16：03通報110楊警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 04:06:32",
-    "Close_Date_": "2016/11/22 下午 04:07:10"
   }
 ]
