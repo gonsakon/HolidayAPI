@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125141",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 04:50:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新莊一路(介於勝利國小與左營舊火車站間空地)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有民眾於空地上燃燒物品導致空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125140",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 04:42:18",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS161125085",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/25 上午 11:37:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "臥龍路23巷20號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址旁洗車場路口處路面柏油過高，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 05:32:04",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122179",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 05:19:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路與新庄仔路口，東北角",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/23 10:09 養工處 四維養護工程隊 左楠分隊 林玉娟小姐回報，現場已協助\r\n 設立安全措施，惟因經查勘係為溝壁破損致坑洞，轉派：INS161123043 委由水利局賡續辦理；本案\r\n 不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 05:21:54",
-    "Close_Date_": "2016/11/24 上午 12:13:01"
   }
 ]
