@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125041",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 上午 09:25:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "仕豐路神農巷68號對面芒果園",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前燃燒垃圾產生濃煙至空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125040",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 09:22:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 上午 11:15:38",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122080",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 上午 11:09:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "興華街(介於興華街20號至七賢三路)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 上午 11:11:34",
     "Close_Date_": ""
   }
 ]
