@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125136",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/25 下午 04:16:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路與中山三路間，五號船渠旁無名巷",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處翻土作業，有化學異味傳出，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/25 下午 04:20:19",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125135",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 04:09:56",
@@ -9368,20 +9385,20 @@
   },
   {
     "FileNo_": "INS161122222",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/22 下午 11:19:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "九曲路531巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該左側10公尺處一盞水銀路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/25 15:28 養工處鳳山養護工程隊韓莉梅小姐回報，該處已協助修復完成；並於\r\n11/25 16：19電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 11:22:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 下午 04:20:36"
   },
   {
     "FileNo_": "INS161122221",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 05:13:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122174",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 05:02:51",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武營路651號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處一方型台電孔蓋鬆動噪音，先前通報過，尚未修復，望請盡速修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 05:09:25",
     "Close_Date_": ""
   }
 ]
