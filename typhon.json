@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125084",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 上午 11:33:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "建國路三段(近麥當勞；往高雄方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處中線車道上掉落一鐵片，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125083",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 11:27:14",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161125055",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/25 上午 09:59:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華四路302號後方工地",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處新建工程機具噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 02:08:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122123",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 02:05:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "五福四路97號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址處遭丟棄一張彈簧床及蓆子，致髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 02:07:08",
     "Close_Date_": ""
   }
 ]
