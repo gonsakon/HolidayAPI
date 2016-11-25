@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125089",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 12:00:10",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山三路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "停電",
+    "BeforeDesc_": "鼓山三路停電，導致我們公司無法使用ADSL寄發mail給客戶，請盡快修理，拜託麻煩了！",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125088",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 11:51:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 02:29:30",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122128",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 02:25:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34之10號(廢鐵回收廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該廠目前使用機具作業，致噪音產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 02:26:17",
     "Close_Date_": ""
   }
 ]
