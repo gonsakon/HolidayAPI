@@ -10167,36 +10167,36 @@
   },
   {
     "FileNo_": "INS161123040",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 09:47:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁公園外南側無名道路(從海專路轉進)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址有多包垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 10：51楠梓區清潔隊蔡怡如小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 09:56:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/26 上午 06:23:16"
   },
   {
     "FileNo_": "INS161123039",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 上午 09:47:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學二十一路(靠近大學西路處)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址有十多包垃圾包三天未處理，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 10：51楠梓區清潔隊蔡怡如小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 09:56:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/26 上午 06:22:51"
   }
 ]
