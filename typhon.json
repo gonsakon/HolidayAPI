@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125131",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 03:53:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁林路、興山路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處兩路段路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125130",
     "Status_": "1",
     "Cre_Date_": "2016/11/25 下午 03:52:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 04:44:04",
     "Close_Date_": "2016/11/25 下午 12:41:31"
-  },
-  {
-    "FileNo_": "INS161122168",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 04:41:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲樹路(從橋頭先賢紀念園區往東北方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址沿線路燈故障壞掉好幾盞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 04:45:31",
-    "Close_Date_": ""
   }
 ]
