@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161125156",
+    "FileNo_": "INS161125157",
     "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 05:44:58",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "風車公園",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處公園內有攤販違規擺攤，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161125156",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 05:42:38",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓波街沿線",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處進行汙水工程，惟施工後造成路面滿佈塵土，致車輛行經揚塵，建請派員前往灑水改善。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 05:44:53",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 06:59:48",
     "Close_Date_": "2016/11/24 上午 11:48:23"
-  },
-  {
-    "FileNo_": "INS161122194",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 06:48:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "常德路與常興街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一犬隻遭車輛撞死，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/22 19：23 楠梓區清潔隊蔡秉樺小姐回報，該處狗屍已清除完畢；並於11/23 13：\r\n55電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 06:50:44",
-    "Close_Date_": "2016/11/23 下午 02:05:59"
   }
 ]
