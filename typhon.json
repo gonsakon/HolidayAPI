@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161125089",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/25 下午 12:00:10",
     "ReplyUnit_": "E01005",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山三路",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "鼓山三路停電，導致我們公司無法使用ADSL寄發mail給客戶，請盡快修理，拜託麻煩了！",
-    "AfterDesc_": "",
+    "AfterDesc_": "11/25 12：08 因陳情地點不詳，與陳情人連繫後，線上提供台電1911，由陳情人直接洽詢。",
     "Memo_": "",
     "Save_Date_": "2016/11/25 下午 12:13:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/25 下午 12:19:58"
   },
   {
     "FileNo_": "INS161125088",
