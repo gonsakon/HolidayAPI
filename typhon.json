@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125079",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 上午 11:11:31",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "興達路一段，興達發電廠大門前",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映啜電線桿(興達高幹163號)，遭聯結車扯斷電線導致電桿折斷傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125078",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 上午 11:05:54",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161125058",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/25 上午 10:13:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國二路與復興一路口，彰化銀行前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處人行道與燈桿處前有工程進行，然目前有冒污水，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 02:01:18",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122118",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 01:53:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路與應安街口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址有一個疑似非法設置的藍色舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 02:01:13",
     "Close_Date_": ""
   }
 ]
