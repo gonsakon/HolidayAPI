@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161126007",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 上午 01:30:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "愛河自行車租賃站前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "編號06152的路燈不亮長達一個多月了，請派員處理",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 上午 02:08:17",
     "Close_Date_": ""
   },
   {
