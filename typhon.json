@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125205",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 10:09:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山路23號斜對面(梅子烤肉廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處燒烤店家有燒烤異味飄散情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125204",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 10:06:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 08:03:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161123016",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/23 上午 07:46:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "美德二街95號附近,神農社區",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處飄散一股疑似工廠排放廢氣的化學異味,請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 上午 07:50:53",
     "Close_Date_": ""
   }
 ]
