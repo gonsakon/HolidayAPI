@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161125189",
+    "FileNo_": "INS161125190",
     "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 08:24:55",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文萊路與崇德路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處路中央有一不明圓形孔蓋，惟已孔蓋凹陷恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161125189",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 08:23:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎義街上，近鼎勇路，停車場旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一路燈故障閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 08:25:13",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 11:40:33",
     "Close_Date_": "2016/11/23 下午 03:41:23"
-  },
-  {
-    "FileNo_": "INS161122227",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 11:37:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路二段與文安三街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有民眾焚燒稻草致空污情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 01：53環保局環境稽查科中區股陳彥州先生回報，稽查人員於00：40到\r\n達，於上址附近路段巡查，未發現有民眾焚燒稻草致空污情事；並於11/24 20：03電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 11:39:08",
-    "Close_Date_": "2016/11/24 下午 09:27:40"
   }
 ]
