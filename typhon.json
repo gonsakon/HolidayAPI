@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161125162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 06:11:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "甲樹路1168號(消防局橋頭分隊)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處周界，目前有瀰漫不明燃燒異味",
+    "BeforeDesc_": "渠反映該址周界目前有瀰漫不明燃燒異味致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 06:13:07",
     "Close_Date_": ""
   },
   {
