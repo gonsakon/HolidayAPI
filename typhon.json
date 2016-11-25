@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125209",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 11:06:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新光路61號(圖書總館)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點有施工機具噪音情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125208",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 10:32:06",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 08:25:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161123020",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/23 上午 08:20:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文慈路150號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭丟棄約4包垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 上午 08:22:29",
     "Close_Date_": ""
   }
 ]
