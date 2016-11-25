@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125112",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 02:31:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "成功一路364之1號，香香雞",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址有使用廣音器播放優惠方案，惟噪音聲過大，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125111",
     "Status_": "1",
     "Cre_Date_": "2016/11/25 下午 02:27:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 03:55:34",
     "Close_Date_": "2016/11/23 下午 05:40:24"
-  },
-  {
-    "FileNo_": "INS161122150",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 03:53:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如三路(中庸公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處公園內，有許多垃圾未清除，造成髒亂不堪，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 03:54:52",
-    "Close_Date_": ""
   }
 ]
