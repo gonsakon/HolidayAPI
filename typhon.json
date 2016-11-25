@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161125110",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 02:22:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山一路與萬壽路路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍留有路面油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161125109",
     "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 02:20:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 04:06:32",
     "Close_Date_": "2016/11/22 下午 04:07:10"
-  },
-  {
-    "FileNo_": "INS161122148",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 03:49:58",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松福街82巷與松華路",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映處電線桿有一電纜線垂落，已自行通報中華電信與第四台皆表示非所屬線路，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 03:54:04",
-    "Close_Date_": ""
   }
 ]
