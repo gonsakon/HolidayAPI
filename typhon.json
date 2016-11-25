@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161125124",
+    "FileNo_": "INS161125125",
     "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 03:32:53",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "test",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "Test",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161125124",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 03:32:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁慈路與仁慈路109巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近疑似有民眾燃燒廢棄物導致空污擾民，建請查處。",
+    "BeforeDesc_": "渠反映該處附近疑似有民眾燃燒廢棄物，導致空污擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 03:33:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 04:18:33",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122160",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/22 下午 04:14:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新富路、壘球場旁公園內",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映園內有自小客車違規停放，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/22 19:47 養工處 鳳山養護工程隊 劉緯婕小姐回報，該處車輛已勸離；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 04:16:38",
-    "Close_Date_": "2016/11/24 上午 12:08:23"
   }
 ]
