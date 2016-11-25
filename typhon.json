@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161125132",
+    "FileNo_": "INS161125133",
     "Status_": "1",
+    "Cre_Date_": "2016/11/25 下午 04:00:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "公園西路三段127號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該十字路口目前有路面凹陷，並已擺放三角錐，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161125132",
+    "Status_": "2",
     "Cre_Date_": "2016/11/25 下午 03:59:13",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "岡山路與柳橋東路路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/25 下午 04:00:19",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/22 下午 04:50:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161122170",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/22 下午 04:44:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "藍昌路396號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處附近住宅有抽水馬達運轉致噪音情事，建請會同稽查。(請局處先行致電陳情人確認前往時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/22 下午 04:48:15",
     "Close_Date_": ""
   }
 ]
