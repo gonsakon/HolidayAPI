@@ -8909,20 +8909,20 @@
   },
   {
     "FileNo_": "INS161123146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/23 下午 05:07:48",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明誠一路與鼎山街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈不變換燈號，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/23 17：55 交通局智慧運輸中心簡世豪先生回報，經人員現場查察，號誌燈皆有正\r\n常變燈運作；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 05:14:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/26 上午 09:03:42"
   },
   {
     "FileNo_": "INS161123145",
