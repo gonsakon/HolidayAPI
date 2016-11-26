@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127001",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 上午 12:33:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "北汕尾巷16之4號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161126190",
     "Status_": "4",
     "Cre_Date_": "2016/11/26 下午 11:46:49",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161126189",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/26 下午 11:32:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "成功一路與三多四路交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處人行道進行工程施工，惟圍設之紐澤西護欄皆因風大吹至道路上，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 10:28:01",
     "Close_Date_": "2016/11/24 下午 12:07:39"
-  },
-  {
-    "FileNo_": "INS161123216",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 10:22:23",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "蓮海路(西子灣觀景平台附近)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映所飼養之犬隻於該處遭3隻流浪犬(其中一隻為黑色)攻擊受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/23 23:33 農業局動物保護處捕犬大隊史明德先生回報，經人員到達現場來回巡\r\n視，皆未發現有遊蕩犬情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 10:27:08",
-    "Close_Date_": "2016/11/24 上午 07:55:11"
   }
 ]
