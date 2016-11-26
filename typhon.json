@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161126061",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/26 上午 10:19:48",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "后安路與新生路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161126060",
     "Status_": "1",
     "Cre_Date_": "2016/11/26 上午 10:18:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 12:33:04",
     "Close_Date_": "2016/11/24 下午 05:22:01"
-  },
-  {
-    "FileNo_": "INS161123084",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 12:18:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路與明潭路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍導致路面油漬，建請查處。(現場有警員)",
-    "AfterDesc_": "【主管解除管制】本案於 11/23 12:46 左營區清潔隊 葉品玲小姐回報，該處油漬已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 12:20:04",
-    "Close_Date_": "2016/11/24 上午 12:23:00"
   }
 ]
