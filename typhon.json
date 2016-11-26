@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161126161",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 08:46:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東四路562號(碳佐麻里)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家油煙逸散，導致空氣污染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 下午 08:51:57",
     "Close_Date_": ""
   },
   {
@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161126159",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/26 下午 08:40:58",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "三民區覺明路164號前 變電箱旁",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "無牌車輛",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 謝警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/26 下午 08:49:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/26 下午 08:51:27"
   },
   {
     "FileNo_": "INS161126158",
