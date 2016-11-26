@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161126098",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/26 下午 01:33:01",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "光和路與東亞南路路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一白色小狗疑似腳受傷無法動彈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161126097",
     "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 01:23:59",
@@ -392,14 +375,14 @@
   },
   {
     "FileNo_": "INS161126075",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/26 上午 11:23:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "育樂路與和平二路路口(千秋府)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該廟目前未使用環保金爐，致燃燒金紙有產生空污情事，表示有錄影存證可提供影帶，建請查處。",
     "AfterDesc_": "",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 03:46:56",
     "Close_Date_": "2016/11/24 下午 04:10:09"
+  },
+  {
+    "FileNo_": "INS161123123",
+    "Status_": "5",
+    "Cre_Date_": "2016/11/23 下午 03:40:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "和德里立德街104巷",
+    "UnitName_": "養工處",
+    "StatusName_": "解除管制",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址一盞路燈故障時亮時滅，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於11/24 17:09鳳山養護工程隊韓莉梅小姐回報，該處已修復完畢；本案不需回電故解除\r\n管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/11/23 下午 03:41:45",
+    "Close_Date_": "2016/11/26 上午 07:10:16"
   }
 ]
