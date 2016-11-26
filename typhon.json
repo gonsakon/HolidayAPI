@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161126094",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/26 下午 01:09:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正二路30號1-3樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處進行整修工程，目前有鑿壁機具施工致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/26 下午 01:11:10",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161126093",
     "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 12:57:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 03:29:25",
     "Close_Date_": "2016/11/26 上午 07:09:46"
-  },
-  {
-    "FileNo_": "INS161123120",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/23 下午 03:25:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "洲港路168巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內有兩支路燈自風災後即故障不亮至今，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 03:27:43",
-    "Close_Date_": ""
   }
 ]
