@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161126119",
+    "FileNo_": "INS161126120",
     "Status_": "1",
+    "Cre_Date_": "2016/11/26 下午 03:17:51",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自立一路與同協路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌(黃燈)故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161126119",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 03:16:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自立一路、察哈爾二街與同協路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口黃燈號誌故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 下午 03:17:38",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 05:14:23",
     "Close_Date_": "2016/11/26 上午 09:03:42"
-  },
-  {
-    "FileNo_": "INS161123145",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 05:04:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎昌街249號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前有瓦斯異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 19：12 環保局環境稽查科中區股李政鴻先生回報，稽查人員於17：58\r\n到達，稽查時使用pid儀器量測為0ppm，後續經由消防局開啟水柱沖刷後，再次巡查即未發現上述瓦斯\r\n異味情事；並於11/24 10：46電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 05:10:16",
-    "Close_Date_": "2016/11/24 上午 10:46:08"
   }
 ]
