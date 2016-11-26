@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161126179",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 10:17:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "角宿路63之1號(南順畜牧場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者將廢水排入水溝，導致空氣瀰漫豬糞惡臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 下午 10:20:24",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161126178",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/26 下午 10:17:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術北三路(國王傳奇)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處2樓教育廳目前有使用卡拉OK機具致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/26 下午 10:20:56",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 08:39:04",
     "Close_Date_": "2016/11/26 上午 08:35:52"
-  },
-  {
-    "FileNo_": "INS161123204",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 08:29:19",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "甲樹路與甲樹路龍泉巷口(公園一側)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處一盞號誌燈之綠燈故障不亮，建起查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 22:35交通局智慧運輸中心簡世豪先生回報，該處號誌綠燈已修復；並\r\n於11/24 16：08電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 08:30:32",
-    "Close_Date_": "2016/11/24 下午 04:08:04"
   }
 ]
