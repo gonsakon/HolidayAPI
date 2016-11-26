@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161126116",
+    "FileNo_": "INS161126118",
     "Status_": "1",
+    "Cre_Date_": "2016/11/26 下午 03:11:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文奇路110巷(微笑公園)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該園內有約十輛機車違規進入，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161126116",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 03:08:35",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "清平街26號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該址前進行汙水工程，然施工所鋪設之鐵板有鬆動致噪音產生，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 下午 03:10:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 05:01:40",
     "Close_Date_": "2016/11/24 下午 02:07:55"
-  },
-  {
-    "FileNo_": "INS161123142",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 04:58:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋新六路左轉橋新七路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該址機車道上方「橋新七路」路牌已歪斜，恐要掉落，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/24 15:07養工處岡山養護工程隊盧冠諭小姐回報，該處無立即危險性，還有一個扣\r\n環扣住，惟因需調派機具，無法立即修復，故改派非網A-TB-2016-110002賡續辦理；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 05:00:15",
-    "Close_Date_": "2016/11/26 上午 07:26:11"
   }
 ]
