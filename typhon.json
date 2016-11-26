@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161126188",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/26 下午 11:28:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海二路上，介於中林路至永光街間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段沿線北上機車道多盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161126187",
     "Status_": "2",
     "Cre_Date_": "2016/11/26 下午 11:05:43",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161126161",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/26 下午 08:46:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東四路562號(碳佐麻里)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家油煙逸散，導致空氣污染，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 10:02:29",
     "Close_Date_": "2016/11/24 上午 07:55:31"
-  },
-  {
-    "FileNo_": "INS161123213",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 09:58:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "東山路7號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:1056)故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/26 14:34 養工處鳳山養護工程隊陳毓郡小姐回報，該處已修復；並於11/26 16：04\r\n電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 09:59:42",
-    "Close_Date_": "2016/11/26 下午 04:08:16"
   }
 ]
