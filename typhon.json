@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161126064",
+    "FileNo_": "INS161126065",
     "Status_": "1",
+    "Cre_Date_": "2016/11/26 上午 10:34:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中山路32號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161126064",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 上午 10:31:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後勁南路149巷，樹林內",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾於樹叢內燃燒垃圾致空污擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 上午 10:33:35",
     "Close_Date_": ""
   },
   {
@@ -1004,19 +1021,19 @@
   },
   {
     "FileNo_": "INS161126005",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/11/26 上午 12:56:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "新興區六合一路20號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "有隻鳥疑似遭攻擊掉落死在我家陽台外的廣告看板上（在2F的高度）。可以麻煩請求儘快協助將鳥屍處理掉嗎，以避免滋生病菌，謝謝。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 上午 10:36:58",
     "Close_Date_": ""
   },
   {
@@ -6546,20 +6563,20 @@
   },
   {
     "FileNo_": "INS161124077",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/24 下午 01:08:08",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎金中街10號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面下陷(一)",
     "BeforeDesc_": "渠反映該址前路面有下陷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/24  17:06 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處已修補完\r\n畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 01:10:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/26 上午 10:33:34"
   },
   {
     "FileNo_": "INS161124076",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 下午 01:00:20",
     "Close_Date_": "2016/11/24 下午 12:21:46"
-  },
-  {
-    "FileNo_": "INS161123088",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 下午 12:53:17",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光遠路上，近中山路口(停車場對面，剛開幕的日式餐飲業者)",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映現該處店家私自開挖道路埋設管線，且現場並無任何告示疑似非法開挖，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 14:47工務局工程企劃處第六課黃禹穎先生回報：經查該路段係公路總局權管，\r\n故轉非本府；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 下午 01:02:50",
-    "Close_Date_": "2016/11/26 上午 06:54:44"
   }
 ]
