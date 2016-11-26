@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161126052",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 上午 09:56:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓波街38號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址前有污水管線工程作業,惟現場有一機具運轉噪音過大,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 上午 09:59:13",
     "Close_Date_": ""
   },
   {
