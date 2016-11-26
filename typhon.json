@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161126055",
+    "FileNo_": "INS161126056",
     "Status_": "1",
+    "Cre_Date_": "2016/11/26 上午 10:01:49",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址前有一汙水圓形人孔蓋持續冒出汙水，致路面積水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161126055",
+    "Status_": "2",
     "Cre_Date_": "2016/11/26 上午 09:59:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大勇路67號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈時亮時滅，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/26 上午 10:01:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/23 上午 11:53:21",
     "Close_Date_": "2016/11/26 上午 06:51:17"
-  },
-  {
-    "FileNo_": "INS161123078",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/23 上午 11:49:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "民益路75號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處轉角遭堆放大型廢棄家俱，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於11/23 13：26小港區清潔隊張馨予小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/23 上午 11:50:10",
-    "Close_Date_": "2016/11/26 上午 06:50:40"
   }
 ]
