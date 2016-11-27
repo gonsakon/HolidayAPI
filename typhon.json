@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128019",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 上午 07:46:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鎮東路2巷69之3號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路旁有一貓屍,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128018",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 上午 07:39:48",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161128015",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 上午 07:38:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中港路65巷22號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 上午 07:47:13",
     "Close_Date_": ""
   },
   {
@@ -1344,20 +1361,20 @@
   },
   {
     "FileNo_": "INS161127061",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 05:09:27",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "海墘路61巷35弄",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該弄口有一電桿傾斜45度角，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/27 17:51 台電鳳山區處吳先生回報，該處非電桿傾斜，正確為水泥路燈桿傾\r\n斜，故轉派INS161127069由養工處處理。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 05:15:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 07:47:29"
   },
   {
     "FileNo_": "INS161127060",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 05:38:43",
     "Close_Date_": "2016/11/26 上午 11:27:49"
-  },
-  {
-    "FileNo_": "INS161124129",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 05:35:26",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "樹人路82號附近(近旗美高中)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線垂落，已影響用路人通行，建請查處。(電桿號碼：美壇幹33Q3463BC66)",
-    "AfterDesc_": "【主管解除管制】本案於11/24 18：27 台電鳳山區處旗山服務所陳先生回報，經人員會同陳情人現場查看，係\r\n為廟宇沿線設置燈籠所牽引之線路，非屬台電所有，然仍協助將其線路拉高；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 05:39:49",
-    "Close_Date_": "2016/11/26 上午 11:28:21"
   }
 ]
