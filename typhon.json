@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127064",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 05:31:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路與明華路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線路燈目前故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127063",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 05:19:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 10:43:10",
     "Close_Date_": "2016/11/26 上午 09:48:22"
-  },
-  {
-    "FileNo_": "INS161124052",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 上午 10:40:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "瑞隆東路48號至50號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處人行道破損填補水泥，但不平整，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 上午 10:49:28",
-    "Close_Date_": ""
   }
 ]
