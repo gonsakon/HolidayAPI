@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161128012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 上午 06:49:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德中路111巷與德中路交叉口(全家超商前)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障閃燈,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 上午 06:51:09",
     "Close_Date_": ""
   },
   {
