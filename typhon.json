@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161127061",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 05:09:27",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "海墘路61巷35弄",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
-    "BeforeDesc_": "電桿傾斜",
+    "BeforeDesc_": "渠反映該弄口有一電桿傾斜45度角，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 下午 05:15:15",
     "Close_Date_": ""
   },
   {
