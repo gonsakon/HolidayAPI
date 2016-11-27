@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127042",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 12:30:34",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "中路里148之60號旁",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電線垂落路面，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127041",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 上午 11:59:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 09:41:52",
     "Close_Date_": "2016/11/25 下午 05:24:37"
-  },
-  {
-    "FileNo_": "INS161124030",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 上午 09:26:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "前庄路11之5號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 上午 09:27:50",
-    "Close_Date_": ""
   }
 ]
