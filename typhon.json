@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127084",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 06:50:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎祥街(大地游泳池)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "沿線路燈故障",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127083",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 06:44:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 12:28:05",
     "Close_Date_": "2016/11/26 下午 04:12:18"
-  },
-  {
-    "FileNo_": "INS161124070",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 12:18:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "南屏路與文信路口(南屏路上)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路口號誌與前後號誌不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/24 16：21 智慧運輸中心余晨璿小姐回報，該處已修復完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 12:24:02",
-    "Close_Date_": "2016/11/26 上午 10:06:24"
   }
 ]
