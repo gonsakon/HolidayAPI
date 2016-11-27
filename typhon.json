@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161127075",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 06:23:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "路竹國小於中山路上((位於郵局側)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌其紅、黃燈均故障不亮，僅顯綠燈，然先前已修復至今再度故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 下午 06:24:57",
     "Close_Date_": ""
   },
   {
