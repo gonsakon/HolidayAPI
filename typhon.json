@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161127105",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 08:46:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明華ㄧ路~新莊仔路，博愛二路~光興街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "整個區塊，路燈全不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 下午 08:49:52",
     "Close_Date_": ""
   },
   {
