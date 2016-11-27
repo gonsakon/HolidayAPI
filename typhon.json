@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161127018",
+    "FileNo_": "INS161127019",
     "Status_": "1",
+    "Cre_Date_": "2016/11/27 上午 09:07:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161127018",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 上午 09:05:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "銘傳路135號對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有遭丟棄廢棄家具與多包垃圾包，已多日未清理，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 上午 09:08:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 03:43:03",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161124007",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 上午 03:27:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "民生二路77號1樓(GAGA)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該酒吧卡拉OK擴音器聲響噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 09：31電覆陳情人未果，故於11/25 09：33簡訊回覆：李小姐您好，您11月24日\r\n所反映卡拉OK擴音噪音問題，經本府環保局前往稽查，稽查當下店家已打烊，周界巡查未發現擴音器致噪音情\r\n事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 上午 03:30:03",
-    "Close_Date_": "2016/11/25 上午 09:37:42"
   }
 ]
