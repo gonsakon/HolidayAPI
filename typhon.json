@@ -17,37 +17,20 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161127111",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/27 下午 09:15:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "新盛一街與中山橫路交叉口",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處路口有一工地目前仍有施工機具噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161127110",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 09:14:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "新盛一街與中山橫路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處路口有一工地木棉仍有施工，並產生汽油異味，建請查處。",
+    "BeforeDesc_": "渠反映該處路口有一工地目前仍有施工，並產生汽油異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 下午 09:18:15",
     "Close_Date_": ""
   },
   {
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 03:30:08",
     "Close_Date_": "2016/11/26 上午 10:19:17"
+  },
+  {
+    "FileNo_": "INS161124098",
+    "Status_": "5",
+    "Cre_Date_": "2016/11/24 下午 03:21:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣東一街104巷18號",
+    "UnitName_": "環保局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址正在裝潢有使用機具致噪音情事，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於11/24 17:05 環保局中區股沈俊男先生回報，稽查人員於16:55到達，人員到現場時，\r\n現場無作業施工，故稽查當時未發現有噪音情事；並於11/25 11：27電覆陳情人，故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/11/24 下午 03:22:49",
+    "Close_Date_": "2016/11/25 上午 11:32:34"
   }
 ]
