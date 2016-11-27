@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161127050",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 01:29:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "漢慶街112巷底",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一台電變電箱發出異聲，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/27 下午 01:33:08",
     "Close_Date_": ""
   },
   {
