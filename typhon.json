@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127046",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 01:14:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲三路157巷4弄10號(九芳室內設計)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家目前有機具鋸木作業致噪音情事，昨天通報仍未改善，建請查處。(陳情人要求聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127045",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 12:53:06",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161127017",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/27 上午 09:04:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "新鎮路850號(全聯福利中心)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址前一棵路樹倒塌，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 09:47:36",
     "Close_Date_": "2016/11/24 下午 05:02:21"
-  },
-  {
-    "FileNo_": "INS161124034",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 上午 09:43:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福安里福美路537之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁一盞路燈(上綁有紅色塑膠繩標記)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 上午 09:45:30",
-    "Close_Date_": ""
   }
 ]
