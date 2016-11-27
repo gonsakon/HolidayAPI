@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127104",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 08:40:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "山腳路1巷26號旁宮廟",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處宮廟現有大量焚香",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127103",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 08:26:51",
@@ -596,14 +613,14 @@
   },
   {
     "FileNo_": "INS161127066",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/27 下午 05:43:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "大坑路60之1號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該址前有一棵路樹傾倒路面，並已佔據一線車道，致民眾摔倒，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 02:31:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161124090",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 下午 02:24:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新富路與南京路口(力力果汁前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處號誌下有一「東 新富路」路牌颱風期間掉落至今未處理，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 02:26:17",
     "Close_Date_": ""
   }
 ]
