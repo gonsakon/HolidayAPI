@@ -341,20 +341,20 @@
   },
   {
     "FileNo_": "INS161127098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 08:01:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術館路與美術東二路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌均故障閃燈，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/27 21:59 交通局 智慧運輸中心 黃泰郎先生回報，人員現場查看，\r\n 該處號誌正常運作，無閃燈故障情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 08:01:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/27 下午 10:58:05"
   },
   {
     "FileNo_": "INS161127097",
