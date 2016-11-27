@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS161128008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 上午 04:50:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中山路223號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中央有一貓屍，建請查處。",
     "AfterDesc_": "【主管解除管制】11/28 05:13 溝渠隊莊斯宇先生回報，經致電陳情人表示現場貓屍已有其他民\r\n眾協助清理，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 04:52:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 07:26:23"
   },
   {
     "FileNo_": "INS161128007",
@@ -239,20 +239,20 @@
   },
   {
     "FileNo_": "INS161127125",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 11:44:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新莊一路上與華夏路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌紅燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/28 00：23 交通局智慧運輸中心張寬如小姐回報，該處無危險性，惟燈具故障需\r\n報請廠商維修，無法立即修復，故改派非網A-TB-2016-110787賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 11:45:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 07:26:51"
   },
   {
     "FileNo_": "INS161127124",
@@ -290,20 +290,20 @@
   },
   {
     "FileNo_": "INS161127122",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 11:22:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路與福德三路(小北百貨前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一具鳥屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/28 01：22 溝渠清潔隊莊斯宇先生回報，該處與陳情人聯繫確認，惟到場巡查時\r\n未發現上述鳥屍情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 11:24:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 07:27:17"
   },
   {
     "FileNo_": "INS161127121",
