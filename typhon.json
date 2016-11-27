@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128021",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 上午 07:47:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "五福一路17號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "快車道上有一坑洞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128019",
     "Status_": "2",
     "Cre_Date_": "2016/11/28 上午 07:46:48",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161128020",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 上午 07:46:37",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠路與常德路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 上午 07:47:54",
     "Close_Date_": ""
   },
   {
@@ -1480,20 +1497,20 @@
   },
   {
     "FileNo_": "INS161127055",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 03:15:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "汾陽路與澄明街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障閃燈，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/27  17:16  交通局智慧運輸中心黃泰郎先生回報，經查現場號誌正常運作，並\r\n未發現號誌故障閃燈情事。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 03:16:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 07:51:31"
   },
   {
     "FileNo_": "INS161127054",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 05:40:00",
     "Close_Date_": "2016/11/26 下午 04:31:13"
-  },
-  {
-    "FileNo_": "INS161124131",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 05:37:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中央公園",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該公園內遊戲區之攀岩設施有一範圍遭潑上不明黏稠物體(似飲料)，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 16：56養工處四維養護工程隊綠化股黃群哲先生回報：該處遊戲區人員到場進行\r\n巡查時均無發現上述不明液體，然此區每日定時皆有人員前往清除之，故應為清潔人員先行處理；並於11/25 \r\n17：05電覆陳情人，故解除管制；惟陳情人針對人員的態度及定期清潔問題，故另成非網A-TB-2016-110369追蹤\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 05:39:37",
-    "Close_Date_": "2016/11/25 下午 05:16:59"
   }
 ]
