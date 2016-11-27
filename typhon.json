@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127053",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 02:43:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓新路134巷8號後方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址後方大廈地下室施工，因將粉塵從排煙管排出導致揚塵，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127052",
     "Status_": "2",
     "Cre_Date_": "2016/11/27 下午 02:05:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 上午 10:17:08",
     "Close_Date_": "2016/11/26 上午 09:55:16"
-  },
-  {
-    "FileNo_": "INS161124041",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 上午 10:07:48",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "中華一路周遭(位於啟文所附近)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋下陷坑洞，建請盡速查修。(因此處地點不易找尋，故請人員與啟文所警員聯繫將引導前往)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 上午 10:14:56",
-    "Close_Date_": ""
   }
 ]
