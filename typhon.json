@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161127107",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/27 下午 09:02:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "大同里平安路16號至24號間",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路燈多盞故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161127106",
     "Status_": "1",
     "Cre_Date_": "2016/11/27 下午 09:00:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 03:02:08",
     "Close_Date_": "2016/11/26 上午 10:29:52"
-  },
-  {
-    "FileNo_": "INS161124093",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/24 下午 02:39:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "和平路13號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈白天未熄，已一個月時間，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 02:42:19",
-    "Close_Date_": ""
   }
 ]
