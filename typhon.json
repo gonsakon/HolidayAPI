@@ -5305,20 +5305,20 @@
   },
   {
     "FileNo_": "INS161127027",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 上午 09:55:57",
     "ReplyUnit_": "E01001",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "龍肚里茶頂街2號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址前有犬隻受困於水溝當中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/27 14：05 農業局動物保護處徐勝華先生回報，該處會同陳情人將犬隻救起，犬隻\r\n未受傷，放下時犬隻自行逃離；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 上午 09:59:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 06:09:48"
   },
   {
     "FileNo_": "INS161127026",
@@ -5373,20 +5373,20 @@
   },
   {
     "FileNo_": "INS161127023",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 上午 09:40:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路與中山路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃紅閃黃燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/27 11:31交通局智慧運輸中心簡世豪先生回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 上午 09:42:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 06:09:59"
   },
   {
     "FileNo_": "INS161127022",
@@ -5424,20 +5424,20 @@
   },
   {
     "FileNo_": "INS161127020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 上午 09:12:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗屏一路與興中路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/27 11:31交通局智慧運輸中心簡世豪先生回報，該處正常未有故障；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 上午 09:13:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 06:10:06"
   },
   {
     "FileNo_": "INS161127019",
