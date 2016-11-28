@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS161128128",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 12:54:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "瑞恩街與瑞興街口,公園內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該公園內有民眾將機車騎入並停放,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/28 下午 12:55:24",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161128129",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 12:51:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "台88下116號橋墩前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 上午 09:44:41",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161125048",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 上午 09:40:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "同和路168號對面，資源回收廠",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處業者使用機具致噪音擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 11:59 環保局環境稽查科中區股張愛群先生回報，稽查人員於10:30到達，當下\r\n未發現業者使用機具致噪音之情形；並於11/26 11：23電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 上午 09:43:05",
-    "Close_Date_": "2016/11/26 上午 11:28:06"
   }
 ]
