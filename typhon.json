@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161128288",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 10:53:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "仁愛一街291巷24號(小吃部)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者目前有使用擴音設備音量過大，造成噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 下午 10:56:08",
     "Close_Date_": ""
   },
   {
@@ -1446,20 +1446,20 @@
   },
   {
     "FileNo_": "INS161128203",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 下午 05:09:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山地下道北上內側車道",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處掉落許多太空包及保麗龍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/28 18:24 前鎮區清潔隊 莊素雲小姐回覆:人員於現場來巡視，\r\n 皆未有發現上述物品，疑似已由民眾自行清除；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 05:11:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 10:55:43"
   },
   {
     "FileNo_": "INS161128202",
