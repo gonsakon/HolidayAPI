@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161128275",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 09:28:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "嘉興里嘉興路80號(嘉興廟)旁產業道路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "路燈75A70",
+    "BeforeDesc_": "渠反映該址轉角處一盞路燈(編號75A70)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 下午 09:29:38",
     "Close_Date_": ""
   },
   {
