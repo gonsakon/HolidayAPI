@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128058",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 上午 09:07:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "孔鳳路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "馬路不平",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128057",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 上午 09:06:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 09:31:13",
     "Close_Date_": "2016/11/26 下午 05:05:26"
-  },
-  {
-    "FileNo_": "INS161124168",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 09:16:09",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路1833號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "違規紅線停車",
-    "AfterDesc_": "本案已於11/24 21:37代通報至110勤務指揮中心李警員成功",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 09:37:43",
-    "Close_Date_": "2016/11/25 上午 09:12:53"
   }
 ]
