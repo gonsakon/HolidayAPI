@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161129010",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 上午 07:16:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "復新東街近延平一路之眼鏡行旁",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有狗屍(洗衣精紙箱)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 上午 07:22:18",
     "Close_Date_": ""
   },
   {
@@ -494,20 +494,20 @@
   },
   {
     "FileNo_": "INS161128277",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 下午 09:51:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "保泰路上與福祥街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中央有一貓屍，建請查處。",
     "AfterDesc_": "【主管解除管制】11/28  22:38 前鎮區清潔隊莊素雲小姐回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 09:54:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/29 上午 07:21:22"
   },
   {
     "FileNo_": "INS161128276",
@@ -681,20 +681,20 @@
   },
   {
     "FileNo_": "INS161128266",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 下午 08:52:27",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路203巷8號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電方形孔蓋鬆動致噪音情事，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/28 21:59 台電橋頭巡修課蔡先生回報，該處已會同里長前往，並已先行使用橡\r\n皮墊處理，暫時無鬆動問題，後續需填寫改修單請廠商處理，無法立即修復，故改派非網A-TB-2016-\r\n111116賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 08:56:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/29 上午 07:21:49"
   },
   {
     "FileNo_": "INS161128265",
