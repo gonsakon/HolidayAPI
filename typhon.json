@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161129002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/29 上午 02:05:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "博愛路與瑞竹路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路旁有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】11/29 02:45 溝渠隊林漢宗先生回報：該處已清理完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 02:07:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/29 上午 04:06:20"
   },
   {
     "FileNo_": "INS161129001",
