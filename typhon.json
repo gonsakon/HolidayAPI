@@ -2245,20 +2245,20 @@
   },
   {
     "FileNo_": "INS161127095",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/27 下午 07:52:31",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "沱江街123號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該址從下午16點半停電至今，尚未復電，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/28 10：40經詢問台電1911陳小姐表示，已送電完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 07:59:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 上午 11:03:34"
   },
   {
     "FileNo_": "INS161127094",
