@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128024",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 上午 08:04:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "三多二路靠近民權二路(往sogo方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處快慢車道間有一具貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128023",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 上午 08:04:09",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161128022",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 上午 08:00:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路458號(停車場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前方人行道上有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 上午 08:07:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 05:44:56",
     "Close_Date_": "2016/11/25 下午 05:56:38"
-  },
-  {
-    "FileNo_": "INS161124134",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 05:42:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "程香里岡燕路沿線",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於11/24 21：48 岡山養護工程隊馬振邁先生回報，該處路燈皆已修復完畢；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 05:45:48",
-    "Close_Date_": "2016/11/26 上午 11:26:47"
   }
 ]
