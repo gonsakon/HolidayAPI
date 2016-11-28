@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128167",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 03:03:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新中街與新庄仔路788巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面有車禍油漬，警員於現場交管，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128166",
     "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 02:53:52",
@@ -414,7 +431,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "岡榮路19號",
+    "address_": "協榮路19號",
     "UnitName_": "養工處",
     "StatusName_": "待處理",
     "InformDesc_": "縣、鄉道破損",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 上午 11:49:46",
     "Close_Date_": "2016/11/26 上午 09:23:04"
-  },
-  {
-    "FileNo_": "INS161125086",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 上午 11:40:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路與天祥一路路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 12:08三民東區清潔隊葉淑莉小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 上午 11:43:10",
-    "Close_Date_": "2016/11/26 下午 01:51:36"
   }
 ]
