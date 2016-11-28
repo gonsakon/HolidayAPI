@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128255",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 08:18:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "保華一路上與寶陽路交叉口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128254",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 下午 08:16:22",
@@ -1051,23 +1068,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 04:43:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128192",
-    "Status_": "1",
-    "Cre_Date_": "2016/11/28 下午 04:34:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路(介於新光路至時代大道)",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "號誌不連鎖",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
