@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161129001",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/29 上午 12:22:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建元路9巷14號左右(卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128296",
     "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 11:47:26",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161128293",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/28 下午 11:30:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "過勇路51之3號周遭",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處瀰漫一股酸臭異味，疑似工廠排放廢氣所致，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 上午 02:08:32",
     "Close_Date_": "2016/11/28 下午 05:59:22"
-  },
-  {
-    "FileNo_": "INS161126005",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/26 上午 12:56:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "新興區六合一路20號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "有隻鳥疑似遭攻擊掉落死在我家陽台外的廣告看板上（在2F的高度）。可以麻煩請求儘快協助將鳥屍處理掉嗎，以避免滋生病菌，謝謝。",
-    "AfterDesc_": "11/26 10：32 電覆告知陳情人，所反映的內容與地點，屬於私人範圍內，需由私人自行處理，非市府權管。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/26 上午 10:36:58",
-    "Close_Date_": "2016/11/26 上午 10:39:36"
   }
 ]
