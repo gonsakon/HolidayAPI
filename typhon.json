@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161128136",
+    "FileNo_": "INS161128137",
     "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 01:05:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "山隙路上近中崙寮路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "渠反映該處有一路樹斷枝懸掛樹上,恐掉落砸傷民眾,請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161128136",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 12:58:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "四林路35之1號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址周邊有3至4盞路燈故障不亮許久，建請儘速查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 下午 01:01:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 上午 10:20:31",
     "Close_Date_": "2016/11/26 上午 10:47:57"
-  },
-  {
-    "FileNo_": "INS161125056",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 上午 10:10:11",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣東二街1號對面",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處為水利局之前管線開挖工程，惟目前路面些微凹陷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 16:05 水利局市區排水一科陳頤萱小姐回報，該處已修復完成；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 上午 10:37:59",
-    "Close_Date_": "2016/11/26 下午 01:14:25"
   }
 ]
