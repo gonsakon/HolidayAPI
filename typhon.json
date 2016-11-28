@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128068",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 上午 09:37:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "文賢路12號(苦茶油",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "業者",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128067",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 上午 09:35:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/24 下午 10:43:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161124177",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/24 下午 10:37:04",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "大順一路與裕誠路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路邊有一隻遭撞傷之犬隻，建請查處。(請先行致電與陳情人聯繫)",
-    "AfterDesc_": "【主管解除管制】11/24 23:03 農業局動保處陳三元先生回報，致電陳情人，陳情人表示該犬隻已離\r\n去，請人員不需電覆，故結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/24 下午 10:40:11",
-    "Close_Date_": "2016/11/25 上午 07:54:17"
   }
 ]
