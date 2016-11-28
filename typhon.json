@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161129007",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/29 上午 06:46:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高坪十七街，坪頂國小附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有燃燒異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161129006",
     "Status_": "2",
     "Cre_Date_": "2016/11/29 上午 05:29:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 上午 04:09:50",
     "Close_Date_": "2016/11/28 上午 12:52:59"
-  },
-  {
-    "FileNo_": "INS161126011",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/26 上午 03:51:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗南二路91之1號(7-11)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車道上有狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/26 04：59 溝渠隊莊斯宇先生回報，該處狗屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/26 上午 03:53:09",
-    "Close_Date_": "2016/11/27 上午 08:04:12"
   }
 ]
