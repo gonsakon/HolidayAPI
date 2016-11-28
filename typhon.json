@@ -2381,20 +2381,20 @@
   },
   {
     "FileNo_": "INS161128138",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 下午 01:10:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中山一路與民生二路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路面有車禍油漬，警員於現場交管，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/28 14:05 新興區清潔隊 劉淑萍小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 01:12:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 10:13:23"
   },
   {
     "FileNo_": "INS161128137",
@@ -2551,20 +2551,20 @@
   },
   {
     "FileNo_": "INS161128129",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 下午 12:51:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "台88下平面道路，116號橋墩前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路面有車禍油漬，警員仍於現場，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/28 13:35 大寮區清潔隊 張簡火城先生回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 12:53:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 10:13:42"
   },
   {
     "FileNo_": "INS161128124",
@@ -2823,20 +2823,20 @@
   },
   {
     "FileNo_": "INS161128112",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/28 上午 11:44:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中華二路與同盟二路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌全不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/28 12:51 交通局 智慧運輸中心 余晨璿小姐回報，現場號誌正常運作，\r\n 無上述故障情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 11:45:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/28 下午 10:13:07"
   },
   {
     "FileNo_": "INS161128111",
