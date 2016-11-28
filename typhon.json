@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128291",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 11:16:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路586號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128290",
     "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 11:00:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 下午 11:38:30",
     "Close_Date_": "2016/11/25 下午 11:38:55"
-  },
-  {
-    "FileNo_": "INS161125211",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/25 下午 11:18:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松興路69巷47號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 下午 11:19:49",
-    "Close_Date_": ""
   }
 ]
