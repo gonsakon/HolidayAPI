@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128276",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 09:46:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "灣中街165號對面(宮廟)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128275",
     "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 09:28:01",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161128260",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/28 下午 08:31:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德賢路106巷內",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "德賢路106巷內往前約100公尺，樹枝樹葉一堆",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 下午 09:24:02",
     "Close_Date_": "2016/11/28 下午 05:19:36"
-  },
-  {
-    "FileNo_": "INS161125196",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 下午 09:10:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路與民族一路交叉口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口剛下橋欲待轉往九如二路方向，路面有一大塊保麗龍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 21:45 三民東區清潔隊王文全先生回報，現場巡視查看未發現有保麗龍；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 下午 09:12:42",
-    "Close_Date_": "2016/11/26 上午 11:59:06"
   }
 ]
