@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128194",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 04:37:22",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "朝陽路172號 (服飾店)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128193",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 下午 04:37:18",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161128157",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/28 下午 02:39:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合一路90號9樓之1號旁(福泰桔子商旅)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者於天台冷氣運轉會發出答答答噪音，建請會同查處。(可提供其住家為測點，請現場回覆處理結果)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/25 下午 02:49:54",
     "Close_Date_": "2016/11/26 下午 02:00:41"
-  },
-  {
-    "FileNo_": "INS161125114",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 下午 02:44:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "孔鳳路179巷72號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路燈下有一貓屍，望請清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/25 15:22 小港區清潔隊吳華梅小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 下午 02:47:25",
-    "Close_Date_": "2016/11/26 下午 12:03:02"
   }
 ]
