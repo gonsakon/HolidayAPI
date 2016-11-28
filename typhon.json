@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161128294",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/28 下午 11:30:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮佑路與榮德街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路口有兩盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161128293",
     "Status_": "1",
     "Cre_Date_": "2016/11/28 下午 11:30:01",
@@ -10,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處瀰漫一股酸臭異味，疑似工廠排放廢氣所致，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 上午 12:30:55",
     "Close_Date_": "2016/11/28 上午 12:10:54"
-  },
-  {
-    "FileNo_": "INS161125213",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/25 下午 11:32:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "鳳屏二路132號(近台朔加油站)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處加油站徵人招牌旁路面有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/26 00：12 溝渠清潔隊莊斯宇先生回報，該處已清除完畢；並於11/26 15：10電覆\r\n陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/25 下午 11:34:52",
-    "Close_Date_": "2016/11/26 下午 03:14:55"
   }
 ]
