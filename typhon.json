@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161128269",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 09:02:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "援中路與藍昌路(位於自助餐側)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 下午 09:02:47",
     "Close_Date_": ""
   },
   {
