@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161128267",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/28 下午 08:58:37",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄清路上，近本館路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/28 下午 08:59:42",
     "Close_Date_": ""
   },
   {
@@ -78,7 +78,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，導致空氣污染，建請會同查處。(晚間22點可會同)",
+    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，導致空氣污染，建請會同查處。(晚間22點之前可會同)",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 08:51:21",
