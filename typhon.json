@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161129171",
+    "FileNo_": "INS161129172",
     "Status_": "1",
+    "Cre_Date_": "2016/11/29 下午 05:41:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "高雄市旗山區中正里中興街一號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "門牌地址:高雄市旗山區中正里中興街一號。門牌地址路燈不亮已經超過5天",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161129171",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 05:41:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德街784巷2號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址旁路燈閃爍故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 下午 05:42:22",
     "Close_Date_": ""
   },
   {
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161129169",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 05:40:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "本工南二路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線路燈均已故障不亮2日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 下午 05:42:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 下午 10:13:16",
     "Close_Date_": "2016/11/29 下午 02:13:44"
-  },
-  {
-    "FileNo_": "INS161126175",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/26 下午 10:09:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "巨輪路201號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址對面有住戶在燃燒不明物品，有塑膠惡臭味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/27 00:12 環保局環境稽查科北區股余泓陞先生回報，稽查人員於23:05到\r\n達，稽查時於上址該路沿線巡查，並未發現燃燒物品產生塑膠異味致空污情事；並於11/27 13：58電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/26 下午 10:11:02",
-    "Close_Date_": "2016/11/27 下午 02:00:47"
   }
 ]
