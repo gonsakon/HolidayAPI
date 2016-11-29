@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161129245",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/29 下午 10:45:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址業者目前有油煙逸散致空污情事，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/29 下午 10:47:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161129244",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 10:44:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "光華二路272號",
+    "address_": "光華二路272號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處分隔島上有一盞LED共桿路燈故障不亮，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 下午 10:46:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/27 下午 04:34:53",
     "Close_Date_": "2016/11/27 下午 09:50:04"
-  },
-  {
-    "FileNo_": "INS161127057",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/27 下午 04:14:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "成功一路上(靠近國民街)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上花圃有三個塑膠袋，望請派員清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/27 16：48 前金區清潔隊夏金益先生回報，該處未發現髒亂。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/27 下午 04:15:48",
-    "Close_Date_": "2016/11/28 上午 07:47:48"
   }
 ]
