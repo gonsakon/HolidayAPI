@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161129214",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/29 下午 07:44:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "明德街與輔仁路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161129213",
     "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 07:39:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/27 上午 09:59:47",
     "Close_Date_": "2016/11/28 下午 06:09:48"
-  },
-  {
-    "FileNo_": "INS161127026",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/27 上午 09:55:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路(九如國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該校大門旁人行道草堆有貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/27 10:08 鼓山區清潔隊 郭仲明先生回報，現場貓屍已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/27 上午 09:57:33",
-    "Close_Date_": "2016/11/27 下午 09:42:24"
   }
 ]
