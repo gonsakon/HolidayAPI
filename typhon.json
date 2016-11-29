@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161129020",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/29 上午 08:06:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河西一路1511號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道上遭丟棄許多垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161129019",
     "Status_": "1",
     "Cre_Date_": "2016/11/29 上午 08:04:22",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161129017",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 上午 08:02:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
-    "address_": "",
+    "address_": "五福四路335號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前人行道疑似該址住戶拆房後丟棄之大量木頭，現場遭人亂丟垃圾導致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 上午 08:05:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 上午 07:42:57",
     "Close_Date_": "2016/11/28 下午 02:43:49"
-  },
-  {
-    "FileNo_": "INS161126024",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/26 上午 07:38:23",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路過五甲三路，往北，約350公尺處",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該址機車道有一台電人孔蓋有高低落差，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/26 10:39 台電 鳳山區處 洪先生回報，現場孔蓋已修復完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/26 上午 07:53:00",
-    "Close_Date_": "2016/11/28 上午 12:55:14"
   }
 ]
