@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161129216",
+    "FileNo_": "INS161129217",
     "Status_": "1",
+    "Cre_Date_": "2016/11/29 下午 07:48:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路72巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該巷口遭棄置許多瓶罐及垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161129216",
+    "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 07:47:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋三上，從凱旋三路505巷至二聖一路",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段單邊路燈全不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/29 下午 07:48:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/27 上午 10:21:59",
     "Close_Date_": "2016/11/28 下午 06:12:44"
-  },
-  {
-    "FileNo_": "INS161127029",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/27 上午 10:12:28",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中正一路；中正交流道；鳳山往市區",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈故障閃燈，已有警方在此指揮疏導，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/27 11:31交通局智慧運輸中心簡世豪先生回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/27 上午 10:13:23",
-    "Close_Date_": "2016/11/28 下午 06:12:54"
   }
 ]
