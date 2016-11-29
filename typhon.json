@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161129114",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/29 下午 02:48:28",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "廠橫路上近廠邊一路",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "溝蓋周圍下陷列動 小港區  回",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161129113",
     "Status_": "2",
     "Cre_Date_": "2016/11/29 下午 02:45:35",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161129109",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/11/29 下午 02:12:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路768巷16號旁巷子",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/26 下午 03:12:09",
     "Close_Date_": "2016/11/28 下午 04:06:18"
-  },
-  {
-    "FileNo_": "INS161126117",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/26 下午 03:10:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中山路二段72號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該工廠正排放廢氣致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/26 18:55 環保局稽查科北區股劉政瑋先生回報，稽查人員於16:41到達，稽查時該\r\n工廠正常營業中，廠內設有袋式集塵設備一套，且防治設備皆正常運作中，於周界巡查未發現有明顯空污情事，\r\n仍促請業者注意防範；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/26 下午 03:13:07",
-    "Close_Date_": "2016/11/28 下午 04:05:07"
   }
 ]
