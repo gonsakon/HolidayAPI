@@ -9861,20 +9861,20 @@
   },
   {
     "FileNo_": "INS161126128",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/26 下午 03:50:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德一路(八涳橋上)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面有多個坑洞，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/29 13:39 養工處鳳山養護工程隊韓莉梅小姐回報，該處已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/26 下午 03:52:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/29 下午 01:57:34"
   },
   {
     "FileNo_": "INS161126127",
