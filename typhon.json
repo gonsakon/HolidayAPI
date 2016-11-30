@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130075",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 上午 11:27:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮耀路與榮富街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處目前有不明工程進行，疑似未申請，施工車輛占據一線道影響通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130074",
     "Status_": "1",
     "Cre_Date_": "2016/11/30 上午 11:26:50",
@@ -1021,14 +1038,14 @@
   },
   {
     "FileNo_": "INS161130014",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/30 上午 07:51:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "延平路與國昌路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈，疑似故障三色燈同時放亮未熄，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 07:47:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128017",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 上午 07:39:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "西溪路126號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 上午 07:47:57",
     "Close_Date_": ""
   }
 ]
