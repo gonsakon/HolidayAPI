@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130210",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 09:19:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中庸街(九如三路與中華橫路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130209",
     "Status_": "1",
     "Cre_Date_": "2016/11/30 下午 09:16:37",
@@ -8501,14 +8518,14 @@
   },
   {
     "FileNo_": "INS161128252",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/28 下午 08:13:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "安船街30巷",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈(桿號:C661K)故障不亮多日，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 02:27:05",
     "Close_Date_": "2016/11/28 下午 06:00:15"
-  },
-  {
-    "FileNo_": "INS161128150",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 02:18:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海一路437號(貝特立洗車場)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映目前該處散發洗車溶劑惡臭異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/28 16:17 環保局稽查科南區股杜淑文小姐回報，稽查人員於14:30到達，現場進行\r\n擦車作業，未發現洗車溶劑異味導致空污情事；並於11/29 09：35電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 02:25:31",
-    "Close_Date_": "2016/11/29 上午 09:44:08"
   }
 ]
