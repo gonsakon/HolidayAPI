@@ -477,20 +477,20 @@
   },
   {
     "FileNo_": "INS161130209",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 09:16:37",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區中山二路412號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於11/30 21:24代通報至110勤務指揮中心商警員辦理，倘您對本案處理有疑\r\n問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 09:26:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 上午 07:46:05"
   },
   {
     "FileNo_": "INS161130208",
