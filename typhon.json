@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130198",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 08:13:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路72巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該巷口遭棄置許多垃圾包與回收物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130197",
     "Status_": "4",
     "Cre_Date_": "2016/11/30 下午 07:47:17",
@@ -885,14 +902,14 @@
   },
   {
     "FileNo_": "INS161130143",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/30 下午 04:43:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路二段461號(金品運動工廠與康是美)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該兩間店家目前有使用擴音器致噪音情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 01:14:19",
     "Close_Date_": "2016/11/28 下午 11:02:49"
-  },
-  {
-    "FileNo_": "INS161128138",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 01:10:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路與民生二路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，警員於現場交管，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/28 14:05 新興區清潔隊 劉淑萍小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 01:12:25",
-    "Close_Date_": "2016/11/28 下午 10:13:23"
   }
 ]
