@@ -1633,20 +1633,20 @@
   },
   {
     "FileNo_": "INS161130047",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 上午 09:34:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "復興三路與一心二路十字路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "反映該址行人號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/30 12:33交通局智慧運輸中心余晨璿小姐回報，已修復；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 09:42:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/30 下午 04:51:41"
   },
   {
     "FileNo_": "INS161130046",
@@ -1888,20 +1888,20 @@
   },
   {
     "FileNo_": "INS161130032",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 上午 08:55:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "博愛一路與察哈爾一街交叉",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處黃燈號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/30 01:32 智慧運輸中心 余晨璿小姐回報，該號誌已修復恢復正常運作；故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 09:42:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/11/30 下午 04:51:16"
   },
   {
     "FileNo_": "INS161130031",
