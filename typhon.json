@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130207",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 09:00:05",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路202號(DHL服務中心前)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130206",
     "Status_": "1",
     "Cre_Date_": "2016/11/30 下午 08:55:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 02:19:13",
     "Close_Date_": "2016/11/30 下午 03:33:58"
-  },
-  {
-    "FileNo_": "INS161128147",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 01:55:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "潭頭路239巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中有一股燃燒塑膠異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 01:56:50",
-    "Close_Date_": ""
   }
 ]
