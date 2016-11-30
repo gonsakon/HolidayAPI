@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161130204",
+    "FileNo_": "INS161130205",
     "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 08:48:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "維新路2之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前有一路面隆起，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161130204",
+    "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 08:46:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "仕豐路長記巷38號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障有漏電情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/30 下午 08:47:58",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 01:49:11",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128145",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 01:44:16",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓區興楠路203巷與興楠路151巷66弄路口轉角處",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "楠梓區興楠路203巷與興楠路151巷66弄路口轉角處，六部機車紅線違停，請警察開單告發取締違規",
-    "AfterDesc_": "感謝您的反映，此案件已於11/28 13：53通報110葉警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 01:57:45",
-    "Close_Date_": "2016/11/28 下午 01:59:49"
   }
 ]
