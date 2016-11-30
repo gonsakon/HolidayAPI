@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130191",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 07:31:59",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區中山二路406號人行道上",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "多輛機車人行道上違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130190",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 07:22:13",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161130150",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/30 下午 05:08:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "民族路20號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處第3盞路燈故障不亮，人員有表示屬保固燈但至今還未修復，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 01:03:24",
     "Close_Date_": "2016/11/30 上午 11:23:33"
-  },
-  {
-    "FileNo_": "INS161128131",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 12:57:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路485巷89號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址對面有一路燈故障不亮，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 01:07:26",
-    "Close_Date_": ""
   }
 ]
