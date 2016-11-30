@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201008",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 07:31:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "中寮一路、中寮二路沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該二路段沿線有掉落疑似混凝土石,造成機車滑倒,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201007",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 07:09:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 03:43:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128176",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 03:30:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "樹人路43之1號至43之6號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有多碎石，曾見機車騎過滑倒，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 03:34:07",
     "Close_Date_": ""
   }
 ]
