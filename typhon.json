@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201014",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 07:58:08",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "高雄市岡山區岡山路566巷8號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "該戶飼養流浪狗未盡飼主責任 放任其路上亂走 造成交通危險 亂咬垃圾隨地大小便 亂吠路人 等現象 請進行勸導或直接開單",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201013",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 07:51:40",
@@ -2228,14 +2245,14 @@
   },
   {
     "FileNo_": "INS161130106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/11/30 下午 01:52:45",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "灣頭南巷50號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻脖子已腐爛受傷，建請會同救援。(請局處會同陳情人前往)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 03:40:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128181",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 03:34:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多四路108號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前慢車道有一處凹陷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/29 11:40 養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處凹陷已修復；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 03:36:19",
-    "Close_Date_": "2016/11/30 下午 05:53:03"
   }
 ]
