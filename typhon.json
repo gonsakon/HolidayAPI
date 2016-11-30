@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130077",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/30 上午 11:39:11",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "常盛街上靠近中山路",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路面上有4至5個坑洞，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/30 上午 11:40:28",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130076",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 上午 11:36:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 07:49:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128020",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 上午 07:46:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "旗楠路與常德路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 上午 07:47:54",
     "Close_Date_": ""
   }
 ]
