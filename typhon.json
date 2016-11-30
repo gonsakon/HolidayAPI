@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130218",
+    "Status_": "2",
+    "Cre_Date_": "2016/11/30 下午 10:37:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文化西路102號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有路面工程施工，致類似水泥之惡臭異味空污產生，建請查處。(請人員先行電覆陳情人)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/11/30 下午 10:42:58",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130217",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 10:37:30",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 02:48:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128159",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 02:42:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎安路58號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處變電箱旁，遭人丟棄木櫃、玻璃瓶與兩包垃圾包，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 02:45:01",
     "Close_Date_": ""
   }
 ]
