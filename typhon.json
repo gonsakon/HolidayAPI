@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201002",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 12:33:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路與大智路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處車禍事故路面油漬，建請查處。(現場還有員警)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201001",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 上午 12:21:18",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 03:14:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128170",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 03:07:06",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "文橫二路143巷7號與9號間",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一路燈閃爍故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 03:08:21",
     "Close_Date_": ""
   }
 ]
