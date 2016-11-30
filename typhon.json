@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161130190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 07:22:13",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
-    "address_": "東亞路2號(亞柏加油站",
+    "address_": "東亞路2號(亞柏加油站)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處台電變電箱遭車輛撞擊損壞，建請查處。",
+    "BeforeDesc_": "渠反映該處台電變電箱遭拖板車撞擊損壞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/11/30 下午 07:28:18",
     "Close_Date_": ""
   },
   {
