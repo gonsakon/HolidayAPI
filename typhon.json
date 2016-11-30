@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130177",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 06:11:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "馬卡道路與美明路口(新台灣原味對面上)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭棄置多片大片玻璃及木棍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130176",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 06:07:47",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161130158",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/30 下午 05:28:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠公路與旗楠路長安巷、旗楠路126巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面進行刨除重鋪施工，致調撥車道上散落碎石，造成民眾摔傷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 12:33:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128119",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/28 下午 12:23:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "茄苳崙12之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 12:26:55",
     "Close_Date_": ""
   }
 ]
