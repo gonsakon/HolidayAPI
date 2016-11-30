@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130071",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 上午 11:18:44",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路192巷105弄51號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130069",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 上午 11:14:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 07:05:18",
     "Close_Date_": "2016/11/28 下午 11:04:31"
-  },
-  {
-    "FileNo_": "INS161128012",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 上午 06:49:59",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德中路111巷與德中路交叉口(全家超商前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障閃燈,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 上午 06:51:09",
-    "Close_Date_": ""
   }
 ]
