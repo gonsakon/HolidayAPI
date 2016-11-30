@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161201004",
+    "FileNo_": "INS161201005",
     "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 06:43:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "十全一路與民族一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161201004",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 06:41:15",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "林森二路88號(美極汽車美容)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該洗車場污水排放至路面及排水溝造成髒亂,且水桶積水未清恐有孳生病媒蚊,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 上午 06:47:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 03:44:52",
     "Close_Date_": "2016/11/29 下午 03:25:22"
-  },
-  {
-    "FileNo_": "INS161128172",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 03:24:01",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "同安路120號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻受困2樓屋頂近五天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 03:27:47",
-    "Close_Date_": ""
   }
 ]
