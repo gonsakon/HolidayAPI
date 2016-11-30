@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130215",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 下午 10:21:40",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中崙路676巷內，近中崙路",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130214",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 下午 10:18:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 02:43:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128156",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 02:38:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "文賢南路與沿海路二段交叉轉角新光人壽大樓前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/29 21：11養工處鳳山養護工程隊劉緯婕小姐回報，該處已修復；並於\r\n11/30 11：49電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 02:40:28",
-    "Close_Date_": "2016/11/30 上午 11:49:25"
   }
 ]
