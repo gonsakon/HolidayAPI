@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161130078",
+    "Status_": "1",
+    "Cre_Date_": "2016/11/30 上午 11:44:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建國一路17號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路中間有一具犬屍，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161130077",
     "Status_": "2",
     "Cre_Date_": "2016/11/30 上午 11:39:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 上午 07:53:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128019",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 上午 07:46:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鎮東路2巷69之3號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路旁有一貓屍,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 上午 07:49:17",
     "Close_Date_": ""
   }
 ]
