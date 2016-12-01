@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202012",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 07:38:47",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中山四路上近平和東路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋凹陷，建請查處。靠近中央分隔島",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202011",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 07:23:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 02:55:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129114",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/29 下午 02:48:28",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "廠橫路上近廠邊一路",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一溝蓋周圍下陷與裂縫情事， 建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 02:50:44",
     "Close_Date_": ""
   }
 ]
