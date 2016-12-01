@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161201043",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/1 上午 09:23:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "山霸煙路與阿公店溪交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該豬舍傾倒豬糞至水溝，造成環境髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/1 上午 09:26:57",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201040",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 09:20:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 05:50:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128213",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/28 下午 05:47:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "文化一街52號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號:001565)故障不亮多日，且先前已有通報至今尚未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 05:48:41",
     "Close_Date_": ""
   }
 ]
