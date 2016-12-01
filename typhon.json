@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161202012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 07:38:47",
     "ReplyUnit_": "B02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路南下近平和東路口(靠近中央分隔島)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋凹陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 上午 07:42:03",
     "Close_Date_": ""
   },
   {
@@ -181,7 +181,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處鐵路地下化工程施作噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/2 06:31 環保局公害專線王奕翔先生回報，稽查人員於5:50到達，現場並未有工\r\n人施工，故未發現噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 02:37:33",
     "Close_Date_": ""
