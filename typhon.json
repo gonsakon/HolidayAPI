@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201099",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 12:17:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大順二路上與九如一路(路橋下來方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處汽車道有一鳥屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201098",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 12:03:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 09:05:19",
     "Close_Date_": "2016/11/29 上午 11:11:51"
-  },
-  {
-    "FileNo_": "INS161128267",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/28 下午 08:58:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "澄清路上，近本館路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 08:59:42",
-    "Close_Date_": ""
   }
 ]
