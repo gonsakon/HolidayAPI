@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161201170",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 05:46:52",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路59號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/01 17:49 通報110許警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 05:49:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 05:51:53"
   },
   {
     "FileNo_": "INS161201169",
@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161201168",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 05:45:40",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路45號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/01 17:49 通報110許警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 05:49:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 05:51:35"
   },
   {
     "FileNo_": "INS161201167",
