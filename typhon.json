@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202005",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 06:04:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202004",
     "Status_": "4",
     "Cre_Date_": "2016/12/2 上午 03:50:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 02:10:43",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129107",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/29 下午 02:03:15",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "哈瑪星渡輪場",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一隻犬隻受困於海中，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/29 15：42 農業局 動物保護處 黃春林先生回報，該處經人員現場巡視，\r\n 未發現上述犬隻；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 02:04:05",
-    "Close_Date_": "2016/12/1 下午 07:41:06"
   }
 ]
