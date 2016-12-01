@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161201032",
+    "FileNo_": "INS161201033",
     "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 08:59:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161201032",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 08:53:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心一路與凱璇三路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址有瓦斯異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 上午 08:59:44",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 05:11:39",
     "Close_Date_": "2016/11/28 下午 10:55:43"
-  },
-  {
-    "FileNo_": "INS161128202",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/28 下午 05:06:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九曲路527號左前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞水銀路燈時亮時滅，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 05:07:51",
-    "Close_Date_": ""
   }
 ]
