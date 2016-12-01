@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201201",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 08:16:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "通安路305巷11號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201200",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 08:11:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 11:14:23",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129074",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/29 上午 11:12:39",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文萊路163號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "妨害安寧",
-    "BeforeDesc_": "住在後面的人家，半夜12至2點在洗衣服，講話，椅子聲，吵得別人不用睡。",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-111210由警察局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 11:24:05",
-    "Close_Date_": "2016/11/29 上午 11:34:50"
   }
 ]
