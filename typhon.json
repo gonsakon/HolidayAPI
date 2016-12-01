@@ -5560,20 +5560,20 @@
   },
   {
     "FileNo_": "INS161130092",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 12:21:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路與覺民路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍遺留的路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/30 13：01 三民東區清潔隊 許華玲小姐回報，該處已清除完畢；本案\r\n 不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 12:22:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 07:59:47"
   },
   {
     "FileNo_": "INS161130091",
