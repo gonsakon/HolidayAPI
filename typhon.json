@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201050",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 09:43:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "榮昌街136巷與榮昌街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201047",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 上午 09:40:42",
@@ -7634,14 +7651,14 @@
   },
   {
     "FileNo_": "INS161129071",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/11/29 上午 11:04:25",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "沿海二路上，近中鋼東門大門右側(南下方向)",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處人行道上有台電電線桿移除後附著地面之一小截電線突出路面，恐民眾行經跌倒已先行放置安全錐作為警示，望局處挖除重鋪，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 06:03:59",
     "Close_Date_": "2016/11/30 下午 05:51:49"
-  },
-  {
-    "FileNo_": "INS161128217",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 06:01:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪七十街",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈沿線多盞故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/29 22:36 養工處四維養護工程隊九如養護分隊楊誠回報，該處已修復；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 06:02:48",
-    "Close_Date_": "2016/11/30 下午 05:51:39"
   }
 ]
