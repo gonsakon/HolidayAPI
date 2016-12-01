@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201203",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 08:35:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "光華一路與青年一路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "工地 機具噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201202",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 08:27:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 11:25:38",
     "Close_Date_": "2016/12/1 上午 11:12:59"
-  },
-  {
-    "FileNo_": "INS161129076",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 上午 11:15:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大仁路上近信義路178巷(和宏汽車前)；由東往西方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處汽車道上有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 11:18:37",
-    "Close_Date_": ""
   }
 ]
