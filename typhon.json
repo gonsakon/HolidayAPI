@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201170",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 05:46:52",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區文橫三路59號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "紅線違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201169",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 下午 05:46:15",
@@ -1344,20 +1361,20 @@
   },
   {
     "FileNo_": "INS161201090",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 11:38:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "南屏路521號(采荷天大樓)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該址人行道上有坑洞，目前以三角錐蓋起，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 14:48養工處四維養護工程隊三民分隊李易軒小姐回報，該處已修復；\r\n並於12/01 17：45電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 11:40:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 05:46:48"
   },
   {
     "FileNo_": "INS161201089",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 09:45:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129043",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 上午 09:36:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文化西路198號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映消防局通報本室該處有瓦斯異味且測有毒物情形，需環保局協助處理。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 09:41:51",
     "Close_Date_": ""
   }
 ]
