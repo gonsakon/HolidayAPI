@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 03:45:55",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "榮新街135號沿線",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址疑似有排水溝掏空，已致前排房屋有前傾，嚴重地層下陷情況，建請查處並會同陳情人。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201139",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 03:41:43",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161201137",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/1 下午 03:26:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "旗津三路1050號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前有一貓隻遭撞已死亡，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 07:31:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129012",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 上午 07:30:02",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "中正北路40號到60號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中間有一狗屍，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 07:37:01",
     "Close_Date_": ""
   }
 ]
