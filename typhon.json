@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201226",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 11:36:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路(黃埔公園旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊停車格內有一具貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201225",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 11:33:51",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161201224",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/1 下午 11:15:01",
     "ReplyUnit_": "E01001",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路139巷41號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 01:01:12",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129100",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/29 下午 12:55:38",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄合街306號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址有五條電線從台電電桿垂落住家屋頂，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/29 14:08 台電鳳山區處鄭先生回報，該處非台電線路，而是廣播器電\r\n線，並已與里長說明，故改派非網A-TB-2016-111309 辦理；並於11/29 15：54電覆陳情人，故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 01:01:14",
-    "Close_Date_": "2016/11/29 下午 03:54:52"
   }
 ]
