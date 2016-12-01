@@ -1701,20 +1701,20 @@
   },
   {
     "FileNo_": "INS161201094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 11:49:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中學路上(近德昌路，寶雅斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處有一路樹懸掛廣告布條，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/01 13:21 旗山區清潔隊 陳秋娟小姐回報，已拆除完畢；本案不需回電\r\n 故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 11:52:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 07:37:19"
   },
   {
     "FileNo_": "INS161201093",
