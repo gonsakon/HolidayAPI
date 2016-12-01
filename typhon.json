@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161201146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 03:57:58",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "明福街17號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "地下道、路面積水(一)",
-    "BeforeDesc_": "渠反映該處有一汙水孔蓋目前在冒污水，尚未造成積水，建請查處。",
+    "BeforeDesc_": "渠反映該址前有一汙水孔蓋目前在冒污水，尚未造成積水，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 下午 04:03:45",
     "Close_Date_": ""
   },
   {
@@ -1565,20 +1565,20 @@
   },
   {
     "FileNo_": "INS161201053",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 09:50:38",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "瀨南街與富野路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有時不亮及有時變換燈號異常，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 14:20 交通局智慧運輸中心余晨璿小姐回報，已修復；並於12/01 \r\n16：03電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 09:53:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 04:03:51"
   },
   {
     "FileNo_": "INS161201052",
