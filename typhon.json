@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201062",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 10:15:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "西山里台鋁8巷台鋁中巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201061",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 10:10:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 06:54:07",
     "Close_Date_": "2016/11/28 下午 06:56:02"
-  },
-  {
-    "FileNo_": "INS161128230",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 06:36:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "中正路上(介壽路與必勝路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈均故障閃爍，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 06:37:42",
-    "Close_Date_": ""
   }
 ]
