@@ -86,19 +86,19 @@
   },
   {
     "FileNo_": "INS161201141",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 03:49:59",
     "ReplyUnit_": "B02000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "後昌路128號，郵局",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前排水溝的鐵蓋已鏽蝕，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 下午 04:16:23",
     "Close_Date_": ""
   },
   {
