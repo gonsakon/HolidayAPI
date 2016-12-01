@@ -919,20 +919,20 @@
   },
   {
     "FileNo_": "INS161201189",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 07:11:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "尚武與義勇路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈原為閃燈，現在為正常運作，疑似故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01  22：45  交通局智慧運輸中心簡世豪先生回報，該處已修復完畢，已將號誌\r\n改回之前運作模式。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 07:12:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 上午 07:49:54"
   },
   {
     "FileNo_": "INS161201188",
