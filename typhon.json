@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201047",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 09:40:42",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山區岡山路566巷3號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "妨害安寧",
+    "BeforeDesc_": "該住戶飼養流浪狗於騎樓 遇人車時及亂吠 驚嚇住戶與行人\n需要舉證可以跟我索取錄影檔",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201045",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 09:28:33",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161201031",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/12/1 上午 08:51:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "輕軌C3站，車牌消防栓旁",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，已使用黑色垃圾袋裝起，建請清除",
     "AfterDesc_": "",
@@ -2262,20 +2279,20 @@
   },
   {
     "FileNo_": "INS161130136",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 03:54:02",
     "ReplyUnit_": "E01005",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓新路242號",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "先前颱風把廣告帆布吹到纏在電線上，養工處派人修剪樹枝才發現",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 09：36經詢問台電1911曾先生表示，已派員處理完成。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 04:28:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 上午 09:40:29"
   },
   {
     "FileNo_": "INS161130135",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 05:58:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128215",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 05:54:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路與海專路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處發生車禍，路面有遺留紙箱等廢棄物，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/28  18：53 楠梓區清潔隊 彭永明先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 05:57:00",
-    "Close_Date_": "2016/11/28 下午 10:05:07"
   }
 ]
