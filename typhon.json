@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201077",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 10:47:04",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路15號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處溝蓋破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201076",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 上午 10:46:09",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161201075",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 10:45:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東二路，近美術南三路，公車站牌168",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一黑色垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 上午 10:47:13",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 07:50:32",
     "Close_Date_": "2016/11/29 上午 10:43:28"
-  },
-  {
-    "FileNo_": "INS161128245",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 07:40:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處路段有刺鼻的阿摩尼亞臭味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/28 21：37 環保局環境稽查科中區股楊竣安先生回報，稽查人員於20：41到達，稽\r\n查當時於沿線及周界巡視未發現上述空污情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 07:41:41",
-    "Close_Date_": "2016/11/30 下午 02:57:54"
   }
 ]
