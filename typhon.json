@@ -8093,20 +8093,20 @@
   },
   {
     "FileNo_": "INS161129184",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/29 下午 06:07:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "南寮路中山巷1弄72號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前沿線路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 17:02 養工處岡山養護工程隊康友淇先生回報，經查該處係台電供電問題，目前\r\n現場已正常放亮；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 06:08:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 06:57:09"
   },
   {
     "FileNo_": "INS161129183",
@@ -8144,20 +8144,20 @@
   },
   {
     "FileNo_": "INS161129181",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/29 下午 06:03:33",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣中街與愛國路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌故障閃爍，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/29 21：00 交通局智慧運輸中心黃泰郎先生回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 06:04:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 06:58:31"
   },
   {
     "FileNo_": "INS161129180",
