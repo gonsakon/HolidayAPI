@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161201081",
+    "FileNo_": "INS161201083",
     "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 11:19:24",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路7號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處斜坡道上有一水利局孔蓋旁破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161201081",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 11:18:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路403號(鴨肉羹)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家將排油煙管引入排水溝內,造成油煙溢散到周圍,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 上午 11:22:29",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 08:13:35",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128251",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 08:01:50",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "廣西路416號(慈明宮)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該廟宇屋頂排水管有一貓隻受困，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/28 20:34 陳情人進線說明已自行將排水管鋸開協助貓咪脫困，故無須人員前往\r\n救援。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 08:05:14",
-    "Close_Date_": "2016/11/29 上午 07:39:40"
   }
 ]
