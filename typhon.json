@@ -290,20 +290,20 @@
   },
   {
     "FileNo_": "INS161201226",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 11:36:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路(黃埔公園旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊停車格內有一具貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01 23:57 溝渠清潔隊李文山先生回報，已清除。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 11:37:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 上午 07:43:55"
   },
   {
     "FileNo_": "INS161201225",
@@ -324,20 +324,20 @@
   },
   {
     "FileNo_": "INS161201224",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 11:15:01",
     "ReplyUnit_": "E01001",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路139巷41號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01  23:34   農業局動物保護處史明德先生回報，人員到場時，該貓隻已死亡，\r\n需由環保局處理，故轉派INS161201227 辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 11:18:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 上午 07:44:09"
   },
   {
     "FileNo_": "INS161201223",
@@ -375,20 +375,20 @@
   },
   {
     "FileNo_": "INS161201221",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 11:00:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南華路與南榮路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01 23:38 溝渠清潔隊李文山先生回報，已清除。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 11:02:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 上午 07:44:23"
   },
   {
     "FileNo_": "INS161201220",
