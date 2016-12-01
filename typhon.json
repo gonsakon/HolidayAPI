@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201061",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 10:10:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201060",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 上午 10:09:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 06:37:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161128229",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 06:30:25",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建民路37號(高地商旅後門)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一黃色流浪犬徘徊，無法驅離且有欲攻擊情事，建請盡速捕捉。",
-    "AfterDesc_": "【主管解除管制】本案於11/28 21:13 農業局 動保處 陳三元先生回報，人員到場時，上述犬隻已自行跑離， \r\n難以捕捉，陳情人亦在現場了解狀況；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 06:33:11",
-    "Close_Date_": "2016/11/30 下午 03:18:57"
   }
 ]
