@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201179",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 06:18:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮德街239號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線兩段路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201178",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 下午 06:11:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 10:16:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129052",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/29 上午 09:59:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑里仁德路7巷前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "此路口為出入口，路面嚴重凹凸不平，影響行車安全~請儘速處理，以免影響安全",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 10:25:15",
     "Close_Date_": ""
   }
 ]
