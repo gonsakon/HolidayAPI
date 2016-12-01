@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161201163",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/1 下午 05:16:52",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區三多三路224號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛機車於人行道上違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 下午 05:39:16",
     "Close_Date_": ""
   },
   {
