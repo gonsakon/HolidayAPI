@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161202014",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 07:46:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "後港巷與八德西路口(往榮總方向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有一限高鐵架遭撞歪斜,請查處。",
+    "BeforeDesc_": "渠反映該處有一限高鐵架遭撞歪斜,未影響交通,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 上午 07:49:17",
     "Close_Date_": ""
   },
   {
@@ -596,20 +596,20 @@
   },
   {
     "FileNo_": "INS161201208",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 09:18:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東二路與美明路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01  22：45  交通局智慧運輸中心簡世豪先生回報，該處無危險性，經查現場僅\r\n有一方向綠燈不亮，因線路故障，需請廠商處理，現場仍有其他號誌可供觀看，故轉派非網A-TB-\r\n2016-112117 賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 09:19:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 上午 07:45:00"
   },
   {
     "FileNo_": "INS161201207",
@@ -657,7 +657,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人丟棄兩包垃圾，恐造成髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/01 21:19 苓雅區清潔隊施長興先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 08:59:10",
     "Close_Date_": ""
