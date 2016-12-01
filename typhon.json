@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161201200",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/1 下午 08:11:17",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "哨船街7巷內",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈(C02020 )不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/1 下午 08:12:33",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201199",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 08:11:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "民生路126號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址附近住家潑灑高濃度消毒水於路面上，造成該處消毒水異味溢散致空污情勢，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 下午 08:12:21",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 11:24:05",
     "Close_Date_": "2016/11/29 上午 11:34:50"
-  },
-  {
-    "FileNo_": "INS161129073",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/29 上午 11:06:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路469號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前快車道上有一個坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/29 11:40 養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處坑洞已修復；並於\r\n11/29 17：14電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 11:09:21",
-    "Close_Date_": "2016/11/29 下午 05:16:47"
   }
 ]
