@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201092",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 11:40:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "尚義街138號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處大樓柱旁已水溝阻塞滿溢，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201090",
     "Status_": "1",
     "Cre_Date_": "2016/12/1 上午 11:38:03",
@@ -953,14 +970,14 @@
   },
   {
     "FileNo_": "INS161201033",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/1 上午 08:59:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山溪(大東公園旁)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處溪水目前呈現黑色，建請查處。",
     "AfterDesc_": "",
@@ -4149,20 +4166,20 @@
   },
   {
     "FileNo_": "INS161130068",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 上午 11:02:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "北林路與世全路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有瓦斯異味，疑似一旁中油的油槽所致，建請會同查處。",
     "AfterDesc_": "【主管解除管制】本案於11/30 13：39 環保局公害專線杜淑文小姐回報，稽查人員於11：15會同陳情人到達，\r\n稽查當時未發現瓦斯異味，以PID檢測數值為0ppm；並於12/01 11：38電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 11:04:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 上午 11:42:45"
   },
   {
     "FileNo_": "INS161130067",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 08:39:07",
     "Close_Date_": "2016/11/28 下午 10:25:38"
-  },
-  {
-    "FileNo_": "INS161128259",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 08:31:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "建國一路與大順三路口(麥當勞前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處前有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/28 21:16 苓雅區清潔隊 施長興先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 08:32:18",
-    "Close_Date_": "2016/11/28 下午 09:58:08"
   }
 ]
