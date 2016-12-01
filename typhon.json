@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161201198",
+    "FileNo_": "INS161201199",
     "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 08:11:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "民生路126號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址附近住家潑灑高濃度消毒水於路面上，造成該處消毒水異味溢散致空污情勢，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161201198",
+    "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 08:10:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "廣東三街與黃埔街(竹西兒童公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處公園內園燈均故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/1 下午 08:11:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 11:09:21",
     "Close_Date_": "2016/11/29 下午 05:16:47"
-  },
-  {
-    "FileNo_": "INS161129071",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 上午 11:04:25",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路上，近中鋼東門大門右側(南下方向)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處人行道上有台電電線桿移除後附著地面之一小截電線突出路面，恐民眾行經跌倒已先行放置安全錐作為警示，望局處挖除重鋪，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 11:13:58",
-    "Close_Date_": ""
   }
 ]
