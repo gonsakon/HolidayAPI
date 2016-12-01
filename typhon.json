@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201202",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 下午 08:27:28",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "民族路上(客家文物館前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201201",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 下午 08:16:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 上午 11:18:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129075",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 上午 11:13:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "大同路428號",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址前有一號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 上午 11:14:23",
     "Close_Date_": ""
   }
 ]
