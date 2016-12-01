@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202007",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 06:48:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "春陽街231號(家御觀大樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映發現有一貓屍,已有報紙裝好暫放管理室,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202006",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 06:35:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 02:17:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129109",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 02:12:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路768巷16號旁巷子",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 02:15:03",
     "Close_Date_": ""
   }
 ]
