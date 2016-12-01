@@ -2398,20 +2398,20 @@
   },
   {
     "FileNo_": "INS161201052",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 09:48:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓波街52號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址前有一道路工程，惟機具聲過大，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/01 12:19 環保局 環境稽查科 胡清明先生回報，稽查人員於 11:15 到達，\r\n 現場為地下污水管線工程，稽查當時未使用機具致噪音情形，仍予以勸導加強防範；本案不需回電故解除\r\n 管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 09:52:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 07:39:35"
   },
   {
     "FileNo_": "INS161201051",
@@ -5339,20 +5339,20 @@
   },
   {
     "FileNo_": "INS161130102",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 01:35:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中學路上(近德昌路，寶雅斜對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處有一路樹遭懸掛疑似違法之廣告布條，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/30 14：31 旗山區清潔隊 陳秋娟小姐回報，該處布條已拆除完成；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 01:40:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 07:39:00"
   },
   {
     "FileNo_": "INS161130103",
@@ -6410,20 +6410,20 @@
   },
   {
     "FileNo_": "INS161130039",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 上午 09:06:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山火車站前地下道",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該地下道內有狗糞及髒亂未清掃,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 11/30 10:10 鳳山區清潔隊 賴培貞小姐回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 09:09:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 07:40:14"
   },
   {
     "FileNo_": "INS161130038",
