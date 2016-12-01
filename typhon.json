@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201045",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 09:28:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "中華陸橋上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線路面掉落磚頭，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201044",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 09:23:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 05:57:00",
     "Close_Date_": "2016/11/28 下午 10:05:07"
-  },
-  {
-    "FileNo_": "INS161128214",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/28 下午 05:48:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "苓雅一路404之4號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處道路刨除工程未事先公告導致現店家無法營業，人員又無法告知何時完工，望局處聯絡說明，建請查處。(要求局處人員盡速聯絡)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 05:50:05",
-    "Close_Date_": ""
   }
 ]
