@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161201095",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/1 上午 11:59:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161201094",
     "Status_": "2",
     "Cre_Date_": "2016/12/1 上午 11:49:50",
@@ -1378,14 +1395,14 @@
   },
   {
     "FileNo_": "INS161201012",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/1 上午 07:49:59",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中林路上往西，與中智路口、與中利街口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該二路口號誌燈故障不亮，請查處。",
     "AfterDesc_": "",
@@ -3928,20 +3945,20 @@
   },
   {
     "FileNo_": "INS161130085",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 上午 11:56:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建國一路與中山西路路口(近7-11)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處車道上有一犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/30 12:08 苓雅區清潔隊陳冠宏先生回報，現場有一位潘小姐已處理完成；並於\r\n12/01 11：58電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 11:58:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/1 下午 12:02:06"
   },
   {
     "FileNo_": "INS161130084",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/28 下午 08:53:27",
     "Close_Date_": "2016/11/28 下午 10:11:05"
-  },
-  {
-    "FileNo_": "INS161128263",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/28 下午 08:48:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "自由巷91號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，導致空氣污染，建請會同查處。(晚間22點之前可會同)",
-    "AfterDesc_": "【主管解除管制】本案於11/28 22:50 環保局環境稽查科北區股余泓陞先生回報，21:44致電陳情人，並與陳情\r\n人前往指定地點做巡查，當時未發現燃燒塑膠異味致空污情事；並於11/29 11：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/28 下午 08:51:21",
-    "Close_Date_": "2016/11/29 上午 11:05:05"
   }
 ]
