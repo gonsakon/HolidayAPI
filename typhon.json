@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161202120",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 02:50:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "同心路與民族二路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 下午 02:51:48",
     "Close_Date_": ""
   },
   {
@@ -7328,20 +7328,20 @@
   },
   {
     "FileNo_": "INS161130140",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 04:38:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "自由一路228號(天然成生物科技)前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處快車道上有兩坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 13:38 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已修復；並於\r\n12/02 12：50電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 04:40:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 下午 02:54:01"
   },
   {
     "FileNo_": "INS161130139",
