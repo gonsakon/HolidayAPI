@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161202049",
+    "FileNo_": "INS161202050",
     "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 09:56:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "秋山里1.明星街46號、2.民主橫路23號、3.民主橫路12號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前皆各有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161202049",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 09:53:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "公園二路與大安街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有民眾燃燒庫錢之灰燼，隨意紛飛致髒亂，建請查處。",
+    "BeforeDesc_": "渠反映該處有民眾燃燒庫錢之灰燼，隨意紛飛致附近髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 上午 09:56:13",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 05:15:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129152",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/29 下午 05:08:13",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中華四路75號(陽光大飯店)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前黃線與水溝蓋中間有一溝面破損坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 05:11:56",
     "Close_Date_": ""
   }
 ]
