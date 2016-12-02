@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202142",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/2 下午 04:18:42",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東五路與裕國街口",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口與美術東五路其他號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/2 下午 04:19:26",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202141",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 04:03:36",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161202128",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/2 下午 03:36:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中安路上，桂林汽車旅館往前鎮方向",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一狗屍，建請清除。",
     "AfterDesc_": "",
@@ -7481,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161130152",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/11/30 下午 05:10:17",
     "ReplyUnit_": "E01001",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "同安路374號前樹旁",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有隻剛出生之幼貓，已叫好幾天，附近皆未見母貓出沒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於11/30 22:40 農業局動物保護處捕犬大隊劉傳寶先生回報，經查該幼貓腳部有受傷，故\r\n將其送往動物醫院醫治；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 05:11:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 下午 04:21:55"
   },
   {
     "FileNo_": "INS161130151",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 10:47:07",
     "Close_Date_": "2016/12/1 下午 04:39:59"
-  },
-  {
-    "FileNo_": "INS161129244",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/29 下午 10:44:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "光華二路272號前",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處分隔島上有一盞LED共桿路燈故障不亮，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 10:46:37",
-    "Close_Date_": ""
   }
 ]
