@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202211",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 09:38:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "順安路、中華路、長興路(路科宿舍前)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處排水溝目前飄散惡臭異味，疑似遭偷排廢水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202210",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 09:33:24",
@@ -4404,14 +4421,14 @@
   },
   {
     "FileNo_": "INS161201179",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/1 下午 06:18:14",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "榮德街239號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處沿線兩段路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 10:36:33",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130061",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/30 上午 10:34:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "北林路(近焚化爐)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有瓦斯異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於11/30 10:53環保局環境稽查科南區股杜淑雯小姐回報，消防局於10:40前往，於10:48\r\n檢測現場數據值為0PPM；並於12/01 10：40電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 10:40:54",
-    "Close_Date_": "2016/12/1 上午 10:51:33"
   }
 ]
