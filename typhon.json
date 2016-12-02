@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161202152",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 05:06:43",
     "ReplyUnit_": "B02000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大成街29號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一溝蓋下陷，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 下午 05:08:38",
     "Close_Date_": ""
   },
   {
