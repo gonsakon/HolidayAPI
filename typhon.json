@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202195",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 08:48:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路72巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該巷口遭棄置許多垃圾包與回收物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202194",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 08:44:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 09:33:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130045",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 上午 09:30:08",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路未至澄和路190巷(陽明公園側)(陽明國中後方)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處台電孔蓋旁有一坑洞，已先以黃色漆標記，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 09:35:24",
     "Close_Date_": ""
   }
 ]
