@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202019",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 08:12:21",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "光遠路155巷旁鳳山溪(大東文化藝術中心附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處鳳山溪呈現黑色，恐有偷排廢水之情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202018",
     "Status_": "1",
     "Cre_Date_": "2016/12/2 上午 08:02:13",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 03:09:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129122",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 03:04:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "月光山隧道口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處入隧道前與入隧道後各有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 03:05:59",
     "Close_Date_": ""
   }
 ]
