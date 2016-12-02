@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202129",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 03:37:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "江都街65號、67號(對面之大路車道處)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處水溝附近飄散惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202128",
     "Status_": "1",
     "Cre_Date_": "2016/12/2 下午 03:36:20",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161202127",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 03:32:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路142號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址前遭民眾棄置垃圾包，惟垃圾包內疑似有相關帳單，盼請局處派員查察，建請查處。(請單位人員到場與其聯繫)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 下午 03:36:24",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 08:53:06",
     "Close_Date_": "2016/12/1 下午 04:45:00"
-  },
-  {
-    "FileNo_": "INS161129231",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/29 下午 08:50:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "廣西街131號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址住家後方有一盞路燈閃爍故障，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/01 13:00 養工處四維養護工程隊九如分隊林泉先生回報，該處已修復完\r\n成；並於12/01 14：27電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 08:51:31",
-    "Close_Date_": "2016/12/1 下午 02:27:52"
   }
 ]
