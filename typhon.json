@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202163",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 05:52:29",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區三多一路127號人行道上",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "惡霸機車行霸佔人行道，多輛機車違規停車，還有無牌照機車違規佔用人行道",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202162",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 05:46:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 07:53:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130013",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 上午 07:38:00",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "輔仁路與明德街",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一空地正進行不明工程開挖地下水管線，建請稽查。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 07:45:23",
     "Close_Date_": ""
   }
 ]
