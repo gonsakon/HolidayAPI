@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202049",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 09:53:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "公園二路與大安街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有民眾燃燒庫錢之灰燼，隨意紛飛致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202048",
     "Status_": "1",
     "Cre_Date_": "2016/12/2 上午 09:52:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 05:11:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129151",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 05:01:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "凱國路65巷13號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭民眾堆放垃圾逾1個月，未見人員處理，望局處查察開單，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 05:08:17",
     "Close_Date_": ""
   }
 ]
