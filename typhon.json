@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202024",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 08:55:37",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路橋，文藻門口前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一金黃色犬隻掉落入溝內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202023",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 上午 08:49:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 03:27:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129126",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 03:26:12",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路492號前",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人手孔凹陷",
-    "BeforeDesc_": "渠反映該路面有一不明長方形孔蓋周邊有下陷與鬆動噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 03:28:01",
     "Close_Date_": ""
   }
 ]
