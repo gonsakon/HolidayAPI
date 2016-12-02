@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202048",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 上午 09:52:10",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大寮區內坑里仁忠路與崇恩路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "此為綠地，雜草叢生，一堆垃圾，孶生蚊蟲，麻煩儘速處理~謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202047",
     "Status_": "1",
     "Cre_Date_": "2016/12/2 上午 09:50:28",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161202011",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/2 上午 07:23:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路三段與澄觀路二段口，及往高雄下一路口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處兩連續路口號誌不連鎖，造成塞車，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 05:08:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129150",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 05:00:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "錦田路37號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前一盞路燈上方燈罩已掀開，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 05:15:39",
     "Close_Date_": ""
   }
 ]
