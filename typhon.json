@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202145",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 04:25:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "修武街36之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "S 三民區 2F烘豆味道",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202144",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 04:21:27",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161202120",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/2 下午 02:50:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "同心路與民族二路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一盞號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -2041,20 +2058,20 @@
   },
   {
     "FileNo_": "INS161202023",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 上午 08:49:39",
     "ReplyUnit_": "A01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路上近建德路口，往民族路",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處於慢車道有進行挖管工程已完竣，惟因回填不實致有凹陷與原路面落差，恐生騎士危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 11:20 工務局工程企劃處第六課張淮軒先生回報，該處無危險性，然現場路面確\r\n實有凹陷，惟目前無法判定施工單位，無法立即修復，後續將持續追蹤並請施工單位進行修復，故改派非網A-\r\nTB-2016-112227賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 08:53:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 下午 04:28:18"
   },
   {
     "FileNo_": "INS161202022",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/29 下午 11:00:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161129247",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/29 下午 10:59:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "松浦路1巷1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞LED路燈(編號：0197)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/29 下午 11:00:48",
     "Close_Date_": ""
   }
 ]
