@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161202164",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 下午 05:54:53",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "806高雄市前鎮區三多二路433號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多輛機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "此案與派工INS161202163相同，併案處理。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 06:07:23",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/2 下午 06:14:57"
   },
   {
     "FileNo_": "INS161202163",
