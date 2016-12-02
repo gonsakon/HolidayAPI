@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161202155",
+    "FileNo_": "INS161202157",
     "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 05:22:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路上，從竹楠路上往西方向到涵洞前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處路段快車道上沿線多處路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161202155",
+    "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 05:19:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "隆斌街與瑞隆路607巷口(隆斌街112號旁有放盆栽的路面)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該處路面有許多菸蒂髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/2 下午 05:24:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 05:29:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130007",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/30 上午 04:50:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文自路與重信路交叉口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路口有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 11/30 05:28 環保局 溝渠隊 杜金華先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 04:51:26",
-    "Close_Date_": "2016/11/30 上午 05:29:22"
   }
 ]
