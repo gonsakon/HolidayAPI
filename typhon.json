@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202159",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 05:31:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "九曲里九曲路269號右前方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮(九曲幹62Q2412HB39)，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202158",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 05:28:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 07:24:32",
     "Close_Date_": "2016/11/30 下午 02:09:37"
-  },
-  {
-    "FileNo_": "INS161130009",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 上午 06:57:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "竹圍西街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該路段周邊沿線路燈故障未熄，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 06:59:14",
-    "Close_Date_": ""
   }
 ]
