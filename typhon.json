@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202224",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 10:39:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "大仁北路與大德一路(大德一路上，近東側)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處位於快車道近停止線間，路面有一凹陷處，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202223",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 10:31:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 11:29:35",
     "Close_Date_": "2016/12/2 下午 04:13:05"
-  },
-  {
-    "FileNo_": "INS161130074",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/30 上午 11:26:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲三路295巷上近五福二路70巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "五甲三路295巷 五福二路70巷馬路轉角處有圓形凹陷",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 12:01:02",
-    "Close_Date_": ""
   }
 ]
