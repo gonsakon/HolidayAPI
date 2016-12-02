@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203005",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/3 上午 04:20:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "苓雅一路上(四維立體停車場附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處不明機器設備運轉聲響過大，致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/3 上午 04:21:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203004",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 上午 03:22:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 12:22:45",
     "Close_Date_": "2016/12/1 下午 07:59:47"
-  },
-  {
-    "FileNo_": "INS161130091",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 12:18:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路26號之1(鳳凰居大樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該大樓前有住戶在燃燒金紙造成空污，望局處加強勸導大樓住戶，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 12:21:05",
-    "Close_Date_": ""
   }
 ]
