@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161202228",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/2 下午 10:59:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟三路上，近建國三路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161202226",
     "Status_": "2",
     "Cre_Date_": "2016/12/2 下午 10:51:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/30 上午 11:46:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130077",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/30 上午 11:39:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "常盛街上靠近中山路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面上有4至5個坑洞，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 上午 11:40:28",
     "Close_Date_": ""
   }
 ]
