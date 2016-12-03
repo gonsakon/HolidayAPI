@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161203192",
+    "FileNo_": "INS161203193",
     "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 10:11:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路與至聖路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161203192",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 10:08:41",
     "ReplyUnit_": "E01001",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "中洲三路340號後方",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映有民眾於該處遭流浪犬咬傷，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 10:11:04",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 09:53:04",
     "Close_Date_": "2016/12/1 下午 04:03:51"
-  },
-  {
-    "FileNo_": "INS161201052",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 上午 09:48:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓波街52號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址前有一道路工程，惟機具聲過大，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/01 12:19 環保局 環境稽查科 胡清明先生回報，稽查人員於 11:15 到達，\r\n 現場為地下污水管線工程，稽查當時未使用機具致噪音情形，仍予以勸導加強防範；本案不需回電故解除\r\n 管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 上午 09:52:19",
-    "Close_Date_": "2016/12/1 下午 07:39:35"
   }
 ]
