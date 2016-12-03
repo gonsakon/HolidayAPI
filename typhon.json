@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203088",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 12:38:01",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "高雄公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該園噴水池內有老鼠屍、魚屍，望清除，有時看不見，請搜尋人行步道下方，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203087",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 12:21:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 06:07:48",
     "Close_Date_": "2016/12/1 上午 07:53:52"
-  },
-  {
-    "FileNo_": "INS161130173",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 06:03:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "桂江街41號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前多盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 06:04:39",
-    "Close_Date_": ""
   }
 ]
