@@ -7702,20 +7702,20 @@
   },
   {
     "FileNo_": "INS161201144",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 03:52:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "伊犁街115巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址巷口電箱旁，遭人丟棄3到4張的椅子，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 16:59鼓山區清潔隊陳麗琴小姐回報，已派車前往清運完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 03:54:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 05:18:31"
   },
   {
     "FileNo_": "INS161201143",
