@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203118",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 03:30:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁勇路149號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映行經該路段車輛夾帶泥沙未灑水，造成該處塵土飛揚，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203117",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 03:26:10",
@@ -8025,20 +8042,20 @@
   },
   {
     "FileNo_": "INS161201107",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 下午 12:48:18",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中一路280號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有污水管阻塞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/2 09:39 水利局污水營運科鄭婷云小姐回報，該處已修復完畢；並於\r\n12/03 15：30電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 12:50:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 03:30:09"
   },
   {
     "FileNo_": "INS161201106",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 09:27:57",
     "Close_Date_": "2016/12/1 上午 07:48:09"
-  },
-  {
-    "FileNo_": "INS161130205",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 08:48:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新路2之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一路面隆起，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 08:49:43",
-    "Close_Date_": ""
   }
 ]
