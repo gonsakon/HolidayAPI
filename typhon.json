@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161203093",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 01:31:56",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "本和街132號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處前方有一台電孔蓋鬆動致噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 01:34:24",
     "Close_Date_": ""
   },
   {
