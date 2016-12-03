@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161203201",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 11:29:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
-    "address_": "路竹區順安路、中華路、長興路(路科宿舍前)",
+    "address_": "順安路、中華路、長興路(路科宿舍前)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前飄散化學惡臭異味，疑似遭偷排廢水，建請查處。",
+    "BeforeDesc_": "渠反映該處目前飄散化學惡臭異味，疑似遭偷排廢水所致，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 11:31:30",
     "Close_Date_": ""
   },
   {
