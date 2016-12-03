@@ -3418,20 +3418,20 @@
   },
   {
     "FileNo_": "INS161202212",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 下午 09:42:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "苓雅二路與中華四路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌均故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 23:06交通局智慧運輸中心張寬如小姐回報，該處號誌已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 09:42:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 08:53:08"
   },
   {
     "FileNo_": "INS161202211",
