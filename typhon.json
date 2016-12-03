@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203151",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 06:21:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "學專路309之2號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址門口前有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203150",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 06:18:36",
@@ -8977,37 +8994,37 @@
   },
   {
     "FileNo_": "INS161201084",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 11:23:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路34之2號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址圍牆邊遭丟棄四包垃圾包，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 12:01新興區清潔隊葉惠珍小姐回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 11:31:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 06:23:32"
   },
   {
     "FileNo_": "INS161201082",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 11:21:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "崇實新村",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映現該崇實新村內仍有許多較粗大樹枝樹幹未清除，而該情況於風災後至今仍未處理，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/1 13：43養工處四維養護工程隊左楠養護分隊李幸芳小姐回報，該處無危險性，惟需發\r\n包請廠商處理，無法於時間內完成，故轉非網A-TB-2016-111964後續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 11:30:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 06:22:47"
   },
   {
     "FileNo_": "INS161201083",
@@ -9130,20 +9147,20 @@
   },
   {
     "FileNo_": "INS161201075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/1 上午 10:45:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東二路，近美術南三路，公車站牌168",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一黑色垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/01 11:09鼓山區清潔隊陳尚青先生回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 10:47:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 06:21:57"
   },
   {
     "FileNo_": "INS161201074",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 07:54:21",
     "Close_Date_": "2016/12/3 下午 05:12:45"
-  },
-  {
-    "FileNo_": "INS161201012",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 上午 07:49:59",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中林路上往西，與中智路口、與中利街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該二路口號誌燈故障不亮，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/01 12:00 智慧運輸中心 余晨璿小姐回報，該處已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 上午 07:53:51",
-    "Close_Date_": "2016/12/3 下午 05:12:58"
   }
 ]
