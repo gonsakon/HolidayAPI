@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161203164",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 07:25:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "永平路與永平路12巷口(舊衣回收箱旁)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人堆放垃圾包、桌椅與木板致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 07:27:08",
     "Close_Date_": ""
   },
   {
@@ -6427,20 +6427,20 @@
   },
   {
     "FileNo_": "INS161202020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 上午 08:16:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "成功一路與興中二路口(興中二路上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌綠燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 09：36交通局智慧運輸中心余晨璿小姐回報，該處已修復完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 08:20:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 07:27:16"
   },
   {
     "FileNo_": "INS161202019",
