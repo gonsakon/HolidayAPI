@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203120",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 03:44:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路成功路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "秒差調整",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203119",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 03:39:29",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161203110",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/3 下午 02:58:38",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民享街97號(佐佐義餐廳)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該店家汙水管阻塞不通，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 09:26:08",
     "Close_Date_": "2016/12/1 上午 07:47:39"
-  },
-  {
-    "FileNo_": "INS161130207",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/30 下午 09:00:05",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路202號(DHL服務中心前)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌燈與前後不連鎖，建請查處。",
-    "AfterDesc_": "【主管解除管制】11/30 22:57 交通局智慧運輸中心張寬如小姐回報，該處已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 09:40:12",
-    "Close_Date_": "2016/12/1 上午 07:47:55"
   }
 ]
