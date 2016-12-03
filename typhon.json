@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203124",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/3 下午 04:02:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "修武街36之1號2樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家炒咖啡豆致空污，建請查處，。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/3 下午 04:05:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203123",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 03:59:12",
@@ -35,17 +52,17 @@
   },
   {
     "FileNo_": "INS161203120",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/3 下午 03:44:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路成功路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "秒差調整",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，經查中華五路與成功路為兩平行路段，因電話暫停使用無法確認路段及通報事項，倘您對本案處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 04:04:06",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 09:37:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130210",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 09:19:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中庸街(介於九如三路與中華橫路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 09:20:42",
     "Close_Date_": ""
   }
 ]
