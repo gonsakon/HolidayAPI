@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161203092",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 01:23:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "仁愛三街277號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶房屋整修，榔頭敲打牆壁持續的噪音，建請查處。",
+    "BeforeDesc_": "渠反映該址住戶房屋整修，機具敲打牆壁持續的噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 01:26:27",
     "Close_Date_": ""
   },
   {
