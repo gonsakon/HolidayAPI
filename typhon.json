@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203056",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 上午 10:04:13",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路565號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203050",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 上午 09:55:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 04:21:10",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130136",
-    "Status_": "5",
-    "Cre_Date_": "2016/11/30 下午 03:54:02",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓新路242號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "先前颱風把廣告帆布吹到纏在電線上，養工處派人修剪樹枝才發現",
-    "AfterDesc_": "【主管解除管制】本案於12/01 09：36經詢問台電1911曾先生表示，已派員處理完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 04:28:51",
-    "Close_Date_": "2016/12/1 上午 09:40:29"
   }
 ]
