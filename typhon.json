@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 06:36:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "觀音山登山入口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處疑似有燃燒塑膠異味致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203154",
     "Status_": "1",
     "Cre_Date_": "2016/12/3 下午 06:34:56",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161203153",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 06:33:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段447巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一道路刨除工程，惟因標示不清恐致危險，望局處加派警示，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 06:35:45",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 上午 08:20:59",
     "Close_Date_": "2016/12/1 下午 05:28:48"
-  },
-  {
-    "FileNo_": "INS161201016",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 上午 08:12:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大寮區內坑路77-36號旁與里內多支路燈故障(里長帶路)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "里內多支路燈已故障很久，麻煩儘速處理，謝謝",
-    "AfterDesc_": "【主管解除管制】本案於12/03 15：10 養工處鳳山養護工程隊韓莉梅小姐回報，該處已修復完畢；並\r\n於12/03 15：26電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 上午 09:04:31",
-    "Close_Date_": "2016/12/3 下午 03:26:50"
   }
 ]
