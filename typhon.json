@@ -5815,20 +5815,20 @@
   },
   {
     "FileNo_": "INS161202057",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 上午 10:30:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "水管路29.5K處",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處沿線路燈白天未熄，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/03 16:07養工處鳳山養護工程隊劉緯婕小姐回報，該處已由台電修復完成；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 10:31:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 07:40:55"
   },
   {
     "FileNo_": "INS161202055",
@@ -5900,20 +5900,20 @@
   },
   {
     "FileNo_": "INS161202052",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 上午 10:13:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路上(往南方向，未過民益路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處內側車道掉落一塊120公分長、10公分寬之T字形大木頭，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 10:41小港區清潔隊吳華梅小姐回報，該處已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 10:23:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 07:40:31"
   },
   {
     "FileNo_": "INS161202051",
