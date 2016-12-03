@@ -5798,20 +5798,20 @@
   },
   {
     "FileNo_": "INS161202058",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 上午 10:32:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "和山路471號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該址前下坡處沿線路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/03 16:07養工處鳳山養護工程隊劉緯婕小姐回報，該處已由台電修復完成；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 10:34:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 07:41:25"
   },
   {
     "FileNo_": "INS161202057",
