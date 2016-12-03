@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161203122",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 下午 04:02:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學東路與大學二十六街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有兩支路燈高處遭建置大型廣告看板，附近已有養工處人員正在拆除廣告看板，望局處一併處理，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203123",
     "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 03:59:12",
@@ -52,20 +69,20 @@
   },
   {
     "FileNo_": "INS161203120",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 03:44:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路成功路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "秒差調整",
     "AfterDesc_": "感謝您的反映，經查中華五路與成功路為兩平行路段，因電話暫停使用無法確認路段及通報事項，倘您對本案處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 04:04:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 04:06:49"
   },
   {
     "FileNo_": "INS161203119",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 09:46:39",
     "Close_Date_": "2016/12/1 上午 07:46:15"
-  },
-  {
-    "FileNo_": "INS161130211",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 09:35:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國三路(介於中庸街至市中一路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段共三盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 09:37:04",
-    "Close_Date_": ""
   }
 ]
