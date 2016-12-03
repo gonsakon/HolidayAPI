@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203035",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 上午 09:06:56",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義華路壽昌路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障，有時不亮有時全亮紅燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203034",
     "Status_": "1",
     "Cre_Date_": "2016/12/3 上午 09:05:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 03:18:40",
     "Close_Date_": "2016/12/1 下午 12:53:48"
-  },
-  {
-    "FileNo_": "INS161130119",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/30 下午 03:17:38",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路29巷1號旁(靠巷口那一個)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋凹陷,踩踏會搖動,恐有危險,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 03:20:35",
-    "Close_Date_": ""
   }
 ]
