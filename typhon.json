@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161203185",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 下午 09:04:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "中山路一段461巷59號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈有忽亮忽滅情況，且也會閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 下午 09:06:23",
     "Close_Date_": ""
   },
   {
@@ -2772,20 +2772,20 @@
   },
   {
     "FileNo_": "INS161203020",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 上午 08:27:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路43巷7弄15之1號後方(出入口於大昌二路上)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有店家施工之機具及切割噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/03 11:47環保局環境稽查科中區股吳政翰回報，稽查人員於11:30到達，稽查當\r\n時業者作業中，因現場車流量過大不易量測分貝，仍勸導業者注意防範以維近鄰安寧；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 08:29:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 09:07:20"
   },
   {
     "FileNo_": "INS161203019",
@@ -2806,20 +2806,20 @@
   },
   {
     "FileNo_": "INS161203018",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 上午 08:15:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路775號至外環東路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該路段沿線兩側遭綁A4紙張大小的違規售屋廣告，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/03 12:25楠梓區清潔隊陳瑞生先生回報，再次巡查，已清除完畢；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 08:18:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 09:06:27"
   },
   {
     "FileNo_": "INS161203017",
