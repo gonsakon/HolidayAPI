@@ -5118,20 +5118,20 @@
   },
   {
     "FileNo_": "INS161202109",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/2 下午 01:41:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "中正路與旗文路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/02 13:45交通局智慧運輸中心余晨璿小姐回報，該處為台電停電所致，現場已經安裝發\r\n電機，故已正常放亮運作；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 01:42:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/3 下午 08:27:32"
   },
   {
     "FileNo_": "INS161202108",
