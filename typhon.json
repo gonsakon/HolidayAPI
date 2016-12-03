@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161203082",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/3 上午 11:44:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍昌路上(藍田路至大學二十八街之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該處路燈與路牌，遭綁廣告看板(250公分*80公分)，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161203080",
     "Status_": "1",
     "Cre_Date_": "2016/12/3 上午 11:43:39",
@@ -902,14 +919,14 @@
   },
   {
     "FileNo_": "INS161203027",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/3 上午 08:52:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮安街20號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有鑽牆機具噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 05:55:16",
     "Close_Date_": "2016/12/2 下午 06:04:15"
-  },
-  {
-    "FileNo_": "INS161130166",
-    "Status_": "3",
-    "Cre_Date_": "2016/11/30 下午 05:51:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福興23之11號前(忠孝路二段往下九寮方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 05:54:41",
-    "Close_Date_": ""
   }
 ]
