@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161203044",
+    "FileNo_": "INS161203046",
     "Status_": "1",
+    "Cre_Date_": "2016/12/3 上午 09:51:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔北巷9之11號對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊遭人丟棄垃圾包與回收物，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161203044",
+    "Status_": "2",
     "Cre_Date_": "2016/12/3 上午 09:49:05",
     "ReplyUnit_": "E01002",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金獅湖風景區內面對道德院左側",
     "UnitName_": "觀光局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "風景區設備損壞有立即危險者",
     "BeforeDesc_": "渠反映該處這一大片有多盞園燈，陳情人擔心老人行經跌倒，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/3 上午 09:53:58",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/11/30 下午 03:50:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161130130",
-    "Status_": "4",
-    "Cre_Date_": "2016/11/30 下午 03:44:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路541號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該址前路口轉角處人行道上的車阻已斷裂，且斷裂處亦有積水恐孳生蚊蟲產生登革熱疫情，望請貴單位盡速修補，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/11/30 下午 03:55:52",
     "Close_Date_": ""
   }
 ]
