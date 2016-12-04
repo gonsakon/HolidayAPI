@@ -1,12 +1,12 @@
 [
   {
-    "FileNo_": "INS161204069",
+    "FileNo_": "INS161204070",
     "Status_": "1",
-    "Cre_Date_": "2016/12/4 下午 12:26:03",
+    "Cre_Date_": "2016/12/4 下午 12:27:21",
     "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維四路永平路",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路263巷",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "噪音",
@@ -14,6 +14,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161204069",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/4 下午 12:26:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維四路與永平路",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處目前有工地使用機具致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/4 下午 12:27:35",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 03:05:15",
     "Close_Date_": "2016/12/2 上午 10:08:24"
-  },
-  {
-    "FileNo_": "INS161201133",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 下午 03:02:14",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "明福街48號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處大樓前有一台電孔蓋旁不斷溢水，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/01 15:24 台電高雄區處葉先生回報，人員勘查確認該處為污水孔蓋冒\r\n水，為水利局權責，故改派INS161201138賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 下午 03:05:10",
-    "Close_Date_": "2016/12/1 下午 04:22:06"
   }
 ]
