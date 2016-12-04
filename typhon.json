@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161205002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 01:29:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "華榮路與華夏路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍油漬，建請查處。(警方仍在場)",
     "AfterDesc_": "【主管解除管制】環保局溝渠隊杜金華先生於12/05 02:39回報：已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 01:31:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 02:40:24"
   },
   {
     "FileNo_": "INS161205001",
