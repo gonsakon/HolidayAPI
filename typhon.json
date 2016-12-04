@@ -1310,20 +1310,20 @@
   },
   {
     "FileNo_": "INS161204097",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 04:08:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路與光興街口，明誠二路上",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口號誌與前後不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 17：48 交通局智慧運輸中心康智傑先生回報，該處已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 04:09:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 07:41:00"
   },
   {
     "FileNo_": "INS161204096",
