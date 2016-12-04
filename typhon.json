@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161204052",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/4 上午 10:29:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處宮廟12/3晚目前焚燒紙錢致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161204049",
     "Status_": "2",
     "Cre_Date_": "2016/12/4 上午 10:26:36",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161204050",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/4 上午 10:25:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "前鋒路往本州工業區，過中油加油站往橋上走",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路段路面有油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/4 上午 10:30:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 01:40:05",
     "Close_Date_": "2016/12/3 下午 05:16:00"
-  },
-  {
-    "FileNo_": "INS161201114",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/1 下午 01:35:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "中山路二段632巷50號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 下午 01:37:32",
-    "Close_Date_": ""
   }
 ]
