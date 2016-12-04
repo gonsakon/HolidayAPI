@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161204119",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 05:55:40",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802苓雅區光華一路26號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "本案已於12/04 18:47代通報至110勤務指揮中心國警員成功。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 06:49:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/4 下午 06:49:45"
   },
   {
     "FileNo_": "INS161204118",
