@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161205016",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/5 上午 07:49:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街與山東街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161205012",
     "Status_": "2",
     "Cre_Date_": "2016/12/5 上午 07:40:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 上午 07:13:38",
     "Close_Date_": "2016/12/3 上午 12:00:22"
-  },
-  {
-    "FileNo_": "INS161202007",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/2 上午 06:48:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "春陽街231號(家御觀大樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映發現有一貓屍,已有報紙裝好暫放管理室,請查處。",
-    "AfterDesc_": "【主管解除管制】12/02  07：04 三民東區清潔隊趙美佐小姐回報，該處已清除完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 上午 06:51:32",
-    "Close_Date_": "2016/12/2 上午 07:33:16"
   }
 ]
