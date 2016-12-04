@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161204037",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/4 上午 09:39:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "123",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161204036",
     "Status_": "2",
     "Cre_Date_": "2016/12/4 上午 09:36:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 12:27:49",
     "Close_Date_": "2016/12/3 下午 06:30:22"
-  },
-  {
-    "FileNo_": "INS161201100",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 下午 12:19:50",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "尚義街138號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址前汙水管阻塞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/1 15：54 水利局污水營運科鄭婷云小姐回報，該處已修復完畢；並於\r\n12/01 16：10電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 下午 12:22:00",
-    "Close_Date_": "2016/12/1 下午 04:11:01"
   }
 ]
