@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161204151",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/4 下午 10:10:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "智昌街38巷2號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161204150",
     "Status_": "2",
     "Cre_Date_": "2016/12/4 下午 09:54:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 09:44:14",
     "Close_Date_": "2016/12/2 下午 11:57:24"
-  },
-  {
-    "FileNo_": "INS161201211",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/1 下午 09:39:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河堤路510號對面，河堤公園內",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處公園內有攤販擺攤販售物品，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/02 01：52 四維養護工程隊陳錦茸小姐回報，該處攤販皆已勸離。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 下午 09:41:21",
-    "Close_Date_": "2016/12/2 上午 07:44:36"
   }
 ]
