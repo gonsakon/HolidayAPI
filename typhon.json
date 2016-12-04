@@ -1446,20 +1446,20 @@
   },
   {
     "FileNo_": "INS161203197",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 11:00:33",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高松路17號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前因車禍有一狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】\r\n12/03 23:14 陳情人進線表示，狗屍已由該處住戶自行清除完畢，無需前往清除，故結案。\r\n12/03 23:15 通報溝渠隊林漢宗先生成功，並轉知。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 11:01:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/4 下午 02:33:21"
   },
   {
     "FileNo_": "INS161203196",
