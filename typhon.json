@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161204158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/4 下午 11:32:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大同路550號沿線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處路段沿線路燈均故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161204157",
     "Status_": "2",
     "Cre_Date_": "2016/12/4 下午 11:02:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/1 下午 10:47:21",
     "Close_Date_": "2016/12/3 下午 05:20:43"
-  },
-  {
-    "FileNo_": "INS161201218",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/1 下午 10:34:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "球場路與本松街",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/1 下午 10:37:14",
-    "Close_Date_": ""
   }
 ]
