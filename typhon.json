@@ -766,20 +766,20 @@
   },
   {
     "FileNo_": "INS161204126",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 06:26:16",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山路201號(寶島眼鏡)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一受傷貓隻跑進店家內的儲藏室，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 18:54 農業局動物保護處捕犬大隊史明育先生回報，已帶上車要送往動物醫\r\n院。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 06:28:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 07:23:32"
   },
   {
     "FileNo_": "INS161204125",
@@ -936,20 +936,20 @@
   },
   {
     "FileNo_": "INS161204116",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 05:50:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路367巷(近右昌大橋)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處飄散油煙異味致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 20: 環保局環境稽查科楊昌翰先生回報，稽查人員於19:22到達，稽查時於所\r\n述巷道及附近路段來回巡查，未發現有油煙異味飄散導致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 05:53:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 07:23:48"
   },
   {
     "FileNo_": "INS161204115",
@@ -1055,20 +1055,20 @@
   },
   {
     "FileNo_": "INS161204109",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 05:32:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "長樂街26號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址店家有一沒有項圈的拉不拉多犬隻無法驅離，一直要跑進店家裡，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 18:30 農業局動物保護處捕犬大隊史明義先生回覆：該犬隻已帶回。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 05:34:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 07:24:08"
   },
   {
     "FileNo_": "INS161204108",
