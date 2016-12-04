@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161205016",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 上午 07:49:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "熱河一街與山東街",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌燈呈現閃燈，未有三色號誌運作，疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 上午 07:53:18",
     "Close_Date_": ""
   },
   {
@@ -1463,20 +1463,20 @@
   },
   {
     "FileNo_": "INS161204089",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 03:36:28",
     "ReplyUnit_": "A04000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中興路二段上，美濃交流道橋下，往國十方向",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌燈約五、六分鐘之久，造成交通阻塞，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 19:09 交通局智慧運輸中心康智傑先生回報，經人員查看，需報廠商搶修，\r\n無法立即完成，故改派非網A-TB-2016-112822賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 03:38:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 07:52:06"
   },
   {
     "FileNo_": "INS161204088",
