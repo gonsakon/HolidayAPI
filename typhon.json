@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161204056",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/4 上午 10:53:09",
-    "ReplyUnit_": "E01000",
+    "ReplyUnit_": "E01001",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
-    "address_": "民族路",
-    "UnitName_": "消防局",
-    "StatusName_": "建立中",
-    "InformDesc_": "動物受傷、受困、挨餓",
-    "BeforeDesc_": "",
+    "address_": "民生路與民權路口(阿蓮衛生所附近)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址有隻黑色流浪犬後腳遭撞受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/4 上午 10:56:33",
     "Close_Date_": ""
   },
   {
