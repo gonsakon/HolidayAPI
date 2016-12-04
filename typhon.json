@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161204161",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 11:45:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松崗路50號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠異味，導致空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/05 01：46 環保局環境稽查科南區股潘星宇先生回報，稽查人員於01：20到達，\r\n稽查時於上址周界巡視未發現燃燒塑膠致空污情事，並使用PID儀器量測為0PPM。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 11:48:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 上午 06:59:24"
   },
   {
     "FileNo_": "INS161204160",
