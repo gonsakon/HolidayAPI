@@ -2058,20 +2058,20 @@
   },
   {
     "FileNo_": "INS161205041",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 09:21:29",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "金福路與草衙三路口",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一台電孔蓋邊疑似有釘子凸起物，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 10:19 台電鳳山處吳先生回報，該處凸起物已修復；並於12/5 17：34電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:26:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 05:36:06"
   },
   {
     "FileNo_": "INS161205040",
