@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161206011",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 07:49:29",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "廠西路47巷6號及4號對面",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電線桿保護電線管套掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 上午 07:54:18",
     "Close_Date_": ""
   },
   {
@@ -494,20 +494,20 @@
   },
   {
     "FileNo_": "INS161205213",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 10:11:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路543巷27號(戴克斯特河堤店)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址自助洗衣店目前營業致機具噪音，建請會同。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/05  23：29 環保局環境稽查科中區股陳彥州先生回報，稽查人員於22：37到\r\n達，致電並會同陳情人，稽查當時該店為一投幣式自助洗衣店，惟大門深鎖，且店外皆有標示營業時\r\n間為08點至22點間，後續向陳情人說明處理情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 10:14:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 07:57:40"
   },
   {
     "FileNo_": "INS161205212",
