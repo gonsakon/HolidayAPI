@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161205226",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 10:52:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁孝路與赤貴街交叉口，仁孝路上",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈綠燈一邊不亮，一邊閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 下午 10:54:23",
     "Close_Date_": ""
   },
   {
@@ -82,6 +82,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 10:52:47",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161205221",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/5 下午 10:48:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "五福二路149號至183號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處沿線人行道上路燈皆故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/5 下午 10:54:02",
     "Close_Date_": ""
   },
   {
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161205206",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/5 下午 09:11:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "仁愛路二段2巷1號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮達半個月，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 10:09:14",
     "Close_Date_": "2016/12/5 下午 01:54:23"
-  },
-  {
-    "FileNo_": "INS161202216",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/2 下午 10:05:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正忠路150巷11號、27號、152號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映共有三盞路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/05 09:17 養工處四維養護工程隊值班人員陳錦茸小姐回報，該處無立即危險性，惟\r\n因地下管線異常需查修，故改派非網A-TB-2016-112922賡續辦理；並於12/5 13：50電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 10:09:08",
-    "Close_Date_": "2016/12/5 下午 01:57:21"
   }
 ]
