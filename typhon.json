@@ -17,23 +17,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161205107",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/5 下午 12:46:24",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大仁路164號",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址前車輛3800-HD，車主將犬隻留置於車內，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161205106",
     "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 12:39:13",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 12:52:46",
     "Close_Date_": "2016/12/3 下午 08:02:07"
+  },
+  {
+    "FileNo_": "INS161202100",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/2 下午 12:50:48",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森二路97巷46號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "處理完成",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/2 下午 12:53:35",
+    "Close_Date_": ""
   }
 ]
