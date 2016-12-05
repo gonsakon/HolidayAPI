@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161205170",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 05:59:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建興路22巷內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處巷內一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 下午 06:04:14",
     "Close_Date_": ""
   },
   {
@@ -1497,20 +1497,20 @@
   },
   {
     "FileNo_": "INS161205083",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 11:10:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大社路202號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有一鄰居長期敲打產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 12：21 環保局稽查科中區股張愛群先生回報，稽查人員於11:40到達，電洽陳情\r\n人，其表示並不瞭解污染源在何處，陳情人說明已無噪音情形，周界巡查亦未發現噪音情事；並於12/05 18：01\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 11:14:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 06:07:43"
   },
   {
     "FileNo_": "INS161205081",
