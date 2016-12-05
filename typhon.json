@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161205035",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 上午 08:59:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招路456號加油站前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處於快車道路面遺留工程後沙土，恐路滑摔車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 上午 09:03:27",
     "Close_Date_": ""
   },
   {
@@ -248,7 +248,7 @@
     "UnitName_": "動物保護處",
     "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處停車場飼養之大型虎斑色犬隻目前未繫繩而追咬行經路人，建請查處。",
+    "BeforeDesc_": "渠反映該處停車場飼養之大型虎斑色犬隻目前未繫繩而於附近追咬行經路人，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 08:20:29",
