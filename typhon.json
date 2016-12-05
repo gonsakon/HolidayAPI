@@ -4353,20 +4353,20 @@
   },
   {
     "FileNo_": "INS161204008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 03:47:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "復安163號 ( 近淨覺老人養護中心指示牌 )",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處車道有一中型犬屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/4 04:45 溝渠隊林漢宗先生回報：該處已清理完成；並於12/05 12：57電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 03:51:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 01:01:00"
   },
   {
     "FileNo_": "INS161204007",
