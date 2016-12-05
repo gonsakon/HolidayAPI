@@ -5832,20 +5832,20 @@
   },
   {
     "FileNo_": "INS161203169",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 07:45:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海平路8號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/03 22:17 養工處四維養護工程隊值班人員江明秀小姐回報，該處路燈已\r\n修復；並於12/5 16：43電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 07:46:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 04:43:13"
   },
   {
     "FileNo_": "INS161203168",
