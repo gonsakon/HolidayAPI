@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161205196",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/5 下午 07:54:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "澄清路上，近圓山路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161205195",
     "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 07:48:55",
@@ -460,14 +477,14 @@
   },
   {
     "FileNo_": "INS161205168",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/5 下午 05:45:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "二聖路70號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址旁空地內有棄置桶子與輪胎等廢棄物導致孳生蚊蟲，因此恐產生登革熱疫情，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 08:04:55",
     "Close_Date_": "2016/12/5 下午 12:24:58"
-  },
-  {
-    "FileNo_": "INS161202186",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/2 下午 07:58:30",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "仁愛三街277之2號5樓",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址公寓外遮雨棚有一流浪小貓受困，建請查處。(需請局處收案後先行電聯)",
-    "AfterDesc_": "【主管解除管制】本案於12/02 20:53農業局動物保護處捕犬大隊史明德先生回覆：該受困小貓已救下；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 08:01:12",
-    "Close_Date_": "2016/12/3 下午 08:48:12"
   }
 ]
