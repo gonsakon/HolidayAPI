@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161205163",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/5 下午 05:25:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "大同一路與新盛二街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "路面油漬  不",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161205162",
     "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 05:11:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 05:18:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161202153",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/2 下午 05:12:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德賢路209巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷口一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 23:27養工處四維養護工程隊值班室江明秀小姐回報，該處路燈已修\r\n復；並於12/5 12：39電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 05:16:40",
-    "Close_Date_": "2016/12/5 下午 12:41:08"
   }
 ]
