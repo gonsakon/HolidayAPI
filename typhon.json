@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161205155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/5 下午 04:53:32",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "西燕里新生路與中竹路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映現該路口號誌故障黃燈閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161205154",
     "Status_": "1",
     "Cre_Date_": "2016/12/5 下午 04:46:48",
@@ -120,14 +137,14 @@
   },
   {
     "FileNo_": "INS161205147",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/5 下午 04:13:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳山區南正二路67號後方鐵工廠",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工廠目前作業中有使用機具致噪音情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 04:29:10",
     "Close_Date_": "2016/12/3 下午 05:39:03"
-  },
-  {
-    "FileNo_": "INS161202146",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/2 下午 04:26:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "福德二路72號(公車站牌旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一舊衣回收箱疑似非法設置，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/02 16:40苓雅區清潔隊謝炳章先生回報，人員現場查看，已限期2天內清除，無影響通\r\n行與髒亂情事，故改派非網A-TB-2016-112347賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 04:29:16",
-    "Close_Date_": "2016/12/3 下午 08:41:15"
   }
 ]
