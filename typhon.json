@@ -460,20 +460,20 @@
   },
   {
     "FileNo_": "INS161205209",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 09:29:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣東一街11巷與廣東一街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人棄置許多廢棄家具，建請清除。",
     "AfterDesc_": "【主管解除管制】12/05  22：13 苓雅區清潔隊黃瑞昌先生回報，該處經查為大型廢棄家具，需另調\r\n派車輛前往清運，現場無妨礙交通及無危險性，故改派非網：A-TB-2016-113195追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 09:33:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:20:28"
   },
   {
     "FileNo_": "INS161205208",
@@ -715,20 +715,20 @@
   },
   {
     "FileNo_": "INS161205194",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 07:39:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路與輔仁路102巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭民眾棄置眾多廢棄家具，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/5 21:15 苓雅區清潔隊黃瑞昌先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 07:41:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:20:39"
   },
   {
     "FileNo_": "INS161205193",
@@ -3044,20 +3044,20 @@
   },
   {
     "FileNo_": "INS161205054",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 09:41:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "仁德街148號對面(圍牆邊)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人丟棄兩片木棧板許久，望請派員清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/05 12：00苓雅區清潔隊孔啟胡先生回報，該處無影響交通，因需調派車輛，預\r\n計於12/5下午17:30前清除，故轉非網:A-TB-2016-113027",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:42:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:20:54"
   },
   {
     "FileNo_": "INS161205053",
@@ -5866,20 +5866,20 @@
   },
   {
     "FileNo_": "INS161204047",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 09:59:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "松金街1巷與華山路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該路口遭人丟棄五、六包垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/04 11:36小港區清潔隊林敏碩先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 10:03:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:21:04"
   },
   {
     "FileNo_": "INS161204045",
