@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161205163",
+    "FileNo_": "INS161205164",
     "Status_": "1",
+    "Cre_Date_": "2016/12/5 下午 05:28:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "立強街2號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161205163",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 05:25:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "大同一路與新盛二街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
-    "BeforeDesc_": "路面油漬  不",
+    "BeforeDesc_": "渠反映該處有車禍路面油漬，員警於現場，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 下午 05:27:54",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 05:21:23",
     "Close_Date_": "2016/12/5 下午 02:32:16"
-  },
-  {
-    "FileNo_": "INS161202154",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/2 下午 05:13:07",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路663號，綠色電箱前",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "台電-路面填補不實",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，是年初台電施工，回填不實造成，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 05:18:37",
-    "Close_Date_": ""
   }
 ]
