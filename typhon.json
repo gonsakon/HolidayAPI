@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161205166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 05:37:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中正路二段321號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 下午 05:40:05",
     "Close_Date_": ""
   },
   {
@@ -2806,20 +2806,20 @@
   },
   {
     "FileNo_": "INS161204159",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 11:36:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路367號(紅燕)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家有卡拉OK唱歌噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 03：03環保局環境稽查科中區股陳彥州先生回報，稽查人員於01：58到達，稽查\r\n時於上址周界巡查並未發現有卡拉OK唱歌致噪音情事；並於12/05 17：34電覆陳情人，故解除管制；惟陳情人反\r\n映該處長期卡拉OK噪音問題，故另成非網A-TB-2016-113144追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 11:38:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 05:42:46"
   },
   {
     "FileNo_": "INS161204158",
