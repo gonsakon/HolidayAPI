@@ -470,7 +470,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭人棄置許多廢棄家具，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/05  22：13 苓雅區清潔隊黃瑞昌先生回報，該處經查為大型廢棄家具，需另調\r\n派車輛前往清運，現場無妨礙交通及無危險性，故改派非網：A-TB-2016-113195追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 09:33:37",
     "Close_Date_": ""
@@ -6818,20 +6818,20 @@
   },
   {
     "FileNo_": "INS161203193",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 10:11:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路與至聖路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有散落車禍玻璃碎片，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/03 22:36溝渠隊杜金華先生回報，該處玻璃已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 10:13:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:19:38"
   },
   {
     "FileNo_": "INS161203192",
@@ -7447,20 +7447,20 @@
   },
   {
     "FileNo_": "INS161203154",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 06:34:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明潭路與環潭路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口路中有一狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/03 19:17 左營區清潔隊曹志營先生回報，已清除完成。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 06:37:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:19:48"
   },
   {
     "FileNo_": "INS161203153",
@@ -7498,20 +7498,20 @@
   },
   {
     "FileNo_": "INS161203151",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 06:21:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "學專路309之2號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址門口前有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/03 19:27 楠梓區清潔隊蔡秉樺小姐回報，該處貓屍已清除。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 06:24:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:19:58"
   },
   {
     "FileNo_": "INS161203150",
@@ -7770,20 +7770,20 @@
   },
   {
     "FileNo_": "INS161203135",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/3 下午 05:18:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪七十六街上，近高坪三十五街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路旁有許多垃圾包遭犬隻咬散致髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/03 17:57 小港區清潔隊周安東先生回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 05:22:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 06:20:08"
   },
   {
     "FileNo_": "INS161203134",
