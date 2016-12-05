@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161205159",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/5 下午 05:05:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "體育路(鳳山體育館)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前進行看台拆除作業，未灑水致嚴重揚塵問題，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161205158",
     "Status_": "2",
     "Cre_Date_": "2016/12/5 下午 05:00:43",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161205149",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/5 下午 04:18:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "隆豐路與公園路交叉口(竹林公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該處公園籃球場原本17點30分應亮燈，惟昨日停電又復電後，點滅器設定時間異常，延後至晚間12點才亮燈，建請查處。",
     "AfterDesc_": "",
@@ -3486,20 +3503,20 @@
   },
   {
     "FileNo_": "INS161204111",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 05:37:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "和光街189巷53號旁",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/04  23:08  養工處四維養護工程隊值日室江明秀小姐回報，該處已修復\r\n完畢；並於12/5 17：05電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 05:39:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 05:05:31"
   },
   {
     "FileNo_": "INS161204110",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/2 下午 04:54:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161202149",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/2 下午 04:52:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "沿海二路(介於世全路到永光街之間；北上方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該路段快車道上有三至四個路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/2 下午 04:54:36",
     "Close_Date_": ""
   }
 ]
