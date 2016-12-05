@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161205099",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/5 上午 11:44:09",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎山街293號旁停車場出口 汽車紅線違停",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "鼎山街293號旁停車場出口汽車紅線違停 導致出車困難有危險性",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/5 上午 11:59:45",
     "Close_Date_": ""
   },
   {
@@ -4302,20 +4302,20 @@
   },
   {
     "FileNo_": "INS161204005",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 01:36:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路23號(友緣小吃部)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者使用卡拉OK設備歌唱聲響過大，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/4 03:48 環保局潘星宇先生回報：人員於03:32到場，未發現卡拉OK擴音器噪音情\r\n事；並於12/05 11：52電覆陳情人，故解除管制；惟陳情人反映該處不定卡拉OK噪音問題，故另成非網A-TB-\r\n2016-113025追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 01:38:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/5 下午 12:01:15"
   },
   {
     "FileNo_": "INS161204004",
