@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206169",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 04:58:11",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新莊一路405號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址旁邊因溝壁破損導致有坑洞產生，導致民眾易摔倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206168",
     "Status_": "1",
     "Cre_Date_": "2016/12/6 下午 04:57:04",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 06:41:39",
     "Close_Date_": "2016/12/4 下午 12:31:00"
-  },
-  {
-    "FileNo_": "INS161203155",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/3 下午 06:36:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "觀音山登山入口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處疑似有燃燒塑膠異味致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 下午 06:37:32",
-    "Close_Date_": ""
   }
 ]
