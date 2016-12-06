@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161206175",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 05:31:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠路887號(一心釣蝦場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處釣蝦場內，烹煮食物產生油煙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 05:35:17",
     "Close_Date_": ""
   },
   {
@@ -1769,20 +1769,20 @@
   },
   {
     "FileNo_": "INS161206071",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 上午 11:12:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "覺民路73號(北方館)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家目前油煙逸散造成空污，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/6 15：01 環保局公害專線中區股李政育先生回報，稽查人員於14：00到\r\n達，稽查當時於該店家周界巡查，未發現有油煙逸散導致空汙之情事；並於12/06 17：32電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 11:16:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 05:34:21"
   },
   {
     "FileNo_": "INS161206072",
@@ -2704,20 +2704,20 @@
   },
   {
     "FileNo_": "INS161206018",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 上午 08:19:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄明街與黃興路216巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口有貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/06 09:10三民東區清潔隊葉淑莉小姐回報，已清除完畢；並於12/06 17：33電覆陳\r\n情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 08:22:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 05:37:57"
   },
   {
     "FileNo_": "INS161206015",
