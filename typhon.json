@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161206202",
+    "FileNo_": "INS161206203",
     "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 07:04:07",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "立仁街96巷208號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161206202",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 07:02:34",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延慶街與延吉街口(高名補習班前)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 07:03:46",
     "Close_Date_": ""
   },
   {
@@ -9045,20 +9062,20 @@
   },
   {
     "FileNo_": "INS161204056",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 10:53:09",
     "ReplyUnit_": "E01001",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "民生路與民權路口(阿蓮衛生所附近)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址有隻黑色流浪犬後腳遭撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/5 08:04農業局動物保護處捕犬大隊游蘭英小姐回報，人員會同陳情人到場，該犬\r\n隻已逃離，故結案；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 10:56:33",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 07:03:41"
   },
   {
     "FileNo_": "INS161204054",
@@ -9096,20 +9113,20 @@
   },
   {
     "FileNo_": "INS161204053",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 10:31:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南華路與保泰路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一住家在拆除作業，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/04 12：04環保局環境稽查科南區股戴宏霖先生回報，稽查人員於11：27抵達，稽\r\n查當時工地內怪手正進行拆除作業，惟該路段車流量大背景音量明顯高於作業音量，不易量測實際音量，已勸\r\n導業者注意音量控管與施工時段；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 10:36:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 07:02:10"
   },
   {
     "FileNo_": "INS161204051",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 10:11:04",
     "Close_Date_": "2016/12/6 下午 06:26:14"
-  },
-  {
-    "FileNo_": "INS161203191",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 下午 09:43:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路與文龍路口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路口於澄清路上分隔島有2盞共桿路燈共3顆燈泡故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/06 00：00 四維養護工程隊江明秀小姐回報，該處路燈皆已修復完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 下午 09:47:45",
-    "Close_Date_": "2016/12/6 上午 07:04:58"
   }
 ]
