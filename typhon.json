@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161206074",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 11:30:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路2號之48前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道雜草堆中有許多酒瓶，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 上午 11:34:38",
     "Close_Date_": ""
   },
   {
@@ -4268,20 +4268,20 @@
   },
   {
     "FileNo_": "INS161205051",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 09:39:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營大路2號之48約50公尺長",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道雜草堆中有酒瓶，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 10:16 左營區清潔隊張玉滿小姐回報，人員於該處巡查未發現有上述情事，有撥\r\n打陳情人兩通電話無人接聽；並於12/06 11：21電覆陳情人，故解除管制；惟陳情人反映該處未改善問題，故另\r\n改派工INS161206074追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:47:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 11:33:34"
   },
   {
     "FileNo_": "INS161205050",
