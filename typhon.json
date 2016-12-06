@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161206082",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 11:52:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路497號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 上午 11:53:33",
     "Close_Date_": ""
   },
   {
@@ -3486,20 +3486,20 @@
   },
   {
     "FileNo_": "INS161205106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 12:39:13",
     "ReplyUnit_": "E01001",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新中街130號(菜市場內)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻受困市場攤販內紗網中，無法自行脫困，建請會同救援。(請局處會同陳情人前往)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 14：53 農業局動物保護處捕犬大隊黃世龍先生回報，該處經人員致電\r\n陳情人表示已自行協助將貓隻脫困；並於12/6 11：53電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 12:41:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 11:53:24"
   },
   {
     "FileNo_": "INS161205105",
