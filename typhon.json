@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161206078",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 上午 11:37:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路172巷37號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有機具噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206077",
     "Status_": "1",
     "Cre_Date_": "2016/12/6 上午 11:36:57",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161206076",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/6 上午 11:36:44",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "測試",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "測試",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 上午 11:41:06",
     "Close_Date_": ""
   },
   {
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161206041",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/6 上午 09:24:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "前鎮漁港，西碼頭",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處飄散氨氣異味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 10:46:17",
     "Close_Date_": "2016/12/4 上午 11:57:41"
-  },
-  {
-    "FileNo_": "INS161203065",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/3 上午 10:32:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民生一路與忠孝一路口，忠孝公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該處公園內兒童溜滑梯，其樓梯版腐朽斷裂，原有圍起警示帶但遭撕除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 10:33:40",
-    "Close_Date_": ""
   }
 ]
