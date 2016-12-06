@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206087",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 12:15:13",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路與民族一路543巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206086",
     "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 12:09:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 11:19:42",
     "Close_Date_": "2016/12/3 下午 09:52:18"
-  },
-  {
-    "FileNo_": "INS161203074",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 11:14:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學二十一路上東向靠近大學西路前20公尺處",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 13：45楠梓區清潔隊 陳瑞生先生回報，該處已清除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 11:19:46",
-    "Close_Date_": "2016/12/3 下午 09:51:52"
   }
 ]
