@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207010",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 上午 07:23:57",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207009",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 上午 06:59:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 10:03:08",
     "Close_Date_": "2016/12/6 上午 06:21:04"
-  },
-  {
-    "FileNo_": "INS161204045",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 上午 09:56:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "嘉新西路136號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前有路面油漬，望請清除，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/04 11:22 岡山區清潔隊楊國興先生回報，該處油漬已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 上午 09:58:36",
-    "Close_Date_": "2016/12/6 上午 06:28:29"
   }
 ]
