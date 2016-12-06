@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161206076",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 上午 11:36:44",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "測試",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "測試",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 11:41:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 12:21:06"
   },
   {
     "FileNo_": "INS161206074",
