@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206048",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 上午 09:40:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "福義街3之6號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206047",
     "Status_": "1",
     "Cre_Date_": "2016/12/6 上午 09:38:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 09:14:40",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161203035",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 09:06:56",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "義華路與壽昌路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌故障，有時不亮有時全亮紅燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 11:56交通局智慧運輸中心謝文欽先生回報，該處已修復；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 09:08:57",
-    "Close_Date_": "2016/12/3 下午 09:15:55"
   }
 ]
