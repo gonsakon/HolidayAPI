@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206090",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 12:37:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "輔仁路與輔仁路102巷口(中正國小旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映現該處人行道上有遭棄置兩包垃圾包造成髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206088",
     "Status_": "1",
     "Cre_Date_": "2016/12/6 下午 12:24:45",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161206077",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/6 上午 11:36:57",
     "ReplyUnit_": "A01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "美山路上(鳳山往鳥松方向、美山路30巷前、鼎鋒石業旁)",
     "UnitName_": "工務局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "渠反映該處路燈前有一方型不明孔蓋與路面有5公分高低落差，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 11:38:02",
     "Close_Date_": "2016/12/3 下午 09:59:40"
-  },
-  {
-    "FileNo_": "INS161203076",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 11:14:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "站前北一路與環山路(T字路口)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有廢棄家具及垃圾包，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 13:12左營區清潔隊李佳鴻先生回報，該處廢棄家具及垃圾包皆已清除完\r\n畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 11:19:42",
-    "Close_Date_": "2016/12/3 下午 09:52:42"
   }
 ]
