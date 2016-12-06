@@ -1,37 +1,37 @@
 [
   {
     "FileNo_": "INS161206123",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 02:27:16",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Test",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 02:28:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 02:34:34"
   },
   {
     "FileNo_": "INS161206122",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 02:26:39",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Test",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 02:29:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 02:34:18"
   },
   {
     "FileNo_": "INS161206121",
@@ -137,20 +137,20 @@
   },
   {
     "FileNo_": "INS161206115",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 02:12:01",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Ksd",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 02:29:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 02:34:02"
   },
   {
     "FileNo_": "INS161206114",
