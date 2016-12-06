@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206212",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 07:53:35",
+    "ReplyUnit_": "F01003",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "大同路與大同路206巷交叉口(路竹運動公園)",
+    "UnitName_": "路竹區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該公園籃球場燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206211",
     "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 07:38:03",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161206201",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/6 下午 07:01:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛四路與文自路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄數箱紙箱(內裝過期海苔)，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 11:31:30",
     "Close_Date_": "2016/12/4 下午 02:21:27"
-  },
-  {
-    "FileNo_": "INS161203200",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 下午 11:18:12",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大德二路30之1號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮達一週，建請儘速修繕。",
-    "AfterDesc_": "【主管解除管制】本案於12/06 10:16 養工處岡山養護工程隊李文義先生回報，該處無危險性，惟因備料安定\r\n器，無法立即修復，故改派非網A-TB-2016-113304賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 下午 11:19:17",
-    "Close_Date_": "2016/12/6 下午 06:27:07"
   }
 ]
