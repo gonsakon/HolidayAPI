@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161206060",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 10:10:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八卦寮八德一路228號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前路邊有一路面破損坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 上午 10:11:40",
     "Close_Date_": ""
   },
   {
@@ -426,20 +426,20 @@
   },
   {
     "FileNo_": "INS161206035",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 上午 09:07:55",
     "ReplyUnit_": "A02000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "812台灣高雄市小港區宏平路493巷7-11旁黃線",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "7-11旁邊，牛肉店前面黃線有一台長期佔用黃線，造成用路人臨停困擾。#黃線臨停3分鐘，不能熄火規定。該車輛已經佔用黃線5日以上。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/06 09：59通報110謝警員同時轉呈人民陳情案件A-TB-2016-113296由警察局賡續\r\n辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 10:05:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 上午 10:14:59"
   },
   {
     "FileNo_": "INS161206034",
