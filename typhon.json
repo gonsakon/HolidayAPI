@@ -6070,20 +6070,20 @@
   },
   {
     "FileNo_": "INS161205089",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 11:26:43",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中和街64號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址前有污水管阻塞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 16:53水利局污水營運科林卉霓小姐回報，該處已修復完成；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 11:29:48",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:37:55"
   },
   {
     "FileNo_": "INS161205088",
