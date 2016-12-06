@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161206233",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/6 下午 09:51:21",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "熱河一街160巷8號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "你好：因為巷子裡都有流浪貓亂咬垃圾、踩破屋頂、四處亂咬、半夜吵鬧",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 10:04:32",
     "Close_Date_": ""
   },
   {
