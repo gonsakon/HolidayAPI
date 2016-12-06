@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161206110",
+    "FileNo_": "INS161206111",
     "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 02:08:31",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "Ksdtest",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻管線破損",
+    "BeforeDesc_": "Test",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161206110",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 02:06:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福德一路25巷口(與輔仁路交叉)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄大型家具約三天，望請派員清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 02:08:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 下午 01:51:02",
     "Close_Date_": "2016/12/3 下午 10:47:09"
-  },
-  {
-    "FileNo_": "INS161203099",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 下午 01:44:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "高鳳一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該路段沿線安全島有違規售屋廣告板懸掛，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 15:12鳳山區清潔隊曾慶龍先生回報，已拆除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 下午 01:48:21",
-    "Close_Date_": "2016/12/3 下午 10:45:49"
   }
 ]
