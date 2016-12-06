@@ -8926,20 +8926,20 @@
   },
   {
     "FileNo_": "INS161204068",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 下午 12:14:22",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路與美術東一路口(往南方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口往南一連兩、三個路口號誌突然不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/04 13:56交通局智慧運輸中心蔡淑君小姐回報，已修復；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 12:16:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 07:15:15"
   },
   {
     "FileNo_": "INS161204067",
