@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161206168",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 04:57:04",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區三多三路225號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "攤販違規人行道擺攤",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/06 17：08通報110邱警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 05:12:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 05:14:41"
   },
   {
     "FileNo_": "INS161206167",
