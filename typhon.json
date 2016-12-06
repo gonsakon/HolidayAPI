@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161206106",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 01:52:30",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "Test",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "Test",
-    "AfterDesc_": "",
+    "AfterDesc_": "Test",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 01:56:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 01:53:40"
   },
   {
     "FileNo_": "INS161206105",
@@ -4965,20 +4965,20 @@
   },
   {
     "FileNo_": "INS161205043",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 09:24:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "847",
     "ZipName_": "甲仙區",
     "address_": "大田里中園路7巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處目前道路有掏空情況，恐生危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/5 09:35養工處旗美養護工程隊洪冠馨小姐回報，該處為6米以下道路，屬於甲仙區\r\n公所權責，並已於09：34通報甲仙區公所高先生(6751002#21)，故改派INS161205052賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:26:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 01:53:03"
   },
   {
     "FileNo_": "INS161205041",
