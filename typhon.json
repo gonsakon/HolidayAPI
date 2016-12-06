@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206094",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 12:52:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文鳳路與文鳳路118巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處斜坡處與路面交接處，有一路面凹洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206093",
     "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 12:47:45",
@@ -86,20 +103,20 @@
   },
   {
     "FileNo_": "INS161206088",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 12:24:45",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "測試",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻管線破損",
     "BeforeDesc_": "測試",
-    "AfterDesc_": "",
+    "AfterDesc_": "測試",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 12:54:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 12:56:42"
   },
   {
     "FileNo_": "INS161206087",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 11:48:32",
     "Close_Date_": "2016/12/3 下午 10:05:38"
-  },
-  {
-    "FileNo_": "INS161203081",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 11:44:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "昭明里鳳林路四段563號；冠向保養廠後方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址有烤漆異味致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/3 14：37環保局環境稽查科南區股戴宏霖先生回報，稽查人員於14：06到達，\r\n店家設有烤漆室及過濾設備，現場未發現有明顯烤漆異味致空污情事，仍予以勸導加強防範；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 11:46:51",
-    "Close_Date_": "2016/12/3 下午 10:04:40"
   }
 ]
