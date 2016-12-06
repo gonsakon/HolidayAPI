@@ -6121,20 +6121,20 @@
   },
   {
     "FileNo_": "INS161205086",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 11:17:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "營口路與山明路(超商對面)",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋路面下陷",
     "BeforeDesc_": "渠反映該處有一台電孔蓋有下陷情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/5 14：20台電鳳山區處吳先生回報，該處屬稍微下陷已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 11:22:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:37:22"
   },
   {
     "FileNo_": "INS161205085",
