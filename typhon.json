@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161206070",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/6 上午 11:08:35",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "博愛一路與北平一路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該路口加油站前有1溝蓋周邊水泥溝面損壞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206069",
     "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 10:59:12",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161206052",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/6 上午 09:49:38",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合一路11號與29號 前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該兩址前各有一個高汙水孔蓋有鬆動情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 10:11:21",
     "Close_Date_": "2016/12/3 下午 09:42:27"
-  },
-  {
-    "FileNo_": "INS161203057",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 10:08:24",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路170號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該址前一方型高縣寬頻孔蓋鬆動，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 15:33工務局工程企劃處陳昭宏先生回報，該處已修復完成；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 10:08:35",
-    "Close_Date_": "2016/12/3 下午 09:41:01"
   }
 ]
