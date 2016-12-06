@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161206232",
+    "FileNo_": "INS161206233",
     "Status_": "1",
+    "Cre_Date_": "2016/12/6 下午 09:51:21",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "熱河一街160巷8號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "你好：因為巷子裡都有流浪貓亂咬垃圾、踩破屋頂、四處亂咬、半夜吵鬧",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161206232",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 09:49:13",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山路上(高苑科技大學附近)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 09:50:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 08:18:00",
     "Close_Date_": "2016/12/6 下午 06:52:27"
-  },
-  {
-    "FileNo_": "INS161204017",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 上午 08:10:38",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明鳳七街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前進行道路工程，使用機具致噪音產生，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/04 11:12環保局環境稽查科南區股戴宏霖先生回報，稽查人員於10:58到達，現場\r\n怪手正進行施工作業，周界量測整體音量為71.6分貝，未超過標準72分貝，仍有與業者進行勸導。此案地點與\r\nINS161204030相同；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 上午 08:12:17",
-    "Close_Date_": "2016/12/6 下午 06:50:43"
   }
 ]
