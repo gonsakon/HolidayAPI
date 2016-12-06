@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161206073",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/6 上午 11:24:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路24號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處人行道磚凹凸不平，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/6 上午 11:28:42",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161206071",
     "Status_": "2",
     "Cre_Date_": "2016/12/6 上午 11:12:13",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161206055",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/6 上午 09:54:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "政德路109號11樓頂樓",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址裝修，機具噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/3 上午 10:28:02",
     "Close_Date_": "2016/12/3 下午 09:43:00"
-  },
-  {
-    "FileNo_": "INS161203061",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/3 上午 10:21:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文府路321號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址對面有一空地，正在使用機具施工產生噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/03 13:40環保局公害專線中區股吳政翰先生回報，稽查人員於12:00到達，稽查\r\n當時於該址附近空地巡查，未發現上述情形；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/3 上午 10:23:49",
-    "Close_Date_": "2016/12/3 下午 09:43:16"
   }
 ]
