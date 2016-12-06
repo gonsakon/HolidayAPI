@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161206223",
+    "FileNo_": "INS161206224",
     "Status_": "1",
-    "Cre_Date_": "2016/12/6 下午 08:57:01",
+    "Cre_Date_": "2016/12/6 下午 08:59:03",
     "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大勇路與公園路(文彬飯店)",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新康街與南京路421巷",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
+    "InformDesc_": "髒亂清除",
     "BeforeDesc_": "",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161206223",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/6 下午 08:57:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大勇路與公園二路(文彬飯店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者目前有設備運轉，飄散類似燃料之惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/6 下午 08:59:03",
     "Close_Date_": ""
   },
   {
@@ -4948,20 +4965,20 @@
   },
   {
     "FileNo_": "INS161205162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 05:11:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多一路銜接中正一路(位於三多一路上)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處有一新設號誌與往東號誌有故障不連鎖情事，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 21:08交通局智慧運輸中心余晨璿小姐回報，該處號誌已修復；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 05:12:31",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:59:22"
   },
   {
     "FileNo_": "INS161205161",
@@ -4982,20 +4999,20 @@
   },
   {
     "FileNo_": "INS161205160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 下午 05:07:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路313巷317號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址住戶正在燃燒樹木致空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 20：06環保局環境稽查科北區股賈金梁先生回報，稽查人員於18：50到達，稽\r\n查時人員於上述地址巡查，並未發現有露天燃燒樹木致空污情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 05:10:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:58:58"
   },
   {
     "FileNo_": "INS161205159",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 05:05:48",
     "Close_Date_": "2016/12/6 下午 06:47:32"
-  },
-  {
-    "FileNo_": "INS161204009",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 上午 04:56:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路上近學專路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路旁有貓屍，建請查處。",
-    "AfterDesc_": "【承辦機關完成通報】12/04 05:16 環保局 溝渠隊 杜金華先生回報，人員於該路段來回巡視三次，\r\n 均未見所述情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 上午 04:59:20",
-    "Close_Date_": "2016/12/4 上午 05:17:43"
   }
 ]
