@@ -103,19 +103,19 @@
   },
   {
     "FileNo_": "INS161206146",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/6 下午 03:34:16",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區中山二路194號人行道",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車人行道上違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/6 下午 04:04:09",
     "Close_Date_": ""
   },
   {
