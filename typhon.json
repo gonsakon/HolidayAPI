@@ -6342,20 +6342,20 @@
   },
   {
     "FileNo_": "INS161205073",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/5 上午 10:39:34",
     "ReplyUnit_": "B02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "明華路236號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有汙水管阻塞情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/05 11:42水利局污水營運科林卉霓小姐回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 10:41:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:27:09"
   },
   {
     "FileNo_": "INS161205072",
@@ -9402,20 +9402,20 @@
   },
   {
     "FileNo_": "INS161204049",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/4 上午 10:26:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁光路215號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該址前方有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/06 20:19養工處鳳山養護工程隊韓莉梅小姐回報，該處已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/4 上午 10:29:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/6 下午 08:26:45"
   },
   {
     "FileNo_": "INS161204050",
