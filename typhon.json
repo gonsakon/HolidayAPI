@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207130",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 04:05:00",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛三路與孟子路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207129",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 03:59:54",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 04:01:23",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161207128",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/7 下午 03:59:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路34之10號(廢鐵廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該廢鐵廠現有鐵屑揚塵致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/7 下午 04:04:57",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 06:35:46",
     "Close_Date_": "2016/12/6 下午 07:38:16"
-  },
-  {
-    "FileNo_": "INS161205006",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/5 上午 06:01:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路末端(過金福路)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處附近路燈均故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 06:03:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161205005",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 03:08:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建興路190號5樓之2",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該住戶疑似有冷氣滴水導致噪音，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於環保局陳彥州先生於12/05 04:01 回報：稽查人員於03:30到場，現場致電並會同陳情\r\n人，於所述地址巡查發現該住戶確有冷氣滴水情事，已留置限期改善單，限期七日改善屆期複查，故改派非網A-\r\nTB-2016-112862賡續辦理；並於12/06 11：07電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 03:10:08",
-    "Close_Date_": "2016/12/6 上午 11:11:47"
   }
 ]
