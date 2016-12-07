@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207050",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 上午 09:45:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "水管路至水管路二段(介於鳳仁路與中正路)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207049",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 上午 09:43:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 03:20:30",
     "Close_Date_": "2016/12/5 上午 07:58:40"
-  },
-  {
-    "FileNo_": "INS161204085",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 03:15:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "海功東路與屏和街口人行道上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址旁有一個疑似非法之藍色舊衣回收箱，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/04 16:06左營區清潔隊保全陳李全先生回報，屬違法設置已載回。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 03:20:17",
-    "Close_Date_": "2016/12/5 上午 07:59:07"
   }
 ]
