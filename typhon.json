@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161208004",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/8 上午 01:06:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術東二路與美術南三路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因車禍致路面遺留油漬及散落物，有員警於現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208003",
     "Status_": "2",
     "Cre_Date_": "2016/12/8 上午 12:48:05",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161207220",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/7 下午 11:18:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路與水秀路(友緣小吃部)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處業者使用卡拉ok設備歌唱致噪音情事，建請到場稽查開罰。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 12:34:35",
     "Close_Date_": "2016/12/6 上午 11:10:31"
-  },
-  {
-    "FileNo_": "INS161205102",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 下午 12:27:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路312巷32號旁,近鼎華路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路旁有一貓屍,請查處。",
-    "AfterDesc_": "【主管解除管制】12/05 12:47 三民東區清潔隊郭康尉小姐回報，經查勘現場正確地點位於三民區民\r\n族一路312巷22號旁，然目前貓屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 12:29:19",
-    "Close_Date_": "2016/12/6 上午 05:28:36"
   }
 ]
