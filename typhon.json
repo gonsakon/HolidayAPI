@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207126",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 03:53:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "瑞中街86號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處門前因種植樹木有積水容器，孳生蚊蟲，恐生登革熱疫情，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207125",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 03:28:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 09:32:06",
     "Close_Date_": "2016/12/6 下午 07:36:44"
-  },
-  {
-    "FileNo_": "INS161205002",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 01:29:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華榮路與華夏路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處發生車禍油漬，建請查處。(警方仍在場)",
-    "AfterDesc_": "【主管解除管制】環保局溝渠隊杜金華先生於12/05 02:39回報：已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 01:31:01",
-    "Close_Date_": "2016/12/5 上午 02:40:24"
   }
 ]
