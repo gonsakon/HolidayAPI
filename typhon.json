@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161207092",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 12:45:17",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "民族一路709號(馬玉山食品公司)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者持續發出機具運轉嗡嗡噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/7 下午 12:47:20",
     "Close_Date_": ""
   },
   {
@@ -4846,20 +4846,20 @@
   },
   {
     "FileNo_": "INS161206055",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 上午 09:54:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "政德路109號11樓頂樓",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址裝修，機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/6 11：26 環保局公害專線中區股謝朝富先生回報，稽查人員於11：20到\r\n達，現場會同管理員上樓查看，當時未發現有機具噪音情形，已勸導業者注意防範；並於12/7 12：47\r\n電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 09:56:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/7 下午 12:47:29"
   },
   {
     "FileNo_": "INS161206054",
