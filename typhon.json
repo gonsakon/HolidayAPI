@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207186",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 07:44:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如二路與嫩江街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207185",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 07:35:33",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS161207130",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/7 下午 04:05:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路與孟子路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址有一個號誌燈燈頭已垂落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 10:09:42",
     "Close_Date_": "2016/12/6 下午 08:03:03"
-  },
-  {
-    "FileNo_": "INS161205062",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 10:07:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "陽明國小後方道路(靠近高速公路單行道)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該處路面有許多坑洞，造成危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/06 16:49養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已修復完畢；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 10:08:22",
-    "Close_Date_": "2016/12/6 下午 07:48:40"
   }
 ]
