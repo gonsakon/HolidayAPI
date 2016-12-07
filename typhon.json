@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 05:37:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "南京路421巷與新康街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處遭民眾放置1包垃圾，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207157",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 下午 05:32:08",
@@ -3180,20 +3197,20 @@
   },
   {
     "FileNo_": "INS161206219",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 08:42:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大成街68巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該巷道周界路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/07 13：07 養工處四維養護工程隊九如分隊 胡建州先生回報，已修復；\r\n並於12/7 17：37電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 08:44:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/7 下午 05:37:18"
   },
   {
     "FileNo_": "INS161206218",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:03:27",
     "Close_Date_": "2016/12/6 上午 05:38:24"
-  },
-  {
-    "FileNo_": "INS161205032",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 08:59:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "錦屏里錦屏街58號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前方有一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/5 15：26 養工處四維養護工程隊九如養護分隊曾超林先生回報，該處已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 09:04:41",
-    "Close_Date_": "2016/12/6 上午 06:57:18"
   }
 ]
