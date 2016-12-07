@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161207064",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 上午 10:38:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "康莊路13號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址處有民眾遭隨意丟棄垃圾包，望請局處查察行為人，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207062",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 上午 10:37:04",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 04:28:47",
     "Close_Date_": "2016/12/5 下午 05:02:47"
-  },
-  {
-    "FileNo_": "INS161204099",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 04:25:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武慶三路79巷2號附近",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處巷道中有犬隻排泄物，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/04 16:42 苓雅區清潔隊陳冠宏先生回報，人員於該址周界巡查未發現犬隻排泄\r\n物。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 04:28:42",
-    "Close_Date_": "2016/12/5 上午 07:26:37"
   }
 ]
