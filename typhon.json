@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207098",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 01:27:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路與中華四路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路中央有一坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207097",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 下午 01:24:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 07:55:54",
     "Close_Date_": "2016/12/5 上午 07:21:05"
-  },
-  {
-    "FileNo_": "INS161204135",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 07:52:56",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區林森三路146號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多量機車人行道上違規停車，汽車紅線違停",
-    "AfterDesc_": "本案已於12/04 20:01代通報至110勤務指揮中心楊警員成功",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 08:02:55",
-    "Close_Date_": "2016/12/4 下午 08:03:13"
   }
 ]
