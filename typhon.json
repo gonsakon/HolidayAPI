@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207209",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 09:42:03",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德民路797號(濟德安養院、近右昌森林公園)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有3個水溝蓋遭竊，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207208",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 09:24:19",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161207182",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/7 下午 07:29:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "仁愛路15巷22號之1(福安宮前)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處電線桿附掛一路燈，惟光線過於昏暗且時而放亮，時而熄滅欲故障，望請評估更換白光或LED燈，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 11:23:49",
     "Close_Date_": "2016/12/6 上午 07:50:14"
-  },
-  {
-    "FileNo_": "INS161205086",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 11:17:14",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "營口路與山明路(超商對面)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "渠反映該處有一台電孔蓋有下陷情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/5 14：20台電鳳山區處吳先生回報，該處屬稍微下陷已修復完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 11:22:14",
-    "Close_Date_": "2016/12/6 下午 08:37:22"
   }
 ]
