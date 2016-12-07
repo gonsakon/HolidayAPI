@@ -1157,20 +1157,20 @@
   },
   {
     "FileNo_": "INS161207091",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/7 下午 12:40:24",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復橫一路194號前",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該處一寬頻孔蓋鬆動噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/07 15:07 工務局工程企劃處第二課 陳昭宏先生回報，已修復；並於\r\n12/7 17：46電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 12:45:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/7 下午 05:46:42"
   },
   {
     "FileNo_": "INS161207090",
