@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207105",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 02:09:42",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區輔仁路96號人行道上",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "多輛機車人行道上違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207104",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 下午 02:08:52",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161207067",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/7 上午 10:51:56",
     "ReplyUnit_": "E01001",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "西藏街329號至331號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處一犬隻會追咬往路人及孩童，恐生危險，建請派員捕捉。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 08:53:38",
     "Close_Date_": "2016/12/5 上午 07:20:19"
-  },
-  {
-    "FileNo_": "INS161204142",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 08:50:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "民益路73巷2號(至陽宮)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處宮廟燃燒金紙致空污情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/04 22:31 環保局公害專線潘星宇先生回報，稽查人員於22:10到達，稽查時\r\n於上址巡查未發現有燃燒金紙致空污情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 08:54:24",
-    "Close_Date_": "2016/12/5 上午 07:20:56"
   }
 ]
