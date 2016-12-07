@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207060",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 上午 10:27:11",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自立二路與七賢二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口僅有紅燈，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207059",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 上午 10:23:08",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161207049",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/7 上午 09:43:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "興中街13號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該址前有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 04:09:41",
     "Close_Date_": "2016/12/5 上午 07:41:00"
-  },
-  {
-    "FileNo_": "INS161204096",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 04:01:23",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "自強二路上近自強二路120巷口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處路面於雙黃線上有高汙水孔蓋嚴重塌陷，已放置交通錐，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/06 14:00水利局污水一科何昱廷先生回報，該處已修復完成；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 04:06:50",
-    "Close_Date_": "2016/12/6 下午 07:16:21"
   }
 ]
