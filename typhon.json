@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161207160",
+    "FileNo_": "INS161207161",
     "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 05:50:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "南衙路南二巷199號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161207160",
+    "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 05:47:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "岡山交流道北上往國道1號方向",
+    "address_": "岡山交流道北上左轉往國道1號方向",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "左轉號誌 沒閃",
+    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/7 下午 05:50:28",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 09:19:54",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161205037",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 09:10:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由三路520號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一廢棄床墊造成髒亂情事，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/5 10:03 左營區清潔隊黃秀菊小姐回報，該床墊已早有登記清理,排定預計下午\r\n才能派車載運,無法即時清理完成，故改派非網A-TB-2016-112953賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 09:14:25",
-    "Close_Date_": "2016/12/6 上午 05:38:10"
   }
 ]
