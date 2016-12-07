@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161207138",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 04:27:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "五福三路與河東路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處行人號誌小綠人故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/7 下午 04:28:55",
     "Close_Date_": ""
   },
   {
