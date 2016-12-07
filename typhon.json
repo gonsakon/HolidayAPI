@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207091",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 12:40:24",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "復橫一路194號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處一寬頻孔蓋鬆動噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207090",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 12:24:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 07:15:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161204128",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/4 下午 06:42:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "中崙路與進學路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該兩路段沿線路燈桿上較高處皆有建商大型廣告看板，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/05 09:35養工處岡山養護工程隊李文義先生回報，該處大型廣告看板皆已清除；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 06:43:20",
-    "Close_Date_": "2016/12/6 下午 07:29:32"
   }
 ]
