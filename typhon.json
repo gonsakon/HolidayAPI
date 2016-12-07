@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207085",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 12:03:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "高雄市左營區立大路175號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "高雄市左營區立大路175號\n早餐店油煙亂排放造成樓上住戶空氣污染\n都是油煙味已多次告知店家\n但是都沒有改善情況\n麻煩衛生局請派人督導開罰",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207084",
     "Status_": "1",
     "Cre_Date_": "2016/12/7 下午 12:00:33",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161207083",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/7 上午 11:59:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "台39線(二仁溪橋往台南路段)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/7 下午 12:02:51",
     "Close_Date_": ""
   },
   {
@@ -10163,40 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/4 下午 06:29:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161204122",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/4 下午 06:07:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "復興里復興巷183之4-1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 06:07:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161204121",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/4 下午 05:58:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "水管路三段(過義大二路往大樹方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/4 下午 06:01:31",
     "Close_Date_": ""
   }
 ]
