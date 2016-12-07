@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161207156",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 05:31:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "協和里友愛巷70號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前一盞路燈故障不亮(桿號：3590)，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/7 下午 05:33:21",
     "Close_Date_": ""
   },
   {
