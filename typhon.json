@@ -1123,20 +1123,20 @@
   },
   {
     "FileNo_": "INS161207170",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/7 下午 06:32:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大豐一路49巷",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/07 18:55 溝渠隊林漢宗先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 06:34:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/8 上午 07:55:28"
   },
   {
     "FileNo_": "INS161207169",
