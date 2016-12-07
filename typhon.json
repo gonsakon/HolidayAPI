@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161207220",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/7 下午 11:18:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路與水秀路(友緣小吃部)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處業者使用卡拉ok設備",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161207219",
     "Status_": "2",
     "Cre_Date_": "2016/12/7 下午 11:03:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 上午 11:46:17",
     "Close_Date_": "2016/12/6 下午 08:43:02"
-  },
-  {
-    "FileNo_": "INS161205097",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 上午 11:40:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "河南路135巷對面，公園人行道上",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭人丟棄廢木材，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/05 13:46 苓雅區清潔隊謝炳章先生回報，該處廢棄木材皆已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 上午 11:42:10",
-    "Close_Date_": "2016/12/6 上午 05:33:22"
   }
 ]
