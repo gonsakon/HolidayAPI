@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209013",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 06:24:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "民生路257號旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處4盞路燈不亮(編號17007004~07)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209012",
     "Status_": "5",
     "Cre_Date_": "2016/12/9 上午 03:18:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 12:36:42",
     "Close_Date_": "2016/12/6 下午 05:16:31"
-  },
-  {
-    "FileNo_": "INS161206088",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 12:24:45",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "測試",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "測試",
-    "AfterDesc_": "測試",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 12:54:21",
-    "Close_Date_": "2016/12/6 下午 12:56:42"
   }
 ]
