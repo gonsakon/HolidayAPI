@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161208194",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/8 下午 09:51:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "田衙路68號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處鹹酥雞攤販油炸作業致油煙逸散，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/8 下午 09:54:10",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208193",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 09:50:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "衛武營都會公園(輜汽路，國隆體育用品社前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該處有一盞園燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 下午 09:53:35",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 10:32:55",
     "Close_Date_": "2016/12/8 下午 06:34:54"
-  },
-  {
-    "FileNo_": "INS161206063",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 上午 10:19:42",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎力路71號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該址對面有一汙水孔蓋鬆動致噪音情形，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/07 15:28水利局汙水營運科林卉霓小姐回報，該處無危險性，惟孔蓋基座\r\n鬆動需申請挖路許可，無法立即修復，故改派非網A-TB-2016-113792賡續辦理；並於12/7 16：58電覆\r\n陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 上午 10:22:24",
-    "Close_Date_": "2016/12/7 下午 04:58:18"
   }
 ]
