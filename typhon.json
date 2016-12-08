@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209017",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 06:52:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "立忠路與立人街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209016",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 上午 06:49:42",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 12:51:30",
     "Close_Date_": "2016/12/6 下午 05:16:42"
-  },
-  {
-    "FileNo_": "INS161206092",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 12:39:58",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福三路與河東路口，五福橋下附近",
-    "UnitName_": "觀光局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "風景區髒亂",
-    "BeforeDesc_": "渠反映該處愛河有民眾釣魚，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/06 14:37觀光局觀光局維護管理科謝忠麒站長回報，已會同警員前往取締完成；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 12:42:54",
-    "Close_Date_": "2016/12/8 下午 06:07:31"
   }
 ]
