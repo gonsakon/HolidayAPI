@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161208106",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/8 下午 01:06:33",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "天靈洞往三角公園方向100M處",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一纜線斷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208105",
     "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 01:02:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 09:29:02",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161205206",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/5 下午 09:11:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "仁愛路二段2巷1號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮達半個月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 09:12:34",
     "Close_Date_": ""
   }
 ]
