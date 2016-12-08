@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161208187",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/8 下午 08:44:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208186",
     "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 08:38:21",
@@ -5645,20 +5662,20 @@
   },
   {
     "FileNo_": "INS161207075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/7 上午 11:24:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓新路，楠梓派出所旁，舊公賣局前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處有民眾為裝設招牌而違規砍伐行道樹，行道樹已遭砍頭，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/07 14:28養工處四維養護工程隊左楠分隊陳睿紘先生回報，該處人員於14:00前往\r\n現場勘查時，已無施工人員，現場修剪完之枝葉也完整裝袋放置於路邊，人員表示非民眾私自砍伐，應為先前\r\n養工處曾有發文給予台電告知，該處高壓電線過低影響路樹情況，研判為台電派員前往修剪作業，故無上述違\r\n規之情況此結案；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 11:27:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/8 下午 08:43:55"
   },
   {
     "FileNo_": "INS161207074",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/6 上午 10:13:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161206057",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/6 上午 10:02:39",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "南星路與鳳林路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝蓋塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 上午 10:05:54",
     "Close_Date_": ""
   }
 ]
