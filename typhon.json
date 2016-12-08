@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161208042",
+    "FileNo_": "INS161208043",
     "Status_": "1",
+    "Cre_Date_": "2016/12/8 上午 09:36:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "新園里環球路31巷103之2號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址水溝內有一狗屍，已散發臭味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161208042",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 上午 09:33:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路458號(土地銀行前)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該址前有沿線機車道上有路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 上午 09:35:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 04:07:53",
     "Close_Date_": "2016/12/7 下午 04:52:28"
-  },
-  {
-    "FileNo_": "INS161205142",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 下午 03:57:16",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "立志街與體育路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌全故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/05 19:07 交通局智慧運輸中心余晨璿小姐回報，該處路口號誌因稍早台\r\n電停電造成，目前台電已恢復供電，現場號誌正常運作；並於12/6 14：09電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 03:58:33",
-    "Close_Date_": "2016/12/6 下午 02:09:53"
   }
 ]
