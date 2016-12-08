@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161208190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 09:19:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市楠梓區益群路與德富街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "高雄市楠梓區益群路與德富街口道路標線(紅線)不清，請協助重新繪製標線！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 下午 09:35:14",
     "Close_Date_": ""
   },
   {
