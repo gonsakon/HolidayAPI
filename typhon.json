@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161208195",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 10:01:17",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "立志街139巷與立忠路82巷口",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一台電長方形人孔蓋鬆動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 下午 10:06:18",
     "Close_Date_": ""
   },
   {
