@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161208073",
+    "FileNo_": "INS161208074",
     "Status_": "1",
+    "Cre_Date_": "2016/12/8 上午 10:49:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲一路332巷14號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址中古車行噴漆作業，異味擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161208073",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 上午 10:45:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路二段單號這側(介於文衡路與建國新城大樓(建國二路138巷))",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段排水溝內，疑似遭人傾倒白色化學藥劑產生惡臭味，建請查處。 (要求人員先行回覆，可會同)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 上午 10:49:37",
     "Close_Date_": ""
   },
   {
@@ -4863,20 +4880,20 @@
   },
   {
     "FileNo_": "INS161207007",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/7 上午 06:52:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "黃厝路2號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有民眾於倉庫外露天燃燒，致黑煙空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案因陳情人要求簡訊回覆，故於12/8 10：48簡訊回覆：陳先生您好，您12月7日所反映燃燒\r\n空污問題，經本府環保局前往稽查，稽查當時未發現有露天燃燒致空污情事，感謝您的熱心通報，倘您對案件處\r\n理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 06:54:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/8 上午 10:52:00"
   },
   {
     "FileNo_": "INS161207006",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 06:11:41",
     "Close_Date_": "2016/12/7 下午 11:10:26"
-  },
-  {
-    "FileNo_": "INS161205174",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/5 下午 06:05:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "竹門街27巷",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內沿線路燈故障不亮，非常昏暗，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 06:06:26",
-    "Close_Date_": ""
   }
 ]
