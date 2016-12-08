@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161208151",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 05:20:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "大同路裕農巷7弄5號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該址前有一電線垂落，影響交通，建請查楚。",
+    "BeforeDesc_": "渠反映該址前有一電線垂落，影響交通，建請查楚。(電錶:354998之48)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 下午 05:25:25",
     "Close_Date_": ""
   },
   {
