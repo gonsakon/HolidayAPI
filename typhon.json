@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161208196",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/8 下午 10:11:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高雄市楠梓區大學十一街和藍田路（大學十一街 向南）",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "後面的紅燈號誌不亮（檔案中路燈下的紅燈）",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/8 下午 10:52:25",
     "Close_Date_": ""
   },
   {
