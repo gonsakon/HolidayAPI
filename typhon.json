@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209016",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 06:49:42",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209015",
     "Status_": "2",
     "Cre_Date_": "2016/12/9 上午 06:38:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 12:42:54",
     "Close_Date_": "2016/12/8 下午 06:07:31"
-  },
-  {
-    "FileNo_": "INS161206091",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 12:39:39",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "二聖路與瑞祥街口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障不亮，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/6 13：531 智慧運輸中心蔡淑君小姐回報，該處係新設號誌尚未啟用；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 12:43:38",
-    "Close_Date_": "2016/12/8 下午 06:07:21"
   }
 ]
