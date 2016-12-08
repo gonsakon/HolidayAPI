@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161208067",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/8 上午 10:22:17",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "大同里高42鄉道",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處山埔高分20號電桿傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208066",
     "Status_": "2",
     "Cre_Date_": "2016/12/8 上午 10:10:37",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161208038",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/8 上午 09:28:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東三路與美術東六街街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有濃厚的瓦斯異味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 05:55:23",
     "Close_Date_": "2016/12/6 上午 05:27:57"
-  },
-  {
-    "FileNo_": "INS161205167",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/5 下午 05:40:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術南二路115號後方巷子(漁夫料理)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處店家目前有油煙排放至後方巷子，以致有異味飄散情況，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 05:43:33",
-    "Close_Date_": ""
   }
 ]
