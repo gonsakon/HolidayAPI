@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161208034",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/8 上午 09:11:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重立路(近文瑞路；ok超商前)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道上有狗便，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/8 上午 09:16:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161208033",
     "Status_": "2",
     "Cre_Date_": "2016/12/8 上午 09:09:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/5 下午 03:26:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161205135",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/5 下午 03:14:21",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "南北路與朝福路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌燈疑似故障，持續呈現閃紅燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/05 18:20交通局智慧運輸中心余晨璿小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/5 下午 03:16:40",
-    "Close_Date_": "2016/12/6 下午 08:48:51"
   }
 ]
