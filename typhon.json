@@ -7753,20 +7753,20 @@
   },
   {
     "FileNo_": "INS161206191",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/6 下午 06:30:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "復興二路112號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前方路邊有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/06 18:55苓雅區清潔隊施長興先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 06:33:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/8 下午 07:40:20"
   },
   {
     "FileNo_": "INS161206190",
