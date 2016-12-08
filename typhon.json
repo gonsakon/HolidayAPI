@@ -851,20 +851,20 @@
   },
   {
     "FileNo_": "INS161208177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 07:26:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路402巷6弄口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處巷口有被放置廢棄家具，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/08 20:27三民西區清潔隊何建林先生回報，該處廢棄家具已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 07:28:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 上午 07:54:33"
   },
   {
     "FileNo_": "INS161208176",
@@ -885,20 +885,20 @@
   },
   {
     "FileNo_": "INS161208175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 07:14:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中興路上與中安路口(加油站前)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有散落砂石，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/08 20:07燕巢區清潔隊吳瑞隆先生回覆：已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 07:16:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 上午 07:54:46"
   },
   {
     "FileNo_": "INS161208174",
