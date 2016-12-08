@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161209012",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 上午 03:18:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "崗山南街509巷3號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處進行燒豬毛作業造成空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局潘星宇先生於12/09 05:01 回報：稽查人員於04:36到場，稽查時人員於\r\n上址周界巡查，未發現有燒豬毛作業造成空污之情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 上午 03:20:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 上午 05:02:44"
   },
   {
     "FileNo_": "INS161209011",
