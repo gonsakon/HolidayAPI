@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161209207",
+    "FileNo_": "INS161209208",
     "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 09:45:55",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "勝利路與新莊仔路口(往蓮潭路方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161209207",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 09:44:32",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "柳橋東路與維仁路交叉口，及柳橋東路跟溪東路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處路口往西方向號誌燈不連鎖，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 09:45:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 09:08:00",
     "Close_Date_": "2016/12/8 上午 11:57:11"
-  },
-  {
-    "FileNo_": "INS161207034",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 上午 08:59:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "樹人路43之1號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處沿線路面有柏油脫落碎石，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/07 11:28旗山區清潔隊向懷祖先生回報，已用掃地車清掃完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 上午 09:03:09",
-    "Close_Date_": "2016/12/8 下午 07:57:01"
   }
 ]
