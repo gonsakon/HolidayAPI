@@ -2194,20 +2194,20 @@
   },
   {
     "FileNo_": "INS161209108",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 02:26:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路與時代大道口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址路口號誌燈四面全紅，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/09 17：25交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈正常，無四面全\r\n紅情形；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:27:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 上午 05:10:53"
   },
   {
     "FileNo_": "INS161209107",
