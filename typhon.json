@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161209099",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/9 下午 01:47:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "中正路二段397巷16號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有一工廠正排放廢氣致空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/9 下午 01:50:37",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209098",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 下午 01:47:29",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161209094",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/9 下午 01:26:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心二路14巷2弄15號；水舞站-加水站對面",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 05:36:04",
     "Close_Date_": "2016/12/7 下午 05:18:12"
-  },
-  {
-    "FileNo_": "INS161206176",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/6 下午 05:33:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中華路234巷11號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈從風災被吹斷到現在未修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 05:36:00",
-    "Close_Date_": ""
   }
 ]
