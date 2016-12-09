@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161209023",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 上午 08:01:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "忠勤路(MLD台鋁旁)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處單行道路已多日進行不明施工，惟因未設立施工告示牌，且工程鋼板堆置於道路旁，造成車輛行經不便，建請稽查改善。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 上午 08:05:30",
     "Close_Date_": ""
   },
   {
