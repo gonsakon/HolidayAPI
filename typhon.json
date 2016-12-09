@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209153",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 05:56:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "光明路一段313號之2號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "貓屍",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209152",
     "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 05:51:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 09:42:09",
     "Close_Date_": "2016/12/7 下午 05:41:03"
-  },
-  {
-    "FileNo_": "INS161206228",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 09:33:27",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中山一路與五福二路口(近城市光廊)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處兩小綠人倒數秒器故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/06 22：11 交通局智慧運輸中心余晨璿小姐回報，該處小綠人號誌現場查看屬正常\r\n運作；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 09:35:47",
-    "Close_Date_": "2016/12/8 下午 05:49:11"
   }
 ]
