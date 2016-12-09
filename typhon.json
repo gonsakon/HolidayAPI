@@ -2517,20 +2517,20 @@
   },
   {
     "FileNo_": "INS161209089",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 01:03:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路與皓東路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口有一個號誌燈上被鐵絲綁上廣告看板，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/09 14:45智慧運輸中心余晨璿小姐回報，該處廣告物已拆除；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 01:08:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 上午 04:35:31"
   },
   {
     "FileNo_": "INS161209088",
