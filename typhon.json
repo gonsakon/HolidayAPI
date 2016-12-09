@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209073",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 11:38:04",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "1.楠梓新路264號(楠梓區戶政事務所)旁；2.通往惠民便橋",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該二處紅綠號誌燈故障，目前為閃紅燈狀態，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209072",
     "Status_": "2",
     "Cre_Date_": "2016/12/9 上午 11:28:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 03:48:28",
     "Close_Date_": "2016/12/8 下午 06:02:40"
-  },
-  {
-    "FileNo_": "INS161206149",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 03:45:45",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "Test",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "Test",
-    "AfterDesc_": "Test",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 04:05:00",
-    "Close_Date_": "2016/12/6 下午 04:03:54"
   }
 ]
