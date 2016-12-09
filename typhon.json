@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161209116",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 02:42:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "忠孝路二段156號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮多日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 02:44:28",
     "Close_Date_": ""
   },
   {
@@ -3350,20 +3350,20 @@
   },
   {
     "FileNo_": "INS161208125",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 03:01:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "水管路與仁和街(往東方向)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口黃燈號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 18：19 交通局智慧運輸中心黃泰郎先生回報，該處號誌燈已修復完畢；並於\r\n12/09 14：43電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 03:04:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 02:48:37"
   },
   {
     "FileNo_": "INS161208124",
@@ -3792,20 +3792,20 @@
   },
   {
     "FileNo_": "INS161208099",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 12:41:05",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "漢陽街40號",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址旁號誌紅燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 14:36 交通局智慧運輸中心余辰璿小姐回報，人員前往該處查勘，該處並未設置\r\n號誌燈；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 12:42:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 02:45:08"
   },
   {
     "FileNo_": "INS161208098",
@@ -3843,20 +3843,20 @@
   },
   {
     "FileNo_": "INS161208096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 12:18:35",
     "ReplyUnit_": "A04000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大新路與民生路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈呈現閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 14:05 交通局智慧運輸中心余晨璿小姐回報，該處號誌已修復完成；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 12:20:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 02:44:55"
   },
   {
     "FileNo_": "INS161208095",
