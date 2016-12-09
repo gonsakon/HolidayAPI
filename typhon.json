@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161209198",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 08:43:02",
     "ReplyUnit_": "A02000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "海霸王前",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "大義路1號前，海霸王前紅線停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 林警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 08:47:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 08:48:49"
   },
   {
     "FileNo_": "INS161209197",
