@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209061",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 10:43:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "宏毅三路，捷運站附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處周界飄散不明化學刺鼻酸味空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209060",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 上午 10:31:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 03:19:01",
     "Close_Date_": "2016/12/7 上午 11:46:50"
-  },
-  {
-    "FileNo_": "INS161206137",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 03:10:28",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "Test",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "Test",
-    "AfterDesc_": "Test",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 03:17:26",
-    "Close_Date_": "2016/12/6 下午 03:17:50"
   }
 ]
