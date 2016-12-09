@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161209092",
+    "FileNo_": "INS161209093",
     "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 01:11:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎中路上(介於金鼎路至天祥一路之間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處12/5至12/7需重鋪柏油，有貼單通知，惟施工完成紅單卻未撕除，路燈、柱子上皆可見，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161209092",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 01:10:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路與義華路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處號誌遭人以鐵絲綁上大型違規廣告看板，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 01:15:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 05:04:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161206168",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 04:57:04",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區三多三路225號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "攤販違規人行道擺攤",
-    "AfterDesc_": "感謝您的反映，此案件已於12/06 17：08通報110邱警員，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 05:12:49",
-    "Close_Date_": "2016/12/6 下午 05:14:41"
   }
 ]
