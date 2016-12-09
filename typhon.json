@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209055",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 10:08:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "四維路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "十多盞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209054",
     "Status_": "2",
     "Cre_Date_": "2016/12/9 上午 10:06:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 03:07:55",
     "Close_Date_": "2016/12/8 下午 06:59:10"
-  },
-  {
-    "FileNo_": "INS161206129",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 02:59:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路與至聖路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映現該處發生車禍有路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/06 15:19 鼓山區清潔隊 許瓊文小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 03:04:28",
-    "Close_Date_": "2016/12/8 下午 06:02:06"
   }
 ]
