@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS161210008",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 上午 04:09:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "文橫二路上(近五福二路口、寶島眼鏡)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210007",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 上午 04:05:43",
     "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路1011號旁的小公園內",
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "公園髒亂、佔用(一)",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 10:48:22",
     "Close_Date_": "2016/12/8 下午 01:04:37"
-  },
-  {
-    "FileNo_": "INS161207061",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 上午 10:40:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "二苓路187號(方師傅)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該自助餐業者前道路上有菜屑與油漬髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/07 11:03小港區清潔隊吳華梅小姐回報，稽查人員前往現場未發現有上述情事，有\r\n向陳情人聯繫確認；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 上午 10:48:50",
-    "Close_Date_": "2016/12/8 下午 08:27:09"
   }
 ]
