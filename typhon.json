@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210007",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 上午 04:05:43",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "佔用道路",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210006",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 上午 03:26:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 10:48:50",
     "Close_Date_": "2016/12/8 下午 08:27:09"
-  },
-  {
-    "FileNo_": "INS161207064",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 上午 10:38:18",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "康莊路13號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有遭民眾隨意丟棄垃圾包，望請局處查察行為人，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/7 11：10小港區清潔隊吳俊毅先生回報，該處來回巡查未發現垃圾包，欲聯絡陳情\r\n人電話是傳真電話無法聯絡；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 上午 10:39:41",
-    "Close_Date_": "2016/12/8 下午 08:38:38"
   }
 ]
