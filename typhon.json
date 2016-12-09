@@ -2721,20 +2721,20 @@
   },
   {
     "FileNo_": "INS161209074",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 上午 11:42:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎強街512號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映現該址前圓環旁有遭棄置許多廢棄家具，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/9 13:39三民東區清潔隊許華玲小姐回報，已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 上午 11:51:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 上午 04:19:07"
   },
   {
     "FileNo_": "INS161209077",
