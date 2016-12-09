@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161209117",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 02:46:58",
     "ReplyUnit_": "A01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "東林西路9號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前2個高縣寬頻孔蓋鬆動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 02:51:20",
     "Close_Date_": ""
   },
   {
@@ -477,14 +477,14 @@
   },
   {
     "FileNo_": "INS161209089",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/9 下午 01:03:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路與皓東路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口有一個號誌燈上被鐵絲綁上廣告看板，建請查處。",
     "AfterDesc_": "",
@@ -3598,7 +3598,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該兩處各有1個藍色非法設置之舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 15:22 三民西區清潔隊 張美珠小姐回報，現場未影響交通，會請所有人移除，\r\n故改派非網A-TB-2016-114120賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 02:48:09",
     "Close_Date_": ""
@@ -3690,20 +3690,20 @@
   },
   {
     "FileNo_": "INS161208106",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 01:06:33",
     "ReplyUnit_": "E01005",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "天靈洞往三角公園方向100M處",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一斷掉纜線，現已移至路邊，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/8 17：17經詢問台電1911李小姐表示，巡修人員表示12/9派員處理，故轉派非網：\r\nA-TB-2016-114185賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 01:11:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 02:50:29"
   },
   {
     "FileNo_": "INS161208105",
