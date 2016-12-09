@@ -6104,20 +6104,20 @@
   },
   {
     "FileNo_": "INS161208043",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 上午 09:36:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "新園里環球路31巷103之2號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址水溝內有一狗屍，已散發臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/09 10：10 路竹區清潔隊 黃美雲小姐回報，該狗屍已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 09:38:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 08:40:43"
   },
   {
     "FileNo_": "INS161208042",
