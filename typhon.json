@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209067",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 11:07:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路175號旁(越南餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209066",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 上午 11:04:33",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161209063",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 上午 11:03:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路34之10號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址廢鐵回收廠現機具噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 上午 11:07:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 04:01:07",
     "Close_Date_": "2016/12/6 下午 04:03:06"
-  },
-  {
-    "FileNo_": "INS161206143",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/6 下午 03:33:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "八德西路2268號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前車道上有一坑洞，已設置安全錐，且該坑洞反覆填補多次，要求徹底檢查，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 03:36:07",
-    "Close_Date_": ""
   }
 ]
