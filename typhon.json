@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161209108",
+    "FileNo_": "INS161209109",
     "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 02:28:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路307巷1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處機車道上有一貓屍，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161209108",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 02:26:26",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中華五路與時代大道口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址路口號誌燈四面全紅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 02:27:52",
     "Close_Date_": ""
   },
   {
@@ -3384,20 +3401,20 @@
   },
   {
     "FileNo_": "INS161208115",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 02:25:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "立德街35號(斜對面1個)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該處有1個藍色非法設置之舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 15:22 三民西區清潔隊 張美珠小姐回報，現場未影響交通，會請所有人移除，\r\n故改派非網A-TB-2016-114124賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 02:46:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 下午 02:27:31"
   },
   {
     "FileNo_": "INS161208113",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 06:00:57",
     "Close_Date_": "2016/12/9 上午 10:35:01"
-  },
-  {
-    "FileNo_": "INS161206185",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/6 下午 05:51:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "保成一路與紅毛港路(公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園內有一電源開關箱倒塌，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 05:52:50",
-    "Close_Date_": ""
   }
 ]
