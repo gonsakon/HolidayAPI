@@ -2296,20 +2296,20 @@
   },
   {
     "FileNo_": "INS161208148",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 05:09:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "青海路82號至160號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上有許多碎玻璃，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/08 17：42 鼓山區清潔隊黃啟國先生回報，該處碎玻璃皆已清除完畢；並於12/09 \r\n11：49電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 05:11:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/9 上午 11:53:10"
   },
   {
     "FileNo_": "INS161208147",
