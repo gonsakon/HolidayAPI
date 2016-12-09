@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161209177",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 07:00:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "柳橋西路與協德街口(往協德街方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該路段目前有瀰漫不明燃燒異味至空污情事，建請查處。",
+    "BeforeDesc_": "渠反映該路段目前有瀰漫不明燃燒異味致空污情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 07:02:34",
     "Close_Date_": ""
   },
   {
