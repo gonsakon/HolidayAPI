@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209024",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 08:05:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "新生路218號至200號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處沿線路面有多處坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209023",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 上午 08:01:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 01:21:28",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161206099",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 01:19:39",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "測試",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "測試",
-    "AfterDesc_": "測試",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 01:41:05",
-    "Close_Date_": "2016/12/6 下午 01:42:37"
   }
 ]
