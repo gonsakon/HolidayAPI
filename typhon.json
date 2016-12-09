@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209068",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 上午 11:08:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路175號旁(越南餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209067",
     "Status_": "1",
     "Cre_Date_": "2016/12/9 上午 11:07:18",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161209054",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/9 上午 10:06:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "829",
     "ZipName_": "湖內區",
     "address_": "東方路90號靠近分隔島處",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一貓屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 03:37:55",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161206144",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 03:33:36",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "Testtest",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "Test",
-    "AfterDesc_": "Test",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 04:01:07",
-    "Close_Date_": "2016/12/6 下午 04:03:06"
   }
 ]
