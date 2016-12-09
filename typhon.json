@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161209226",
+    "FileNo_": "INS161209227",
     "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 11:40:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "興楠路(少年法院到大社)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "沿線路燈 故障不亮 多日",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161209226",
+    "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 11:39:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "工業一路上(近工業區)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處沿線不明原因瀰漫酸臭異味致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/9 下午 11:40:51",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 上午 10:08:23",
     "Close_Date_": "2016/12/9 上午 11:04:55"
-  },
-  {
-    "FileNo_": "INS161207053",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/7 上午 10:03:04",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "濱海一路93號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址旁水溝蓋已腐蝕恐民眾踩過會塌落，已先用塑膠蓋蓋起，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 上午 10:05:26",
-    "Close_Date_": ""
   }
 ]
