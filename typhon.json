@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161209123",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/9 下午 03:17:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161209122",
     "Status_": "2",
     "Cre_Date_": "2016/12/9 下午 03:02:23",
@@ -222,14 +239,14 @@
   },
   {
     "FileNo_": "INS161209109",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/9 下午 02:28:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路307巷1號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車道上有一貓屍，建請會同查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/6 下午 07:07:03",
     "Close_Date_": "2016/12/6 下午 07:16:42"
-  },
-  {
-    "FileNo_": "INS161206199",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/6 下午 06:54:16",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區林森三路146號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道多輛機車及紅線汽車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/06 19:04代通報至110勤務指揮中心邱警員成功並提供陳情人聯電。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/6 下午 07:06:57",
-    "Close_Date_": "2016/12/6 下午 07:16:55"
   }
 ]
