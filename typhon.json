@@ -9572,20 +9572,20 @@
   },
   {
     "FileNo_": "INS161208087",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 上午 11:44:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "江山里",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該里內許多路燈皆白天未熄，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於 12/10 21:05 養工處 鳳山養護工程隊 韓莉梅小姐回報，該處路燈皆已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 11:45:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 下午 10:26:20"
   },
   {
     "FileNo_": "INS161208086",
