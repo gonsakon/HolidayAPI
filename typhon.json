@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161210113",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/10 下午 01:58:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣中街91巷18號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "灣中街91巷18號前，機車噪音",
-    "AfterDesc_": "",
+    "AfterDesc_": "此案與派工INS161210114相同，併案處理。",
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 03:16:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 下午 03:19:23"
   },
   {
     "FileNo_": "INS161210112",
@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161210111",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/10 下午 01:56:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣中街91巷18號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "灣中街91巷18號前，機車噪音",
     "AfterDesc_": "此案與派工INS161210114相同，併案處理。",
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 03:16:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/10 下午 03:18:49"
   },
   {
     "FileNo_": "INS161210110",
