@@ -1,14 +1,31 @@
 [
   {
+    "FileNo_": "INS161211005",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 上午 03:38:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "海功路上(近左營高中大門)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211004",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/11 上午 03:09:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "立德街與安寧街口(快樂龍旁)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處有一貓屍(已放置三角錐)，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 10:12:35",
     "Close_Date_": "2016/12/9 下午 08:31:28"
-  },
-  {
-    "FileNo_": "INS161208065",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 上午 10:09:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路6號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處因車禍留有路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/08 10：39 左營區清潔隊 蔡旻秀小姐回報，油漬已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 上午 10:10:20",
-    "Close_Date_": "2016/12/9 下午 08:31:56"
   }
 ]
