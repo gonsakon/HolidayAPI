@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210114",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 02:04:09",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "灣中街91巷20號前面",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "報案12月10日14:01分，已違停一早上",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210113",
     "Status_": "1",
     "Cre_Date_": "2016/12/10 下午 01:58:10",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 06:44:41",
     "Close_Date_": "2016/12/9 上午 10:49:42"
-  },
-  {
-    "FileNo_": "INS161207170",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 06:32:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐一路49巷",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/07 18:55 溝渠隊林漢宗先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 06:34:47",
-    "Close_Date_": "2016/12/8 上午 07:55:28"
   }
 ]
