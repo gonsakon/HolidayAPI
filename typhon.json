@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161210155",
+    "FileNo_": "INS161210156",
     "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 06:16:26",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "忠孝街198號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻掉落排溝內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161210155",
+    "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 06:15:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路與五甲三路口附近",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞多組燈泡路燈(一邊不亮)，往上照射的路燈有二盞閃爍，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 06:16:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 10:04:18",
     "Close_Date_": "2016/12/8 上午 07:31:01"
-  },
-  {
-    "FileNo_": "INS161207212",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 09:57:09",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "旺盛街上(介於河東路至市中一路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段之路燈沿線故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/08 20:59養工處四維養護工程隊九如分隊陳戊昌先生回報，該處路燈已修復；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 09:57:53",
-    "Close_Date_": "2016/12/9 上午 10:53:04"
   }
 ]
