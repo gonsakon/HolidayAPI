@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210113",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 01:58:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "灣中街91巷18號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "灣中街91巷18號前，機車噪音",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210112",
     "Status_": "1",
     "Cre_Date_": "2016/12/10 下午 01:56:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 06:34:47",
     "Close_Date_": "2016/12/8 上午 07:55:28"
-  },
-  {
-    "FileNo_": "INS161207169",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 06:22:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄和路上與澄清路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口紅燈未倒數秒數，疑似故障無顯示，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/07 21:30 交通局智慧運輸中心黃泰郎先生回報，該處路口號誌紅燈倒數秒數計\r\n時器已修繕完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 06:24:09",
-    "Close_Date_": "2016/12/8 上午 07:56:47"
   }
 ]
