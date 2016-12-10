@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210144",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 05:27:25",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "新強路125巷內",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處巷道內路燈平日於17:15放亮，目前尚未點亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210143",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 05:23:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 08:37:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161207200",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/7 下午 08:29:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "神農路527號之1(鳥松農會超市對面及旁邊50公尺處)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址對面一盞共桿路燈故障不亮，該址旁邊一盞路燈故障不亮，皆有繫紅線做記號，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 08:31:22",
     "Close_Date_": ""
   }
 ]
