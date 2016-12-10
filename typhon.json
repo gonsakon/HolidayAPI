@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161210223",
+    "FileNo_": "INS161210225",
     "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 11:55:08",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山二路200號星海灣大樓前紅線",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "紅線違規停車已數小時請取締",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161210223",
+    "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 11:52:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "工業一路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫酸臭異味，導致空氣污染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 11:54:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 10:00:29",
     "Close_Date_": "2016/12/9 下午 11:46:30"
-  },
-  {
-    "FileNo_": "INS161208058",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 上午 09:52:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "自由四路184巷72號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一舊衣回收箱，疑似不合法，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/08 10：45 左營區清潔隊 林雅惠小姐回報，經人員查證該回收箱皆非同一個\r\n 廠商，需個別聯繫確認是否合法設置，如不合法後續會再派車前往清運，目前不影響交通，無法立即完成\r\n ，故改派非網：A-TB-2016-113995 賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 上午 10:00:18",
-    "Close_Date_": "2016/12/9 下午 08:57:30"
   }
 ]
