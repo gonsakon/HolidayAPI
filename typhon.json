@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210052",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 上午 09:51:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山二路200號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路中間有一貓屍，望請清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210051",
     "Status_": "1",
     "Cre_Date_": "2016/12/10 上午 09:50:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 02:51:13",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161207108",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 02:30:02",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊里大莊路132號前",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障，秒數亂跳，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/07 17:09智慧運輸中心黃泰郎先生回報，該號誌已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 02:30:56",
-    "Close_Date_": "2016/12/8 下午 09:06:59"
   }
 ]
