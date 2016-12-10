@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161210153",
+    "FileNo_": "INS161210154",
     "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 06:11:02",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "復興路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161210153",
+    "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 06:08:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "德仁路77號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞水銀路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 06:10:23",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 09:56:39",
     "Close_Date_": "2016/12/8 上午 07:32:21"
-  },
-  {
-    "FileNo_": "INS161207210",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 09:47:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "中山路二段72號(鐵工廠)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該工廠目前有排放廢氣，造成空污之情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/08 00：51環保局環境稽查科北區股賈金梁先生，正確地址為中山路二段74號，稽查\r\n人員於22:45到達，稽查時於上址周界巡查未發現有排放廢氣致空污情事；並於12/08 16：02電覆陳情人，故解\r\n除管制；惟陳情人反映該處長期空污問題，故另成非網A-TB-2016-114145追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 09:53:25",
-    "Close_Date_": "2016/12/8 下午 04:07:48"
   }
 ]
