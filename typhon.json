@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210153",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 06:08:12",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "德仁路77號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞水銀路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210152",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 06:05:43",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161210132",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/10 下午 04:30:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文昌一街73號(汽車鈑噴)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者作業致有粉塵飄散，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 09:53:25",
     "Close_Date_": "2016/12/8 下午 04:07:48"
-  },
-  {
-    "FileNo_": "INS161207209",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/7 下午 09:42:03",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民路797號(濟德安養院、近右昌森林公園)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有3個水溝蓋遭竊，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 09:44:46",
-    "Close_Date_": ""
   }
 ]
