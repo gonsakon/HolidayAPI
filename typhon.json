@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210213",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 10:00:46",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "狗狗運動公園前(介於三多一路與中正一路之間)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210212",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 09:58:29",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161210211",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/10 下午 09:53:47",
     "ReplyUnit_": "A02000",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "旗津區北汕尾巷60之35",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "妨害安寧",
     "BeforeDesc_": "音響干擾鄰居安寧，二樓靠背門",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 10:01:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 09:59:38",
     "Close_Date_": "2016/12/9 下午 08:51:56"
-  },
-  {
-    "FileNo_": "INS161208048",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 上午 09:43:59",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "義華路與清華街口，南向",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口有一行人號誌燈，目前持紅故障，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/08 11:21 交通局 智慧運輸中心 余晨璿小姐回報，該處已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 上午 09:53:28",
-    "Close_Date_": "2016/12/9 下午 08:44:14"
   }
 ]
