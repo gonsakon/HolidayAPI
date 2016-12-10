@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161210225",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/10 下午 11:55:08",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山二路200號星海灣大樓前紅線",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線違規停車已數小時請取締",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 陳警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 12:04:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 上午 12:05:10"
   },
   {
     "FileNo_": "INS161210224",
