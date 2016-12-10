@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161210217",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/10 下午 10:42:21",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "勝利路與新莊仔路口(往蓮潭路方向)",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區設備損壞有立即危險者",
+    "BeforeDesc_": "渠反映該路段沿線屬觀光局管轄照明燈故障不亮多日，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161210216",
     "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 10:40:08",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161210213",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/10 下午 10:00:46",
     "ReplyUnit_": "E01001",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "狗狗運動公園前(介於三多一路與中正一路之間)",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一台機車(車牌:QR7-521)，約有4隻流浪小貓受困於踏板處，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 09:52:38",
     "Close_Date_": "2016/12/9 下午 11:44:14"
-  },
-  {
-    "FileNo_": "INS161208052",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 上午 09:49:19",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文學路211號旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一舊衣回收箱，疑似不合法，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/08 10:34 左營區清潔隊 李苡絃小姐回報，該處舊衣回收箱經查係合法設置\r\n ；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 上午 10:00:37",
-    "Close_Date_": "2016/12/9 下午 08:53:00"
   }
 ]
