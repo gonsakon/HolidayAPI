@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161210103",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 01:39:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術館路(中華藝校)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該校目前正在舉辦活動，使用擴音器致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 01:40:28",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,36 @@
   },
   {
     "FileNo_": "INS161210102",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/10 下午 01:38:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "林泉街與光華一路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處車禍留有車殼碎片，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/10 下午 01:40:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161210101",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/10 下午 01:36:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "興糖路(興糖國小正門口，捷運下方平交道旁空地)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有人員燃燒疑似稻草不明物，煙霧逸散致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/10 下午 01:40:51",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/7 下午 05:50:28",
     "Close_Date_": "2016/12/9 上午 10:59:53"
-  },
-  {
-    "FileNo_": "INS161207159",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/7 下午 05:40:17",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建武路77號前",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處有一圓形汙水孔蓋鬆動噪音，其表示有經常鬆動問題，需請局處確實查修，建請查處。(陳情人要求聯繫)",
-    "AfterDesc_": "【主管解除管制】本案於12/08 17:08 水利局污水營運科林卉霓小姐回報，修復時聯繫陳情人，其表示不在家，\r\n該處已修復完成；並於12/09 14：40電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/7 下午 05:41:56",
-    "Close_Date_": "2016/12/9 下午 02:40:01"
   }
 ]
