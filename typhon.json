@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211127",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/11 下午 05:54:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中和街126巷1號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/11 下午 05:55:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211126",
     "Status_": "1",
     "Cre_Date_": "2016/12/11 下午 05:54:00",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161211125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 05:52:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維三路162號旁空地圍籬前方",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道花圃內有一鴿屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 05:54:43",
     "Close_Date_": ""
   },
   {
@@ -10150,20 +10167,20 @@
   },
   {
     "FileNo_": "INS161208189",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/8 下午 09:07:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路35號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處中央分隔島上多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/10 22:29養工處四維養護工程隊值班室江明秀小姐回報，該處路燈已放\r\n亮；並於12/11 17：54電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 09:09:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 下午 05:54:08"
   },
   {
     "FileNo_": "INS161208188",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 09:03:41",
     "Close_Date_": "2016/12/9 上午 07:46:46"
-  },
-  {
-    "FileNo_": "INS161208187",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/8 下午 08:44:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "後安里安樂一街169巷，由安樂一街轉入",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷道內第2盞及第10盞共2盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 08:46:44",
-    "Close_Date_": ""
   }
 ]
