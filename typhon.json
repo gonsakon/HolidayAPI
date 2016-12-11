@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211054",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 上午 10:37:45",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211053",
     "Status_": "1",
     "Cre_Date_": "2016/12/11 上午 10:32:09",
@@ -9538,14 +9555,14 @@
   },
   {
     "FileNo_": "INS161208152",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/12/8 下午 05:29:06",
     "ReplyUnit_": "E01005",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "信義路三段100巷3號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該址前台電電線桿上之電筒目前在漏油，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 02:46:13",
     "Close_Date_": "2016/12/9 下午 02:27:31"
-  },
-  {
-    "FileNo_": "INS161208113",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 02:17:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "凱歌路68號(對面1個)、凱歌路164巷1弄16號(對面1個)、凱國路12號(斜對面1個)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該三處各有1個藍色非法設置之舊衣回收箱，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/08 15:22 三民西區清潔隊 張美珠小姐回報，現場未影響交通，會請所有人移除，\r\n故改派非網A-TB-2016-114121賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 02:46:54",
-    "Close_Date_": "2016/12/9 下午 02:24:20"
   }
 ]
