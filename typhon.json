@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211146",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 06:58:06",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌一路305號(大昌醫院)",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該院前柱子旁有一犬隻正在抽蓄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211144",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 06:52:58",
@@ -630,14 +647,14 @@
   },
   {
     "FileNo_": "INS161211106",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/12/11 下午 04:05:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "興中二路148號旁大樓",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有一新建大樓施工，使用機具致噪音產生，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 11:43:34",
     "Close_Date_": "2016/12/9 下午 12:05:01"
-  },
-  {
-    "FileNo_": "INS161208204",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 11:33:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路329號，(仁武往楠梓方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處快車道有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 00:07溝渠清潔隊李文山先生回報，表示INS161208204、INS161208205為相同案\r\n件，該處狗屍已清除完畢；並於12/09 11：59電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 11:35:46",
-    "Close_Date_": "2016/12/9 下午 12:02:15"
   }
 ]
