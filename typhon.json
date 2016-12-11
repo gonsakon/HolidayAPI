@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212008",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 上午 01:41:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "孝順街340號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址抽水馬達運轉聲響過大，噪音擾鄰，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212007",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 01:20:09",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 上午 09:23:02",
     "Close_Date_": "2016/12/10 上午 12:39:54"
-  },
-  {
-    "FileNo_": "INS161209040",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 上午 09:19:11",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "七賢二路178號(喜悅商務大飯店)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址後方汙水管阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 上午 09:22:20",
-    "Close_Date_": ""
   }
 ]
