@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161211017",
+    "FileNo_": "INS161211018",
     "Status_": "1",
+    "Cre_Date_": "2016/12/11 上午 08:30:13",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建德路與建興路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161211017",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 上午 08:25:55",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大平路坪頂國小周邊",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前空氣中有瀰漫塑膠異味，致空污，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 上午 08:27:07",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 上午 11:22:39",
     "Close_Date_": "2016/12/9 下午 03:13:08"
-  },
-  {
-    "FileNo_": "INS161208079",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 上午 11:16:29",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山二路與鼓山一路161巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口有一號誌燈底座鬆脫搖晃，恐生危險，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/08 14:53交通局智慧運輸中心余晨璿小姐回報，該處無危險性，需報請廠商維修，\r\n故改派非網A-TB-2016-114102賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 上午 11:17:42",
-    "Close_Date_": "2016/12/9 下午 03:11:47"
   }
 ]
