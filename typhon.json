@@ -749,20 +749,20 @@
   },
   {
     "FileNo_": "INS161211150",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 07:14:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路與中華三路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處有車禍遺留的路面油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/11 21：18 溝渠隊杜金華先生回報，該處油漬已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 07:17:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 上午 07:52:26"
   },
   {
     "FileNo_": "INS161211149",
@@ -800,20 +800,20 @@
   },
   {
     "FileNo_": "INS161211147",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 06:59:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正四路53號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址附近有活動使用擴音器致噪音情形，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/11 21:59 環保局公害專線蔡元堯先生回報，稽查人員於21:15到達，稽查時\r\n廟會活動現場收拾中，於周界巡查未發現有使用擴音器致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 07:01:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 上午 07:52:45"
   },
   {
     "FileNo_": "INS161211146",
