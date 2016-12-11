@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161212013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 06:59:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "樹德科技大學大門前",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 上午 07:01:25",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161212011",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 06:45:49",
     "ReplyUnit_": "E01001",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明潭路哈囉市場",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處一犬隻攻擊/追咬往來路人，建請派員捕捉。(並提供陳情人聯絡電話)",
+    "BeforeDesc_": "渠反映該處一黑色犬隻攻擊追咬路人，建請派員捕捉。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 上午 07:01:23",
     "Close_Date_": ""
   },
   {
