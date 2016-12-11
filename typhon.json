@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161211114",
+    "FileNo_": "INS161211115",
     "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 05:25:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "北林路2號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處慢車道有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161211114",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 05:18:37",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中東街177號前",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "寬頻孔蓋鬆動破損",
-    "BeforeDesc_": "渠反映該處有一E都寬頻孔蓋有鬆動噪音，建請查處。",
+    "BeforeDesc_": "渠反映該處有一E都寬頻孔蓋鬆動噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 05:25:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 07:24:29",
     "Close_Date_": "2016/12/11 上午 09:21:24"
-  },
-  {
-    "FileNo_": "INS161208175",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 07:14:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "中興路上與中安路口(加油站前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有散落砂石，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/08 20:07燕巢區清潔隊吳瑞隆先生回覆：已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 07:16:57",
-    "Close_Date_": "2016/12/9 上午 07:54:46"
   }
 ]
