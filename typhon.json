@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211090",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 02:10:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "成功路460巷11號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮多日，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211089",
     "Status_": "1",
     "Cre_Date_": "2016/12/11 下午 02:08:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 05:25:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161208150",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 05:19:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "青海路82號旁空地前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道上有碎玻璃、垃圾；樹穴內有狗糞，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/08 17：42 鼓山區清潔隊黃啟國先生回報，該處碎玻璃、垃圾及犬隻排泄物皆已\r\n清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 05:24:06",
-    "Close_Date_": "2016/12/9 上午 07:59:19"
   }
 ]
