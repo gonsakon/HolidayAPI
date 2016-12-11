@@ -3860,20 +3860,20 @@
   },
   {
     "FileNo_": "INS161210090",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/10 下午 12:12:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄清路383號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該址前有車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/10 13：48 三民東區清潔隊葉淑莉小姐回報，該處為貓砂，已清除完畢；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 12:14:15",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 下午 02:34:29"
   },
   {
     "FileNo_": "INS161210089",
