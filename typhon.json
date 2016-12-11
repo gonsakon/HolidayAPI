@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 06:48:06",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "風車公園",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211139",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 06:45:15",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 10:42:36",
     "Close_Date_": "2016/12/9 下午 12:01:56"
-  },
-  {
-    "FileNo_": "INS161208199",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/8 下午 10:33:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "澄清路上與青年路二段口，北上方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路口1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 10:34:22",
-    "Close_Date_": ""
   }
 ]
