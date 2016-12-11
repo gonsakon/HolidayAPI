@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211084",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 01:15:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211083",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 01:10:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 04:56:59",
     "Close_Date_": "2016/12/9 上午 11:25:42"
-  },
-  {
-    "FileNo_": "INS161208144",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/8 下午 04:47:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗南三路128巷100號之1",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 04:50:38",
-    "Close_Date_": ""
   }
 ]
