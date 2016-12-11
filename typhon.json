@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161211093",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 02:41:56",
     "ReplyUnit_": "A04000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "梓官路與城隍巷口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有紅燈與黃燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 02:43:02",
     "Close_Date_": ""
   },
   {
