@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211095",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 02:57:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "民治路134號後面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211094",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 02:47:11",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161211076",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/11 下午 12:43:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "瑞隆東路201號(真好卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家擴音器噪音，建請查處。",
     "AfterDesc_": "",
@@ -2432,20 +2449,20 @@
   },
   {
     "FileNo_": "INS161210176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/10 下午 07:46:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "甲昌路與甲典街交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒不明物品異味，造成空氣污染，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於2016/12/11 14:48簡訊回覆:蘇小姐您好，您12月10日反映空汙問題，本府環\r\n保局派員前往，稽查時於所述地點路段周界巡查，並未發現有燃燒不明物，感謝您的熱心通報，倘您\r\n對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 07:48:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 下午 02:57:39"
   },
   {
     "FileNo_": "INS161210175",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 05:51:40",
     "Close_Date_": "2016/12/9 下午 05:05:23"
-  },
-  {
-    "FileNo_": "INS161208155",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 05:50:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山二路218巷與樹興街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中有數十包垃圾包與鐵棍，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/08 18：44 鼓山區清潔隊黃啟國先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 05:52:37",
-    "Close_Date_": "2016/12/9 上午 07:57:04"
   }
 ]
