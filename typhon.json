@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211102",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 03:58:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "信蚵公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "渠反映該處有多部汽車皆停於公園內,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211101",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 03:37:36",
@@ -9555,14 +9572,14 @@
   },
   {
     "FileNo_": "INS161208199",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/8 下午 10:33:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "澄清路上與青年路二段口，北上方向",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路口1盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 06:10:50",
     "Close_Date_": "2016/12/9 下午 01:51:45"
-  },
-  {
-    "FileNo_": "INS161208162",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 06:08:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "辛亥路251之1號，城市光采大樓對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處舊衣回收箱周邊堆放廢棄物，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/08 20:17 左營區清潔隊申華國先生回報，該處已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 06:10:56",
-    "Close_Date_": "2016/12/9 上午 07:56:32"
   }
 ]
