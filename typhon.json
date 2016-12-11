@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161211174",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 10:23:59",
     "ReplyUnit_": "A02000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "高雄市鹽埕區五福四路91號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "鹽埕區「冒煙的喬就是公寓」飯店之桌椅霸佔騎樓路面，妨礙通行。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 10:55:51",
     "Close_Date_": ""
   },
   {
