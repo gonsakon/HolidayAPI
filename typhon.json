@@ -5883,20 +5883,20 @@
   },
   {
     "FileNo_": "INS161209170",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 06:47:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大昌二路87號(丁丁藥局前轉角處)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處變電箱狹縫中有遭丟棄垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/09 19：32 三民東區清潔隊王文全先生回報，該處垃圾已清除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 06:52:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 上午 11:04:46"
   },
   {
     "FileNo_": "INS161209169",
