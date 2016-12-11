@@ -171,19 +171,19 @@
   },
   {
     "FileNo_": "INS161211129",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 06:01:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
-    "address_": "五福四路與鹽埕國小",
+    "address_": "五福四路183號   鹽埕國小",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "該處行人號誌燈歪斜，建請查處",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 06:51:44",
     "Close_Date_": ""
   },
   {
