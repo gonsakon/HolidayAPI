@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211128",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 05:55:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211127",
     "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 05:54:32",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161211126",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 05:54:00",
     "ReplyUnit_": "E01001",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "嘉展路近台17線",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻被撞，目前還有呼吸，建請查處。",
+    "BeforeDesc_": "渠反映該處路邊有一貓隻被撞，目前還有呼吸，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 05:56:18",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 09:09:06",
     "Close_Date_": "2016/12/11 下午 05:54:08"
-  },
-  {
-    "FileNo_": "INS161208188",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 09:02:02",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "舊鐵橋溼地園區",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有2隻犬受困於排溝內，建請救援。",
-    "AfterDesc_": "【主管解除管制】12/08 22:39 農業局動物保護處捕犬大隊陳三元先生回報，經查現場有共4隻犬隻受\r\n困，人員已將全部受困犬隻救起，其中一隻有受傷，已送至動物醫院。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 09:03:41",
-    "Close_Date_": "2016/12/9 上午 07:46:46"
   }
 ]
