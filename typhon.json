@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161211124",
+    "FileNo_": "INS161211125",
     "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 05:52:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "四維三路162號旁空地圍籬前方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處人行道花圃內有一鴿屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161211124",
+    "Status_": "2",
     "Cre_Date_": "2016/12/11 下午 05:51:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "援中路與惠民路陸橋(近援中路與藍昌路路口)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處現有濃厚化學異味造成空污，不知是否後勁溪遭汙染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/11 下午 05:52:32",
     "Close_Date_": ""
   },
   {
@@ -120,20 +137,20 @@
   },
   {
     "FileNo_": "INS161211117",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 05:29:37",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "至聖路與自由路交叉口紅綠燈",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "此處紅綠燈設的時間實在太長,每次都需等將近兩分鐘以上，至聖路只是小路,應不需設那麼久吧？其他與自由路交叉口的地方,也不至於需等那麼久,煩請協助調整,感謝幫忙!",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-114966由交通局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 05:45:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 下午 05:52:36"
   },
   {
     "FileNo_": "INS161211116",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 08:39:23",
     "Close_Date_": "2016/12/11 上午 09:19:24"
-  },
-  {
-    "FileNo_": "INS161208185",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 08:28:55",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "七賢二路與自強一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口於自強一路上有一號誌故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】12/08 22:46交通局智慧運輸中心黃泰郎先生回報，該處暫時無危險性，因需要報修\r\n廠商維修，故改派非網A-TB-2016-114242賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 08:29:35",
-    "Close_Date_": "2016/12/9 上午 07:53:54"
   }
 ]
