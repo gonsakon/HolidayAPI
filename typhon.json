@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211114",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 下午 05:18:37",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "中東街177號前",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處有一E都寬頻孔蓋有鬆動噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211113",
     "Status_": "1",
     "Cre_Date_": "2016/12/11 下午 05:16:55",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161211095",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/11 下午 02:57:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "民治路134號後面",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈(燈號：707區764175)故障不亮許久，望請派員修復，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 07:16:57",
     "Close_Date_": "2016/12/9 上午 07:54:46"
-  },
-  {
-    "FileNo_": "INS161208174",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/8 下午 07:11:07",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路390號(店門前)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝蓋旁人行道磚有凹陷情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 07:16:39",
-    "Close_Date_": ""
   }
 ]
