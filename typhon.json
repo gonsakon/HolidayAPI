@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161212015",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 07:43:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "大同一路轉進新盛二街內往北",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄五包垃圾包與一堆建築廢棄物，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 上午 07:55:00",
     "Close_Date_": ""
   },
   {
@@ -630,20 +630,20 @@
   },
   {
     "FileNo_": "INS161211157",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 08:03:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "為隨路(為隨社區附近)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫焚燒物品之惡臭味致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/11 20:50 環保局北區股洪天賜先生回報，稽查人員於20:30到達，未發現有焚燒\r\n物品惡臭異味致空污情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 08:03:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 上午 07:51:32"
   },
   {
     "FileNo_": "INS161211156",
@@ -681,20 +681,20 @@
   },
   {
     "FileNo_": "INS161211154",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 07:25:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "旗屏路，新旗尾橋上",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處橋面上快車道有一狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/11 21:39 溝渠隊李文山先生回報，人員於現場橋面上巡查未有發現狗屍情況，\r\n然後續人員於旗屏路上，近南寮巷位置巡視，發現該處路面確實有血漬，惟已不見動物屍體，應是有\r\n民眾已協助移除，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 07:29:14",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 上午 07:52:11"
   },
   {
     "FileNo_": "INS161211153",
