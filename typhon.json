@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161211040",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/11 上午 09:53:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161211039",
     "Status_": "1",
     "Cre_Date_": "2016/12/11 上午 09:52:33",
@@ -6376,37 +6393,37 @@
   },
   {
     "FileNo_": "INS161209118",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 02:52:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "忠孝一路487號，往建國二路方向",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該址有2個污水孔蓋，一個凹凸不平，一個有鬆動噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "；本案不需回電故解除管制。12/9 16：52 水利局污水營運科林卉霓小姐回報，該處無立即危險性，需另備柏油\r\n修復，故轉派非網：A-TB-2016-114510；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:56:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 上午 09:53:01"
   },
   {
     "FileNo_": "INS161209117",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/9 下午 02:46:58",
     "ReplyUnit_": "A01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "東林西路9號",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "寬頻孔蓋鬆動破損",
     "BeforeDesc_": "渠反映該址前2個高縣寬頻孔蓋鬆動，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/09 15:57 工務局工程企劃處第二課陳昭宏先生回報，該處寬頻孔蓋均已修復完成；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:51:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/11 上午 09:54:10"
   },
   {
     "FileNo_": "INS161209115",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/8 下午 12:52:38",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161208100",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/8 下午 12:41:46",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "常興街83號(景榮設區大樓)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處大樓正門與轉角處各有一個污水人孔蓋鬆動致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/08 16:11 楠梓污水處理廠洪明慈小姐回報，該處已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/8 下午 12:44:34",
-    "Close_Date_": "2016/12/9 下午 02:48:30"
   }
 ]
