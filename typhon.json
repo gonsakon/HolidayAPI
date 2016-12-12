@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212154",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 04:17:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212153",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 下午 04:15:59",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161212143",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 下午 03:27:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "忠言路與修明路口(霸味薑母鴨)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該業者於人行道上製作食材，肉屑與血亂噴，導致環境髒亂，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 07:33:57",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209183",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 07:23:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "金鼎路與大裕路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路口有一共桿路燈上，1盞燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 07:25:49",
     "Close_Date_": ""
   }
 ]
