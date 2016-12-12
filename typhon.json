@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 04:33:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "阿蓮國中附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映有人燃燒稻草致空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212157",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 04:28:01",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 07:45:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209187",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 07:38:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金後路23巷5弄12號、16號、18號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處各有一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 07:45:12",
     "Close_Date_": ""
   }
 ]
