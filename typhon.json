@@ -239,20 +239,20 @@
   },
   {
     "FileNo_": "INS161212046",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 上午 09:34:41",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "高雄醫學院",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "佔用計程車停車格",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/12 10：08通報110吳警員，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:09:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 上午 10:13:18"
   },
   {
     "FileNo_": "INS161212045",
