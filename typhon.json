@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161212200",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 06:36:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "義勇路115巷4號與6號之間",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋路面下陷",
-    "BeforeDesc_": "台電孔蓋與路面有高低落差  會積水",
+    "BeforeDesc_": "渠反映該處有一台電孔蓋與路面有高低落差會積水，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 下午 06:39:38",
     "Close_Date_": ""
   },
   {
