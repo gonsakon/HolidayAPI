@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213001",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 上午 12:23:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎力路上(金銀島M)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212253",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 11:39:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 09:59:33",
     "Close_Date_": "2016/12/10 下午 05:07:02"
-  },
-  {
-    "FileNo_": "INS161210053",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 09:57:47",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中山二路與新田路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈故障無法切換，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 12:45 交通局智慧運輸中心余晨璿小姐回報，現場查勘該號誌運作正常無故障不\r\n會變換情形；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 09:58:54",
-    "Close_Date_": "2016/12/11 下午 01:18:46"
   }
 ]
