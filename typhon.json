@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212082",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 上午 10:59:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同協路與中華二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "渠反映該處多部遊覽車怠速，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212081",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 上午 10:58:12",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161212078",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 10:55:43",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路413之1號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "該址前汙水管破裂致汙水流至路面，表示已有自來水人員至現場查看周邊皆無自來水管，故確認係汙水管破裂，建請會同查處並電覆陳情人。",
+    "BeforeDesc_": "渠反映該址前於人行道近住家處有汙水管破裂致汙水流至人行道上，表示已有自來水人員至現場查看周邊皆無自來水管，故確認係汙水管破裂，建請會同查處。(可提供當初汙水工程管線圖佐證)",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 上午 11:00:01",
     "Close_Date_": ""
   },
   {
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161212058",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 上午 10:07:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎力路38號後方",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:37:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209112",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/9 下午 02:31:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "赤仁路25之2號前、赤仁路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 02:32:39",
     "Close_Date_": ""
   }
 ]
