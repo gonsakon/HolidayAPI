@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212214",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 07:39:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "富民路338號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該店家油炸食物致油煙逸散，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212213",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 07:35:12",
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161212168",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 下午 04:49:23",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興楠路與岳陽街",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 07:42:59",
     "Close_Date_": "2016/12/11 上午 11:59:38"
-  },
-  {
-    "FileNo_": "INS161210013",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 07:40:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學三十街",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處社區附近有燃燒不明物品之惡臭味逸散，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 10:56 環保局中區股顏錦雀小姐回報，稽查人員於10:48到達，稽查當時人員於\r\n周邊巡查皆未發現有燃燒致空污情況，故此結案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 07:42:42",
-    "Close_Date_": "2016/12/11 上午 11:59:58"
   }
 ]
