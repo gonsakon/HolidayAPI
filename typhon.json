@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161212238",
+    "FileNo_": "INS161212239",
     "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 10:19:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多三路與中山二路口(大遠百廣場)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161212238",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 10:17:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "田衙路68號(鹹酥雞)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處業者營業進行油炸作業致油煙逸散空污，且管線排風口架高朝向馬路，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 下午 10:20:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 09:21:48",
     "Close_Date_": "2016/12/11 下午 01:24:58"
-  },
-  {
-    "FileNo_": "INS161210038",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 09:14:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新甲國小前(新富路上)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處快車道有一貓屍，望請清除，建請查處。",
-    "AfterDesc_": "；本案不需回電故解除管制。12/10 10：23 鳳山區清潔隊程致強先生回報，該案與034同案，人員現場來回巡查\r\n皆未發現該貓屍，惟陳情人皆未留聯電詢問，故先行結案，如再進線通報，請陳情人留聯電洽詢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 09:16:54",
-    "Close_Date_": "2016/12/11 下午 01:25:11"
   }
 ]
