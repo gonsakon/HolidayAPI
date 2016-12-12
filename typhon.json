@@ -3265,20 +3265,20 @@
   },
   {
     "FileNo_": "INS161212057",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 上午 09:59:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "瑞屏路與海專路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段有砂石掉落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/12 11：06 楠梓區清潔隊 蔡怡如小姐回報，該處皆已清除完成\r\n ；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:01:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 下午 11:57:39"
   },
   {
     "FileNo_": "INS161212056",
@@ -6189,20 +6189,20 @@
   },
   {
     "FileNo_": "INS161211063",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 上午 11:08:13",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維二路上與光華一路口，牙醫前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處一圓形孔蓋旁路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/1 14:22 水利局 污水營運科 許江永先生回報，於現場巡查未發現有圓形\r\n 孔蓋旁有坑洞；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 11:10:05",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/12 下午 11:57:03"
   },
   {
     "FileNo_": "INS161211062",
