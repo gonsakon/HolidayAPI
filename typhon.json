@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212125",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 02:31:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "和平路一段117巷11之1號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址斜對面有2盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212124",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 02:25:28",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 05:58:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209154",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/9 下午 05:56:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "廈莊五街上(介於桂華街與廈莊六街間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 05:57:31",
     "Close_Date_": ""
   }
 ]
