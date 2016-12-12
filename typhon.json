@@ -2126,20 +2126,20 @@
   },
   {
     "FileNo_": "INS161212127",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 02:36:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "大坑路78號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍路面有油漬 ，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】12/12 15:19 大樹區清潔隊 黃乙珊小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 02:38:03",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 上午 12:10:45"
   },
   {
     "FileNo_": "INS161212126",
@@ -2551,20 +2551,20 @@
   },
   {
     "FileNo_": "INS161212102",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 12:27:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山南路90號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處道路上有散落許多釘子，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【承辦機關完成通報】12/12 13:29 路竹區清潔隊 黃美雲小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 12:32:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 上午 12:10:59"
   },
   {
     "FileNo_": "INS161212101",
