@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213003",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 上午 12:47:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有濃厚化學異味(似殺蟲劑)，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213002",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 上午 12:25:59",
@@ -256,14 +273,14 @@
   },
   {
     "FileNo_": "INS161212240",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/12 下午 10:29:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "光明街與英雄路口(MERCI)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者於騎樓設置卡拉OK設備音量過大，造成噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 10:04:07",
     "Close_Date_": "2016/12/11 下午 01:58:11"
-  },
-  {
-    "FileNo_": "INS161210055",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 09:59:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "民權一路與三多三路，往市府方向",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址中間快車道有路面大坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 11:59養工處四維養護工程隊值班室顏小晶小姐回報，該處已修復；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 10:01:00",
-    "Close_Date_": "2016/12/11 下午 01:58:21"
   }
 ]
