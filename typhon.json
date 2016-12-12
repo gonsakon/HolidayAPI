@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212110",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 01:08:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "上竹巷79號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前有貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212109",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 01:02:22",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161212107",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 01:00:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳南路與保泰路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌傾斜致有線電視電纜線垂落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 下午 01:08:42",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 04:46:31",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209140",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/9 下午 04:40:48",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡燕路與聖森路",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人手孔破損",
-    "BeforeDesc_": "渠反映該處有一不明長方形人孔蓋周邊柏油破損致坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 17:30 工務局工程企劃處郭雅婷小姐回報，該處為中華電信孔蓋破損，騎乘機車\r\n有危險性，故改派非網A-TB-2016-114523賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 04:42:16",
-    "Close_Date_": "2016/12/11 上午 10:25:01"
   }
 ]
