@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212126",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 02:35:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "南溝路165號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "飲食餐館油煙煙機",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212125",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 下午 02:31:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 06:04:29",
     "Close_Date_": "2016/12/11 上午 10:19:11"
-  },
-  {
-    "FileNo_": "INS161209156",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 05:56:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛四路(介於重信路與重和路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，已修復多次，請徹底查修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 05:58:52",
-    "Close_Date_": ""
   }
 ]
