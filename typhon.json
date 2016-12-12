@@ -749,20 +749,20 @@
   },
   {
     "FileNo_": "INS161212230",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 09:27:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路與創新路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈故障，呈現閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/12 22：08 交通局智慧運輸中心陳金木先生回報，該處號誌燈已修復完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 09:29:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 上午 07:47:46"
   },
   {
     "FileNo_": "INS161212229",
