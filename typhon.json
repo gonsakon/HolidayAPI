@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212240",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 10:29:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "光明街與英雄路口(MERCI)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212239",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 10:19:51",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161212214",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 下午 07:39:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富民路338號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家油炸食物致油煙逸散，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 09:22:24",
     "Close_Date_": "2016/12/10 下午 02:42:41"
-  },
-  {
-    "FileNo_": "INS161210039",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 09:19:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "九如四路與平川街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬及血漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 10:02 鼓山區清潔隊張碧砡小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 09:21:48",
-    "Close_Date_": "2016/12/11 下午 01:24:58"
   }
 ]
