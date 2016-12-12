@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212163",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 04:43:35",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "自立二路164號(檳榔攤旁)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝溝面破損，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212162",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 04:40:31",
@@ -919,14 +936,14 @@
   },
   {
     "FileNo_": "INS161212107",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/12 下午 01:00:47",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳南路與保泰路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌傾斜致有線電視電纜線垂落，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 08:01:46",
     "Close_Date_": "2016/12/11 上午 10:55:26"
-  },
-  {
-    "FileNo_": "INS161209192",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/9 下午 07:54:43",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫路與清豐二路口、土庫路上",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 20：43 交通局智慧運輸中心蔡淑君小姐回報，該處經查屬土庫路上線路故障，\r\n無危險性，需報修廠商維修處理，改派非網A-TB-2016-114568賡續辦理；並於12/10 16：28電覆陳情人，故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 07:56:18",
-    "Close_Date_": "2016/12/10 下午 04:29:45"
   }
 ]
