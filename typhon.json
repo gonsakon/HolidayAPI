@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212084",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 上午 11:03:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "信義路180號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處水溝內有一貓屍，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212083",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 上午 11:02:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:44:28",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209114",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/9 下午 02:37:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路與文龍路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 17：10 交通局智慧運輸中心蔡淑君小姐回報，該處已修復完成；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 02:38:19",
-    "Close_Date_": "2016/12/11 上午 10:10:55"
   }
 ]
