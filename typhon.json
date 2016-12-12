@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213013",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 上午 06:33:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路554巷38弄中",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213012",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 上午 06:28:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 10:42:48",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161210065",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 10:40:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞隆路與瑞和街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有房仲架設一米高帆布廣告，遭人丟棄廢棄物導致髒亂，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 12:58 前鎮區清潔隊洪正彰先生回報，該處已派車清除完成；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 10:46:27",
-    "Close_Date_": "2016/12/11 下午 01:34:40"
   }
 ]
