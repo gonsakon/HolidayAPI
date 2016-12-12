@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212091",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 上午 11:35:44",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "明道北街45號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址前方有一水溝蓋破損，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212090",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 上午 11:29:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 03:04:08",
     "Close_Date_": "2016/12/10 下午 02:24:08"
-  },
-  {
-    "FileNo_": "INS161209121",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 02:58:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "工業一路224巷3弄",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處(工業一路224巷3弄)之路牌掉落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 02:59:32",
-    "Close_Date_": ""
   }
 ]
