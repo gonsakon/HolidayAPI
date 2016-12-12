@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212160",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 04:37:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "仁愛三街與四維三路口(東來順湯包前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處紅線處有多個坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212159",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 下午 04:34:21",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 07:46:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209189",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 07:40:44",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎新路與鼎金後路41巷交叉口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 07:45:40",
     "Close_Date_": ""
   }
 ]
