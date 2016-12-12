@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212104",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 12:43:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212103",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 12:34:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 04:17:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209133",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/9 下午 04:06:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大德一路與岡燕路362巷，往東方向",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址快車道有一路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 04:11:02",
     "Close_Date_": ""
   }
 ]
