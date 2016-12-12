@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161212155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 04:22:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "北勢巷40之5號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212154",
     "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 04:17:56",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161212150",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 下午 03:42:57",
     "ReplyUnit_": "A02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新中街與自由二路口，全盛檳榔後方的廢棄房屋",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "在新中街與自由二路口，全盛檳榔後方的廢棄房屋，疑似屋主用鐵架佔據道路不讓人停車。請見照片。而且鐵架邊角銳利，怕會傷害到經過的路人，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 07:28:58",
     "Close_Date_": "2016/12/10 下午 12:17:01"
-  },
-  {
-    "FileNo_": "INS161209184",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/9 下午 07:27:29",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "明鳳八街、明鳳七街",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該路段有多處水利局挖掘工程 ，現場未設置警示燈及安全措施，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 07:33:57",
-    "Close_Date_": ""
   }
 ]
