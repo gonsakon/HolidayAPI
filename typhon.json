@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161212072",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/12 上午 10:44:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐一路與大裕路口(弘爺漢堡)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該店家目前於店家前方堆置兩堆建築廢棄物已造成環境髒亂，建請稽查。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161212075",
     "Status_": "1",
     "Cre_Date_": "2016/12/12 上午 10:44:08",
@@ -664,14 +681,14 @@
   },
   {
     "FileNo_": "INS161212035",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/12 上午 09:02:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "文明路55號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 02:26:48",
     "Close_Date_": "2016/12/11 上午 10:14:27"
-  },
-  {
-    "FileNo_": "INS161209106",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/9 下午 02:25:20",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "軍校路與萬昌街",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 18：02交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈目前無危險性，\r\n經查為線路故障並已報修廠商處理，目前無危險性，需轉非網A-TB-2016-114532賡續辦理；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 02:27:00",
-    "Close_Date_": "2016/12/10 上午 05:06:47"
   }
 ]
