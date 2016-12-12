@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161212206",
+    "FileNo_": "INS161212207",
     "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 07:22:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高雄市楠梓區藍昌路與援中路口 （藍昌路上 向北 橋上綠燈不亮）（本圖取自google地圖）",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "綠燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161212206",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 07:18:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "八德西路近後港巷附近一帶",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處空蜜中瀰漫濃厚煙味，疑似焚燒物品所致，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 下午 07:22:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 上午 04:08:21",
     "Close_Date_": "2016/12/11 下午 12:01:03"
-  },
-  {
-    "FileNo_": "INS161210006",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 上午 03:26:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "民族一路94號(7-11超商)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道路樹旁有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 16：38電覆陳情人未果，故於12/10 16：41簡訊回覆：蘇先生您好，您12月10日\r\n所反映貓屍問題，本府環保局已派員前往清除完畢，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 上午 03:27:53",
-    "Close_Date_": "2016/12/10 下午 04:41:54"
   }
 ]
