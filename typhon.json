@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161212179",
+    "FileNo_": "INS161212180",
     "Status_": "1",
+    "Cre_Date_": "2016/12/12 下午 05:47:41",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "梧州街1號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映有三隻貓跑進陳情人車輛引擎中，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161212179",
+    "Status_": "2",
     "Cre_Date_": "2016/12/12 下午 05:46:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路205號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前中央分隔島上，有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/12 下午 05:47:06",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/9 下午 09:59:39",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161209209",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/9 下午 09:53:54",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路至聖路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口人行道號誌燈故障及路口紅綠燈皆閃爍，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/09 22：39 交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈目前無危險性，經查\r\n為線路故障所致，需報修廠商處理，需轉非網A-TB-2016-114594賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/9 下午 09:54:59",
-    "Close_Date_": "2016/12/11 上午 11:49:07"
   }
 ]
