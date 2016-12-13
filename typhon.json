@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161213103",
+    "FileNo_": "INS161213102",
     "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 12:57:12",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "甲樹路甲樹橋旁大排溝旁之無名道路(通往大仁路方向)",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該處目前有一不明管線挖掘工程施工，惟現場未建置施工告示牌，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161213103",
+    "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 12:56:52",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎華路22號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該址前有一隻幼貓受困於車輛引擎蓋內已兩日，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/13 下午 12:58:24",
     "Close_Date_": ""
   },
   {
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161213098",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 12:45:43",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "國富路與五甲一路口，台灣中古車大聯盟",
+    "address_": "國富路與五甲一路口，台灣中古汽車大聯盟",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "會同 路邊 受傷",
+    "BeforeDesc_": "渠反映該處路邊有一野狗受傷，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/13 下午 12:58:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 06:16:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161210154",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 下午 06:11:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "復興路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，因該處車流量大恐生危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/11 15:33養工處岡山養護工程隊李超尉先生回報，該處已修復；並於\r\n12/11 16：58電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 06:12:48",
-    "Close_Date_": "2016/12/11 下午 04:59:14"
   }
 ]
