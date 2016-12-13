@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213213",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 06:25:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "三民路180號至210號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段路燈全不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213212",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 06:20:10",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161213192",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/13 下午 05:47:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "復興路與復興路1133巷交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有米粒散落一地，已有派警員前往交管，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 09:49:11",
     "Close_Date_": "2016/12/12 下午 01:08:36"
-  },
-  {
-    "FileNo_": "INS161211036",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/11 上午 09:37:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "柳橋西路108之1號(2樓)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址住戶裝潢有釘槍及機具作業噪音,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 上午 09:38:56",
-    "Close_Date_": ""
   }
 ]
