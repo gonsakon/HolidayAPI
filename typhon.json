@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213042",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 上午 09:37:01",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠梓東街32號前",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址前水溝邊破損，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213041",
     "Status_": "1",
     "Cre_Date_": "2016/12/13 上午 09:35:51",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161213038",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/13 上午 09:30:23",
     "ReplyUnit_": "B01000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "班超路20號(瑞祥國小公車亭旁)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一老樹嚴重傾斜，恐致傾倒危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/13 上午 09:37:26",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 12:48:04",
     "Close_Date_": "2016/12/11 下午 02:33:54"
-  },
-  {
-    "FileNo_": "INS161210094",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/10 下午 12:34:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路47巷25弄",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有民宅整修使用機具施工致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 12:35:50",
-    "Close_Date_": ""
   }
 ]
