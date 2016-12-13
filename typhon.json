@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161213153",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/13 下午 02:55:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路768號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "渠反映該處有大型拖板車怠速情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/13 下午 03:02:14",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213152",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 02:54:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 09:31:23",
     "Close_Date_": "2016/12/12 下午 05:32:33"
-  },
-  {
-    "FileNo_": "INS161210205",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/10 下午 09:01:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "永安路311號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 09:05:21",
-    "Close_Date_": ""
   }
 ]
