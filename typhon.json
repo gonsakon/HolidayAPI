@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213118",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 01:36:16",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自強二路52號旁(自強二路50巷轉角處)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有一水溝蓋下陷恐塌落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213117",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 01:24:50",
@@ -834,14 +851,14 @@
   },
   {
     "FileNo_": "INS161213068",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/13 上午 10:21:25",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "中山南路(台一線；立大食品前)與路科六路",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該址2路口號誌不連鎖，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 07:27:36",
     "Close_Date_": "2016/12/11 下午 04:56:11"
-  },
-  {
-    "FileNo_": "INS161210169",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/10 下午 07:20:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "翠亨北路上(原住民主題公園旁邊停車場後面之公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該公園內目前有4至5輛汽車違規停放，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 07:22:02",
-    "Close_Date_": ""
   }
 ]
