@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213179",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 04:57:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路上與漁港東二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213178",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 04:45:16",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161213158",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/13 下午 03:41:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富民路338號(雞排攤)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家目前油炸雞排致油煙過大，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 03:40:32",
     "Close_Date_": "2016/12/11 上午 03:59:26"
-  },
-  {
-    "FileNo_": "INS161211004",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 上午 03:09:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "立德街與安寧街口(快樂龍旁)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一貓屍(已放置三角錐)，建請查處。",
-    "AfterDesc_": "【主管解除管制】環保局溝渠隊杜金華先生於12/11 03:39回報：人員到場巡查，有看到三角錐但\r\n未發現有貓屍，故結案。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 上午 03:11:40",
-    "Close_Date_": "2016/12/11 上午 03:40:32"
   }
 ]
