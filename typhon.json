@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214005",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 01:28:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓波街30號旁邊巷子",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有道路施工，使用機具產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214004",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 01:21:07",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161214003",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 上午 01:12:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路跟永年街交叉口(東泰眼鏡前)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處地點前有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 03:09:50",
     "Close_Date_": "2016/12/12 下午 12:14:24"
-  },
-  {
-    "FileNo_": "INS161211095",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/11 下午 02:57:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "民治路134號後面",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(燈號：707區764175)故障不亮許久，望請派員修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 03:00:06",
-    "Close_Date_": ""
   }
 ]
