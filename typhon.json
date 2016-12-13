@@ -1,12 +1,29 @@
 [
   {
+    "FileNo_": "INS161213192",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 05:47:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "復興路與復興路1133巷交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有米粒散落一地，已有派警員前往交管，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213191",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 05:39:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
-    "address_": "鳳林四路與灣頭北巷",
+    "address_": "鳳林四路與灣頭北巷口",
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 08:31:10",
     "Close_Date_": "2016/12/11 下午 02:50:00"
-  },
-  {
-    "FileNo_": "INS161211017",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 上午 08:25:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大平路坪頂國小周邊",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處目前空氣中有瀰漫塑膠異味，致空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/11 11:43 環保局公害專線南區股黃瑞香小姐回報，稽查人員於10:26到達，該校周\r\n界巡查未發現有明顯異味致空污情況，故未發現上述情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 上午 08:27:07",
-    "Close_Date_": "2016/12/11 下午 02:50:49"
   }
 ]
