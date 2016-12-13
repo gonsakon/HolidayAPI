@@ -477,20 +477,20 @@
   },
   {
     "FileNo_": "INS161213220",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/13 下午 06:38:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新富路與國泰路二段交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路口有車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/13 19:07 鳳山區清潔隊 蕭明吉先生回報，該處油漬已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 06:40:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 下午 08:56:39"
   },
   {
     "FileNo_": "INS161213218",
@@ -902,20 +902,20 @@
   },
   {
     "FileNo_": "INS161213192",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/13 下午 05:47:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "復興路與復興路1133巷交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有米粒散落一地，已有派警員前往交管，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/13 18：25 路竹區清潔隊 陳志榮先生回報，該處散落米粒已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 05:50:24",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 下午 08:56:57"
   },
   {
     "FileNo_": "INS161213191",
@@ -2755,20 +2755,20 @@
   },
   {
     "FileNo_": "INS161213081",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/13 上午 11:01:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路(介於和平一路到凱旋一路間)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該路段沿線有油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/13 12:18 三民西區清潔隊 張美珠小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 11:05:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 下午 08:57:13"
   },
   {
     "FileNo_": "INS161213080",
@@ -2823,20 +2823,20 @@
   },
   {
     "FileNo_": "INS161213076",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/13 上午 10:47:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路與復興三路口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映現該處因車禍事故路樹遭撞倒，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/13 11:27 養工處 四維養護工程隊 前鎮分隊 潘麗娥小姐回報，\r\n 該處樹木完整，係大樹枝被撞斷，目前斷裂的樹枝已經清除完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 10:54:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/13 下午 08:57:43"
   },
   {
     "FileNo_": "INS161213077",
