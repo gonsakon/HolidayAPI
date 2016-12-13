@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161213222",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 06:44:04",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "粵江街1號前方",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一受傷貓隻，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213219",
     "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 06:41:02",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 10:14:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161211045",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/11 上午 10:12:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "曹公國小",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有校舍施工，導致機具噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 上午 10:14:09",
     "Close_Date_": ""
   }
 ]
