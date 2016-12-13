@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213100",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 12:47:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳埤街26巷內",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該巷內有人在燃燒木材，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213098",
     "Status_": "1",
     "Cre_Date_": "2016/12/13 下午 12:45:43",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161213093",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/13 下午 12:15:42",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維三路19號吳寶春麵包店前",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道違規停車嚴重",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 06:07:11",
     "Close_Date_": "2016/12/11 下午 02:30:00"
-  },
-  {
-    "FileNo_": "INS161210150",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/10 下午 05:58:00",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "茄萣路二段422號(消防局茄萣分隊，後方)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處大排溝涵洞內有一犬隻受困，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/10 21:23 農業局動物保護處捕犬大隊楊志強先生回報，人員抵達時有會同陳情人前\r\n往，未發現有犬隻受困於涵洞內；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 05:59:51",
-    "Close_Date_": "2016/12/11 下午 02:21:22"
   }
 ]
