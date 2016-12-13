@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213157",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 03:33:41",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "澄清路與褒揚街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口綠燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213156",
     "Status_": "1",
     "Cre_Date_": "2016/12/13 下午 03:25:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/10 下午 09:39:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161210208",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/10 下午 09:32:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "台鋁中巷(西甲郵局後方圍牆內)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處所設置之排煙管有惡臭異味空污飄散，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/10 下午 09:39:50",
     "Close_Date_": ""
   }
 ]
