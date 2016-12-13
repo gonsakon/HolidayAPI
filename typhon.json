@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161213229",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/13 下午 07:19:58",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "灣中街268巷7號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一幼貓在困在三樓頂無法離開，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161213228",
     "Status_": "1",
     "Cre_Date_": "2016/12/13 下午 07:19:19",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/11 上午 10:37:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161211052",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/11 上午 10:32:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "國一上往路竹方向(燁聯鋼鐵)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該工廠目前持續排放黑煙，致空污產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 上午 10:33:26",
     "Close_Date_": ""
   }
 ]
