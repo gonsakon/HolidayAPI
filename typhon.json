@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161213093",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/13 下午 12:15:42",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維三路19號吳寶春麵包店前",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道違規停車嚴重",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/13 下午 12:32:35",
     "Close_Date_": ""
   },
   {
