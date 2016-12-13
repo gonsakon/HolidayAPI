@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214016",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 上午 07:08:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "大東公園旁的鳳山溪",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映目前鳳山溪溪水呈現黑色，疑似遭排放廢水汙染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 上午 07:12:08",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214015",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 06:35:18",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 04:14:58",
     "Close_Date_": "2016/12/12 上午 08:00:53"
-  },
-  {
-    "FileNo_": "INS161211106",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/11 下午 04:05:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "興中二路148號旁大樓",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有一新建大樓施工，使用機具致噪音產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 04:07:01",
-    "Close_Date_": ""
   }
 ]
