@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161214019",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 07:53:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新榮街上漢神巨蛋後門",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處漢神巨蛋人員以機器清洗地面聲音過大，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 07:57:34",
     "Close_Date_": ""
   },
   {
@@ -10150,20 +10150,20 @@
   },
   {
     "FileNo_": "INS161211112",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/11 下午 05:09:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "中正路與港三街交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/12 11:41養工處岡山養護工程隊盧冠諭小姐回報，該處已修復；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 05:11:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 上午 07:54:11"
   },
   {
     "FileNo_": "INS161211111",
