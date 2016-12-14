@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214123",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 02:38:46",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區中正一路288號人行道上",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214122",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 下午 02:37:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 09:08:21",
     "Close_Date_": "2016/12/13 上午 11:17:31"
-  },
-  {
-    "FileNo_": "INS161212034",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 09:03:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "三多四路上(介於成功一路至中山二路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該路段沿線目前封閉，現場卻無人員施工刨除路面，已造成民眾無法通行，要求局處先行開放部分路段供民眾行駛，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 09:11:29",
-    "Close_Date_": ""
   }
 ]
