@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214172",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 05:52:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "忠孝路21號(汽車旅館)斜對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "一盞路燈",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214171",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 下午 05:51:05",
@@ -562,14 +579,14 @@
   },
   {
     "FileNo_": "INS161214137",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/14 下午 03:39:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "筆秀路69號後方(資勇工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該工廠燃燒物品，產生惡臭異味，導致空氣污染，建請查處。",
     "AfterDesc_": "",
@@ -9674,37 +9691,37 @@
   },
   {
     "FileNo_": "INS161212116",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 01:56:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路上(省道)過楠陽高架橋，楠梓往橋頭",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處機車地下道佈滿垃圾相當髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/12 14：32 楠梓區清潔隊黃碧鳳小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 01:59:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 05:51:10"
   },
   {
     "FileNo_": "INS161212115",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 01:51:19",
     "ReplyUnit_": "B02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延吉街51號對面",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該處有一水溝蓋下陷情事，現場已放置三角錐警示，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/13 16：59 水利局市區排水一科張珞婕小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 01:57:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 05:52:33"
   },
   {
     "FileNo_": "INS161212114",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 11:19:51",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212085",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 上午 11:16:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "鳳仁路與澄觀路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有酒瓶掉落碎裂玻璃散落，建請查處。",
-    "AfterDesc_": "【承辦機關完成通報】12/12 12：03 仁武區清潔隊 柯辰璋先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 11:18:11",
-    "Close_Date_": "2016/12/13 上午 12:14:17"
   }
 ]
