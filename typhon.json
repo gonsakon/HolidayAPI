@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS161214229",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 09:09:35",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區文橫三路45號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "機車紅線停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 下午 09:39:29",
     "Close_Date_": ""
   },
   {
