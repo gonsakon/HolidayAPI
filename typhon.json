@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214037",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 09:03:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中華五路528巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處前因車禍造成路面油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214036",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 上午 09:01:43",
@@ -3690,14 +3707,14 @@
   },
   {
     "FileNo_": "INS161213080",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/13 上午 11:01:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "文林街上(林森四路與修文街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處路面刨鋪，現場沒有告示牌、沒有主管人員、巷道前後同時施工住戶無法出入，也未通知里辦公室，建請查明施工單位。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 05:56:18",
     "Close_Date_": "2016/12/12 上午 07:56:46"
-  },
-  {
-    "FileNo_": "INS161211125",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 下午 05:52:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維三路162號旁空地圍籬前方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處人行道花圃內有一鴿屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】12/11 18:17 苓雅區清潔隊陳冠宏先生回報，已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 05:54:43",
-    "Close_Date_": "2016/12/12 上午 07:57:09"
   }
 ]
