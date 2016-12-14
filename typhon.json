@@ -323,6 +323,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161214115",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/14 下午 02:22:15",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大豐二路606號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "處理完成",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址正對面疑似水溝溝框損壞導致溝蓋傾斜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 02:26:18",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214117",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 02:22:15",
@@ -337,23 +354,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 02:25:39",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214115",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/14 下午 02:22:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐二路606號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址正對面疑似水溝溝框損壞導致溝蓋傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 02:26:18",
     "Close_Date_": ""
   },
   {
@@ -7600,37 +7600,37 @@
   },
   {
     "FileNo_": "INS161212205",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 07:13:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文慈路150號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址旁有巷道路燈下有遭棄置垃圾包，已遭犬隻咬散遍地，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/12 21:58 左營區清潔隊鄭芝霖小姐回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 07:17:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 03:29:58"
   },
   {
     "FileNo_": "INS161212204",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 07:13:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "長春街57巷巷口(近58號)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一犬屍，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/12 19：44 大寮區清潔隊陳文彬先生回報，該處狗屍已會同陳情人清除完畢；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 07:14:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 03:30:22"
   },
   {
     "FileNo_": "INS161212203",
