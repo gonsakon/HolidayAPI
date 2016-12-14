@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161214205",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 07:06:26",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "高雄市新興區七賢二路10號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 蔡警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/12/14 下午 07:11:38",
+    "Close_Date_": "2016/12/14 下午 07:12:16"
   },
   {
     "FileNo_": "INS161214204",
