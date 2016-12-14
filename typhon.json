@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214038",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 09:07:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "三民公園(民族廣場)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處有一攤販設攤，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214037",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:03:23",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161214036",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:01:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "樹德路與康定路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有兩盞路燈，照設人行道故障不亮，照射馬路黃光也快熄滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 09:07:27",
     "Close_Date_": ""
   },
   {
@@ -137,19 +154,19 @@
   },
   {
     "FileNo_": "INS161214027",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 上午 08:21:20",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "凱旋二路61-75號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "騎樓違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 09:07:07",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 05:55:23",
     "Close_Date_": "2016/12/14 上午 07:59:07"
-  },
-  {
-    "FileNo_": "INS161211126",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 下午 05:54:00",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路近台17線",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路邊有一貓隻被撞，目前還有呼吸，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/11 18:34 農業局動物保護處捕犬大隊劉傳寶先生回報，經與陳情人聯繫表\r\n示該貓隻已死亡，需由清潔隊協助處理，故改派派工INS161211137辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 05:56:18",
-    "Close_Date_": "2016/12/12 上午 07:56:46"
   }
 ]
