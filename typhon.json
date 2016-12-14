@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214248",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 11:38:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "翠華路與建榮路口(美美卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214247",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 11:32:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 04:45:21",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212162",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 04:40:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中博高架橋上(北往南向)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一號誌燈綠燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/12 19：38 交通局 智慧運輸中心 陳金木先生回報，該處號誌燈已修復完畢\r\n ；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 04:40:56",
-    "Close_Date_": "2016/12/12 下午 11:57:20"
   }
 ]
