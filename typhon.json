@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161214240",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 10:26:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路656號(佐登妮絲 )",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者後方目前有冷氣機運轉聲致噪音，建請會同查處。(另提供測點備註特別叮嚀)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 10:31:12",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214239",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 10:21:51",
@@ -324,14 +341,14 @@
   },
   {
     "FileNo_": "INS161214221",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 下午 08:00:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山明路409號1樓(越南咖啡)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家使用卡拉OK唱歌，噪音擾鄰，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 04:27:37",
     "Close_Date_": "2016/12/14 下午 03:51:54"
-  },
-  {
-    "FileNo_": "INS161212155",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/12 下午 04:22:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "北勢巷40之5號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 04:23:29",
-    "Close_Date_": ""
   }
 ]
