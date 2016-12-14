@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214146",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 04:25:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路與重治路(政德回收商)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該廢棄物回收業者燃燒電線導致空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 04:27:28",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214145",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:23:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:21:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212058",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 10:07:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎力路38號後方",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 10:08:43",
     "Close_Date_": ""
   }
 ]
