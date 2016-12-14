@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214055",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 09:54:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "仁武區八德南路100巷4弄52號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214054",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:48:45",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161214053",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:48:43",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大坪里高坪七十六街上(介於高坪三十五街與高坪三十七路，往西方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處停一部民間垃圾車，車內垃圾已溢滿到道路上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 09:50:50",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 07:01:15",
     "Close_Date_": "2016/12/12 上午 07:52:45"
-  },
-  {
-    "FileNo_": "INS161211146",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 下午 06:58:06",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌一路305號(大昌醫院)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該院前柱子旁有一犬隻生病，其身體正在抽蓄，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/11 20:05 農業局 動保處 陳三元先生回報，上述犬隻已由行為人(撞傷犬隻\r\n 之肇事者)自行送往動物醫院救治；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 07:01:20",
-    "Close_Date_": "2016/12/11 下午 08:08:48"
   }
 ]
