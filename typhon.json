@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214127",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 02:52:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤南路108巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園髒亂、佔用(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214126",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 下午 02:51:34",
@@ -681,14 +698,14 @@
   },
   {
     "FileNo_": "INS161214086",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 上午 11:51:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "華江街34號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址住戶所種植花盆內皆有放置肥料造成惡臭異味，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 09:17:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212037",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 09:10:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "杭州街4號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該址業者將許多廢棄盆栽花盆與廢棄物、廢棄車輛棄置在該處公寓大門前造成髒亂惡臭且孳生蚊蟲，因此恐產生登革熱疫情，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 09:23:43",
     "Close_Date_": ""
   }
 ]
