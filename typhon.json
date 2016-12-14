@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214100",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 01:29:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "旗楠路885號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處中停民眾燒金紙，濃煙密布，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214099",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 01:13:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 07:01:25",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212012",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 上午 06:48:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "為隨東路，過鐵路之後，在小蘋果檳榔攤前方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/12 07:35岡山區清潔隊楊國興先生回報，該處貓屍已清除完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 06:54:06",
-    "Close_Date_": "2016/12/12 上午 07:43:11"
   }
 ]
