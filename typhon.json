@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214138",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 03:45:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "江山路89號與92號之間",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路中央有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214137",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 03:39:06",
@@ -8178,37 +8195,37 @@
   },
   {
     "FileNo_": "INS161212172",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 05:21:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與金府路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈全數故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/12 21：05 交通局智慧運輸中心陳金木先生回報，因現場為外線故障，須報請廠商\r\n處理，目前判定無立即危險性，故轉派非網A-TB-2016-115419賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 05:23:18",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 03:46:35"
   },
   {
     "FileNo_": "INS161212171",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/12 下午 05:14:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天津街與安寧街口",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面下陷(一)",
     "BeforeDesc_": "渠反映該處路口有路面下陷情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 11:27 養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已補竣；本案不需\r\n回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 05:15:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 03:46:54"
   },
   {
     "FileNo_": "INS161212170",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 09:47:30",
     "Close_Date_": "2016/12/14 下午 02:56:20"
-  },
-  {
-    "FileNo_": "INS161212050",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 09:38:41",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "本館路與山腳路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 09:40:06",
-    "Close_Date_": ""
   }
 ]
