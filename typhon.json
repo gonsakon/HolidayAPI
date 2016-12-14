@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214202",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 06:55:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永平路27巷與苓中路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處遭丟棄多包垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214201",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 06:51:55",
@@ -69,20 +86,20 @@
   },
   {
     "FileNo_": "INS161214197",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 06:45:17",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區成功一路90號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/14 18：51通報110邱警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:56:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 06:55:17"
   },
   {
     "FileNo_": "INS161214196",
@@ -103,20 +120,20 @@
   },
   {
     "FileNo_": "INS161214195",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 06:41:39",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區新光路26號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/14 18：51通報110邱警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:56:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 06:54:54"
   },
   {
     "FileNo_": "INS161214194",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 01:59:51",
     "Close_Date_": "2016/12/14 下午 05:51:10"
-  },
-  {
-    "FileNo_": "INS161212115",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 01:51:19",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "延吉街51號對面",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一水溝蓋下陷情事，現場已放置三角錐警示，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/13 16：59 水利局市區排水一科張珞婕小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 01:57:01",
-    "Close_Date_": "2016/12/14 下午 05:52:33"
   }
 ]
