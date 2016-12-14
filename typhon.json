@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214209",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 07:15:56",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區文橫二路111號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "紅線違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214208",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 下午 07:12:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 02:24:54",
     "Close_Date_": "2016/12/13 上午 11:47:21"
-  },
-  {
-    "FileNo_": "INS161212122",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 02:21:30",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "南北路與朝福路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌燈疑似故障，持續呈現閃紅燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/12 18：04交通局智慧運輸中心陳金木先生回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 02:23:17",
-    "Close_Date_": "2016/12/14 下午 04:10:22"
   }
 ]
