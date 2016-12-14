@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161214219",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 07:56:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "三山街121號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有一盞路燈自風災過後故障不亮至今，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 07:58:21",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214218",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 07:56:00",
@@ -69,19 +86,19 @@
   },
   {
     "FileNo_": "INS161214215",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 下午 07:35:55",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路45號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線多輛汽機車違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 下午 07:58:04",
     "Close_Date_": ""
   },
   {
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161214193",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/14 下午 06:28:10",
     "ReplyUnit_": "A01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文化西路90號",
     "UnitName_": "工務局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "管線問題",
     "BeforeDesc_": "渠反映該處進行不明路面挖掘工程，惟現場無交管人員，且疑似未見告示牌，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 03:21:38",
     "Close_Date_": "2016/12/13 下午 02:43:24"
-  },
-  {
-    "FileNo_": "INS161212134",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/12 下午 03:10:33",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "九曲路527號左前方",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址一盞路燈(九曲幹49右2Q2413FA67)白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 03:14:23",
-    "Close_Date_": ""
   }
 ]
