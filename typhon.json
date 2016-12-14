@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214166",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 05:42:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "七賢二路與河西路，以及七賢橋上",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈沿線多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214165",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 05:37:42",
@@ -171,14 +188,14 @@
   },
   {
     "FileNo_": "INS161214152",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/14 下午 04:51:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路上(介於漁港路與漁港東二路間，北往南方向)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處區段間道路路面皆有兩條輪胎深溝，因此駕車行經該處時方向盤難以控制且車輛極為不穩會飄移有危險，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:58:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212079",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 10:56:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路750號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該址轉角處檳榔攤旁有一人行道下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 10:57:27",
     "Close_Date_": ""
   }
 ]
