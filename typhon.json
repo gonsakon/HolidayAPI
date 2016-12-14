@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161214104",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 01:47:31",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "成功二路8之3號對面",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處兩個號誌燈桿皆閃紅燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 下午 01:50:37",
     "Close_Date_": ""
   },
   {
