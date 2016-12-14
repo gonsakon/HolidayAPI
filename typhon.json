@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214147",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 04:29:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大同路裕農巷7弄38號旁50公尺處",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有一路燈(路燈編號：6506)白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214146",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:25:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:15:02",
     "Close_Date_": "2016/12/13 上午 10:57:42"
-  },
-  {
-    "FileNo_": "INS161212059",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 10:08:25",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "河南一路(介於忠孝一街至仁愛一街)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園髒亂、佔用(一)",
-    "BeforeDesc_": "渠反映該處幸福川於沿線步道，目前見人員於現場作業中，惟只清掃樹葉垃圾未見清除，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 10:21:28",
-    "Close_Date_": ""
   }
 ]
