@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214141",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 04:08:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "延平一路410號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "該址前沿線分隔島路燈未熄",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214140",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:00:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 09:55:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212053",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 09:49:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "裕誠路上(介於南屏路與明倫路之間)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處瑞豐夜市旁人行道上水溝已堵塞滿溢，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 09:51:45",
     "Close_Date_": ""
   }
 ]
