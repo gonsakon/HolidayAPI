@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161214046",
+    "FileNo_": "INS161214047",
     "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 09:29:46",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河西一路與同盟三路(中都願景橋)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該上路燈故障已久，時亮時不亮，有時只亮單一側，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161214046",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:29:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣興里灣興街與灣興街55巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映巷內第一盞路燈燈泡疑似快故障，燈光昏暗，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 09:30:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/11 下午 06:46:19",
     "Close_Date_": "2016/12/12 下午 05:43:11"
-  },
-  {
-    "FileNo_": "INS161211137",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/11 下午 06:38:13",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "嘉展路近台17線",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/11 20:42 溝渠隊李文山先生回報，已處理完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/11 下午 06:41:01",
-    "Close_Date_": "2016/12/12 上午 07:53:55"
   }
 ]
