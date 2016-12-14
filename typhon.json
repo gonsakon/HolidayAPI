@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161214144",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:19:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "美術東四路上近美術東三路(南往北方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面多碎石，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 下午 04:21:02",
     "Close_Date_": ""
   },
   {
@@ -2364,20 +2364,20 @@
   },
   {
     "FileNo_": "INS161214006",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 上午 01:37:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "新富路590巷10號與7-11之間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 16：18電覆陳情人未果，故於12/14 16：19簡訊回覆：李小姐您好，您12月14日\r\n所反映貓屍問題，本府環保局已派員前往清除完畢，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 01:40:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 04:24:13"
   },
   {
     "FileNo_": "INS161214005",
