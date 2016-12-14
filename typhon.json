@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161214198",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 06:45:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "工商路34號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處整排路燈不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 下午 06:46:57",
     "Close_Date_": ""
   },
   {
@@ -2109,20 +2109,20 @@
   },
   {
     "FileNo_": "INS161214072",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 上午 10:52:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "軍校路658號(7-11超商前)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人行道破損(一)",
     "BeforeDesc_": "渠反映該處前人行道磚有破損致下陷情事，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/14 14:07 養工處四維養護工程隊左楠養護分隊林玉娟小姐回報，該處已設立安全措\r\n施，需另排定期程施工，故改派非網：A-TB-2016-115965處理；並於12/14 18：44電覆陳情人，故解除管制",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 10:58:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 06:49:03"
   },
   {
     "FileNo_": "INS161214071",
