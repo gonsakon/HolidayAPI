@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 下午 05:10:27",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "801高雄市前金區青年二路46號附近",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "汽車併排停車妨礙交通",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214157",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:59:10",
@@ -1048,7 +1065,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映現該處有多個燃燒金紙產生空汙之情況，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 14:59 環保局環境稽查科陳睿文先生回報，稽查人員於14:55到達，人\r\n員於沿線光華一路右側人行道方向巡查，均未發現有燃燒金紙致空汙情事；並於12/14 17：05電覆陳\r\n情人，惟陳情人反映此為長期問題，故另派非網A-TB-2016-116035追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 12:17:05",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:47:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212071",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/12 上午 10:39:03",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "大順一路1037號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處溝壁破損導致人行道磚下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 10:42:29",
     "Close_Date_": ""
   }
 ]
