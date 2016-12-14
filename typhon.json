@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161214054",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/14 上午 09:48:45",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "有光路臥龍路",
+    "address_": "有光路與臥龍路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌全故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/14 上午 09:49:59",
     "Close_Date_": ""
   },
   {
