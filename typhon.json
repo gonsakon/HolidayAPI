@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214214",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 07:32:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前於晚間19時30分有使用機具運轉致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 07:35:30",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214213",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 07:28:34",
@@ -1548,14 +1565,14 @@
   },
   {
     "FileNo_": "INS161214120",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/14 下午 02:33:01",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光復路二段247號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該址前台電孔蓋鬆動，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 03:22:27",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212127",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 02:36:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "大坑路78號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處車禍路面有油漬 ，建請查處。",
-    "AfterDesc_": "【承辦機關完成通報】12/12 15:19 大樹區清潔隊 黃乙珊小姐回報，已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 02:38:03",
-    "Close_Date_": "2016/12/13 上午 12:10:45"
   }
 ]
