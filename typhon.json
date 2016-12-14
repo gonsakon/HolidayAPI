@@ -273,20 +273,20 @@
   },
   {
     "FileNo_": "INS161214233",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 09:28:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "中山北路與大德一路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍致路面有油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/14 22：33 溝渠清潔隊 林福來先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 09:33:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/14 下午 11:59:40"
   },
   {
     "FileNo_": "INS161214232",
