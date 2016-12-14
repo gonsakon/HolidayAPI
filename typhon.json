@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161214154",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/14 下午 04:47:50",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "成功二路上，與凱旋四路，往北方向",
-    "UnitName_": "交通局",
-    "StatusName_": "建立中",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處沿線號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161214153",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 04:47:44",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 10:33:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161212067",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/12 上午 10:25:26",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "中正路二段與新興街口",
+    "UnitName_": "交通局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口綠燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/12 上午 10:27:26",
     "Close_Date_": ""
   }
 ]
