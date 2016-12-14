@@ -120,20 +120,20 @@
   },
   {
     "FileNo_": "INS161215001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 上午 01:33:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富國路與新庄仔路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處車禍事故路面散落物，建請查處。(現場仍有員警)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/15 01：55 溝渠隊莊斯宇先生回報，該處散落物已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 01:35:13",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/15 上午 07:46:32"
   },
   {
     "FileNo_": "INS161214249",
