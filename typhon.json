@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214241",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 10:28:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新庄仔路377號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處分隔島一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 10:29:03",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214239",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 10:21:51",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 04:23:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212154",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/12 下午 04:17:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "828",
-    "ZipName_": "永安區",
-    "address_": "維新里復興路14巷10號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈(編號:維新108)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 04:21:11",
     "Close_Date_": ""
   }
 ]
