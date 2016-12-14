@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214089",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/14 上午 11:59:05",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "九如一路與建國路三段附近",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214088",
     "Status_": "1",
     "Cre_Date_": "2016/12/14 上午 11:58:11",
@@ -3605,14 +3622,14 @@
   },
   {
     "FileNo_": "INS161213140",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/13 下午 02:20:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "高速公路東側便道旁；近本館路",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 12:31:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212001",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/12 上午 12:05:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "恆豐街上與嫩江街口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 12:06:26",
     "Close_Date_": ""
   }
 ]
