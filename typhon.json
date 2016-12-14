@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161214137",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/14 下午 03:39:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "筆秀路69號後方(資勇工廠)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠燃燒物品，產生惡臭異味，導致空氣污染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/14 下午 03:43:25",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161214134",
     "Status_": "2",
     "Cre_Date_": "2016/12/14 下午 03:25:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/12 上午 09:40:06",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161212049",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/12 上午 09:37:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "本館路與本館路口(近國道1號下方，靜心園殯儀館)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌燈皆故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 上午 09:40:12",
     "Close_Date_": ""
   }
 ]
