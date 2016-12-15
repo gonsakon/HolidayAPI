@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215138",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 03:43:36",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "桂陽路209巷25弄，桂林兒童公園",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處台電電相遭撞歪，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215137",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 03:36:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 09:53:45",
     "Close_Date_": "2016/12/14 上午 10:45:56"
-  },
-  {
-    "FileNo_": "INS161213047",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 上午 09:46:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "民權路7號左邊",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈白天未熄兩天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 09:48:33",
-    "Close_Date_": ""
   }
 ]
