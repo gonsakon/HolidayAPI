@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215226",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 10:35:44",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路463號前",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一盞號誌燈綠燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215225",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 下午 10:33:48",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:05:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213135",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 02:00:53",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "南昌街與高昌街口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一藍色舊衣回收箱疑似未合法設置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:05:28",
     "Close_Date_": ""
   }
 ]
