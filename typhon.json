@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215156",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 04:23:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "神農路299號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處道路邊有一狗屍，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215155",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 下午 04:18:49",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161215152",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 04:11:36",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "830高雄市鳳山區自由路426號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上數輛機車違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/15 下午 04:24:10",
     "Close_Date_": ""
   },
   {
@@ -86,19 +103,19 @@
   },
   {
     "FileNo_": "INS161215149",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 04:05:59",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區新光路26號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上機車違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/15 下午 04:24:01",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 10:28:13",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213064",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 上午 10:19:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "1.中華一路19巷口  2.中華一路19巷76號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處地點一有2個舊衣回收箱，地點二有1個舊衣回收箱，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 10:27:59",
     "Close_Date_": ""
   }
 ]
