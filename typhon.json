@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216004",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 02:56:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "六合二路132號(樹屋旅店)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者頂樓空調有運轉噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216003",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 上午 02:29:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:28:35",
     "Close_Date_": "2016/12/13 下午 05:49:21"
-  },
-  {
-    "FileNo_": "INS161213146",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 02:25:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "應昇路7號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處工地施工揚塵未灑水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:27:06",
-    "Close_Date_": ""
   }
 ]
