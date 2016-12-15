@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161216001",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 01:32:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "",
+    "address_": "復興一路17號(鼎鴻遊藝場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處業者目前使用擴音設備撥放音樂，造成噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 上午 01:36:52",
     "Close_Date_": ""
   },
   {
@@ -358,20 +358,20 @@
   },
   {
     "FileNo_": "INS161215213",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 下午 10:04:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "唐山街與漢口街口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路口目前飄散一股不明類似鹽酸之惡臭異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局蔡元堯先生於12/16 01:36 回報：稽查人員於01:28到場，稽查時人員於上述\r\n路段周界巡查，未發現有類似類似鹽酸之惡臭異味導致空汙情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 10:07:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 上午 01:37:04"
   },
   {
     "FileNo_": "INS161215212",
