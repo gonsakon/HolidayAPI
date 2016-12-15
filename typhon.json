@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215132",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 03:13:17",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高雄市楠梓區藍田路和大學十一街口（藍田路上 向東 前面黃燈不亮）",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "黃燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215131",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 03:11:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 09:40:47",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213041",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 上午 09:35:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "旗楠路126巷與楠泰街口(盛泰公園內)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內擋土牆有2至3塊破損，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 09:39:25",
     "Close_Date_": ""
   }
 ]
