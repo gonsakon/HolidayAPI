@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215113",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 02:14:26",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "明德街與福西街(福安公園)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址遭民眾丟棄垃圾及回收物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215112",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 02:10:54",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161215111",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 02:07:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路二段，青年國中",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該校校慶，現使用擴音器聲過大，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/15 下午 02:14:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 08:06:45",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213023",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/13 上午 07:57:23",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "翠華路601巷37號 13棟1樓",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址目前有民眾燃燒金紙造成空污，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/13 10:26 環保局公害專線中區股謝朝富先生回報，稽查人員於09:55到達，當時未\r\n發現民眾燃燒金紙致空污情事，有請管理室加強勸導；並於12/14 10：32電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 08:01:26",
-    "Close_Date_": "2016/12/14 上午 10:37:42"
   }
 ]
