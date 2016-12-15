@@ -10,7 +10,7 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處巷內進行污水工程，大型發電機運轉飄散柴油臭味，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -766,20 +766,20 @@
   },
   {
     "FileNo_": "INS161214239",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 10:21:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "金鼎路與金鼎路114巷口，三民高中前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處巷口因車禍造成路面油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 22：33 溝渠清潔隊林福來先生回報，該處已清除完畢；並於12/15 09：20電覆\r\n陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 10:24:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/15 上午 09:24:39"
   },
   {
     "FileNo_": "INS161214238",
