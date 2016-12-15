@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215051",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 上午 10:06:29",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "國昌路189巷280號對面(棧板工廠前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215049",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 上午 10:00:01",
@@ -681,14 +698,14 @@
   },
   {
     "FileNo_": "INS161215010",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/15 上午 07:58:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路與天祥一路",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈桿上高處有家具廣告，望請派員清除，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 08:05:08",
     "Close_Date_": "2016/12/14 下午 03:25:14"
-  },
-  {
-    "FileNo_": "INS161212214",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 07:39:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "富民路338號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家油炸食物致油煙逸散，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/12 22:28 環保局公害專線潘政&#23791;先生回報，稽查人員於22:27到達，稽查時該店家\r\n已大門深鎖，巡查未發現有油煙逸散致空污情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 07:41:14",
-    "Close_Date_": "2016/12/14 下午 03:26:39"
   }
 ]
