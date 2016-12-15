@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216002",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 02:21:36",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "孟子路700號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "佔用道路",
+    "BeforeDesc_": "ABY1388 於12月14號16:10在孟子路700號，並排停車。車內兩人一直聊天。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216001",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 01:32:29",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:27:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213144",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 02:23:27",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "至聖路中段(凹子底公園對面)",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處有一綠色台電電箱傾倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:28:29",
     "Close_Date_": ""
   }
 ]
