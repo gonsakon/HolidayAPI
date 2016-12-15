@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215231",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 11:06:41",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路139號前",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215230",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 11:01:49",
@@ -307,14 +324,14 @@
   },
   {
     "FileNo_": "INS161215212",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/15 下午 10:00:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "阿公店路三段，往彌陀方向，接近山霸煙路得三叉路口附近",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有路面有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:22:13",
     "Close_Date_": "2016/12/14 下午 02:16:28"
-  },
-  {
-    "FileNo_": "INS161213140",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/13 下午 02:20:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "高速公路東側便道旁；近本館路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/14 11:47 養工處鳳山養護工程隊陳毓郡小姐回報，該處無危險性，表示第一次回報\r\n僅確認現場有無危險性，然經查該處兩盞路燈在三民區範圍內，故改派派工INS161214088 賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:27:29",
-    "Close_Date_": "2016/12/14 下午 02:06:51"
   }
 ]
