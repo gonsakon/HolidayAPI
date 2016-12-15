@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215136",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 03:32:12",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "新上街87號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處污水管阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215135",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 下午 03:30:13",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161215103",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/15 下午 01:51:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "公園二路與新興街(華后飯店後面)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該址第三公廁男廁，水龍頭損壞一直漏水，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 09:48:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213046",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 上午 09:44:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "壽民路28號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址旁遭置廢棄傢俱、垃圾包且已發臭，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 09:55:34",
     "Close_Date_": ""
   }
 ]
