@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216009",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 07:53:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "東亞路上與崇明街口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處綠燈號號，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216008",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 07:45:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:57:07",
     "Close_Date_": "2016/12/14 下午 12:46:09"
-  },
-  {
-    "FileNo_": "INS161213151",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 02:50:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "大湖里民權路178號(製皮業者)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者製皮機具作業致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:53:40",
-    "Close_Date_": ""
   }
 ]
