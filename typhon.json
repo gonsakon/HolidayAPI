@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215210",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 09:55:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215209",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 09:47:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 01:59:46",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213119",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/13 下午 01:39:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大埤路132號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "怠速",
-    "BeforeDesc_": "渠反映該處約有5至6台車輛有怠速情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/13 15：47環保局怠速專線章家豪先生回報，稽查人員於15：25到達，未發現有怠速\r\n車輛；並於12/14 11：58電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 01:41:16",
-    "Close_Date_": "2016/12/14 下午 12:04:32"
   }
 ]
