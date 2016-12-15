@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215022",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 上午 08:36:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路453號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "路燈未熄",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215021",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 上午 08:34:53",
@@ -14,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161215020",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/15 上午 08:34:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路232號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該址前人行道紅磚破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/15 上午 08:37:25",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/12 下午 06:06:02",
     "Close_Date_": "2016/12/14 下午 03:44:05"
-  },
-  {
-    "FileNo_": "INS161212185",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 05:56:25",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區三多二路369號至375號沿線人行道上",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上多輛機車違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於12/12 17:59 通報110國警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 05:59:15",
-    "Close_Date_": "2016/12/12 下午 06:00:42"
-  },
-  {
-    "FileNo_": "INS161212184",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/12 下午 05:53:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "捷興二街31號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞LED路燈仍故障不亮，建請確實查修。",
-    "AfterDesc_": "【主管解除管制】本案於 12/13 21：35養工處四維養護工程隊九如養護分隊胡建州先生回報：該處路\r\n燈已修復完畢；並於12/14 11：18電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/12 下午 05:55:31",
-    "Close_Date_": "2016/12/14 上午 11:18:25"
   }
 ]
