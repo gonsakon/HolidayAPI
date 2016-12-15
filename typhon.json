@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215225",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/15 下午 10:33:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "崇實里先勝路、崇實路、先鋒路周界",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215224",
     "Status_": "2",
     "Cre_Date_": "2016/12/15 下午 10:26:42",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161215221",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/15 下午 10:17:02",
     "ReplyUnit_": "E01001",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "建民路與意誠路口",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有三隻流浪犬會追咬路人，望請派員捕抓，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 02:05:28",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213134",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 02:00:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "裕昌街312號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一藍色舊衣回收箱疑似未合法設置，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 02:05:24",
     "Close_Date_": ""
   }
 ]
