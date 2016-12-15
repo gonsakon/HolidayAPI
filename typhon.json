@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161215168",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/15 下午 05:00:49",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文龍東路530號(鳳山熱帶園藝試驗分所)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處斑馬線上有一凹陷坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/15 下午 05:01:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161215167",
     "Status_": "1",
     "Cre_Date_": "2016/12/15 下午 04:59:18",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161215140",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/15 下午 03:47:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德賢路600號(阿帕懷舊碳烤土司)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家目前有炭烤異味空汙，且排煙管直接排向馬路，望請勸導改善，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 上午 10:54:00",
     "Close_Date_": "2016/12/13 下午 08:57:43"
-  },
-  {
-    "FileNo_": "INS161213077",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/13 上午 10:46:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術東二路與明誠四路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處照向人行道路燈有兩盞故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 上午 10:47:57",
-    "Close_Date_": ""
   }
 ]
