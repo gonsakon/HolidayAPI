@@ -1718,20 +1718,20 @@
   },
   {
     "FileNo_": "INS161214216",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 07:36:12",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國二路119號(建國電腦商場)前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處路邊有大量垃圾包堆積，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 20:51溝渠清潔隊莊斯宇先生回報，該12/15 10：56電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 07:38:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/15 上午 11:01:44"
   },
   {
     "FileNo_": "INS161214215",
