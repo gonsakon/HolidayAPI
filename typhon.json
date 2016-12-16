@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216109",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 02:14:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "典昌路與通港路口(通安宮牌坊下)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216108",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 02:09:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 09:51:12",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213253",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 09:45:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "華夏路905號後方(靠近植物園門口)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處地點後方有一不明道路工程在施作，有施工噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 09:47:11",
     "Close_Date_": ""
   }
 ]
