@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161216018",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 08:49:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "龍誠路，五甲國中",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠目前擴音器",
+    "BeforeDesc_": "渠反映該校目前校慶活動，惟使用擴音器聲過大，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 上午 08:56:38",
     "Close_Date_": ""
   },
   {
@@ -732,20 +732,20 @@
   },
   {
     "FileNo_": "INS161215208",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 下午 09:30:53",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "高雄市鳳山區瑞芳街40巷",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "你好 我要反映一下高雄市鳳山區瑞芳街40巷路面上的紅色標線不清楚.巷子口很小常有違規停放汽機車.影響居民進出如果遇到緊急狀況.救護車消防車根本無法開入.請幫忙一下 感謝",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於人民陳情案件A-TB-2016-116388由交通局辦理，倘您對本案處理有疑問，歡迎您再電\r\n洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 09:35:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 上午 09:00:08"
   },
   {
     "FileNo_": "INS161215207",
