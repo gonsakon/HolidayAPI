@@ -1,16 +1,33 @@
 [
   {
+    "FileNo_": "INS161217011",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 上午 07:21:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "力行路上全線",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該處路燈皆白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217010",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 上午 07:12:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "",
+    "address_": "中山南路上和春護理之家前(捷運站旁)",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處發生車禍撞死一隻哈士奇，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 02:35:59",
     "Close_Date_": "2016/12/16 下午 05:37:31"
-  },
-  {
-    "FileNo_": "INS161214120",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 02:33:01",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路二段247號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該址前台電孔蓋鬆動，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/14 19:34 台電鳳山區處曾先生回報，該處台電孔蓋已修復；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 02:38:09",
-    "Close_Date_": "2016/12/15 下午 02:54:44"
   }
 ]
