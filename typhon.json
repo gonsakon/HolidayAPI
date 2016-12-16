@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216204",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 08:04:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文守路43巷與文才街口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一疑似廢法設置之舊衣回收箱，且周邊周棄置許多垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216203",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 下午 08:03:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 11:39:21",
     "Close_Date_": "2016/12/14 下午 06:22:10"
-  },
-  {
-    "FileNo_": "INS161214081",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 11:17:12",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "光明路一段339巷1號隔壁第二間鐵工廠",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處工廠目前作業機具聲音過大，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 11:20:19",
-    "Close_Date_": ""
   }
 ]
