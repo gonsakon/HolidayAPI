@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216071",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 12:09:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "崗德路上，近納骨塔",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216070",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 12:06:37",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 06:31:29",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213215",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 06:27:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "建楠路126號(三商巧福)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該店家使用小聲公擴音設備叫賣致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 06:28:36",
     "Close_Date_": ""
   }
 ]
