@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216166",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 05:32:11",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "830高雄市鳳山區自由路426號人行道",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216165",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 下午 05:31:14",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161216163",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/16 下午 05:01:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "順安路51號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。(陳情人表示目前人在現場，請人員到達前先行聯繫)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 09:20:06",
     "Close_Date_": "2016/12/14 下午 05:27:37"
-  },
-  {
-    "FileNo_": "INS161214040",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 上午 09:12:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "沿海路四段上與東林西路口(往雙園大橋方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該處快車道上有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/14 10:17林園區清潔隊王櫻蓉小姐回報，已清除完畢；並於12/14 14：12電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 09:21:04",
-    "Close_Date_": "2016/12/14 下午 02:14:33"
   }
 ]
