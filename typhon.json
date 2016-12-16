@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161216189",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 06:37:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "中山四路上與平和東路口(往東方向)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口紅燈右轉之綠燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 下午 06:39:58",
     "Close_Date_": ""
   },
   {
@@ -94,8 +94,8 @@
     "address_": "820台灣高雄市岡山區河華路1號",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "河 華路1號路燈故障未亮！請派員修復謝謝",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "河華路1號路燈故障未亮！請派員修復謝謝",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
