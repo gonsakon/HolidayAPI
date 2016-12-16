@@ -8722,20 +8722,20 @@
   },
   {
     "FileNo_": "INS161214192",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 06:27:47",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心二路2巷13弄1號轉角處",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處第一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/15 00：23養工處四維養護工程隊九如養護分隊林泉先生回報：該處已修復完畢；\r\n本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:29:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 11:13:57"
   },
   {
     "FileNo_": "INS161214191",
