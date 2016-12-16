@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161216012",
+    "FileNo_": "INS161216013",
     "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 08:20:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路樹傾倒(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161216012",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 08:13:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
-    "address_": "中正路897號",
+    "address_": "中正路897號快樂天堂休閒農場對面",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一狗屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 上午 08:16:55",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 03:41:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213155",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/13 下午 03:08:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "立德路149之1號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前遭棄置多包垃圾包，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/13 17:04 北鳳山區清潔隊楊孟珍小姐回報，該處垃圾包無影響交通，後續會再前往\r\n清運，並已和陳情人聯繫說明，其表示接受，因需持續追查行為人，故改派非網A-TB-2016-115718賡續辦理；並\r\n於12/13 17：30電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 03:10:48",
-    "Close_Date_": "2016/12/13 下午 05:31:35"
   }
 ]
