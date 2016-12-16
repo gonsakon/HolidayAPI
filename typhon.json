@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 03:36:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文天路上與重仁路口(小王子大樓7樓)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216139",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 03:33:15",
@@ -511,14 +528,14 @@
   },
   {
     "FileNo_": "INS161216108",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/16 下午 02:09:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "哈爾濱街與安寧街",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處疑似服飾店，其使用擴音器叫賣致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 07:44:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214016",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 07:08:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園旁的鳳山溪",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映目前鳳山溪溪水呈現黑色，疑似遭排放廢水汙染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 07:12:08",
     "Close_Date_": ""
   }
 ]
