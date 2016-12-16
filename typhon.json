@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216046",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 10:13:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁勇路149號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "怠速",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216045",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 上午 10:13:23",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161216043",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 10:12:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛三路左營國中",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該國中疑似舉辦校慶線擴音器撥放音樂聲響十分大噪音擾民，建請查處。",
+    "BeforeDesc_": "渠反映該國中疑似舉辦校慶現擴音器聲響十分大噪音擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 上午 10:13:42",
     "Close_Date_": ""
   },
   {
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161216027",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/16 上午 09:28:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "846",
     "ZipName_": "杉林區",
     "address_": "杉林大橋",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映過橋後300公尺，往舊的合森派出所方向，該處有一狗屍，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 05:36:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213188",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/13 下午 05:34:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁林路上(往烏材林方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映由國道往烏材林方向，右手邊有一盞路燈螺絲鬆脫傾斜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 05:37:29",
     "Close_Date_": ""
   }
 ]
