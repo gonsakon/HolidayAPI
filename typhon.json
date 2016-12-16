@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216050",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 10:37:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈一盞不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216049",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 上午 10:35:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 05:49:14",
     "Close_Date_": "2016/12/14 下午 03:22:40"
-  },
-  {
-    "FileNo_": "INS161213192",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/13 下午 05:47:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "復興路與復興路1133巷交叉口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有米粒散落一地，已有派警員前往交管，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/13 18：25 路竹區清潔隊 陳志榮先生回報，該處散落米粒已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 05:50:24",
-    "Close_Date_": "2016/12/13 下午 08:56:57"
   }
 ]
