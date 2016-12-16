@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216206",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 08:20:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "九如四路1017號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處附近水溝散發不明異味，質疑遭偷排廢棄物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216205",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 08:09:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 11:52:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214083",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 11:41:52",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中厝里金潭路(金潭國小往兵營方向上坡處)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有一流動卡拉OK攤販，現有唱歌噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 11:45:49",
     "Close_Date_": ""
   }
 ]
