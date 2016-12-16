@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216189",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 06:37:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中山四路上與平和東路口(往東方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口紅燈右轉之綠燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216188",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 06:35:18",
@@ -256,20 +273,20 @@
   },
   {
     "FileNo_": "INS161216173",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 05:45:09",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區三多二路421號人行道",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:35:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 06:38:39"
   },
   {
     "FileNo_": "INS161216172",
@@ -307,20 +324,20 @@
   },
   {
     "FileNo_": "INS161216170",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 05:38:23",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區三多一路127號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:34:53",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 06:38:31"
   },
   {
     "FileNo_": "INS161216169",
@@ -358,37 +375,37 @@
   },
   {
     "FileNo_": "INS161216167",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 05:34:37",
     "ReplyUnit_": "A02000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "831高雄市大寮區鳳屏一路720號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "檳榔攤違規佔用人行道",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:34:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 06:38:24"
   },
   {
     "FileNo_": "INS161216166",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 05:32:11",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "830高雄市鳳山區自由路426號人行道",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:34:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 06:37:16"
   },
   {
     "FileNo_": "INS161216165",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 10:39:00",
     "Close_Date_": "2016/12/16 下午 04:55:03"
-  },
-  {
-    "FileNo_": "INS161214066",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 10:30:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "溝坪路96號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址有一盞路燈故障時亮時滅，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 10:32:25",
-    "Close_Date_": ""
   }
 ]
