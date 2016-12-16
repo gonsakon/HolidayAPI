@@ -10184,19 +10184,19 @@
   },
   {
     "FileNo_": "INS161214098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/14 下午 12:47:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟一路279號與281號之間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處水溝蓋上有一鼠屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/14 13:13三民西區清潔隊張美珠小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 12:48:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 10:12:41"
   }
 ]
