@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161216128",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 03:04:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑路34之10號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處廢鐵回收廠有作業鐵屑空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216127",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 下午 03:03:53",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161216126",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 03:03:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "海邊路與青年二路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請修繕。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 下午 03:04:24",
     "Close_Date_": ""
   },
   {
@@ -2415,20 +2432,20 @@
   },
   {
     "FileNo_": "INS161215217",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 下午 10:07:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "開封街與民生一路交叉口(山水卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處地點有一卡拉OK店家，有擴音機唱歌噪音，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/16 01:08環保局公害專線中區 蔡元堯先生回報，稽查人員於22:37到達，稽查時人\r\n員要求調降音量，業者立即配合，並於附近周界巡查，未發現擴音器聲響致噪音情事，仍促請業者注意防範；並\r\n於12/16 14：55電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 10:09:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 03:06:23"
   },
   {
     "FileNo_": "INS161215216",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 01:40:16",
     "Close_Date_": "2016/12/14 下午 04:24:13"
-  },
-  {
-    "FileNo_": "INS161214005",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 01:28:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓波街30號旁邊巷子",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有道路施工，使用機具產生噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 01:30:02",
-    "Close_Date_": ""
   }
 ]
