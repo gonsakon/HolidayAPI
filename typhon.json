@@ -358,19 +358,19 @@
   },
   {
     "FileNo_": "INS161216166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 05:32:11",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "830高雄市鳳山區自由路426號人行道",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/16 下午 06:34:38",
     "Close_Date_": ""
   },
   {
