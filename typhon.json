@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216174",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 05:48:07",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "802高雄市苓雅區三多三路132號人行道",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216173",
     "Status_": "1",
     "Cre_Date_": "2016/12/16 下午 05:45:09",
@@ -1038,20 +1055,20 @@
   },
   {
     "FileNo_": "INS161216112",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 02:26:12",
     "ReplyUnit_": "E01001",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正忠路105號對面",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處電器箱內有幼貓受困，請致電會同，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/16 14：48 農業局動物保護處史明德先生回報，先行致電陳情人詢問，並告知因屬\r\n台電電箱人員無法破壞救援，陳情人已了解並會自行向台電聯絡協助；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:27:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 05:51:39"
   },
   {
     "FileNo_": "INS161216111",
@@ -3435,20 +3452,20 @@
   },
   {
     "FileNo_": "INS161215203",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 下午 08:40:43",
     "ReplyUnit_": "E01001",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "樂園街82號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/15 21:44農業局動物保護處捕犬大隊陳三元先生回報，該貓隻並未有受傷，人員查\r\n看是卡在車輛裡面，已經協助救出；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 08:43:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 下午 05:51:03"
   },
   {
     "FileNo_": "INS161215202",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 09:55:28",
     "Close_Date_": "2016/12/14 上午 09:57:02"
-  },
-  {
-    "FileNo_": "INS161214051",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/14 上午 09:38:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路132號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址旁機車道上有路面下陷情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 09:40:57",
-    "Close_Date_": ""
   }
 ]
