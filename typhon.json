@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216054",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 11:01:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高楠公路上(與水管路口，往北，至陸橋)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處中央分隔島上多酒瓶及垃圾等，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216053",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 10:47:22",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161216044",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/16 上午 10:13:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "大正路與大正一街口，大正路上",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有不明液體，導致惡臭，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 06:00:03",
     "Close_Date_": "2016/12/16 上午 09:21:57"
-  },
-  {
-    "FileNo_": "INS161213196",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/13 下午 05:58:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "澄清路與園山路",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮多日，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 05:59:56",
-    "Close_Date_": ""
   }
 ]
