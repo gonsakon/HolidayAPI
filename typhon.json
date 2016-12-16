@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216034",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 上午 09:43:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "小坪路73號，小坪國小大門",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216031",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 09:40:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 04:47:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213177",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 04:43:56",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山一路161巷50弄47號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處聽聞一聲爆炸聲響後，沿線住家便停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 04:46:04",
     "Close_Date_": ""
   }
 ]
