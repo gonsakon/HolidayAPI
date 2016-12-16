@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217004",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 上午 02:04:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217003",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 12:42:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 02:22:52",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214113",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 下午 02:17:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "內東里柿仔園10號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前有2盞燈(編號AE31、AE55)故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 02:23:04",
     "Close_Date_": ""
   }
 ]
