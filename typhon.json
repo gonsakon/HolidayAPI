@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216057",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/16 上午 11:13:24",
+    "ReplyUnit_": "F01010",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "澄清巷30之1號與30之3號之間",
+    "UnitName_": "仁武區公所",
+    "StatusName_": "待確認",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處電桿旁路基掏空，望盡速派員修復，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/16 上午 11:17:04",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216056",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 上午 11:12:08",
@@ -2891,20 +2908,20 @@
   },
   {
     "FileNo_": "INS161215117",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/15 下午 02:35:26",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路與南屏路口(私立加州幼稚園)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該路口有一幼稚園，使用擴音設備產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/16 11：13電覆陳情人未果，故於12/16 11：16簡訊回覆：林小姐您好，您12月15日\r\n所反映擴音噪音問題，經本府環保局前往稽查，附近巡視未發現上述噪音情事，感謝您的熱心通報，倘您對案件\r\n處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 02:37:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/16 上午 11:20:56"
   },
   {
     "FileNo_": "INS161215115",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 06:06:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161213200",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 06:03:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "神農路161號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 06:04:55",
     "Close_Date_": ""
   }
 ]
