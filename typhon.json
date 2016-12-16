@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216186",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/16 下午 06:19:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "仁愛路二段2巷1號前",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，已反映許久仍未修復，建請查處。(另表示方便洽詢時間為18時後)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/16 下午 06:25:29",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216185",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 06:15:00",
@@ -1055,14 +1072,14 @@
   },
   {
     "FileNo_": "INS161216123",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/16 下午 02:59:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正忠路335號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址目前有使用機具致噪音情形，已長達一個禮拜，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 10:29:54",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214063",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 10:27:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "成功一路與新田路口(台灣銀行)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處號誌燈下方有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 10:31:45",
     "Close_Date_": ""
   }
 ]
