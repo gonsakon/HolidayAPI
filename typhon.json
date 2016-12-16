@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216176",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 05:51:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中山一路322號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處店家飄散油煙異味，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216175",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 05:49:14",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 上午 09:49:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214053",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 上午 09:48:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大坪里高坪七十六街上(介於高坪三十五街與高坪三十七路，往西方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處停一部民間垃圾車，車內垃圾已溢滿到道路上，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 上午 09:50:50",
     "Close_Date_": ""
   }
 ]
