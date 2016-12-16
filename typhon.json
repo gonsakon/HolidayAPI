@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161216087",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/16 下午 12:57:51",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "萬金路349巷21之1號對面",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "一路燈故障不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161216086",
     "Status_": "2",
     "Cre_Date_": "2016/12/16 下午 12:54:44",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/13 下午 07:35:19",
     "Close_Date_": "2016/12/14 下午 01:45:21"
-  },
-  {
-    "FileNo_": "INS161213231",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/13 下午 07:27:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "站前南路55號對面人行道",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處遭堆放許多木材，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/13 下午 07:29:06",
-    "Close_Date_": ""
   }
 ]
