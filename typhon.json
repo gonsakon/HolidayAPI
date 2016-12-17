@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217123",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 03:57:55",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區文橫三路45號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "汽機車紅線違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217120",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 下午 03:44:12",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161217114",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/17 下午 03:19:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路與大中二路口，往翠華路方向",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處機車地下道入口處牆面噴出水，水量不小，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 09:19:21",
     "Close_Date_": "2016/12/15 上午 12:01:54"
-  },
-  {
-    "FileNo_": "INS161214231",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 09:10:47",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "高雄市一心二路206號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "機車人行道上違規停車",
-    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 許警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 09:39:45",
-    "Close_Date_": "2016/12/14 下午 09:43:16"
   }
 ]
