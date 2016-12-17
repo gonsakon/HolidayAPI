@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217093",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 01:08:29",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞隆東路與保泰路口，保泰路上",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "號誌燈紅燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217091",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 01:08:07",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161217092",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 01:08:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "覺民路與臥龍路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有故障不亮情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 01:08:52",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 07:02:43",
     "Close_Date_": "2016/12/15 下午 05:30:58"
-  },
-  {
-    "FileNo_": "INS161214203",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 07:01:14",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "高雄市前金區七賢二路295號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 林警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 07:06:51",
-    "Close_Date_": "2016/12/14 下午 07:10:54"
   }
 ]
