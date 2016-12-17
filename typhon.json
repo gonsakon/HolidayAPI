@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161217130",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 04:15:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "會同",
+    "BeforeDesc_": "渠反映該處小吃店目前有烹煮食材油煙逸散致空污，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 04:17:52",
     "Close_Date_": ""
   },
   {
@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS161217128",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 04:09:14",
     "ReplyUnit_": "A02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "800高雄市新興區中山二路526號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/17 16:16 通報110陳警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:11:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 04:17:53"
   },
   {
     "FileNo_": "INS161217127",
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161217125",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 04:01:04",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區三多四路33號附近",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/17 16:16 通報110陳警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:11:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 04:18:06"
   },
   {
     "FileNo_": "INS161217124",
