@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218007",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 上午 01:12:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "莒光街219號B1 (岩石PUB )",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家擴音器設備聲響過大，噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218006",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 12:38:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 12:52:29",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161215092",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 12:50:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "瑞祥街1巷2號後方",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處箱型車的車輪旁有一貓屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 13：13 前鎮區清潔隊洪惠貞小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 12:53:46",
-    "Close_Date_": "2016/12/17 上午 11:18:37"
   }
 ]
