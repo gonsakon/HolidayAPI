@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217164",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 06:41:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "岡山區竹圍中街30巷35號外路燈",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "路燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217163",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 下午 06:40:08",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161217162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 06:39:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由三路與曾子路交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路口有一盞LED路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 06:40:49",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 08:57:37",
     "Close_Date_": "2016/12/17 上午 12:25:57"
-  },
-  {
-    "FileNo_": "INS161215025",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 上午 08:50:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "河西一路1566號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址正進行施工產生機具噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 12：20 環保局公害專線胡清明先生回報，稽查人員於09：50到達，該處係整修\r\n房屋大門深鎖，稽查當時未發現有機具產生噪音情事；並於12/16 10：02電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 08:53:04",
-    "Close_Date_": "2016/12/16 上午 10:09:44"
   }
 ]
