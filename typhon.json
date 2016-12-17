@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161217079",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 11:58:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "文武一街與七賢二路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌最近有前後不連鎖情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 上午 11:59:16",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161217077",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 11:54:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "右昌街(介於藍昌路至德民路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "中央分隔島整條沿線 80*80售屋廣告",
+    "BeforeDesc_": "渠反映該處中央分隔島燈桿與號誌燈桿上，整條沿線皆有80*80售屋廣告，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 上午 11:58:43",
     "Close_Date_": ""
   },
   {
