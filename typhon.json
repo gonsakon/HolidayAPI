@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161217192",
+    "FileNo_": "INS161217193",
     "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 09:07:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自立一路53巷與瑞源路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161217192",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 09:06:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "鳳仁路100號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒塑膠惡臭異味，導致空氣污染，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 09:07:32",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 10:40:48",
     "Close_Date_": "2016/12/17 上午 10:45:48"
-  },
-  {
-    "FileNo_": "INS161215054",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 上午 10:33:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山三路48號(自助餐)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家目前有油煙異味致空污情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 12：20 環保局公害專線胡清明先生回報，稽查人員於11：45到達，現場為貞美\r\n自助餐，設有靜電油煙淨化機，疑似未清洗有少許異味，業者已自行承諾增加水洗設備，預計106年元月14日後\r\n複查，故轉派非網：A-TB-2016-116234；並於12/16 10：51電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 10:33:30",
-    "Close_Date_": "2016/12/16 上午 10:56:47"
   }
 ]
