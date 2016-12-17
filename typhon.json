@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217185",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 08:19:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "廣澤街上(商港街14巷24弄21號旁邊)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217184",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 08:12:27",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 09:49:53",
     "Close_Date_": "2016/12/16 上午 10:50:08"
-  },
-  {
-    "FileNo_": "INS161215046",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/15 上午 09:46:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "旗文路上，實踐大學與順賢宮之間路口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處分隔島上中間有二盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 09:48:25",
-    "Close_Date_": ""
   }
 ]
