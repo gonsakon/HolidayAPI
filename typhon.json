@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217096",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 01:13:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "八德西路532巷2號前方公園外",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處於溝邊及電桿長雜草處遭人棄置2包垃圾包，及建築廢棄木板，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217095",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 01:11:12",
@@ -698,14 +715,14 @@
   },
   {
     "FileNo_": "INS161217054",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/17 上午 10:37:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路34之10號(廢鐵回收廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有鐵屑致揚塵情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 07:10:57",
     "Close_Date_": "2016/12/16 下午 11:52:59"
-  },
-  {
-    "FileNo_": "INS161214206",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/14 下午 07:07:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "北汕里北汕巷97之30號旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 07:09:48",
-    "Close_Date_": ""
   }
 ]
