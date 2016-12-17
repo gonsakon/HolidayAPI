@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161217104",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/17 下午 01:59:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌一路4號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址住戶進行裝潢產生強力膠化學異味之情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/17 下午 02:05:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217103",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 01:50:10",
@@ -52,14 +69,14 @@
   },
   {
     "FileNo_": "INS161217101",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/17 下午 01:41:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "翠華路上(介於世運大道與海功東路之間，往高雄方向)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處汽車道內側車道有一貓屍，建請清除。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 07:38:57",
     "Close_Date_": "2016/12/15 上午 11:01:44"
-  },
-  {
-    "FileNo_": "INS161214215",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 07:35:55",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線多輛汽機車違規停車",
-    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，代為通報 110 勤務指揮中心 陳警員成功，\r\n 感謝您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 07:58:04",
-    "Close_Date_": "2016/12/14 下午 08:06:05"
   }
 ]
