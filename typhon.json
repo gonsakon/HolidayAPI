@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217040",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/17 上午 09:31:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "洲仔巷23號之1",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠於屋外施做噴漆作業空污擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/17 上午 09:33:46",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217039",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 09:21:58",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 04:45:37",
     "Close_Date_": "2016/12/16 下午 10:41:05"
-  },
-  {
-    "FileNo_": "INS161214148",
-    "Status_": "2",
-    "Cre_Date_": "2016/12/14 下午 04:35:21",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "遼寧一街144巷1號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "台電-孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一台電方形孔蓋有凹凸不平與鬆動噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 04:38:03",
-    "Close_Date_": ""
   }
 ]
