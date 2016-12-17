@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218029",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 上午 07:51:26",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "鋼平街171號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處台電孔蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218028",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 07:48:25",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161218026",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 07:41:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
-    "address_": "介壽東路上(岡山文化中心旁)",
+    "address_": "介壽東路上(岡山文化中心旁、岡山往燕巢方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路橋上內側車道有一貓屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 上午 07:51:12",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 02:29:35",
     "Close_Date_": "2016/12/17 下午 01:19:47"
-  },
-  {
-    "FileNo_": "INS161215114",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 02:16:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維一路與福安路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址號誌燈下有兩個疑似未合法設置舊衣回收箱，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 14：57苓雅區清潔隊謝炳章先生回報，該處舊衣回收箱已限期廠商2日內清除完\r\n畢，故轉非網:A-TB-2016-116271；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 02:19:22",
-    "Close_Date_": "2016/12/17 下午 01:20:57"
   }
 ]
