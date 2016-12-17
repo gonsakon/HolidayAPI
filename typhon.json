@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217168",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 07:04:31",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "河堤路一段上(介於大仁南路與聖森間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處沿線路段多盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217167",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 06:54:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 09:12:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161215029",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 上午 09:07:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "西子灣捷運2號出口往南未過臨海新路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行磚道凹凸不平，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 09:10:49",
     "Close_Date_": ""
   }
 ]
