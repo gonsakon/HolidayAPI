@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217110",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 02:59:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "濱海一路11之7號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈故障不亮三天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217109",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 下午 02:49:45",
@@ -4455,54 +4472,54 @@
   },
   {
     "FileNo_": "INS161216078",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 12:34:54",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "黃埔公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
     "BeforeDesc_": "渠反映現該公園內掛設垃圾袋已滿，且園內有許多衛生紙、塑膠餐具、玻璃瓶與碎片髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 08：20 養工處鳳山養護工程隊陳毓郡小姐回報，該處已清除完畢；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:39:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 03:00:42"
   },
   {
     "FileNo_": "INS161216077",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 12:31:07",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "樂群路與壽民路",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路樹傾倒(一)",
     "BeforeDesc_": "渠反映該處路樹修剪已完成但修剪公告至今未拆除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/16 14:58 養工處四維養護工程隊左楠分隊周佳錚小姐回報，該處已協助拆除；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:33:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 03:00:31"
   },
   {
     "FileNo_": "INS161216076",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/16 下午 12:30:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "大學十街與大學七街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌與大學十街其他號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/16 16：05 智慧運輸中心謝滿威先生回報，該處無立即危險性，惟屬機板故障導致\r\n需報修，故轉派非網：A-TB-2016-116595；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:32:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 02:59:02"
   },
   {
     "FileNo_": "INS161216075",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 08:04:00",
     "Close_Date_": "2016/12/15 上午 11:06:22"
-  },
-  {
-    "FileNo_": "INS161214220",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/14 下午 07:57:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "協和里友愛巷70號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮(桿號：3590)，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 08:00:35",
-    "Close_Date_": ""
   }
 ]
