@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217090",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 01:03:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "大同一街與同和路口附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有二處新建案，",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217089",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 12:46:40",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:54:24",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214199",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 06:48:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山二路83巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈仍故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 21：40養工處四維養護工程隊九如養護分隊劉緒祥先生回報，該處已修復完\r\n畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 06:50:39",
-    "Close_Date_": "2016/12/16 下午 11:18:32"
   }
 ]
