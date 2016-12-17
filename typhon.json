@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161217147",
+    "FileNo_": "INS161217148",
     "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 05:42:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "登山街上(由臨海一路轉入)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有不明工程於路面進行灌漿作業，未設告示牌致交通阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161217147",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 05:40:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "水管路(介於神農路與大同路間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該路段沿線有許多坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 05:41:43",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 07:59:36",
     "Close_Date_": "2016/12/17 上午 12:21:00"
-  },
-  {
-    "FileNo_": "INS161215009",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 上午 07:45:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "後港巷163號後方",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞日光燈路燈故障不亮，並要求調整照射光源角度,建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 07:48:22",
-    "Close_Date_": ""
   }
 ]
