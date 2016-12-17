@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161217146",
+    "FileNo_": "INS161217147",
     "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 05:40:30",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "水管路(介於神農路與大同路間)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該路段沿線有許多坑洞，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161217146",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 05:37:51",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "南屏路1號(勝利國小)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處國小辦活動，擴音器噪音，建請查處。",
+    "BeforeDesc_": "渠反映該處國小舉辦活動，擴音器噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 05:40:23",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 07:48:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161215008",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 上午 07:41:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "829",
-    "ZipName_": "湖內區",
-    "address_": "民族街110巷56號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有堆置廢棄物造成髒亂，建請會同查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 09:05湖內區清潔隊蕭嘉琪小姐回報，已會同陳情人並清除完畢；並於12/16 \r\n09：50電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 07:47:23",
-    "Close_Date_": "2016/12/16 上午 09:57:06"
   }
 ]
