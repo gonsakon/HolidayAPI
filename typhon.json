@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161217038",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/17 上午 09:19:38",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "大明路89號(大碗公自助餐前)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前路面先前補過，因疑似回填不實再度掏空下陷 ，然現場已放安全錐，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/17 上午 09:27:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217037",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 09:18:38",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 04:38:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214147",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/14 下午 04:29:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大同路裕農巷7弄38號旁50公尺處",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(路燈編號：6506)白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 04:30:38",
     "Close_Date_": ""
   }
 ]
