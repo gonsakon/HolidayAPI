@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217144",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 05:26:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟三路上(中都磚窯廠旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空地",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217143",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 下午 05:25:18",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161217142",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 05:24:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "漯底路61巷51弄8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該址前有一盞路燈從風災至今白天一直放亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 05:25:49",
     "Close_Date_": ""
   },
   {
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161217131",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/17 下午 04:20:40",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合一路55巷38號旁",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處有一汙水管阻塞情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 上午 07:31:44",
     "Close_Date_": "2016/12/17 上午 12:20:56"
-  },
-  {
-    "FileNo_": "INS161215005",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 上午 07:04:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園旁",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鳳山溪呈黑色，恐有污染，請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 08：22環保局環境稽查科中區股陳彥州先生回報，稽查人員於07：43到達，現\r\n場水色呈黑色，惟未發現有工廠異常排放情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 上午 07:13:47",
-    "Close_Date_": "2016/12/17 上午 12:02:54"
   }
 ]
