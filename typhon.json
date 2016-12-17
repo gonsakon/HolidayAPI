@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217124",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 03:58:43",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區文橫三路45號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "汽機車紅線違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217123",
     "Status_": "1",
     "Cre_Date_": "2016/12/17 下午 03:57:55",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 09:33:29",
     "Close_Date_": "2016/12/14 下午 11:59:40"
-  },
-  {
-    "FileNo_": "INS161214232",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 09:18:06",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "環湖路與大埤路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處發生車禍致路面油漬，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於 12/14 21:50 溝渠清潔隊 莊斯宇先生回報，該處已清除完畢；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 09:19:21",
-    "Close_Date_": "2016/12/15 上午 12:01:54"
   }
 ]
