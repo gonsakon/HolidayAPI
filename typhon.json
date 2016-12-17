@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161217087",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 12:44:38",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "孔宅街16號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址住戶犬隻目前遭流浪犬咬傷嚴重，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161217086",
     "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 12:35:52",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:46:57",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161214197",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 06:45:17",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "高雄市苓雅區成功一路90號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於12/14 18：51通報110邱警員查處，倘您對本案處理有疑問，歡迎您再電洽\r\n1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 06:56:40",
-    "Close_Date_": "2016/12/14 下午 06:55:17"
   }
 ]
