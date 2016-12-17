@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161217218",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 10:52:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "宏平路295號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址店家使用擴音設備唱卡拉OK，音量過大擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案與派工INS161217212為相同案件，且為同一名陳情人進線反映，故併入派工INS161217212\r\n辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 10:55:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 11:03:27"
   },
   {
     "FileNo_": "INS161217217",
