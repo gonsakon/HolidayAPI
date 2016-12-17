@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161217034",
+    "FileNo_": "INS161217035",
     "Status_": "1",
+    "Cre_Date_": "2016/12/17 上午 09:16:01",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "頂庄路上與頂興路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口號誌與前後路口號誌不連鎖,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161217034",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 上午 09:10:55",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "鎮海路(中山四路與 翠亨北路)",
+    "address_": "鎮海路(中山四路與翠亨北路)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該兩處號誌故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 上午 09:12:19",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 04:21:02",
     "Close_Date_": "2016/12/16 下午 10:41:38"
-  },
-  {
-    "FileNo_": "INS161214141",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/14 下午 04:08:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "延平一路410號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該址前沿線分隔島路燈未熄，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/14 17:34養工處旗美養護工程隊洪冠馨小姐回報，該處係稍早檢修測試路燈，現已\r\n恢復正常運作；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 04:14:14",
-    "Close_Date_": "2016/12/16 上午 12:51:48"
   }
 ]
