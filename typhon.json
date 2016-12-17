@@ -1922,20 +1922,20 @@
   },
   {
     "FileNo_": "INS161217086",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 12:35:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "中正路(文前路至夢裡路)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該路段沿線安全島上有鐵絲綑綁之售屋廣告，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 14:31鳥松區清潔隊胡素玲小姐回報，皆已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 12:41:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 09:48:52"
   },
   {
     "FileNo_": "INS161217085",
