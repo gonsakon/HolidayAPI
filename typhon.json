@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161217087",
+    "FileNo_": "INS161217089",
     "Status_": "1",
+    "Cre_Date_": "2016/12/17 下午 12:46:40",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路148號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161217087",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 12:44:38",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "孔宅街16號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址住戶犬隻目前遭流浪犬咬傷嚴重，建請查處。",
+    "BeforeDesc_": "渠反映該址住戶犬隻目前遭附近流浪犬咬傷嚴重，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 12:50:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/14 下午 06:50:15",
     "Close_Date_": "2016/12/16 下午 11:30:47"
-  },
-  {
-    "FileNo_": "INS161214198",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/14 下午 06:45:56",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "工商路34號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處整排路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/14 下午 06:46:57",
-    "Close_Date_": ""
   }
 ]
