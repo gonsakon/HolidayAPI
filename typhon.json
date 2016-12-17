@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161217156",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/17 下午 06:05:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "赤崁北路653巷內",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈(編號:南寮152)時亮時滅，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/17 下午 06:07:14",
     "Close_Date_": ""
   },
   {
