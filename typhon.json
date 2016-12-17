@@ -2857,20 +2857,20 @@
   },
   {
     "FileNo_": "INS161217028",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 上午 08:58:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路64之4號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，請清除",
-    "AfterDesc_": "",
+    "BeforeDesc_": "渠反映該處有一貓屍，請清除。",
+    "AfterDesc_": "【主管解除管制】本案於12/17 09:19鳳山區清潔隊許鳳美小姐回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 08:59:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 09:23:49"
   },
   {
     "FileNo_": "INS161217027",
@@ -2891,20 +2891,20 @@
   },
   {
     "FileNo_": "INS161217026",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 上午 08:44:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "大順二路909號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路邊有貓屍，請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 09：14三民東區清潔隊許華玲小姐回報，該貓屍已清除；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 08:46:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/17 下午 09:23:19"
   },
   {
     "FileNo_": "INS161217025",
