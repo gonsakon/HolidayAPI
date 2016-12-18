@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218040",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/18 上午 09:22:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "梓官路466號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址住戶有房屋施工機具噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/18 上午 09:25:06",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218039",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 09:18:13",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 03:05:43",
     "Close_Date_": "2016/12/16 上午 11:39:27"
-  },
-  {
-    "FileNo_": "INS161215125",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 下午 03:00:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "鳳雄里鳳東路88號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前沿線約有3至4盞路燈故障不亮已3個月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 03:02:13",
-    "Close_Date_": ""
   }
 ]
