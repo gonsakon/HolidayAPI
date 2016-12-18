@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218149",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 09:10:48",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區文橫三路45號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "機車紅線違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218148",
     "Status_": "1",
     "Cre_Date_": "2016/12/18 下午 09:00:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 上午 04:12:58",
     "Close_Date_": "2016/12/16 上午 08:58:53"
-  },
-  {
-    "FileNo_": "INS161216002",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 上午 02:21:36",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "孟子路700號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "ABY1388 於12月14號16:10在孟子路700號，並排停車。車內兩人一直聊天。",
-    "AfterDesc_": "感謝您的反映，此案件已通報警察局110陳警員辦理，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 上午 04:14:05",
-    "Close_Date_": "2016/12/16 上午 04:14:38"
   }
 ]
