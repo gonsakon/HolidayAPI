@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161218036",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 08:51:49",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "前鎮區獅興街（中山二路口附近）",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "棚架佔用獅興街單側，請要求拆除並開罰",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 上午 08:58:27",
     "Close_Date_": ""
   },
   {
