@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 07:59:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "政德路667號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "一盞路燈故障閃爍",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218139",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 07:47:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 10:41:00",
     "Close_Date_": "2016/12/16 下午 03:20:38"
-  },
-  {
-    "FileNo_": "INS161215226",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 10:35:44",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大昌二路463號前",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處有一盞號誌燈綠燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/16 01：12 交通局智慧運輸中心余晨璿小姐回報，該處號誌燈已修復完畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 10:36:40",
-    "Close_Date_": "2016/12/16 上午 07:55:40"
   }
 ]
