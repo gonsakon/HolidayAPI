@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161218029",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 07:51:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "鋼平街171號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處台電孔蓋鬆動，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 上午 08:00:05",
     "Close_Date_": ""
   },
   {
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161218024",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 上午 07:23:32",
     "ReplyUnit_": "E01003",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高鐵路和大中路口",
     "UnitName_": "自來水公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "檢修管線",
     "BeforeDesc_": "地面上一直湧出水來",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案針對路面滲水案件，需委由自來水公司進行管線查察，本中心已接獲多位民眾通報，\r\n 並於 12/18 07:31 通報自來水客服 路小姐成功，該單位受理編號：20160767379，感謝您的熱心通報，\r\n 倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/18 上午 07:57:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 上午 08:00:42"
   },
   {
     "FileNo_": "INS161218023",
