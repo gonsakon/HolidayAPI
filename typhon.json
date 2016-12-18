@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161218080",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 02:46:52",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳屏一路往中山東路方向與埤北路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌綠燈長達2至3分鐘，疑似故障，建請查處。",
+    "BeforeDesc_": "渠反映該處綠燈號誌綠燈長達2至3分鐘，疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 下午 02:48:31",
     "Close_Date_": ""
   },
   {
