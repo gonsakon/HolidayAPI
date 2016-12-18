@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218088",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 03:38:53",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛二路上與忠言路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218086",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 03:30:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 05:34:12",
     "Close_Date_": "2016/12/17 下午 01:55:36"
-  },
-  {
-    "FileNo_": "INS161215173",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 下午 05:26:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "中山路二段655之5號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處附掛電線桿上，有一盞路燈故障不亮，民眾先繫綁紅繩警示，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 05:29:34",
-    "Close_Date_": ""
   }
 ]
