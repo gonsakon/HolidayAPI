@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218093",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 03:59:36",
+    "ReplyUnit_": "",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河濱國小",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "兒童遊戲設施溜滑梯枱面傾斜，支撐管柱位移破損，有危險之虞,請轉請河濱國小修繕",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218092",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 03:49:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 07:13:28",
     "Close_Date_": "2016/12/16 上午 09:00:45"
-  },
-  {
-    "FileNo_": "INS161215179",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 下午 06:02:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "南台路195巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處巷道內路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 06:03:37",
-    "Close_Date_": ""
   }
 ]
