@@ -3401,20 +3401,20 @@
   },
   {
     "FileNo_": "INS161217103",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 01:50:10",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中安路與中興路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映現該處路面有遭傾倒混泥土造成髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 14:28 燕巢區清潔隊 陳金忠先生回報，已清除完畢；並於12/18 \r\n14:54電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 02:00:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 下午 02:54:22"
   },
   {
     "FileNo_": "INS161217102",
