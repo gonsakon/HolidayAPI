@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218143",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 08:08:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路上，近五甲三路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218142",
     "Status_": "1",
     "Cre_Date_": "2016/12/18 下午 08:08:09",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161218134",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/18 下午 07:13:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "高鳳一路與過埤路交叉口(江海豆漿_)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 11:03:37",
     "Close_Date_": "2016/12/16 上午 07:55:20"
-  },
-  {
-    "FileNo_": "INS161215229",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 10:47:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大中二路上(往西方向)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段 1.近福山國中  2.近文自路，慢車道旁各有一盞路燈共兩盞故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 22:29養工處四維養護工程隊值班室江明秀小姐回報，該處路燈已修復；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 10:49:32",
-    "Close_Date_": "2016/12/17 下午 11:02:06"
   }
 ]
