@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161218137",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 07:28:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "瓦厝街60巷往神農路方向",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線皆有多盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 下午 07:29:45",
     "Close_Date_": ""
   },
   {
@@ -3571,20 +3571,20 @@
   },
   {
     "FileNo_": "INS161217150",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 下午 05:52:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "芎蕉路上，芎蕉小公園外圍無名道路，農田旁",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 23:48養工處四維養護工程隊江明秀小姐回報，該處已修復；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 05:53:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 下午 07:29:14"
   },
   {
     "FileNo_": "INS161217149",
