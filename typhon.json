@@ -154,19 +154,19 @@
   },
   {
     "FileNo_": "INS161218122",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/18 下午 06:35:33",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區三多三路61號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車人行道上違規停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/18 下午 06:48:21",
     "Close_Date_": ""
   },
   {
