@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS161218130",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 06:42:52",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區三多二路327號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上汽車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/18 18:46代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 06:49:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 下午 06:50:58"
   },
   {
     "FileNo_": "INS161218129",
