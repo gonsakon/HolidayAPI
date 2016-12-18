@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218066",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 12:58:27",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎山街293號旁停車場出口",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "鼎山街293號旁停車場出口,汽車紅線違停,常反應,但都無效",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218065",
     "Status_": "1",
     "Cre_Date_": "2016/12/18 下午 12:57:37",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161218044",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/18 上午 09:42:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "學專路與後勁南路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有廟會活動，其使用擴音器致噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 04:17:38",
     "Close_Date_": "2016/12/17 下午 01:33:39"
-  },
-  {
-    "FileNo_": "INS161215153",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 04:15:55",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "830高雄市鳳山區自由路456號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上汽車違規停車",
-    "AfterDesc_": "【主管解除管制】本案依據警政業務權責回歸，於12/15 16：18代為通報 110 勤務指揮中心王警員成功， 感謝\r\n您的熱心通報，倘您對本案處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 04:24:32",
-    "Close_Date_": "2016/12/15 下午 04:27:50"
   }
 ]
