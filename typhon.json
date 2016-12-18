@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219011",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 07:14:56",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "延平一路   復興東街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219010",
     "Status_": "4",
     "Cre_Date_": "2016/12/19 上午 05:38:08",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161219008",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/19 上午 03:38:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路一段394之1號、2號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處食品加工廠有機械作業噪音，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 上午 09:17:38",
     "Close_Date_": "2016/12/17 下午 02:38:14"
-  },
-  {
-    "FileNo_": "INS161216023",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 上午 09:09:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "博愛一路與同盟一路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，警員仍在場，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 09：48 三民西區清潔隊張美珠小姐回報，該處已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 上午 09:10:38",
-    "Close_Date_": "2016/12/17 下午 02:38:22"
   }
 ]
