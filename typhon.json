@@ -52,20 +52,20 @@
   },
   {
     "FileNo_": "INS161218128",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 06:41:38",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "802高雄市苓雅區三多二路293號附近",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽機車紅線違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/18 18:46代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 06:49:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 下午 06:50:49"
   },
   {
     "FileNo_": "INS161218127",
@@ -86,20 +86,20 @@
   },
   {
     "FileNo_": "INS161218126",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 06:38:34",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區三多三路1號人行道",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/18 18:46代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/12/18 下午 06:49:39",
+    "Close_Date_": "2016/12/18 下午 06:50:37"
   },
   {
     "FileNo_": "INS161218125",
@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161218122",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 06:35:33",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "高雄市前鎮區三多三路61號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/18 18:46代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 06:48:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/18 下午 06:50:16"
   },
   {
     "FileNo_": "INS161218121",
