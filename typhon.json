@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218077",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 02:15:45",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "六合路113號",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋鬆動",
+    "BeforeDesc_": "渠反映該處有一高雄E聯長方形孔蓋鬆動致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218076",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 02:13:04",
@@ -236,23 +253,6 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 01:04:50",
     "Close_Date_": "2016/12/18 下午 01:06:07"
-  },
-  {
-    "FileNo_": "INS161218062",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/18 下午 12:48:54",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "848",
-    "ZipName_": "桃源區",
-    "address_": "台20線上於88公里往前500公尺處；西往東方向",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處車道上有一狗屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
   },
   {
     "FileNo_": "INS161218061",
