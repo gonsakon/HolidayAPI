@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 11:04:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "松埔路37巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218154",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 下午 10:24:31",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 上午 07:55:03",
     "Close_Date_": "2016/12/17 下午 02:12:00"
-  },
-  {
-    "FileNo_": "INS161216008",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 上午 07:45:30",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路(介於澄清路至正義路)",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該處號誌燈前後不連鎖，先前皆為連鎖，疑似故障，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 10：46 智慧運輸中心蔡淑君小姐回報，該處已修復完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 上午 07:48:06",
-    "Close_Date_": "2016/12/17 下午 02:13:11"
   }
 ]
