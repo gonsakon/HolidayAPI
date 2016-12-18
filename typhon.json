@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218054",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 上午 11:17:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東橋南面算起透天厝第九間屋後",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "兩片木棧道有腐壞",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218053",
     "Status_": "2",
     "Cre_Date_": "2016/12/18 上午 11:10:05",
@@ -35,14 +52,14 @@
   },
   {
     "FileNo_": "INS161218051",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/18 上午 10:58:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "球場路34號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址昨日一車禍致使餿水車餿水溢出，然玻璃碎片及覆蓋餿水之雜草，皆未清除，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 03:55:18",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161215140",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/15 下午 03:47:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德賢路600號(阿帕懷舊碳烤土司)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家目前有炭烤異味空汙，且排煙管直接排向馬路，望請勸導改善，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/15 16：56 環保局公害專線中區股施金民先生回報，稽查人員於16：20到達，稽查\r\n現場未發現明顯油煙異味致空污情事，仍促請業者加強注意防範；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 03:48:44",
-    "Close_Date_": "2016/12/17 下午 01:34:34"
   }
 ]
