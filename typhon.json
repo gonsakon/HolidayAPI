@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161218121",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/18 下午 06:33:03",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "芋林路280號後方",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161218120",
     "Status_": "1",
     "Cre_Date_": "2016/12/18 下午 06:31:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/15 下午 09:35:53",
     "Close_Date_": "2016/12/16 上午 09:00:08"
-  },
-  {
-    "FileNo_": "INS161215207",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/15 下午 09:30:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "翠屏路與加仁路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈(編號:021531)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/15 下午 09:33:51",
-    "Close_Date_": ""
   }
 ]
