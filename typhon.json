@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161219115",
+    "FileNo_": "INS161219116",
     "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 02:42:34",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍昌路上近援中路(北往南方向)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處有路面坑洞，造成其女友與此處摔車，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161219115",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 02:41:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招路451之1號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有一股不明化學刺鼻異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 下午 02:42:30",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:09:08",
     "Close_Date_": "2016/12/17 下午 03:09:24"
-  },
-  {
-    "FileNo_": "INS161216128",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 03:04:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "內坑路34之10號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處廢鐵回收廠有作業鐵屑空污擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 16:55 環保局公害專線陳秋娥小姐回報，稽查人員於15:25到達，到場時現場正\r\n進行灑水作業中，附近巡視未發現上述鐵屑揚塵情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:05:45",
-    "Close_Date_": "2016/12/17 下午 03:09:41"
   }
 ]
