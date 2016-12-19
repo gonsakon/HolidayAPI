@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219174",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 06:03:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁福里橫山一巷14號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該2、3盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219173",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 06:01:51",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:28:58",
     "Close_Date_": "2016/12/17 下午 03:33:13"
-  },
-  {
-    "FileNo_": "INS161216186",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/16 下午 06:19:45",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "仁愛路二段2巷1號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，已反映許久仍未修復，建請查處。(另表示方便洽詢時間為18時後)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 06:25:29",
-    "Close_Date_": ""
   }
 ]
