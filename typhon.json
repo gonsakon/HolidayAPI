@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219115",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 02:41:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "安招路451之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有一股不明化學刺鼻異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219114",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 02:35:36",
@@ -1786,14 +1803,14 @@
   },
   {
     "FileNo_": "INS161219007",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/19 上午 02:50:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "富民路與明誠二路口(東南角)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "人行道設施損壞(一)",
     "BeforeDesc_": "渠反映該處人行道上所設置之車阻因車禍遭撞斷數根，恐生危險，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:05:45",
     "Close_Date_": "2016/12/17 下午 03:09:41"
-  },
-  {
-    "FileNo_": "INS161216127",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 03:03:53",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "海邊路42號、46號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處因工程不慎挖斷台電線路致停電，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 10：18經詢問台電1911王小姐表示，欣高瓦斯挖斷線路，已隔離故障點，供電完\r\n成；並於12/19 11：28電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:16:53",
-    "Close_Date_": "2016/12/19 上午 11:33:44"
   }
 ]
