@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161220001",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 上午 12:11:30",
     "ReplyUnit_": "E01005",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "精忠街150號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處桿上台電變壓器有發出嗡嗡聲，且不定時皆會有此情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 上午 12:17:12",
     "Close_Date_": ""
   },
   {
