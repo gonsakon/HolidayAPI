@@ -1,19 +1,36 @@
 [
   {
     "FileNo_": "INS161219059",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 10:20:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "臨海二路50號(鼓山國小)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該校目前有進行拆除作業，惟現場未有灑水致揚塵情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 上午 10:22:18",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161219058",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/19 上午 10:17:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "臨海二路50號(鼓山國小)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該校在進行拆除作業有使用機具及爆炸致噪音情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/19 上午 10:21:56",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:11:57",
     "Close_Date_": "2016/12/17 下午 02:40:07"
-  },
-  {
-    "FileNo_": "INS161216070",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 12:06:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自立一路與建國三路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌紅燈恆亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 14:52交通局智慧運輸中心蔡淑君小姐回報，該處已修復；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 12:07:34",
-    "Close_Date_": "2016/12/17 下午 02:40:15"
   }
 ]
