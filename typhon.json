@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219081",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 11:41:22",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁福里橫山二巷13之3號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有電線桿斷掉致電線掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219080",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 上午 11:40:02",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161219075",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/19 上午 10:59:20",
     "ReplyUnit_": "B02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "博仁里光明街144號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該址前溝蓋破損致坑洞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 01:38:51",
     "Close_Date_": "2016/12/17 下午 03:05:58"
-  },
-  {
-    "FileNo_": "INS161216092",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 01:35:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "哨船街75號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址前方沿線路面目前有路面油漬，已有多位民眾行經摔倒，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 14:11鼓山區清潔隊馮靜儀小姐回報，已清除完畢；並於12/19 11：22電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 01:40:02",
-    "Close_Date_": "2016/12/19 上午 11:26:15"
   }
 ]
