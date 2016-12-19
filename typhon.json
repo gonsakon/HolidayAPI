@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219090",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 12:36:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "0921596965安寧街松交接",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219088",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 12:26:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:03:58",
     "Close_Date_": "2016/12/17 下午 03:18:28"
-  },
-  {
-    "FileNo_": "INS161216099",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/16 下午 01:59:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "中庄里打鐵店街往翁公園方向的產業道路上",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有1盞路燈光線照射至大豆田內影響作物生長需設置遮光板，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:03:17",
-    "Close_Date_": ""
   }
 ]
