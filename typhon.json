@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161219174",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 06:03:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁福里橫山一巷14號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該2、3盞路燈不亮，建請查處。",
+    "BeforeDesc_": "渠反映該處2、3盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 下午 06:06:16",
     "Close_Date_": ""
   },
   {
@@ -456,23 +456,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 05:01:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161219149",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/19 下午 04:56:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "孝順街95號",
-    "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映現該址前有1路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
     "Close_Date_": ""
   },
   {
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 06:51:34",
     "Close_Date_": "2016/12/17 下午 08:46:25"
+  },
+  {
+    "FileNo_": "INS161216189",
+    "Status_": "5",
+    "Cre_Date_": "2016/12/16 下午 06:37:55",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中山四路上與平和東路口(往東方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口紅燈右轉之綠燈故障不亮，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於12/16 21:04智慧運輸中心謝滿威先生回報，該處無危險性，為線路故障，需報請廠商\r\n維修，故改派非網A-TB-2016-116677賡續辦理；本案不需回電故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/12/16 下午 06:39:58",
+    "Close_Date_": "2016/12/17 下午 08:45:24"
   }
 ]
