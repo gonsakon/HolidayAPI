@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219094",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 12:43:04",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "輔仁路151巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處遭棄置櫃子及多包垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219091",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 12:37:27",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161219090",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 12:36:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "",
+    "address_": "安寧街與松江街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "0921596965安寧街松交接",
+    "BeforeDesc_": "渠反映該處興建中飯店將建築廢棄物棄置在人行道上與人行天橋下造成髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 下午 12:46:41",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:10:22",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216105",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 02:06:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路616號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處高雄港聯外高架道路工程，遠揚建設進行灌漿作業，將污泥水直接流至路面上，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 14：57 前鎮區清潔隊張昭和先生回報，該處已開立告發單：C021036，業者已派\r\n沖水車沖洗，擇日複查，故轉派非網：A-TB-2016-116563；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:10:23",
-    "Close_Date_": "2016/12/17 下午 03:13:58"
   }
 ]
