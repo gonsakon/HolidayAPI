@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219210",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 08:19:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "嘉華路45之52號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219209",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 08:14:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 10:19:16",
     "Close_Date_": "2016/12/17 下午 03:34:18"
-  },
-  {
-    "FileNo_": "INS161216221",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/16 下午 10:16:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德賢路與德民路356巷公園",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "公園路燈全部都沒有亮過……已經觀察一個多月了每次經過公園都沒有路燈很危險",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 10:27:24",
-    "Close_Date_": ""
   }
 ]
