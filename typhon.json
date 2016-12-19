@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161219190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 06:49:49",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "隆豐路1號(橋頭區公所)附近",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫濃厚燃燒塑膠之惡臭味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 下午 06:51:36",
     "Close_Date_": ""
   },
   {
@@ -8365,20 +8365,20 @@
   },
   {
     "FileNo_": "INS161217078",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/17 上午 11:54:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "沿海路二段 (幸福公園對面)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空地有民眾正在燃燒廢棄物致空汙，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/17 15：08 環保局環境稽查科南區股王富財先生回報，稽查人員於13：35到達，稽\r\n查周界巡視未發現有燃燒廢棄物致空汙情事；並於12/19 18：45電覆陳情人，故解除管制；惟陳情人反映該處長\r\n期燃燒空污問題，故另成非網A-TB-2016-117338追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 11:55:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/19 下午 06:53:29"
   },
   {
     "FileNo_": "INS161217077",
