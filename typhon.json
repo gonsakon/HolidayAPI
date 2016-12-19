@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219103",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 01:54:24",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "溪寮路78之71號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址處有一犬隻掉落於排溝內受困，已經有發現兩週時間，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219101",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 01:50:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:36:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216113",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/16 下午 02:26:54",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "旗津二路上，汙水處理廠附近，南下車道停車格(902567)內",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝框破損、溝蓋凹陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:36:10",
     "Close_Date_": ""
   }
 ]
