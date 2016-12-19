@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219060",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 10:28:07",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219059",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 10:20:07",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:13:09",
     "Close_Date_": "2016/12/18 上午 09:07:34"
-  },
-  {
-    "FileNo_": "INS161216071",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 12:09:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "崗德路上，近納骨塔",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有兩個坑洞與龜裂情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 14:29養工處岡山養護工程隊盧冠諭小姐回報，該處皆已修復；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 12:11:57",
-    "Close_Date_": "2016/12/17 下午 02:40:07"
   }
 ]
