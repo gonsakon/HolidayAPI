@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 05:25:39",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東一街85號與鎮州路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處「鎮東一街」路牌快掉落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219154",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 05:10:56",
@@ -290,14 +307,14 @@
   },
   {
     "FileNo_": "INS161219137",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/19 下午 04:25:21",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "仁愛一街228號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫酸臭味，建請查處。",
     "AfterDesc_": "",
@@ -1646,6 +1663,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/19 上午 10:21:56",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161219057",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/19 上午 10:13:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林二路908巷60號左側沿著圍籬到農田",
+    "UnitName_": "環保局",
+    "StatusName_": "處理完成",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址有一工廠，煙囪排放黑煙，導致空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/19 上午 10:16:21",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 05:36:40",
     "Close_Date_": "2016/12/17 下午 08:44:41"
-  },
-  {
-    "FileNo_": "INS161216167",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 05:34:37",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "831高雄市大寮區鳳屏一路720號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "佔用道路",
-    "BeforeDesc_": "檳榔攤違規佔用人行道",
-    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 06:34:46",
-    "Close_Date_": "2016/12/16 下午 06:38:24"
-  },
-  {
-    "FileNo_": "INS161216166",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 05:32:11",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "830高雄市鳳山區自由路426號人行道",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/16 18:25代通報至110勤務指揮中心楊警員成功並提供陳情人聯電；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 06:34:38",
-    "Close_Date_": "2016/12/16 下午 06:37:16"
   }
 ]
