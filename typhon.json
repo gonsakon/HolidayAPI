@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219063",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 10:30:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "二聖路與康寧街口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處有路面下陷，致許多騎士行經時摔倒，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219060",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 10:28:07",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161219062",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 10:27:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "福建街(介於青年一路與苓雅一路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處沿線水溝和門口及路面有垃圾致髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 上午 10:30:51",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:30:14",
     "Close_Date_": "2016/12/17 下午 02:59:19"
-  },
-  {
-    "FileNo_": "INS161216074",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 12:26:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "台28線(旗山往田寮路段)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段上坡處有多輛砂石車併排行駛，導致沿路砂石造成道路髒亂，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 13：32 旗山區清潔隊呂柳錦小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 12:54:58",
-    "Close_Date_": "2016/12/17 下午 02:59:09"
   }
 ]
