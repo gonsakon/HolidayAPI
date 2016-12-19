@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219086",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 11:57:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "宏光街與宏智街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處路口有一柏油下凹致坑洞情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219085",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 上午 11:56:06",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161219084",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 11:49:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "中正路(近民族路，東發瓦斯灌裝廠)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該業者目前有瓦斯異味散逸，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 上午 11:57:25",
     "Close_Date_": ""
   },
   {
@@ -2449,20 +2466,20 @@
   },
   {
     "FileNo_": "INS161218098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 04:29:18",
     "ReplyUnit_": "E01005",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "錦田路25號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處台電孔蓋鬆動，車輛行經產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 11：01經詢問台電1911張小姐表示，經查屬高屏供電區營運處權責，故轉派非\r\n網：A-TB-2016-117180賡續辦理；並於12/19 11：53電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 04:33:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/19 上午 11:57:20"
   },
   {
     "FileNo_": "INS161218097",
@@ -2551,20 +2568,20 @@
   },
   {
     "FileNo_": "INS161218092",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/18 下午 03:49:41",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "錦田路25號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人孔、溝蓋鬆動(一)",
     "BeforeDesc_": "渠反映該處水溝蓋鬆動，車輛行經產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/18 16:27水利局防洪維護科張士能先生回報，人員現場查察為台電孔蓋鬆動，故改\r\n派 INS161218098賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 03:51:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/19 上午 11:56:50"
   },
   {
     "FileNo_": "INS161218091",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 01:57:18",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216097",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 01:50:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河西一路與同盟三路(中都願景橋)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請修復。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 23:06養工處四維養護工程隊江明秀小姐回報，現場查為開關跳脫，現已恢復正\r\n常放亮；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 01:54:23",
-    "Close_Date_": "2016/12/18 下午 07:15:30"
   }
 ]
