@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219181",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 06:18:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "三民路419巷8號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219180",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 06:15:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 07:17:36",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216192",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 07:12:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "后安路70號與72號間",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞LED路燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 08:11養工處四維養護工程隊九如分隊張福來先生回報，該處無危險性，惟屬路\r\n燈工程科保固中路燈，故改派非網A-TB-2016-116711賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 07:14:01",
-    "Close_Date_": "2016/12/17 下午 08:47:23"
   }
 ]
