@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219096",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 12:56:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "805",
+    "ZipName_": "旗津區",
+    "address_": "中洲二路6號公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "廁所洗手台下方鐵管鏽蝕塊狀剝落，恐破管",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219095",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 12:52:37",
@@ -137,14 +154,14 @@
   },
   {
     "FileNo_": "INS161219087",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/19 下午 12:24:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國興街與國隆路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上反射鏡旁有遭棄置約十包垃圾包已多日，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:11:24",
     "Close_Date_": "2016/12/17 下午 03:12:40"
-  },
-  {
-    "FileNo_": "INS161216107",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 02:09:14",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光遠路以北(鳳山溪)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該溪水呈現黑色且惡臭難聞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 14:32環保局公害專線中區股蔣耀慶先生回報，稽查人員於1430到達，經本局派\r\n員沿游巡視未發現有上述情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:10:22",
-    "Close_Date_": "2016/12/17 下午 03:12:53"
   }
 ]
