@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219124",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 03:31:53",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "山壩煙路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路沿線路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219123",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 03:22:54",
@@ -5543,14 +5560,14 @@
   },
   {
     "FileNo_": "INS161217177",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/17 下午 07:39:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
     "address_": "富安里復安路210之4號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:32:00",
     "Close_Date_": "2016/12/17 下午 04:05:56"
-  },
-  {
-    "FileNo_": "INS161216135",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/16 下午 03:30:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛三路與大中二路(BMW前)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道磚因樹根隆起而突出破損，造成行人不慎跌倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:31:42",
-    "Close_Date_": ""
   }
 ]
