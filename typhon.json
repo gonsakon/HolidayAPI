@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161219062",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 10:27:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "福建街(介於青年一路與苓雅一路)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線水溝和門口及路面有垃圾致髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219061",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 上午 10:25:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 12:54:58",
     "Close_Date_": "2016/12/17 下午 02:59:09"
-  },
-  {
-    "FileNo_": "INS161216073",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/16 下午 12:24:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路與福美路496巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞鈉氣路燈故障不亮，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 12:26:56",
-    "Close_Date_": ""
   }
 ]
