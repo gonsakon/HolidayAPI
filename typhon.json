@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219038",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 上午 09:12:57",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "力行里中庸街223巷11號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處有污水管阻塞情事，已滿溢至住家內，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219037",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 上午 09:12:01",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161219036",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 上午 09:11:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "朝仁路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處廟會結束後遺留大量髒亂未清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 上午 09:13:00",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 上午 10:44:48",
     "Close_Date_": "2016/12/17 下午 02:50:38"
-  },
-  {
-    "FileNo_": "INS161216051",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/16 上午 10:40:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新庄仔路375號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道磚破損致坑洞，擔心民眾腳會踩入有危險性，建請儘速查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 上午 10:41:44",
-    "Close_Date_": ""
   }
 ]
