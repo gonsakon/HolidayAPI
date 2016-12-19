@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219135",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 04:22:12",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳林三路上與莊敬路、水源路、自由路三路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該三路口號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219133",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 04:18:44",
@@ -358,14 +375,14 @@
   },
   {
     "FileNo_": "INS161219112",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/19 下午 02:28:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "安海街與安海街26巷",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有民眾將大量裝潢木板放置在該處，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:51:03",
     "Close_Date_": "2016/12/16 下午 05:48:56"
-  },
-  {
-    "FileNo_": "INS161216145",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 03:48:00",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大公路4號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈有搖晃情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 16：48 養工處四維養護工程隊九如分隊胡建州先生回報，該處路燈已修復完\r\n成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:49:33",
-    "Close_Date_": "2016/12/17 下午 04:08:54"
   }
 ]
