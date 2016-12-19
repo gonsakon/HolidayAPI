@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219138",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 04:25:39",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "延平街87號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址機車行電焊作業",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219137",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 下午 04:25:21",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:56:25",
     "Close_Date_": "2016/12/17 下午 08:42:16"
-  },
-  {
-    "FileNo_": "INS161216148",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 03:51:34",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "旗楠公路與臥牛巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映進入巷道一百公尺處皆有路面坑洞，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 10:13養工處岡山養護工程隊李超尉先生回報，該處已修復；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:58:33",
-    "Close_Date_": "2016/12/17 下午 08:41:14"
   }
 ]
