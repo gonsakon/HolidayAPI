@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219098",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 01:21:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "橋南路688之1號(台糖賽車場對面)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該址對面圍牆上有兩面飲料業者違規布條，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219097",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 01:06:09",
@@ -936,14 +953,14 @@
   },
   {
     "FileNo_": "INS161219040",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/19 上午 09:22:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新生路616-1號",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址前有一號誌有燈具垂落情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:27:19",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216109",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 02:14:51",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "典昌路與通港路口(通安宮牌坊下)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處雜草不斷燃燒，致燈桿有遭燒焦情形，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 17:01養工處岡山養護工程隊李文義先生回報，經檢查該處燈桿正常無異狀；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:17:44",
-    "Close_Date_": "2016/12/17 下午 03:12:25"
   }
 ]
