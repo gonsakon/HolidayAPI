@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219119",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 03:12:23",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "自由二路174號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219118",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 03:05:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 03:18:19",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161216130",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 03:15:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中芸路1號(中芸國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該校附近目前有疑似燃燒塑膠之惡臭異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 16：54 環保局稽查科南區股杜淑文小姐回報，稽查人員於16:18到達，現場周界\r\n巡查，未發現有燃燒塑膠異味致空污情事；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 03:18:31",
-    "Close_Date_": "2016/12/17 下午 04:05:30"
   }
 ]
