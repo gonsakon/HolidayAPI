@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219100",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 01:37:40",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "興安街與同盟二路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219099",
     "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 01:28:41",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 02:27:25",
     "Close_Date_": "2016/12/16 下午 05:51:39"
-  },
-  {
-    "FileNo_": "INS161216111",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 02:25:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "興楠路336號，東門王爺廟前面",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該址有車禍致路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 15：25 楠梓區清潔隊黃碧鳳小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 02:27:07",
-    "Close_Date_": "2016/12/17 下午 03:12:08"
   }
 ]
