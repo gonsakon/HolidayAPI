@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161220011",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 上午 05:29:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
-    "address_": "三民區建工路755號",
+    "address_": "建工路755號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該地點店家正在進行油炸作業，以致有油煙飄散情況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 上午 05:30:49",
     "Close_Date_": ""
   },
   {
