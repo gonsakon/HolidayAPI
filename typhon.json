@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161220008",
+    "FileNo_": "INS161220009",
     "Status_": "1",
+    "Cre_Date_": "2016/12/20 上午 03:07:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大裕路與明誠一路口(不了情卡拉OK)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該店家目前擴音器歌唱噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161220008",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 上午 03:06:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "本館路與大昌路交叉口(圓山歐洲招牌下方)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 上午 03:07:50",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 09:02:52",
     "Close_Date_": "2016/12/19 上午 11:49:50"
-  },
-  {
-    "FileNo_": "INS161217028",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 上午 08:58:08",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "中山東路64之4號前",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 09:19鳳山區清潔隊許鳳美小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 上午 08:59:21",
-    "Close_Date_": "2016/12/17 下午 09:23:49"
   }
 ]
