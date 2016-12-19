@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161219196",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/19 下午 07:00:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "華中路與公園街口(華中路往南約1至200公尺處)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161219195",
     "Status_": "1",
     "Cre_Date_": "2016/12/19 下午 06:57:49",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161219194",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/19 下午 06:57:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "自由四路與重愛路口(水果貍水果行)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該業者目前使用擴音設備叫賣，音量過大造成噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/19 下午 07:00:02",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/16 下午 08:27:29",
     "Close_Date_": "2016/12/17 下午 05:09:19"
-  },
-  {
-    "FileNo_": "INS161216207",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/16 下午 08:22:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "岡山南路上，近捷運北機廠位置",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路段內線車道有一施工單位工程車進行路燈檢修，現場僅放置三角錐，未有夜間警示燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/16 20:36養工處岡山養護工程隊馬振邁先生回報，該處工程已完工並撤離；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/16 下午 08:25:10",
-    "Close_Date_": "2016/12/17 上午 12:37:50"
   }
 ]
