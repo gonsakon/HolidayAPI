@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161220202",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 09:57:51",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "新光路28巷2號至10號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路段有一長條型坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 10:02:05",
     "Close_Date_": ""
   },
   {
@@ -4278,7 +4278,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫濃厚燃燒塑膠之惡臭味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 21：33環保局環境稽查科余泓陞先生回報，稽查人員於19：40到達，稽查當時於\r\n上址及周界巡視未發現上述燃燒塑膠異味致空污情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:51:36",
     "Close_Date_": ""
@@ -4387,20 +4387,20 @@
   },
   {
     "FileNo_": "INS161219183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:25:27",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "明毅街",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該街道沿線路燈皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 21:05養工處鳳山養護工程隊劉緯婕小姐回報，該處沿線路燈台電已復電，現場\r\n修復完成；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:26:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 10:02:21"
   },
   {
     "FileNo_": "INS161219182",
@@ -4438,20 +4438,20 @@
   },
   {
     "FileNo_": "INS161219180",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:15:48",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "三民路338巷、三民路342巷、三民路342巷1弄、三民路342巷2弄",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 21:05養工處鳳山養護工程隊劉緯婕小姐回報，該處台電已復電，現場路燈皆正\r\n常放亮；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:16:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 10:01:55"
   },
   {
     "FileNo_": "INS161219179",
