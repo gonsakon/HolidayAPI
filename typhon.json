@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161220176",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 07:18:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高坪五十路與高坪七路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈全數故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 07:19:57",
     "Close_Date_": ""
   },
   {
