@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161220199",
+    "FileNo_": "INS161220200",
     "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 09:35:09",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "博愛二路至明誠三路中間的裕誠路路面多處不平",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "博愛二路至明誠三路中間的裕誠路路面多處不平\n到處補丁越補越糟，請全線重新鋪設",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161220199",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 09:33:22",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "裕誠路與民族一路口(鼎泰廣場公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該公園內大理石地面有一處破損，已有造成民眾受傷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 09:34:58",
     "Close_Date_": ""
   },
   {
@@ -5424,20 +5441,20 @@
   },
   {
     "FileNo_": "INS161219117",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 02:43:57",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多三路與文橫二路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌目前故障閃爍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 16:28交通局智慧運輸中心張寬如小姐回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 02:44:49",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 09:35:11"
   },
   {
     "FileNo_": "INS161219116",
@@ -5458,20 +5475,20 @@
   },
   {
     "FileNo_": "INS161219115",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 02:41:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "安招路451之1號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有一股不明化學刺鼻異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 17:28環保局公害專線北區股曾欽鴻先生回報，稽查人員於15:25到達，稽查當時\r\n於該址周界巡查未發現有上述情事，詢問該址附近住戶亦表示未聞有化學異味；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 02:42:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 09:34:51"
   },
   {
     "FileNo_": "INS161219114",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 11:12:33",
     "Close_Date_": "2016/12/18 下午 07:51:12"
-  },
-  {
-    "FileNo_": "INS161217218",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 下午 10:52:37",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏平路295號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該址店家使用擴音設備唱卡拉OK，音量過大擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案與派工INS161217212為相同案件，且為同一名陳情人進線反映，故併入派工INS161217212\r\n辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 10:55:45",
-    "Close_Date_": "2016/12/17 下午 11:03:27"
   }
 ]
