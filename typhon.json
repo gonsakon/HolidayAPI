@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161220140",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 04:09:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "國軒路311巷8號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，請查處。",
+    "BeforeDesc_": "渠反映該址前一盞路燈於晚上會亮，但半夜故障不亮，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 04:15:45",
     "Close_Date_": ""
   },
   {
