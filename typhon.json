@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161220200",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/20 下午 09:35:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "博愛二路至明誠三路中間的裕誠路路面多處不平",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "博愛二路至明誠三路中間的裕誠路路面多處不平\n到處補丁越補越糟，請全線重新鋪設",
+    "BeforeDesc_": "博愛二路至明誠三路中間的裕誠路路面多處不平到處補丁越補越糟，請全線重新鋪設",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 10:05:32",
     "Close_Date_": ""
   },
   {
