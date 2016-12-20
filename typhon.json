@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161220129",
+    "Status_": "3",
+    "Cre_Date_": "2016/12/20 下午 03:01:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路(802醫院前)",
+    "UnitName_": "交通局",
+    "StatusName_": "待處理",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處小綠人號誌燈罩遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/20 下午 03:03:22",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161220128",
     "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 02:58:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 05:44:22",
     "Close_Date_": "2016/12/17 下午 10:09:52"
-  },
-  {
-    "FileNo_": "INS161217147",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/17 下午 05:40:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "水管路(介於神農路與大同路間)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段沿線有許多坑洞，恐生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 05:41:43",
-    "Close_Date_": ""
   }
 ]
