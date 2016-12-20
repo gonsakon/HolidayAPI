@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221008",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/21 上午 06:15:42",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "達仁街66號(哈妮)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221007",
     "Status_": "1",
     "Cre_Date_": "2016/12/21 上午 05:57:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 上午 07:50:16",
     "Close_Date_": "2016/12/20 下午 03:56:00"
-  },
-  {
-    "FileNo_": "INS161218027",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 上午 07:46:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "民族一路與榮耀街(往大中二路方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有發生車禍漏油情事，建請查處。(現場有警員)",
-    "AfterDesc_": "【主管解除管制】本案於12/18 09:00左營區清潔隊陳立全先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 上午 07:48:18",
-    "Close_Date_": "2016/12/18 下午 08:59:20"
   }
 ]
