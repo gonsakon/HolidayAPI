@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161220107",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 12:34:22",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "846",
+    "ZipName_": "杉林區",
+    "address_": "大愛路與協力街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有垃圾堆積致環境髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161220105",
     "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 12:19:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:11:30",
     "Close_Date_": "2016/12/17 下午 04:18:06"
-  },
-  {
-    "FileNo_": "INS161217124",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 下午 03:58:43",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "汽機車紅線違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於12/17 16:10 通報110趙警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 04:11:22",
-    "Close_Date_": "2016/12/17 下午 04:14:16"
   }
 ]
