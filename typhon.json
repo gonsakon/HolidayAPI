@@ -3350,20 +3350,20 @@
   },
   {
     "FileNo_": "INS161219204",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 07:27:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "新衙路266號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/20 15:46 養工處四維養護工程隊九如分隊梁連盛先生回報，該處皆已修復；本案不\r\n需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 07:31:56",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:26:31"
   },
   {
     "FileNo_": "INS161219203",
@@ -3435,20 +3435,20 @@
   },
   {
     "FileNo_": "INS161219199",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 07:14:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎安路58號對面變電箱",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有遭丟棄4至5包垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 19：39 三民東區清潔隊班長王文全先生回報，該處垃圾包皆已清除完畢；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 07:17:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:26:23"
   },
   {
     "FileNo_": "INS161219198",
@@ -3639,20 +3639,20 @@
   },
   {
     "FileNo_": "INS161219187",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:41:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "文橫二路上(與三多三路口)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 22：26 交通局智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:43:44",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:26:15"
   },
   {
     "FileNo_": "INS161219186",
@@ -3673,20 +3673,20 @@
   },
   {
     "FileNo_": "INS161219185",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:29:17",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "瑞竹路與瑞興路(全家前)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址號誌燈故障，紅燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19  19:02  交通局智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:34:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:26:06"
   },
   {
     "FileNo_": "INS161219184",
@@ -3809,20 +3809,20 @@
   },
   {
     "FileNo_": "INS161219177",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:05:55",
     "ReplyUnit_": "E01002",
     "zipcode_": "805",
     "ZipName_": "旗津區",
     "address_": "海岸公園",
     "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "風景區設備損壞有立即危險者",
     "BeforeDesc_": "渠反映該處男廁小便斗持續漏水，致地板濕滑、積水，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/19 18:40 觀光局旗津風景區李進發先生回報，經人員巡視該處各公廁並未發現有小\r\n便斗漏水情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:08:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:25:53"
   },
   {
     "FileNo_": "INS161219176",
