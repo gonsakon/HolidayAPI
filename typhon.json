@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161220055",
+    "FileNo_": "INS161220056",
     "Status_": "1",
+    "Cre_Date_": "2016/12/20 上午 09:32:48",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "重偉街1號與3號之間",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "污水管阻塞(一)",
+    "BeforeDesc_": "渠反映該處有一污水蓋冒出污水,疑似污水管阻塞,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161220055",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 上午 09:26:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "華夏路上與博愛四路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處道路沿線佈滿泥沙未灑水，建請查處。",
+    "BeforeDesc_": "渠反映該處道路沿線佈滿泥沙，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 上午 09:29:20",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 11:54:28",
     "Close_Date_": "2016/12/19 下午 06:11:10"
-  },
-  {
-    "FileNo_": "INS161217075",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 上午 11:50:21",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "正忠路148號，正忠市場前(黃柏霖服務處與賣素食)",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該處一台電變電箱內有一貓隻受困於凹槽，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/18 09:27 經詢問台電1911林小姐表示，貓隻因基礎台破洞躲進管內，無法立即修\r\n復 ，另基礎台損壞會移改修，故轉派非網A-TB-2016-116942賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 上午 11:55:30",
-    "Close_Date_": "2016/12/18 上午 09:39:25"
   }
 ]
