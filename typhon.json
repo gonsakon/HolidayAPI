@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161220107",
+    "FileNo_": "INS161220106",
     "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 12:37:42",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文自路486號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該址前方有一圓形污水孔蓋目前鬆動，致車輛行經皆會發出聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161220107",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 12:34:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "846",
     "ZipName_": "杉林區",
     "address_": "大愛路與協力街",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有垃圾堆積致環境髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 12:36:34",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:08:02",
     "Close_Date_": "2016/12/18 下午 07:18:00"
-  },
-  {
-    "FileNo_": "INS161217125",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 下午 04:01:04",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區三多四路33號附近",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於12/17 16:16 通報110陳警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 04:11:30",
-    "Close_Date_": "2016/12/17 下午 04:18:06"
   }
 ]
