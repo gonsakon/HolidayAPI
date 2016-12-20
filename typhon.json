@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161220104",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 12:13:29",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "永裕街53號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "地下道、路面積水(一)",
+    "BeforeDesc_": "渠反映該址前水溝內管線破裂致不斷冒水，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161220103",
     "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 12:09:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:04:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161217121",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/17 下午 03:58:04",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "嘉新東路上(介於嘉新陸橋至聖森路之間)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該路段沿線有兩條長條形凹陷，恐機車騎士行駛發生危險，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 04:05:54",
     "Close_Date_": ""
   }
 ]
