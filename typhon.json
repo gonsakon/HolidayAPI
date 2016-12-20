@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS161220141",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2016/12/20 下午 04:12:47",
     "ReplyUnit_": "A02000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "鼓山區厚德路182號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "佔用道路",
     "BeforeDesc_": "兩台機車放置10多年了如何處理!外面機車位",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 05:04:42",
     "Close_Date_": ""
   },
   {
@@ -5203,20 +5203,20 @@
   },
   {
     "FileNo_": "INS161219079",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 上午 11:33:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路上近援中路(北往南方向)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有路面坑洞，造成其女友與此處摔車，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 14:37 養工處四維養護工程隊左楠養護分隊林玉娟小姐回報，經人員查看該處為\r\n水利局正在進行工程，坑洞範圍在水利局施工範圍內，故改派工INS161219116賡續辦理；待該案處理完成再行回\r\n覆陳情人，故先行將本案解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 上午 11:39:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 05:03:07"
   },
   {
     "FileNo_": "INS161219078",
