@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161220103",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 12:09:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "通港路靠近蚵仔寮附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處沿線路面有檳榔汁及狗便髒亂，請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161220102",
     "Status_": "1",
     "Cre_Date_": "2016/12/20 下午 12:05:40",
@@ -5288,20 +5305,20 @@
   },
   {
     "FileNo_": "INS161219027",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 上午 08:34:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "渠反映該公園內有兩包黑色大型垃圾包已一星期未清除，且附近散落垃圾，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 16:13養工處四維養護工程隊苓雅分隊陳美熹小姐回報，該處已清除；\r\n並於12/20 12：09電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 上午 08:37:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 12:09:25"
   },
   {
     "FileNo_": "INS161219026",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 04:05:54",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161217123",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 下午 03:57:55",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "汽機車紅線違規停車",
-    "AfterDesc_": "感謝您的反映，此案件已於12/17 16:10 通報110趙警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 04:11:14",
-    "Close_Date_": "2016/12/17 下午 04:13:46"
   }
 ]
