@@ -5798,20 +5798,20 @@
   },
   {
     "FileNo_": "INS161219094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 12:43:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "輔仁路151巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處遭棄置櫃子及多包垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 14:47苓雅區清潔隊謝炳章先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 12:45:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 09:25:23"
   },
   {
     "FileNo_": "INS161219091",
