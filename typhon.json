@@ -1242,20 +1242,20 @@
   },
   {
     "FileNo_": "INS161220162",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 06:07:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "八德路二段212巷60號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處紅色車與藍綠色車之間有一貓屍，陳情人已先用藍色垃圾袋蓋著貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/20 19:14 鳳山區清潔隊楊孟珍小姐回報，該處貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 06:10:50",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 上午 07:23:56"
   },
   {
     "FileNo_": "INS161220161",
@@ -1293,20 +1293,20 @@
   },
   {
     "FileNo_": "INS161220159",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 05:54:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄清路與褒揚東街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路口散落鐵釘，警員在現場維持交通，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/20 18:20三民東區清潔隊王文全先生回報，人員至現場時附近店家已先行協助將\r\n鐵釘清掃完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 05:57:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 上午 07:24:12"
   },
   {
     "FileNo_": "INS161220158",
@@ -1497,20 +1497,20 @@
   },
   {
     "FileNo_": "INS161220147",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 04:54:34",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "澄和路上(靠近澄和黃昏市場)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該市場門口旁有一貓屍，望請清除，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/20 17：27 三民東區清潔隊郭康尉小姐回報，該處經人員現場巡視30分鐘，未發\r\n現貓屍，故結案。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 04:56:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 上午 07:24:25"
   },
   {
     "FileNo_": "INS161220146",
