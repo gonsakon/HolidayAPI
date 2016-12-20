@@ -5152,20 +5152,20 @@
   },
   {
     "FileNo_": "INS161219135",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 04:22:12",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "鳳林公路上與莊敬路、水源路、自由路三路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該三路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 18:19交通局智慧運輸中心張寬如小姐回報，該處已修復；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 04:23:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 09:48:14"
   },
   {
     "FileNo_": "INS161219134",
@@ -5186,20 +5186,20 @@
   },
   {
     "FileNo_": "INS161219133",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 04:18:44",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "榮德街與榮總路141巷巷口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷口水溝蓋上遭棄置許多衣物，造成髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 17：08左營區清潔隊張玉滿小姐回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 04:20:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 09:47:48"
   },
   {
     "FileNo_": "INS161219132",
