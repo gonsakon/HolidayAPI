@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161220146",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/20 下午 04:53:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "大為街15號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161220145",
     "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 04:43:25",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161220120",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/20 下午 02:04:38",
     "ReplyUnit_": "B01000",
     "zipcode_": "846",
     "ZipName_": "杉林區",
     "address_": "通仙巷132之3號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 下午 06:45:45",
     "Close_Date_": "2016/12/20 下午 03:41:42"
-  },
-  {
-    "FileNo_": "INS161217164",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 下午 06:41:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山區竹圍中街30巷35號外路燈",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "路燈不亮",
-    "AfterDesc_": "【主管解除管制】本案於12/20 11:25 養工處岡山養護工程隊李文義先生回報，該處無危險性，惟因需另備料安\r\n定器材料，無法立即修復，故改派非網A-TB-2016-117510賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 下午 07:08:17",
-    "Close_Date_": "2016/12/20 下午 03:31:54"
   }
 ]
