@@ -1514,20 +1514,20 @@
   },
   {
     "FileNo_": "INS161220146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 04:53:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "大為街15號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路旁有遭人丟棄數包垃圾包，與周界有散落垃圾情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/20 17：09 鹽埕區清潔隊洪美禎小姐回報，該處垃圾包已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 04:57:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 上午 07:27:18"
   },
   {
     "FileNo_": "INS161220145",
@@ -1650,20 +1650,20 @@
   },
   {
     "FileNo_": "INS161220138",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 03:51:24",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路670之1號前(鼎中路672巷內)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有柏油碎石子，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/20 16:22三民東區清潔隊翁舜華小姐回報，已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 03:54:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 上午 07:27:30"
   },
   {
     "FileNo_": "INS161220137",
