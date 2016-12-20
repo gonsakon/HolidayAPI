@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161220058",
+    "FileNo_": "INS161220059",
     "Status_": "1",
+    "Cre_Date_": "2016/12/20 上午 09:38:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "左營大路345",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161220058",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 上午 09:33:23",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "保社里旗楠路80巷203號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址門口旁邊有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 上午 09:34:36",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/17 上午 11:59:16",
     "Close_Date_": "2016/12/17 下午 09:44:05"
-  },
-  {
-    "FileNo_": "INS161217078",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/17 上午 11:54:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "沿海路二段 (幸福公園對面)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空地有民眾正在燃燒廢棄物致空汙，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/17 15：08 環保局環境稽查科南區股王富財先生回報，稽查人員於13：35到達，稽\r\n查周界巡視未發現有燃燒廢棄物致空汙情事；並於12/19 18：45電覆陳情人，故解除管制；惟陳情人反映該處長\r\n期燃燒空污問題，故另成非網A-TB-2016-117338追蹤管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/17 上午 11:55:26",
-    "Close_Date_": "2016/12/19 下午 06:53:29"
   }
 ]
