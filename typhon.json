@@ -3231,20 +3231,20 @@
   },
   {
     "FileNo_": "INS161219211",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 08:19:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "復興二路205號至230號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面散落保麗龍造成四處飛竄致髒亂，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/19 20:53 新興區清潔隊林希宸班長回報，該處保麗龍皆已清除完畢；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 08:22:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/20 下午 06:27:17"
   },
   {
     "FileNo_": "INS161219210",
