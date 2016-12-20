@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161220179",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/20 下午 07:34:35",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "&#22356;埔路4巷(四面佛旁邊)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈(電桿編號:圓覺寺5右15)故障不亮，已用紅線作為記號，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/20 下午 07:35:48",
     "Close_Date_": ""
   },
   {
