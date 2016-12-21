@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161221113",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/21 下午 02:56:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "正忠路335號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址目前有使用機具致噪音情形，已長達一個禮拜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/21 下午 02:58:00",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221112",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 02:55:43",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "文忠路與南屏路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處有一道路工程均未設立告示，到場圍起直接開挖阻礙出入，建請查處。",
+    "BeforeDesc_": "渠反映該處有一道路工程均未設立告示，到場圍起後就直接施工阻礙出入，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 02:58:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 06:54:49",
     "Close_Date_": "2016/12/21 下午 02:10:07"
-  },
-  {
-    "FileNo_": "INS161218131",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 下午 06:47:46",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "大社里八德路與台17線(大舍北路)交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口一號誌綠燈故障不亮，建請查修。",
-    "AfterDesc_": "【主管解除管制】12/18 21:15交通局智慧運輸中心張寬如小姐回報，該處號誌已修復完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 下午 06:49:14",
-    "Close_Date_": "2016/12/19 上午 07:57:22"
   }
 ]
