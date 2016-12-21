@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221069",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/21 上午 11:03:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "旗楠路80巷267號與269號之間巷子",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該巷內第一盞路燈故障不亮，建請查修。(陳情人要求聯繫)",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221068",
     "Status_": "1",
     "Cre_Date_": "2016/12/21 上午 11:01:52",
@@ -52,19 +69,19 @@
   },
   {
     "FileNo_": "INS161221065",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 上午 11:00:05",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "藍昌路417巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處變電箱旁有數十包垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 上午 11:03:25",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 03:45:48",
     "Close_Date_": "2016/12/20 下午 06:07:14"
-  },
-  {
-    "FileNo_": "INS161218088",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 下午 03:38:53",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛二路上與忠言路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一流浪犬遭車輛撞擊受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/18 15:57農業局動物保護處捕犬大隊史明德先生回報，撞到犬隻之民眾已將犬隻送\r\n往醫院；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 下午 03:42:03",
-    "Close_Date_": "2016/12/18 下午 11:03:31"
   }
 ]
