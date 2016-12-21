@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161221125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 03:40:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "",
+    "address_": "凱旋四路上(往北方向)與班超路口(非瑞祥高中此側的凱旋四路)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "0926207299",
+    "BeforeDesc_": "渠反映現該路口4個號誌燈號僅見紅燈與箭頭直行燈放亮，而綠燈與黃燈皆未亮疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 03:45:25",
     "Close_Date_": ""
   },
   {
@@ -4166,20 +4166,20 @@
   },
   {
     "FileNo_": "INS161220103",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 12:09:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "通港路靠近蚵仔寮附近",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處沿線路面有檳榔汁及狗便髒亂，請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/20 14:35梓官區清潔隊吳宜芝小姐回報，已清除完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 12:11:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 下午 03:41:06"
   },
   {
     "FileNo_": "INS161220102",
