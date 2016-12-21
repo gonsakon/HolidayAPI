@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221080",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/21 下午 12:12:06",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "美術館路277號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映現該址大樓大門前兩車道間有一圓形孔蓋鬆動產生噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221079",
     "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 12:04:14",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161221078",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 12:01:43",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "林森一路158巷與忠孝一路口",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一高市寬頻人孔蓋鬆動致噪音之情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 12:07:46",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 04:39:57",
     "Close_Date_": "2016/12/19 下午 12:39:14"
-  },
-  {
-    "FileNo_": "INS161218099",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 下午 04:34:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路580號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前因車禍造成路面有玻璃碎片遍地，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/18 17:14 左營區清潔隊陳立全先生回報，玻璃碎片已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 下午 04:37:29",
-    "Close_Date_": "2016/12/20 下午 05:13:57"
   }
 ]
