@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161221190",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 09:52:04",
     "ReplyUnit_": "E01005",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "中港路20之1號",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該處有一電桿上方線路發出異聲，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 09:56:19",
     "Close_Date_": ""
   },
   {
