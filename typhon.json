@@ -47,7 +47,7 @@
     "BeforeDesc_": "渠反映該處因車禍事故導致路面油漬，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 06:50:20",
+    "Save_Date_": "2016/12/22 上午 07:04:24",
     "Close_Date_": ""
   },
   {
@@ -69,14 +69,14 @@
   },
   {
     "FileNo_": "INS161222011",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/22 上午 05:41:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "柑宅巷 南向 觀音山金寶塔招牌旁",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈故障損壞，燈具已垂落，建請查處。",
     "AfterDesc_": "",
