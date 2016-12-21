@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221162",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/21 下午 07:02:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "844",
+    "ZipName_": "六龜區",
+    "address_": "新發里13號附近",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有路面掏空情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221161",
     "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 06:53:00",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 上午 08:23:07",
     "Close_Date_": "2016/12/20 下午 06:28:09"
-  },
-  {
-    "FileNo_": "INS161219021",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/19 上午 08:12:50",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "清水岩路301號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人手孔破損",
-    "BeforeDesc_": "水溝蓋不見已久，路經道路常有兒童出入慎怕跌倒。",
-    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工： INS161219020 ，研判應是重複成案，故併入該案一併\r\n委由水利局賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 上午 09:00:58",
-    "Close_Date_": "2016/12/19 上午 09:03:25"
   }
 ]
