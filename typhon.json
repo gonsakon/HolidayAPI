@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161221085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 12:18:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "七賢三路與七賢二路(七賢三路上)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有路面下陷凹凸不平狀況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 12:20:09",
     "Close_Date_": ""
   },
   {
@@ -6138,20 +6138,20 @@
   },
   {
     "FileNo_": "INS161219186",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/19 下午 06:33:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "芎林七街33號前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞水銀路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/20 19:33 養工處四維養護工程隊九如養護分隊呂茂盛先生回報，該處路\r\n燈已修復完成；並於12/21 12：19電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:35:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 下午 12:19:40"
   },
   {
     "FileNo_": "INS161219185",
