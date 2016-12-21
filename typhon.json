@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161221127",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 03:56:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路230號對面；變電箱旁",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處人行道上遭棄置三包垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 03:57:49",
     "Close_Date_": ""
   },
   {
@@ -3843,20 +3843,20 @@
   },
   {
     "FileNo_": "INS161220124",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/20 下午 02:15:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華一路75號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址現有聽到一低頻噪音疑似抽水馬達運轉聲，建請會同查處。(請人員前往前先聯絡說明會同時間)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/20 15:43環保局公害專線中區股沈俊男先生回報，稽查人員於15:35到達，電洽陳情\r\n人撥打多次皆無人接聽，於該址巡查未發現有上述情事，詢問隔壁77號店家也未發現噪音；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 02:24:35",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/21 下午 03:57:30"
   },
   {
     "FileNo_": "INS161220123",
