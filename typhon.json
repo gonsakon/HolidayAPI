@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221077",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/21 上午 11:53:49",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "正氣街29號前",
+    "UnitName_": "台電公司",
+    "StatusName_": "待確認",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "渠反映該址前有一台電長方形孔蓋周邊破損致坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/21 上午 11:59:19",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221076",
     "Status_": "2",
     "Cre_Date_": "2016/12/21 上午 11:53:27",
@@ -528,14 +545,14 @@
   },
   {
     "FileNo_": "INS161221044",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/21 上午 09:24:56",
     "ReplyUnit_": "F01013",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "三協里武路巷24號",
     "UnitName_": "旗山區公所",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處日前路面刨除，惟當下因瀝青不足迄今尚未填補，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 04:29:17",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161218096",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 下午 04:25:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中華三路與五福三路(城市光廊)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處圓環路燈上有遭繫掛售屋廣告，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/18 16:39前金區清潔隊夏金益先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 下午 04:27:04",
-    "Close_Date_": "2016/12/20 下午 05:13:48"
   }
 ]
