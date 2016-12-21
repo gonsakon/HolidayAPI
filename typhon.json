@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161221126",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 03:46:07",
-    "ReplyUnit_": "E01005",
+    "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
-    "address_": "鼓山三路1之九號前的號誌桿上的電線掉落",
-    "UnitName_": "台電公司",
-    "StatusName_": "建立中",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "鼓山三路1之9號前的號誌桿掉了一條電線",
+    "address_": "鼓山三路1之9號前的號誌桿上的電線掉落",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該址前的號誌桿掉了一條電線，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/21 下午 03:51:41",
     "Close_Date_": ""
   },
   {
