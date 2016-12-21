@@ -34,23 +34,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161221059",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/21 上午 10:25:50",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "武慶三路57巷1號4樓",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址四樓冷氣窗上，卡一貓隻，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161221057",
     "Status_": "2",
     "Cre_Date_": "2016/12/21 上午 10:22:41",
@@ -664,14 +647,14 @@
   },
   {
     "FileNo_": "INS161221021",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/21 上午 08:29:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "大春街與仁雄路口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處電線桿有房仲廣告張貼，建請查處並要求由清潔隊人員回覆。",
     "AfterDesc_": "",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 03:04:11",
     "Close_Date_": "2016/12/18 下午 10:59:59"
+  },
+  {
+    "FileNo_": "INS161218080",
+    "Status_": "5",
+    "Cre_Date_": "2016/12/18 下午 02:46:52",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "鳳屏一路往中山東路方向與埤北路口",
+    "UnitName_": "交通局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該處綠燈號誌綠燈長達2至3分鐘，疑似故障，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於12/18 17：56交通局智慧運輸中心張寬如小姐回報，該處號誌燈已修復完畢；本案不需\r\n回電故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/12/18 下午 02:48:31",
+    "Close_Date_": "2016/12/18 下午 10:58:30"
   }
 ]
