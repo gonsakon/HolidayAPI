@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161221112",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/21 下午 02:55:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "文忠路與南屏路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處有一道路工程均未設立告示，到場圍起直接開挖阻礙出入，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161221111",
     "Status_": "2",
     "Cre_Date_": "2016/12/21 下午 02:41:24",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161221106",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/21 下午 02:05:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "南安路44之1號隔壁",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址住戶施工未設置防塵網致揚塵空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/18 下午 06:49:14",
     "Close_Date_": "2016/12/19 上午 07:57:22"
-  },
-  {
-    "FileNo_": "INS161218130",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/18 下午 06:42:52",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區三多二路327號人行道上",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上汽車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/18 18:46代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/18 下午 06:49:01",
-    "Close_Date_": "2016/12/18 下午 06:50:58"
   }
 ]
