@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161222057",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/22 上午 10:11:52",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "力行路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161222056",
     "Status_": "1",
     "Cre_Date_": "2016/12/22 上午 10:11:09",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS161222027",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/22 上午 08:34:37",
     "ReplyUnit_": "A03000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "經建路8號(中國人造纖維股份有限公司)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有排放廢氣致空汙情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 03:26:28",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161219121",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/19 下午 03:20:17",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "辛亥路237_11號門口",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "台電變電箱漏油在辛亥路237_11號門口，請派員搶修",
-    "AfterDesc_": "【主管解除管制】本案於12/20 10：58經詢問台電1911吳小姐表示，已暫時安全處理，另移晚班續\r\n辦，故轉派非網A-TB-2016-117496賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 下午 03:46:36",
-    "Close_Date_": "2016/12/20 上午 11:07:59"
   }
 ]
