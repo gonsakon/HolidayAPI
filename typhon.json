@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161222087",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/22 下午 12:03:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161222086",
     "Status_": "2",
     "Cre_Date_": "2016/12/22 上午 11:59:34",
@@ -3860,20 +3877,20 @@
   },
   {
     "FileNo_": "INS161221062",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/21 上午 10:43:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓新路與建楠路口(上光眼鏡)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/21 13：36 環保局稽查科中區股楊昌翰先生回報，稽查人員於 12：20 稽\r\n查當時，業者營業中，業者配合立即降低音量，於周界巡視，未發現明顯使用擴音噪音致噪音之情\r\n事，仍促請業者注意音量控管，以避免擾民；並於12/22 12：00電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 10:46:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/22 下午 12:01:22"
   },
   {
     "FileNo_": "INS161221061",
@@ -9266,14 +9283,14 @@
   },
   {
     "FileNo_": "INS161219206",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/19 下午 07:57:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "中山南路與文化街(文化街上)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處巷道內第二盞路燈故障不亮多日，建請盡速查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 05:10:02",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161219152",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/19 下午 05:04:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路451巷2號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，請修復。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 20:38養工處鳳山養護工程隊韓莉梅小姐回報，該處路燈已修復完成；本案不需\r\n回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 下午 05:05:09",
-    "Close_Date_": "2016/12/21 下午 10:36:34"
   }
 ]
