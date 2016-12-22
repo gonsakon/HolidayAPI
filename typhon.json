@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161223006",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/23 上午 05:53:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "四維四路與永泰街交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處因車禍事故導致路面油漬及散落碎玻璃，建請查處。(警方仍於現場)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/23 06:18 苓雅區清潔隊 楊雨霖先生回報，上述情事已清除完畢；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 05:54:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/23 上午 06:18:01"
   },
   {
     "FileNo_": "INS161223005",
