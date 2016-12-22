@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161222085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/22 上午 11:51:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "北平路56號旁",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈(編號：6649)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/22 上午 11:52:34",
     "Close_Date_": ""
   },
   {
@@ -579,20 +579,20 @@
   },
   {
     "FileNo_": "INS161222051",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/22 上午 10:07:09",
     "ReplyUnit_": "E01005",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中華三路，中華四路",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-路面填補不實",
     "BeforeDesc_": "中華三路至中華四路，南下及北上路段內外車道都是凹凸不平及坑洞。請問這樣的施工是合格的嗎？該局近期是否有重鋪的計畫。太誇張了。往返高雄市的重要道路竟然是這這樣品質，太丟臉了。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-118193由工務局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 11:36:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/22 上午 11:52:39"
   },
   {
     "FileNo_": "INS161222050",
