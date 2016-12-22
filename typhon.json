@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161222107",
+    "FileNo_": "INS161222108",
     "Status_": "1",
+    "Cre_Date_": "2016/12/22 下午 02:14:55",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大德街37號旁",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該防火巷內有一隻貓受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161222107",
+    "Status_": "2",
     "Cre_Date_": "2016/12/22 下午 02:12:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
-    "address_": "工業二路1號(雙園大橋下)",
+    "address_": "工業二路1號(雙園大橋旁，台灣石化新建工程)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址有一新建工程，有揚塵空污之情事，現場未有灑水車，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/22 下午 02:15:39",
     "Close_Date_": ""
   },
   {
@@ -86,20 +103,20 @@
   },
   {
     "FileNo_": "INS161222101",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/22 下午 01:46:43",
     "ReplyUnit_": "A02000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "仁雄路和八德南路交叉路口",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "急迫危害立即排除",
     "BeforeDesc_": "此路口的號誌/監視器開關箱(街景紅圈處)被開啟，路過無維修人員，請派員關閉。",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-118230由警察局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 02:06:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/22 下午 02:14:46"
   },
   {
     "FileNo_": "INS161222100",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 06:03:30",
     "Close_Date_": "2016/12/20 下午 05:33:30"
-  },
-  {
-    "FileNo_": "INS161219172",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/19 下午 06:01:07",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "三民路、三民路220巷、中華路 、新生街",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址路燈大範圍故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/19 21:05 養工處鳳山養護工程隊劉緯婕小姐回報，該處台電已復電，現場路燈皆正\r\n常放亮；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 下午 06:02:16",
-    "Close_Date_": "2016/12/20 下午 06:25:42"
   }
 ]
