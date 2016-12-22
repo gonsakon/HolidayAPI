@@ -17,20 +17,37 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161222142",
+    "FileNo_": "INS161222144",
     "Status_": "1",
+    "Cre_Date_": "2016/12/22 下午 05:50:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "柳橋西路110巷與柳橋西路110巷4弄路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161222142",
+    "Status_": "2",
     "Cre_Date_": "2016/12/22 下午 05:48:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "北嶺村民有路68巷20號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/22 下午 05:50:01",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 08:16:13",
     "Close_Date_": "2016/12/21 下午 05:33:00"
-  },
-  {
-    "FileNo_": "INS161219208",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/19 下午 08:11:39",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "大學十街196號附近(華科建設公司)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處工地現正使用機具施工致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/19 21：52環保局環境稽查科中區股王奕翔先生回報，稽查人員於20：55到達，稽查\r\n時該工地已無施工，現場進行收拾作業，於周界量測均能音量為63.2分貝，未逾本市晚間噪音標準67分貝，仍有\r\n促請業者注意防範以免擾民；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 下午 08:13:36",
-    "Close_Date_": "2016/12/20 下午 10:11:20"
   }
 ]
