@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161222202",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/22 下午 09:47:58",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "加昌路與後昌路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌紅燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161222201",
     "Status_": "2",
     "Cre_Date_": "2016/12/22 下午 09:29:03",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161222195",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/22 下午 09:13:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣東一街9巷口，停車場旁",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有一幼貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/20 上午 08:34:49",
     "Close_Date_": "2016/12/21 上午 10:54:11"
-  },
-  {
-    "FileNo_": "INS161220026",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/20 上午 08:26:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "中華一路上近美明路；陸橋往南方向",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處汽車道上有一貓屍，近紅綠燈處，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/20 08:55鼓山區清潔隊馮靜儀小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/20 上午 08:29:18",
-    "Close_Date_": "2016/12/20 下午 10:24:13"
   }
 ]
