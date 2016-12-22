@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161222123",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/22 下午 03:51:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "廣西路與修文街口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一車行，因洗車中導致水柱與泡沫噴濺到道路上，已影響機車騎乘安全，請查處。",
+    "BeforeDesc_": "渠反映該處有一車行，因洗車中導致水柱與泡沫噴濺到道路上，影響機車騎乘安全，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/22 下午 03:58:35",
     "Close_Date_": ""
   },
   {
