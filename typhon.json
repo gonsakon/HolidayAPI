@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161222047",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/22 上午 09:43:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "榮總路與榮總路203巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161222046",
     "Status_": "2",
     "Cre_Date_": "2016/12/22 上午 09:39:32",
@@ -27,7 +44,7 @@
     "UnitName_": "交通局",
     "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址前路口號誌原為10點變為閃燈模式，近期8點就已變換為閃燈疑似故障，建請查處。",
+    "BeforeDesc_": "渠反映該址前路口號誌原為晚間10點變為閃燈模式，近期晚間8點就已變換為閃燈疑似故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 09:38:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/19 下午 02:31:33",
     "Close_Date_": "2016/12/20 下午 09:33:37"
-  },
-  {
-    "FileNo_": "INS161219111",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/19 下午 02:28:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "球場路與清豐六路口(往橋南路100公尺處)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/19 下午 02:39:30",
-    "Close_Date_": ""
   }
 ]
