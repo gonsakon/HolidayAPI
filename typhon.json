@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161223069",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 上午 11:14:38",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "民族一路與天祥一路口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該處有一圓形人孔蓋高低落差，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223068",
     "Status_": "1",
     "Cre_Date_": "2016/12/23 上午 11:14:14",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161223067",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 11:14:06",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
-    "address_": "一心一路289巷與",
+    "address_": "少康街(一心一路289巷與沱江街之間)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處多個路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/23 上午 11:15:06",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 01:51:31",
     "Close_Date_": "2016/12/21 上午 11:38:54"
-  },
-  {
-    "FileNo_": "INS161220110",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/20 下午 01:44:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "義勇路8號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址住戶將回收物由門口堆積至路面,造成髒亂,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/20 14:52 苓雅區清潔隊謝炳章先生回報，經人員現場察看，為屋主門前堆放回收\r\n物，已請屋主限期12/27前清除，故改派非網A-TB-2016-117603賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/20 下午 01:49:18",
-    "Close_Date_": "2016/12/21 下午 03:45:46"
   }
 ]
