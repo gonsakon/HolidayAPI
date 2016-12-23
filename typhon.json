@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161223192",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 下午 08:08:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "福美路86巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223191",
     "Status_": "1",
     "Cre_Date_": "2016/12/23 下午 08:08:01",
@@ -48,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:05:26",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161223189",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/23 下午 08:02:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "北斗街與新興街口(火鍋店對面2樓，簡餐店)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有使用擴音器設備致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/23 下午 08:05:44",
     "Close_Date_": ""
   },
   {
@@ -10164,39 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 06:17:34",
     "Close_Date_": "2016/12/21 下午 04:43:08"
-  },
-  {
-    "FileNo_": "INS161221007",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 上午 05:57:05",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "右昌一巷216弄37號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 07：28 楠梓區清潔隊濮寶麟先生回報，該處已清理完成；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 06:18:52",
-    "Close_Date_": "2016/12/21 下午 05:56:48"
-  },
-  {
-    "FileNo_": "INS161221006",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 上午 04:57:58",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐路與土庫二路(位於稻田旁道路上)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路樹下有一貓屍已先行覆蓋垃圾袋，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 08:23 楠梓區清潔隊王心柔小姐回報，已清除完畢；並於12/21 16：16電覆陳情\r\n人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 04:59:31",
-    "Close_Date_": "2016/12/21 下午 04:21:48"
   }
 ]
