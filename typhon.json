@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161223044",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 09:50:31",
     "ReplyUnit_": "B01000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "新東五街70號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處整排路燈接故障不亮，表示養工處多次修復後又再度故障，建請查處。",
+    "BeforeDesc_": "渠反映該處整排路燈故障不亮，表示養工處多次修復後又再度故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/23 上午 09:51:22",
     "Close_Date_": ""
   },
   {
