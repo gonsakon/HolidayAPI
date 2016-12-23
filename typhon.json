@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161223054",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 10:21:08",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華二路上(忠民街與林西街之間)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌燈故障閃燈，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/23 上午 10:22:46",
     "Close_Date_": ""
   },
   {
