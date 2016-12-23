@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS161223026",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 09:12:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中山路二段與福安街口(中山路二段上往西方向拱門處)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映現該處號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/23 上午 09:15:56",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161223029",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 上午 09:11:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "中華路18巷路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/20 上午 10:27:49",
     "Close_Date_": "2016/12/21 下午 03:22:14"
-  },
-  {
-    "FileNo_": "INS161220069",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/20 上午 10:21:36",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "中芸漁港之漁港公園",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園內公廁目前無水可用，致臭氣沖天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/20 上午 10:32:46",
-    "Close_Date_": ""
   }
 ]
