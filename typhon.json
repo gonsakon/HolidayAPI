@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161223092",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 下午 01:39:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山三路、瑞南街與凱旋四路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/23 下午 01:40:57",
     "Close_Date_": ""
   },
   {
