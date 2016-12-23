@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161223055",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 上午 10:33:19",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223054",
     "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 10:21:08",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 12:02:54",
     "Close_Date_": "2016/12/21 下午 03:41:13"
-  },
-  {
-    "FileNo_": "INS161220097",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/20 上午 11:53:44",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營大路18巷20號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處電線掉落，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 10：01經詢問台電1911林小姐表示，已固定完成；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/20 上午 11:57:39",
-    "Close_Date_": "2016/12/21 下午 03:40:13"
   }
 ]
