@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161223151",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/23 下午 05:32:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山二路217號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有一不明活動有使用擴音器唱歌致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/23 下午 05:35:27",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223150",
     "Status_": "1",
     "Cre_Date_": "2016/12/23 下午 05:32:09",
@@ -273,14 +290,14 @@
   },
   {
     "FileNo_": "INS161223135",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/23 下午 04:35:00",
     "ReplyUnit_": "B02000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "青年二路152號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處大樓前方污水管線阻塞，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/20 下午 08:41:36",
     "Close_Date_": "2016/12/21 下午 05:49:01"
-  },
-  {
-    "FileNo_": "INS161220192",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/20 下午 08:26:42",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路85號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔蓋鬆動",
-    "BeforeDesc_": "渠反映該處有一不明方型孔蓋有鬆動噪音情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/20 21:54工務局工程企劃處第二課陳昭宏先生回報，該處經查為寬頻孔\r\n蓋，並已修復；並於12/21 12：33電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/20 下午 08:37:45",
-    "Close_Date_": "2016/12/21 下午 01:47:22"
   }
 ]
