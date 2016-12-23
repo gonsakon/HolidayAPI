@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224015",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 上午 05:49:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河北二路(介於自強一路至愛河家樂福)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈沿線多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224014",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 上午 05:27:30",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 10:33:18",
     "Close_Date_": "2016/12/22 上午 10:32:59"
-  },
-  {
-    "FileNo_": "INS161221058",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 上午 10:27:56",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "澄觀路一段152巷口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處雙向號誌皆閃紅燈已兩天，疑似故障，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 10:29:53",
-    "Close_Date_": ""
   }
 ]
