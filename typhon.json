@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161223208",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 下午 09:55:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223206",
     "Status_": "2",
     "Cre_Date_": "2016/12/23 下午 09:53:06",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161223182",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/23 下午 07:32:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳南路上(介於鳳南路82巷與南榮路之間)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處中央分隔島沿線路燈桿上有大型木板廣告，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 08:34:42",
     "Close_Date_": "2016/12/21 下午 06:16:27"
-  },
-  {
-    "FileNo_": "INS161221023",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 上午 08:31:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "崑山路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞LED燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/22 10：40養工處岡山養護工程隊康友淇先生回報，該處無危險性，惟皆需備料安定\r\n器，故轉非網A-TB-2016-118153後續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 08:33:26",
-    "Close_Date_": "2016/12/23 上午 12:58:20"
   }
 ]
