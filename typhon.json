@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224008",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 上午 01:24:28",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "山明路64號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224007",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 上午 01:13:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 10:04:00",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161221052",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 上午 09:58:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "美術南三路上近美術東二路 (素食餐廳)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該店家油煙異味造成空污，建請查處。(稽查員結果回覆陳情人)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 10:00:02",
     "Close_Date_": ""
   }
 ]
