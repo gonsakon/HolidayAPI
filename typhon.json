@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161223070",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/23 上午 11:17:21",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路與大順一路口(中華一路上)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處依號誌黃燈昏暗快熄滅疑似故障，建請查處。",
+    "BeforeDesc_": "渠反映該處一號誌黃燈昏暗快熄滅無法看清，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/23 上午 11:18:22",
     "Close_Date_": ""
   },
   {
