@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224017",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 上午 06:11:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "筆秀路72號後面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處地點有機械運轉聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224016",
     "Status_": "1",
     "Cre_Date_": "2016/12/24 上午 05:58:02",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS161224012",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/24 上午 04:57:00",
     "ReplyUnit_": "E01005",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "大業南路60號",
     "UnitName_": "台電公司",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處因車禍將電線桿撞斷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 10:47:14",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161221062",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 上午 10:43:35",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓新路與建楠路口(上光眼鏡)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處店家擴音器噪音擾民，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 13：36 環保局稽查科中區股楊昌翰先生回報，稽查人員於 12：20 稽\r\n查當時，業者營業中，業者配合立即降低音量，於周界巡視，未發現明顯使用擴音噪音致噪音之情\r\n事，仍促請業者注意音量控管，以避免擾民；並於12/22 12：00電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 10:46:16",
-    "Close_Date_": "2016/12/22 下午 12:01:22"
   }
 ]
