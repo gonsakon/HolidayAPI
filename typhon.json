@@ -10,7 +10,24 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有舊路燈線路垂落，影響交通，望請派員清除，建請查處。",
+    "BeforeDesc_": "渠反映該處有舊路燈線路掉落，影響交通，望請派員清除，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161223207",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/23 下午 09:51:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "溪埔路230號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 08:33:26",
     "Close_Date_": "2016/12/23 上午 12:58:20"
-  },
-  {
-    "FileNo_": "INS161221022",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 上午 08:31:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "823",
-    "ZipName_": "田寮區",
-    "address_": "秀峰路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路上有一盞LED燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/22 10：40養工處岡山養護工程隊康友淇先生回報，該處無危險性，惟需備料安定器，\r\n故轉非網A-TB-2016-118152後續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 08:33:19",
-    "Close_Date_": "2016/12/23 上午 12:57:28"
   }
 ]
