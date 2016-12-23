@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224018",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 上午 06:42:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路與華夏路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處店家有目前有撥放音樂產生噪音情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224017",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 上午 06:11:45",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 10:53:17",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161221063",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 上午 10:43:51",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "南天街4號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址施工揚塵致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 10:47:14",
     "Close_Date_": ""
   }
 ]
