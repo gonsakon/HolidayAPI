@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224001",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 上午 12:05:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "文信路321號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處地點有民眾在燃燒紙錢造成空氣汙染，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161223229",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 上午 12:00:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 上午 09:53:29",
     "Close_Date_": "2016/12/21 下午 06:23:55"
-  },
-  {
-    "FileNo_": "INS161221045",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/21 上午 09:25:34",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "廣西路310號對面(民權公園轉角)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處有一溝蓋下陷，已先用木板覆蓋，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 上午 09:28:04",
-    "Close_Date_": ""
   }
 ]
