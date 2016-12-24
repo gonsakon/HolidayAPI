@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224168",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 10:01:38",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "外環西路119號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔、溝蓋鬆動(一)",
+    "BeforeDesc_": "渠反映該處水溝蓋鬆動，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224164",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 09:49:02",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161224125",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/24 下午 05:54:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "中泰街119巷48弄3號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處社區疑似遭民眾傾倒有機溶劑，排水溝內傳出化學異味空汙，建請稽查。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 05:47:26",
     "Close_Date_": "2016/12/23 下午 05:01:36"
-  },
-  {
-    "FileNo_": "INS161222009",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/22 上午 05:20:22",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明華路27號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處抽水馬達運轉噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/22 07:30 環保局公害專線王奕翔先生回報，人員於07:08到達，稽查時於該址周界\r\n巡查，並未發現抽水馬達運轉致噪音情事；並於12/23 09：50電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 05:22:03",
-    "Close_Date_": "2016/12/23 上午 10:01:45"
   }
 ]
