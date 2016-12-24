@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224142",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 07:01:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "平和路與港後路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "渠反映該處路燈桿上遭綁售屋廣告，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224141",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 06:55:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 09:30:04",
     "Close_Date_": "2016/12/21 下午 09:31:03"
-  },
-  {
-    "FileNo_": "INS161221187",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 下午 09:12:05",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市一心二路206號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多量機車人行道、紅線違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/21 21:28代通報至110勤務指揮中心林警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 09:30:11",
-    "Close_Date_": "2016/12/21 下午 09:30:55"
   }
 ]
