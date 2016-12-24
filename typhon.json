@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224116",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/24 下午 05:04:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "南屏路上(與明誠三路交叉、老四川)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有油煙異味空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/24 下午 05:06:42",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224115",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 05:00:34",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 07:03:25",
     "Close_Date_": "2016/12/22 下午 04:38:05"
-  },
-  {
-    "FileNo_": "INS161221162",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 下午 07:02:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "844",
-    "ZipName_": "六龜區",
-    "address_": "新發里13號附近",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處有路面掏空情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 07:05:42",
-    "Close_Date_": ""
   }
 ]
