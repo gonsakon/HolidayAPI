@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 06:44:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "劉厝里國軒路",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該路段有多盞路燈故障不亮(編號:3093、3001至3008)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224139",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 06:25:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 09:08:38",
     "Close_Date_": "2016/12/24 下午 04:53:34"
-  },
-  {
-    "FileNo_": "INS161221185",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 下午 08:55:26",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "六合路41號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址汙水管堵塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 08:57:29",
-    "Close_Date_": ""
   }
 ]
