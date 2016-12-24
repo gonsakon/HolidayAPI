@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224175",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 11:38:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224174",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 11:08:08",
@@ -18,14 +35,14 @@
   },
   {
     "FileNo_": "INS161224173",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/24 下午 10:48:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "同盟二路(客家文物館旁，餐廳)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者目前有使用擴音器設備致噪音情事，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 08:13:16",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222016",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 07:48:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新富路國道一號涵洞下(西往東方向)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一不合法舊衣回收箱破損，附近髒亂衣物散落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 07:58:49",
     "Close_Date_": ""
   }
 ]
