@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224127",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 05:59:04",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "莒光路三段69號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224126",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 05:56:18",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161224125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 05:54:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "中泰街119巷48弄3號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "遭民眾 公共汙水管線 有機溶劑",
+    "BeforeDesc_": "渠反映該處社區疑似遭民眾傾倒有機溶劑，排水溝內傳出化學異味空汙，建請稽查。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/24 下午 05:58:48",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 07:30:44",
     "Close_Date_": "2016/12/22 下午 02:02:14"
-  },
-  {
-    "FileNo_": "INS161221172",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 下午 07:26:40",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區中山二路318號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "人行道上機車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/21 19:49代通報至110勤務指揮中心趙警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 07:51:30",
-    "Close_Date_": "2016/12/21 下午 07:52:55"
   }
 ]
