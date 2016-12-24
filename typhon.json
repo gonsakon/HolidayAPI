@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224170",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/24 下午 10:13:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫二路225號(惡魔雞排)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處目前有油煙飄散空污情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/24 下午 10:16:09",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224169",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 10:12:39",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 06:10:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222011",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 05:41:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "柑宅巷 南向 觀音山金寶塔招牌旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障損壞，燈具已垂落，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 05:45:12",
     "Close_Date_": ""
   }
 ]
