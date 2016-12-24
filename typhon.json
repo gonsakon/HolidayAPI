@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224117",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 05:19:36",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮海二街16號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前一盞路燈故障不亮，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224116",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 05:04:01",
@@ -10082,14 +10099,14 @@
   },
   {
     "FileNo_": "INS161221169",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/21 下午 07:22:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "和平路一段99之1號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 07:14:57",
     "Close_Date_": "2016/12/22 下午 04:52:27"
-  },
-  {
-    "FileNo_": "INS161221163",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/21 下午 07:03:16",
-    "ReplyUnit_": "F01012",
-    "zipcode_": "846",
-    "ZipName_": "杉林區",
-    "address_": "集來里第9鄰通仙巷177之1號",
-    "UnitName_": "杉林區公所",
-    "StatusName_": "解除管制",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該址旁有一電線冒出火花，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/21 19:39 杉林區公所萬玉仙小姐回報，該處經科長與陳情人聯繫，確認\r\n現場為路燈電線問題，需由養工處負責，經查已有派工:INS161221164賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 07:03:25",
-    "Close_Date_": "2016/12/22 下午 04:38:05"
   }
 ]
