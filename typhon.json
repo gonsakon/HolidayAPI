@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224173",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/24 下午 10:48:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "同盟二路(客家文物館旁，餐廳)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該業者目前有使用擴音器設備致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/24 下午 10:51:13",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224172",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 10:28:36",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 06:56:45",
     "Close_Date_": "2016/12/23 下午 02:29:22"
-  },
-  {
-    "FileNo_": "INS161222015",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 06:52:28",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "大東公園旁鳳山溪",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處鳳山溪水呈現黑色，疑遭偷排汙染，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 06:54:12",
-    "Close_Date_": ""
   }
 ]
