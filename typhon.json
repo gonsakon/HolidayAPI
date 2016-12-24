@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161224132",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/24 下午 06:11:14",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "石潭路207號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈時亮時滅，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161224131",
     "Status_": "2",
     "Cre_Date_": "2016/12/24 下午 06:05:46",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/21 下午 07:55:21",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161221177",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/21 下午 07:49:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與漁港南一路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處僅剩一盞號誌燈運作，其餘皆有故障不亮情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/21 下午 07:50:39",
     "Close_Date_": ""
   }
 ]
