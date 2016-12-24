@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225004",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 12:50:17",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "哨船街77巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處發生車禍致遺留車禍油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225003",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 12:34:17",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 08:11:20",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222017",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 08:04:06",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中山南路118號(加油站前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址前號誌燈皆故障不亮,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 08:05:01",
     "Close_Date_": ""
   }
 ]
