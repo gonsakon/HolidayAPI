@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225057",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 10:58:23",
+    "ReplyUnit_": "F01006",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "介壽西路321巷1弄14號前",
+    "UnitName_": "岡山區公所",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "渠反映該處有一水溝蓋遺失，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225056",
     "Status_": "1",
     "Cre_Date_": "2016/12/25 上午 10:57:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 11:10:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222072",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 10:58:17",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "統嶺里統嶺路39號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前一盞路燈(編號：40區080403)故障不亮已一個月，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 10:59:24",
     "Close_Date_": ""
   }
 ]
