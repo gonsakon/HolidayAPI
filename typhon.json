@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225077",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 01:15:23",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區長江街68-1號附近",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "光華國宅社區內，人行道導盲磚上竟然劃設機車停車格，枉顧行人權益",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225076",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 01:05:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 01:04:22",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222092",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 12:46:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "七賢一路與錦田路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，已有警員在現場指揮交通，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 12:50:07",
     "Close_Date_": ""
   }
 ]
