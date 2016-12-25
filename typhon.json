@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225130",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 07:04:30",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "創新路與土庫北路交叉口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處人行道上有被丟棄家庭垃圾包等廢棄物，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225129",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 07:01:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 06:02:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222143",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 05:53:14",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎成街19號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映現該址前汙水管阻塞正不斷冒出汙水，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 06:00:25",
     "Close_Date_": ""
   }
 ]
