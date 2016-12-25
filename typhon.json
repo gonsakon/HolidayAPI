@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225108",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 04:29:16",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "環球北路與大湖東路",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "漏電",
+    "BeforeDesc_": "R  還電線桿電筒漏油(崎漏高幹22Q0263FB88) 回",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225107",
     "Status_": "1",
     "Cre_Date_": "2016/12/25 下午 04:27:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 04:16:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222124",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 04:06:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "中正三路3號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處發生車禍導致路面油漬，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 04:08:14",
     "Close_Date_": ""
   }
 ]
