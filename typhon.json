@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225142",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 08:29:57",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "褒揚東街與文濱路口",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225141",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 07:59:47",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 06:37:33",
     "Close_Date_": "2016/12/24 下午 04:43:48"
-  },
-  {
-    "FileNo_": "INS161222157",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 06:31:43",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "1.左楠路近加昌路口  2.左楠路與外環西路交叉路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址1.有6、7盞路燈故障不亮，2.有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 06:32:50",
-    "Close_Date_": ""
   }
 ]
