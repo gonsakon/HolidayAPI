@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225013",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 08:04:03",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "金平路295巷口(一甲派出所附近)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處興建工程施工噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225012",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 07:25:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 08:55:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222029",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 08:43:31",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "埤北路73號對面(活動中心招牌斑馬線處)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一受傷流浪犬倒在路旁，出現休克現象，建請救援。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 08:46:00",
     "Close_Date_": ""
   }
 ]
