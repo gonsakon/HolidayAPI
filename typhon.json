@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225161",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 10:58:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "鳳楠路上(介於興西路與楠陽路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路段沿線汽車道與機車道皆有許多小碎石，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225160",
     "Status_": "1",
     "Cre_Date_": "2016/12/25 下午 10:57:11",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161225134",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/25 下午 07:22:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "經武路與文龍東路交叉口(鮮果莊園)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家使用擴音設備叫賣，產生噪音，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 08:03:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222176",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 07:57:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "河北一路173號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前人行道上有被丟棄廢棄椅子，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 08:03:48",
     "Close_Date_": ""
   }
 ]
