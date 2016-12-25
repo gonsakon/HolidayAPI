@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225109",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 04:45:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "錦屏街內中間部分私人花園",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處有不明人士燃燒不明物產生大量白煙有空氣汙染情形，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225108",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 04:29:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 04:22:09",
     "Close_Date_": "2016/12/24 下午 05:33:59"
-  },
-  {
-    "FileNo_": "INS161222125",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 04:15:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "高坪五十路83號(大坪頂運動公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園內孩童溜滑梯已裂掉損壞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 04:16:55",
-    "Close_Date_": ""
   }
 ]
