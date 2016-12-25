@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225074",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 12:57:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路2號(國軍高雄總醫院)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處附近有不明發電機噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225073",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 12:49:31",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 12:24:48",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222089",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 12:22:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文學路655巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處公園外水溝蓋上，遭丟棄木板、彈簧床，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 12:23:56",
     "Close_Date_": ""
   }
 ]
