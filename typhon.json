@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225103",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 04:16:15",
+    "ReplyUnit_": "E01002",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "西子灣海水浴場",
+    "UnitName_": "觀光局",
+    "StatusName_": "建立中",
+    "InformDesc_": "風景區設備損壞有立即危險者",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225101",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 04:08:39",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 03:48:27",
     "Close_Date_": "2016/12/24 下午 05:04:50"
-  },
-  {
-    "FileNo_": "INS161222118",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 03:19:42",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "九如一路上,由大順二路至臥龍路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映近中央分隔島旁路面有沿線掉落紙板,請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 03:22:18",
-    "Close_Date_": ""
   }
 ]
