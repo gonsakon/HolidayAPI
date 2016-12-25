@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225079",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 01:32:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路與大順二路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處定點捐血車擴音器噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225078",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 01:23:01",
@@ -341,14 +358,14 @@
   },
   {
     "FileNo_": "INS161225060",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/25 上午 11:05:42",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫一路210號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "大型床具垃圾清運",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 01:21:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222094",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 01:15:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "大莊路350號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有兩盞路燈(編號：大莊高分25Q1146CB52、大莊幹5)故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 01:20:46",
     "Close_Date_": ""
   }
 ]
