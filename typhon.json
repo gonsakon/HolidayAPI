@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161225162",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/25 下午 11:14:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "827",
+    "ZipName_": "彌陀區",
+    "address_": "海尾路上，彌陀國中旁，朝天宮",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處宮廟目前進行遶境活動持續燃放鞭炮致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/25 下午 11:18:07",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225161",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 10:58:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 08:12:44",
     "Close_Date_": "2016/12/23 下午 12:25:58"
-  },
-  {
-    "FileNo_": "INS161222178",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 08:08:18",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路往東至一飼料廠旁",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有3盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 08:12:41",
-    "Close_Date_": ""
   }
 ]
