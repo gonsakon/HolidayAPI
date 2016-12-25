@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225024",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 09:08:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "青雲街70號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處位置因舉辦廟會活動燃燒鞭炮致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225023",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 09:00:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 09:11:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222040",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 09:04:37",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "至真路與文萊路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路口號誌於至真路上不連鎖，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 09:07:21",
     "Close_Date_": ""
   }
 ]
