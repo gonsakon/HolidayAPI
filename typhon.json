@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226003",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 上午 12:03:24",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "河北路117號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址對面有一黑色犬隻佔據陳情人機車踏板，不願意離開，且具攻擊性，建請捕捉。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226002",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 上午 12:02:04",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 08:21:42",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222181",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 08:18:04",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "廣東一街9巷口，停車場旁",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一幼貓被不明物黏住，在路邊吐血，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 08:20:13",
     "Close_Date_": ""
   }
 ]
