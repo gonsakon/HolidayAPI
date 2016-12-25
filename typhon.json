@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161225109",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 04:45:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "錦屏街內中間部分私人花園",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處有不明人士燃燒不明物產生大量白煙有空氣汙染情形，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/25 下午 04:50:19",
     "Close_Date_": ""
   },
   {
@@ -2993,20 +2993,20 @@
   },
   {
     "FileNo_": "INS161224107",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/24 下午 04:27:02",
     "ReplyUnit_": "A03000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "公園西路二段93號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址對面遭現場施工人員，隨手亂丟菸蒂及便當菜渣等，造成環境髒亂，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/24 17:08 岡山區清潔隊陳榮東先生回報，人員現場查看，該處工人正在\r\n鋪設柏油路面，詢問工程負責人係屬養工處發包工程，仍促請工程負責人督促工人，且該處菸蒂也已\r\n清除；並於12/25 16：46電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 04:30:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/25 下午 04:46:10"
   },
   {
     "FileNo_": "INS161224106",
