@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161226009",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 04:48:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路548巷沿線",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處附近無預警停電中，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 上午 04:53:28",
     "Close_Date_": ""
   },
   {
