@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225064",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 11:46:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "五福四路與公園二路旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225063",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 11:41:51",
@@ -3707,20 +3724,20 @@
   },
   {
     "FileNo_": "INS161224018",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/24 上午 06:42:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "南屏路與華夏路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家有目前有撥放音樂產生噪音情況，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/24 08：47環保局稽查科中區股蔡元堯先生回報，於07:48抵達，稽查時人\r\n員該路段來回巡查未發現有播放音樂致噪音情事；並於12/25 11：47電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 06:43:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/25 上午 11:47:34"
   },
   {
     "FileNo_": "INS161224017",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 11:31:31",
     "Close_Date_": "2016/12/22 下午 05:31:51"
-  },
-  {
-    "FileNo_": "INS161222080",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 11:20:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳山溪(捷運大東站)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該河面呈現墨汁黑色，並發出化學惡臭味，疑遭偷排，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 11:25:31",
-    "Close_Date_": ""
   }
 ]
