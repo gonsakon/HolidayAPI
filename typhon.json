@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225017",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 08:32:01",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "興田路上",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225016",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 08:14:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 08:59:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222033",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 上午 08:56:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "長樂街與和興街口(八仙公園旁道路)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "渠反映該公園因施工重建，造成周圍路面遺留砂土致髒亂之情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 08:59:29",
     "Close_Date_": ""
   }
 ]
