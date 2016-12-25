@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225163",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 11:16:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "義昌路53號旁(圓軒)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225161",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 10:58:05",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 08:12:41",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222177",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 07:58:24",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "復興一路176號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該址前有被丟棄廢棄家具，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 08:03:10",
     "Close_Date_": ""
   }
 ]
