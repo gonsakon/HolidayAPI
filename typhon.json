@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161226010",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 05:10:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "1.中正二路與和平一路口、2.中正二路與五福一路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該兩處路口號誌均故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 上午 05:11:37",
     "Close_Date_": ""
   },
   {
