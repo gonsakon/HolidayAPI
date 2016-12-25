@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225088",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/25 下午 02:32:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "廣東一街104巷27號、28號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處住戶有裝修房屋磨砂機械噪音。建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/25 下午 02:36:23",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225087",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 02:29:15",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 02:01:04",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222103",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 01:55:12",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "中正四路與市中一路交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "該路口黃燈號誌燈故障不亮(往愛河方向)，建請查處",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 02:03:17",
     "Close_Date_": ""
   }
 ]
