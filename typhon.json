@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161226014",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 上午 07:25:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "瀋陽街與遼寧一街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌一側紅燈，一側黃燈均故障未變燈，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226012",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 05:32:00",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 09:06:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222192",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 08:54:16",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "漢民路216號(大上海臭臭鍋)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該店內闖入一流浪犬，惟無法驅離及影響營業，建請協助。(請單位先行與陳情人聯繫，欲瞭解到達時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 08:57:15",
     "Close_Date_": ""
   }
 ]
