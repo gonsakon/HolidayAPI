@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225132",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/25 下午 07:08:12",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍昌路上(介於藍昌路367巷口與援中路口之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該兩路口目前有飄散不明燃燒木炭異味致空污，疑似為附近店家所排放，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/25 下午 07:14:17",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225131",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 07:06:53",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 06:11:14",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222147",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 06:03:04",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "左營海軍基地文康哨外(位於介壽路上)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處路段聚集眾多流浪犬隻且追逐車輛，恐遭追咬，建請捕捉。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 06:08:26",
     "Close_Date_": ""
   }
 ]
