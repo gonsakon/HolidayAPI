@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225153",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 09:43:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "博愛路(青年夜市內，靠近廁所)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有攤販使用擴音器致噪音擾民，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225152",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 09:29:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 07:29:55",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222168",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 07:21:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "大禮街(五福四路至新樂街)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段沿線有3盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 07:22:32",
     "Close_Date_": ""
   }
 ]
