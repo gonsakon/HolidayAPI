@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225115",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 05:16:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎成街27號與31號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225114",
     "Status_": "1",
     "Cre_Date_": "2016/12/25 下午 05:15:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 04:41:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222130",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 04:39:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "華夏路與南屏路(加州幼稚園)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處目前有使用擴音器致噪音情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 04:40:46",
     "Close_Date_": ""
   }
 ]
