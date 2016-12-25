@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161225114",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/25 下午 05:15:11",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多二路93號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址前水溝內有2隻幼貓受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161225113",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 05:10:19",
@@ -477,14 +494,14 @@
   },
   {
     "FileNo_": "INS161225084",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/25 下午 02:22:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "延吉街與平等路1巷",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處正舉辦廟會活動，惟產生擴音器噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 04:40:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222128",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/22 下午 04:29:59",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "新莊仔路499巷40號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映現該址自家汙水管阻塞，建請查處。(※請人員前往前先與陳情人聯繫約定時間)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 下午 04:35:29",
     "Close_Date_": ""
   }
 ]
