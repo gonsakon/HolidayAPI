@@ -153,23 +153,6 @@
     "Close_Date_": ""
   },
   {
-    "FileNo_": "INS161225103",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/25 下午 04:16:15",
-    "ReplyUnit_": "E01002",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "西子灣海水浴場",
-    "UnitName_": "觀光局",
-    "StatusName_": "建立中",
-    "InformDesc_": "風景區設備損壞有立即危險者",
-    "BeforeDesc_": "",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161225102",
     "Status_": "2",
     "Cre_Date_": "2016/12/25 下午 04:13:16",
@@ -375,20 +358,20 @@
   },
   {
     "FileNo_": "INS161225091",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/25 下午 02:41:07",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "文武二街與前金一街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該路口有教會辦活動，使用擴音設備產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/25 15:54 環保局 中區股 楊昌翰先生回報，稽查人員於14:58到達，稽查\r\n 當時該址為神明回鑾慶祝活動，然人員抵達時活動已結束，並於上述路段巡查，未發現有使用擴音設備\r\n 致噪音情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 02:42:20",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/25 下午 05:07:50"
   },
   {
     "FileNo_": "INS161225090",
@@ -409,14 +392,14 @@
   },
   {
     "FileNo_": "INS161225088",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/25 下午 02:32:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "廣東一街104巷27號、28號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處住戶有裝修房屋之磨砂機械噪音。建請查處。",
     "AfterDesc_": "",
@@ -1939,20 +1922,20 @@
   },
   {
     "FileNo_": "INS161224172",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/24 下午 10:28:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路460號(金億飯店)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有不明機具低頻運轉聲致噪音，建請會同查處。(另提供測點備註特別叮嚀)",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/25 00:54 環保局環境稽查科中區股洪天賜先生回報，稽查人員於00:37到\r\n達，分別於00:37與00:39電洽陳情人，惟其手機均無人接聽，因低頻噪音依規定需於陳情人住家進行\r\n檢測，人員於現場仍有促請業者自行查修設備；並於12/25 16：58電覆陳情人，惟陳情人反映此為長\r\n期問題，故另派非網A-TB-2016-119027追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 10:34:07",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/25 下午 05:02:38"
   },
   {
     "FileNo_": "INS161224171",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/22 下午 04:35:29",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161222129",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/22 下午 04:29:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "七賢二路與自強一路路口",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映該處人行道有多處紅磚塊下陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/22 下午 04:30:19",
     "Close_Date_": ""
   }
 ]
