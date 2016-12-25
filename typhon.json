@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161225040",
+    "FileNo_": "INS161225041",
     "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 10:03:26",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華地下道(北上機車道)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "地下道、路面積水(一)",
+    "BeforeDesc_": "渠反映該處機車道內有積水情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161225040",
+    "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 10:02:50",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
-    "address_": "臨海二路延平街",
+    "address_": "臨海二路與延平街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處號誌全閃燈故障，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/25 上午 10:04:16",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 10:13:42",
     "Close_Date_": "2016/12/23 上午 10:54:40"
-  },
-  {
-    "FileNo_": "INS161222056",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/22 上午 10:11:09",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "建楠路113號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該址前有一疑似水利局工程，欲瞭解該工程是否合法申請?建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/22 13:07 水利局市區排水一科盧建儒先生回報，該處人員至現場釐清時\r\n未見任何工程，並已拍照存證；並於12/22 17：27電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 10:18:53",
-    "Close_Date_": "2016/12/22 下午 05:27:33"
   }
 ]
