@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161225030",
+    "FileNo_": "INS161225031",
     "Status_": "1",
+    "Cre_Date_": "2016/12/25 上午 09:27:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲一路332巷14號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "室內進行噴油漆作業  化學異味",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161225030",
+    "Status_": "2",
     "Cre_Date_": "2016/12/25 上午 09:26:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加昌路801巷對面(近果菜市場附近)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處果菜市場附近，有一狗屍，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/25 上午 09:29:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/22 上午 09:45:26",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161222046",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/22 上午 09:39:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓東街89號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址騎樓有業者在製作爆米花，惟濃厚異味影響住戶，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/22 12:36 環保局中區股楊昌翰先生回報，稽查人員於11:30到達，稽查當時該店營\r\n業中，現場僅從事販賣爆米花，未有炒爆米花作業，於該址周界巡查未發現明顯製作爆米花異味致空汙情事，仍\r\n促請業者注意防範，以維寧靜生活環境品質；並於12/23 10：33電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/22 上午 09:40:42",
-    "Close_Date_": "2016/12/23 上午 10:38:45"
   }
 ]
