@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226072",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 上午 10:57:46",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "文康路129巷13號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "左營區",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226071",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 10:50:37",
@@ -647,14 +664,14 @@
   },
   {
     "FileNo_": "INS161226033",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/26 上午 09:03:07",
     "ReplyUnit_": "E01001",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "產業路201號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處目前有大量攻擊性野狗約15隻，惟前日有追咬民眾導致受傷，望局處派員捕捉，建請會同查處。(請單位會同陳情人前往)",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 09:29:55",
     "Close_Date_": "2016/12/23 下午 05:52:16"
-  },
-  {
-    "FileNo_": "INS161223033",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 09:23:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "四維四路與自強三路口(苓雅大飯店前)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處慢車道上有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 09:25:39",
-    "Close_Date_": ""
   }
 ]
