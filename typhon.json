@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226097",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 12:59:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森一路130巷",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映有一包黑色垃圾有惡臭味",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226095",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 12:57:23",
@@ -715,14 +732,14 @@
   },
   {
     "FileNo_": "INS161226053",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/26 上午 09:54:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "823",
     "ZipName_": "田寮區",
     "address_": "西德里新路27號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址前有道路施工未灑水，有揚塵致空污情形，建請查處。",
     "AfterDesc_": "",
@@ -3513,7 +3530,7 @@
     "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空地正進行大樓興建工程，惟業者作業未灑水，產生揚塵空汙情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/25 13：44 環保局環境稽查科中區股楊昌翰先生回報，稽查人員於11：45到達，抵\r\n達稽查當時該址周界及工地內巡查，未發現有揚塵逸散至空污情事，有促請業者加強灑水作業；並於12/26 12：\r\n59電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 10:44:08",
     "Close_Date_": ""
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:40:51",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223058",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:35:33",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "創新路11號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該址汙水管阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:37:47",
     "Close_Date_": ""
   }
 ]
