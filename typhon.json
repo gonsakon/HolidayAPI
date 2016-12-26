@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226167",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 07:01:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大裕路152號前(號誌燈下方，變電箱旁)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一貓屍，已用箱子裝妥，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226166",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 07:00:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 04:16:58",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223130",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 04:10:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "五甲二路與三商街(新興洗衣店)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處洗衣業者洗衣產生異味空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 04:13:32",
     "Close_Date_": ""
   }
 ]
