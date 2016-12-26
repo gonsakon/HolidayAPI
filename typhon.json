@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161226184",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 08:21:49",
     "ReplyUnit_": "E01005",
     "zipcode_": "840",
     "ZipName_": "大樹區",
-    "address_": "大樹區中山路3巷513號前",
+    "address_": "中山路3巷513號前",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該址前有一電線桿有冒出火花情況(水東分13號)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 下午 08:24:47",
     "Close_Date_": ""
   },
   {
