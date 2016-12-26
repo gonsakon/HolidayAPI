@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226166",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 07:00:43",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "旗南二路17號，清水寺對面",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該址對面路上有一黑色犬隻遭撞受傷，建請救援。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226165",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 06:52:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 04:13:32",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223129",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 04:05:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "復興路360號附近(新意螺絲、集晟附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址有電路工場排放廢氣致空污，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 04:06:41",
     "Close_Date_": ""
   }
 ]
