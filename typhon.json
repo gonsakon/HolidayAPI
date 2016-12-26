@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226209",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 10:49:18",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "佛道路33號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一盞LED路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226208",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 10:36:24",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 07:05:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223173",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 07:00:03",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "民仁街與成功路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處公園內有一園燈不亮，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 07:03:16",
     "Close_Date_": ""
   }
 ]
