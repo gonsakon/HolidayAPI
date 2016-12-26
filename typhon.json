@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227011",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 07:54:00",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227010",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 07:29:48",
@@ -222,20 +239,20 @@
   },
   {
     "FileNo_": "INS161226211",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 10:57:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "忠孝街與文聖街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有停放一小山貓機具前，路面上有貓屍，建請查處。",
     "AfterDesc_": "【主管解除管制】12/26 23：51 溝渠隊林福來先生回報，該處貓屍已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 11:01:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 07:49:35"
   },
   {
     "FileNo_": "INS161226210",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:05:26",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223189",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 08:02:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "北斗街與新興街口(火鍋店對面2樓，簡餐店)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者目前有使用擴音器設備致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 08:05:44",
     "Close_Date_": ""
   }
 ]
