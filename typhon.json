@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226160",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 06:31:57",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "盛昌街255巷36號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處電桿前有一流浪犬遭不明人士栓於此處兩天，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226159",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 06:23:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 03:33:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223123",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 03:20:40",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "新生路與漁港路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌全故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 03:23:54",
     "Close_Date_": ""
   }
 ]
