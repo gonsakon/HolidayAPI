@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226102",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 01:40:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "0911676289鳳山區南鎮二路67號號方鐵皮屋工廠",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226101",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 01:28:23",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:48:54",
     "Close_Date_": "2016/12/24 下午 02:49:02"
-  },
-  {
-    "FileNo_": "INS161223064",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:40:56",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "高雄市鳥松區美庄路10號",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "台電電線掉落",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:48:02",
-    "Close_Date_": ""
   }
 ]
