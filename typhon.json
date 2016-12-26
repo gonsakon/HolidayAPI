@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226109",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 02:41:45",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "裕誠路上與富國路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226108",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 02:27:54",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 11:36:05",
     "Close_Date_": "2016/12/24 下午 03:02:32"
-  },
-  {
-    "FileNo_": "INS161223073",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 11:28:21",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "三協里成功一街1號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址對面電桿(桿號:花旗幹39左4)上路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 11:31:48",
-    "Close_Date_": ""
   }
 ]
