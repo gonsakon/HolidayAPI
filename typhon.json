@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226100",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 01:18:51",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "下雙園大橋，右轉大發工業區，屏東往高雄方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處轉彎處有50公尺的路面油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226099",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 01:16:11",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:41:40",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223061",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:38:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德祥路173之5號(雞腿飯)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該業者抽油煙機機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:41:01",
     "Close_Date_": ""
   }
 ]
