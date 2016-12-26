@@ -34,6 +34,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161226189",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/26 下午 08:32:54",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "瑞隆東路99號(特力屋旁)，王拓炭烤",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該業者作業中有油煙逸散往外飄散之空污，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/26 下午 08:36:36",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226188",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 08:28:58",
@@ -239,14 +256,14 @@
   },
   {
     "FileNo_": "INS161226176",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/26 下午 07:49:21",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "樹人路156號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 07:19:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223154",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 05:43:30",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區三多一路127號",
-    "UnitName_": "警察局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "機車行將多輛機車停放在人行道上",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 07:11:28",
     "Close_Date_": ""
   }
 ]
