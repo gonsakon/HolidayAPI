@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 06:22:13",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區一心二路206號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上機車違規停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226157",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 06:21:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 03:21:54",
     "Close_Date_": "2016/12/24 下午 12:55:59"
-  },
-  {
-    "FileNo_": "INS161223121",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 03:08:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎中路427號右側空地前方人行道",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處遭人丟棄兩張廢棄沙發、一櫃子、一包大型黑色垃圾包與三包紅色小型垃圾包，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 03:27:20",
-    "Close_Date_": ""
   }
 ]
