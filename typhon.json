@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226092",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 12:38:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "建民路222巷2號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "透天厝拆建  建築廢棄物合法申請",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226091",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 12:33:44",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:22:46",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223052",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:18:44",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "法興禪寺前的道路(從忠烈祠觀景台起至山下沿線)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映現該區段間道路沿線兩旁皆有許多垃圾髒亂，且以道路右側最為嚴重，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:46:10",
     "Close_Date_": ""
   }
 ]
