@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226091",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 12:33:44",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "翠屏路108巷1之5號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該址前路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226090",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 12:20:55",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:46:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223053",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:17:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "臨海二路50號(鼓山國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該校目前有活動進行播放擴音機致噪音情形，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:18:10",
     "Close_Date_": ""
   }
 ]
