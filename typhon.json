@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226203",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 10:01:30",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "台3線，旗山往內門方向，靠近實踐大學",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻遭撞躺在路邊，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226202",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 09:51:03",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 06:26:03",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223166",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 06:19:47",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "大業南路與沿海四路",
-    "UnitName_": "工務局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該處進行埋設地下管線工程，現場無設置告示牌，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 06:25:03",
     "Close_Date_": ""
   }
 ]
