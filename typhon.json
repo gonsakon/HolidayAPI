@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226194",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 09:04:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "852",
+    "ZipName_": "茄萣區",
+    "address_": "白砂路336號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226193",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 08:55:57",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 06:41:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223157",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 05:54:52",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線違規停車",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 07:19:34",
     "Close_Date_": ""
   }
 ]
