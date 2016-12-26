@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161226193",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 08:55:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "友愛巷72號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處有一盞路燈(編號3590)故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 下午 08:58:39",
     "Close_Date_": ""
   },
   {
