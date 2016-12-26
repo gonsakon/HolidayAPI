@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226137",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 05:07:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "中華路559巷內，",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈(大埔高分13號)，故障不亮。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226136",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 05:06:32",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 02:02:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223100",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 01:53:49",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "堯山街41巷25號旁停車場外",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一個藍色舊衣回收箱未張貼核准標誌，疑似未合法，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 02:02:05",
     "Close_Date_": ""
   }
 ]
