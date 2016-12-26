@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226140",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 05:17:16",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "807台灣高雄市三民區義明街45號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "轉彎處停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226139",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 05:15:44",
@@ -409,14 +426,14 @@
   },
   {
     "FileNo_": "INS161226115",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/26 下午 03:18:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "港中街6之3號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映於該址附近有燃燒塑膠異味，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 02:08:13",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223103",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/23 下午 02:04:55",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自由一路69號、70號(安養院)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該址安養院施工現場占用外側車道，會由上至下丟棄物品，欲了解是否有合法申請路權?建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/23 14：12 養工處四維養護工程隊三民養護分隊趙廣慶先生回報，該處未申請路\r\n權，故此案轉派警方處理；14：15 通報110勤指中心王警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 02:08:57",
-    "Close_Date_": "2016/12/23 下午 03:20:51"
   }
 ]
