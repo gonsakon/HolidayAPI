@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226112",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 03:11:44",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路(科工館南館前)(西向東車道)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有車禍路面油漬，警員已在現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226111",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 02:59:20",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 11:57:56",
     "Close_Date_": "2016/12/24 下午 02:29:44"
-  },
-  {
-    "FileNo_": "INS161223075",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 11:52:19",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路上；介於校前路與河堤路二段",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處現有一道路刨鋪工程封路，惟未施工處亦封路，導致附近住戶需兜一大圈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 11:57:16",
-    "Close_Date_": ""
   }
 ]
