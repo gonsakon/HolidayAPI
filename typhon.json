@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226176",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 07:49:21",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "樹人路156號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226175",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 07:43:36",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 05:02:56",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223139",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 04:57:25",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中正路與大莊路口",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 04:59:24",
     "Close_Date_": ""
   }
 ]
