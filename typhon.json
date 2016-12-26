@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226093",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 12:52:27",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "天祥一路187號與189號間(公車站牌)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處站牌旁有犬隻便溺惡臭，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226092",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 12:38:19",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:44:21",
     "Close_Date_": "2016/12/23 上午 10:48:25"
-  },
-  {
-    "FileNo_": "INS161223054",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:21:08",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "光華二路上(忠民街與林西街之間)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌燈故障閃燈，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:22:46",
-    "Close_Date_": ""
   }
 ]
