@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161227009",
+    "FileNo_": "INS161227010",
     "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 07:29:48",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "楠陽路近建仁醫院旁工地前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路邊有鼠屍及髒亂垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161227009",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 07:24:27",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "十全一路左轉民族一路口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "內車道有動物屍體",
+    "BeforeDesc_": "渠反映該路口內車道有動物屍體，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 上午 07:29:59",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:05:44",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223187",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/23 下午 08:00:57",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "其美街97號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈仍然故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/23 22：19 養工處四維養護工程隊九如養護分隊林泉先生回報，該處路燈已修復；\r\n並於12/26 14：38電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 08:05:57",
-    "Close_Date_": "2016/12/26 下午 02:38:51"
   }
 ]
