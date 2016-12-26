@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226075",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 上午 11:12:05",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森二路235號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前有三包垃圾，已流湯汁並飄散惡臭，造成環境髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226074",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 上午 11:08:59",
@@ -8977,14 +8994,14 @@
   },
   {
     "FileNo_": "INS161223109",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/23 下午 02:15:12",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "仁愛一街102號與104號間",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "溝蓋破損(一)",
     "BeforeDesc_": "渠反映該處有一汙水孔蓋有冒水情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 09:48:36",
     "Close_Date_": "2016/12/23 下午 05:59:23"
-  },
-  {
-    "FileNo_": "INS161223035",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 09:31:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "榮總路300巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一舊衣回收箱旁堆放大量舊衣,建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 09:33:08",
-    "Close_Date_": ""
   }
 ]
