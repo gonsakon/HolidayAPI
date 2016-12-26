@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226099",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 01:16:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳林路與東林東路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠排放廢氣異味 0933045636",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226098",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 01:09:52",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:41:01",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223060",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:38:11",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "自由一路231號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處路面有車禍油漬，建請修復。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:39:33",
     "Close_Date_": ""
   }
 ]
