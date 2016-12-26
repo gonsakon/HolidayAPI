@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226172",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/26 下午 07:26:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "南華橫一路47號(眾悅洗車場)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址業者目前使用機具設備洗車，運轉聲響過大致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/26 下午 07:29:48",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226171",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 07:21:23",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 04:46:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223135",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 04:35:00",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "青年二路152號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處大樓前方污水管線阻塞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 04:36:18",
     "Close_Date_": ""
   }
 ]
