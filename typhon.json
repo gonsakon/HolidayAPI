@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161226097",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 12:59:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "林森一路130巷",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映有一包黑色垃圾有惡臭味",
+    "BeforeDesc_": "渠反映該處巷口有一包黑色垃圾包，已有發出惡臭異味，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 下午 01:03:23",
     "Close_Date_": ""
   },
   {
@@ -24,6 +24,23 @@
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山二路上(介於三多四路至民權二路之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路段南下方向快車道沿線掉落許多砂石，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161226094",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 12:56:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中山二路上(介於四維四路至三多四路之間)",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "髒亂清除",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 10:42:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223059",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 10:37:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德祥路173之5號(雞腿飯)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該業者油煙飄散，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 10:40:51",
     "Close_Date_": ""
   }
 ]
