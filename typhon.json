@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226139",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 05:15:44",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "807台灣高雄市三民區義華路171號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "紅線停車",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226138",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 05:13:56",
@@ -545,14 +562,14 @@
   },
   {
     "FileNo_": "INS161226106",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/26 下午 02:01:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "西溪路176巷2號周界",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處飄散不明化學異味空污，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 02:08:57",
     "Close_Date_": "2016/12/23 下午 03:20:51"
-  },
-  {
-    "FileNo_": "INS161223102",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 01:54:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大順二路55巷13號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有兩個藍色舊衣回收箱未張貼核准標誌，疑似未合法，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 02:02:16",
-    "Close_Date_": ""
   }
 ]
