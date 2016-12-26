@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226050",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 上午 09:45:23",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "過埤里保生路5號與7號前",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "寬頻孔蓋鬆動破損",
+    "BeforeDesc_": "渠反映該處有一長方形高市寬頻孔蓋鬆動致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226048",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 09:37:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 08:05:15",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223010",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 07:56:10",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "鳥松圖書館",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處人行道(近斑馬線)有一水泥凸起物，已造成數位學生摔倒，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 08:00:15",
     "Close_Date_": ""
   }
 ]
