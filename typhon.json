@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226135",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 05:04:06",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "182線道28.6公里(內門區與龍崎交界處)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處快車道轉彎處有5個路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226134",
     "Status_": "1",
     "Cre_Date_": "2016/12/26 下午 04:59:29",
@@ -9130,20 +9147,20 @@
   },
   {
     "FileNo_": "INS161223160",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/23 下午 05:57:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "五甲一路338巷內公園，黃昏市場對面",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "渠反映該處公園內共有四盞園燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 16:38 養工處鳳山養護工程隊韓莉梅小姐回報，該處無危險性，經查屬五甲國宅\r\n範圍，係都發局權管，故改派非網A-TB-2016-119327賡續辦理；並於12/26 17：02電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 05:59:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/26 下午 05:07:31"
   },
   {
     "FileNo_": "INS161223159",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 02:01:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223098",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 01:53:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "永年街143號斜對面路燈旁",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一個藍色舊衣回收箱未張貼核准標誌，疑似未合法，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 02:01:53",
     "Close_Date_": ""
   }
 ]
