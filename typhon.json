@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161226153",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/26 下午 06:18:50",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "久昌街、啟昌街、新泰街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該三處沿線約有20至30盞路燈故障不亮，建請修復。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226151",
     "Status_": "2",
     "Cre_Date_": "2016/12/26 下午 06:06:40",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 02:33:23",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223116",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 02:29:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "阿公店路三段499號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有一大坑洞，已先行擺放交通錐及警示燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 02:32:37",
     "Close_Date_": ""
   }
 ]
