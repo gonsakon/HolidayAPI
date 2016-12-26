@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161226041",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/26 上午 09:28:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和豐街83號右側",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處該大樓噴漆異味且未設置防護措施，導致油煙噴濺，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/26 上午 09:29:40",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161226040",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/26 上午 09:27:01",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "民族一路與重愛路(楠梓往高雄方向)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處內側車道有一貓屍，望請清除，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/26 上午 09:29:00",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 上午 12:57:37",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223002",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 上午 12:31:14",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路上(漁港路往中平路)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處慢車道上有多盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 上午 12:33:05",
     "Close_Date_": ""
   }
 ]
