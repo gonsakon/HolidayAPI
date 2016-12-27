@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161227095",
+    "FileNo_": "INS161227096",
     "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 12:08:34",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "844",
+    "ZipName_": "六龜區",
+    "address_": "六龜高中後方；光明巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈白天未熄(二)",
+    "BeforeDesc_": "渠反映該處有兩盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161227095",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 12:06:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "市中一路387巷口",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處人行道上有廢棄家具堆積，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 下午 12:08:06",
     "Close_Date_": ""
   },
   {
@@ -8042,20 +8059,20 @@
   },
   {
     "FileNo_": "INS161224170",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/24 下午 10:13:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "土庫二路225號(惡魔雞排)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有油煙飄散空污情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/24 23：30 環保局環境稽查科中區股陳彥州先生回報，稽查人員於22：39到達，店\r\n家營業中，經查店內有裝設一台靜電式油煙處理機，人員於上址周界巡查，未發現有油煙逸散空污情事，仍有促\r\n請業者注意防範；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 10:16:09",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 下午 12:11:20"
   },
   {
     "FileNo_": "INS161224169",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 09:58:45",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224043",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 09:46:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "忠烈祠往中山大學",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該路段有三四盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 09:50:07",
     "Close_Date_": ""
   }
 ]
