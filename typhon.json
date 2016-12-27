@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227161",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 05:42:24",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "管線問題",
+    "BeforeDesc_": "渠反映該路段雙向沿線有一不明單位埋管工程施工，然現場未擺放告示牌，欲知係何工程在進行施工，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227160",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 05:35:29",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS161227149",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/27 下午 04:44:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "修文街與一德路口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處路口空氣有瀰漫一股燃燒枝葉產生煙霧，致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 04:40:15",
     "Close_Date_": "2016/12/26 下午 06:04:07"
-  },
-  {
-    "FileNo_": "INS161224108",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 04:29:46",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "公園西路三段12巷13號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 04:32:59",
-    "Close_Date_": ""
   }
 ]
