@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227119",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 01:37:47",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "大曲前34號(內埔瓦斯行)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址目前有彌漫濃厚瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227118",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 01:37:02",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 11:45:02",
     "Close_Date_": "2016/12/26 下午 05:56:22"
-  },
-  {
-    "FileNo_": "INS161224066",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 11:34:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "富國路159號前",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面坑洞(一)",
-    "BeforeDesc_": "渠反映該址前路面有一坑洞致下陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 11:37:17",
-    "Close_Date_": ""
   }
 ]
