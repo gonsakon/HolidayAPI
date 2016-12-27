@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227116",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 01:16:37",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "二聖一路107巷，聖和公園東側門口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園髒亂、佔用(一)",
+    "BeforeDesc_": "渠反映該處公園內遭丟棄一包黑色垃圾袋，其內盛裝廢棄的吸塵器，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227115",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 01:14:50",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 11:39:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224063",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 11:30:59",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "土庫八街385巷(楠梓(04)溪南街橋)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "該渠反映該處橋梁處人行道磚有塌陷，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 11:36:44",
     "Close_Date_": ""
   }
 ]
