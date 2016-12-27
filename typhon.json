@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161227121",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/27 下午 01:49:55",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "春陽街66之2號6樓(京城之戀大樓)對面頂樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有抽水馬達運轉之機具噪音擾民，望局處前往其住家量測，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/27 下午 01:54:43",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227119",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 01:37:47",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 11:53:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224068",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 11:39:43",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "經武路與力行路口(全聯福利中心後門，收貨區)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻下巴疑似斷掉受傷嚴重，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 11:44:19",
     "Close_Date_": ""
   }
 ]
