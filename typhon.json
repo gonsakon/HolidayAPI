@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227144",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/27 下午 04:11:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "土庫二路225號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址店家油煙逸散，導致空汙情事，並希望人員能於223號前稽查，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/27 下午 04:14:15",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227143",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 04:11:18",
@@ -987,14 +1004,14 @@
   },
   {
     "FileNo_": "INS161227085",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/27 上午 11:32:30",
     "ReplyUnit_": "E01001",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "內坑路163號",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處鐵皮屋旁有一遭撞受傷流浪犬隻，目前犬隻已跑處來，建請會同查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 02:53:59",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224091",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 02:47:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "仁勇東巷與仁勇西巷(仁愛公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該園內之盪鞦韆鍊條有鬆脫情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 02:53:44",
     "Close_Date_": ""
   }
 ]
