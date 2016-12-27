@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161227130",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 02:56:00",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "寶溪北街113號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處於人行道上矮型圓燈柱電線外露現僅用蓋子將線路蓋起燈未裝回，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 下午 03:01:18",
     "Close_Date_": ""
   },
   {
@@ -4948,20 +4948,20 @@
   },
   {
     "FileNo_": "INS161226052",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 上午 09:49:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路上西部濱海公路",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈(編號：保寧332、336)已故障不亮2.3個月致昏暗，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 17:20  養工處岡山養護工程隊林欣怡小姐回報，該處無危險性，惟因需備料安\r\n定器，無法於期限內修復，故轉派非網A-TB-2016-119344 賡續辦理；並於12/27 14：58電覆陳情人，故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 09:56:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 下午 03:03:44"
   },
   {
     "FileNo_": "INS161226051",
