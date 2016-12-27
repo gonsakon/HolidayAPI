@@ -2177,20 +2177,20 @@
   },
   {
     "FileNo_": "INS161227029",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 上午 09:01:36",
     "ReplyUnit_": "A04000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "會結路36號",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址後方有一號誌燈故障不亮，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/27 11:34 交通局智慧運輸中心蔡淑君小姐回報，已修復；並於12/27 17：19電覆陳\r\n情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 09:09:47",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 下午 05:23:52"
   },
   {
     "FileNo_": "INS161227028",
