@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227124",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 02:09:15",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學52街與大學東路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處有柏油油漬遺留，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227123",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 02:05:35",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 11:58:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224071",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 11:51:31",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "後昌路1240號",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌桿上遭綁250*80售屋廣告，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 11:58:37",
     "Close_Date_": ""
   }
 ]
