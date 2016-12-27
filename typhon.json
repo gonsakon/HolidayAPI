@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161227013",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 08:03:03",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "二聖路與武慶二路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口南北向號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227011",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 07:54:00",
@@ -1225,20 +1242,20 @@
   },
   {
     "FileNo_": "INS161226154",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 06:20:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "海邊路與新田路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中央有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/26 19:02 苓雅區清潔隊施長興先生回報，人員於上述路口周界巡查，並未發現\r\n有貓屍。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 06:21:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 08:03:13"
   },
   {
     "FileNo_": "INS161226153",
@@ -1344,20 +1361,20 @@
   },
   {
     "FileNo_": "INS161226146",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 05:54:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義華路上，與陽明路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映現該處前後路口號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/26 20:53交通局智慧運輸中心潘毅華先生回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 05:58:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 08:03:25"
   },
   {
     "FileNo_": "INS161226147",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:11:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223190",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 08:06:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路與雙峰街口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 08:11:31",
     "Close_Date_": ""
   }
 ]
