@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227188",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 06:56:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "後昌路與後昌路797巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路口汽車道上有碎玻璃遍地，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227187",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 06:53:33",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161227186",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 06:53:19",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "外環西路上與德民路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一盞號誌燈之紅燈時亮時滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 下午 06:56:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 06:28:15",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224135",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/24 下午 06:20:53",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "橋子頭橋與林頭路(於下橋處待轉區前路口)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一貓隻遭撞受傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/24 19：49 農業局動物保護處成文虎先生回報，人員到達該處未發現受傷\r\n貓隻；並於12/25 17：15電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 06:22:40",
-    "Close_Date_": "2016/12/25 下午 05:16:58"
   }
 ]
