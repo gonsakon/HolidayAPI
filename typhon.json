@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227200",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 07:50:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "高楠公路與八德二路口，台朔重工仁武廠",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該工廠正在排放廢氣空汙，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227199",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 07:48:43",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 07:33:35",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224147",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 07:27:15",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "樹人路263巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該巷內有兩盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 07:29:38",
     "Close_Date_": ""
   }
 ]
