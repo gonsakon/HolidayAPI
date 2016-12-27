@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227077",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 11:08:03",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "大學東路與藍田路口",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "台電-孔蓋路面下陷",
+    "BeforeDesc_": "雨水孔蓋旁路面破損",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227076",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 上午 11:06:58",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 08:32:09",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224024",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 08:24:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "六合二路、七賢二路、八德二路上(中華三路至中山一路)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該路段電線桿張貼售屋廣告物，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 08:27:47",
     "Close_Date_": ""
   }
 ]
