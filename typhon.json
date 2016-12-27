@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227034",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 09:10:57",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路與菜公路、海功路、復興新村與屏山新村路口(往楠梓方向)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該4個路口因廟會活動致目前號誌不連鎖，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227033",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 上午 09:10:33",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 10:10:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223210",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 10:08:05",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "熱河一街171號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 10:10:06",
     "Close_Date_": ""
   }
 ]
