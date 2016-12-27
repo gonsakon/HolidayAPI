@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227104",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 12:48:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "鼎金後路123號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處左側對面紅磚人行道變電箱旁，放置 2張塑膠椅 跟2張木製椅子及一包垃圾，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227103",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 12:47:56",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 10:37:05",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224051",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 10:29:09",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠陽路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "小廣告、旗幟",
-    "BeforeDesc_": "渠反映該處沿線安全島及路邊燈桿上有違規售屋廣告，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 10:37:02",
     "Close_Date_": ""
   }
 ]
