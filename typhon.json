@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227100",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 12:22:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "大榮街44巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有路面坑洞。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227099",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 12:12:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 10:15:41",
     "Close_Date_": "2016/12/25 下午 02:45:35"
-  },
-  {
-    "FileNo_": "INS161224047",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 10:08:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文康路13號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有房屋整修之機具噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 10:22:47",
-    "Close_Date_": ""
   }
 ]
