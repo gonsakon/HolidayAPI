@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161228012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 06:46:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德中路與仁昌街口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該德中路上(北上)的綠燈不亮,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 06:47:36",
     "Close_Date_": ""
   },
   {
