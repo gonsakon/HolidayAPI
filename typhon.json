@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227016",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/27 上午 08:19:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "一心二路200號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該址前方慢車道上有一日前修補過後之坑洞目前再次凹陷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/27 上午 08:22:47",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227015",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 08:17:00",
@@ -3979,14 +3996,14 @@
   },
   {
     "FileNo_": "INS161225159",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/25 下午 10:20:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "大智街129巷",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該巷內有兩盞路燈故障閃爍一星期，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:28:53",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223196",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 08:25:31",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "鼓山一路34之3號前",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠定該處有一車禍油漬，已有警員交管中，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 08:28:21",
     "Close_Date_": ""
   }
 ]
