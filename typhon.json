@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227093",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 11:52:54",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "沿海路一段71號對面路口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-人行道設施損壞(二)",
+    "BeforeDesc_": "渠反映該處『五福里，五福路』路牌搖搖欲墜，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227091",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 上午 11:51:45",
@@ -783,14 +800,14 @@
   },
   {
     "FileNo_": "INS161227046",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/27 上午 09:53:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "阿公店路二段與仁壽路口(眼鏡行旁)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該址旁有一當心自行車之告示牌，現剩一固定點，隨風搖晃，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 09:47:34",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224040",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 09:36:46",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "明誠三路上(與南屏路交叉、明華國中前)",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌秒差調整",
-    "BeforeDesc_": "渠反映該路口號誌有前後不連鎖情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 09:37:58",
     "Close_Date_": ""
   }
 ]
