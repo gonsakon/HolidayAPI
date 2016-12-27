@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227115",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 01:14:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自強三路279號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "該址旁 機具",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227114",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 01:05:10",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 11:36:44",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224062",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 11:23:16",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "南和一路與和成路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處口路牌指向錯誤，望請調整，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 11:25:02",
     "Close_Date_": ""
   }
 ]
