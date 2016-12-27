@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161227215",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/27 下午 08:30:55",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段111號4樓",
-    "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處陽台有貓隻受困，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161227214",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 08:24:37",
@@ -953,14 +936,14 @@
   },
   {
     "FileNo_": "INS161227159",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/27 下午 05:31:35",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "崗山南街與崗山橫街口(胡港式脆皮臭豆腐)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處店家有油煙逸散與料理臭豆腐產生異味致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10197,6 +10180,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 09:53:59",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161224162",
+    "Status_": "4",
+    "Cre_Date_": "2016/12/24 下午 09:42:19",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自由一路與熱河一街",
+    "UnitName_": "養工處",
+    "StatusName_": "處理完成",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處有一路燈(編號:2216)故障閃爍，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/24 下午 09:43:11",
     "Close_Date_": ""
   }
 ]
