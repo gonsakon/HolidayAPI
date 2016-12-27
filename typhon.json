@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227059",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 10:11:42",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "九如一路560巷59號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該址水溝蓋周邊破損，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227058",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 10:06:19",
@@ -3979,20 +3996,20 @@
   },
   {
     "FileNo_": "INS161226039",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 上午 09:19:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "一心二路192號(多美印刷)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者機具噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 11：36 環保局稽查科南區股楊立文先生回報，稽查人員於10：20到達，稽查當\r\n時該店營業中，現場未有切割作業，周界巡查未發現機具運轉致噪音情事；並於12/27 10：09電覆陳情人，故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 09:20:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 10:15:25"
   },
   {
     "FileNo_": "INS161226038",
@@ -5186,14 +5203,14 @@
   },
   {
     "FileNo_": "INS161225129",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/25 下午 07:01:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "山東里飛機路479巷與飛機路521巷10弄口(小公園)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映該園內的兒童遊樂器材損壞已久，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 01:27:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224007",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 01:13:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺民路288巷32號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處高速公路上單位進行隔音牆作業，惟使用機具致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 01:16:46",
     "Close_Date_": ""
   }
 ]
