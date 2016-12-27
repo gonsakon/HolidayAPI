@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227135",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 03:23:59",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "826",
+    "ZipName_": "梓官區",
+    "address_": "四維路與信德街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227134",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 03:20:34",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 02:11:08",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224082",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 01:30:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "飛機路241號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該公司使用機具致噪音擾民，建請查處。(請人員不要於現場致電陳情人)",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 01:36:24",
     "Close_Date_": ""
   }
 ]
