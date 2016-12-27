@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227012",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 08:04:06",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "明華一路上與富民路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌秒差調整",
+    "BeforeDesc_": "渠反映該路口號誌燈之前有連鎖,今日與前後路口未連鎖,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227011",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 07:54:00",
@@ -766,20 +783,20 @@
   },
   {
     "FileNo_": "INS161226180",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 08:06:43",
     "ReplyUnit_": "E01005",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路192巷105弄26號",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-孔蓋鬆動",
     "BeforeDesc_": "渠反映該處有一方型台電孔蓋鬆動，車輛行經產生噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/26  22:09 台電鳳山區處陳先生回報，該處鬆動孔蓋已修復完成。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 08:10:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 08:00:01"
   },
   {
     "FileNo_": "INS161226179",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 08:11:31",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223188",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 08:04:36",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建國二路轉入南華路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處巷內飄散類似瓦斯惡臭異味致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 08:05:26",
     "Close_Date_": ""
   }
 ]
