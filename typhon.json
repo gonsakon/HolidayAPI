@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161227012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 08:04:06",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明華一路上與富民路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌燈之前有連鎖,今日與前後路口未連鎖,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 上午 08:05:01",
     "Close_Date_": ""
   },
   {
@@ -851,20 +851,20 @@
   },
   {
     "FileNo_": "INS161226176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 07:49:21",
     "ReplyUnit_": "E01001",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "樹人路156號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/26 20:33農業局動物保護處捕犬大隊劉傳寶先生回報，人員抵達時該犬隻已經死\r\n亡，故改派INS161226191 由清潔隊協助處理。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 07:51:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 08:01:21"
   },
   {
     "FileNo_": "INS161226175",
@@ -885,20 +885,20 @@
   },
   {
     "FileNo_": "INS161226174",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 07:39:16",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳甲二街上與南華一路交叉口(往西方向)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處路面有大片油漬，目前已有警員於現場，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/26 20:12 鳳山區清潔隊溫清仁先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 07:44:10",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 08:01:33"
   },
   {
     "FileNo_": "INS161226173",
