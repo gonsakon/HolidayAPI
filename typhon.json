@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228005",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 01:07:37",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路640巷上與灣中街口(往建工夜市方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228004",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 12:52:22",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 01:56:25",
     "Close_Date_": "2016/12/26 上午 11:23:10"
-  },
-  {
-    "FileNo_": "INS161225007",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/25 上午 01:34:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "十全二路上(近重慶街，十全電影院前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處慢車道上有碎玻璃，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/25 02:05溝渠隊莊斯宇先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 01:35:57",
-    "Close_Date_": "2016/12/28 上午 12:52:37"
   }
 ]
