@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227061",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 10:21:17",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "常德路92號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該址處因進行污水下水道作業，將住家自來水管線挖斷致有漏水及地基掏空情況，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227059",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 10:11:42",
@@ -443,14 +460,14 @@
   },
   {
     "FileNo_": "INS161227032",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/27 上午 09:09:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德賢路",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路沿線有大量菸蒂垃圾未清，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 01:27:11",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224007",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 上午 01:13:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "覺民路288巷32號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處高速公路上單位進行隔音牆作業，惟使用機具致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 01:16:46",
     "Close_Date_": ""
   }
 ]
