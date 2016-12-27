@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161227069",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 10:48:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "原生植物園內,近都市森林浴場",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
     "BeforeDesc_": "渠反映由政德路管理室進入至該處步道磚與柏油交接處,該處柏油路面有凹陷,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 上午 10:50:51",
     "Close_Date_": ""
   },
   {
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161227068",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 10:45:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路與中山一路(中央公園)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "渠反映該公園園燈未熄，建請查處。",
+    "BeforeDesc_": "渠反映該公園園燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/27 上午 10:46:25",
     "Close_Date_": ""
   },
   {
