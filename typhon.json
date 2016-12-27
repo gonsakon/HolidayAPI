@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227192",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 07:14:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳林路三段上與大義路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227191",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 07:04:48",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 06:46:10",
     "Close_Date_": "2016/12/27 下午 02:31:40"
-  },
-  {
-    "FileNo_": "INS161224139",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 06:25:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "大華三路(50號碼頭，近前鎮加工區)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣中瀰漫阿摩尼亞異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 06:26:48",
-    "Close_Date_": ""
   }
 ]
