@@ -10116,20 +10116,20 @@
   },
   {
     "FileNo_": "INS161225011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/25 上午 06:24:13",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路560號前",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "漏電",
     "BeforeDesc_": "渠反映該處車禍事故，損壞電線以致裸露，擔憂有漏電危險，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 10：03經詢問台電1911何小姐表示，已重新更換處理完成；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 06:28:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 上午 12:55:46"
   },
   {
     "FileNo_": "INS161225010",
