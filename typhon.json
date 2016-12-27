@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227108",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 12:53:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "青年路二段475號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址前停車格上有坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227106",
     "Status_": "1",
     "Cre_Date_": "2016/12/27 下午 12:51:38",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 上午 10:36:53",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161224054",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/24 上午 10:31:16",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "五福一路與光華一路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍之路面油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/24 11:18 苓雅區清潔隊楊雨霖先生回報，現場車禍油漬已清除完畢；並\r\n於12/25 14：33電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 上午 10:34:24",
-    "Close_Date_": "2016/12/25 下午 02:33:01"
   }
 ]
