@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227194",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 下午 07:27:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "鳳林路三段，往大寮方向，近大義路口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路中有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227193",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 下午 07:22:03",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/24 下午 07:04:13",
     "Close_Date_": "2016/12/25 下午 05:36:11"
-  },
-  {
-    "FileNo_": "INS161224141",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/24 下午 06:55:19",
-    "ReplyUnit_": "F01006",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "公園西路三段12巷13號前",
-    "UnitName_": "岡山區公所",
-    "StatusName_": "處理完成",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處路面有一坑洞，惟屬六米以下道路，並協助設置安全措施，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/24 下午 06:57:22",
-    "Close_Date_": ""
   }
 ]
