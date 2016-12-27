@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161227037",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/27 上午 09:23:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "撫順街與吉林街口，超商旁",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處有一藍色舊衣回收箱，疑似未合法申請，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161227036",
     "Status_": "2",
     "Cre_Date_": "2016/12/27 上午 09:18:22",
@@ -154,14 +171,14 @@
   },
   {
     "FileNo_": "INS161227027",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/27 上午 08:59:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "中華路與中正東路口，北上內側車道",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有螺絲起子掉落，建請查處。",
     "AfterDesc_": "",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/23 下午 10:40:19",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161223212",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/23 下午 10:19:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "801",
-    "ZipName_": "前金區",
-    "address_": "市中一路387巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處人行道上有廢棄家具堆積，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/23 下午 10:21:24",
     "Close_Date_": ""
   }
 ]
