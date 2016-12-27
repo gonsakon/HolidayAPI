@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161227157",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 下午 05:05:13",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自立二路53巷27號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址旁有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/27 17:24前金區清潔隊陳姵嘉小姐回報，該處已清除；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 05:06:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 下午 06:01:18"
   },
   {
     "FileNo_": "INS161227156",
