@@ -5815,20 +5815,20 @@
   },
   {
     "FileNo_": "INS161225069",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/25 下午 12:34:11",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正忠路與義華路交界口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "號誌故障，黃燈常亮",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/25 16：29 交通局智慧運輸中心余晨璿小姐回報，該處已修復完畢；故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 01:49:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/27 上午 09:22:08"
   },
   {
     "FileNo_": "INS161225068",
