@@ -6937,20 +6937,20 @@
   },
   {
     "FileNo_": "INS161226141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 05:37:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "中正三路與錦田路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌(黃燈)故障不亮，建請修復。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 21:00 交通局智慧運輸中心潘毅華先生回報，現場號誌燈均正常運作，並無\r\n有故障情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 05:39:04",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 02:11:47"
   },
   {
     "FileNo_": "INS161226140",
