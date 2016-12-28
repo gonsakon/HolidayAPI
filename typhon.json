@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228039",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 09:33:27",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "大華里大華夢公園",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該公園一盞高園燈、兩盞矮園燈、抽水馬達損壞，建請會同查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228038",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 09:29:37",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 10:40:07",
     "Close_Date_": "2016/12/27 上午 09:20:36"
-  },
-  {
-    "FileNo_": "INS161225042",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 10:11:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "845",
-    "ZipName_": "內門區",
-    "address_": "中正路",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈白天未熄(二)",
-    "BeforeDesc_": "渠反映該處沿線路燈白天未熄，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 10:13:22",
-    "Close_Date_": ""
   }
 ]
