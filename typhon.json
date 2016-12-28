@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161229002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 上午 12:47:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "興盛街23巷21號對面",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該處地點對面有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/29 01:09溝渠隊杜金華先生回報，於上述地點未發現所述貓屍。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 12:49:11",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 07:54:34"
   },
   {
     "FileNo_": "INS161229001",
@@ -222,20 +222,20 @@
   },
   {
     "FileNo_": "INS161228211",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 11:59:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "高楠公路屏山巷1號(東南水泥股份有限公司)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工廠有作業機具噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/29 03:32環保局公害專線中區陳彥州先生回報，稽查人員於00:50到達，於上述\r\n地點周界巡查，未發現明顯作業機具致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 12:01:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 07:54:52"
   },
   {
     "FileNo_": "INS161228210",
