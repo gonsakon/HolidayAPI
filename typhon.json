@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228035",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 09:18:20",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中安路130之3號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228033",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 09:10:00",
@@ -10,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映現該址店家旁房屋有施工機具噪音產生，建請查處。",
+    "BeforeDesc_": "渠反映現該址店家旁房屋有施工機具噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 09:20:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 10:00:40",
     "Close_Date_": "2016/12/26 下午 01:01:47"
-  },
-  {
-    "FileNo_": "INS161225039",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 09:49:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "803",
-    "ZipName_": "鹽埕區",
-    "address_": "新樂街上，近鼓山一路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處自行車道在車阻旁的木棧道有翹起情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 09:51:49",
-    "Close_Date_": ""
   }
 ]
