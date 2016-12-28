@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161229010",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/29 上午 07:21:28",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "六合二路與中山一路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處雙向號誌目前皆閃燈故障，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161229009",
     "Status_": "2",
     "Cre_Date_": "2016/12/29 上午 07:17:08",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 10:36:21",
     "Close_Date_": "2016/12/28 下午 01:18:46"
-  },
-  {
-    "FileNo_": "INS161226063",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/26 上午 10:32:48",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大華路225號對面(大華公園)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該處有多盞園燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 上午 10:33:42",
-    "Close_Date_": ""
   }
 ]
