@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161228051",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 10:20:05",
     "ReplyUnit_": "E01001",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "八德街28號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一具攻擊性流浪犬隻，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 10:22:26",
     "Close_Date_": ""
   },
   {
@@ -10150,20 +10150,20 @@
   },
   {
     "FileNo_": "INS161225057",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/25 上午 10:58:23",
     "ReplyUnit_": "F01006",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "介壽西路321巷1弄14號前",
     "UnitName_": "岡山區公所",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "",
     "BeforeDesc_": "渠反映該處有一水溝蓋遺失，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於通報岡山區公所吳思賢先生，其表示水溝蓋原為水利局委由公所維護，目前經費用\r\n罄、合約已結束，已回歸水利局自行維護，故改派A-TB-2016-118952；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 11:01:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 上午 10:21:06"
   },
   {
     "FileNo_": "INS161225056",
