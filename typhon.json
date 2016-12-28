@@ -4591,20 +4591,20 @@
   },
   {
     "FileNo_": "INS161227171",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 下午 06:11:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "錦田路(新興區公所後方公有機車停車場旁巷道)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該巷道路面上有一貓屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/27 18：39新興區清潔隊林希宸班長回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 06:17:58",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 12:37:40"
   },
   {
     "FileNo_": "INS161227170",
