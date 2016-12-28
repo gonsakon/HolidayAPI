@@ -239,20 +239,20 @@
   },
   {
     "FileNo_": "INS161228210",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 11:42:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "博愛二路與明華路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處發生車禍致遺留車禍油漬，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/29 00:08溝渠隊莊斯宇先生回報，該處已清除完畢。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 11:43:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 07:57:45"
   },
   {
     "FileNo_": "INS161228209",
@@ -324,20 +324,20 @@
   },
   {
     "FileNo_": "INS161228205",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 09:59:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文龍東路上，熱帶園藝試驗所前",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該路段上有三小段道路施工，有設交通錐，但沒有警示燈或過暗，望請改善。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/28 22：04 鳳山養護工程隊劉緯婕小姐回報，經了解該處係為水利局污水工程施\r\n工，故轉派非網A-TB-2016-120036賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 10:00:32",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 07:57:59"
   },
   {
     "FileNo_": "INS161228204",
