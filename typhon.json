@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228166",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 下午 06:33:32",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "&#22356;埔路34號(巷子進去)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮(5225)，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228165",
     "Status_": "1",
     "Cre_Date_": "2016/12/28 下午 06:30:25",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 02:33:06",
     "Close_Date_": "2016/12/27 上午 09:30:56"
-  },
-  {
-    "FileNo_": "INS161226007",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/26 上午 12:18:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "中山四路上(近金福路口，南下)",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處快慢車道中間分隔道上，第二盞及第三盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 上午 12:20:20",
-    "Close_Date_": ""
   }
 ]
