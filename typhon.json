@@ -52,19 +52,19 @@
   },
   {
     "FileNo_": "INS161228079",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 11:39:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣興里灣興街55巷口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "灣興里灣興街進入灣興街55巷第一支路燈夜間昏暗，疑似故障，請派員檢修！",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 11:58:37",
     "Close_Date_": ""
   },
   {
@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS161228076",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 11:31:22",
     "ReplyUnit_": "E01005",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "高雄市仁武區仁林路250號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "台電-路面填補不實",
     "BeforeDesc_": "您好:我家門前高雄市仁武區仁林路250號附近，近幾天剛剛重新鋪設AC路面，但前天發現路面已經有龜裂現象。麻煩道路主管機關能夠處哩，並檢視施工品質。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案陳情人反映路段及事由均同派工：INS161228074，研判應是重複成案，故併入該案一併\r\n委由工務局賡續辦理。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 11:43:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 上午 11:57:59"
   },
   {
     "FileNo_": "INS161228075",
