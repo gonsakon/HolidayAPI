@@ -1072,20 +1072,20 @@
   },
   {
     "FileNo_": "INS161228092",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 12:54:54",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文川路上近重信路口(星光汽車旅館旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處二個汽車停車位遭堆置建築廢棄物,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 15:03左營區清潔隊葉品玲小姐回報，已處理完畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 12:57:27",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 06:09:36"
   },
   {
     "FileNo_": "INS161228091",
