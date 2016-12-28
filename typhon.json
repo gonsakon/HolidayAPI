@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228124",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 下午 03:39:29",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "天祥一路171號前",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址前汽車道上有掉落數塊木板及雨衣，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228123",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 03:22:24",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 07:03:23",
     "Close_Date_": "2016/12/28 上午 11:27:32"
-  },
-  {
-    "FileNo_": "INS161225128",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 下午 06:57:11",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路334巷內",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷道內有2盞路燈故障不亮，建請查處。有用紅繩作記號。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 下午 06:59:10",
-    "Close_Date_": ""
   }
 ]
