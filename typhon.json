@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228197",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 下午 08:42:26",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "崑山路68號(崑山宮)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228196",
     "Status_": "1",
     "Cre_Date_": "2016/12/28 下午 08:39:55",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 09:29:00",
     "Close_Date_": "2016/12/27 上午 10:36:51"
-  },
-  {
-    "FileNo_": "INS161226037",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 上午 09:20:15",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重立路與文瑞路口(OK超商)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處轉角道路邊有狗便，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/26 09:32 左營區清潔隊黃秀菊小姐回報，狗便已清除完畢；本案不需回電故解\r\n除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 上午 09:24:01",
-    "Close_Date_": "2016/12/28 下午 01:01:10"
   }
 ]
