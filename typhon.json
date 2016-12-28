@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161228083",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 12:03:39",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "莊敬路與立志街口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有一路面下陷致坑洞，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 下午 12:06:07",
     "Close_Date_": ""
   },
   {
@@ -5203,20 +5203,20 @@
   },
   {
     "FileNo_": "INS161227005",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 上午 01:28:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "重立路與孟子路口附近一帶",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中瀰漫燃燒不明物之異味，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於環保局陳彥州先生於12/27 03:45 回報：稽查人員於03:38到場，稽查時於重\r\n立路與孟子路口附近一帶巡查，未發現有明顯不明燃燒異味導致空汙之情事；並於12/28 12：00電覆\r\n陳情人，惟陳情人反映此為長期問題，故另派非網A-TB-2016-119892追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 01:30:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 12:05:47"
   },
   {
     "FileNo_": "INS161227004",
