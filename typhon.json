@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228045",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 10:10:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "平和街3號、4號、7號與10 號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映上指店家目前有使用擴音器擾民情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228044",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 09:54:49",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 10:31:36",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161225048",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 10:21:43",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "楠梓東街89號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該址前有一爆米花攤販，產生油煙異味致空污情事，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 10:30:57",
     "Close_Date_": ""
   }
 ]
