@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161228154",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 05:59:17",
     "ReplyUnit_": "B01000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "新樂街67號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映現該址後方巷道內路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 下午 06:04:01",
     "Close_Date_": ""
   },
   {
@@ -205,20 +205,20 @@
   },
   {
     "FileNo_": "INS161228142",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 04:52:01",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區一心二路196號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽車人行道違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/28 17:58 通報110林警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 05:59:17",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 05:59:00"
   },
   {
     "FileNo_": "INS161228141",
