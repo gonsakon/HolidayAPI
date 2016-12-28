@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228058",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 10:38:08",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自立一路與遼寧二街路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口有一號誌燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228057",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 10:30:54",
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS161228012",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/28 上午 06:46:43",
     "ReplyUnit_": "A04000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "德中路與仁昌街口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該德中路上(北上)的綠燈不亮,請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 11:48:37",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161225061",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/25 上午 11:36:40",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "蓮海路70號附近(中山大學後方警衛亭與學生宿舍間路段)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處柵欄式水溝蓋斷裂，導致自行車行經卡住，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/25 12:19 水利局市區排水一科盧建儒先生回報，經人員查看該處係屬國立中山\r\n大學權管範圍，故改通報國立中山大學以非本府辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 11:48:40",
-    "Close_Date_": "2016/12/28 上午 10:24:34"
   }
 ]
