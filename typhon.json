@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161228106",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 01:54:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路685巷43號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址對面有多包白色垃圾包，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 下午 01:57:20",
     "Close_Date_": ""
   },
   {
@@ -7651,20 +7651,20 @@
   },
   {
     "FileNo_": "INS161226099",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 01:16:11",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳林路與東林東路",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處周遭空氣瀰漫工廠排放廢氣異味之空污，建請查處 。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 16:30環保局南區股陳巍方先生回報，稽查人員於14:33到達，於上述地點路\r\n段及周界道路巡視，並未發現現有工廠排放廢氣情況，故未發現空污情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 01:32:25",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 01:56:49"
   },
   {
     "FileNo_": "INS161226098",
