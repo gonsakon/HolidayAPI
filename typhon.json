@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161228062",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 10:47:41",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路地下道(雙向)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處地下道有許多路面坑洞，望請修補改善，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228061",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 10:46:37",
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161228059",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 10:45:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路中正四路，消防隊前",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該隊前人行道上的行人號誌小綠人不斷閃燈，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 10:48:16",
     "Close_Date_": ""
   },
   {
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS161228050",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2016/12/28 上午 10:19:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建工路304號前",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處燈桿下遭丟棄一垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -10014,20 +10031,20 @@
   },
   {
     "FileNo_": "INS161225075",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/25 下午 12:58:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路32號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前切割木柴造成木削揚塵，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/25 14:55 環保局中區股楊昌翰先生回報，稽查人員於13:47到達，稽查當時該\r\n址大門深鎖現場無人，人員於該址周界巡查未發現有木屑揚塵飄散致空污情事，故此結案；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 12:59:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 上午 10:47:40"
   },
   {
     "FileNo_": "INS161225074",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 12:11:14",
     "Close_Date_": "2016/12/28 上午 10:42:03"
-  },
-  {
-    "FileNo_": "INS161225065",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/25 下午 12:02:48",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "高雄市前鎮區凱旋三路和二聖一路口(平交道口)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "號誌燈箱被塗鴉",
-    "AfterDesc_": "感謝您的反映，此案件已轉呈人民陳情案件A-TB-2016-118969由交通局賡續辦理，倘您對本案處理有疑問，歡迎\r\n您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 下午 12:15:18",
-    "Close_Date_": "2016/12/25 下午 12:26:36"
   }
 ]
