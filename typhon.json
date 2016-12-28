@@ -8654,20 +8654,20 @@
   },
   {
     "FileNo_": "INS161226009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 上午 04:48:14",
     "ReplyUnit_": "E01005",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路548巷沿線",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "停電",
     "BeforeDesc_": "渠反映該處附近無預警停電中，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/26 10：03經詢問台電1911何小姐表示，已修復送電；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 上午 04:53:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 上午 11:37:05"
   },
   {
     "FileNo_": "INS161226008",
