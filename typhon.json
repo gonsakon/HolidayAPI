@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228137",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 下午 04:39:36",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "河西路與建國四路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口旁有一號誌燈上椰子樹枝纏繞，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228136",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 04:31:10",
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS161228125",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/28 下午 03:41:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路794巷21號對面",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址對面機車道上有掉落拖鞋及兩包垃圾包，建請查處。",
     "AfterDesc_": "",
@@ -205,14 +222,14 @@
   },
   {
     "FileNo_": "INS161228124",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/28 下午 03:39:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "天祥一路171號前",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前汽車道上有掉落數塊木板及雨衣，建請查處。",
     "AfterDesc_": "",
@@ -2908,20 +2925,20 @@
   },
   {
     "FileNo_": "INS161227194",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 下午 07:27:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "鳳林路三段，往大寮方向，近大義路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路中有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/27 20:15 林園區清潔隊清運班班長林祺焜先生回報，該處狗屍已清除完\r\n畢；並於12/28 16：38電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 07:31:08",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 04:38:25"
   },
   {
     "FileNo_": "INS161227193",
@@ -4608,20 +4625,20 @@
   },
   {
     "FileNo_": "INS161227094",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 上午 11:55:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "河北一路116號對面馬路邊",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄許多寶特瓶，造成髒亂，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/27 12:41三民西區清潔隊許美玲小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 11:59:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/28 下午 04:38:18"
   },
   {
     "FileNo_": "INS161227093",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 08:35:20",
     "Close_Date_": "2016/12/26 上午 10:58:35"
-  },
-  {
-    "FileNo_": "INS161225141",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 下午 07:59:47",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "建華街4號後方",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "污水管阻塞(一)",
-    "BeforeDesc_": "渠反映該處圓形污水孔蓋遺失，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 下午 08:02:03",
-    "Close_Date_": ""
   }
 ]
