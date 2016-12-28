@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161228034",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 09:09:47",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山一路與五福四路口(傻瓜冰茶旁)",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處電線桿上有一電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228032",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 09:04:20",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 09:51:49",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161225037",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 09:46:33",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路與阿公店路二段(阿公店溪)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處溪水目前呈現黑色，疑似遭排放污染物，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 09:49:16",
     "Close_Date_": ""
   }
 ]
