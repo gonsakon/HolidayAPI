@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161228029",
+    "FileNo_": "INS161228030",
     "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 09:00:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "05綠08公園內",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "公園、綠地設施損毀(一)",
+    "BeforeDesc_": "渠反映該公園內一盞園燈(編號:02448)故障不亮,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161228029",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 08:52:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民生二路與自立二路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該路口有一不明工程，已阻礙到交通，且也未有交管，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 08:57:08",
     "Close_Date_": ""
   },
   {
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 09:36:10",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161225033",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 09:32:00",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "赤崁南路樹人巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該巷附近有興建工程機具致噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 09:35:52",
     "Close_Date_": ""
   }
 ]
