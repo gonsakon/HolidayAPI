@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228155",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 下午 06:01:13",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "褒揚東街71號至87號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路段路燈多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228154",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 下午 05:59:17",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161228130",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/28 下午 04:09:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "拷潭里保福路35號",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址旁目前有民眾燃燒物品，產生黑煙致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 下午 10:59:04",
     "Close_Date_": "2016/12/26 上午 07:47:39"
-  },
-  {
-    "FileNo_": "INS161225159",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/25 下午 10:20:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "大智街129巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該巷內有兩盞路燈故障閃爍一星期，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 08:16 養工處鳳山養護工程隊韓莉梅小姐回報，該處皆已修復；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 下午 10:22:12",
-    "Close_Date_": "2016/12/28 上午 11:36:45"
   }
 ]
