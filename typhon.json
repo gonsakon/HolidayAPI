@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161228045",
+    "FileNo_": "INS161228046",
     "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 10:15:16",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建國二路32號前(嚮茶飲料店前)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處路燈底座有電線外露,陳情人行經時有遭觸電,有漏電危險,請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161228045",
+    "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 10:10:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "平和街3號、4號、7號與10 號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映上指店家目前有使用擴音器擾民情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/28 上午 10:11:37",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 10:44:08",
     "Close_Date_": "2016/12/26 下午 01:04:01"
-  },
-  {
-    "FileNo_": "INS161225049",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 10:29:07",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大竹路19號",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處有房屋施工機具致噪音擾民，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 10:31:36",
-    "Close_Date_": ""
   }
 ]
