@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161228027",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/28 上午 08:41:59",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "工業二路與石化一路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161228026",
     "Status_": "2",
     "Cre_Date_": "2016/12/28 上午 08:38:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/25 上午 09:32:38",
     "Close_Date_": "2016/12/26 下午 12:04:25"
-  },
-  {
-    "FileNo_": "INS161225030",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/25 上午 09:26:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路801巷對面(近果菜市場附近)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處果菜市場附近，有一狗屍，建請清除。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/25 上午 09:29:22",
-    "Close_Date_": ""
   }
 ]
