@@ -1,19 +1,36 @@
 [
   {
+    "FileNo_": "INS161229070",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/29 下午 12:27:33",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "半廓路，海洋溼地公園",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
+    "BeforeDesc_": "渠反映該園內的園燈故障不亮且公園廁所內的馬桶阻塞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/29 下午 12:28:05",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161229069",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 12:24:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "河南路135巷對面公園角落(人行道上)",
+    "address_": "河南路135巷對面公園轉角；人行道上",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭人丟棄彈簧床、小櫃子，造成髒亂，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 12:27:49",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 04:09:25",
     "Close_Date_": "2016/12/28 下午 02:06:03"
-  },
-  {
-    "FileNo_": "INS161226122",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 03:59:27",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎安路58號對面近鼎中路762巷",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該變電箱旁有瓶罐垃圾及狗便髒亂情事，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/26 16:40 三民東區清潔隊曾美華小姐回報，瓶罐與排泄物均已清除完成；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 04:01:35",
-    "Close_Date_": "2016/12/28 下午 02:06:19"
   }
 ]
