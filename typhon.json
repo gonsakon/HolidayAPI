@@ -817,20 +817,20 @@
   },
   {
     "FileNo_": "INS161228176",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 07:13:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建國一路與國道一號口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處西側便道號誌燈皆故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/28 21:16交通局智慧運輸中心黃泰郎先生回報，該處號誌已修復。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:17:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 08:01:43"
   },
   {
     "FileNo_": "INS161228175",
@@ -919,20 +919,20 @@
   },
   {
     "FileNo_": "INS161228170",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 06:42:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旺街與瑞南街口(轉角消防栓旁)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一隻貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/28 20:21 溝渠隊林福來先生回報，該處已清除。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 06:44:37",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 08:02:08"
   },
   {
     "FileNo_": "INS161228169",
@@ -1004,20 +1004,20 @@
   },
   {
     "FileNo_": "INS161228165",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 06:30:25",
     "ReplyUnit_": "A01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "市中一路與民生二路口",
     "UnitName_": "工務局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "人手孔凹陷",
     "BeforeDesc_": "渠反映該處路口有約10個不明孔蓋突起路面10公分，導致陳情人騎車經過摔傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/28 18：31 工務局工程企劃處張振成先生回報，該處係水利局工程，故轉\r\n派:INS161228169",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 06:33:41",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 08:02:26"
   },
   {
     "FileNo_": "INS161228164",
