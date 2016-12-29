@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161229076",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/29 下午 12:56:22",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "新生路(前鎮橋，往南)",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處伸縮縫柏油填補處突起路面，建請修平。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161229075",
     "Status_": "1",
     "Cre_Date_": "2016/12/29 下午 12:53:29",
@@ -4472,14 +4489,14 @@
   },
   {
     "FileNo_": "INS161228022",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/28 上午 08:22:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "願景橋(介於同盟三路與河西一路間)",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈白天未熄(一)",
     "BeforeDesc_": "渠反映該處沿線路燈放亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 04:57:17",
     "Close_Date_": "2016/12/27 下午 04:12:26"
-  },
-  {
-    "FileNo_": "INS161226128",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 04:47:44",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "加昌路上，右昌國小旁(加昌公有停車場)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處目前聚集7、8隻具攻擊性流浪犬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/26 18：54 農業局動物保護處史明義先生回報，人員至現場未發現犬隻，並已\r\n致電陳情人說明；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 04:51:30",
-    "Close_Date_": "2016/12/28 下午 02:09:48"
   }
 ]
