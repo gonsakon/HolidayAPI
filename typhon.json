@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161229125",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/29 下午 05:56:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "擴建路上與國華一街口遠東ABC大樓旁",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161229124",
     "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 05:53:14",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮，建請查處。",
+    "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮(編號:2153)，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 05:54:45",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161229123",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 05:52:11",
     "ReplyUnit_": "B01000",
     "zipcode_": "814",
     "ZipName_": "仁武區",
     "address_": "赤德街旁長條型綠帶上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-公園髒亂、佔用(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處綠帶日前局處有派員前往除草，惟除草後將辦當何丟棄於綠帶上，且將雜草都棄於人行道上，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 05:57:45",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 08:06:06",
     "Close_Date_": "2016/12/27 下午 04:38:10"
-  },
-  {
-    "FileNo_": "INS161226177",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 07:57:23",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "東門路與東門路25巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈線路垂落，恐生危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/26 22:01 養工處四維養護工程隊江明秀小姐回報，該處目前無危險性，惟因屬第四\r\n台附掛線路，故需轉派非網A-TB-2016-119405賡續辦理；並於12/27 16：26電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 07:59:57",
-    "Close_Date_": "2016/12/27 下午 04:32:15"
   }
 ]
