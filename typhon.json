@@ -3146,20 +3146,20 @@
   },
   {
     "FileNo_": "INS161228143",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 04:57:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "凱旋四路與忠誠路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌綠燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 20:14 智慧運輸中心黃泰郎先生回報，該處無危險性，須報請廠商維\r\n修，故改派非網A-TB-2016-120019追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 04:58:06",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:23:22"
   },
   {
     "FileNo_": "INS161228142",
