@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161229074",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/29 下午 12:48:23",
+    "ReplyUnit_": "",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "大寮區內坑里仁德路16巷28號前",
+    "UnitName_": "",
+    "StatusName_": "建立中",
+    "InformDesc_": "",
+    "BeforeDesc_": "此蓋鬆動，車子一經過，會發出很大聲擾民的噪音，麻煩儘速處理~謝謝",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161229073",
     "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 12:32:03",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS161229068",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/29 下午 12:12:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "莒光街205號巷道",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭隔壁大樓放置整修房屋之廢棄物，建請查處。",
     "AfterDesc_": "",
@@ -4557,20 +4574,20 @@
   },
   {
     "FileNo_": "INS161228015",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 07:10:32",
     "ReplyUnit_": "A03000",
     "zipcode_": "840",
     "ZipName_": "大樹區",
     "address_": "三和路21號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址門口有一狗屍,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 08:35 大樹區清潔隊 黃嘉宏班長回報，已清除；並於12/29 12：47電覆陳情\r\n人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 07:13:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 12:51:04"
   },
   {
     "FileNo_": "INS161228014",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 04:43:49",
     "Close_Date_": "2016/12/28 下午 02:08:48"
-  },
-  {
-    "FileNo_": "INS161226126",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 04:28:37",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大豐一路234號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人行道破損(一)",
-    "BeforeDesc_": "渠反映該處人行道上水泥破損，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 09:49養工處四維養護工程隊三民分隊趙廣慶先生回報，該處已修復；本案\r\n不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 04:31:31",
-    "Close_Date_": "2016/12/28 下午 03:31:06"
   }
 ]
