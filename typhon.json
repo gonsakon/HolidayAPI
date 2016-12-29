@@ -2721,20 +2721,20 @@
   },
   {
     "FileNo_": "INS161229008",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 上午 06:59:15",
     "ReplyUnit_": "A04000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "信義路與信興一路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/29 10:27 交通局 智慧運輸中心 蔡淑君小姐回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 07:01:00",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 12:34:14"
   },
   {
     "FileNo_": "INS161229007",
@@ -5441,20 +5441,20 @@
   },
   {
     "FileNo_": "INS161228059",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 10:45:51",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路中正四路，消防隊前",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該隊前人行道上的行人號誌小綠人不斷閃燈，請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/28 12:19 交通局 智慧運輸中心 蔡淑君小姐回報，該處行人號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 10:48:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 12:33:45"
   },
   {
     "FileNo_": "INS161228058",
