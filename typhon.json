@@ -6138,20 +6138,20 @@
   },
   {
     "FileNo_": "INS161228018",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 08:05:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "立群路與紹興街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障有閃燈與紅燈放亮情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/28 09:59 交通局 智慧運輸中心 蔡淑君小姐回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 08:06:38",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 12:30:17"
   },
   {
     "FileNo_": "INS161228017",
