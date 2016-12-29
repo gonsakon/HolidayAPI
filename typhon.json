@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161229132",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 06:49:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "民有路與三民路",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌線路上遭披掛衣物，恐生危險，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 06:50:22",
     "Close_Date_": ""
   },
   {
@@ -4455,20 +4455,20 @@
   },
   {
     "FileNo_": "INS161228080",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 11:46:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "青年路一段與國光路",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處路燈多盞白天未熄，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 13:34 養工處鳳山養護工程隊陳毓郡小姐回報，該處路燈皆已修復；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 11:47:45",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 06:50:54"
   },
   {
     "FileNo_": "INS161228079",
