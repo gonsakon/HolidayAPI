@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229165",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 10:39:59",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "桂陽路175巷6弄20號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址旁一路燈自備纜線垂落、冒火花，恐生危險，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 10:44:31",
     "Close_Date_": ""
   },
   {
