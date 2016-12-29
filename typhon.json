@@ -1,16 +1,33 @@
 [
   {
     "FileNo_": "INS161229131",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 06:50:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "中華一路247巷26號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前路燈故障，已有兩天，建請儘速查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/29 下午 06:52:45",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161229132",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/29 下午 06:49:27",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "民有路與三民路",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處有一號誌線路上遭披掛衣物，恐生危險，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 08:24:23",
     "Close_Date_": "2016/12/28 下午 04:01:25"
-  },
-  {
-    "FileNo_": "INS161226184",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 08:21:49",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "840",
-    "ZipName_": "大樹區",
-    "address_": "中山路3巷513號前",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "漏電",
-    "BeforeDesc_": "渠反映該址前有一電線桿有冒出火花情況(水東分13號)，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 10：32經詢問台電1911李小姐表示，已修復處理完成；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 08:24:47",
-    "Close_Date_": "2016/12/28 下午 03:32:09"
   }
 ]
