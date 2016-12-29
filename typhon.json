@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229148",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 08:28:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "東門路與城峰路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障，呈現閃燈，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 08:30:17",
     "Close_Date_": ""
   },
   {
