@@ -1429,20 +1429,20 @@
   },
   {
     "FileNo_": "INS161229085",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 下午 01:44:18",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路(802醫院前)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處小綠人紅燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/29 17：07 交通局 智慧運輸中心 黃泰郎先生回報，現場號誌正常運作，未有\r\n 故障情形；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 01:46:19",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 12:38:32"
   },
   {
     "FileNo_": "INS161229084",
