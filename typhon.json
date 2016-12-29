@@ -3520,20 +3520,20 @@
   },
   {
     "FileNo_": "INS161228133",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 04:25:30",
     "ReplyUnit_": "E01002",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "五福四路與鼓山一路，往壽山方向",
     "UnitName_": "觀光局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "風景區髒亂",
     "BeforeDesc_": "渠反映該處壽山半山腰有不明濃煙冒出，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 19：51 觀光局風景區管理站謝忠麒先生回報，該處下午經派員與消防局人員前\r\n往勘查了解，係屬民宅燃燒樹枝所致；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 04:27:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 06:41:18"
   },
   {
     "FileNo_": "INS161228132",
@@ -4336,20 +4336,20 @@
   },
   {
     "FileNo_": "INS161228085",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 12:15:29",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山路與光遠路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 14:33交通局智慧運輸中心蔡淑君小姐回報，該處號誌燈已修復；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 12:17:39",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 06:41:44"
   },
   {
     "FileNo_": "INS161228084",
