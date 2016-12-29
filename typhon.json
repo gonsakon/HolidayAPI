@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161229106",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/29 下午 04:11:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "修武街36之1號2樓",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該目前業者進行咖啡烘焙產生異味",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161229105",
     "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 04:04:58",
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 06:37:16",
     "Close_Date_": "2016/12/26 下午 06:42:17"
+  },
+  {
+    "FileNo_": "INS161226158",
+    "Status_": "5",
+    "Cre_Date_": "2016/12/26 下午 06:22:13",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "806高雄市前鎮區一心二路206號",
+    "UnitName_": "警察局",
+    "StatusName_": "解除管制",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "人行道上機車違規停車",
+    "AfterDesc_": "【主管解除管制】本案已於12/26 18:33代通報至110勤務指揮中心邱警員成功並提供陳情人聯電；本案不需回電\r\n故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/12/26 下午 06:37:09",
+    "Close_Date_": "2016/12/26 下午 06:42:37"
   }
 ]
