@@ -4353,20 +4353,20 @@
   },
   {
     "FileNo_": "INS161228084",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 12:07:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "明星街70號、72號之間",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址水溝邊有一貓屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 12：46 新興區清潔隊蔡佩華小姐回報，該處已清除完畢；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 12:08:55",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 06:41:06"
   },
   {
     "FileNo_": "INS161228083",
