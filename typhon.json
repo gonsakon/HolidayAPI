@@ -8841,20 +8841,20 @@
   },
   {
     "FileNo_": "INS161226188",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/26 下午 08:28:58",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路236巷13號之1",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞LED路燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/29 07:38 養工處四維養護工程隊九如分隊 曾清和先生回報，已修復；並於12/29 \r\n10：54電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 08:30:21",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 上午 11:08:26"
   },
   {
     "FileNo_": "INS161226187",
