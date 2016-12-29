@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229117",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 05:15:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中崙一路上(介於國泰路一段與凱旋路之間)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該路段沿線路邊有許多垃圾，，疑似市場攤商所為，望請清除並稽查行為人，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 05:19:42",
     "Close_Date_": ""
   },
   {
@@ -2415,20 +2415,20 @@
   },
   {
     "FileNo_": "INS161228185",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 07:39:04",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路45號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線汽機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/28 19:44代通報至110勤務指揮中心林警員成功；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:47:51",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:19:28"
   },
   {
     "FileNo_": "INS161228184",
@@ -2449,20 +2449,20 @@
   },
   {
     "FileNo_": "INS161228183",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 07:38:08",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路59號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線多輛機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/28 19:44代通報至110勤務指揮中心林警員成功；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:48:26",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:19:12"
   },
   {
     "FileNo_": "INS161228182",
@@ -5543,20 +5543,20 @@
   },
   {
     "FileNo_": "INS161228001",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 12:04:15",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文恩路47號 (模範生大樓)",
     "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該址大樓停車場出口旁有一台電變電箱遭撞傾斜，內容物散落，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 00：42 台電高雄區處鍾先生回報，經人員現場察看，係為慶聯有線電\r\n視之變電箱，非屬台電所有，故轉派非網A-TB-2016-119785賡續辦理",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 12:09:12",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:18:46"
   },
   {
     "FileNo_": "INS161227229",
@@ -6121,20 +6121,20 @@
   },
   {
     "FileNo_": "INS161227196",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 下午 07:35:42",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "自立街150號",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處一盞路燈不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 13:34 養工處鳳山養護工程隊陳毓郡小姐回報，該處路燈已修復；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 07:37:40",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:19:21"
   },
   {
     "FileNo_": "INS161227195",
@@ -6478,20 +6478,20 @@
   },
   {
     "FileNo_": "INS161227175",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 下午 06:27:12",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "啟昌街358號附近",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址附近有3至4盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/29 17:07 養工處四維養護工程隊九如分隊許中和先生回報，該處無危險性，經查係\r\n地下管線故障，無法立即修復，故改派非網A-TB-2016-120264賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 06:28:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:18:50"
   },
   {
     "FileNo_": "INS161227174",
