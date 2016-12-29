@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS161229045",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 上午 10:15:26",
     "ReplyUnit_": "E01005",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "東門路25巷3號旁",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該處有一台電電桿上電線垂落，建請修復。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 上午 10:18:44",
     "Close_Date_": ""
   },
   {
