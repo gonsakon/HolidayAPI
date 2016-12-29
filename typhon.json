@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229083",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 01:38:32",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
-    "address_": "林西街上；由和平路轉入",
+    "address_": "林西街上；由和平路轉林西街",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處第三支LED路燈現角度歪掉，建請查處。",
+    "BeforeDesc_": "渠反映該處第三盞LED路燈現有角度歪斜情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 01:41:50",
     "Close_Date_": ""
   },
   {
