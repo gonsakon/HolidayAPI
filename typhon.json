@@ -647,20 +647,20 @@
   },
   {
     "FileNo_": "INS161229132",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 下午 06:49:27",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "民有路與三民路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌線路上遭披掛衣物，恐生危險，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於 12/29 21:46 交通局 智慧運輸中心 黃泰郎先生回報，上述情事已排除；\r\n 本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 06:50:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 12:40:36"
   },
   {
     "FileNo_": "INS161229130",
