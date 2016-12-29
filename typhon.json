@@ -1,20 +1,20 @@
 [
   {
     "FileNo_": "INS161229115",
-    "Status_": "1",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 下午 04:55:23",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區新光路26號人行道上",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "人行道上機車違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "感謝您的反映，此案件已於12/29 16:57 通報110李警員查處，倘您對本案處理有疑問，歡迎您再電洽1999，謝\r\n謝！",
     "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
+    "Save_Date_": "2016/12/29 下午 04:58:24",
+    "Close_Date_": "2016/12/29 下午 04:59:02"
   },
   {
     "FileNo_": "INS161229114",
@@ -120,14 +120,14 @@
   },
   {
     "FileNo_": "INS161229108",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/29 下午 04:23:18",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "文橫一路3號對面(學校圍牆旁)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址人行道上遭人丟大型廢棄物，建請查處。",
     "AfterDesc_": "",
