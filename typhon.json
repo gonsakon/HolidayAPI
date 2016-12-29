@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229079",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 01:21:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "本洲路217巷與本洲路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處有一號誌燈閃爍故障，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 01:22:25",
     "Close_Date_": ""
   },
   {
@@ -3826,20 +3826,20 @@
   },
   {
     "FileNo_": "INS161228064",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 上午 10:54:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "正忠路與皓東路口(信炒飯)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處店家有油煙逸散，致空污之情事，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/28 12:26環保局稽查科中區股李政育先生回報，稽查人員於11:59到達，稽查當時於\r\n該周界未發現明顯逸散致空污情事；並於12/29 13：12電覆陳情人，故解除管制；惟陳情人反映該處油煙空污問\r\n題，故另成非網A-TB-2016-120180追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 10:58:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 01:22:10"
   },
   {
     "FileNo_": "INS161228063",
