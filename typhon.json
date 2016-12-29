@@ -3554,20 +3554,20 @@
   },
   {
     "FileNo_": "INS161228122",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/28 下午 03:21:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "清水岩路與鳳林路三段口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/28 18:57 智慧運輸中心黃泰郎先生回報，該處需報請廠商維修，故改派\r\n非網A-TB-2016-120012追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 03:25:01",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/29 下午 05:40:41"
   },
   {
     "FileNo_": "INS161228120",
