@@ -18,19 +18,36 @@
   },
   {
     "FileNo_": "INS161229159",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 09:58:45",
     "ReplyUnit_": "E01001",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "中華路39巷，近中民路",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻困在2樓陽台，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 10:01:17",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161229158",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/29 下午 09:58:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "夢時代",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處使用擴音設備，音量過大擾鄰，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/29 下午 10:01:27",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 11:20:49",
     "Close_Date_": "2016/12/27 上午 07:45:23"
-  },
-  {
-    "FileNo_": "INS161226212",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 11:02:34",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏平路295號(越南店)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處卡拉OK店家使用擴音器設備唱歌，導致噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/26 23:31環保局南區稽查戴宏霖先生回報，稽查人員於23:17到達，稽查時該店\r\n家準備打烊，於上述地點並未發現擴音機聲響，故未發現噪音情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 11:05:50",
-    "Close_Date_": "2016/12/27 上午 07:49:25"
   }
 ]
