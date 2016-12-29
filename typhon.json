@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161229041",
+    "FileNo_": "INS161229042",
     "Status_": "1",
+    "Cre_Date_": "2016/12/29 上午 09:50:07",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "825",
+    "ZipName_": "橋頭區",
+    "address_": "明德巷40號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "電線掉落",
+    "BeforeDesc_": "渠反映該處有一電桿上電線垂落，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161229041",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 上午 09:47:02",
     "ReplyUnit_": "E01001",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "光復二街167號",
     "UnitName_": "動物保護處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該大樓處一犬隻攻擊/追咬往來路人，建請派員捕捉。(並提供陳情人聯絡電話)",
+    "BeforeDesc_": "渠反映該大樓某一地下層樓有一貓隻受困三四天，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 上午 09:50:22",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/26 下午 01:08:20",
     "Close_Date_": "2016/12/28 下午 01:55:30"
-  },
-  {
-    "FileNo_": "INS161226094",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/26 下午 12:56:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "中山二路上(介於四維四路至三多四路之間)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路段南下方向快車道沿線掉落許多砂石，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/26 14：04 苓雅區清潔隊楊雨霖先生回報，該處已清除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/26 下午 01:07:54",
-    "Close_Date_": "2016/12/28 下午 01:54:52"
   }
 ]
