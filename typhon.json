@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161229162",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/29 下午 10:25:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中正一路與大順三路交叉 ( 東西向)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路口『大順三路』之路牌燈箱故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/29 下午 10:26:35",
     "Close_Date_": ""
   },
   {
