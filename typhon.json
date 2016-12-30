@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161230096",
+    "FileNo_": "INS161230097",
     "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 03:22:15",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "國軒路61巷內，大北北側    高分貿易13號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161230096",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 03:20:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "至聖路與博愛二路口，高雄銀行前",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有貓屍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 下午 03:22:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 12:57:04",
     "Close_Date_": "2016/12/28 下午 04:43:34"
-  },
-  {
-    "FileNo_": "INS161227104",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 12:48:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "鼎金後路123號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處左側對面紅磚人行道上變電箱旁，有 2張塑膠椅、2張木製椅子及1包垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 14:52 三民東區清潔隊曾愛玲小姐回報，現場皆已清除完畢；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 12:56:20",
-    "Close_Date_": "2016/12/28 下午 04:42:58"
   }
 ]
