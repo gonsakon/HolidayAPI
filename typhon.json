@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161230038",
+    "FileNo_": "INS161230039",
     "Status_": "1",
+    "Cre_Date_": "2016/12/30 上午 10:15:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "成功街128號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處有一大坑洞，恐生危險，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161230038",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 10:11:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強二路64號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該址旁有一木櫃已擱置四、五日，請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 上午 10:16:06",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 09:58:59",
     "Close_Date_": "2016/12/29 下午 02:51:19"
-  },
-  {
-    "FileNo_": "INS161227046",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 上午 09:53:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "阿公店路二段與仁壽路口(眼鏡行旁)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該址旁有一當心自行車之告示牌，現剩一固定點，隨風搖晃，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 14:37 養工處岡山養護工程隊劉卉玲小姐回報，該處已修復；本案不需回電故\r\n解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 09:59:17",
-    "Close_Date_": "2016/12/28 下午 04:23:02"
   }
 ]
