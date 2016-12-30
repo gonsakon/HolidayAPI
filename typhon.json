@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161230166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 07:53:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "夢時代",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有活動擴音器噪音，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 下午 07:55:19",
     "Close_Date_": ""
   },
   {
@@ -5356,20 +5356,20 @@
   },
   {
     "FileNo_": "INS161229016",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 上午 08:15:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "寶興路82號前方",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處路面有滴落不明液體致打滑，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/29 08:37三民東區清潔隊郭康尉小姐回報，該處疑似廚餘打翻，地面髒污已清除完\r\n畢；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 08:16:46",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 下午 07:54:54"
   },
   {
     "FileNo_": "INS161229015",
