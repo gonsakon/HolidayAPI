@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230169",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 08:18:43",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "內坑里仁勇路91巷巷口",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處巷口有一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230168",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 08:02:14",
@@ -375,14 +392,14 @@
   },
   {
     "FileNo_": "INS161230146",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/30 下午 06:06:09",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "久昌街23巷3弄5號前",
     "UnitName_": "動物保護處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一貓隻遭車輛撞擊受傷，建請查處。",
     "AfterDesc_": "",
@@ -4761,20 +4778,20 @@
   },
   {
     "FileNo_": "INS161229055",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 上午 11:10:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "加宏路17號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址前路旁有一貓屍,請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/29 11：38楠梓區清潔隊陳豔萍小姐回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 11:12:30",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 下午 08:18:37"
   },
   {
     "FileNo_": "INS161229054",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 06:33:06",
     "Close_Date_": "2016/12/30 下午 02:26:16"
-  },
-  {
-    "FileNo_": "INS161227176",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 06:27:50",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "佛南街158號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/29 15:20 養工處四維養護工程隊九如分隊梁連盛先生回報，該處無危險性，為道路\r\n工程科保固期限內，故改派非網 A-TB-2016-120173賡續辦理；並於12/29 15：39電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 06:28:54",
-    "Close_Date_": "2016/12/29 下午 03:42:12"
   }
 ]
