@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161230056",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 11:37:58",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "灣復街15號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址處目前有燃燒紙類，致空污情況，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 上午 11:40:38",
     "Close_Date_": ""
   },
   {
@@ -10031,20 +10031,20 @@
   },
   {
     "FileNo_": "INS161227073",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/27 上午 11:01:45",
     "ReplyUnit_": "B01000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "中正路(通安大橋上)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該橋上路燈從颱風後至今皆故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/30 08:54 養工處岡山養護工程隊李文義先生回報，該處無危險性，惟因需備料安定\r\n器材料，無法立即修復，故改派非網A-TB-2016-120359賡續辦理；並於12/30 11：38電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 11:03:29",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 上午 11:39:08"
   },
   {
     "FileNo_": "INS161227072",
