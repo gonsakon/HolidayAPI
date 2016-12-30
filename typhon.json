@@ -222,19 +222,19 @@
   },
   {
     "FileNo_": "INS161230012",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 07:53:42",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族二路與中正三路路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該路口號誌與前、後不同步，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 上午 09:27:48",
     "Close_Date_": ""
   },
   {
