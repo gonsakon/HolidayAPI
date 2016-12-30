@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230069",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 12:42:20",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "鳳林路102巷2之1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230068",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 12:34:28",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 11:34:07",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161227076",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 上午 11:06:58",
-    "ReplyUnit_": "A01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "店仔頂路103號",
-    "UnitName_": "工務局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "寬頻管線破損",
-    "BeforeDesc_": "渠反映該處有一高市寬頻管線破損，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 12:07 工務局工程企劃處第二課陳昭宏先生回報，該處已修復完成；本案不需\r\n回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 11:10:59",
-    "Close_Date_": "2016/12/28 下午 04:30:46"
   }
 ]
