@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230182",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 09:27:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "南屏路261號前",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址前有車禍油漬，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230181",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 09:22:15",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS161230180",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 09:21:52",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "草衙二路與金福路口",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路口有一盞路燈故障不亮，建請查修。",
+    "BeforeDesc_": "渠反映該處大貨車專用道路口有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 下午 09:27:26",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 07:04:22",
     "Close_Date_": "2016/12/30 下午 05:47:56"
-  },
-  {
-    "FileNo_": "INS161227189",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 07:01:13",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "華榮路16號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該址前1盞LED路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 18：48養工處四維養護工程隊九如養護分隊胡建州先生回報，該處LED路燈已修復；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 07:02:38",
-    "Close_Date_": "2016/12/29 上午 12:59:36"
   }
 ]
