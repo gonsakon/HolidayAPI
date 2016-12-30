@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230195",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 11:48:49",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "八德路上(往西方向)，近鳳松路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230194",
     "Status_": "4",
     "Cre_Date_": "2016/12/30 下午 10:57:17",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 07:57:23",
     "Close_Date_": "2016/12/30 下午 06:12:43"
-  },
-  {
-    "FileNo_": "INS161227202",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 07:55:46",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "立信路與自由二路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路面油漬",
-    "BeforeDesc_": "渠反映該處有車禍油漬，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 20:37左營區清潔隊鄭芝霖小姐回報，該處已清除；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 07:58:02",
-    "Close_Date_": "2016/12/29 下午 05:26:32"
   }
 ]
