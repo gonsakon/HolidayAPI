@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS161230090",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 03:06:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "保安路與維新路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處現號誌故障黃燈閃爍，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 下午 03:09:51",
     "Close_Date_": ""
   },
   {
