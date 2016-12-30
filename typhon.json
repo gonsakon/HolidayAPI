@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161230024",
+    "FileNo_": "INS161230025",
     "Status_": "1",
+    "Cre_Date_": "2016/12/30 上午 09:22:18",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161230024",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 09:13:30",
     "ReplyUnit_": "A01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "文賢路與育樂巷口",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "管線問題",
-    "BeforeDesc_": "渠反映該路口轉角處路面前幾日有開挖施工，但完工後現路面有持續凹陷，建請查處。",
+    "BeforeDesc_": "渠反映該路口轉角處路面於前幾日有開挖施工，但完工後現路面有持續凹陷，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 上午 09:22:11",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 09:17:23",
     "Close_Date_": "2016/12/29 下午 05:06:26"
-  },
-  {
-    "FileNo_": "INS161227032",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 上午 09:09:57",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德賢路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路沿線有大量菸蒂垃圾未清，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 10:21楠梓區清潔隊王心柔小姐回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 09:14:57",
-    "Close_Date_": "2016/12/28 下午 04:15:45"
   }
 ]
