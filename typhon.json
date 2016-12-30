@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230158",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 07:06:25",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "大學路與高鐵總機廠路口，第一科大東側門",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處內側車道有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230157",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 06:57:01",
@@ -256,20 +273,20 @@
   },
   {
     "FileNo_": "INS161230142",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 06:01:08",
     "ReplyUnit_": "A02000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "高雄市鳳山區自由路426號",
     "UnitName_": "警察局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/30 19:01代通報至110勤務指揮中心蕭警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 07:04:28",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 下午 07:06:24"
   },
   {
     "FileNo_": "INS161230141",
@@ -290,37 +307,37 @@
   },
   {
     "FileNo_": "INS161230140",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 05:59:38",
     "ReplyUnit_": "A02000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "高雄市苓雅區新光路26號",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "機車人行道上違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/30 19:01代通報至110勤務指揮中心蕭警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 07:04:34",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 下午 07:06:34"
   },
   {
     "FileNo_": "INS161230139",
-    "Status_": "2",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 05:58:01",
     "ReplyUnit_": "A02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "806高雄市前鎮區文橫三路45號",
     "UnitName_": "警察局",
-    "StatusName_": "待確認",
+    "StatusName_": "解除管制",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "汽機車紅線違規停車",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於12/30 19:01代通報至110勤務指揮中心蕭警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 07:04:54",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/30 下午 07:06:14"
   },
   {
     "FileNo_": "INS161230138",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161230121",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/30 下午 04:38:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "重慶街8號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家在賣鴨肉，有煙需及烤鴨油煙異味致空污情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 05:59:12",
     "Close_Date_": "2016/12/29 下午 02:11:42"
-  },
-  {
-    "FileNo_": "INS161227165",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 05:56:47",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "鳥松路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該路段沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 21：57 養工處鳳山養護工程隊劉緯婕小姐回報，該處屬台電問題，現已修復完\r\n畢；並於12/29 14：07電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 05:58:45",
-    "Close_Date_": "2016/12/29 下午 02:08:00"
   }
 ]
