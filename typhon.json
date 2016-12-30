@@ -1,14 +1,31 @@
 [
   {
+    "FileNo_": "INS161231012",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/31 上午 07:03:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "仁雄路43巷與仁雄路口(曹公圳支流河堤)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161231011",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/31 上午 06:32:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路三段與文昌街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處目前有一狗屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 08:36:39",
     "Close_Date_": "2016/12/29 下午 03:57:07"
-  },
-  {
-    "FileNo_": "INS161227214",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 08:24:37",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "青年路二段111號4樓之1",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該處有一幼貓困在三樓陽台屋頂，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 21:42農業局動物保護處捕犬大隊陳三元先生回覆：陳情人表示要自行處理；本\r\n案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 08:27:43",
-    "Close_Date_": "2016/12/29 下午 05:30:32"
   }
 ]
