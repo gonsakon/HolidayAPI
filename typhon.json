@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230086",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 02:45:20",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "中華橫路中和街",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈有故障閃燈情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230085",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 02:34:12",
@@ -426,14 +443,14 @@
   },
   {
     "FileNo_": "INS161230060",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/30 上午 11:56:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路260號",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該址前行人號誌燈故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 11:59:34",
     "Close_Date_": "2016/12/28 下午 04:38:18"
-  },
-  {
-    "FileNo_": "INS161227093",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/27 上午 11:52:54",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "832",
-    "ZipName_": "林園區",
-    "address_": "沿海路一段71號對面路口",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-人行道設施損壞(二)",
-    "BeforeDesc_": "渠反映該處『五福里，五福路』路牌搖搖欲墜，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 11:54:44",
-    "Close_Date_": ""
   }
 ]
