@@ -1,22 +1,5 @@
 [
   {
-    "FileNo_": "INS161230132",
-    "Status_": "1",
-    "Cre_Date_": "2016/12/30 下午 05:30:04",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "815",
-    "ZipName_": "大社區",
-    "address_": "萬金路92巷口",
-    "UnitName_": "環保局",
-    "StatusName_": "建立中",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該巷口有廢家具堆積，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "",
-    "Close_Date_": ""
-  },
-  {
     "FileNo_": "INS161230131",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 05:27:02",
@@ -35,19 +18,19 @@
   },
   {
     "FileNo_": "INS161230130",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 05:26:18",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
-    "address_": "渡輪景觀橋",
+    "address_": "渡輪站旁景觀橋",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "公園、綠地設施損毀(一)",
-    "BeforeDesc_": "",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該橋上有多盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/30 下午 05:33:00",
     "Close_Date_": ""
   },
   {
@@ -10198,5 +10181,22 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 03:54:56",
     "Close_Date_": "2016/12/28 下午 07:10:00"
+  },
+  {
+    "FileNo_": "INS161227139",
+    "Status_": "5",
+    "Cre_Date_": "2016/12/27 下午 03:45:08",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "高楠公路1761巷口(萊爾富前方)",
+    "UnitName_": "養工處",
+    "StatusName_": "解除管制",
+    "InformDesc_": "人行道破損(一)",
+    "BeforeDesc_": "渠反映不慎將該處惠心街路牌撞下，目前路牌仍留於現場，建請查處。",
+    "AfterDesc_": "【主管解除管制】本案於12/27 16:28養工處四維養護工程隊左楠分隊林玉娟小姐回報，該處無危險性，路牌已收回\r\n來，會再安排人員前往修復，故改派非網A-TB-2016-119701賡續辦理；本案不需回電故解除管制。",
+    "Memo_": "",
+    "Save_Date_": "2016/12/27 下午 03:46:58",
+    "Close_Date_": "2016/12/28 下午 07:09:57"
   }
 ]
