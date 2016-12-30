@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230045",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 上午 10:37:53",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路432號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處水溝破損掉落，恐生危險，建請查修。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230044",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 10:35:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 10:05:34",
     "Close_Date_": "2016/12/27 下午 12:02:48"
-  },
-  {
-    "FileNo_": "INS161227053",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/27 上午 10:00:41",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "隆豐路148號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處一盞路燈故障不亮已一週時間，建請查修。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 10:02:03",
-    "Close_Date_": ""
   }
 ]
