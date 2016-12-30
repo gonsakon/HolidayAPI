@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161231016",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/31 上午 07:29:33",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "小廣告、旗幟",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161231015",
     "Status_": "1",
     "Cre_Date_": "2016/12/31 上午 07:28:35",
@@ -18,36 +35,36 @@
   },
   {
     "FileNo_": "INS161231014",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 上午 07:21:59",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "高鳳路接高松路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處中央分隔島及路燈有建商用鐵絲捆綁「森見築」售屋廣告，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 上午 07:26:40",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS161231013",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 上午 07:21:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "高鳳一路",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "小廣告、旗幟",
     "BeforeDesc_": "渠反映該處中央分隔島有建商用鐵絲捆綁「森見築」售屋廣告，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 上午 07:26:38",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 09:38:11",
     "Close_Date_": "2016/12/29 下午 05:31:16"
-  },
-  {
-    "FileNo_": "INS161227218",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 09:15:45",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "澄清路與澄照街交叉口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌呈現閃燈運作，建請查處，",
-    "AfterDesc_": "【主管解除管制】本案於12/28 00：49 交通局智慧運輸中心張寬如小姐回報，該處已修復完畢；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 09:16:58",
-    "Close_Date_": "2016/12/29 下午 05:30:08"
   }
 ]
