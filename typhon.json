@@ -154,20 +154,20 @@
   },
   {
     "FileNo_": "INS161231011",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 上午 06:32:41",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路三段與文昌街口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處目前有一狗屍，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/31 07：01 鳳山區清潔隊強國良先生回報，人員至該處路口來回找尋皆未發現有\r\n狗屍。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 上午 06:34:22",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 上午 07:57:26"
   },
   {
     "FileNo_": "INS161231010",
@@ -188,20 +188,20 @@
   },
   {
     "FileNo_": "INS161231009",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 上午 03:30:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "民生二路71號、75號、77號(PUB)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處店家均有擴音器噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】12/31 06：38 環保局環境稽查科中區股李政鴻先生回報，稽查人員於05:10到達，\r\n該三處大門深鎖，人員於周界巡視未發現有擴音設備噪音之情事。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 上午 03:32:02",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 上午 07:57:52"
   },
   {
     "FileNo_": "INS161231008",
