@@ -17,6 +17,23 @@
     "Close_Date_": ""
   },
   {
+    "FileNo_": "INS161230058",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/30 上午 11:49:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "800",
+    "ZipName_": "新興區",
+    "address_": "林森二路235號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該址前堆置2至3包大垃圾包造成髒亂，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/30 上午 11:53:41",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230057",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 上午 11:44:35",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 10:46:25",
     "Close_Date_": "2016/12/29 下午 03:09:05"
-  },
-  {
-    "FileNo_": "INS161227066",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/27 上午 10:39:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "樂安路82之2號",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址前路燈(桿號:汭底138)昨晚著火，現已不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 10:40:50",
-    "Close_Date_": ""
   }
 ]
