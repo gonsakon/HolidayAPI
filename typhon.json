@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161230075",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/30 下午 01:35:38",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "明昌西街9號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址拆牆作業，使用機具聲過大，請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161230074",
     "Status_": "2",
     "Cre_Date_": "2016/12/30 下午 01:29:27",
@@ -10180,23 +10197,6 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2016/12/27 上午 11:35:25",
-    "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161227082",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/27 上午 11:25:22",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "852",
-    "ZipName_": "茄萣區",
-    "address_": "文化路47號之1",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址旁一盞路燈(電桿編號：白雲205)故障不亮已多天，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 上午 11:26:21",
     "Close_Date_": ""
   }
 ]
