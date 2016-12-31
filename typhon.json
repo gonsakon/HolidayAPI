@@ -4676,20 +4676,20 @@
   },
   {
     "FileNo_": "INS161230102",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 03:29:38",
     "ReplyUnit_": "A04000",
     "zipcode_": "803",
     "ZipName_": "鹽埕區",
     "address_": "公園二路與大理街口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌燈黃燈遮光罩脫落，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/30 19:20 交通局智慧運輸中心康智傑先生回報，該處號誌燈已修復；本案不需回電\r\n故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 03:31:16",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 下午 11:31:36"
   },
   {
     "FileNo_": "INS161230101",
