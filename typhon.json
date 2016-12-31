@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161231026",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/31 上午 08:24:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "801",
+    "ZipName_": "前金區",
+    "address_": "自強三路279號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161231024",
     "Status_": "2",
     "Cre_Date_": "2016/12/31 上午 08:11:40",
@@ -681,14 +698,14 @@
   },
   {
     "FileNo_": "INS161230179",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/30 下午 09:13:16",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "文自路147巷54號",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該處有一路面塌陷，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/27 下午 11:14:52",
     "Close_Date_": "2016/12/28 下午 04:35:40"
-  },
-  {
-    "FileNo_": "INS161227227",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/27 下午 11:00:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "光復路與經武路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/27 23:10溝渠清潔隊莊斯宇先生回報，該處貓屍已清除完畢；並於12/28 \r\n16：41電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/27 下午 11:02:48",
-    "Close_Date_": "2016/12/28 下午 04:41:04"
   }
 ]
