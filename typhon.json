@@ -27,7 +27,7 @@
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映店家辦理活動使用擴音器，噪音聲響擾民，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS161231061",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 上午 11:46:03",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "大同一路185號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處目前有舉辦活動，並使用擴音器致噪音情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 上午 11:47:01",
     "Close_Date_": ""
   },
   {
@@ -65,6 +65,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161231058",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/31 上午 11:44:06",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路2-40號3樓",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該址上方住戶目前有冷氣滴水不斷落下，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/31 上午 11:47:21",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 上午 09:29:18",
     "Close_Date_": "2016/12/30 上午 12:31:30"
-  },
-  {
-    "FileNo_": "INS161228035",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 上午 09:18:20",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "824",
-    "ZipName_": "燕巢區",
-    "address_": "中安路130之3號前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 08:44 養工處岡山養護工程隊康友淇先生回報，該處無危險性，惟因需另備料安\r\n定器，無法立即修復，故改派非網A-TB-2016-120356 賡續辦理；並於12/30 11：47電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 上午 09:20:27",
-    "Close_Date_": "2016/12/30 上午 11:48:30"
   }
 ]
