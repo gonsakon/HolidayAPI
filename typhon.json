@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS170101019",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 上午 02:22:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "民族二路與六合一路",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌均故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 02:51交通局智慧運輸中心余晨璿小姐回報，該處號誌皆正常運作，故結案；本案不\r\n需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 上午 02:22:48",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:44:17"
   },
   {
     "FileNo_": "INS170101018",
@@ -103,20 +103,20 @@
   },
   {
     "FileNo_": "INS170101015",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 上午 01:25:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "九如一路與民族一路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於01/01 01：56交通局智慧運輸中心余晨璿小姐回報，該處經查為燈面故障，現場無危險\r\n性，需報請廠商維修，故改派非網A-TB-2017-10賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 上午 01:26:56",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:43:40"
   },
   {
     "FileNo_": "INS170101014",
