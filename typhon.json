@@ -1276,20 +1276,20 @@
   },
   {
     "FileNo_": "INS161231131",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 06:32:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "852",
     "ZipName_": "茄萣區",
     "address_": "東方路一段與正大路口",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路口有一白色狗屍，建請清除。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 19：44茄萣區清潔隊吳竹耀先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 06:35:04",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:23:27"
   },
   {
     "FileNo_": "INS161231130",
@@ -1361,20 +1361,20 @@
   },
   {
     "FileNo_": "INS161231126",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 06:17:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "忠孝一路上與河南一路口(忠孝橋上)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "渠反映該橋上遭棄置一堆廢棄傢俱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 19: 20新興區清潔隊林希宸先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 06:19:14",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:22:05"
   },
   {
     "FileNo_": "INS161231125",
@@ -1463,20 +1463,20 @@
   },
   {
     "FileNo_": "INS161231120",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 05:39:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "民泰街與民康街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該址有廟會使用擴音器致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 19:33環保局公害專線中區股洪天賜先生回報，稽查人員於19:27到達，現場未發現\r\n有廟會活動使用擴音設備產生噪音情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 05:41:09",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:22:38"
   },
   {
     "FileNo_": "INS161231119",
