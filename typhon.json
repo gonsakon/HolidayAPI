@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101021",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 03:40:26",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "大社區民生路42-2號",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "妨害安寧",
+    "BeforeDesc_": "聚眾喧囂",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101020",
     "Status_": "4",
     "Cre_Date_": "2017/1/1 上午 02:59:27",
@@ -307,20 +324,20 @@
   },
   {
     "FileNo_": "INS170101002",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 上午 12:07:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "崇仁街上近中庄國小",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處周界居民有燃放鞭炮致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 00:08通報當下人員表示依噪音管制法第八條規定，元旦假日當天炮竹及一般煙火不\r\n予管制，故另於00:09通報110黃警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 上午 12:10:44",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:39:04"
   },
   {
     "FileNo_": "INS170101001",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:48:04",
     "Close_Date_": "2016/12/29 下午 12:42:48"
-  },
-  {
-    "FileNo_": "INS161228180",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 07:34:07",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區中興街167號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線汽車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/28 19:44代通報至110勤務指揮中心林警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 07:47:57",
-    "Close_Date_": "2016/12/29 下午 12:41:11"
   }
 ]
