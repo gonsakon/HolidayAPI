@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161231146",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/31 下午 07:48:11",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "828",
+    "ZipName_": "永安區",
+    "address_": "維新路155號之1(萊爾富，台17上)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址有一狗屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161231145",
     "Status_": "2",
     "Cre_Date_": "2016/12/31 下午 07:44:17",
@@ -613,14 +630,14 @@
   },
   {
     "FileNo_": "INS161231109",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/31 下午 04:07:40",
     "ReplyUnit_": "A04000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "河西一路，近中都橋",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該處近日號誌綠燈秒數僅有10秒，易造成塞車，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 03:11:47",
     "Close_Date_": "2016/12/28 下午 06:03:42"
-  },
-  {
-    "FileNo_": "INS161228119",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/28 下午 03:02:24",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "1.中崙二路(介於中崙四路與中崙五路) 2.中崙二路584巷",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該2址沿線路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 03:04:56",
-    "Close_Date_": ""
   }
 ]
