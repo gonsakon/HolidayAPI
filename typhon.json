@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101026",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 06:46:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "820",
+    "ZipName_": "岡山區",
+    "address_": "公園東路，於岡山身心障礙福利中心對面",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處快車道上有一貓屍，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101025",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 06:42:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:43:42",
     "Close_Date_": "2016/12/30 下午 07:46:32"
-  },
-  {
-    "FileNo_": "INS161228185",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 07:39:04",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線汽機車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/28 19:44代通報至110勤務指揮中心林警員成功；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 07:47:51",
-    "Close_Date_": "2016/12/29 下午 05:19:28"
   }
 ]
