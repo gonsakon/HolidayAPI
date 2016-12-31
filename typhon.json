@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101023",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 05:24:36",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "833",
+    "ZipName_": "鳥松區",
+    "address_": "",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人手孔破損",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101022",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 03:47:59",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:48:26",
     "Close_Date_": "2016/12/29 下午 05:19:12"
-  },
-  {
-    "FileNo_": "INS161228182",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 07:36:01",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "南寮路山下巷37之8號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮且線路有冒火花情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 15:23養工處岡山養護工程隊康友淇先生回報，該處已修復完成；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 07:38:03",
-    "Close_Date_": "2016/12/30 下午 07:45:59"
   }
 ]
