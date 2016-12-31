@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101022",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 03:47:59",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "前鎮漁市場14號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處疑似有漁船氨氣外洩，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101021",
     "Status_": "1",
     "Cre_Date_": "2017/1/1 上午 03:40:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:38:03",
     "Close_Date_": "2016/12/30 下午 07:45:59"
-  },
-  {
-    "FileNo_": "INS161228181",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 07:35:22",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "802高雄市苓雅區文橫二路111號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "紅線汽車機車違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/28 19:44代通報至110勤務指揮中心林警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 07:48:04",
-    "Close_Date_": "2016/12/29 下午 12:42:48"
   }
 ]
