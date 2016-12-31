@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS161231171",
+    "Status_": "1",
+    "Cre_Date_": "2016/12/31 下午 10:15:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山二路37巷1號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處因機車漏油致路面遺留油漬，建請清除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS161231170",
     "Status_": "2",
     "Cre_Date_": "2016/12/31 下午 10:05:31",
@@ -103,14 +120,14 @@
   },
   {
     "FileNo_": "INS161231164",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/31 下午 09:13:20",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "華德街133號(好彩頭卡拉OK)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家卡拉OK音量過大，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 05:17:24",
     "Close_Date_": "2016/12/30 下午 07:40:39"
-  },
-  {
-    "FileNo_": "INS161228145",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 05:10:42",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "北賢街100號附近，華悅社區過去約50公尺",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處地點有一盞路燈故障不亮，一盞路燈忽亮忽滅，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 21:29鳳山養護工程隊劉緯婕小姐回報，該處路燈已修復；並於12/29 16：06電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 05:12:08",
-    "Close_Date_": "2016/12/29 下午 04:08:23"
   }
 ]
