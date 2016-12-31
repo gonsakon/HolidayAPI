@@ -6,14 +6,31 @@
     "ReplyUnit_": "A03000",
     "zipcode_": "822",
     "ZipName_": "阿蓮區",
-    "address_": "",
+    "address_": "萬金路377號後方農地",
     "UnitName_": "環保局",
     "StatusName_": "建立中",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處地點後方農地有拒辦活動，有擴音機噪音聲響，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161231172",
+    "Status_": "2",
+    "Cre_Date_": "2016/12/31 下午 10:19:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮路75之10號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該址為養豬戶，目前排放豬隻排泄物之惡臭味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2016/12/31 下午 10:23:15",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 05:34:24",
     "Close_Date_": "2016/12/30 下午 07:41:19"
-  },
-  {
-    "FileNo_": "INS161228146",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 05:29:52",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "新強路125巷",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處巷道路燈尚未放亮，疑似有故障情事，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 17:43養工處鳳山養護工程隊劉緯婕小姐回報，該處路燈皆有放亮，故結案；本案不\r\n需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 05:31:51",
-    "Close_Date_": "2016/12/28 下午 05:53:29"
   }
 ]
