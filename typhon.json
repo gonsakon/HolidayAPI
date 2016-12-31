@@ -69,20 +69,20 @@
   },
   {
     "FileNo_": "INS161231068",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 12:00:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "光遠路與大東一路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "該路口號誌燈閃光情形，請查修",
-    "AfterDesc_": "",
+    "AfterDesc_": "此案與派工INS161231067相同，併案處理．",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 12:19:52",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 下午 12:21:22"
   },
   {
     "FileNo_": "INS161231067",
