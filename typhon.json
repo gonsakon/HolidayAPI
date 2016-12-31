@@ -3911,20 +3911,20 @@
   },
   {
     "FileNo_": "INS161230141",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 06:00:55",
     "ReplyUnit_": "E01001",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "創新路809號",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/30 19:13農業局動物保護處陳三元先生回覆：與陳情人在現場已未發現該受傷犬\r\n隻；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 06:02:43",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 下午 10:39:48"
   },
   {
     "FileNo_": "INS161230140",
@@ -3979,20 +3979,20 @@
   },
   {
     "FileNo_": "INS161230137",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/30 下午 05:55:29",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "育樂路136巷2弄底",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "【主管解除管制】本案於12/30 21:42 養工處四維養護工程隊九如分隊林泉先生回報，該處已修復；本案不需回\r\n電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 05:56:59",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 下午 10:39:28"
   },
   {
     "FileNo_": "INS161230136",
