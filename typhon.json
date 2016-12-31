@@ -18,20 +18,20 @@
   },
   {
     "FileNo_": "INS170101021",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 上午 03:40:26",
     "ReplyUnit_": "A02000",
     "zipcode_": "815",
     "ZipName_": "大社區",
     "address_": "大社區民生路42-2號",
     "UnitName_": "警察局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "妨害安寧",
     "BeforeDesc_": "聚眾喧囂",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案已於01/01 03:48代通報至110勤務指揮中心蕭警員成功；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 上午 03:49:57",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 上午 03:52:06"
   },
   {
     "FileNo_": "INS170101020",
