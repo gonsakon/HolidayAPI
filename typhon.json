@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101028",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 07:05:02",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101027",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 06:47:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 07:54:17",
     "Close_Date_": "2016/12/31 下午 09:05:57"
-  },
-  {
-    "FileNo_": "INS161228187",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 07:52:08",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "博愛二路與明誠三路交叉口，明誠三路上往西方向第二盞",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路口有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/29 19:24養工處四維養護工程隊九如分隊余俊雄先生回報，已修復；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 07:54:25",
-    "Close_Date_": "2016/12/30 下午 07:47:26"
   }
 ]
