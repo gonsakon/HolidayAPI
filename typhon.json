@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161231137",
+    "FileNo_": "INS161231138",
     "Status_": "1",
+    "Cre_Date_": "2016/12/31 下午 07:04:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "學專路與後勁北路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該路口轉角處有貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161231137",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 下午 07:03:40",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路267號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前人行道上有一盞路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 下午 07:04:33",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 02:26:16",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161228111",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 02:21:31",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "永興街上，近自強三路62號的側邊",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮許久，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/28 21：37 四維養護工程隊九如分隊李來益先生回報，該處路燈已修復完\r\n畢。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 02:23:22",
-    "Close_Date_": "2016/12/29 下午 05:41:40"
   }
 ]
