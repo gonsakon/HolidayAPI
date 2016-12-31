@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101007",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 12:31:34",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "824",
+    "ZipName_": "燕巢區",
+    "address_": "中民路621號(燕巢郵局)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該址對面電線桿下有一貓屍，民眾已先使用箱子裝起，建請移除。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101006",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 12:24:45",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 06:41:52",
     "Close_Date_": "2016/12/29 下午 03:20:26"
-  },
-  {
-    "FileNo_": "INS161228166",
-    "Status_": "4",
-    "Cre_Date_": "2016/12/28 下午 06:33:32",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "&#22356;埔路34號(巷子進去)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一盞路燈故障不亮(5225)，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 06:34:58",
-    "Close_Date_": ""
   }
 ]
