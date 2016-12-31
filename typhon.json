@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101003",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 12:09:56",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "文聖街",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處地點路燈沿線多盞故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101002",
     "Status_": "1",
     "Cre_Date_": "2017/1/1 上午 12:07:46",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 06:26:01",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161228162",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 06:18:38",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳仁路110巷35號對面",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處三盞路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/29 12:35 養工處鳳山養護工程隊陳毓郡小姐回報，該處皆已修復完成；並於12/29 \r\n16：17電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 06:20:13",
-    "Close_Date_": "2016/12/29 下午 04:18:15"
   }
 ]
