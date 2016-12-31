@@ -1,14 +1,14 @@
 [
   {
     "FileNo_": "INS161231093",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2016/12/31 下午 02:42:36",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "大同一路228號附近沿線",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該址沿線路面有許多菸蒂、檳榔渣致環境髒亂，建請查處。",
     "AfterDesc_": "",
@@ -7107,20 +7107,20 @@
   },
   {
     "FileNo_": "INS161229037",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/29 上午 09:29:24",
     "ReplyUnit_": "B01000",
     "zipcode_": "833",
     "ZipName_": "鳥松區",
     "address_": "神農路890之1號對面",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 14:35 養工處鳳山養護工程隊陳毓郡小姐回報，該處無危險，惟因備\r\n料燈泡，無法立即修復，故改派非網A-TB-2016-120765 辦理；並於12/31 15：04電覆陳情人，故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 09:30:57",
-    "Close_Date_": ""
+    "Close_Date_": "2016/12/31 下午 03:07:58"
   },
   {
     "FileNo_": "INS161229036",
