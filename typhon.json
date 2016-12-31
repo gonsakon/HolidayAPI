@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS161231153",
+    "FileNo_": "INS161231154",
     "Status_": "1",
+    "Cre_Date_": "2016/12/31 下午 08:18:21",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "鳳仁路上過水管路口，往南",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "管道(工程通報)",
+    "BeforeDesc_": "渠反映該處汽車道上有路面施工，僅於工區周邊擺放三角錐，而未設置夜間警示燈，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS161231153",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 下午 08:15:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處地點店家有油煙空汙，建請查處。",
+    "BeforeDesc_": "渠反映該處地點店家有油煙空汙，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 下午 08:17:56",
     "Close_Date_": ""
   },
   {
@@ -35,19 +52,19 @@
   },
   {
     "FileNo_": "INS161231151",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2016/12/31 下午 08:13:30",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "民族一路153號(近建工路)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處稍早發生車禍遺留油漬於路面，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2016/12/31 下午 08:17:56",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 04:07:53",
     "Close_Date_": "2016/12/30 下午 07:39:46"
-  },
-  {
-    "FileNo_": "INS161228127",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 03:55:08",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "大中一路147巷4弄2號左前方(4弄口處)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "解除管制",
-    "InformDesc_": "人孔、溝蓋鬆動(一)",
-    "BeforeDesc_": "渠反映該處有一圓形污水孔蓋鬆動，致車輛行經會發出噪音，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/29 14：02水利局汙水營運科林卉霓小姐回報，該處已修復完成。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 04:00:17",
-    "Close_Date_": "2016/12/29 下午 05:29:06"
   }
 ]
