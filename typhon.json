@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101032",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 08:30:58",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "829",
+    "ZipName_": "湖內區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101031",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 08:21:26",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 08:08:16",
     "Close_Date_": "2016/12/30 下午 07:48:36"
-  },
-  {
-    "FileNo_": "INS161228191",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 08:02:26",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "復興路327巷128弄",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處空氣目前有瀰漫排泄物惡臭異味，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/28 21：34 環保局環境稽查科北區股潘政&#23791;先生回報，稽查人員於20：30到達，\r\n稽查當時於上址地點附近周界巡視未發現所述空污情事。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 08:04:27",
-    "Close_Date_": "2016/12/29 上午 08:00:33"
   }
 ]
