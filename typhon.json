@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170101056",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 10:05:12",
     "ReplyUnit_": "B02000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "中正四路112號前",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處污水管線阻塞已滿溢，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 10:06:43",
     "Close_Date_": ""
   },
   {
