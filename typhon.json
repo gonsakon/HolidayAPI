@@ -6,7 +6,7 @@
     "ReplyUnit_": "B01000",
     "zipcode_": "845",
     "ZipName_": "內門區",
-    "address_": "182縣道28.6公里處",
+    "address_": "182縣道28.6公里處(內門區與龍崎交界處)",
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "縣、鄉道破損",
@@ -31,6 +31,23 @@
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "2017/1/1 上午 09:29:30",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS170101044",
+    "Status_": "2",
+    "Cre_Date_": "2017/1/1 上午 09:25:01",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "中山東路268巷10號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "待確認",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有貓隻卡在陳情人車輛底盤，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/1/1 上午 09:31:09",
     "Close_Date_": ""
   },
   {
@@ -188,14 +205,14 @@
   },
   {
     "FileNo_": "INS170101034",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/1/1 上午 08:38:48",
     "ReplyUnit_": "A03000",
     "zipcode_": "825",
     "ZipName_": "橋頭區",
     "address_": "成功路46號前(肉圓店家前方)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 10:03:07",
     "Close_Date_": "2016/12/30 下午 12:29:02"
-  },
-  {
-    "FileNo_": "INS161228205",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 09:59:02",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "文龍東路上，熱帶園藝試驗所前",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該路段上有三小段道路施工，有設交通錐，但沒有警示燈或過暗，望請改善。",
-    "AfterDesc_": "【主管解除管制】12/28 22：04 鳳山養護工程隊劉緯婕小姐回報，經了解該處係為水利局污水工程施\r\n工，故轉派非網A-TB-2016-120036賡續辦理。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 10:00:32",
-    "Close_Date_": "2016/12/29 上午 07:57:59"
   }
 ]
