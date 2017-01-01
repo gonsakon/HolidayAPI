@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170101095",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 下午 03:06:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路435號之2",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請會同查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 下午 03:08:23",
     "Close_Date_": ""
   },
   {
@@ -1701,20 +1701,20 @@
   },
   {
     "FileNo_": "INS161231181",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 11:19:14",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "辛亥路與裕誠路(馬蹄鐵)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處駐唱歌手歌唱使用擴音器致噪音情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 01：13 環保局環境稽查科中區股李政鴻先生回報，稽查人員於00：50到達，稽\r\n查當時經查為該址舉辦活動使用擴音器所致，惟到達時活動已結束，於周界巡查未發現上述噪音情事；並於\r\n01/01 15：00電覆陳情人，故解除管制，惟陳情人反映六、日晚上時常有此問題，故另非網:A-TB-2017-109追蹤\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 11:21:42",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 下午 03:05:23"
   },
   {
     "FileNo_": "INS161231180",
