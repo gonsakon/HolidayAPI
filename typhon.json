@@ -35,20 +35,20 @@
   },
   {
     "FileNo_": "INS170102006",
-    "Status_": "3",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 02:11:57",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "覺民路上(正興國中)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有民眾燃放鞭炮致噪音，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】環保局劉政瑋先生於01/02 03:52 回報：稽查人員於02:38到場，稽查時於該址及周\r\n界巡查，未發現有燃放鞭炮致噪音情事。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 02:13:10",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 上午 03:52:04"
   },
   {
     "FileNo_": "INS170102005",
