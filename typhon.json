@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101049",
+    "Status_": "2",
+    "Cre_Date_": "2017/1/1 上午 09:37:08",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "德富街296號旁",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處工地施工機具致噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/1/1 上午 09:40:11",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101048",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 09:37:01",
@@ -18,36 +35,36 @@
   },
   {
     "FileNo_": "INS170101047",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 09:33:30",
     "ReplyUnit_": "B01000",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "182縣道29.3公里、30公里處",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該二處皆有許多路面坑洞，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 09:40:35",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS170101046",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 09:30:25",
     "ReplyUnit_": "B01000",
     "zipcode_": "845",
     "ZipName_": "內門區",
     "address_": "182縣道28.6公里處(內門區與龍崎交界處)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "縣、鄉道破損",
     "BeforeDesc_": "渠反映該處有通報過坑洞，惟修補處與路面有高低落差，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 09:40:29",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 11:43:31",
     "Close_Date_": "2016/12/30 下午 02:33:05"
-  },
-  {
-    "FileNo_": "INS161228208",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 11:01:29",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "南寮路光華巷(蔬菜供應中心對面產業道路內)",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處有一路燈(編號:南寮028)故障不亮，且另有一路燈線路斷裂掉落，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 15:23養工處岡山養護工程隊康友淇先生回報，該處皆已修復完成；本案不需回\r\n電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 11:02:37",
-    "Close_Date_": "2016/12/30 下午 07:50:42"
   }
 ]
