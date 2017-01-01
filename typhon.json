@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS170101035",
+    "FileNo_": "INS170101037",
     "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 08:49:54",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "842",
+    "ZipName_": "旗山區",
+    "address_": "旗甲一路上果菜市場旁",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉",
+    "BeforeDesc_": "渠反映該處有一犬隻遭撞受傷，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS170101035",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 08:45:39",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路726號至760號沿線",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該路段沿線有許多菸蒂及紙屑垃圾，造成髒亂不堪，建請清除。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 08:49:36",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 08:45:50",
     "Close_Date_": "2016/12/29 下午 04:28:05"
-  },
-  {
-    "FileNo_": "INS161228195",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 08:38:05",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "博愛一路與龍德路口",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌燈皆故障閃燈，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/28 21:16交通局智慧運輸中心黃泰郎先生回報，該處號誌已修復。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 08:38:31",
-    "Close_Date_": "2016/12/29 上午 07:58:44"
   }
 ]
