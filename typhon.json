@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170101073",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 下午 12:12:19",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "本洲路與育才路口(近台灣福興工業公司)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處有兩盞路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 下午 12:13:47",
     "Close_Date_": ""
   },
   {
@@ -2296,20 +2296,20 @@
   },
   {
     "FileNo_": "INS161231124",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 06:01:19",
     "ReplyUnit_": "A03000",
     "zipcode_": "826",
     "ZipName_": "梓官區",
     "address_": "港七街34號旁(瑞成海產)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該店家烹煮食物時油煙逸散致空污，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 20:58環保局公害專線北區股賈金梁先生回報，稽查人員於18:50到達，該店家設\r\n有三台靜電油煙處理設備，有正常運轉中，於周界巡查未發現空污情事；並於01/01 12：07電覆陳情人，陳情人\r\n表示此油煙問題為長期狀況，另錄非網:A-TB-2017-68追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 06:04:28",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 下午 12:11:10"
   },
   {
     "FileNo_": "INS161231123",
