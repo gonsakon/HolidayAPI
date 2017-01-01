@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS170101058",
+    "FileNo_": "INS170101059",
     "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 10:26:52",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "沿海三路36號對面(高雄往林園方向)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "渠反映該處號誌前20公尺處及過號誌口，共有兩處溝壁破損致鋼筋裸露，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS170101058",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 10:25:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "中山東路66巷67號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該址住戶目前有使用機具噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 10:27:17",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 07:01:00",
     "Close_Date_": "2016/12/30 上午 12:34:14"
-  },
-  {
-    "FileNo_": "INS161229007",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 上午 06:57:47",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "臨海二路上(鼓山國小)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該校於6:50即進行拆除作業,噪音擾民,請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/29 08:13環保局公害專線中區陳彥州先生回報，稽查人員於07:02到達，現場查察為\r\n鼓山國小拆除工程，因管制時間內施工，已違反噪音管制法第8條規定，依法開單告發，故改派非網\r\nA-TB-2016-120076賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 上午 06:59:07",
-    "Close_Date_": "2016/12/30 下午 07:52:20"
   }
 ]
