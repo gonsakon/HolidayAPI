@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102006",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 上午 02:11:57",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "覺民路上(正興國中)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處有民眾燃放鞭炮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102005",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 上午 01:57:57",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 05:57:45",
     "Close_Date_": "2016/12/31 下午 09:52:21"
-  },
-  {
-    "FileNo_": "INS161229122",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 下午 05:46:17",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "中正路387號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中間有一犬屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/29 18：18 鳥松區清潔隊 吳榮隆先生回報，該處已清除完畢；本案不需回電\r\n 故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 下午 05:48:55",
-    "Close_Date_": "2016/12/30 上午 12:53:11"
   }
 ]
