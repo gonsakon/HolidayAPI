@@ -120,19 +120,19 @@
   },
   {
     "FileNo_": "INS170101060",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 10:34:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "婦幼館籃球場",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "公園、綠地設施損毀(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-公園、綠地設施損毀(二)",
     "BeforeDesc_": "高雄市鳳山區婦幼館籃球場的籃網破損，請更換較堅固的籃網，避免使用沒多久就破掉，謝謝",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 11:47:01",
     "Close_Date_": ""
   },
   {
