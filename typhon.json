@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101080",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 下午 01:16:41",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "831",
+    "ZipName_": "大寮區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101079",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 下午 01:02:32",
@@ -494,14 +511,14 @@
   },
   {
     "FileNo_": "INS170101050",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/1/1 上午 09:42:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "緯六路上",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處有路跑活動，擴音器噪音擾民，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 09:00:11",
     "Close_Date_": "2016/12/30 上午 12:37:27"
-  },
-  {
-    "FileNo_": "INS161229029",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 上午 08:57:38",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "重信路與文川路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/29 12：23 交通局 智慧運輸中心 蔡淑君小姐回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 上午 08:59:39",
-    "Close_Date_": "2016/12/30 上午 12:36:06"
   }
 ]
