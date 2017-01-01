@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170101085",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 下午 01:46:04",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "環河街102號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
-    "InformDesc_": "人行道破損(一)",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-人行道設施損壞(二)",
     "BeforeDesc_": "渠反映該址前人行道磚有破損坑洞,請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 下午 01:47:17",
     "Close_Date_": ""
   },
   {
@@ -2007,20 +2007,20 @@
   },
   {
     "FileNo_": "INS161231153",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 08:15:47",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中山一路322號",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處地點店家有油煙空汙，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 13：43簡訊回覆:曹小姐您好，您12月31日所反映空污問題，本府環保局已派員\r\n前稽查，人員於20:50到達時現場有致電給您，惟手機無人接聽，人員稽查發現業者有裝設靜電機及油煙防制設\r\n備，未發現有油煙空污情事，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 08:17:56",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/1 下午 01:43:38"
   },
   {
     "FileNo_": "INS161231152",
