@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101079",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 下午 01:02:32",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "815",
+    "ZipName_": "大社區",
+    "address_": "觀音山風景區前；三角公園",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處路口號誌故障閃爍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101078",
     "Status_": "1",
     "Cre_Date_": "2017/1/1 下午 01:00:29",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 上午 08:59:39",
     "Close_Date_": "2016/12/30 上午 12:36:06"
-  },
-  {
-    "FileNo_": "INS161229028",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 上午 08:57:33",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "大中二路與華夏路",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處路口號誌故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/29 12：23 交通局 智慧運輸中心 蔡淑君小姐回報，該處號誌已修復；\r\n 本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 上午 09:01:57",
-    "Close_Date_": "2016/12/30 上午 12:36:52"
   }
 ]
