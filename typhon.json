@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170101050",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/1 上午 09:42:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "緯六路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170101049",
     "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 09:37:08",
@@ -154,19 +171,19 @@
   },
   {
     "FileNo_": "INS170101040",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/1 上午 09:00:45",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "六合二路與新盛一街口，郵局隔壁私人新建工地",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該工地目前施工機具聲音過大，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/1 上午 09:45:40",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/28 下午 11:43:30",
     "Close_Date_": "2016/12/29 上午 07:57:45"
-  },
-  {
-    "FileNo_": "INS161228209",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/28 下午 11:41:49",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "路科中山高聯絡道下方道路，往東方向，近民族路",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處機車道整排路燈不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 14:04 養工處岡山養護工程隊林欣怡小姐回報，該處已修復完成；並於12/30 \r\n14：31電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/28 下午 11:43:31",
-    "Close_Date_": "2016/12/30 下午 02:33:05"
   }
 ]
