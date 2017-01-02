@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102088",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 03:47:47",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建工路904巷35弄13號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈白天未熄(一)",
+    "BeforeDesc_": "渠反映該址前一盞路燈白天未熄，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102087",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 03:44:05",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 10:07:57",
     "Close_Date_": "2016/12/31 下午 11:20:48"
-  },
-  {
-    "FileNo_": "INS161230035",
-    "Status_": "2",
-    "Cre_Date_": "2016/12/30 上午 10:02:29",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "馬卡道路上與青海路口",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "電線掉落",
-    "BeforeDesc_": "渠反映該處進行台電管線工程，由一功營造施作，惟現場未設施工告示牌，且交通錐未加設警示燈，致視線不明其女兒12/29晚因此撞車受傷並車損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 10:13:51",
-    "Close_Date_": ""
   }
 ]
