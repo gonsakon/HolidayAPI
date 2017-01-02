@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102112",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 05:58:05",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "草衙一路34號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該址一盞路燈故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102110",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 05:52:37",
@@ -562,14 +579,14 @@
   },
   {
     "FileNo_": "INS170102078",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/1/2 下午 02:40:14",
     "ReplyUnit_": "B02000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "漁港南一路19之1號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "人孔蓋凹陷坑洞(一)",
     "BeforeDesc_": "渠反映該址有排水孔塌陷情事，建請查處。",
     "AfterDesc_": "",
@@ -2942,20 +2959,20 @@
   },
   {
     "FileNo_": "INS170101104",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 04:48:02",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "辛亥路177號(後方)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處污水管阻塞不通，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 15:16水利局汙水營運科許江永先生回報，已修復完成；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 04:50:42",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 05:58:31"
   },
   {
     "FileNo_": "INS170101103",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 11:57:19",
     "Close_Date_": "2016/12/31 下午 11:42:31"
-  },
-  {
-    "FileNo_": "INS161230059",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/30 上午 11:50:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "805",
-    "ZipName_": "旗津區",
-    "address_": "中洲二路299號",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處水溝壁破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 11:57:22",
-    "Close_Date_": ""
   }
 ]
