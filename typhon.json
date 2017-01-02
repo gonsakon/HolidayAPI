@@ -1,19 +1,36 @@
 [
   {
-    "FileNo_": "INS170102029",
+    "FileNo_": "INS170102030",
     "Status_": "1",
+    "Cre_Date_": "2017/1/2 上午 09:24:14",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "大昌二路21號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處建商施工電鑽噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
+    "FileNo_": "INS170102029",
+    "Status_": "2",
     "Cre_Date_": "2017/1/2 上午 09:16:03",
     "ReplyUnit_": "A01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "六合路115號",
     "UnitName_": "工務局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人孔蓋鬆動",
     "BeforeDesc_": "渠反映該址前有一寬頻孔蓋鬆動，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 上午 09:24:09",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 08:31:41",
     "Close_Date_": "2016/12/30 上午 11:06:12"
-  },
-  {
-    "FileNo_": "INS161229145",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 下午 08:20:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "東門路與東門路25巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映該處路燈自備纜線垂落、高度過低，恐致車輛行駛危險，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 20:31養工處四維養護工程隊值班人員陳錦茸小姐回報，該處已修復；本案不需\r\n回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 下午 08:22:16",
-    "Close_Date_": "2016/12/31 下午 09:15:25"
   }
 ]
