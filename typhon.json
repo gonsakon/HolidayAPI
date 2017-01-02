@@ -1123,20 +1123,20 @@
   },
   {
     "FileNo_": "INS170102066",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 下午 01:00:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "軍校路與世運大道 (國軍醫院前方)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌秒差調整",
     "BeforeDesc_": "渠反映該址號誌不連鎖，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 14：11智慧運輸中心蔡淑君小姐回報，該處號誌已修復完畢；本案不需回電故解\r\n除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 下午 01:01:14",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 07:28:35"
   },
   {
     "FileNo_": "INS170102065",
