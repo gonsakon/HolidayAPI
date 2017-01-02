@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102164",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 10:37:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "康和路139 巷口",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該卡拉OK擴音器聲響噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102163",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 10:32:09",
@@ -103,19 +120,19 @@
   },
   {
     "FileNo_": "INS170102157",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 10:10:29",
     "ReplyUnit_": "A03000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "高雄市左營區左營大路657巷進入後約十公尺",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "垃圾清運",
     "BeforeDesc_": "高雄市左營區左營大路657巷進入後約十公尺有不明廢棄氣體鋼瓶",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 下午 10:38:11",
     "Close_Date_": ""
   },
   {
@@ -392,14 +409,14 @@
   },
   {
     "FileNo_": "INS170102140",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/1/2 下午 07:57:31",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "清水岩路上(廣濟宮)往營區方向",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處瀰漫燃燒塑膠致惡臭空汙情事，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 04:16:24",
     "Close_Date_": "2016/12/31 下午 11:34:13"
-  },
-  {
-    "FileNo_": "INS161230111",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/30 下午 04:10:15",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "宏平路與廠西路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該路口水溝周邊路面破損，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 04:11:24",
-    "Close_Date_": ""
   }
 ]
