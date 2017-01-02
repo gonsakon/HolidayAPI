@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102085",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 03:33:50",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "博愛四路310號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該處附近有舉辦不明活動使用擴音器致噪音，建請查處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102084",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 03:22:12",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 10:05:50",
     "Close_Date_": "2016/12/31 下午 11:21:13"
-  },
-  {
-    "FileNo_": "INS161230032",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 上午 09:57:40",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "建工路304號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前遭棄置兩包垃圾，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 10:20 三民東區清潔隊曾愛玲小姐回報，已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 09:58:58",
-    "Close_Date_": "2016/12/31 下午 11:21:22"
   }
 ]
