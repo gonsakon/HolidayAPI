@@ -4064,20 +4064,20 @@
   },
   {
     "FileNo_": "INS161231167",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2016/12/31 下午 09:25:41",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "建興路22巷",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址2盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於12/31 23:10養工處四維養護工程隊值班人員陳錦茸小姐回報，該處路燈皆已修復；並\r\n於01/02 11：47電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 09:26:52",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 上午 11:47:41"
   },
   {
     "FileNo_": "INS161231166",
