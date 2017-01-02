@@ -1701,20 +1701,20 @@
   },
   {
     "FileNo_": "INS170101143",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 08:38:09",
     "ReplyUnit_": "A04000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "中華橫路與中和街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈有故障閃燈情事，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 22:27 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復；並於01/02 14：\r\n22電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 08:40:26",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:24:15"
   },
   {
     "FileNo_": "INS170101142",
