@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102049",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 上午 11:03:09",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "公正路 崗山中街",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處號誌燈下有多包垃圾包，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102048",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 上午 10:59:50",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/29 下午 10:44:31",
     "Close_Date_": "2016/12/31 下午 09:32:25"
-  },
-  {
-    "FileNo_": "INS161229164",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/29 下午 10:38:59",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "820",
-    "ZipName_": "岡山區",
-    "address_": "岡山路與河華路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路面有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 12/29 23:40 溝渠清潔隊 李文山先生回報，已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/29 下午 10:41:32",
-    "Close_Date_": "2016/12/30 上午 12:03:57"
   }
 ]
