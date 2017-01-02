@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102156",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 09:38:32",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "祿興里中正路二段59巷沿線",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102155",
     "Status_": "1",
     "Cre_Date_": "2017/1/2 下午 09:35:24",
@@ -6427,14 +6444,14 @@
   },
   {
     "FileNo_": "INS161231129",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2016/12/31 下午 06:22:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "明誠二路482號、498號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處地點各一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 03:37:43",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161230103",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 03:30:35",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "825",
-    "ZipName_": "橋頭區",
-    "address_": "五林里橋",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該橋上景觀燈自風災後有一半皆故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於01/02 09:06 岡山養護工程隊李超尉先生回報，該處無危險性，惟因備料安定器，無法\r\n立即修復，故改派非網A-TB-2017-227賡續辦理；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 03:36:51",
-    "Close_Date_": "2017/1/2 下午 02:23:17"
   }
 ]
