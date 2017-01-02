@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102080",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 02:58:27",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "昌盛路2號、4號、6號",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "人孔蓋凹陷坑洞(一)",
+    "BeforeDesc_": "渠反映該三址前有1高汙水孔蓋周邊柏油破損，因此車輛輾壓過破損處時皆會產生聲響，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102079",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 02:50:43",
@@ -1276,20 +1293,20 @@
   },
   {
     "FileNo_": "INS170102003",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 12:48:08",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "義昌路53號旁",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該店家卡拉OK音量過大，噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於環保局劉政瑋先生於01/02 03:52 回報：稽查人員於01:49到場，稽查時該店\r\n家正常營業中，人員於現場量測均能音量為49.8分貝，未逾管制標準52分貝，但仍有勸導業者注意防\r\n範；並於01/02 14：43電覆陳情人，故解除管制；惟陳情人反映該處長期卡拉OK噪音問題，故另成非\r\n網A-TB-2017-301追蹤管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 12:50:21",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:57:45"
   },
   {
     "FileNo_": "INS170102002",
@@ -1514,20 +1531,20 @@
   },
   {
     "FileNo_": "INS170101156",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 10:03:51",
     "ReplyUnit_": "B02000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "林森二路97巷48號(正門口)",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該處汙水管線阻塞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 09:03 水利局污水營運科許江永先生回報，該處已修復；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 10:05:05",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:54:47"
   },
   {
     "FileNo_": "INS170101155",
@@ -2517,54 +2534,54 @@
   },
   {
     "FileNo_": "INS170101097",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 04:19:56",
     "ReplyUnit_": "A04000",
     "zipcode_": "821",
     "ZipName_": "路竹區",
     "address_": "大社路與智仁街",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌故障不亮，陳情人表示有看見人員修繕，然運作不久又故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 22:27 交通局智慧運輸中心張寬如小姐回報，該處號誌已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 04:21:50",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:54:59"
   },
   {
     "FileNo_": "INS170101096",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 04:19:46",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "鼎中路685巷43號前",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "路面油漬",
     "BeforeDesc_": "渠反映該處車禍油漬，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 16:56 三民東區清潔隊翁舜華小姐回報，該處油漬已清除完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 04:22:24",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:55:07"
   },
   {
     "FileNo_": "INS170101095",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 03:06:28",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "成功一路435號之2",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一貓屍，建請會同查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於1/1 15:41前金區清潔隊夏金益先生回報，已會同清除完畢；本案不需回電故解除管\r\n制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 03:08:23",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:55:14"
   },
   {
     "FileNo_": "INS170101094",
@@ -2602,20 +2619,20 @@
   },
   {
     "FileNo_": "INS170101092",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 02:50:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "泰山里青山街27巷35號前公園",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "公園髒亂、佔用(一)",
     "BeforeDesc_": "取反映該處有一土堆埋有狗屍，現用紙箱覆蓋，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於1/1 16:37養工處四維養護工程隊顏小晶小姐回報，該處已清除；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 02:52:13",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 02:55:27"
   },
   {
     "FileNo_": "INS170101091",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 09:48:26",
     "Close_Date_": "2016/12/31 下午 11:21:04"
-  },
-  {
-    "FileNo_": "INS161230027",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 上午 09:46:39",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "833",
-    "ZipName_": "鳥松區",
-    "address_": "大華路203號",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "縣、鄉道破損",
-    "BeforeDesc_": "渠反映該址前有一路面凹陷，建請查修。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 10：26 養工處鳳山養護工程隊陳毓郡小姐回報，該處經查係欣雄瓦斯挖管回填\r\n不實導致路面凹陷，故轉非網:A-TB-2016-120413；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 09:47:29",
-    "Close_Date_": "2016/12/31 下午 11:22:42"
   }
 ]
