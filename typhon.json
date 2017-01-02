@@ -1276,20 +1276,20 @@
   },
   {
     "FileNo_": "INS170102052",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 11:25:41",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "中山二路與三多三路口(大遠百前)",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌燈故障不亮，建請查修。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 12:15交通局智慧運輸中心蔡淑君小姐回報，該處號誌已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 11:26:25",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 07:09:49"
   },
   {
     "FileNo_": "INS170102051",
@@ -1327,20 +1327,20 @@
   },
   {
     "FileNo_": "INS170102049",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 11:03:09",
     "ReplyUnit_": "A03000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "公正路與崗山中街",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處號誌燈下有多包垃圾包，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 13：53前鎮區清潔隊張頌華先生回報，該處皆已清理完成；本案不需回電故解除\r\n管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 11:05:42",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 07:09:20"
   },
   {
     "FileNo_": "INS170102048",
@@ -1378,20 +1378,20 @@
   },
   {
     "FileNo_": "INS170102046",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 10:46:00",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與金府路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處號誌閃黃燈故障，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 12:15交通局智慧運輸中心蔡淑君小姐回報，該處號誌已修復；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 10:47:06",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 07:08:49"
   },
   {
     "FileNo_": "INS170102045",
