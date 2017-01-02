@@ -1259,20 +1259,20 @@
   },
   {
     "FileNo_": "INS170102053",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 11:26:04",
     "ReplyUnit_": "E01001",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "左營物產館後門旁小公園",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映該母狗遭追咬受傷，其望帶回醫治一併結紮，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 12：14農業局動物保護處鄧國光先生回報，陪同陳情人到場，母狗已跑走；本案\r\n不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 11:28:01",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 07:10:44"
   },
   {
     "FileNo_": "INS170102052",
