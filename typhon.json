@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170102125",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 06:43:23",
     "ReplyUnit_": "A03000",
     "zipcode_": "800",
     "ZipName_": "新興區",
     "address_": "南華橫一路47號(眾悅洗車場)",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該業者以高壓機具洗車作業噪音，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 下午 06:46:47",
     "Close_Date_": ""
   },
   {
@@ -1650,20 +1650,20 @@
   },
   {
     "FileNo_": "INS170102028",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 09:13:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "忠孝街54之1號前(194號燈桿對面的路燈)",
     "UnitName_": "養工處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該址前路燈電線發出電流短路聲且故障不亮，請先致電確認燈桿位置，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 12:21養工處岡山養護工程隊李超尉先生回報，已與陳情人確認位置，該處無危\r\n險性且無路燈，為台電電箱發出聲音，故改派派工INS170102059賡續辦理；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 09:15:41",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 06:46:18"
   },
   {
     "FileNo_": "INS170102027",
