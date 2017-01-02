@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102140",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 07:57:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "832",
+    "ZipName_": "林園區",
+    "address_": "清水岩路上(廣濟宮)往營區方向",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102139",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 07:54:12",
@@ -1191,14 +1208,14 @@
   },
   {
     "FileNo_": "INS170102068",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/1/2 下午 01:34:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與金府路口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處雙向號誌故障閃燈，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 03:01:30",
     "Close_Date_": "2016/12/30 下午 05:56:59"
-  },
-  {
-    "FileNo_": "INS161230087",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 02:56:03",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "文川路148號旁(停車場前)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "渠反映該處有一藍色舊衣回收箱疑似未合法設置，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 16:00 左營區清潔隊高國欽先生回報，該處為不合法舊衣回收箱，現場無影響交\r\n通，需另派車前往處理，故改派非網A-TB-2016-120556賡續辦理；並於12/30 17：54電覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 03:01:23",
-    "Close_Date_": "2016/12/30 下午 05:59:04"
   }
 ]
