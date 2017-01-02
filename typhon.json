@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102106",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 05:34:53",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "803",
+    "ZipName_": "鹽埕區",
+    "address_": "",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "0926815622中山一路322號",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102105",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 05:21:13",
@@ -86,14 +103,14 @@
   },
   {
     "FileNo_": "INS170102100",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/1/2 下午 04:48:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "深水路4巷65號(靜和醫院旁邊巷子灣進入香蕉園)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映農民用雞糞當肥料，導致惡臭，建請查處。",
     "AfterDesc_": "",
@@ -2942,20 +2959,20 @@
   },
   {
     "FileNo_": "INS170101098",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/1 下午 04:24:00",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "文化西路48號附近(天台山靈宇寺)",
     "UnitName_": "環保局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處寺廟使用擴音器致噪音擾民，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/01 20：01 環保局環境稽查科中區股陳彥州先生回報，稽查人員於19:30到達，人員\r\n於上述地點周界巡視，未發現廟宇有使用擴音設備產生噪音之情事；本案不需回電故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/1 下午 04:25:06",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 05:30:22"
   },
   {
     "FileNo_": "INS170101097",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 11:28:20",
     "Close_Date_": "2017/1/2 上午 11:13:04"
-  },
-  {
-    "FileNo_": "INS161230053",
-    "Status_": "3",
-    "Cre_Date_": "2016/12/30 上午 11:23:40",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "興隆街42號後方公園",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-公園、綠地設施損毀(二)",
-    "BeforeDesc_": "渠反映該公園一盞園燈基座裸露，且公園內桌椅損壞，要求人員先行會同了解現場，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 11:24:42",
-    "Close_Date_": ""
   }
 ]
