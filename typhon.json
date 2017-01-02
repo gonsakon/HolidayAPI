@@ -154,19 +154,19 @@
   },
   {
     "FileNo_": "INS170102137",
-    "Status_": "1",
+    "Status_": "3",
     "Cre_Date_": "2017/1/2 下午 07:41:38",
     "ReplyUnit_": "A03000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "高雄市林園區力行路154號",
     "UnitName_": "環保局",
-    "StatusName_": "建立中",
+    "StatusName_": "待處理",
     "InformDesc_": "垃圾清運",
-    "BeforeDesc_": "因颱風吹垮屋頂，自行整理出來的垃圾。\n碎石1袋，木材9袋，石棉瓦15袋。\n暫放於 力行路156號後方停車棚下。",
+    "BeforeDesc_": "因颱風吹垮屋頂，自行整理出來的垃圾。碎石1袋，木材9袋，石棉瓦15袋。暫放於 力行路156號後方停車棚下。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 下午 08:35:25",
     "Close_Date_": ""
   },
   {
