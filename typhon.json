@@ -1,19 +1,19 @@
 [
   {
     "FileNo_": "INS170102105",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 05:21:13",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "和平一路與林德街口(近多那之一側)",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映改處有一盞行人號誌燈，持續呈現小綠人與讀秒故障未顯示，建請查處。",
+    "BeforeDesc_": "渠反映該處有一盞行人號誌燈，持續呈現小綠人與讀秒故障未顯示，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 下午 05:23:06",
     "Close_Date_": ""
   },
   {
