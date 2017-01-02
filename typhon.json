@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102105",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 05:21:13",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "和平一路與林德街口(近多那之一側)",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映改處有一盞行人號誌燈，持續呈現小綠人與讀秒故障未顯示，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102104",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 05:11:25",
@@ -69,14 +86,14 @@
   },
   {
     "FileNo_": "INS170102100",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/1/2 下午 04:48:40",
     "ReplyUnit_": "A03000",
     "zipcode_": "824",
     "ZipName_": "燕巢區",
     "address_": "深水路4巷65號(靜和醫院旁邊巷子灣進入香蕉園)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映農民用雞糞當肥料，導致惡臭，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 上午 11:24:42",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161230052",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 上午 11:22:45",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "831",
-    "ZipName_": "大寮區",
-    "address_": "田單七街8號",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該工廠作業中傳出不明惡臭，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 14：24 環保局稽查科南區股陳巍方先生回報，稽查人員於11：25到達，於該址\r\n周界巡查，稽查當時未發現，工廠作業產生明顯不明惡臭致空污情事，使用PID及四用氣體偵測器檢測值0PPM；\r\n本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 上午 11:23:51",
-    "Close_Date_": "2016/12/31 下午 11:39:07"
   }
 ]
