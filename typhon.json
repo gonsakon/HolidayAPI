@@ -1259,20 +1259,20 @@
   },
   {
     "FileNo_": "INS170102068",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 下午 01:34:04",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "漢民路與金府路口",
     "UnitName_": "交通局",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處雙向號誌故障閃燈，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 19：54智慧運輸中心張寬如小姐回報，該處號誌均已修復完畢；本案不需回電故\r\n解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 下午 01:36:45",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 08:10:21"
   },
   {
     "FileNo_": "INS170102069",
