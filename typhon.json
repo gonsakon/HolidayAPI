@@ -902,20 +902,20 @@
   },
   {
     "FileNo_": "INS170102048",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/2 上午 10:59:50",
     "ReplyUnit_": "B02000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "新上街267號",
     "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "污水管阻塞(一)",
     "BeforeDesc_": "渠反映該址屋後污水管阻塞，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/02 14:37 水利局污水營運科許江永先生回報，該處已修復完成；並於\r\n01/02 16：52電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/2 上午 11:01:21",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/2 下午 04:58:20"
   },
   {
     "FileNo_": "INS170102047",
