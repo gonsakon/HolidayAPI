@@ -18,19 +18,19 @@
   },
   {
     "FileNo_": "INS170102059",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 12:26:34",
     "ReplyUnit_": "E01005",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "忠孝街54之1號前(194號燈桿對面的路燈)",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "變壓器有聲音",
     "BeforeDesc_": "渠反映該址前路燈電線發出電流短路聲且故障不亮，請先致電確認燈桿位置，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/2 下午 12:32:49",
     "Close_Date_": ""
   },
   {
