@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170102123",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/2 下午 06:36:36",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街150巷29弄4號4樓",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該住戶外牆整修作業機具噪音，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170102122",
     "Status_": "2",
     "Cre_Date_": "2017/1/2 下午 06:34:33",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 01:13:52",
     "Close_Date_": "2017/1/2 下午 02:36:12"
-  },
-  {
-    "FileNo_": "INS161230070",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 12:56:51",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "過勇路236巷",
-    "UnitName_": "交通局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該址號誌燈故障不亮，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/30 13：44 智慧運輸中心蔡淑君小姐回報，該處已修復完畢；本案不需回電故解除\r\n管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 12:57:54",
-    "Close_Date_": "2016/12/31 下午 11:27:46"
   }
 ]
