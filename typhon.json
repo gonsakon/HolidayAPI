@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103060",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 上午 10:32:17",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓山一路161巷口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該路口號誌故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103059",
     "Status_": "1",
     "Cre_Date_": "2017/1/3 上午 10:31:19",
@@ -10,7 +27,7 @@
     "UnitName_": "養工處",
     "StatusName_": "建立中",
     "InformDesc_": "路面下陷(一)",
-    "BeforeDesc_": "渠反映該址旁因溝壁下陷導致路面坑洞，建請查處並電覆陳情人。",
+    "BeforeDesc_": "渠反映該址下陷導致路面坑洞，建請查處並電覆陳情人。",
     "AfterDesc_": "",
     "Memo_": "",
     "Save_Date_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 08:42:20",
     "Close_Date_": "2016/12/30 下午 08:43:41"
-  },
-  {
-    "FileNo_": "INS161230172",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 08:27:39",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "80241高雄市苓雅區三多三路214-15號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "多量機車人行道上違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/30 20:40代通報至110勤務指揮中心陳警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 08:42:13",
-    "Close_Date_": "2016/12/30 下午 08:43:49"
   }
 ]
