@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103235",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 下午 10:12:43",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和義街62號附近",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有瀰漫燃燒東西的惡臭異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103233",
     "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 10:08:11",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 08:15:59",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161231149",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/31 下午 07:54:29",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "和祥街與實業路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口有一台垃圾車經過時，廚餘打翻，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 21:31前鎮區清潔隊莊素雲小姐回報，該處已清除完畢；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/31 下午 07:56:10",
-    "Close_Date_": "2017/1/1 上午 03:26:19"
   }
 ]
