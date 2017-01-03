@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103168",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 下午 05:23:31",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "中山四路地下道(過漁港路；往南方向)",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處中間車道上有一遭壓扁的貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103167",
     "Status_": "1",
     "Cre_Date_": "2017/1/3 下午 05:21:19",
@@ -35,36 +52,36 @@
   },
   {
     "FileNo_": "INS170103165",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 05:12:19",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "807台灣高雄市三民區義華路171號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 下午 05:23:16",
     "Close_Date_": ""
   },
   {
     "FileNo_": "INS170103164",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 05:10:24",
     "ReplyUnit_": "A02000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "807台灣高雄市三民區義華路177號",
     "UnitName_": "警察局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "違規停車",
     "BeforeDesc_": "紅線停車",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 下午 05:23:42",
     "Close_Date_": ""
   },
   {
@@ -647,20 +664,20 @@
   },
   {
     "FileNo_": "INS170103128",
-    "Status_": "4",
+    "Status_": "5",
     "Cre_Date_": "2017/1/3 下午 02:30:26",
     "ReplyUnit_": "E01001",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中山四路與金福路口(往南方向，100公尺)",
     "UnitName_": "動物保護處",
-    "StatusName_": "處理完成",
+    "StatusName_": "解除管制",
     "InformDesc_": "攻擊性流浪犬捕捉",
     "BeforeDesc_": "渠反映快車道分隔道上有一受傷貓隻，眼睛失明且瘦弱，建請查處。",
-    "AfterDesc_": "",
+    "AfterDesc_": "【主管解除管制】本案於01/03 16:44 農業局動物保護處捕犬大隊陳三元先生回報，人員到現場未看見貓隻，與\r\n陳情人聯繫，其表示無法到現場，故結案；並於01/03 17：21電覆陳情人，故解除管制。",
     "Memo_": "",
     "Save_Date_": "2017/1/3 下午 02:33:16",
-    "Close_Date_": ""
+    "Close_Date_": "2017/1/3 下午 05:22:26"
   },
   {
     "FileNo_": "INS170103127",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 02:22:42",
     "Close_Date_": "2017/1/1 上午 11:46:15"
-  },
-  {
-    "FileNo_": "INS161231083",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/31 下午 02:10:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "822",
-    "ZipName_": "阿蓮區",
-    "address_": "忠孝路與信義路口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口有一貓屍，建請清除。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 15：17 阿蓮區清潔隊蘇美玲小姐回報，該處已清除完畢；並於01/01 16：42電\r\n覆陳情人，故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/31 下午 02:13:25",
-    "Close_Date_": "2017/1/1 下午 04:43:43"
   }
 ]
