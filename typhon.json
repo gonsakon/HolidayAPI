@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103223",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 下午 08:22:35",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "河堤路，河堤公園北橋至天祥二路",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處愛河支流有被頭排油汙，以致有有機溶劑異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103222",
     "Status_": "1",
     "Cre_Date_": "2017/1/3 下午 08:21:31",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS170103221",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 08:21:13",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "河華路1至10號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段約12盞路燈時亮時滅，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 下午 08:21:57",
     "Close_Date_": ""
   },
   {
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 07:15:38",
     "Close_Date_": "2017/1/1 下午 05:10:30"
-  },
-  {
-    "FileNo_": "INS161231138",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/31 下午 07:04:10",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "學專路與後勁北路",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該路口轉角處有貓屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 19：43楠梓區清潔隊賴盈旭先生回報，該處已清除完畢；本案不需回電故解除管\r\n制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/31 下午 07:06:11",
-    "Close_Date_": "2017/1/1 上午 03:23:52"
   }
 ]
