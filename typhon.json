@@ -35,19 +35,19 @@
   },
   {
     "FileNo_": "INS170103096",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 12:39:36",
     "ReplyUnit_": "E01005",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "光華一路與林德街",
     "UnitName_": "台電公司",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "電線掉落",
     "BeforeDesc_": "渠反映該址有一台電電桿地基掏空，有危險情事，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 下午 12:47:16",
     "Close_Date_": ""
   },
   {
