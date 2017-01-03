@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103225",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 下午 08:29:58",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "建興路22巷",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103224",
     "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 08:27:16",
@@ -766,14 +783,14 @@
   },
   {
     "FileNo_": "INS170103179",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/1/3 下午 06:07:10",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "南寮路山下巷37之8號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈(編號:233)故障不亮，建請查修。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/31 下午 07:14:49",
     "Close_Date_": ""
-  },
-  {
-    "FileNo_": "INS161231140",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/31 下午 07:10:54",
-    "ReplyUnit_": "E01001",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "文橫二路143巷2號(BONNIE SUGAR)",
-    "UnitName_": "動物保護處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "攻擊性流浪犬捕捉",
-    "BeforeDesc_": "渠反映該址店家闖入一隻流浪貓，驅趕不離且具攻擊性，已有民眾遭抓傷，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 19:56農業局動物保護處捕犬大隊陳三元先生回報，該址為陳情人店家有做聯繫，貓\r\n已捕捉帶回；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/31 下午 07:13:07",
-    "Close_Date_": "2017/1/1 上午 03:24:29"
   }
 ]
