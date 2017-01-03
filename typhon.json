@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103027",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 上午 08:40:18",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "自立一路248號",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "該址前",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103026",
     "Status_": "2",
     "Cre_Date_": "2017/1/3 上午 08:36:16",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 07:04:34",
     "Close_Date_": "2016/12/30 下午 07:06:34"
-  },
-  {
-    "FileNo_": "INS161230139",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 05:58:01",
-    "ReplyUnit_": "A02000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "806高雄市前鎮區文橫三路45號",
-    "UnitName_": "警察局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "違規停車",
-    "BeforeDesc_": "汽機車紅線違規停車",
-    "AfterDesc_": "【主管解除管制】本案已於12/30 19:01代通報至110勤務指揮中心蕭警員成功；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 07:04:54",
-    "Close_Date_": "2016/12/30 下午 07:06:14"
   }
 ]
