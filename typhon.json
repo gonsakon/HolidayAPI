@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103073",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 上午 11:12:18",
+    "ReplyUnit_": "A01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "中正一路(中正技擊館游泳池大門前)",
+    "UnitName_": "工務局",
+    "StatusName_": "建立中",
+    "InformDesc_": "人手孔凹陷",
+    "BeforeDesc_": "渠反映該處機車道上，有一方形人孔蓋破損跳動，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103072",
     "Status_": "1",
     "Cre_Date_": "2017/1/3 上午 11:10:15",
@@ -18,19 +35,19 @@
   },
   {
     "FileNo_": "INS170103071",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 上午 11:09:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "847",
     "ZipName_": "甲仙區",
     "address_": "油礦巷沿線(龍鳳寺附近)",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映該處附近有大範圍路燈白天未熄，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 上午 11:12:08",
     "Close_Date_": ""
   },
   {
@@ -783,14 +800,14 @@
   },
   {
     "FileNo_": "INS170103026",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/1/3 上午 08:36:16",
     "ReplyUnit_": "A04000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "鳳東路與鳳東路349巷口",
     "UnitName_": "交通局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該路口號誌皆閃黃燈，建請查處。",
     "AfterDesc_": "",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/30 下午 10:21:08",
     "Close_Date_": "2016/12/31 上午 08:00:54"
-  },
-  {
-    "FileNo_": "INS161230185",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/30 下午 10:08:58",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "復興街與立志街口",
-    "UnitName_": "養工處",
-    "StatusName_": "解除管制",
-    "InformDesc_": "管道(工程通報)",
-    "BeforeDesc_": "渠反映該處街口因進行路面刨除工程，惟現場未設置完善警示燈及交維，造成民眾車輛毀損，建請改善。",
-    "AfterDesc_": "【主管解除管制】本案於12/31 08：37 養工處鳳山養護工程隊陳毓郡小姐回報，該處係新建工程處鳳山區五權\r\n南路(立志街至光華路)道路開闢工程回報，現場工程仍在施作且有設置警示燈及交維，惟後續需由新建工程處處\r\n理，故轉派非網：A-TB-2016-120679；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/30 下午 10:12:09",
-    "Close_Date_": "2016/12/31 下午 10:28:21"
   }
 ]
