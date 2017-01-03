@@ -69,19 +69,19 @@
   },
   {
     "FileNo_": "INS170103145",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 03:56:01",
     "ReplyUnit_": "A04000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "金府路與漢民路交叉路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "金府路與漢民路交叉路口號誌已經從1/2故障至今日，該路口為附近臨近中小學上下學必經過路口，請立刻派人維修",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/1/3 下午 04:07:58",
     "Close_Date_": ""
   },
   {
