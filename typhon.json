@@ -1,5 +1,22 @@
 [
   {
+    "FileNo_": "INS170103095",
+    "Status_": "1",
+    "Cre_Date_": "2017/1/3 下午 12:37:23",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "藍昌路70號，右昌圖書館後方",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "垃圾清運",
+    "BeforeDesc_": "渠反映該處遭棄置4張椅子，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": ""
+  },
+  {
     "FileNo_": "INS170103094",
     "Status_": "2",
     "Cre_Date_": "2017/1/3 下午 12:28:32",
@@ -10181,22 +10198,5 @@
     "Memo_": "",
     "Save_Date_": "2016/12/31 上午 07:04:52",
     "Close_Date_": "2016/12/31 下午 04:49:44"
-  },
-  {
-    "FileNo_": "INS161231011",
-    "Status_": "5",
-    "Cre_Date_": "2016/12/31 上午 06:32:41",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "建國路三段與文昌街口",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處目前有一狗屍，建請查處。",
-    "AfterDesc_": "【主管解除管制】12/31 07：01 鳳山區清潔隊強國良先生回報，人員至該處路口來回找尋皆未發現有\r\n狗屍。",
-    "Memo_": "",
-    "Save_Date_": "2016/12/31 上午 06:34:22",
-    "Close_Date_": "2016/12/31 上午 07:57:26"
   }
 ]
