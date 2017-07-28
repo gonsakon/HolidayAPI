@@ -15,8 +15,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 08:57:50",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6288549602",
+    "Lng_": "120.284257666"
   },
   {
     "FileNo_": "INS170728174",
@@ -34,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 08:57:13",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6740318888",
+    "Lng_": "120.324866929"
   },
   {
     "FileNo_": "INS170728173",
@@ -53,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 08:57:08",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6516297168",
+    "Lng_": "120.31869661"
   },
   {
     "FileNo_": "INS170728172",
@@ -72,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 08:57:02",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6502365033",
+    "Lng_": "120.320846713"
   },
   {
     "FileNo_": "INS170728171",
@@ -91,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 08:50:14",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6288555993",
+    "Lng_": "120.381469407"
   },
   {
     "FileNo_": "INS170728170",
@@ -324,14 +324,14 @@
   },
   {
     "FileNo_": "INS170728158",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 07:25:01",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "旗楠路160號對面(楠梓運動場游泳池對面)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -362,14 +362,14 @@
   },
   {
     "FileNo_": "INS170728156",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 07:23:56",
     "ReplyUnit_": "B01000",
     "zipcode_": "811",
     "ZipName_": "楠梓區",
     "address_": "楠梓路383巷20號旁邊",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處有一盞LED路燈(編號:東寧121)故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -400,14 +400,14 @@
   },
   {
     "FileNo_": "INS170728154",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 07:20:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德橫巷62號前",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -419,14 +419,14 @@
   },
   {
     "FileNo_": "INS170728153",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 07:11:09",
     "ReplyUnit_": "B01000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "濱海一路58巷、鼓南街32巷",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該兩巷內路燈全不亮，建請查處。",
     "AfterDesc_": "",
@@ -571,14 +571,14 @@
   },
   {
     "FileNo_": "INS170728145",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/7/28 下午 06:23:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "十全一路上(與民族一路口，愛國國小前)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "管道(工程通報)",
     "BeforeDesc_": "渠反映該處進行道路重鋪施工，將路口封閉，卻未提前設置改道告示牌，建請查處。",
     "AfterDesc_": "",
