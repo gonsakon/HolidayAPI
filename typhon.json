@@ -1,22 +1,22 @@
 [
   {
     "FileNo_": "INS170728208",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/7/28 下午 11:28:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "832",
     "ZipName_": "林園區",
     "address_": "忠孝西路120號前",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:仁愛084)故障不亮，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/7/28 下午 11:29:47",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5070385422",
+    "Lng_": "120.39006787"
   },
   {
     "FileNo_": "INS170728207",
@@ -34,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 11:27:59",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7561400272",
+    "Lng_": "120.306370541"
   },
   {
     "FileNo_": "INS170728206",
@@ -53,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 11:28:05",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7160543269",
+    "Lng_": "120.297828785"
   },
   {
     "FileNo_": "INS170728205",
@@ -72,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 11:26:34",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5098852184",
+    "Lng_": "120.394803828"
   },
   {
     "FileNo_": "INS170728204",
@@ -191,14 +191,14 @@
   },
   {
     "FileNo_": "INS170728198",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/7/28 下午 10:36:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "804",
     "ZipName_": "鼓山區",
     "address_": "登山街與壽山街口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭棄置廢棄桌椅多日，建請查處。",
     "AfterDesc_": "",
@@ -248,14 +248,14 @@
   },
   {
     "FileNo_": "INS170728195",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 10:30:49",
     "ReplyUnit_": "B01000",
     "zipcode_": "827",
     "ZipName_": "彌陀區",
     "address_": "赤崁北路653巷100弄36號旁",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處地點有一盞路燈(編號:南寮150)故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -495,14 +495,14 @@
   },
   {
     "FileNo_": "INS170728182",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 09:10:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "828",
     "ZipName_": "永安區",
     "address_": "維新路光明三巷與光明三巷一弄交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該處有一盞路燈(編號:維新311)故障不亮，建請查處。",
     "AfterDesc_": "",
