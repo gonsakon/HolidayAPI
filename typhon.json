@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170728193",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/28 下午 10:22:34",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "821",
+    "ZipName_": "路竹區",
+    "address_": "北嶺二路和北嶺五路交叉口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "紅綠燈一直呈現閃紅燈狀態，無法正常運作，造成交通混亂。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170728192",
     "Status_": "2",
     "Cre_Date_": "2017/7/28 下午 10:12:19",
@@ -15,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 10:13:25",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6070578289",
+    "Lng_": "120.311294209"
   },
   {
     "FileNo_": "INS170728191",
@@ -34,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 10:09:29",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6375533431",
+    "Lng_": "120.359849098"
   },
   {
     "FileNo_": "INS170728190",
@@ -53,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/28 下午 09:58:43",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6472347764",
+    "Lng_": "120.324308803"
   },
   {
     "FileNo_": "INS170728189",
@@ -96,14 +115,14 @@
   },
   {
     "FileNo_": "INS170728187",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/28 下午 09:37:04",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "港源街與平格街口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處有一非法設置之舊衣回收箱，建請查處。",
     "AfterDesc_": "",
@@ -514,14 +533,14 @@
   },
   {
     "FileNo_": "INS170728165",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/7/28 下午 08:00:22",
     "ReplyUnit_": "A03000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "文橫二路84號(毒家口味)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該址店家屋頂有排放燒烤油煙致空污，建請查處。",
     "AfterDesc_": "",
@@ -723,14 +742,14 @@
   },
   {
     "FileNo_": "INS170728154",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/7/28 下午 07:20:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "英德橫巷62號前",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處一盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "2017/7/28 下午 06:21:50",
     "Lat_": "22.6177761827",
     "Lng_": "120.300707524"
-  },
-  {
-    "FileNo_": "INS170728093",
-    "Status_": "3",
-    "Cre_Date_": "2017/7/28 下午 01:29:27",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "旗亭巷18號，廢棄國小",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該處前方有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/28 下午 01:34:33",
-    "Close_Date_": "",
-    "Lat_": "22.8893299957",
-    "Lng_": "120.456281121"
   }
 ]
