@@ -15,8 +15,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/29 上午 07:47:03",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7066710527",
+    "Lng_": "120.292838807"
   },
   {
     "FileNo_": "INS170729020",
@@ -191,14 +191,14 @@
   },
   {
     "FileNo_": "INS170729011",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/7/29 上午 05:05:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "建國路一段394之1號",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "噪音",
     "BeforeDesc_": "渠反映該處食品加工廠內傳出機具運轉致噪音，建請查處。",
     "AfterDesc_": "",
