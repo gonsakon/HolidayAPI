@@ -1,5 +1,62 @@
 [
   {
+    "FileNo_": "INS170731024",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/31 上午 01:07:08",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "807",
+    "ZipName_": "三民區",
+    "address_": "孝順街505巷",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該巷內的因暴雨積水已快淹至民宅，望請開啟水閘門，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170731023",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/31 上午 01:04:14",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路與翠華路交叉口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處路面已積水至半個輪胎高，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170731022",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/31 上午 01:02:45",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "大中二路上(介於民族一路與文慈路之間)",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處機車道已積水至半個輪胎高，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170731021",
     "Status_": "1",
     "Cre_Date_": "2017/7/31 上午 12:56:04",
@@ -15,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6711609341",
+    "Lng_": "120.323510419"
   },
   {
     "FileNo_": "INS170731020",
@@ -34,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6163522296",
+    "Lng_": "120.301880916"
   },
   {
     "FileNo_": "INS170731019",
@@ -53,8 +110,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6848091672",
+    "Lng_": "120.30610361"
   },
   {
     "FileNo_": "INS170731018",
@@ -72,8 +129,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6160211876",
+    "Lng_": "120.300890582"
   },
   {
     "FileNo_": "INS170731017",
@@ -91,8 +148,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.8846292092",
+    "Lng_": "120.481914166"
   },
   {
     "FileNo_": "INS170731016",
@@ -1841,62 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6948734078",
     "Lng_": "120.301259869"
-  },
-  {
-    "FileNo_": "INS170730100",
-    "Status_": "5",
-    "Cre_Date_": "2017/7/30 下午 06:37:34",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "梓官區同安路58號",
-    "UnitName_": "台電公司",
-    "StatusName_": "解除管制",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "停電",
-    "AfterDesc_": "您好，梓官區多戶無電已於07/30 18:11 通報台電1911客服劉小姐(值機代號8019)成功，受理編號：\r\nC1106517958，感謝您的熱心通報，倘您對案件處理有疑問，歡迎您再電洽1999，謝謝！",
-    "Memo_": "",
-    "Save_Date_": "2017/7/30 下午 07:02:18",
-    "Close_Date_": "2017/7/30 下午 07:02:42",
-    "Lat_": "22.7493596419",
-    "Lng_": "120.266194901"
-  },
-  {
-    "FileNo_": "INS170730099",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/30 下午 06:37:30",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "806",
-    "ZipName_": "前鎮區",
-    "address_": "中山四路上(大魯閣草衙道前，近國道)",
-    "UnitName_": "養工處",
-    "StatusName_": "處理完成",
-    "InformDesc_": "路樹傾倒(一)",
-    "BeforeDesc_": "渠反映該處有一路樹傾倒已影響交通，請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/30 下午 06:38:35",
-    "Close_Date_": "",
-    "Lat_": "22.595161757",
-    "Lng_": "120.316467252"
-  },
-  {
-    "FileNo_": "INS170730098",
-    "Status_": "2",
-    "Cre_Date_": "2017/7/30 下午 06:31:13",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "813",
-    "ZipName_": "左營區",
-    "address_": "店仔頂街38巷10號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "變壓器有聲音",
-    "BeforeDesc_": "渠反映該址前電線桿有火花產生，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/30 下午 06:35:34",
-    "Close_Date_": "",
-    "Lat_": "22.6849875061",
-    "Lng_": "120.291628767"
   }
 ]
