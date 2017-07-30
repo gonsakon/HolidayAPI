@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170731001",
+    "Status_": "2",
+    "Cre_Date_": "2017/7/31 上午 12:04:53",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "和祥街上近漁港路",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "待確認",
+    "InformDesc_": "暴雨積水(一)",
+    "BeforeDesc_": "渠反映該處區域目前呈現淹水情事，且水淹近半個輪胎高，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/7/31 上午 12:06:48",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170730177",
     "Status_": "2",
     "Cre_Date_": "2017/7/30 下午 11:54:40",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6229668587",
     "Lng_": "120.359621025"
-  },
-  {
-    "FileNo_": "INS170730077",
-    "Status_": "2",
-    "Cre_Date_": "2017/7/30 下午 05:17:18",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "中崙路113巷107之2號",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該址無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/30 下午 05:22:26",
-    "Close_Date_": "",
-    "Lat_": "22.760597548",
-    "Lng_": "120.273184566"
   }
 ]
