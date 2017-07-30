@@ -1,11 +1,30 @@
 [
   {
+    "FileNo_": "INS170730051",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/30 下午 02:28:10",
+    "ReplyUnit_": "B02000",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
+    "address_": "鎮東一街與鎮中路交叉口",
+    "UnitName_": "水利局防洪維護科",
+    "StatusName_": "建立中",
+    "InformDesc_": "溝蓋破損(一)",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170730050",
     "Status_": "2",
     "Cre_Date_": "2017/7/30 下午 02:14:48",
     "ReplyUnit_": "A04000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
+    "zipcode_": "806",
+    "ZipName_": "前鎮區",
     "address_": "中山二路與新光路(靠近大遠百側)",
     "UnitName_": "交通局",
     "StatusName_": "待確認",
@@ -15,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 02:17:33",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6119257973",
+    "Lng_": "120.305129516"
   },
   {
     "FileNo_": "INS170730049",
@@ -34,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 02:09:28",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6655648564",
+    "Lng_": "120.409517883"
   },
   {
     "FileNo_": "INS170730048",
@@ -53,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 02:09:45",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6556336034",
+    "Lng_": "120.301010838"
   },
   {
     "FileNo_": "INS170730047",
@@ -248,14 +267,14 @@
   },
   {
     "FileNo_": "INS170730037",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/30 上午 11:28:03",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮東一街與鎮中路交叉口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路面坑洞(一)",
     "BeforeDesc_": "渠反映該路口路面有一坑洞，目前有放置三角錐，恐下雨會越大洞，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "",
     "Lng_": ""
-  },
-  {
-    "FileNo_": "INS170729105",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/29 下午 03:48:01",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "821",
-    "ZipName_": "路竹區",
-    "address_": "中興路197巷39號對面",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處住戶目前正在露天燃燒樹葉，造成空汙，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/29 下午 03:49:33",
-    "Close_Date_": "",
-    "Lat_": "22.8578342238",
-    "Lng_": "120.263352787"
   }
 ]
