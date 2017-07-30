@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170730167",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/30 下午 10:27:33",
+    "ReplyUnit_": "E01005",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營區新庄仔路520號",
+    "UnitName_": "台電公司",
+    "StatusName_": "建立中",
+    "InformDesc_": "變壓器有聲音",
+    "BeforeDesc_": "變電箱 有火花跟聲響",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170730166",
     "Status_": "2",
     "Cre_Date_": "2017/7/30 下午 10:04:38",
@@ -15,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 10:06:11",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5966935005",
+    "Lng_": "120.3154315"
   },
   {
     "FileNo_": "INS170730165",
@@ -34,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 10:06:02",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6295510032",
+    "Lng_": "120.327704999"
   },
   {
     "FileNo_": "INS170730164",
@@ -53,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/30 下午 10:08:00",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6204221506",
+    "Lng_": "120.292886296"
   },
   {
     "FileNo_": "INS170730163",
@@ -1122,14 +1141,14 @@
   },
   {
     "FileNo_": "INS170730106",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/30 下午 06:49:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "中興路一段轉光明路口",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處有兩顆路樹倒塌，建請查處。",
     "AfterDesc_": "",
@@ -1141,14 +1160,14 @@
   },
   {
     "FileNo_": "INS170730105",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/30 下午 06:45:21",
     "ReplyUnit_": "B01000",
     "zipcode_": "843",
     "ZipName_": "美濃區",
     "address_": "光明路上(接近手巾寮)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路樹傾倒(二)",
     "BeforeDesc_": "渠反映該處路面有一棵路樹傾倒於路中，阻擋車輛無法通行，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.7295487107",
     "Lng_": "120.290002707"
-  },
-  {
-    "FileNo_": "INS170730066",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/30 下午 04:43:35",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "澄清路與國泰路二段",
-    "UnitName_": "台電公司",
-    "StatusName_": "處理完成",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處有一電桿傾斜搖晃，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/30 下午 04:52:26",
-    "Close_Date_": "",
-    "Lat_": "22.6248756117",
-    "Lng_": "120.344318386"
   }
 ]
