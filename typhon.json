@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170730060",
+    "Status_": "2",
+    "Cre_Date_": "2017/7/30 下午 03:39:51",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "813",
+    "ZipName_": "左營區",
+    "address_": "左營大路與左營大路4巷前",
+    "UnitName_": "交通局",
+    "StatusName_": "待確認",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "渠反映該處號誌燈控制箱門開啟，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/7/30 下午 03:41:47",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170730059",
     "Status_": "1",
     "Cre_Date_": "2017/7/30 下午 03:33:04",
@@ -134,14 +153,14 @@
   },
   {
     "FileNo_": "INS170730052",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/7/30 下午 02:28:53",
     "ReplyUnit_": "A03000",
     "zipcode_": "807",
     "ZipName_": "三民區",
     "address_": "昌富街與大豐一路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處進行廟會活動，施放鞭炮導致揚塵空污，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6312534767",
     "Lng_": "120.301266681"
-  },
-  {
-    "FileNo_": "INS170729114",
-    "Status_": "2",
-    "Cre_Date_": "2017/7/29 下午 04:41:36",
-    "ReplyUnit_": "E01005",
-    "zipcode_": "842",
-    "ZipName_": "旗山區",
-    "address_": "三協里大坑巷10號周邊住戶",
-    "UnitName_": "台電公司",
-    "StatusName_": "待確認",
-    "InformDesc_": "停電",
-    "BeforeDesc_": "渠反映該處地點無預警停電，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/29 下午 04:48:56",
-    "Close_Date_": "",
-    "Lat_": "22.8640455275",
-    "Lng_": "120.451928717"
   }
 ]
