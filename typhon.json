@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170801005",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 上午 01:22:52",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "847",
+    "ZipName_": "甲仙區",
+    "address_": "台29線28.5K處(未過五里埔、往小林村方向)",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該處目前有發生土石流，導致路面均是土石，造成車輛無法通行，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 上午 01:23:32",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801004",
     "Status_": "2",
     "Cre_Date_": "2017/8/1 上午 12:48:50",
@@ -39,14 +58,14 @@
   },
   {
     "FileNo_": "INS170801002",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 上午 12:39:56",
     "ReplyUnit_": "A03000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國泰路一段與誠意路交叉口(該地點緊鄰欣雄瓦斯)",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處空氣中有彌漫瓦斯異味，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.5071633378",
     "Lng_": "120.387337562"
-  },
-  {
-    "FileNo_": "INS170731254",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 06:55:44",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "德民新橋(往高速公路方向)",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "處理完成",
-    "InformDesc_": "人孔蓋凹陷坑洞(一)",
-    "BeforeDesc_": "渠反映該處有一圓形人孔蓋無蓋子致坑洞，已暫時將蓋子移回望請局處前往檢修，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 06:59:55",
-    "Close_Date_": "",
-    "Lat_": "22.6687969543",
-    "Lng_": "120.31471594"
   }
 ]
