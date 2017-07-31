@@ -1,5 +1,62 @@
 [
   {
+    "FileNo_": "INS170731246",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/31 下午 06:27:45",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "河川街103巷22弄9號旁",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "動物受困",
+    "BeforeDesc_": "渠反映該處屋簷上之鐵架處有一貓隻受困，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170731245",
+    "Status_": "1",
+    "Cre_Date_": "2017/7/31 下午 06:23:05",
+    "ReplyUnit_": "A02000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "鳳山區明和街與明和街2巷口",
+    "UnitName_": "警察局",
+    "StatusName_": "建立中",
+    "InformDesc_": "違規停車",
+    "BeforeDesc_": "红線違停\n車號:1173-X6",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170731244",
+    "Status_": "2",
+    "Cre_Date_": "2017/7/31 下午 06:19:45",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "843",
+    "ZipName_": "美濃區",
+    "address_": "福安里中山路二段415巷",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:福安435)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/7/31 下午 06:23:46",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170731243",
     "Status_": "2",
     "Cre_Date_": "2017/7/31 下午 06:08:20",
@@ -15,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 06:10:11",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6508846494",
+    "Lng_": "120.331022098"
   },
   {
     "FileNo_": "INS170731242",
@@ -34,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 06:10:02",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6424909051",
+    "Lng_": "120.329233243"
   },
   {
     "FileNo_": "INS170731241",
@@ -53,8 +110,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 06:05:52",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5924024071",
+    "Lng_": "120.361924249"
   },
   {
     "FileNo_": "INS170731240",
@@ -1841,62 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.5798832346",
     "Lng_": "120.36231588"
-  },
-  {
-    "FileNo_": "INS170731145",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 12:15:32",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "811",
-    "ZipName_": "楠梓區",
-    "address_": "清豐二路156號前，近土庫三路",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該址前有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 12:17:50",
-    "Close_Date_": "",
-    "Lat_": "22.7367521875",
-    "Lng_": "120.330102308"
-  },
-  {
-    "FileNo_": "INS170731144",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 12:14:57",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "皓東路與大昌二路",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌紅黃燈故障閃爍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 12:16:19",
-    "Close_Date_": "",
-    "Lat_": "22.6479653158",
-    "Lng_": "120.331908229"
-  },
-  {
-    "FileNo_": "INS170731143",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 12:18:41",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "明華路與明倫路交叉",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該路口號誌閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 12:20:13",
-    "Close_Date_": "",
-    "Lat_": "22.6632044902",
-    "Lng_": "120.298089841"
   }
 ]
