@@ -1,22 +1,41 @@
 [
   {
+    "FileNo_": "INS170731330",
+    "Status_": "2",
+    "Cre_Date_": "2017/7/31 下午 09:18:24",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "五甲二路與龍成路口",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面油漬",
+    "BeforeDesc_": "渠反映該處路面有油漬，有員警於現場，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/7/31 下午 09:21:12",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170731329",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/7/31 下午 09:10:46",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "市中一路與賢中街交叉口 ，舊七賢國中一側人行道上",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "人行道設施損壞(一)",
-    "BeforeDesc_": "渠反映該處人行道有多處不平情況，且樹穴又凹陷情形，以致靠近樹穴周邊的紅磚有掉落損毀，建請查處。",
+    "BeforeDesc_": "渠反映該處人行道有多處不平情況，且樹穴有凹陷情形，以致靠近樹穴周邊的紅磚有掉落損毀，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/7/31 下午 09:21:21",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.631532796",
+    "Lng_": "120.28903173"
   },
   {
     "FileNo_": "INS170731328",
@@ -34,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 09:18:02",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.631532796",
+    "Lng_": "120.28903173"
   },
   {
     "FileNo_": "INS170731327",
@@ -53,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 09:09:58",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.625082111",
+    "Lng_": "120.328682816"
   },
   {
     "FileNo_": "INS170731326",
@@ -72,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 09:04:58",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6141182712",
+    "Lng_": "120.405154265"
   },
   {
     "FileNo_": "INS170731325",
@@ -91,8 +110,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 09:00:32",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6096070574",
+    "Lng_": "120.30613625"
   },
   {
     "FileNo_": "INS170731324",
@@ -799,14 +818,14 @@
   },
   {
     "FileNo_": "INS170731286",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 07:31:57",
     "ReplyUnit_": "B01000",
     "zipcode_": "830",
     "ZipName_": "鳳山區",
     "address_": "國昌路3巷",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該巷內有4至5盞路燈故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -1008,14 +1027,14 @@
   },
   {
     "FileNo_": "INS170731275",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 07:21:02",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "樂善街上(憲政路以北路段)",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該路段路燈沿線均故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -1027,14 +1046,14 @@
   },
   {
     "FileNo_": "INS170731274",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 07:20:53",
     "ReplyUnit_": "B01000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "樂善街80號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處附近有6盞路燈不亮，建請查處。",
     "AfterDesc_": "",
@@ -1046,14 +1065,14 @@
   },
   {
     "FileNo_": "INS170731273",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 07:19:28",
     "ReplyUnit_": "B01000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "鎮川三巷122號",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前有一盞路燈故障不亮已有兩天，建請查處。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "2017/7/31 下午 06:07:58",
     "Lat_": "22.7900815511",
     "Lng_": "120.283304001"
-  },
-  {
-    "FileNo_": "INS170731229",
-    "Status_": "3",
-    "Cre_Date_": "2017/7/31 下午 05:23:28",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "松文街37巷口",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "渠反映現該巷口處有一盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 05:26:23",
-    "Close_Date_": "",
-    "Lat_": "22.5733469911",
-    "Lng_": "120.372523864"
   }
 ]
