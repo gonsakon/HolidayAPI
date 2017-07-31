@@ -15,8 +15,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 上午 12:52:26",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6081966713",
+    "Lng_": "120.318968227"
   },
   {
     "FileNo_": "INS170801003",
@@ -34,8 +34,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 上午 12:50:44",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.608581489",
+    "Lng_": "120.31964976"
   },
   {
     "FileNo_": "INS170801002",
@@ -58,19 +58,19 @@
   },
   {
     "FileNo_": "INS170801001",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/8/1 上午 12:23:24",
     "ReplyUnit_": "A04000",
     "zipcode_": "802",
     "ZipName_": "苓雅區",
     "address_": "三多四路與自強三路口",
     "UnitName_": "交通局",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "號誌黃燈不亮",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/8/1 上午 01:01:35",
     "Close_Date_": "",
     "Lat_": "22.6125229998",
     "Lng_": "120.300268241"
