@@ -15,8 +15,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 10:56:44",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.664282436",
+    "Lng_": "120.31885534"
   },
   {
     "FileNo_": "INS170731349",
@@ -39,14 +39,14 @@
   },
   {
     "FileNo_": "INS170731348",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 10:37:06",
     "ReplyUnit_": "A03000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "仁德街與新田路交叉口",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "髒亂清除",
     "BeforeDesc_": "渠反映該處遭棄置數包垃圾，建請查處。",
     "AfterDesc_": "",
