@@ -1,41 +1,60 @@
 [
   {
+    "FileNo_": "INS170731167",
+    "Status_": "2",
+    "Cre_Date_": "2017/7/31 下午 01:50:35",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "814",
+    "ZipName_": "仁武區",
+    "address_": "成功路170之27號",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "縣、鄉道破損",
+    "BeforeDesc_": "渠反映該址左側路面上目前有兩條不明電線裸露，恐生危險，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/7/31 下午 01:54:30",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170731166",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/7/31 下午 01:46:55",
     "ReplyUnit_": "B01000",
     "zipcode_": "813",
     "ZipName_": "左營區",
     "address_": "海功路46巷50號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該址前路燈燈罩脫落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/7/31 下午 01:50:04",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6966273628",
+    "Lng_": "120.297578537"
   },
   {
     "FileNo_": "INS170731165",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/7/31 下午 01:45:50",
     "ReplyUnit_": "B01000",
     "zipcode_": "801",
     "ZipName_": "前金區",
     "address_": "自強一路83巷",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
-    "BeforeDesc_": "新生062",
+    "BeforeDesc_": "渠反映該處有一盞路燈(編號:新生062)底座開關門掉落，建請查處。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/7/31 下午 01:49:39",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6327004196",
+    "Lng_": "120.292465456"
   },
   {
     "FileNo_": "INS170731164",
@@ -53,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7486857721",
+    "Lng_": "120.348442147"
   },
   {
     "FileNo_": "INS170731163",
@@ -72,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 01:43:45",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6862590183",
+    "Lng_": "120.310767961"
   },
   {
     "FileNo_": "INS170731162",
@@ -91,8 +110,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 01:38:11",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7486857721",
+    "Lng_": "120.348442147"
   },
   {
     "FileNo_": "INS170731161",
@@ -110,8 +129,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 01:40:53",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.641602055",
+    "Lng_": "120.315104246"
   },
   {
     "FileNo_": "INS170731160",
@@ -129,8 +148,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 01:41:28",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6329227998",
+    "Lng_": "120.324804765"
   },
   {
     "FileNo_": "INS170731159",
@@ -148,8 +167,8 @@
     "Memo_": "",
     "Save_Date_": "2017/7/31 下午 01:32:30",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5897234937",
+    "Lng_": "120.395901695"
   },
   {
     "FileNo_": "INS170731158",
@@ -609,14 +628,14 @@
   },
   {
     "FileNo_": "INS170731134",
-    "Status_": "2",
+    "Status_": "3",
     "Cre_Date_": "2017/7/31 上午 11:42:05",
     "ReplyUnit_": "B01000",
     "zipcode_": "820",
     "ZipName_": "岡山區",
     "address_": "&#25301;子北街上",
     "UnitName_": "養工處",
-    "StatusName_": "待確認",
+    "StatusName_": "待處理",
     "InformDesc_": "養工-路燈白天未熄(二)",
     "BeforeDesc_": "渠反映於路燈桿號:華崗173旁，有一盞路燈燈頭被吹歪，且白天未熄，建請查修。",
     "AfterDesc_": "",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6891963069",
     "Lng_": "120.311276726"
-  },
-  {
-    "FileNo_": "INS170731066",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 上午 08:49:20",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "826",
-    "ZipName_": "梓官區",
-    "address_": "大宅街60號(梓官國小南門)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "渠反映該處路中有一貓屍，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 上午 08:51:06",
-    "Close_Date_": "",
-    "Lat_": "22.7584184288",
-    "Lng_": "120.265788383"
   }
 ]
