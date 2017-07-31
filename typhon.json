@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170801001",
+    "Status_": "1",
+    "Cre_Date_": "2017/8/1 上午 12:23:24",
+    "ReplyUnit_": "A04000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "三多四路與自強三路口",
+    "UnitName_": "交通局",
+    "StatusName_": "建立中",
+    "InformDesc_": "號誌故障",
+    "BeforeDesc_": "號誌黃燈不亮",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170731350",
     "Status_": "3",
     "Cre_Date_": "2017/7/31 下午 10:54:05",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6655452047",
     "Lng_": "120.280795912"
-  },
-  {
-    "FileNo_": "INS170731250",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 06:42:56",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "827",
-    "ZipName_": "彌陀區",
-    "address_": "進學路77巷",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "髒亂清除",
-    "BeforeDesc_": "局反映該路段路面都是樹枝樹葉造成髒亂，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 06:52:20",
-    "Close_Date_": "",
-    "Lat_": "22.6078773731",
-    "Lng_": "120.394838463"
   }
 ]
