@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170801002",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 上午 12:39:56",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "830",
+    "ZipName_": "鳳山區",
+    "address_": "國泰路一段與誠意路交叉口(該地點緊鄰欣雄瓦斯)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "空氣污染",
+    "BeforeDesc_": "渠反映該處空氣中有彌漫瓦斯異味，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 上午 12:43:14",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801001",
     "Status_": "1",
     "Cre_Date_": "2017/8/1 上午 12:23:24",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6453754425",
     "Lng_": "120.304071845"
-  },
-  {
-    "FileNo_": "INS170731251",
-    "Status_": "4",
-    "Cre_Date_": "2017/7/31 下午 06:43:52",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "804",
-    "ZipName_": "鼓山區",
-    "address_": "逢甲路與鼓山三路口",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌故障不亮，因該處車流量大望盡速修復，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/7/31 下午 06:51:07",
-    "Close_Date_": "",
-    "Lat_": "22.6655452047",
-    "Lng_": "120.280795912"
   }
 ]
