@@ -1,5 +1,43 @@
 [
   {
+    "FileNo_": "INS170801114",
+    "Status_": "1",
+    "Cre_Date_": "2017/8/1 下午 01:28:15",
+    "ReplyUnit_": "E01001",
+    "zipcode_": "811",
+    "ZipName_": "楠梓區",
+    "address_": "右昌街508號",
+    "UnitName_": "動物保護處",
+    "StatusName_": "建立中",
+    "InformDesc_": "攻擊性流浪犬捕捉、動物受傷",
+    "BeforeDesc_": "大型",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170801113",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 下午 01:26:24",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "802",
+    "ZipName_": "苓雅區",
+    "address_": "正義路，近建國一路口",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路面坑洞(一)",
+    "BeforeDesc_": "渠反映該處快車道有路面坑洞，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 下午 01:28:07",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801112",
     "Status_": "2",
     "Cre_Date_": "2017/8/1 下午 01:09:22",
@@ -15,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 01:12:20",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.686351204",
+    "Lng_": "120.304011617"
   },
   {
     "FileNo_": "INS170801111",
@@ -1860,43 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "",
     "Lng_": ""
-  },
-  {
-    "FileNo_": "INS170801014",
-    "Status_": "5",
-    "Cre_Date_": "2017/8/1 上午 06:00:55",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "807",
-    "ZipName_": "三民區",
-    "address_": "中山一路上(河北一路與建國二路間)",
-    "UnitName_": "環保局",
-    "StatusName_": "解除管制",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處有油煙逸散致空污情事，疑似為中山一路326號，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於 8/1 07:05 環保局公害專線中區股陳冠樺先生回報，稽查人員於8/1 7:00到\r\n達,該址為中山一路322號,該處已於106年6月20日由首長簽核僅受理,不予處理,故結案；本案不需回電\r\n故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 上午 06:03:55",
-    "Close_Date_": "2017/8/1 上午 07:14:16",
-    "Lat_": "22.6367995351",
-    "Lng_": "120.302603726"
-  },
-  {
-    "FileNo_": "INS170801013",
-    "Status_": "4",
-    "Cre_Date_": "2017/8/1 上午 05:49:34",
-    "ReplyUnit_": "A04000",
-    "zipcode_": "830",
-    "ZipName_": "鳳山區",
-    "address_": "鳳頂路618號",
-    "UnitName_": "交通局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "號誌故障",
-    "BeforeDesc_": "渠反映該處號誌閃燈，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 上午 05:51:16",
-    "Close_Date_": "",
-    "Lat_": "22.603900597",
-    "Lng_": "120.3617725"
   }
 ]
