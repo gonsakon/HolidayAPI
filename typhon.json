@@ -1,22 +1,41 @@
 [
   {
+    "FileNo_": "INS170801111",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 下午 12:53:40",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "823",
+    "ZipName_": "田寮區",
+    "address_": "台28 近月世界(22 k 至23.5K 之間)",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路面佈滿落葉，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 下午 12:57:06",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801110",
-    "Status_": "1",
+    "Status_": "2",
     "Cre_Date_": "2017/8/1 下午 12:47:20",
     "ReplyUnit_": "B01000",
     "zipcode_": "800",
     "ZipName_": "新興區",
-    "address_": "新興區尚仁街5巷10號",
+    "address_": "尚仁街5巷10號",
     "UnitName_": "養工處",
-    "StatusName_": "建立中",
+    "StatusName_": "待確認",
     "InformDesc_": "路燈故障(一)",
     "BeforeDesc_": "渠反映該處路燈故障不亮，建請查修。",
     "AfterDesc_": "",
     "Memo_": "",
-    "Save_Date_": "",
+    "Save_Date_": "2017/8/1 下午 12:48:46",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6341987333",
+    "Lng_": "120.314747367"
   },
   {
     "FileNo_": "INS170801109",
@@ -34,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 12:38:50",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6704730876",
+    "Lng_": "120.322576919"
   },
   {
     "FileNo_": "INS170801108",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.9145738333",
     "Lng_": "120.493958333"
-  },
-  {
-    "FileNo_": "INS170801011",
-    "Status_": "4",
-    "Cre_Date_": "2017/8/1 上午 04:33:21",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "800",
-    "ZipName_": "新興區",
-    "address_": "民族二路與七賢一路(近民族二路88巷)",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "噪音",
-    "BeforeDesc_": "渠反映該處興富發工地有發電機運轉噪音，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 上午 04:34:56",
-    "Close_Date_": "",
-    "Lat_": "22.6337803802",
-    "Lng_": "120.31373851"
   }
 ]
