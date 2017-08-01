@@ -1,5 +1,43 @@
 [
   {
+    "FileNo_": "INS170801274",
+    "Status_": "1",
+    "Cre_Date_": "2017/8/1 下午 07:56:57",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "845",
+    "ZipName_": "內門區",
+    "address_": "內豊里140號",
+    "UnitName_": "養工處",
+    "StatusName_": "建立中",
+    "InformDesc_": "養工-路燈故障(二)",
+    "BeforeDesc_": "渠反映該處一盞路燈(編號:內豊025)故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170801273",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 下午 07:52:00",
+    "ReplyUnit_": "B01000",
+    "zipcode_": "804",
+    "ZipName_": "鼓山區",
+    "address_": "鼓元街74巷內",
+    "UnitName_": "養工處",
+    "StatusName_": "待確認",
+    "InformDesc_": "路燈故障(一)",
+    "BeforeDesc_": "渠反映該處巷道內路燈都故障不亮，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 下午 07:54:00",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801272",
     "Status_": "2",
     "Cre_Date_": "2017/8/1 下午 07:42:26",
@@ -15,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:44:01",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.595161757",
+    "Lng_": "120.316467252"
   },
   {
     "FileNo_": "INS170801271",
@@ -34,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:42:32",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5874319985",
+    "Lng_": "120.327664363"
   },
   {
     "FileNo_": "INS170801270",
@@ -53,8 +91,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:40:23",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.8626474428",
+    "Lng_": "120.26391958"
   },
   {
     "FileNo_": "INS170801269",
@@ -72,8 +110,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:39:09",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5745190105",
+    "Lng_": "120.322475958"
   },
   {
     "FileNo_": "INS170801268",
@@ -91,8 +129,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:38:01",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5899353711",
+    "Lng_": "120.312025892"
   },
   {
     "FileNo_": "INS170801267",
@@ -110,8 +148,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:36:56",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.610658766",
+    "Lng_": "120.306912002"
   },
   {
     "FileNo_": "INS170801266",
@@ -129,8 +167,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:31:42",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.5672166991",
+    "Lng_": "120.343103971"
   },
   {
     "FileNo_": "INS170801265",
@@ -148,8 +186,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 07:34:40",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7113417402",
+    "Lng_": "120.299667183"
   },
   {
     "FileNo_": "INS170801264",
@@ -229,14 +267,14 @@
   },
   {
     "FileNo_": "INS170801260",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 07:12:36",
     "ReplyUnit_": "B01000",
     "zipcode_": "842",
     "ZipName_": "旗山區",
     "address_": "信義街",
     "UnitName_": "養工處",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "養工-路燈故障(二)",
     "BeforeDesc_": "渠反映該路段沿線路燈皆故障不亮，建請查處。",
     "AfterDesc_": "",
@@ -457,14 +495,14 @@
   },
   {
     "FileNo_": "INS170801247",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 06:46:03",
     "ReplyUnit_": "A04000",
     "zipcode_": "806",
     "ZipName_": "前鎮區",
     "address_": "中安路與明鳳三路交叉口",
     "UnitName_": "交通局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "號誌故障",
     "BeforeDesc_": "渠反映該處路口號誌閃紅燈，建請查處。",
     "AfterDesc_": "",
@@ -666,14 +704,14 @@
   },
   {
     "FileNo_": "INS170801236",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 06:07:50",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路，中正體育場",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處附近有不明化學異味空汙，建請會同查處。",
     "AfterDesc_": "",
@@ -685,14 +723,14 @@
   },
   {
     "FileNo_": "INS170801235",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 06:07:25",
     "ReplyUnit_": "A03000",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "平和路上，小港國小",
     "UnitName_": "環保局",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該路段目前有疑似工廠排放之惡臭異味，建請查處。",
     "AfterDesc_": "",
@@ -1027,14 +1065,14 @@
   },
   {
     "FileNo_": "INS170801217",
-    "Status_": "3",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 04:43:52",
     "ReplyUnit_": "A03000",
     "zipcode_": "831",
     "ZipName_": "大寮區",
     "address_": "田單七街8號(工廠)",
     "UnitName_": "環保局",
-    "StatusName_": "待處理",
+    "StatusName_": "處理完成",
     "InformDesc_": "空氣污染",
     "BeforeDesc_": "渠反映該處目前有煉油產生之惡臭異味，造成空污，建請查處。",
     "AfterDesc_": "",
@@ -1860,43 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6753332094",
     "Lng_": "120.340837651"
-  },
-  {
-    "FileNo_": "INS170801172",
-    "Status_": "3",
-    "Cre_Date_": "2017/8/1 下午 02:43:28",
-    "ReplyUnit_": "B02000",
-    "zipcode_": "802",
-    "ZipName_": "苓雅區",
-    "address_": "正義路，近建國一路口",
-    "UnitName_": "水利局防洪維護科",
-    "StatusName_": "待處理",
-    "InformDesc_": "溝蓋破損(一)",
-    "BeforeDesc_": "渠反映該處快車道有雨水涵管破損導致路面坑洞，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 下午 02:46:13",
-    "Close_Date_": "",
-    "Lat_": "22.6298701661",
-    "Lng_": "120.338390328"
-  },
-  {
-    "FileNo_": "INS170801171",
-    "Status_": "5",
-    "Cre_Date_": "2017/8/1 下午 02:41:47",
-    "ReplyUnit_": "F01022",
-    "zipcode_": "843",
-    "ZipName_": "美濃區",
-    "address_": "福美路567號後方",
-    "UnitName_": "美濃區公所",
-    "StatusName_": "解除管制",
-    "InformDesc_": "",
-    "BeforeDesc_": "渠反映該處因有雷擊致該處山坡地有土石滑落，建請查處。",
-    "AfterDesc_": "【主管解除管制】本案於08/01 16：52美濃區公所經建課涂瑞琴先生回報，人員於08/01 16:35 會同\r\n福安里古里長到場查看，該處未有上述情事，且向該址住戶詢問也表示未有此情況，惟致電陳情人詢\r\n問，陳情人表示未有通報此案；本案不需回電故解除管制。",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 下午 02:43:29",
-    "Close_Date_": "2017/8/1 下午 04:58:30",
-    "Lat_": "22.9027331662",
-    "Lng_": "120.518480059"
   }
 ]
