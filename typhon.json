@@ -1,5 +1,43 @@
 [
   {
+    "FileNo_": "INS170801337",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 下午 11:51:19",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "812",
+    "ZipName_": "小港區",
+    "address_": "中安路728巷7弄39號前",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "渠反映該處路口路面有一貓屍，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 下午 11:53:06",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
+    "FileNo_": "INS170801336",
+    "Status_": "2",
+    "Cre_Date_": "2017/8/1 下午 11:48:10",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "822",
+    "ZipName_": "阿蓮區",
+    "address_": "永豐路21號",
+    "UnitName_": "環保局",
+    "StatusName_": "待確認",
+    "InformDesc_": "噪音",
+    "BeforeDesc_": "渠反映該工廠現有機械運作致噪音情事，建請查處。",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "2017/8/1 下午 11:51:41",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801335",
     "Status_": "2",
     "Cre_Date_": "2017/8/1 下午 11:42:29",
@@ -15,8 +53,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 11:43:55",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.6420539967",
+    "Lng_": "120.340234387"
   },
   {
     "FileNo_": "INS170801334",
@@ -34,8 +72,8 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 11:44:15",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7908403896",
+    "Lng_": "120.305503234"
   },
   {
     "FileNo_": "INS170801333",
@@ -53,19 +91,19 @@
     "Memo_": "",
     "Save_Date_": "2017/8/1 下午 11:44:07",
     "Close_Date_": "",
-    "Lat_": "",
-    "Lng_": ""
+    "Lat_": "22.7918555275",
+    "Lng_": "120.30453339"
   },
   {
     "FileNo_": "INS170801332",
-    "Status_": "2",
+    "Status_": "4",
     "Cre_Date_": "2017/8/1 下午 11:21:55",
     "ReplyUnit_": "E01001",
     "zipcode_": "812",
     "ZipName_": "小港區",
     "address_": "國一南下往小港機場之匝道出口轉彎處旁邊的草皮，大魯閣草衙道附近",
     "UnitName_": "動物保護處",
-    "StatusName_": "待確認",
+    "StatusName_": "處理完成",
     "InformDesc_": "攻擊性流浪犬捕捉、動物受傷",
     "BeforeDesc_": "渠反映該處有一隻被撞傷有吐血情形的黃色土狗，建請查處。",
     "AfterDesc_": "",
@@ -1860,43 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.56246839",
     "Lng_": "120.335380099"
-  },
-  {
-    "FileNo_": "INS170801235",
-    "Status_": "4",
-    "Cre_Date_": "2017/8/1 下午 06:07:25",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路上，小港國小",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該路段目前有疑似工廠排放之惡臭異味，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 下午 06:11:10",
-    "Close_Date_": "",
-    "Lat_": "22.56246839",
-    "Lng_": "120.335380099"
-  },
-  {
-    "FileNo_": "INS170801234",
-    "Status_": "3",
-    "Cre_Date_": "2017/8/1 下午 06:04:53",
-    "ReplyUnit_": "B01000",
-    "zipcode_": "814",
-    "ZipName_": "仁武區",
-    "address_": "文武里文興三巷11號",
-    "UnitName_": "養工處",
-    "StatusName_": "待處理",
-    "InformDesc_": "養工-路燈故障(二)",
-    "BeforeDesc_": "渠反映該址後面1盞路燈故障不亮，建請查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 下午 06:06:30",
-    "Close_Date_": "",
-    "Lat_": "22.7037962152",
-    "Lng_": "120.352685914"
   }
 ]
