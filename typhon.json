@@ -1,5 +1,24 @@
 [
   {
+    "FileNo_": "INS170802001",
+    "Status_": "1",
+    "Cre_Date_": "2017/8/2 上午 12:26:16",
+    "ReplyUnit_": "A03000",
+    "zipcode_": "840",
+    "ZipName_": "大樹區",
+    "address_": "竹寮路往北(台29線90.5公里處)，過台電公司",
+    "UnitName_": "環保局",
+    "StatusName_": "建立中",
+    "InformDesc_": "髒亂清除",
+    "BeforeDesc_": "",
+    "AfterDesc_": "",
+    "Memo_": "",
+    "Save_Date_": "",
+    "Close_Date_": "",
+    "Lat_": "",
+    "Lng_": ""
+  },
+  {
     "FileNo_": "INS170801337",
     "Status_": "2",
     "Cre_Date_": "2017/8/1 下午 11:51:19",
@@ -1879,24 +1898,5 @@
     "Close_Date_": "",
     "Lat_": "22.6243393606",
     "Lng_": "120.330182117"
-  },
-  {
-    "FileNo_": "INS170801236",
-    "Status_": "4",
-    "Cre_Date_": "2017/8/1 下午 06:07:50",
-    "ReplyUnit_": "A03000",
-    "zipcode_": "812",
-    "ZipName_": "小港區",
-    "address_": "平和路，中正體育場",
-    "UnitName_": "環保局",
-    "StatusName_": "處理完成",
-    "InformDesc_": "空氣污染",
-    "BeforeDesc_": "渠反映該處附近有不明化學異味空汙，建請會同查處。",
-    "AfterDesc_": "",
-    "Memo_": "",
-    "Save_Date_": "2017/8/1 下午 06:10:03",
-    "Close_Date_": "",
-    "Lat_": "22.56246839",
-    "Lng_": "120.335380099"
   }
 ]
